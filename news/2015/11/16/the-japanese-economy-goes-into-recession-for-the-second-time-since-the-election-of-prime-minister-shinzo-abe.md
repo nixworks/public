@@ -8,6 +8,7 @@ The Japanese economy shrank 0.2 per cent in the July-September period, slipping 
 ### Source:
 
 1. [Sky News Australia](http://www.skynews.com.au/business/business/world/2015/11/16/japan-sinks-into-recession.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/business/business/world/2015/11/16/skynews_833633088.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

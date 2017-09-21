@@ -8,6 +8,7 @@ Montana officials say 50K gallons of oil may have spilled into picturesque river
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/oil-spill-in-yellowstone-river-in-montana-caught-pretty-quick/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/01/19/a5eda6c0-98c4-4e4e-841a-06e3ccae2324/montanayellowstoneriveristock.jpg)
 
 ### Related:
 

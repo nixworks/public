@@ -8,6 +8,7 @@ Israel has apologised for the spy scandal and has promised it will take steps to
 ### Source:
 
 1. [NZ Herald](http://www.nzherald.co.nz/index.cfm?c_id=1&ObjectID=10332767)
+1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Enes Kanter landed safely back in the United States on Sunday, one day after bei
 ### Source:
 
 1. [ESPN](http://www.espn.com/nba/story/_/id/19431319/enes-kanter-oklahoma-city-thunder-back-united-states-news-conference-monday)
+1. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2017%2F0520%2Fdm_170520_NBA_Young_on_Kanter_in_London%2Fdm_170520_NBA_Young_on_Kanter_in_London.jpg)
 
 ### Related:
 

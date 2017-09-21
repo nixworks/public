@@ -8,6 +8,7 @@ At least three civilians killed and six wounded in attack on Kachin Independence
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/01/201311414410129533.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/14/2013114143656160734_20.jpg)
 
 ### Related:
 

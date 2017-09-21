@@ -8,6 +8,7 @@ A jury has acquitted a Minnesota police officer in the shooting death of a black
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/officer-who-shot-philando-castile-acquitted-manslaughter-charges-n771146)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_24/2032781/170609-jeronimo-yanez-castile-trial-1-ew-608p_7fdf222903070ac0be7821fdc10fd684.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

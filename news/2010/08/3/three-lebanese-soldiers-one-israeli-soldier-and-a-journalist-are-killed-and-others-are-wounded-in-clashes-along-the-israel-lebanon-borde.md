@@ -15,6 +15,7 @@ Three Lebanese soldiers, a senior Israeli officer and a journalist are killed in
 6. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=183546)
 7. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=183536)
 8. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/security-council-weighs-lebanon-clash-20100804-115o5.html)
+8. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

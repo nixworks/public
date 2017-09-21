@@ -8,6 +8,7 @@ UPDATE: Voters approve Proposition 8 banning same-sex marriages. With more than 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-gaymarriage5-2008nov05,0,1545381.story)
+1. [Cover Image](http://www.trbimg.com/img-5418748d/turbine/la-me-gaymarriage5-2008nov05)
 
 ### Related:
 

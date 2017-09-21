@@ -8,6 +8,7 @@ Despite no longer being a tropical storm or depression, Bonnie will induce daily
 ### Source:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/will-bonnie-form-in-the-atlantic-and-impact-eastern-us-coast-during-memorial-day-weekend-rough-seas-rip-currents-heavy-rain/57683397)
+1. [Cover Image](https://accuweather.brightspotcdn.com/57/5777434aa245d4a1ff6f800d48a8b8e8/650x366_05310731_page.jpg)
 
 ### Related:
 

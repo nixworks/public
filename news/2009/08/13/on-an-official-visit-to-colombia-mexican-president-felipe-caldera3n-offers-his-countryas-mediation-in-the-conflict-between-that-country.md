@@ -8,6 +8,7 @@ Mexican president Felipe Calder&oacute;n on an official visit to Colombia offere
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/14/mexico-offers-to-mediate-between-colombia-and-venezuela-and-ecuador)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19823/200x200/700991316164284a626b0cebe8d68562.jpg)
 
 ### Related:
 

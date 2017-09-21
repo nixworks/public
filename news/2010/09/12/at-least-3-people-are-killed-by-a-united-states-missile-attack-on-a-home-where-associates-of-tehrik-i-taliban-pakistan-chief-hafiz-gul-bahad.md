@@ -8,6 +8,7 @@ A suspected U.S. missile strike Sunday killed at least five associates of a warl
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2010/09/11/pakistani-officials-say-airstrike-kills-militants-northwestern-pakistan/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

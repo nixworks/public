@@ -10,6 +10,7 @@ Eight people are missing from two different families following Sunday morning fl
 1. [AP via Yahoo!](http://news.yahoo.com/residents-rescued-flooded-homes-texas-oklahoma-121006744.html)
 2. [CNN](http://us.cnn.com/2015/05/23/weather/texas-oklahoma-flash-flood-warnings/index.html)
 3. [KXAN](http://kxan.com/2015/05/24/family-of-former-nueces-county-commisioner-missing-following-flood/)
+3. [Cover Image](https://lintvkxan.files.wordpress.com/2015/05/missingfamilies.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Popular online file-sharing service LimeWire was shut down by a US federal court
 ### Source:
 
 1. [AFP via ''Melbourne Age](http://www.theage.com.au/technology/technology-news/popular-filesharing-service-limewire-shut-down-20101027-172x3.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/1/7/2/x/a/image.related.articleLeadwide.620x349.172x3.png)
 
 ### Related:
 

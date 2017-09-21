@@ -8,6 +8,7 @@ Ma Ying-jeou begins second term amid protests over living costs and policies see
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125207349306933.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/20/201252073112960734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Voting begins in New Zealand in the first stage of a referendum which could see 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-34876354)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/161AA/production/_86783509_hi020209374.jpg)
 
 ### Related:
 

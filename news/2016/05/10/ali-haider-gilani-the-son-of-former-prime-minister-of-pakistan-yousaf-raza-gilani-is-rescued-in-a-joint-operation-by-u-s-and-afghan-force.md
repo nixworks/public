@@ -8,6 +8,7 @@ US and Afghan forces find the kidnapped son of a former Pakistani prime minister
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-05-10/kidnapped-son-of-former-pakistan-pm-yousaf-raza-gilani-found/7402662)
+1. [Cover Image](http://www.abc.net.au/news/image/4680736-1x1-700x700.jpg)
 
 ### Related:
 

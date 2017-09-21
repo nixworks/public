@@ -8,6 +8,7 @@ Jeremy Corbyn will remain leader of the Labour Party regardless of what happens 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/05/29/general-election-2017-jeremy-corbyn-theresa-may-tv-debate-live/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/05/29/TELEMMGLPICT000130330371-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg)
 
 ### Related:
 

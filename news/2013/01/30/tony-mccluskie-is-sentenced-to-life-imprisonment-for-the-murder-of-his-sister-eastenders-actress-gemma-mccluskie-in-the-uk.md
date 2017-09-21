@@ -8,6 +8,7 @@ Gemma McCluskie&#039;s decapitated body was found in a canal in east London a we
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1045133/eastenders-murder-tony-mccluskie-jailed-for-life)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/tony-mccluskie-and-gemma-split-1-1_3677069.jpg?20160706111035)
 
 ### Related:
 

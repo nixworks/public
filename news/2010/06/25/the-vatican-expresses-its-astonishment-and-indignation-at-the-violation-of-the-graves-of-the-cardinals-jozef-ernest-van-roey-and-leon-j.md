@@ -10,6 +10,7 @@ The Vatican expresses shock at raids, including the &quot;violation&quot; of a c
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062513348541146.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10417102.stm)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/belgian-abuse-raid-on-tombs-angers-vatican-20100626-za3v.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

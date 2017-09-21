@@ -8,6 +8,7 @@ A military fighter jet that left Joint Base Andrews Wednesday morning crashed ab
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/04/05/military-jet-crashes-after-taking-off-from-joint-base-andrews-report.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/04/05/0/0/694940094001_5386171281001_5386154001001-vs.jpg?ve=1)
 
 ### Related:
 

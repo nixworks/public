@@ -8,6 +8,7 @@ Slovenia joined a growing number of European countries that allow same-sex marri
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/04/us-slovenia-gaymarriage-idUSKBN0M00ZP20150304)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150304&t=2&i=1029503474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB230FI)
 
 ### Related:
 

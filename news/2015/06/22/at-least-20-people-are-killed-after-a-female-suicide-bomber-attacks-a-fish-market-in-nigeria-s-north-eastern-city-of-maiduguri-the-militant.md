@@ -8,6 +8,7 @@ At least 20 people have died in a suicide bomb attack at a fish market in the no
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-33232146)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1017/production/_83791140_83791139.jpg)
 
 ### Related:
 

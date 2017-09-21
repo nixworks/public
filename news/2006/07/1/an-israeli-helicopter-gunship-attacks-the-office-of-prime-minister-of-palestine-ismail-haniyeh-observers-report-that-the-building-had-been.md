@@ -10,6 +10,7 @@ The Age 404 Page
 1. [Haaretz](http://www.haaretz.com/hasen/spages/733349.html)
 2. [Melbourne Age](http://www.theage.com.au/news/World/Palestinian-PMs-office-targeted/2006/07/02/1151778796000.html)
 3. [The Australian](http://www.theaustralian.news.com.au/story/0%2C20867%2C19645805-601%2C00.html)
+3. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Italy on Friday recalled its ambassador to Egypt for consultations in protest ov
 ### Source:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/italy-recalls-ambassador-egypt-protest-over-slain-student-163440360.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Zpjl3B2u9MBHXrUiB0_fhg--/aD04MTE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/47bd9dedd3d7f8f069564476bf08bad1c5a8e765.jpg)
 
 ### Related:
 

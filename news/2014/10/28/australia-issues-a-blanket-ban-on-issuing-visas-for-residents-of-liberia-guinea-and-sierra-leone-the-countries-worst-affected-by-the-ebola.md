@@ -8,6 +8,7 @@ Australia came under fire on Tuesday from health experts and rights advocates af
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/10/28/us-health-ebola-australia-idINKBN0IH05120141028)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

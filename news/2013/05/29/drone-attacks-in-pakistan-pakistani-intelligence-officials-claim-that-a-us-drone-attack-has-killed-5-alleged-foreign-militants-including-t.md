@@ -8,6 +8,7 @@ A suspected American strike early Wednesday killed Wali ur-Rehman, the deputy le
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/05/30/world/asia/drone-strike-hits-near-pakistani-afghan-border.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/05/30/world/asia/30pakistan/30pakistan-videoLarge.jpg)
 
 ### Related:
 

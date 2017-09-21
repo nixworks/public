@@ -9,6 +9,7 @@
 
 1. [Hindustan Times](http://www.hindustantimes.com/1-killed-many-injured-in-Varanasi-bomb-blast/Article1-635578.aspx)
 2. [Reuters](http://in.reuters.com/article/idINIndia-53406020101207)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

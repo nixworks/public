@@ -10,6 +10,7 @@ At least seven killed and 21 wounded in Kohat a day after twin blasts left 41 de
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041844327780903.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8627880.stm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/04/18/pakistan.blast/index.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

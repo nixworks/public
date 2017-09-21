@@ -9,6 +9,7 @@ A number of government websites replaced with messages on how to circumvent inte
 
 1. [AP via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0405/breaking39.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/04/20124564229864622.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/5/20124513059822734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russia and Estonia exchange two men convicted of spying over a bridge separating
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34369853)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/18459/production/_85771499_estoniabridge.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ England captain John Terry is to face a criminal charge of using racist language
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-16284813)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57511000/jpg/_57511395_57511394.jpg)
 
 ### Related:
 

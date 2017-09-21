@@ -8,6 +8,7 @@ About 40,000 people abandon Shaddadeh town after three days of heavy clashes bet
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/2013215141241632276.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/15//2013215133518845734_20.jpg)
 
 ### Related:
 

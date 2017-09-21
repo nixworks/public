@@ -10,6 +10,7 @@
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/02/24/new.zealand.earthquake/index.html?hpt=C1#)
 2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708710)
 3. [TV New Zealand](http://tvnz.co.nz/national-news/rain-making-rescue-efforts-more-hazardous-4040248)
+3. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20119/street_1024x76820016.jpg)
 
 ### Related:
 

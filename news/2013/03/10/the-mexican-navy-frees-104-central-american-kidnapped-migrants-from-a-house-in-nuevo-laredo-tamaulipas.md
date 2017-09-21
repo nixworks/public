@@ -8,6 +8,7 @@ Authorities say Mexican marines have freed 104 kidnapped Central American migran
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/10/mexico-kidnapped-migrants/1977425/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

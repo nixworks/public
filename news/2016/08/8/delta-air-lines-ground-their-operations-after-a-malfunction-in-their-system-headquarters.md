@@ -8,6 +8,7 @@ Delta Airlines has grounded flights scheduled to leave Monday after experiencing
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/ct-delta-flights-grounded-system-outage-20160808-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57a89182/turbine/ct-delta-flights-grounded-system-outage-20160808)
 
 ### Related:
 

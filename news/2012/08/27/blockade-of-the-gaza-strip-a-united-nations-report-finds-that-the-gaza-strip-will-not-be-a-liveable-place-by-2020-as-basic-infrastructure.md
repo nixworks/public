@@ -8,6 +8,7 @@ Urgent action is needed to improve basic services in the Gaza Strip or it will n
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19391809)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62518000/jpg/_62518341_62518340.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/03/07/12-killed-gas-leak-china-coal-mine)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20160211001227711722-minihighres.jpg)
 
 ### Related:
 

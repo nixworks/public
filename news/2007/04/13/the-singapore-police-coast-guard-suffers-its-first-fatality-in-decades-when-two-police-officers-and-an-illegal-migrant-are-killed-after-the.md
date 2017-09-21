@@ -9,3 +9,4 @@
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/270334/1/.html)
 2. [SPF](http://www.spf.gov.sg/mic/2007/070414_podied.htm)
+2. [Cover Image](http://www.police.gov.sg/~/media/spf/images/logo/spf_fb.jpg)

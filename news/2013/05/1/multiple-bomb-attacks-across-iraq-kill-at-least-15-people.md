@@ -8,6 +8,7 @@ At least 22 people are killed in attacks across Iraq, police and medics say, aft
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/May-01/215690-car-bomb-in-baghdad-shiite-suburb-kills-four.ashx#axzz2S4eWw3hp)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/05/01/170076_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

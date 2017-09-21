@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21554331)
 2. [CNN](http://edition.cnn.com/2013/02/22/world/f-35-grounded)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60262000/jpg/_60262250_60262249.jpg)
 
 ### Related:
 

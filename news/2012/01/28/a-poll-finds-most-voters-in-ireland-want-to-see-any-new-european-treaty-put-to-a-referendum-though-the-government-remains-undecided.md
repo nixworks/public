@@ -8,6 +8,7 @@ A new opinion poll has show a majority of people in Ireland want to see any new 
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/0128/redc.html)
+1. [Cover Image](https://img.rasset.ie/0004fc7e-1600.jpg)
 
 ### Related:
 

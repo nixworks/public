@@ -8,6 +8,7 @@ President Benigno Aquino III says group that beheaded Canadian man also plotted 
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/philippines-abu-sayyaf-beheaded-canadian-john-ridsdel-manny-pacquiao/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/05/05/8faad159-311f-4ffb-9b6c-11da66ee4fc4/472161836.jpg)
 
 ### Related:
 

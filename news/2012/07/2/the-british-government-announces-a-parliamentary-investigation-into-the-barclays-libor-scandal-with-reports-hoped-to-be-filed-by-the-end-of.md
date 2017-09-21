@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/02/us-britain-libor-idUSBRE8610TG20120702)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

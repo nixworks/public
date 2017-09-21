@@ -13,6 +13,7 @@ Five people were hacked to death on Wednesday in Maiduguri in northeastern Niger
 4. [BBC](http://www.bbc.co.uk/news/world-africa-21162787)
 5. [Reuters](http://www.reuters.com/article/2013/01/22/us-nigeria-violence-idUSBRE90L0P020130122)
 6. [Reuters](http://www.reuters.com/article/2013/01/23/us-nigeria-violence-idUSBRE90M15520130123)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Santos predicts &lsquo;beginning of a new Colombia&rsquo; after victory
 
 1. [Miami Herald](http://www.miamiherald.com/2014/06/15/4179666/colombians-head-to-the-polls-as.html)
 2. [Voice of America](http://www.voanews.com/content/colombias-presidential-vote-referendum-on-peace/1937250.html)
+2. [Cover Image](http://www.miamiherald.com/static/images/miamiherald/facebook.jpg)
 
 ### Related:
 

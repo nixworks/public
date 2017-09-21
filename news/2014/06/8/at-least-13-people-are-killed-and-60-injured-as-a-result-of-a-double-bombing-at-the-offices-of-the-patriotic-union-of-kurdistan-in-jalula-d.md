@@ -8,6 +8,7 @@ Authorities in Iraq say a double bombing at a Kurdish party office has killed 13
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/06/08/iraqi-officials-double-bombing-at-kurdish-party-office-kills-13-northeast/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

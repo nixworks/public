@@ -9,6 +9,7 @@ BHOPAL: Suresh Kaluram Kalai alias Chota Gudda was on Monday sent to police cust
 
 1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Shakuntala+Verma+attack+accused+arrested&id=73080)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1112284.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

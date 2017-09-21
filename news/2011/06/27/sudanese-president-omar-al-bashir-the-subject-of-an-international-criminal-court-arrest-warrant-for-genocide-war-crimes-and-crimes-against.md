@@ -8,6 +8,7 @@ The Sudanese president was scheduled to arrive in China on Monday, but the visit
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/china.bashir.visit/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/27/china.bashir.visit/tzvids.omar.afp.gi.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UPDATE 12.50 - The Constitutional Court of Romania decided to invalidate the res
 ### Source:
 
 1. [Antena 3](http://www.antena3.ro/en/politics/ccr-convenes-to-confirm-referendum-results-the-decision-could-be-postponed-180935.html)
+1. [Cover Image](https://www.antena3.ro/thumbs/big3/2012/08/21/ccr-invalidated-the-results-of-the-referendum-for-the-impeachment-of-president-traian-basescu-164070.jpg)
 
 ### Related:
 

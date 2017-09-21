@@ -8,6 +8,7 @@ Space X’s Falcon 9 rocket has taken off from Cape Canaveral with the JCSAT 16 
 ### Source:
 
 1. [RT](https://www.rt.com/usa/355859-falcon-spacex-launch-canaveral/)
+1. [Cover Image](https://img.rt.com/files/2016.08/article/57b0098cc46188f5018b45b7.jpg)
 
 ### Related:
 

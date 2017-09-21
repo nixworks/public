@@ -8,6 +8,7 @@ An Italian court on Saturday ordered ex-prime minister Silvio Berlusconi to stan
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-italy-berlusconi-idUSKBN15C0HO)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170128&t=2&i=1170526044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0R0CQ)
 
 ### Related:
 

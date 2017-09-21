@@ -10,6 +10,7 @@ Election observers and foreign journalists will not be allowed into Burma for it
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11563764)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/18/myanmar.elections/)
 3. [Sify](http://sify.com/news/myanmar-refuses-to-invite-foreign-election-observers-news-international-kksnkijegaa.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

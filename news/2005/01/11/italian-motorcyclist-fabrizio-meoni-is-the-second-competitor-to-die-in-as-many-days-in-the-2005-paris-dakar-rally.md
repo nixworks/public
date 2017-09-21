@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TSN](http://www.tsn.ca/auto_racing/news_Story.asp?ID=110834)
+1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
 
 ### Related:
 

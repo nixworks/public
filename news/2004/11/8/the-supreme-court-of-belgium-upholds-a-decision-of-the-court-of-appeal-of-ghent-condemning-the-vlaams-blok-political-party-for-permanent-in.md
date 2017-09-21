@@ -1,0 +1,24 @@
+### [2004-11-8](/news/2004/11/8/index.md)
+
+#  The Supreme Court of Belgium upholds a decision of the Court of Appeal of Ghent condemning the Vlaams Blok political party for permanent incitation to racism and discrimination. The decision amounts to banning the party, one of the most popular in Flanders. 
+
+
+
+
+### Source:
+
+1. [AFP](http://uk.biz.yahoo.com/041109/323/f6a5u.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3994867.stm)
+
+### Related:
+
+1. [ The Belgian political party Vlaams Blok changes its name to Vlaams Belang ("Flemish Interest") after being banned for being racist. ](/news/2004/11/14/the-belgian-political-party-vlaams-blok-changes-its-name-to-vlaams-belang-flemish-interest-after-being-banned-for-being-racist.md) _Context: Vlaams Blok, political party_
+2. [Louisiana Governor John Bel Edwards signs an anti-discrimination order protecting the rights of gay and transgender people that rescinds one his immediate predecessor, Bobby Jindal, signed that sought to limit same-sex marriage rights and the ability of transgender people to choose which public restrooms they may use. ](/news/2016/04/13/louisiana-governor-john-bel-edwards-signs-an-anti-discrimination-order-protecting-the-rights-of-gay-and-transgender-people-that-rescinds-one.md) _Context: anti-discrimination_
+3. [Belgium raises its terror alert level to the highest level in the capital Brussels and deploys soldiers on the streets of major Belgian cities such as Brussels, Antwerp and Ghent. As part of the emergency measures, the Belgian government is advising people in the Brussels area to avoid crowded places, which includes concerts, train stations, airports, public transportation, and busy shopping streets, warning of an "imminent threat". ](/news/2015/11/21/belgium-raises-its-terror-alert-level-to-the-highest-level-in-the-capital-brussels-and-deploys-soldiers-on-the-streets-of-major-belgian-citi.md) _Context: Ghent_
+4. [The first panels of the Ghent Altarpiece, the "Lamb of God", are secretly moved from Saint Bavo Cathedral to the Ghent Museum of Fine Arts for a five-year restoration. It is probably the most frequently stolen artwork in history. One panel has been missing since 1934. ](/news/2012/09/12/the-first-panels-of-the-ghent-altarpiece-the-lamb-of-god-are-secretly-moved-from-saint-bavo-cathedral-to-the-ghent-museum-of-fine-arts-f.md) _Context: Ghent_
+5. [Scientists find that middle-class children in Flanders are 15 times more often diagnosed with a learning disorder than poor children. ](/news/2012/09/1/scientists-find-that-middle-class-children-in-flanders-are-15-times-more-often-diagnosed-with-a-learning-disorder-than-poor-children.md) _Context: Flanders_
+6. [Marcus Robinson, due to have been executed in 2007, is ordered off death row after North Carolina Superior Court Judge Gregory Weeks rules his trial was tainted by racial bias, grounds for cancellation of a death sentence under the state's Racial Justice Act. The judge used controversial statistical evidence of bias to grant the change of sentence. ](/news/2012/04/20/marcus-robinson-due-to-have-been-executed-in-2007-is-ordered-off-death-row-after-north-carolina-superior-court-judge-gregory-weeks-rules-h.md) _Context: racial bias_
+7. [John Terry, the captain of the England football team is to face criminal charges over allegations he used racist language towards a black player during a Premier League game. ](/news/2011/12/21/john-terry-the-captain-of-the-england-football-team-is-to-face-criminal-charges-over-allegations-he-used-racist-language-towards-a-black-pl.md) _Context: racial bias_
+8. [Egypt's ruling Supreme Council of the Armed Forces announces a law banning all forms of discrimination, in the wake of recent violence between Coptic protesters and security forces. ](/news/2011/10/17/egypt-s-ruling-supreme-council-of-the-armed-forces-announces-a-law-banning-all-forms-of-discrimination-in-the-wake-of-recent-violence-betwe.md) _Context: anti-discrimination_
+9. [U.S. Agriculture Secretary Tom Vilsack Wednesday apologizes to Shirley Sherrod for firing her over a heavily-edited video tape of a speech, circulated by Tea Party activists, which alleged that Sherrod's actions were the result of racism, and offers her an official job. ](/news/2010/07/22/u-s-agriculture-secretary-tom-vilsack-wednesday-apologizes-to-shirley-sherrod-for-firing-her-over-a-heavily-edited-video-tape-of-a-speech.md) _Context: racial bias_
+10. [The London Review of Books issues a public apology after more than 70 leading British writers, academics and arts figures accuse it of publishing a racist blogpost comparing African migrants to baboons and black shopkeepers to rottweilers. ](/news/2010/07/21/the-london-review-of-books-issues-a-public-apology-after-more-than-70-leading-british-writers-academics-and-arts-figures-accuse-it-of-publi.md) _Context: racial bias_

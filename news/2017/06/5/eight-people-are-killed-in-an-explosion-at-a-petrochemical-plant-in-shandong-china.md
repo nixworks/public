@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-china-blast-idUSKBN18W02E)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

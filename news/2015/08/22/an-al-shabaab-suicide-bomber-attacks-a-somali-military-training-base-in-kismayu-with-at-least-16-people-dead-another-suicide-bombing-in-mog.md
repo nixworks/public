@@ -8,6 +8,7 @@ At least 21 people were killed in two separate suicide car attacks in Somalia on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/22/us-somalia-attack-idUSKCN0QR0LT20150822)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

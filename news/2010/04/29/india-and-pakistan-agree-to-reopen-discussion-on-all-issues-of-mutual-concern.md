@@ -9,6 +9,7 @@ Senior Indian and Pakistani officials pledged Thursday to improve frosty relatio
 
 1. [LA Times](http://www.latimes.com/news/nationworld/world/asia/la-fg-india-pakistan-20100430,0,1592413.story)
 2. [Times of India](http://timesofindia.indiatimes.com/india/India-Pak-agree-ministers-should-meet/articleshow/5874554.cms)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

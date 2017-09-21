@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/college-sports/story/_/id/11328442/judge-rules-ncaa-ed-obannon-antitrust-case)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0614%2Fespnw_wilken_jv_1296x729.jpg)
 
 ### Related:
 

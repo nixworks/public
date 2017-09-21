@@ -8,6 +8,7 @@ Ten police officers were killed and 28 injured during an anti-terrorist operatio
 ### Source:
 
 1. [RT](http://rt.com/news/211395-grozny-chechnya-terror-killed/)
+1. [Cover Image](https://img.rt.com/files/news/33/9c/30/00/chechnya-terror-killed.si.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Philippine police say 182 inmates complaining of hunger and squalid conditions h
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/01/30/182-inmates-escape-from-philippine-jail-in-typhoon-hit-province-most-quickly/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Syrian Observatory for Human Rights, a Britain-based opposition monitor, sai
 ### Source:
 
 1. [The National](http://www.thenational.ae/world/middle-east/syrian-air-strikes-hit-displaced-peoples-camp-near-aleppo)
+1. [Cover Image](http://www.thenational.ae/storyimage/AB/20160804/ARTICLE/160809541/AR/0/AR-160809541.jpg)
 
 ### Related:
 

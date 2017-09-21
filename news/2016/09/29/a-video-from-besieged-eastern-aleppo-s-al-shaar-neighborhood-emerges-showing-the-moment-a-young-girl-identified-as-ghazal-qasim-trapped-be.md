@@ -8,6 +8,7 @@ The footage has emerged as Unicef says 96 children have been killed and 223 have
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.co.uk/dramatic-footage-shows-young-girl-torn-screaming-aleppo-rubble-following-deadly-bomb-attack-1583978)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1553329/aleppo.jpg)
 
 ### Related:
 

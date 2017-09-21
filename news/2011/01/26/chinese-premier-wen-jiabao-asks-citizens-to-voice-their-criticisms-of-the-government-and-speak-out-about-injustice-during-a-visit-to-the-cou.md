@@ -10,6 +10,7 @@ Meeting with farmers and workers seen as a rare public show of concern about dis
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112642958995261.html)
 2. [Sify India](http://www.sify.com/news/for-first-time-chinese-pm-asks-citizens-to-criticize-and-supervise-the-government-news-international-lb0napjhdbe.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-01/26/c_13707506.htm)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/26/20111264462458580_20.jpg)
 
 ### Related:
 

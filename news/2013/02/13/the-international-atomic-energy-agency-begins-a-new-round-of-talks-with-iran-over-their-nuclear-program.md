@@ -8,6 +8,7 @@ As it prepared to meet with the deputy director of the United Nations nuclear wa
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/14/world/middleeast/iran-nuclear-talks.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

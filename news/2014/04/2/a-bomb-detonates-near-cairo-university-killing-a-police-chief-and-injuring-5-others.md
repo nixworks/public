@@ -8,6 +8,7 @@ Several bombs near Cairo university kill a police brigadier-general and wound fi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-26851662)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73975000/jpg/_73975272_73975268.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Congress moves one step closer to fulfilling its first pledge of the 2006 electi
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,291050,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Pro-Russia separatists in eastern Ukraine tell a Russian news agency they seized
 2. [BBC](http://www.bbc.com/news/world-europe-27616126#)
 3. [BBC](http://www.bbc.com/news/world-europe-27618681)
 4. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/10863933/Ukraines-rebels-in-crisis-after-Donetsk-coup.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75166000/jpg/_75166426_75166425.jpg)
 
 ### Related:
 

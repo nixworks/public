@@ -8,6 +8,7 @@ Senegalese residents are voting on a referendum that would see some sweeping con
 ### Source:
 
 1. [The Daily Star](https://www.dailystar.com.lb/News/World/2016/Mar-20/343128-senegal-votes-on-referendum-to-reduce-presidential-term.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2016/03/20/505634_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

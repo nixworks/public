@@ -10,6 +10,7 @@ Former Pakistani military ruler Pervez Musharraf says that his forces trained mi
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11474618)
 2. [Der Spiegel](http://www.spiegel.de/international/world/0,1518,721110,00.html)
 3. [The Asian Age](http://www.asianage.com/international/we-trained-militant-groups-against-india-musharraf-934)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

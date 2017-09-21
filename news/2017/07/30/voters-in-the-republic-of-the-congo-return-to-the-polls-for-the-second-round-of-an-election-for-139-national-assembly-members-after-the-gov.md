@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RFI](http://www.rfi.fr/afrique/20170722-congo-brazzaville-resultats-legislatives-pct-sassou-nguesso)
+1. [Cover Image](http://scd.rfi.fr/sites/filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/000_Par7231415_0.jpg)
 
 ### Related:
 

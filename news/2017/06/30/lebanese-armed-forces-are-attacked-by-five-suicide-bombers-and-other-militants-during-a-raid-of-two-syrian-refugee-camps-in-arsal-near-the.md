@@ -9,6 +9,7 @@ Five suicide bombers attacked Lebanese soldiers as they raided two Syrian refuge
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/suicide-bombers-hit-lebanons-border-area-troops-wounded-48367725)
 2. [Reuters](http://www.reuters.com/article/us-lebanon-security-idUSKBN19L0E0)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170630&t=2&i=1191173224&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5T0OE)
 
 ### Related:
 

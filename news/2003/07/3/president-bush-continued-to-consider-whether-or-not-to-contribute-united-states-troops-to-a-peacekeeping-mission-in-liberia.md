@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2003/07/03/international/africa/03CND-LIBE.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

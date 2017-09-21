@@ -8,6 +8,7 @@ Sweltering summer heat in Japan has left at least 15 people dead over the past w
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/japan-heatwave-kills-15-thousands-hospitalised-045258056.html;_ylt=AwrSyCPTKddTbkAA5RTQtDMD)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Aig2J_5xMRR_vLQFPj2YmA--/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/1e79748d2f27a81b590f6a706700927f.jpg)
 
 ### Related:
 

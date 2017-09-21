@@ -8,6 +8,7 @@ Pfizer Inc (PFE.N) is buying Anacor Pharmaceuticals Inc ANAC.O in a $5.2 billion
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-anacor-pharma-m-a-pfizer-idUSKCN0Y7143?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160516&t=2&i=1137409973&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4F0JP)
 
 ### Related:
 

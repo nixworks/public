@@ -11,6 +11,7 @@ The Real IRA has claimed responsibility for the car bomb that exploded close to 
 2. [RTÉ](http://www.rte.ie/news/2010/0412/holywood.html)
 3. [Times Online](http://www.timesonline.co.uk/tol/news/uk/crime/article7095068.ece)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/12/c_13247544.htm)
+4. [Cover Image](https://img.rasset.ie/00033010-1600.jpg)
 
 ### Related:
 

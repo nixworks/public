@@ -9,6 +9,7 @@ Heavy rains from the outer bands of Hurricane Matthew drenched Haiti and Jamaica
 
 1. [CBS News](http://www.cbsnews.com/news/deadly-hurricane-matthew-pounds-the-caribbean/)
 2. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/040014.shtml?)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/10/03/d0127865-dc89-4a15-820c-3a7ce5795548/ap-16276840905823.jpg)
 
 ### Related:
 

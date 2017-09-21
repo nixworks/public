@@ -8,6 +8,7 @@ A record-breaking attempt to fly around the world in a solar-powered plane compl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-31772140)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81505000/jpg/_81505463_81498258.jpg)
 
 ### Related:
 

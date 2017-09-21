@@ -8,6 +8,7 @@ Shuping Yang praised the &quot;fresh air of free speech&quot; in the U.S. during
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/05/23/529684710/chinese-students-commencement-speech-in-u-s-isnt-going-over-well-in-china)
+1. [Cover Image](https://media.npr.org/assets/img/2017/05/23/commencement-yang_wide-9efc786e7c8a960ac18f395b7e5c14ae60831d21.jpg?s=1400)
 
 ### Related:
 

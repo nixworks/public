@@ -16,6 +16,7 @@ Five suspected al Qaeda members were killed in a clash with Yemeni forces when t
 7. [Reuters](http://in.reuters.com/article/2011/03/26/idINIndia-55899620110326?feedType=RSS&feedName=worldNews)
 8. [Reuters](http://www.reuters.com/article/2011/03/26/libya-brega-rebels-idUSLDE72P0FX20110326)
 9. [al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201132616546326475.html)
+9. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

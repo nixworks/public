@@ -9,6 +9,7 @@ Two brothers aged four and 10 and a woman are killed, and two other women are se
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20842080)
 2. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/25/m6-motorway-closed-after-crash)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64938000/jpg/_64938457_016804942.jpg)
 
 ### Related:
 

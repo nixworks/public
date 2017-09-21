@@ -9,6 +9,7 @@ The Philippines records the fastest-growing HIV/AIDS epidemic in the Asia-Pacifi
 
 1. [ABC.net.au](http://www.abc.net.au/news/2017-08-02/philippines-has-highest-hiv-infection-growth-rate-in-asia/8766702)
 2. [Human Rights Watch](https://www.hrw.org/news/2017/08/01/philippines-hiv-epidemic-declared-national-emergency)
+2. [Cover Image](http://www.abc.net.au/news/image/4937408-1x1-700x700.jpg)
 
 ### Related:
 

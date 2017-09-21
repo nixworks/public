@@ -8,6 +8,7 @@ A third person is charged with murdering three men who were hit by a car in Birm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-14521303)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54540000/jpg/_54540371_threepic118.jpg)
 
 ### Related:
 

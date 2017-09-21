@@ -8,6 +8,7 @@ Mexico has captured major drug trafficker Edgar La Barbie Valdez in a second big
 ### Source:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/31/2998313.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/964250-1x1-700x700.jpg)
 
 ### Related:
 

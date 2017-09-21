@@ -17,6 +17,7 @@ Whistle-blowing website Wikileaks is forced to change its web address after the 
 8. [The Guardian](http://www.guardian.co.uk/world/blog/2010/dec/03/julian-assange-wikileaks)
 9. [The Wall Street Journal](http://blogs.wsj.com/tech-europe/2010/12/03/guardians-assange-live-qa-cripples-server/)
 10. [Toronto Star](http://www.thestar.com/news/world/article/901031--wikileaks-julian-assange-lashes-out-at-former-stephen-harper-aide?bn=1)
+10. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

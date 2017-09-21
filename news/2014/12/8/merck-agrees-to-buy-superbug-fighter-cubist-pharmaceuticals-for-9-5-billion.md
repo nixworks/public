@@ -8,6 +8,7 @@ Merck will buy Cubist Pharmaceuticals in a $9.5 billion deal, giving the major d
 ### Source:
 
 1. [FOX Business](http://www.foxbusiness.com/industries/2014/12/08/merck-takes-aim-at-superbugs-with-5-billion-cubist-buy/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2014/12/08/merck-takes-aim-at-superbugs-with-5-billion-cubist-buy/_jcr_content/image.img.jpg/0/0/1452335870302.jpg?ve=1)
 
 ### Related:
 

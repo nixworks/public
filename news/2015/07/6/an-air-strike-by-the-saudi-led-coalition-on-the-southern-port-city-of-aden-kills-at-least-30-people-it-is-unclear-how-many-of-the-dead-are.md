@@ -8,6 +8,7 @@ Saudi-led coalition bombers strike a suburb of the southern Yemen port city of A
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-33408473)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12CA8/production/_84086967_84086962.jpg)
 
 ### Related:
 

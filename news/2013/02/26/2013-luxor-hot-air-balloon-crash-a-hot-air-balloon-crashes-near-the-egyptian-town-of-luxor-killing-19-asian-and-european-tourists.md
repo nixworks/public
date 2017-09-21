@@ -11,6 +11,7 @@ UK, French, Hong Kong and Japanese nationals are among 19 tourists killed in a h
 2. [CNN](http://edition.cnn.com/2013/02/26/world/africa/egypt-balloon-deaths)
 3. [Reuters](http://www.reuters.com/article/2013/02/26/us-egypt-luxor-balloon-idUSBRE91P04S20130226)
 4. [USA Today](http://www.usatoday.com/story/news/world/2013/02/26/hot-air-balloon-crash-egypt/1947963/)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66083000/jpg/_66083869_66083868.jpg)
 
 ### Related:
 

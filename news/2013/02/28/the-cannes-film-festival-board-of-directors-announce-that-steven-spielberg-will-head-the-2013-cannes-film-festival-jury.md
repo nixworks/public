@@ -8,6 +8,7 @@ With the &#39;Lincoln&#39; director in charge, the film festival will likely get
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/movies/2013/02/28/steven-spielberg-cannes-film-festival/1953267/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

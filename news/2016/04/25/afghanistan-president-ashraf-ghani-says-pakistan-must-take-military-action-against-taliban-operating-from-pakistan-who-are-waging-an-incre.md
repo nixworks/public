@@ -9,6 +9,7 @@ Ghani vowed a tough military response against the insurgents and pledged to enfo
 
 1. [Penske Media Corporation](http://www.india.com/news/world/afghan-president-ashraf-ghani-demands-anti-taliban-action-from-pakistan-1136832/)
 2. [The New York Times](http://www.nytimes.com/2016/04/26/world/asia/afghanistan-pakistan-taliban.html)
+2. [Cover Image](http://www.india.com/wp-content/uploads/2016/01/ashrafghani.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Greece votes in the European elections and the second round of local elections. 
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/05/25/greece-votes-in-european-and-second-round-local-elections/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)

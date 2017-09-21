@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-400_162-57455533/roger-clemens-acquitted-on-all-charges-in-perjury-trial/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/06/18/aab96783-a644-11e2-a3f0-029118418759/Roger_Clemens_AP120618117598.jpg)
 
 ### Related:
 

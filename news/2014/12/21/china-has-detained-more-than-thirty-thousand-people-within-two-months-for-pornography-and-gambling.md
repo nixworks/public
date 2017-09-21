@@ -8,3 +8,4 @@ China has detained over 30,000 people during a two-month clamp down on pornograp
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/22/us-china-internet-idUSKBN0K001720141222)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

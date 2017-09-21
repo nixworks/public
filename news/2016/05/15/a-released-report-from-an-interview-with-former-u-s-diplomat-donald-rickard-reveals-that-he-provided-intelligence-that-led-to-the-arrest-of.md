@@ -8,6 +8,7 @@ A CIA tip off to South Africa&#39;s apartheid regime which led to Nelson Mandela
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/05/15/former-cia-spy-says-he-helped-south-africa-arrest-communist-toy/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/05/15/5926821_MANDELAFILE--MandelaWinnierelease-WORLD-xlarge_trans_NvBQzQNjv4BqqGw_8_YqFn6oOhW46YSWn8It_vCbIF-jgbZpfKMTXAM.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Despite Arab League&#39;s decision to boycott Swiss food giant because it mainta
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272747,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

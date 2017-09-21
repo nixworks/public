@@ -8,6 +8,7 @@ President says natural gas could help cut oil imports. His support could boost c
 ### Source:
 
 1. [Dallas News](http://www.dallasnews.com/business/energy/20110330-obama-endorses-pickens-plan-for-natural-gas-vehicles.ece)
+1. [Cover Image](https://dallasnews.imgix.net/obama.JPG?w=1200&h=630&format=jpg&crop=faces&fit=crop)
 
 ### Related:
 

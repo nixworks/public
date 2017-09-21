@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Cotidianul](http://www.cotidianul.ro/victor-ponta-desemnat-premier-202359/)
+1. [Cover Image](http://mediacotiv1.freenode.ro/images/stiri/1212/135574279324543.jpg)
 
 ### Related:
 

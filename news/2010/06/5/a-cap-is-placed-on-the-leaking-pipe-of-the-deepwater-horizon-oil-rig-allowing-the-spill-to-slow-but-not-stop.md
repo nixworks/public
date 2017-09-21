@@ -8,6 +8,7 @@ The cap is capturing oil, officials say. But there is concern that problems coul
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/06/06/us/06spill.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2010/06/06/us/06spill2/06spill2-thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Three members of a Russian female punk band went on trial on Monday, facing up t
 ### Source:
 
 1. [BBC](http://www.reuters.com/article/2012/07/30/entertainment-us-russia-pussyriot-trial-idUSBRE86S0AZ20120730)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120730&t=2&i=636269633&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86T0ZHH00)
 
 ### Related:
 

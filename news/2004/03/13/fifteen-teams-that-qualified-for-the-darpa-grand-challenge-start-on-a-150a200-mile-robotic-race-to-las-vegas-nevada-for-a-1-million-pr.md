@@ -9,6 +9,7 @@
 
 1. [The Register](http://www.theregister.co.uk/content/28/36231.html)
 2. [The Register](http://www.theregister.co.uk/content/28/36234.html)
+2. [Cover Image](https://regmedia.co.uk/2013/02/05/default_image-2.png?x=1200&y=794)
 
 ### Related:
 

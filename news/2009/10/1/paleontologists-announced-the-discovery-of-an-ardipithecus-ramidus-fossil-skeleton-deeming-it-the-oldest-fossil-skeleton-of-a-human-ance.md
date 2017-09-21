@@ -8,6 +8,7 @@ Scientists said that Ardi, short for Ardipithecus ramidus, was the earliest know
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/10/02/science/02fossil.html)
+1. [Cover Image](https://static01.nyt.com/images/2009/10/02/science/02fossil.75.jpg)
 
 ### Related:
 

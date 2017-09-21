@@ -8,6 +8,7 @@ A Philippine regional trial court has ordered the Bangko Sentral ng Pilipinas (B
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-cyber-heist-philippines-idUSKCN11P0TL)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160919&t=2&i=1154077658&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8I0H6)
 
 ### Related:
 

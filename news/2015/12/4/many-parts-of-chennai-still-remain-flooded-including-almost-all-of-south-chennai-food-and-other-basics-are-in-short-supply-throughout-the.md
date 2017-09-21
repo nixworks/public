@@ -8,6 +8,7 @@ As thousands of residents of Chennai and suburbs were rescued from inundated are
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/city/chennai/With-limited-rations-no-power-or-Net-access-Chennai-is-still-in-deep-water/articleshow/50035766.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/50036837.cms)
 
 ### Related:
 

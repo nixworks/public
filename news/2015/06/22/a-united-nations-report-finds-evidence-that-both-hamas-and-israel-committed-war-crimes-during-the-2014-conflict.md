@@ -8,6 +8,7 @@ Commission chair urges international community to act on conclusions of the repo
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.662389)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.608002.1480604191!/image/1303908620.jpg_gen/derivatives/headline_1200x630/1303908620.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylva
 
 1. [CBS News](http://www.cbsnews.com/news/weis-supermarket-employee-brought-two-guns-to-work-killed-3-and-self-cops/)
 2. [The Times Leader](http://thetimes-tribune.com/news/details-emerging-of-murder-suicide-at-wyoming-county-market-1.2203457)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/06/08/2fba1679-0953-427f-81a0-ddfcf4c7800e/4-shot-pennsuylvania-supermarket-060717.jpg)
 
 ### Related:
 

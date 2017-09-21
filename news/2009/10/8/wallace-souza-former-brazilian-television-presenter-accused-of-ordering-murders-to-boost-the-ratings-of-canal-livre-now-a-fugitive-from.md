@@ -10,6 +10,7 @@ A Brazilian TV presenter accused of ordering murders to boost the ratings of his
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/10/07/brazil.tv.host.missing/index.html)
 2. [RTÉ](http://www.rte.ie/news/2009/1008/brazil.html)
 3. [The Sydney Morning Herald](http://www.smh.com.au/world/host-charged-with-ordering-murders-to-bolster-tv-ratings-flees-20091009-gp9g.html)
+3. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -7,7 +7,7 @@ _Context: Maaouiya Ould Taya, Mauritanian_
 _Context: EU, Polish, referendum_
 
 ### [ The presence of the monkeypox virus in the United States is confirmed with four cases in Wisconsin, sparking the first discovery of the virus in the Western Hemisphere. Dozens of suspected cases have appeared across three Midwest states, where pet enthusiasts came into contact with infected domestic prairie dogs, which caught the disease from the Gambian giant rat.](/news/2003/06/8/the-presence-of-the-monkeypox-virus-in-the-united-states-is-confirmed-with-four-cases-in-wisconsin-sparking-the-first-discovery-of-the-vir.md)
-_Context: Midwest, Wisconsin, monkeypox, prairie dog, rat, the Gambia, virus_
+_Context: Midwest, Wisconsin, anti-viral, monkeypox, prairie dog, rat, the Gambia_
 
 ## [Previous Day...](/news/2003/06/7/index.md)
 

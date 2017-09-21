@@ -8,6 +8,7 @@ Suspected Al-Qaeda militants killed 18 Yemeni soldiers in separate ambushes Tues
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Apr-29/254829-30-dead-as-yemen-army-launches-new-assault-on-qaeda.ashx#axzz30LUUnOrr)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/04/29/308318_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

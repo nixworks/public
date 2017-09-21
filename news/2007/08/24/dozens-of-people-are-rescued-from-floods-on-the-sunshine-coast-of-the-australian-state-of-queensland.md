@@ -8,6 +8,7 @@ Dozens of people have been rescued from rising flood waters and thousands of hom
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2007/08/24/2014358.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/650308-1x1-700x700.jpg)
 
 ### Related:
 

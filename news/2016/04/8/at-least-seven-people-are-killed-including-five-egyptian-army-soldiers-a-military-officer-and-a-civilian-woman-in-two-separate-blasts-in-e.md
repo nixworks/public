@@ -8,6 +8,7 @@ At least five Egyptian soldiers, a military officer and a civilian woman were ki
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-egypt-violence-idUSKCN0X50CT)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

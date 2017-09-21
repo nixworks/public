@@ -11,6 +11,7 @@ Turkey ordered the detention of 42 journalists on Monday, broadcaster NTV report
 2. [CNN](http://www.cnn.com/2016/07/25/world/turkey-coup-attempt-aftermath/)
 3. [NPR](http://www.npr.org/sections/thetwo-way/2016/07/25/487254277/amnesty-international-after-turkeys-failed-coup-some-detainees-are-tortured-rape)
 4. [Reuters](http://www.reuters.com/article/us-turkey-security-idUSKCN1051B0)
+4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160726&t=2&i=1147022480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6O0QJ)
 
 ### Related:
 

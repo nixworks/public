@@ -8,6 +8,7 @@ Grant Shapps quits as a minister amid claims he failed to act on allegations of 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-34952981)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8270/production/_86929333_shapps_bbc.jpg)
 
 ### Related:
 

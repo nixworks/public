@@ -8,3 +8,4 @@ One of the largest leaks in Alberta history has spilled about five million litre
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/edmonton/nexen-pipeline-leak-in-alberta-spills-5-million-litres-1.3155907)
+1. [Cover Image](https://i.cbc.ca/1.3155915.1437084898!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/nexen-long-lake.jpg)

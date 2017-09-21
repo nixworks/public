@@ -11,6 +11,7 @@ Scottish justice minister says Libya had agreed to give convict low-key receptio
 2. [BBC](http://news.bbc.co.uk/1/hi/scotland/8216897.stm)
 3. [The Guardian](http://www.guardian.co.uk/uk/2009/aug/24/macaskill-defends-megrahi-release-lockerbie)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-08/24/content_11937958.htm)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

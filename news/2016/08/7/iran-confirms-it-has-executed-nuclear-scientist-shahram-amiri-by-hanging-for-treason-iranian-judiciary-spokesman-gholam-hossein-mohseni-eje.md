@@ -8,6 +8,7 @@ Iran confirmed Sunday that it has executed an Iranian nuclear scientist.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2016/08/07/iran-nuclear-scientist-us-spy-mystery-executed/88361624/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

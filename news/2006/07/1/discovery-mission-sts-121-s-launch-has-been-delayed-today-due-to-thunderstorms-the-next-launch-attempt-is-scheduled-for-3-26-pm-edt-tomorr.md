@@ -9,6 +9,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/S/SPACE_SHUTTLE?SITE=7219&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2006-07-01-15-51-21)
 2. [NASA](http://www.nasa.gov/mission_pages/shuttle/main/index.html)
+2. [Cover Image](http://www.nasa.gov/sites/default/files/files/nasa_insignia_300.jpg)
 
 ### Related:
 

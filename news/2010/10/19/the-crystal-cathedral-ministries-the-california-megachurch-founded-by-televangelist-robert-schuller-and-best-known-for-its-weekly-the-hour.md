@@ -9,6 +9,7 @@ The Southern California megachurch founded by televangelist Robert Schuller file
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hSeHmXmySFtfRxeCLjpDw8L2TJ4A?docId=7d2a0522c4b042a5af6994153721ad69)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69I0FM20101019)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

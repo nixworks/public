@@ -13,6 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 4. [Getty](http://editorial.gettyimages.com/source/search/details_pop.aspx?iid=714013262)
 5. [Haaretz](http://www.haaretz.com/hasen/spages/735911.html)
 6. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-09T132337Z_01_L04812837_RTRUKOC_0_US-MIDEAST.xml)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

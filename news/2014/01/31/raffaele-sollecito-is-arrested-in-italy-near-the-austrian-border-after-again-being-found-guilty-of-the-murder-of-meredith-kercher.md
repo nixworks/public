@@ -9,6 +9,7 @@ Italian police find Raffaele Sollecito near the Austrian border after a court re
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25978340#TWEET1029760)
 2. [CNN](http://www.cnn.com/2014/01/31/world/europe/italy-amanda-knox-retrial/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72647000/jpg/_72647244_j12dbong.jpg)
 
 ### Related:
 

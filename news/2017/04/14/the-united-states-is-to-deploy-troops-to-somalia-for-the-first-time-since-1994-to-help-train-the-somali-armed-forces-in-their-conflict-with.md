@@ -8,6 +8,7 @@ The last regular US soldiers left after the &quot;Black Hawk Down&quot; killings
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39600419)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F0D7/production/_95455616_gettyimages-460854080.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Down south in A.P., among those who succumbed to the killer heat were 40 persons
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/andhra-pradesh/heat-wave-claims-over-220-lives-in-ap-telangana/article7239790.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article10416544.ece/ALTERNATES/LANDSCAPE_615/heatwave1)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News 24](http://www.news24.com/Africa/News/Ethiopia-19-shot-dead-in-bus-attack-20120313)
+1. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

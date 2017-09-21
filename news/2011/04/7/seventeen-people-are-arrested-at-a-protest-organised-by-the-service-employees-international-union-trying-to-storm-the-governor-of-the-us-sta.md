@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Olympian](http://www.theolympian.com/2011/04/07/1608368/fifteen-arrested-in-budget-protests.html)
+1. [Cover Image](http://www.theolympian.com/latest-news/aurv1b/picture23971798/ALTERNATES/LANDSCAPE_1140/protest5.source.prod_affiliate.38.JPG)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4409583.stm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a6JPk9o62lYY&refer=europe)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8083019)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

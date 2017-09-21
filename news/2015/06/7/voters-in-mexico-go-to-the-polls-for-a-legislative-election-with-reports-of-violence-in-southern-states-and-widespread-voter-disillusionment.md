@@ -8,6 +8,7 @@ Exit poll puts his PRI party ahead with 33% in the lower house elections dominat
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/jun/08/mexican-president-enrique-pena-nieto-set-to-keep-majority-after-mid-terms)
+1. [Cover Image](https://i.guim.co.uk/img/media/0e3f121ad1a908da9d64902168cfe76224e5fa61/0_226_2445_1467/2445.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=eb04aa867d7c6256dea77f3ff701c637)
 
 ### Related:
 

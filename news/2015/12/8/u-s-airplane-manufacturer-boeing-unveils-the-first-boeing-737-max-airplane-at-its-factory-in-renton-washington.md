@@ -9,6 +9,7 @@ Boeing rolls the first 737 MAX out of the hangar, but its lag behind Airbus may 
 
 1. [Seattle Post-Intelligencer](http://www.seattlepi.com/business/boeing/article/Boeing-rolls-out-new-737-MAX-8-airplane-6683288.php)
 2. [The Seattle Times](http://www.seattletimes.com/business/boeing-aerospace/boeing-unveils-the-first-737-max-and-its-new-production-line/)
+2. [Cover Image](http://static.seattletimes.com/wp-content/uploads/2015/12/9df0a318-9dd6-11e5-a4ae-e0c0d4ca3b97-1560x995.jpg)
 
 ### Related:
 

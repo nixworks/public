@@ -8,6 +8,7 @@ A U.N. envoy held talks in Libya on Sunday, as NATO warplanes kept up their bomb
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/africa/05/15/libya.war/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/05/15/libya.war/tzvids.jpg)
 
 ### Related:
 

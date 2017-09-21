@@ -9,6 +9,7 @@ Aligarh (Uttar Padesh), Dec 11 (IANS) Five children of a rickshaw-puller, all ag
 
 1. [Sify India](http://sify.com/news/fire-in-house-kills-five-siblings-all-minors-news-national-kmlkEgjddjc.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/11/c_13645252.htm)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

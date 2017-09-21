@@ -8,6 +8,7 @@ A bomb blast at a Shia mosque in southern Pakistan kills at least 40 people and 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-31056086)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80675000/jpg/_80675941_468fb94f-cb69-48ca-9670-9043a5eb61c0.jpg)
 
 ### Related:
 

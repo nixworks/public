@@ -8,3 +8,4 @@ Floods&#x20;triggered&#x20;by&#x20;heavy&#x20;rains&#x20;and&#x20;a&#x20;river&#
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20161229-floods-dr-congo-leave-dozens-dead-kalamu-weather)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/inondations_rd_congo.jpg)

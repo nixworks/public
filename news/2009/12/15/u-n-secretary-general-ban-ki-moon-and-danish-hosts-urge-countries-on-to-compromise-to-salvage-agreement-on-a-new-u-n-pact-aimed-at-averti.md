@@ -8,6 +8,7 @@ U.N. Secretary-General Ban Ki-moon and Danish conference hosts warned ministers 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE5BD1K220091215)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091215&t=2&i=31839976&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-15T194410Z_01_BTRE5BE1ITQ00_RTROPTP_0_CLIMATE-COPENHAGEN)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 60 people have been killed in the Central African Republic in fighting 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24021425)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69733000/jpg/_69733869_69733868.jpg)
 
 ### Related:
 

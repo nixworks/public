@@ -9,6 +9,7 @@ An Indonesian plane with 54 people on board is missing in Papua region, official
 
 1. [AFP via Yahoo](https://uk.news.yahoo.com/indonesian-plane-carrying-54-loses-contact-papua-officials-081759771.html#LQ6QzSJ)
 2. [BBC](http://www.bbc.com/news/world-asia-33951718)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D53F/production/_84919545_indonesiapapuaoksibil0815.png)
 
 ### Related:
 

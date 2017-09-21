@@ -8,6 +8,7 @@ Kentucky Sen. Rand Paul kicked off his presidential campaign today, vowing to bu
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/politics/elections/2015/04/07/rand-paul-president-2016-announcement/25041783/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

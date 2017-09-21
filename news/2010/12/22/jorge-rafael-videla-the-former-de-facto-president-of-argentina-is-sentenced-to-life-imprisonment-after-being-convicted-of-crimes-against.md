@@ -9,6 +9,7 @@ Former Argentine military ruler Jorge Videla is sentenced to life in prison for 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/2010122221316602539.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12064831)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

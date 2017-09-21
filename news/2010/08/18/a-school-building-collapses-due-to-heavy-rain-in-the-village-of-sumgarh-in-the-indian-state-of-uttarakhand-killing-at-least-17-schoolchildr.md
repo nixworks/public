@@ -9,6 +9,7 @@ Eighteen Class V students in a primary school run by RSS were buried alive and e
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ioW6G2mITX0EkTQC4CJvAFydlnlwD9HLRRI80)
 2. [Times of India](http://timesofindia.indiatimes.com/india/18-children-killed-as-school-roof-collapses-in-Uttarakhand/articleshow/6330766.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

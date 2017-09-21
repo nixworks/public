@@ -9,6 +9,7 @@
 
 1. [P2PNet](http://p2pnet.net/story/830)
 2. [TheRegister](http://www.theregister.co.uk/content/6/35692.html)
+2. [Cover Image](https://regmedia.co.uk/2013/02/05/default_image-2.png?x=1200&y=794)
 
 ### Related:
 

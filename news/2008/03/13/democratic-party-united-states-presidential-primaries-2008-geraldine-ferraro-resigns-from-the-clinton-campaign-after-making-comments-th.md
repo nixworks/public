@@ -8,6 +8,7 @@ In an interview, Geraldine A. Ferraro said that she stood by her controversial r
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/13/us/politics/13ferraro.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/03/13/us/13ferraro.75.jpg)
 
 ### Related:
 

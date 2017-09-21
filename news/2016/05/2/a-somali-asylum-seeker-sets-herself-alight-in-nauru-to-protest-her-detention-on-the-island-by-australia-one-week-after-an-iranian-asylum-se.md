@@ -8,6 +8,7 @@ A Somali woman seeking asylum in Australia has set herself on fire in protest at
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-australia-36186189)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15C29/production/_85292198_getty_nauru.jpg)
 
 ### Related:
 

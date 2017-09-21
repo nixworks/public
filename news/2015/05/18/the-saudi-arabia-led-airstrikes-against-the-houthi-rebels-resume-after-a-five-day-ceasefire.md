@@ -8,6 +8,7 @@ A Saudi-led coalition resumes air strikes against Houthi rebels in Yemen after a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-32776430)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83056000/jpg/_83056754_d7aac377-0524-462d-9e4a-14bd3e01fd3e.jpg)
 
 ### Related:
 

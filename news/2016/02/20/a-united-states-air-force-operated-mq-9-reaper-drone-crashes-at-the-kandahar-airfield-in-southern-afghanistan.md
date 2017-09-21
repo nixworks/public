@@ -8,6 +8,7 @@ An American MQ-9 Reaper has crashed at the Kandahar airbase in southern Afghanis
 ### Source:
 
 1. [RT](https://www.rt.com/usa/333156-us-drone-crash-afghanistan/)
+1. [Cover Image](https://img.rt.com/files/2016.02/article/56c97536c3618895538b4608.jpg)
 
 ### Related:
 

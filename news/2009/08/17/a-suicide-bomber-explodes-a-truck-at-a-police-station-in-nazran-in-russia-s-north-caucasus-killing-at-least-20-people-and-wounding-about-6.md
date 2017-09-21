@@ -9,6 +9,7 @@ The attack in Russia’s tumultuous North Caucasus region was the latest episode
 
 1. [NY Times](http://www.nytimes.com/2009/08/18/world/europe/18russia.html?hp)
 2. [Yahoo! News](http://news.yahoo.com/s/ap/20090817/ap_on_re_eu/eu_russia_caucasus_violence)
+2. [Cover Image](https://static01.nyt.com/images/2009/08/17/world/17cnd-russia.75.jpg)
 
 ### Related:
 

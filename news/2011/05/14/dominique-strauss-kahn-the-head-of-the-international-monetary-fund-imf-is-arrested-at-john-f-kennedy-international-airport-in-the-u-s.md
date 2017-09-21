@@ -10,6 +10,7 @@ The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex a
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13402845)
 2. [New York Daily News](http://www.nydailynews.com/news/world/2011/05/14/2011-05-14_top_french_politician_dominique_strausskahn_dragged_of_flight_at_jfk_accused_of_.html)
 3. [New York Post](http://www.nypost.com/p/news/local/imf_boss_strauss_kahn_arrested_in_Kbd7uAi594vbej3oORXfcJ)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52728000/jpg/_52728239_011980365-2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Coalition confirms 2 killed as apparent suicide attack in east of Afghan capital
 ### Source:
 
 1. [AP via CBS](http://www.cbsnews.com/news/afghanistan-official-says-suicide-attack-targets-us-troops-in-kabul/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/02/10/53a89ee3-12eb-4700-b03e-28304ab49a50/kabul-bomb.jpg)
 
 ### Related:
 

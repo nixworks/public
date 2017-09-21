@@ -8,6 +8,7 @@ Jan Bartunek and Philip Blenkinsop
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eu-canada-trade-idUSKCN12R0XQ)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161027&t=2&i=1159211611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9Q0IQ)
 
 ### Related:
 

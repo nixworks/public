@@ -8,6 +8,7 @@ Twenty-four people have been killed and eight others are missing due to floods a
 ### Source:
 
 1. [The Japan Times](http://www.japantimes.co.jp/life/2014/12/28/environment/floods-mudslides-sri-lanka-leave-24-dead-eight-missing/)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/logo-japan-times_square.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Authorities gave no new date for the announcement of the winner of the president
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/news/world/story/2012-06-20/egypt-election/55715816/1?csp=34news)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2012/06/20/Egypt-president-announcement-delayed-2L1N9B6C-x.jpg)
 
 ### Related:
 

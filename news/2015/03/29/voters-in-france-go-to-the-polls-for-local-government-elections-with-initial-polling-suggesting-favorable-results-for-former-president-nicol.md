@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32104760)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81995000/jpg/_81995606_81995605.jpg)
 
 ### Related:
 

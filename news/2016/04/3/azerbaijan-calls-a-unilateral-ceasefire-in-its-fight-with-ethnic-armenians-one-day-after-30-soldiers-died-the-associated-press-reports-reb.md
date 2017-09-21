@@ -10,6 +10,7 @@ Azerbaijan announces a &quot;unilateral ceasefire&quot; in fighting with Armenia
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_AZERBAIJAN_ARMENIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-europe-35953916?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 3. [NPR](http://www.npr.org/sections/thetwo-way/2016/04/03/472861335/azerbaijan-announces-unilateral-cease-fire-after-sudden-flare-up-of-violence)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/BBFE/production/_89062184_89062183.jpg)
 
 ### Related:
 

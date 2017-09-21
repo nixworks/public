@@ -10,6 +10,7 @@ The Philippines set to work clearing debris, reconnecting power and rebuilding f
 1. [GMA Network](http://www.gmanetwork.com/news/story/370699/news/regions/quezon-placed-under-state-of-calamity-due-to-glenda)
 2. [Reuters](http://www.reuters.com/article/2014/07/17/us-philippines-typhoon-idUSKBN0FM01320140717?feedType=RSS&feedName=topNews)
 3. [WTOP-FM](http://www.wtop.com/233/3663521/Typhoon-spares-Manila-but-kills-12-in-other-parts-of-country)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140717&t=2&i=936781871&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6G0JB)
 
 ### Related:
 

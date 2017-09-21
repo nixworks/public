@@ -8,6 +8,7 @@ YEMEN-MILITANTS/RAID (UPDATE 1):UPDATE 1-At least 27 dead in overnight raid on Y
 ### Source:
 
 1. [Reuters via Trust](http://www.trust.org/item/20140524064852-6bw5q)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/d40fff0d-730d-43dc-b2d6-f1e1b44c11b2/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

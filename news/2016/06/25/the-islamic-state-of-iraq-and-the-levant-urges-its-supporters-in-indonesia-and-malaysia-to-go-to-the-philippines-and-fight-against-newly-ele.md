@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/137573-isis-fight-southeast-asia-philippines)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/649EBB2BC0474FD591CA7E43DF8D7D07/isis-philippines-screenshot-20160625.jpg)
 
 ### Related:
 

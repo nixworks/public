@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-moscow-fights-idUSKCN0Y50PB)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160514&t=2&i=1137275437&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4D0AJ)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4303283.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1668883,00.html)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

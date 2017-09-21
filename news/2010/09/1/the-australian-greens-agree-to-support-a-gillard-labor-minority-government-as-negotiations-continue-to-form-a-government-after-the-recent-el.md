@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE67U5ZE20100901)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100901&t=2&i=194291671&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-01T043208Z_01_BTRE6800CLQ00_RTROPTP_0_AUSTRALIA-ELECTION)
 
 ### Related:
 

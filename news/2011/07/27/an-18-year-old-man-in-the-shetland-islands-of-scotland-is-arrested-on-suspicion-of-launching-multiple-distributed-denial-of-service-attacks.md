@@ -8,6 +8,7 @@ An 18-year-old man is arrested in the Shetland Islands as part of an investigati
 ### Source:
 
 1. [BCC](https://www.bbc.co.uk/news/uk-14315442)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53550000/jpg/_53550886_012258418.jpg)
 
 ### Related:
 

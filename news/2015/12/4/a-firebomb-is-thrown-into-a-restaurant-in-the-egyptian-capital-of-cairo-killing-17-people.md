@@ -8,6 +8,7 @@ A Molotov cocktail hurled at a Cairo restaurant killed 16 people and wounded two
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/12/04/us-egypt-violence-idUSKBN0TN0JT20151204#owZWsxd3Ymbko7h6.97)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151204&t=2&i=1099905930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB311M)
 
 ### Related:
 

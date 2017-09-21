@@ -8,6 +8,7 @@ France&#039;s capital replaces fireworks with a video as Brussels cancels festiv
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1614443/terror-threat-brussels-cancels-nye-festivities)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/gettyimages-460940954-1_3496479.jpg?20160704095108)
 
 ### Related:
 

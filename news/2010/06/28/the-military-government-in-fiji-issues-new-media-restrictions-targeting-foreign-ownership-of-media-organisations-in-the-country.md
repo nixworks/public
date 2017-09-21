@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10432247.stm)
 2. [Hindustan Times](http://www.hindustantimes.com/Fiji-regime-cracks-down-on-media/Article1-564339.aspx)
 3. [The Australian](http://www.theaustralian.com.au/business/media/fiji-dictator-frank-bainimarama-cracks-down-on-press-freedom/story-e6frg996-1225885426213)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

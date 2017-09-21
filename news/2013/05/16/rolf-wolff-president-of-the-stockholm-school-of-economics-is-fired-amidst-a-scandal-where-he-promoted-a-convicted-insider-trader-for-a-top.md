@@ -9,6 +9,7 @@
 
 1. [Dagens Nyheter](http://www.dn.se/ekonomi/handelshogskolans-rektor-far-sparken)
 2. [Dagens industri](http://www.di.se/artiklar/2013/5/16/handelshogskolans-rektor-sparkas/)
+2. [Cover Image](https://cdn01.dn-static.se/dnse/img/dn_black_200x200.jpg)
 
 ### Related:
 

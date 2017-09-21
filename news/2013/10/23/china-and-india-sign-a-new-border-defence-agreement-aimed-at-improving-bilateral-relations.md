@@ -9,6 +9,7 @@ Agreement between economic powerhouses reached after heads of state meet, follow
 
 1. [ABC](http://abcnews.go.com/International/wireStory/china-india-sign-border-cooperation-agreement-20653279?singlePage=true)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/10/china-india-reach-border-defence-pact-2013102363258699437.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/images/2013/10/23//2013102363633875734_20.jpg)
 
 ### Related:
 

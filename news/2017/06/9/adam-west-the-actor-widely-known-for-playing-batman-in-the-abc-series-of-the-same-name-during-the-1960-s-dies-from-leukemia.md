@@ -8,6 +8,7 @@ The US actor struggled to find work after starring as the Caped Crusader in the 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-40235142)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/146B1/production/_96433638_039982690.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@ The US actor struggled to find work after starring as the Caped Crusader in the 
 7. [ Russia's defence minister Sergei Ivanov bars the country's defense ministry from contacting ABC News after the channel broadcast an interview with Chechen rebel Shamil Basayev ](/news/2005/07/31/russia-s-defence-minister-sergei-ivanov-bars-the-country-s-defense-ministry-from-contacting-abc-news-after-the-channel-broadcast-an-intervi.md) _Context: ABC_
 8. [ Grey's Anatomy debuts on ABC](/news/2005/03/27/grey-s-anatomy-debuts-on-abc.md) _Context: ABC_
 9. [CBS and NBC refuse to air an advertisement by the United Church of Christ citing the advocacy of accepting homosexuals is "too controversial". The advertisement was accepted by numerous other networks including Fox, ABC and TBS. ](/news/2004/12/1/cbs-and-nbc-refuse-to-air-an-advertisement-by-the-united-church-of-christ-citing-the-advocacy-of-accepting-homosexuals-is-too-controversial.md) _Context: ABC_
-10. [ A Fathers 4 Justice protester dressed as Batman breaches security at Buckingham Palace and scales a wall. He remains on a balcony for five hours before being arrested by police. ](/news/2004/09/13/a-fathers-4-justice-protester-dressed-as-batman-breaches-security-at-buckingham-palace-and-scales-a-wall-he-remains-on-a-balcony-for-five.md) _Context: Batman_
+10. [ Conflict in Iraq: U.S. Secretary of State Colin Powell says, in an interview on the ABC television interview program "This Week," that the insurgency in Iraq is worsening, and that the aim of the insurgents is to disrupt the upcoming elections. ](/news/2004/09/26/conflict-in-iraq-u-s-secretary-of-state-colin-powell-says-in-an-interview-on-the-abc-television-interview-program-this-week-that-the.md) _Context: ABC_

@@ -11,6 +11,7 @@ JERUSALEM - An Israeli soldier was arrested today on suspicion of links to neo-N
 2. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/headline/world/3169104)
 3. [Israel National News](http://www.israelnationalnews.com/news.php3?id=81448)
 4. [Reuters](http://www.alertnet.org/thenews/newsdesk/L05705312.htm)
+4. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

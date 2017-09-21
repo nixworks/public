@@ -8,6 +8,7 @@ Saudi Arabia says it has broken off diplomatic ties with Iran, amid a row over t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35217328)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0A60/production/_87465620_iransaudinimrprotestepa.jpg)
 
 ### Related:
 

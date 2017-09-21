@@ -8,6 +8,7 @@ The Pope urges efforts to resolve Middle East tensions, and draws attention to t
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10249865.stm)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_AMERICAN_SNIPER_TRIAL?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-us-canada-31617308)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80948000/jpg/_80948113_80939942.jpg)
 
 ### Related:
 

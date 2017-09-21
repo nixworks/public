@@ -8,6 +8,7 @@ Three new Expedition 34 crew members were welcomed aboard the station after the 
 ### Source:
 
 1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition34/e34_launch.html)
+1. [Cover Image](http://www.nasa.gov/sites/default/files/images/716057main_34welcome_226.jpg)
 
 ### Related:
 

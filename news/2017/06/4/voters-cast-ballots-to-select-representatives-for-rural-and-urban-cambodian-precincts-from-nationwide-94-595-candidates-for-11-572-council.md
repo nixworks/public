@@ -10,6 +10,7 @@
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/highly-satisfactory-voter-turnout-in-cambodia-commune-election-8911236)
 2. [Radio Free Asia](http://www.rfa.org/english/news/special/cambodia-commune-election2017/)
 3. [Reuters](https://www.reuters.com/article/us-cambodia-election-idUSKBN18V02J)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170604&t=2&i=1187523342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED530NP)
 
 ### Related:
 

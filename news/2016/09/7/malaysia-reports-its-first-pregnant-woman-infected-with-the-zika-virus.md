@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/sep/07/zika-virus-malaysia-reports-first-case-pregnant-woman)
+1. [Cover Image](https://i.guim.co.uk/img/media/13d1f3321d4f3ec7031a54b5175bc59d8777e708/0_143_3500_2100/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9ef0526568bfc43d826dac62d2e3d4b6)
 
 ### Related:
 

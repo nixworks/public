@@ -9,3 +9,4 @@ Hikers in Canada discover the frozen body of an American ice climber who fell to
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdrkCPfSKwseRHUuw8gCODRms-bQD9HTVV9G0)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-11134084)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

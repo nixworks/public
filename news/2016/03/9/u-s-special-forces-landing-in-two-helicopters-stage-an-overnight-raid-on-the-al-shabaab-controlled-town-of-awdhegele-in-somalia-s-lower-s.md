@@ -9,6 +9,7 @@ US troops accompanied Somali forces in a helicopter raid against Shebab insurgen
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/special-forces-stage-helicopter-raid-somalias-shebab-083932693.html)
 2. [Reuters](http://www.reuters.com/article/us-somalia-attacks-islamist-idUSKCN0WB0MT)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/TTdOgH7V38trMsTLVcGqig--/aD02ODQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par6859730-1-1-0.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Taoiseach Brian Cowen has said he will seek to dissolve the Dáil next Tuesday a
 
 1. [RTÉ](http://www.rte.ie/news/2011/0128/politics.html)
 2. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110128-711012.html)
+2. [Cover Image](https://img.rasset.ie/00041c71-1600.jpg)
 
 ### Related:
 

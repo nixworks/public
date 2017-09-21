@@ -9,6 +9,7 @@ One killed and two injured in Israeli tank shelling in the Gaza strip.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011122112647456348.html)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4017194,00.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/22/20109228654764734_20.jpg)
 
 ### Related:
 

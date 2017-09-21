@@ -8,6 +8,7 @@ Pakistan holds doctor who tried to collect bin Laden DNA
 ### Source:
 
 1. [McClatchy](http://www.mcclatchydc.com/2011/07/11/117445/pakistan-holds-doctor-who-tried.html)
+1. [Cover Image](http://www.mcclatchydc.com/latest-news/bd19sb/picture23393958/ALTERNATES/LANDSCAPE_1140/pakistan-365.source.prod_affiliate.91.jpg)
 
 ### Related:
 

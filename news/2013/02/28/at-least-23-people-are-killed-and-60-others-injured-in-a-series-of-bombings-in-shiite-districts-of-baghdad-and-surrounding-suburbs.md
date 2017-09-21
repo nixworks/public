@@ -9,6 +9,7 @@ Bombings target predominantly Shia Muslim areas in and around Baghdad against a 
 
 1. [AFP via France24](http://www.france24.com/en/20130228-bombings-kill-23-baghdad-area-0)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/201322815546843982.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/17/2013217592617734_20.jpg)
 
 ### Related:
 

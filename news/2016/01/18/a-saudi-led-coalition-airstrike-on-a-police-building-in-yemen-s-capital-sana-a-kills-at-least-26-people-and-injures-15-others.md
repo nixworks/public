@@ -8,6 +8,7 @@ An airstrike launched by the Saudi-led coalition in Yemen killed at least 26 peo
 ### Source:
 
 1. [RT](https://www.rt.com/news/329344-yemen-airstrike-saudi-coalition/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/569d1aa8c3618843568b45c2.jpg)
 
 ### Related:
 

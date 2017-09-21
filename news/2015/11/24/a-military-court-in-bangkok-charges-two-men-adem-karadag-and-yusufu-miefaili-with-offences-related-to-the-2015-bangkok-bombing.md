@@ -8,6 +8,7 @@ Two men face 10 charges in connection with the August 17 bombing at Erawan Shrin
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/11/thai-military-court-charges-bangkok-blast-suspects-151124041245335.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/24/3c8bb8aabb394eab88612637978b2cc5_18.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Madhya Pradesh police shot dead eight Islamist prisoners who had escaped from ja
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/india-simi-prison-bhopal-islamist-idINKBN12V1N9)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161101&t=2&i=1159772566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9U11O)
 
 ### Related:
 

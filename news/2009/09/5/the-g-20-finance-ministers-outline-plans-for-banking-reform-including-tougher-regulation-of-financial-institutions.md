@@ -9,6 +9,7 @@ Finance ministers and centralbank heads from the G20 nations met in London on Fr
 
 1. [MarketWatch](http://www.marketwatch.com/story/g20-outlines-tougher-bank-regulations-2009-09-05)
 2. [Reuters](http://www.reuters.com/article/marketsNews/idUSL566412820090905)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

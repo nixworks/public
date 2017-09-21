@@ -8,6 +8,7 @@ Eastern Ukraine has suffered the worst violence in more than a week as fighting 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/ukraine-soldiers-suffer-worst-loss-of-life-since-ceasefire-began-1.2780917)
+1. [Cover Image](https://i.cbc.ca/1.2781576.1412015433!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ukraine-crisis.jpg)
 
 ### Related:
 

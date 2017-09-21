@@ -8,6 +8,7 @@ Lithuanian prosecutors have charged an employee at the state air navigation comp
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/10/us-lithuania-spying-idUSKCN0IU1W220141110)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

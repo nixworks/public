@@ -8,6 +8,7 @@ INDONESIA-VOLCANO/ (URGENT):Four Indonesian airports closed due to volcanic erup
 ### Source:
 
 1. [Reuters via Trust](http://www.trust.org/item/20150710024523-k8hq8)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/5c11746c-3caf-48aa-84c5-5f1606b8ab62/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

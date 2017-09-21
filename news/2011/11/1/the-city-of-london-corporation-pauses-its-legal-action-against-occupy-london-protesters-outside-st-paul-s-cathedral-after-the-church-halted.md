@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-15541127)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56412000/jpg/_56412368_occupy.jpg)
 
 ### Related:
 

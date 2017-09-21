@@ -9,6 +9,7 @@ Families cry foul as Hamas pulls down houses saying they were built on governmen
 
 1. [Aljazeera](http://english.aljazeera.net/video/middleeast/2010/07/201073112513594641.html)
 2. [Independent Online](http://www.iol.co.za/index.php?set_id=1&click_id=123&art_id=nw20100703145441748C453569)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

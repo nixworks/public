@@ -8,6 +8,7 @@ Hundreds of youth took to the streets, burning shops and cars and clashing with 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/12/08/world/europe/08greece.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/12/08/world/europe/08greece_75.jpg)
 
 ### Related:
 

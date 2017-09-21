@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-06-29/china-earthquake/55930792/1)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2012/06/29/Strong-earthquake-strikes-west-China-OC1PCR87-x.jpg)
 
 ### Related:
 

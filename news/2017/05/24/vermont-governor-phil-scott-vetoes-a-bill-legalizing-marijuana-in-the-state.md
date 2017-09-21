@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Hill](http://thehill.com/homenews/state-watch/334958-vermont-governor-vetoes-marijuana-legalization)
+1. [Cover Image](http://thehill.com/sites/default/files/article_images/marijuana2_getty.jpg)
 
 ### Related:
 

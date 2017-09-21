@@ -8,6 +8,7 @@ A scandal has left President Néstor Kirchner of Argentina and his wife scrambli
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/14/world/americas/14argentina.html?_r=1&ref=world&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/08/14/world/14argentina.75.jpg)
 
 ### Related:
 

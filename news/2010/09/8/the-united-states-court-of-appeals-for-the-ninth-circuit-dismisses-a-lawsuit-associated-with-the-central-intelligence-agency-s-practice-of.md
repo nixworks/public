@@ -8,6 +8,7 @@ A sharply divided appeals court dismissed a lawsuit involving the C.I.A.’s “
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/09/09/us/09secrets.html?_r=1&emc=na)
+1. [Cover Image](https://static01.nyt.com/images/2010/09/09/us/jp-SECRETS/jp-SECRETS-thumbStandard.jpg)
 
 ### Related:
 

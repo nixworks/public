@@ -8,3 +8,4 @@ Darden Restaurants to sell Red Lobster to investment firm Golden Gate Capital fo
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/money/business/2014/05/16/red-lobster-golden-gate-capital-darden/9164335/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

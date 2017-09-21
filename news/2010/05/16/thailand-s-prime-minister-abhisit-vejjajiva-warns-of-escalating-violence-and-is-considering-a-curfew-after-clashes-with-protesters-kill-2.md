@@ -10,6 +10,7 @@
 1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/sns-ap-as-thailand-politics,0,2855333.story)
 2. [The Australian](http://www.theaustralian.com.au/news/world/thailand-to-step-up-security-after-16-die-in-clashes/story-e6frg6so-1225867113534)
 3. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=175672)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

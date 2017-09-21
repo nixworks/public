@@ -9,6 +9,7 @@ An al-Shabab suicide bomber detonated his explosives while hugging a local offic
 
 1. [International Business Times](http://www.ibtimes.com/terrorism-somalia-al-shabab-suicide-bomber-hugs-puntland-official-detonating-2346055)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFKCN0WX0V3)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/03/31/somali-soldier.jpg)
 
 ### Related:
 

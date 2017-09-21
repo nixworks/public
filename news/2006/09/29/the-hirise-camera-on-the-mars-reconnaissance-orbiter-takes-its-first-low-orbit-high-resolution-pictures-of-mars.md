@@ -9,6 +9,7 @@ New images from a low-altitude Mars satellite are giving scientists some of thei
 
 1. [HiRISE team blog](http://hirise.lpl.arizona.edu/HiBlog)
 2. [Space.com](http://www.space.com/missionlaunches/060929_mars_upclose.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMS85ODUvb3JpZ2luYWwvMDYwOTI5X2hpcmlzZV9tYXJzXzAyLmpwZw==)
 
 ### Related:
 

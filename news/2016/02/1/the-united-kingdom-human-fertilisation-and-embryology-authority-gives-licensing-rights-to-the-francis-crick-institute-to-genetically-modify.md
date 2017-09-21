@@ -9,6 +9,7 @@ UK scientists win permission to genetically modify human embryos for the first t
 
 1. [BBC](http://www.bbc.com/news/health-35459054)
 2. [Nature](http://www.nature.com/news/uk-scientists-gain-licence-to-edit-genes-in-human-embryos-1.19270)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/9972/production/_88028293_p6800679-human_blastocyst-spl.jpg)
 
 ### Related:
 

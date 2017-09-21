@@ -8,6 +8,7 @@ Shoot-out at checkpoint set up by pro-Russian separatists leaves three dead and 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2014/04/russia-media-says-five-killed-east-ukraine-201441913302714936.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/4/20/2014420131948992734_20.jpg)
 
 ### Related:
 

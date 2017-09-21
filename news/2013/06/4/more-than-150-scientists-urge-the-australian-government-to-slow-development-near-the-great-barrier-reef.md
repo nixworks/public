@@ -8,6 +8,7 @@ More than 150 marine scientists call on federal and Qld governments to stop all 
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2013-06-05/scientists-warn-of-port-construction-barrier-reef-threat/4734182?section=qld)
+1. [Cover Image](http://www.abc.net.au/news/image/918400-1x1-700x700.jpg)
 
 ### Related:
 

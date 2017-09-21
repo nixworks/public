@@ -8,6 +8,7 @@ The State Department is warning American citizens about the risks of travel to A
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/01/20/us-warns-americans-travel-dangers-in-algeria/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

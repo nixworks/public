@@ -8,6 +8,7 @@ In interview with Al-Jazeera, former U.S. President says he received consent of 
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/carter-hamas-agrees-to-deliver-new-gilad-shalit-letter-1.324425)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.324426.1421164308!/image/95894093.jpg_gen/derivatives/headline_1200x630/95894093.jpg)
 
 ### Related:
 

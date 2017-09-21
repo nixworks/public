@@ -9,6 +9,7 @@ China decides to end its decades-long policy of allowing couples to have only on
 
 1. [Al Jazeera English](http://www.aljazeera.com/news/2015/10/china-child-policy-151029110647826.html)
 2. [BBC News](http://www.bbc.co.uk/news/world-asia-34665539)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1087D/production/_86390776_86390775.jpg)
 
 ### Related:
 

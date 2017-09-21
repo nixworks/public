@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2008/09/02/national/main4409150.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2008/09/03/d921a8b5-a642-11e2-a3f0-029118418759/image4409219x.jpg)
 
 ### Related:
 

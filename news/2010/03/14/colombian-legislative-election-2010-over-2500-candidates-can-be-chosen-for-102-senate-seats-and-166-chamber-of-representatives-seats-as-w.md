@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8562087.stm)
 2. [Direct Democracy](http://mydd.com/2010/3/14/in)
 3. [Reuters](http://www.reuters.com/article/idUSTRE62D13U20100314)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100314&t=2&i=75784853&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-14T174730Z_01_BTRE62D1DFP00_RTROPTP_0_COLOMBIA-ELECTION)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WTVM](http://www.wtvm.com/Global/story.asp?S=5096710&nav=8fap)
+1. [Cover Image](http://wtvm.images.worldnow.com/images/5096710_BG1.jpg)
 
 ### Related:
 

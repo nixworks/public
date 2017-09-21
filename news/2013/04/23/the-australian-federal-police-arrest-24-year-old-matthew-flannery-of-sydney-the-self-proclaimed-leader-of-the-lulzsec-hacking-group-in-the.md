@@ -8,6 +8,7 @@ The AFP says the self-proclaimed leader of international hacking group LulzSec h
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-04-24/lulz-security-hacking-leader-arrested-in-nsw/4648134)
+1. [Cover Image](http://www.abc.net.au/news/image/4648826-1x1-700x700.jpg)
 
 ### Related:
 

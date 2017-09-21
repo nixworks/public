@@ -8,6 +8,7 @@ UEFA.com is the official site of UEFA, the Union of European Football Associatio
 ### Source:
 
 1. [UEFA.com](http://www.uefa.com/competitions/UEFACup/fixturesresults/round=1724/match=75432/Report=RP.html)
+1. [Cover Image](http://img.uefa.com/imgml/2016/uel/social/og-default.jpg)
 
 ### Related:
 

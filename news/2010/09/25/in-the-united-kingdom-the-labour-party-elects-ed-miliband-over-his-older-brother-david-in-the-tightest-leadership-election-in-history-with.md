@@ -10,6 +10,7 @@ Ed Miliband beats his brother David by a wafer thin margin to be elected leader 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/20109251613940641.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-11412031)
 3. [The Guardian](http://www.guardian.co.uk/politics/2010/sep/25/ed-miliband-wins-labour-leadership)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49247000/jpg/_49247823_jex_818436_de27-1.jpg)
 
 ### Related:
 

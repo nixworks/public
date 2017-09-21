@@ -9,6 +9,7 @@ Tensions from clashes in the South China Sea erupt in the most serious outbreak 
 
 1. [AP, Reuters via ''The Age](http://www.theage.com.au/world/antichinese-rioters-on-rampage-in-vietnam-20140514-zrcio.html)
 2. [AP](http://bigstory.ap.org/article/vietnamese-workers-protest-chinese-factories)
+2. [Cover Image](http://www.theage.com.au/content/dam/images/3/8/9/q/f/image.related.articleLeadwide.620x349.zrcio.png/1400046773420.jpg)
 
 ### Related:
 

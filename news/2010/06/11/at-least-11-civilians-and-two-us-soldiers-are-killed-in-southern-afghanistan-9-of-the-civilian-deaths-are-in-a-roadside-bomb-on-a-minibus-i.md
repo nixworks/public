@@ -8,6 +8,7 @@ Thirteen people die in explosions as fighters step up attacks in southern Afghan
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201061174818697945.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Dozens of people have been killed in air strikes on the northern Syrian city of 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/21/us-syria-crisis-airstrike-idUSBREA3K0C220140421?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140421&t=2&i=890551342&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3K12EK00)
 
 ### Related:
 

@@ -10,6 +10,7 @@ National polls scheduled for January in doubt as Tariq al-Hashemi objects to key
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hwK_CSpBxsNuVUEaDuOwmSSCiqGwD9C1SGO00)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/2009111892052209343.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8365801.stm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

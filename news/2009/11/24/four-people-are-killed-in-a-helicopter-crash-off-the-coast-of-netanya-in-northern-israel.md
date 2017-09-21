@@ -10,6 +10,7 @@
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1259010967219&pagename=JPost%2FJPArticle%2FShowFull)
 2. [RTT News](http://www.rttnews.com/ArticleView.aspx?Id=1139216&SMap=1)
 3. [Trend News Agency](http://en.trend.az/regions/met/israel/1587448.html)
+3. [Cover Image](http://www.rttnews.com/images/RTTNews_Small_Logo.jpg)
 
 ### Related:
 

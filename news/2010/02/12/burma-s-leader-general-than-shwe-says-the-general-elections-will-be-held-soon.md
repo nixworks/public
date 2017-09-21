@@ -9,6 +9,7 @@ Senior General says elections to proceed this year but gives no specific dates.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/201021275837638798.html)
 2. [Press Trust of India](http://www.ptinews.com/news/514331_Myanmar-junta-chief-says-elections-will-be--soon-)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

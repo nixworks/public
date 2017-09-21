@@ -11,6 +11,7 @@ With 99 per cent of votes counted, provisional results show referendum passing w
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11274027)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11278602)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/12/c_13491253.htm)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/13/20109135446913734_20.jpg)
 
 ### Related:
 

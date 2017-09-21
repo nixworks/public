@@ -8,6 +8,7 @@ Victims of the attack, including eight youngsters, were shot, stabbed, or burned
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1277557/women-and-children-killed-in-drc-massacre)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/south-kivu-1_3585299.jpg?20160705072943)
 
 ### Related:
 

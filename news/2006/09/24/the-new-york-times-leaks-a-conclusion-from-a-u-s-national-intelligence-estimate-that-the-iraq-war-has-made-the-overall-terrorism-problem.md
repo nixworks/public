@@ -9,6 +9,7 @@ A stark assessment has found that the American invasion and occupation of Iraq h
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5375064.stm)
 2. [The New York Times](http://www.nytimes.com/2006/09/24/world/middleeast/24terror.html?ex=1159761600&en=2745c3a4637e9b72&ei=5009&partner=MSN_NYTHOME)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/8488888.stm)
 2. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2010\01\31\story_31-1-2010_pg1_2)
+2. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

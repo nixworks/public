@@ -9,6 +9,7 @@
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-verizon-yahoo-20160724-snap-story.html)
 2. [Reuters](http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKCN1040U9)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160725&t=2&i=1146889171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6O086)
 
 ### Related:
 

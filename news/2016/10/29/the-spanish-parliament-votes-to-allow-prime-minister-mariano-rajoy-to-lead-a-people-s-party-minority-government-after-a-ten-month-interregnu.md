@@ -8,6 +8,7 @@ Parliament in Spain votes to allow Mariano Rajoy to lead a minority government, 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37813195)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/500E/production/_92149402_mediaitem92149401.jpg)
 
 ### Related:
 

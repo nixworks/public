@@ -8,6 +8,7 @@ Two Panasonic joint ventures were also fined. Taiwanese firm Chunghwa Picture Tu
 ### Source:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/news/international-business/philips-lg-electronics-4-others-fined-1-47-billion-euros-for-eu-cartel/articleshow/17493208.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-17493238,width-672,resizemode-4,imglength-21807/news/international/philips-lg-electronics-4-others-fined-1-47-billion-euros-for-eu-cartel.jpg)
 
 ### Related:
 

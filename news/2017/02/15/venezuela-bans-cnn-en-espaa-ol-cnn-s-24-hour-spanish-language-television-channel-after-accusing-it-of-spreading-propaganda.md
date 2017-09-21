@@ -8,6 +8,7 @@ A report alleged the vice-president was tainted by the sale of passports to terr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38986809)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14CF4/production/_94663258_mediaitem94663254.jpg)
 
 ### Related:
 

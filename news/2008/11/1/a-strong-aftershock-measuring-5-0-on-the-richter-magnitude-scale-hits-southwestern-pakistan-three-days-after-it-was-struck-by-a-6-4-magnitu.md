@@ -8,6 +8,7 @@ A 5.0 magnitude aftershock rattled south-western Pakistan, three days after a po
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2008/11/01/2407593.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

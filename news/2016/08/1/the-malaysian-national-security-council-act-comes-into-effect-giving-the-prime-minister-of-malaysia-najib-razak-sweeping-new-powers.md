@@ -8,6 +8,7 @@ A security law has come into force in Malaysia that gives the Prime Minister, Na
 ### Source:
 
 1. [ABC News PM](http://www.abc.net.au/pm/content/2016/s4511089.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/7648838-1x1-340x340.jpg)
 
 ### Related:
 

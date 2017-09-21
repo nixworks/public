@@ -8,6 +8,7 @@ Private papers released for the first time reveal a meeting kept secret and deni
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17366040)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59136000/jpg/_59136939_003804858-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ranbir Kapoor&#039;s Badtameez Dil seems to have won the hearts of the audience 
 ### Source:
 
 1. [NDTV](http://movies.ndtv.com/bollywood/yeh-jawani-hai-deewani-2013-s-biggest-opener-with-rs-19-45-cr-374003)
+1. [Cover Image](http://i.ndtvimg.com/mt/movies/2013-06/yeh-ranbir-read.jpg)
 
 ### Related:
 

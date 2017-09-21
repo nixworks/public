@@ -11,6 +11,7 @@ The government considered denying North Korea visas to attend the 1966 World Cup
 2. [BBC](http://news.bbc.co.uk/2/hi/uk/10305374.stm)
 3. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20100614/news_20100614_56_675455.htm)
 4. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/offbeat/north-korea-posed-1966-headache-14841287.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

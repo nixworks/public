@@ -8,6 +8,7 @@ Taylor took entertainer of the year. Jason Aldean and The Band Perry won multipl
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/life/music/awards/story/2011-11-09/cma-awards-roundup/51146714/1)
+1. [Cover Image](http://i.usatoday.net/life/_photos/2011/11/09/One-Swift-kick-to-end-the-CMA-Awards-show-KRITSHH-x.jpg)
 
 ### Related:
 

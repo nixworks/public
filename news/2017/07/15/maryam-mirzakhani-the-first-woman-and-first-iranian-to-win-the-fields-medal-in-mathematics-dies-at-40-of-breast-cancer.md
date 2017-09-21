@@ -8,6 +8,7 @@ Stanford University’s Maryam Mirzakhani was the first and only woman to win th
 ### Source:
 
 1. [AP via the ''Seattle Times](http://www.seattletimes.com/nation-world/maryam-mirzakhani-first-woman-to-win-fields-medal-dies/)
+1. [Cover Image](https://static.seattletimes.com/wp-content/uploads/2017/07/FILE_IRAN_MATHEMATICIAN_MIRZAKHANI_OBIT-1200x630.jpg)
 
 ### Related:
 

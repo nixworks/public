@@ -10,6 +10,7 @@
 1. [CNTV via Xinhua](http://news.xinhuanet.com/english/video/2012-09/03/c_131824000.htm)
 2. [The Mainichi](http://mainichi.jp/english/english/newsselect/news/20120903p2g00m0dm065000c.html)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2012/09/02/20/0301000000AEN20120902004051315F.HTML)
+3. [Cover Image]({YNA_TAG_RELATION_IMAGE})
 
 ### Related:
 

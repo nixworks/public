@@ -9,6 +9,7 @@ Dominique Strauss-Kahn has been released from custody at Rikers Island and is ou
 
 1. [NBC New York](http://www.nbcnewyork.com/news/local/IMF-Chief-DSK-Strauss-Kahn-Bail-Released-122315149.html)
 2. [Reuters via ABC News](http://www.abc.net.au/news/stories/2011/05/21/3223056.htm)
+2. [Cover Image](http://media.nbcnewyork.com/images/1200*675/StraussKahnAdd.B.jpg)
 
 ### Related:
 

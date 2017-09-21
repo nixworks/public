@@ -9,6 +9,7 @@ Eleven people died after a 50-year-old building collapsed in Thane late on Monda
 
 1. [AP](http://bigstory.ap.org/article/8bec2e141343456dbb24a883c075849a/building-collapses-near-mumbai-after-heavy-rain-killing-12)
 2. [NDTV](http://www.ndtv.com/cities/6-dead-after-50-year-old-building-collapses-in-thane-1203594)
+2. [Cover Image](http://i.ndtvimg.com/i/2015-08/thane-rescue-ndrf-650_650x400_61438672895.jpg)
 
 ### Related:
 

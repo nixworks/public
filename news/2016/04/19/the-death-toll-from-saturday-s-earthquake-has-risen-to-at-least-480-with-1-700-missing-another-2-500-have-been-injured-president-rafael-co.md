@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36079014)
 2. [CBS News](http://www.cbsnews.com/news/death-toll-nears-500-from-ecuador-earthquake/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/04/19/f5574e55-5cf3-47d2-b2bb-eeee42df7fa2/ecuador-tuesday.jpg)
 
 ### Related:
 

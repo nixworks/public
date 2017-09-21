@@ -9,6 +9,7 @@ Search engine’s attempt to block French order to apply delistings to its googl
 
 1. [PC World](http://www.pcworld.com/article/2984524/privacy/france-rejects-googles-appeal-on-right-to-be-forgotten.html)
 2. [The Guardian](http://www.theguardian.com/technology/2015/sep/21/french-google-right-to-be-forgotten-appeal)
+2. [Cover Image](https://i.guim.co.uk/img/media/a4fb5066d2e33e56aad154a00fb41c5fc139712e/0_22_3500_2101/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=359b2f6e386b33135cc6cd3532b540ce)
 
 ### Related:
 

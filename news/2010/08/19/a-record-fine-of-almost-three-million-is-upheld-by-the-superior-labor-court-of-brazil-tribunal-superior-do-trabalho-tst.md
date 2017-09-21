@@ -10,6 +10,7 @@ A Brazilian court upholds $3m (£1.93m) fine on a company accused of keeping wor
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11021628)
 2. [People's Daily](http://english.people.com.cn/90001/90777/90852/7110054.html)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/crime/news/article.cfm?c_id=30&objectid=10667463&ref=rss)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mali’s army on Tuesday attacked an al-Qaeda base near the Algerian border, kil
 ### Source:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2009/06/18/2003446435)
+1. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

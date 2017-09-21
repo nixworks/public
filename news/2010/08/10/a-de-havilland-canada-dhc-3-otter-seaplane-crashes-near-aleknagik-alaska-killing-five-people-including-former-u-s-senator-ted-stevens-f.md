@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2010/US/08/10/alaska.crash.okeefe.bio/)
 2. [MarketWatch](http://www.marketwatch.com/story/eads-north-america-ceo-in-alaska-plane-crash-2010-08-10)
 3. [Reuters](http://www.reuters.com/article/idUSTRE6792MJ20100810?type=politicsNews)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100810&t=2&i=176949685&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-10T223521Z_01_BTRE6791ES800_RTROPTP_0_USA-CRIME-STEVENS)
 
 ### Related:
 

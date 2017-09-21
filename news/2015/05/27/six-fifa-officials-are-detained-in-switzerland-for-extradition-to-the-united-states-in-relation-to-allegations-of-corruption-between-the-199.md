@@ -12,6 +12,7 @@ Officials were arrested in Switzerland, which is also probing corruption in awar
 3. [AP](http://www.miamiherald.com/news/nation-world/article22442931.html)
 4. [BBC](http://www.bbc.com/news/world-europe-32895048)
 5. [Washington Post](http://www.washingtonpost.com/news/morning-mix/wp/2015/05/27/top-fifa-officials-arrested-in-international-soccer-corruption-investigation-according-to-reports/?wpisrc=al_alert-COMBO-world%252Bnation)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83251000/jpg/_83251223_027406082-1.jpg)
 
 ### Related:
 

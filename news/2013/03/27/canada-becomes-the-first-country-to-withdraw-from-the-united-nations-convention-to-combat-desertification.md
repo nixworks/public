@@ -8,6 +8,7 @@ The Conservative government is pulling out of a United Nations convention aimed 
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/politics/harper-government-quietly-leaving-un-droughts-and-deserts-convention-1.1214065)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1214512.1364439189!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

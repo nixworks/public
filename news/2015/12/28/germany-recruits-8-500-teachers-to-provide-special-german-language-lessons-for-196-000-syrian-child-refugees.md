@@ -9,6 +9,7 @@ Germany has recruited 8,500 teachers to teach German to thousands of child refug
 
 1. [CNN](http://edition.cnn.com/2015/12/28/europe/germany-refugees-8500-new-teachers/index.html)
 2. [The Independent](http://www.independent.co.uk/news/world/europe/germany-recruits-8500-teachers-to-teach-german-to-child-refugees-a6788681.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/12/28/17/Refugee-education-Germany_0.jpg)
 
 ### Related:
 

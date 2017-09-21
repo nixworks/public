@@ -9,6 +9,7 @@ NEW YORK (AP) — Like a busy city, a cell works better if it can dispose of and
 
 1. [AP](http://bigstory.ap.org/article/242b5562d613445b919d280824a69407/nobel-prize-announcements-kick-medicine-award)
 2. [Reuters](http://www.reuters.com/article/us-nobel-prize-medicine-idUSKCN1230TX?il=0)
+2. [Cover Image](http://binaryapi.ap.org/f30b0a5e84644048b23164eb0e54658b/460x.jpg)
 
 ### Related:
 

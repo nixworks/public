@@ -8,6 +8,7 @@ KIEV, Ukraine (AP) — Ukrainian officials have announced the recovery of four p
 ### Source:
 
 1. [AP via ''Seattle Times](http://www.seattletimes.com/nation-world/ukraine-recovers-4-stolen-dutch-paintings/)
+1. [Cover Image](http://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png)
 
 ### Related:
 

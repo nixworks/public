@@ -8,6 +8,7 @@ Four police forces say they are looking into allegations of historical child sex
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-38107910?ocid=socialflow_twitter&ns_mchannel=social&ns_campaign=bbcnews&ns_source=twitter)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17D78/production/_92665679_vdchildsex.jpg)
 
 ### Related:
 

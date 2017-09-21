@@ -8,6 +8,7 @@ The Opposition appears to have confirmed an ABC report revealing that ASIO&#039;
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-05-29/brandis-briefed-by-asio-on-china-hacking-claims/4719886)
+1. [Cover Image](http://www.abc.net.au/news/image/4630312-1x1-700x700.jpg)
 
 ### Related:
 

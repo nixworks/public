@@ -10,6 +10,7 @@ Many rebels have been killed in a government offensive in east Ukraine, acting P
 1. [BBC](http://www.bbc.com/news/world-europe-27259614#)
 2. [CNN](http://edition.cnn.com/2014/05/02/world/europe/ukraine-crisis/index.html)
 3. [Express](http://www.express.co.uk/news/world/473754/Dozens-killed-by-smoke-as-Ukraine-moves-closer-to-civil-war)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74595000/jpg/_74595283_022110683-1.jpg)
 
 ### Related:
 

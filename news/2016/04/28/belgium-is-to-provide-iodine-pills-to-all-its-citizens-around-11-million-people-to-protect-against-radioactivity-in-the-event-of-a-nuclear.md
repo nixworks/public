@@ -8,6 +8,7 @@ Belgium is to provide iodine pills to its entire population of around 11 million
 ### Source:
 
 1. [AFP via Yahoo News!](https://www.yahoo.com/news/belgians-iodine-pills-case-nuclear-accident-114919526.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/TdnwzHcRmV5H5cSTSSYg.w--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par7713300-1-1-0.jpg)
 
 ### Related:
 

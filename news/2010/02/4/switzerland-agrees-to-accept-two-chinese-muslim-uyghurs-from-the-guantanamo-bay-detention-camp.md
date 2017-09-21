@@ -8,6 +8,7 @@ The cabinet says it will admit two Guantanamo prisoners on humanitarian grounds.
 ### Source:
 
 1. [Swissinfo](http://www.swissinfo.ch/eng/politics/foreign_affairs/Switzerland_to_take_in_two_Guantanamo_inmates.html?cid=8227752)
+1. [Cover Image](http://www.swissinfo.ch/image/8227686/3x2/640/426/e89c691f9d26dca97acfdb0fb0c0e5f/eg/000-gyi0058756040-8227688.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Denmark raised its terror attack preparedness on Saturday, the ninth anniversary
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11273771)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5996435,00.html?maca=en-topstories-83-rdf)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE68A1A720100911)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100911&t=2&i=201811793&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-11T202825Z_01_BTRE68A1KVG00_RTROPTP_0_DENMARK-EXPLOSION)
 
 ### Related:
 

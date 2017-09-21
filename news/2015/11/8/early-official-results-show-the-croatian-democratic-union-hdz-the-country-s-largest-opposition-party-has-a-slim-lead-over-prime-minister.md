@@ -11,6 +11,7 @@ Croatia’s ruling center-left coalition faces a strong challenge from a conserv
 2. [EUROPP](http://blogs.lse.ac.uk/europpblog/2015/11/10/croatian-parliamentary-elections-2015-expert-reactions/)
 3. [The Guardian](http://www.theguardian.com/world/live/2015/nov/09/myanmar-elections-aung-san-suu-kyi-hints-at-victory)
 4. [Wall Street Journal](http://www.wsj.com/articles/croatia-holds-first-general-election-since-joining-eu-1446978876)
+4. [Cover Image](https://si.wsj.net/public/resources/images/BN-LD690_croele_TOP_20151108050647.jpg)
 
 ### Related:
 

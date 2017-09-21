@@ -8,6 +8,7 @@ Police fired plastic bullets during a fifth night of rioting in Belfast over a d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20940126)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65144000/jpg/_65144087_tv016867286.jpg)
 
 ### Related:
 

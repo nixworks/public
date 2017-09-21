@@ -8,6 +8,7 @@ Bangladesh orders the partial shut-down of natural gas stations in and around th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10960337)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

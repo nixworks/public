@@ -8,6 +8,7 @@ Threat comes as Dutch ambassador banned from re-entry by Ankara and President Er
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/13/turkey-summons-dutch-envoy-over-riot-police-tactics-in-rotterdam)
+1. [Cover Image](https://i.guim.co.uk/img/media/7c452d2081b66d88a91129bedfa7701f1b7493af/0_0_5184_3110/master/5184.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=277f8882b44d85ecf129e9074b095b30)
 
 ### Related:
 

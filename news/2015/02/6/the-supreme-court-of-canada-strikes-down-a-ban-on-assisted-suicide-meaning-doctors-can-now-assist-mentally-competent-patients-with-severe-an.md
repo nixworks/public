@@ -8,6 +8,7 @@ Canada’s Supreme Court has struck down the country’s 1993 ban on assisted su
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/canada-strikes-down-ban-on-assisted-suicide-10029689.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/02/06/17/canada-assisted-dying-ap.jpg)
 
 ### Related:
 

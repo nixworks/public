@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/world/regions/asia-pacific/145459-philippines-accuses-china-secret-island-building)
+1. [Cover Image](http://assets.rappler.com/58717F3A61D7433CAA48F2093931E35E/img/C4C73D67D410477ABE43652630722930/chinese-ships-bajo-de-masinloc-20160907-004.jpg)
 
 ### Related:
 

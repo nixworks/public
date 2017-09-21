@@ -9,6 +9,7 @@ The US-led coalition admits its planes carried out an attack in eastern Syria th
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37398721)
 2. [The Guardian](https://www.theguardian.com/world/2016/sep/17/russia-says-us-led-airstrikes-hit-syrian-troops-killing-62-and-wounding-dozens)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/161BE/production/_91285509_033909776-1.jpg)
 
 ### Related:
 

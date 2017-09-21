@@ -8,6 +8,7 @@ Utilities were expected to continue struggling as everything re-freezes overnigh
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/storyline/deep-freeze/bone-chilling-catastrophic-winter-blast-wipes-out-power-south-n28156)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2014_07/183331/140212-ice-winter-storm-jms-2300_44cc2639c214cd80cd1f138495c0b136.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

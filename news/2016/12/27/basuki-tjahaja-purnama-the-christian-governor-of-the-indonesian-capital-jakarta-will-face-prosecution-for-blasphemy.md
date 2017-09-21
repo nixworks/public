@@ -8,6 +8,7 @@ An Indonesian court will proceed with a controversial blasphemy trial against Ja
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2016-12-27/indonesia-court-to-proceed-with-blasphemy-trial-of-jakarta/8149656)
+1. [Cover Image](http://www.abc.net.au/news/image/8149774-1x1-700x700.jpg)
 
 ### Related:
 

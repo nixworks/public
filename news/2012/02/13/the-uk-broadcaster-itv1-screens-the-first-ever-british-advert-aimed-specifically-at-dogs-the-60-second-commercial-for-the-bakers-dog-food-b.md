@@ -8,6 +8,7 @@ If your dog starts barking at the television this evening, don&#039;t be alarmed
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/family/pets/9077741/First-advert-for-dogs-to-reach-British-TV-screens.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01480/dogs11_1480413a.jpg)
 
 ### Related:
 

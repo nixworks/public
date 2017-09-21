@@ -9,6 +9,7 @@ The Bihar poll outcome is sure to make life tougher for Modi in Parliament to pu
 
 1. [FirstPost.com](http://www.firstpost.com/business/bihar-results-on-reforms-front-pm-modis-life-likely-to-get-a-lot-tougher-now-2499738.html)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/08/455248627/indias-narendra-modi-concedes-bjp-party-defeat-in-state-election)
+2. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2015/11/Narendra_Modi_PTI5.jpg)
 
 ### Related:
 

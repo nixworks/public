@@ -8,6 +8,7 @@ Brazilian actor Tiago Klimeck dies after accidentally hanging himself while play
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17817352)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

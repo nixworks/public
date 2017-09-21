@@ -8,6 +8,7 @@ Thousands of Home Office workers, including Border Agency staff, are to stage a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18912742)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61451000/jpg/_61451699_61451698.jpg)
 
 ### Related:
 

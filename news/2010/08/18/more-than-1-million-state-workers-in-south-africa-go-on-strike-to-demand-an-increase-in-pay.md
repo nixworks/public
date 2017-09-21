@@ -10,6 +10,7 @@ About 1.3 million public service workers could walk out in coming days in protes
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/2010818125254251434.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE67H27I20100818)
 3. [Times Live](http://www.timeslive.co.za/local/article608485.ece/Big-strike-on-from-today)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

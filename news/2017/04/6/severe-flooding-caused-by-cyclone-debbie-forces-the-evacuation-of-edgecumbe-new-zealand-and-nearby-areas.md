@@ -8,6 +8,7 @@ Local officials are calling it a once-in-500-years event.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39511326)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/184A/production/_95481260_mediaitem95481519.jpg)
 
 ### Related:
 

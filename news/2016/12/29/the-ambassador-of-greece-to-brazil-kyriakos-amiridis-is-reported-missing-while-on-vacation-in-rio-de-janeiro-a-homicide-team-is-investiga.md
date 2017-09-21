@@ -9,6 +9,7 @@
 
 1. [BNO News](http://bnonews.com/news/index.php/news/id5585)
 2. [O Globo](http://oglobo.globo.com/rio/embaixador-da-grecia-esta-desaparecido-no-rio-ha-3-dias-20706463)
+2. [Cover Image](https://ogimg.infoglobo.com.br/in/20706434-9eb-d17/FT1086A/grego.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ TWO people have come forward claiming they know what caused Flight MH370 to disa
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/travel/travel-updates/flight-mh370-indonesian-police-chief-general-sutarman-says-he-knows-what-happened-to-the-missing-malaysian-airlines-plane/story-fnizu68q-1227059682342)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/bec9fc1553c23a67f2f3862af32433ac)

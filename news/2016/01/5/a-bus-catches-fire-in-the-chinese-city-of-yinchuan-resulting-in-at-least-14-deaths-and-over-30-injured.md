@@ -8,3 +8,4 @@ A Chinese man upset over a financial dispute set fire to a moving bus and fled a
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/01/04/bus-catches-fire-in-north-china-14-dead-over-30-injured.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

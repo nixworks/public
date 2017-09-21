@@ -9,6 +9,7 @@ A foreign agricultural worker was the first fatality from Gaza rocket fire since
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/2010318101628795550.html)
 2. [The New York Times](http://www.nytimes.com/2010/03/19/world/middleeast/19gaza.html?ref=global-home)
+2. [Cover Image](https://static01.nyt.com/images/2010/03/19/world/19gazaspan-cnd/19gazaspan-cnd-thumbStandard.jpg)
 
 ### Related:
 

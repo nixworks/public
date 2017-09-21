@@ -9,6 +9,7 @@ The Nobel Prize organisers cut the amount of prize money on offer by 20%, meanin
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18403328)
 2. [Nobel Foundation](http://www.nobelprize.org/press/nobelfoundation/press_releases/2012/prize_amount.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60836000/jpg/_60836194_006245533.jpg)
 
 ### Related:
 

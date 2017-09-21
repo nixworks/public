@@ -8,6 +8,7 @@ Syrian rebels carry out a bomb attack on an intelligence agency complex in Damas
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19880669)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63374000/jpg/_63374205_63374204.jpg)
 
 ### Related:
 

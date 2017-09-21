@@ -8,6 +8,7 @@ Former President Alan Garcia won a runoff election against the Hugo Chavez-backe
 ### Source:
 
 1. [FoxNews.com](http://www.foxnews.com/story/0,2933,198151,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

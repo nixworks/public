@@ -8,6 +8,7 @@
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.co.uk/belgian-serial-rapist-murderer-frank-van-den-bleeken-be-euthanised-january-1481742)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1400276/frank-van-den-bleeken-who-has-spent-past-30-years-prison-repeated-rape-convictions-rape-murder.jpg)
 
 ### Related:
 

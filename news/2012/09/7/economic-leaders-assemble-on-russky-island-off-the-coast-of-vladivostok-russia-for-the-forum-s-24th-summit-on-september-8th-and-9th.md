@@ -11,6 +11,7 @@ Harper to meet with Chinese president during Asia-Pacific Economic Co-operation 
 2. [Cri.cn](http://english.cri.cn/7146/2012/09/06/1942s721102.htm)
 3. [The Globe and Mail](http://www.theglobeandmail.com/news/national/harper-arrives-in-russia-for-21-nation-apec-summit/article4525943/)
 4. [apec2012.ru](http://www.apec2012.ru/calendar/20120908/462779586.html)
+4. [Cover Image](http://static.theglobeandmail.ca/c68/news/national/article4525942.ece/ALTERNATES/w620/ajw101-APEC+20120906.JPG)
 
 ### Related:
 

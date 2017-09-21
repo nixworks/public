@@ -8,6 +8,7 @@ The Pentagon on Tuesday warned that whoever fired missiles at a U.S. Navy destro
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-pentagon-idUSKCN12B2DB)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

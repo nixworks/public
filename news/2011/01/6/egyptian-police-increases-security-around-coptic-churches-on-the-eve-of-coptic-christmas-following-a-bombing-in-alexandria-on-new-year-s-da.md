@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iKCKJTCxRvpD06Q_qf022JiDLtlg?docId=CNG.5ef495a04e9f24705338c4bd6be74062.1f1)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12125143)
 3. [CNN](http://www.cnn.com/2011/WORLD/meast/01/06/egypt.coptic.church.attack/index.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

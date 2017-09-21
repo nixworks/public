@@ -8,6 +8,7 @@ At least 46 students have been killed by a suicide bomber at a school assembly i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-29985252)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78895000/jpg/_78895703_78895702.jpg)
 
 ### Related:
 

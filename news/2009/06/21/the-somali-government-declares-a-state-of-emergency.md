@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55J0US20090620)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090620&t=2&i=10575784&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-20T123726Z_01_BTRE55J0Z2L00_RTROPTP_0_SOMALIA-CONFLICT)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Sydney Morning Herald 404 Page
 ### Source:
 
 1. [AAP via Sydney Morning Herald](http://www.smh.com.au/news/World/Solomons-rejects-Moti-extradition-plea/2007/09/05/1188783292491.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

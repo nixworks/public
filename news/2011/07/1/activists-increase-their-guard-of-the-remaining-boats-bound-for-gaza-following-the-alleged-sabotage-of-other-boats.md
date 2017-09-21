@@ -11,3 +11,4 @@
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201171143845732109.html)
 3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=227547)
 4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=227600)
+4. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=168855)

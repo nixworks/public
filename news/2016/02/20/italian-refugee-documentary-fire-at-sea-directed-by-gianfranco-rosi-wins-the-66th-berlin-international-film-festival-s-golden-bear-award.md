@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Variety](http://variety.com/2016/film/festivals/berlin-film-festival-competition-winners-2016-1201711207/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2016/01/fuocoammare_di_gianfranco_rosi.jpg?w=1000&amp;h=750&amp;crop=1)
 
 ### Related:
 

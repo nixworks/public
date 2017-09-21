@@ -9,6 +9,7 @@ A Bay Area commuter train en route to Stockton derailed Monday night, authoritie
 
 1. [CNN](http://www.cnn.com/2016/03/08/us/california-train-derailment/)
 2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-bay-area-commuter-train-derails-20160307-story.html)
+2. [Cover Image](http://www.trbimg.com/img-56de6801/turbine/la-me-ln-bay-area-commuter-train-derails-20160307)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A bomb killed two people and wounded at least 22 in a busy shopping district of 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/23/us-thailand-protest-idUSBREA1M02H20140223?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140223&t=2&i=846176762&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1M0VFZ00)

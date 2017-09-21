@@ -8,6 +8,7 @@ An elephant sanctuary has opened in Brazil to provide a home for an estimated 50
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37663208)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/44F5/production/_91935671_7e8f8f10-eecd-438e-8c4a-e607b34dbe0f.jpg)
 
 ### Related:
 

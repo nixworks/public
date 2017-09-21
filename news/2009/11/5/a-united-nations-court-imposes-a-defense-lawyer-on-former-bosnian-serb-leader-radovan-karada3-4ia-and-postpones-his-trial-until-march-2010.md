@@ -9,6 +9,7 @@ Radovan Karadzic will have a defence lawyer imposed on him after United Nations 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/20091151454126270.html)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/bosnia/6509105/Radovan-Karadzic-trial-delayed-until-March-2010.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01517/Radovan-Karadzic_1517389a.jpg)
 
 ### Related:
 

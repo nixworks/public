@@ -9,6 +9,7 @@
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,290768,00.html)
 2. [New York Times](http://www.nytimes.com/aponline/sports/AP-CYC-Tour-de-France.html?hp)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

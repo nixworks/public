@@ -10,6 +10,7 @@ Nato air strikes are said to have killed at least 25 Afghans, hours after US tro
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10884484)
 2. [France24](http://www.france24.com/en/20100805-karzai-probes-report-12-civilians-killed-nato)
 3. [The New York Times](http://www.nytimes.com/2010/08/06/world/asia/06afghan.html?_r=1&partner=rss&emc=rss)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

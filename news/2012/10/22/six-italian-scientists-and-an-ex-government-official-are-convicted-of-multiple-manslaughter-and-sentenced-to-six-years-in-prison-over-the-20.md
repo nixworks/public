@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/20121022151851442575.html)
 2. [BBC](http://www.bbc.com/news/world-europe-20025626)
 3. [The Guardian](http://www.guardian.co.uk/world/2012/oct/22/italian-scientists-jailed-earthquake-aquila)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/22/2012102263219542734_20.jpg)
 
 ### Related:
 

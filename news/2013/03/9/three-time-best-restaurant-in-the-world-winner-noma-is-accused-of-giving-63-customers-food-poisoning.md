@@ -8,6 +8,7 @@ Regardless of all the &#034;Please wash hands after using the toilet&#034; in mo
 ### Source:
 
 1. [Counsel & Heal](http://www.counselheal.com/articles/4284/20130309/danish-restaurant-charging-440-meal-leaves-63-guests-sick-norovirus.htm)
+1. [Cover Image](http://images.counselheal.com/data/images/full/2806/noma.jpg)
 
 ### Related:
 

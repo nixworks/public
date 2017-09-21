@@ -10,6 +10,7 @@
 1. [ESC Daily](http://www.escdaily.com/malmo-2013-petra-mede-to-host-eurovision-2013/)
 2. [Eurovision](http://www.eurovision.tv/page/news?id=petra_mede_to_host_eurovision_2013)
 3. [The Local](http://www.thelocal.se/45860/20130128/)
+3. [Cover Image](http://www.escdaily.com/wp-content/uploads/2013/01/petra-mede2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/11/us-russia-idUSTRE7BA0G120111211)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111211&t=2&i=545573395&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BA1TTQ00)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/technology-35420579)
 2. [MIT Technology Review](http://www.technologyreview.com/news/546066/googles-ai-masters-the-game-of-go-a-decade-earlier-than-expected/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/973C/production/_87961783_87961779.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japan vowed on Friday to resumeits whaling programme in the Antarctic despite pa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/19/environment-japan-whaling-idUSL3N0RK1JL20140919)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

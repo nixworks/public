@@ -8,6 +8,7 @@ A European Parliament rapporteur has stood down in protest as a controversial an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-16757142)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58138000/jpg/_58138495_58138494.jpg)
 
 ### Related:
 

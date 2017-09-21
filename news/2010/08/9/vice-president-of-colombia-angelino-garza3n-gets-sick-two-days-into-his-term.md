@@ -10,6 +10,7 @@
 1. [AFP via France24](http://www.france24.com/en/20100809-new-colombian-vp-have-heart-surgery)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10916841)
 3. [Reuters](http://uk.reuters.com/article/idUKN0925852120100809)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Palestinians alive during 1946 Arab-Israeli war say unmarked grave found in coas
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/middleeast/2013/06/20136318749332924.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/3/20136318659470734_20.jpg)
 
 ### Related:
 

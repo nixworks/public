@@ -9,6 +9,7 @@ Iraqi officials say a suicide blast targeting security forces and subsequent cla
 
 1. [AP via ''The Hindu](http://www.thehindu.com/news/international/world/iraq-troops-sunni-fighters-killed-in-clashes-with-islamic-state/article6760534.ece)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFKBN0KF19220150106)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article10470878.ece/ALTERNATES/LANDSCAPE_615/MIDEAST-CRISIS_IRAQ-ARMY_DAY)
 
 ### Related:
 

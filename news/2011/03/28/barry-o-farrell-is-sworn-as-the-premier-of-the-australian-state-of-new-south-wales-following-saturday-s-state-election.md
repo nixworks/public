@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/breaking-news/new-nsw-premier-barry-ofarrell-and-deputy-andrew-stoner-sworn-in/story-e6frfku0-1226029293857)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

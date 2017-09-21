@@ -9,6 +9,7 @@ Barely a week since Major-General C A Krishnan took over as the Inspector-Genera
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8429400.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/city/guwahati/Nine-rebels-killed-in-Manipur/articleshow/5375141.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

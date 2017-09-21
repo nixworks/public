@@ -9,6 +9,7 @@ Protesters clashed with the police on Friday night after a white former transit 
 
 1. [CNN](http://www.cnn.com/2010/CRIME/11/06/california.subway.shooting.sentencing/index.html)
 2. [New York Times](http://www.nytimes.com/2010/11/06/us/06transit.html?partner=rss&emc=rss)
+2. [Cover Image](https://static01.nyt.com/images/2010/11/06/us/06transit1_span/06transit1_span-thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Flash flooding across Afghanistan and Pakistan has left more than 160 dead and d
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/asia/160-killed-and-hundreds-left-stranded-by-flooding-across-afghanistan-and-pakistan-8746566.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/08/05/12/floods-rex.jpg)
 
 ### Related:
 

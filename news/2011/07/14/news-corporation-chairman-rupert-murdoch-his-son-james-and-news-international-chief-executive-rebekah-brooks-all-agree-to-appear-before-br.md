@@ -11,6 +11,7 @@ The FBI is investigating reports that News Corporation sought to hack the phones
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-14162268)
 3. [BBC](http://www.bbc.co.uk/news/world-us-canada-14162545)
 4. [The Guardian](http://www.guardian.co.uk/media/2011/jul/14/news-of-the-world-neil-wallis)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54084000/gif/_54084385_13qdekpx.gif)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Cuba agrees to free 52 political prisoners in the largest prisoner release by th
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201077184956643989.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10547660.stm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

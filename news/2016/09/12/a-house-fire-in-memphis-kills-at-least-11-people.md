@@ -8,6 +8,7 @@ Seven children were among 11 people who died when a horrific fire trapped them i
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/09/12/7-killed-3-hospitalized-after-house-fire-in-memphis.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2016/09/12/0/0/091216_house_fire_1280.jpg?ve=1)
 
 ### Related:
 

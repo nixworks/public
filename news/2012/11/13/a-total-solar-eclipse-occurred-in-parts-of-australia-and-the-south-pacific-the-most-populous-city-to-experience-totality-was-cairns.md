@@ -8,6 +8,7 @@ Tens of thousands of tourists and astronomers gathered in northern Australia to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-20320667)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64127000/jpg/_64127222_64127220.jpg)
 
 ### Related:
 

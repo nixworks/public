@@ -8,6 +8,7 @@ A U.S. Border Patrol agent must stand trial for murder in the shooting of a Mexi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN0645298420070807?feedType=RSS)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070807&t=2&i=1258240&w=&fh=545px&fw=&ll=&pl=&sq=&r=1258240)
 
 ### Related:
 

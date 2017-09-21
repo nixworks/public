@@ -8,6 +8,7 @@ Puerto Rico confirms that it failed to make a debt payment at the weekend, in th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-33769391)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F717/production/_84655236_84655235.jpg)
 
 ### Related:
 

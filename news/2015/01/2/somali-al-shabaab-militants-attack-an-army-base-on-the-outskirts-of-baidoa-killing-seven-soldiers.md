@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ''Daily Times](http://www.dailytimes.com.pk/foreign/03-Jan-2015/at-least-7-killed-in-al-shabaab-attack-at-somali-military-base)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

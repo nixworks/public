@@ -8,6 +8,7 @@ The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) po
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Lebanon-News/2017/Aug-19/416465-live-coverage-army-launches-fajr-al-joroud-operation-against-daesh.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2017/08/19/635688_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

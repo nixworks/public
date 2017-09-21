@@ -8,6 +8,7 @@ More than a dozen killed in attack on government workers in volatile city of Pes
 ### Source:
 
 1. [AP via CBS](http://www.cbsnews.com/news/pakistan-bus-bomb-targets-government-workers-peshawar/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/03/16/7dcd772a-e2b3-4653-adb4-dd49cad71461/pakistanbusbombap866797377613.jpg)
 
 ### Related:
 

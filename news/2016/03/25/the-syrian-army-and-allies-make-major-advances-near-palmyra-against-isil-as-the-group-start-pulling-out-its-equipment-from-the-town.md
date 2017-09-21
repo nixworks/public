@@ -9,6 +9,7 @@ Syrian government forces advance further into IS-held Palmyra, reportedly captur
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35898995)
 2. [NYTimes](http://www.nytimes.com/2016/03/26/world/middleeast/syrian-army-said-to-be-closer-to-retaking-palmyra.html?_r=0)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/80D8/production/_88948923_88947551.jpg)
 
 ### Related:
 

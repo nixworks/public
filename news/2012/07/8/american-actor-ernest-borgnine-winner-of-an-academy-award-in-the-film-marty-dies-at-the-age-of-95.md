@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-207_162-57468279/actor-ernest-borgnine-dies-at-95/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/07/08/b99dd52f-a644-11e2-a3f0-029118418759/Borgnine_Marty.jpg)
 
 ### Related:
 

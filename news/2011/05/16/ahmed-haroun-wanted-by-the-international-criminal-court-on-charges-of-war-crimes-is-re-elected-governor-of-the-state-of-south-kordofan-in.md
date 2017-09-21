@@ -8,6 +8,7 @@ Ahmed Haroun, who is facing ICC charges of murder and rape in Darfur, re-elected
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011516172522597.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/16/2011516174124145734_20.jpg)
 
 ### Related:
 

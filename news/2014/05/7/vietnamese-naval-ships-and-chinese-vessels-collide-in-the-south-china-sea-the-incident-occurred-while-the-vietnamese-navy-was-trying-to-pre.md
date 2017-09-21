@@ -8,6 +8,7 @@ Vietnamese naval ships and Chinese vessels collide in a disputed part of the Sou
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27293314)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74681000/jpg/_74681226_74681225.jpg)
 
 ### Related:
 

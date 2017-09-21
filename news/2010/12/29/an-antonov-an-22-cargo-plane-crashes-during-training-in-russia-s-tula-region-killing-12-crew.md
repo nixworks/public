@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12088525)
 2. [RIA Novosti](http://en.rian.ru/russia/20101229/161975066.html)
 3. [Times of India](http://timesofindia.indiatimes.com/world/europe/12-killed-in-Russian-military-plane-crash/articleshow/7184304.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

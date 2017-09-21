@@ -8,6 +8,7 @@ The staffer was asked to leave after the US embassy refused to allow police to q
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39321568)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/29B0/production/_95227601_14f5f4c9-9abb-47bb-9015-48e0a57426e7.jpg)
 
 ### Related:
 

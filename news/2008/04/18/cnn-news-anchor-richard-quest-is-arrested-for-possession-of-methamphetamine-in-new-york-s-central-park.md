@@ -8,6 +8,7 @@ A New York judge ordered CNN reporter Richard Quest to undergo six months of cou
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/entertainmentNews/idUSN1832900220080419)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080419&t=2&i=3946017&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-04-19T193919Z_01_N18329002_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

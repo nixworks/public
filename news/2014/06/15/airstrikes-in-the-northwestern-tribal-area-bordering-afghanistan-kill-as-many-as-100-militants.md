@@ -10,6 +10,7 @@ A comprehensive operation against terrorists is being launched upon direction of
 1. [Canadian Press via (''Nanaimo Daily News](http://www.nanaimodailynews.com/news/airstrikes-in-pakistan-s-northwest-kill-as-many-as-100-militants-1.1130097)
 2. [Dunya News](http://dunyanews.tv/index.php/en/Pakistan/225567-Negotiations-end-Pak-Army-formally-launches-opera)
 3. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/pakistan-kills-mastermind-behind-2014-karachi-airport-attacks/)
+3. [Cover Image](http://img.dunyanews.tv/news/2014/June/06-15-14/news_big_images/225567_49999856.jpg)
 
 ### Related:
 

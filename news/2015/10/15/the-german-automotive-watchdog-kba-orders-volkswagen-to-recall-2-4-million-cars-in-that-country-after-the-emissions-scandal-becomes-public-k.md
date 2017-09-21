@@ -8,6 +8,7 @@ German automotive watchdog KBA ordered Volkswagen to recall 2.4 million vehicles
 ### Source:
 
 1. [Reuters via SBS Australia](http://www.sbs.com.au/news/article/2015/10/15/germany-orders-recall-24-million-volkswagen-cars)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20151005001184972355-minihighres.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/20/french-prosecutor-calls-to-drop-racism-charges-against-far-right-leader.html)
 2. [Reuters](http://www.reuters.com/article/2015/10/20/us-france-politics-lepen-idUSKCN0SE1XS20151020)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151020&t=2&i=1088389412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9J10O)
 
 ### Related:
 

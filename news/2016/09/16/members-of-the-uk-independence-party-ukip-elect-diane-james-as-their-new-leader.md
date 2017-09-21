@@ -8,6 +8,7 @@ UKIP MEP Diane James wins party leadership contest to succeed Nigel Farage and t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-37387162)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B1D7/production/_91272554_farageandjames_getty.jpg)
 
 ### Related:
 

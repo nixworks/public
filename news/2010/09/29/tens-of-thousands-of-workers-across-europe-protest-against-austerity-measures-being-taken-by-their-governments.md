@@ -19,6 +19,7 @@ Tens of thousands take to the streets of Brussels and other European cities in a
 10. [The News Tribune](http://www.thenewstribune.com/2010/09/29/1360855/general-strike-starts-in-spain.html)
 11. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/workers-swarm-europes-streets-in-anticuts-protests-20100930-15xnn.html)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/30/c_13536202.htm)
+12. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

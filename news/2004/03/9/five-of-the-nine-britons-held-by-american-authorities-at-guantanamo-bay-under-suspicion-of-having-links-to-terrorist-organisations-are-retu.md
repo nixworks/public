@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [CNN](http://www.cnn.com/2004/WORLD/europe/03/09/gitmo.uk/)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=4528477&section=news)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

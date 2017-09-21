@@ -9,6 +9,7 @@
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/1123/1224283932606.html)
 2. [The New York Times](http://www.nytimes.com/reuters/2010/11/22/world/europe/news-us-ireland.html?partner=rss&emc=rss)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

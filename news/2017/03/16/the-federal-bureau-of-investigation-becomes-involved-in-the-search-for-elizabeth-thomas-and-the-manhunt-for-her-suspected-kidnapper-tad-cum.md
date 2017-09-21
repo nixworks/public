@@ -8,6 +8,7 @@ The Tennessee Bureau of Investigation has released new photos and information in
 ### Source:
 
 1. [FOX 17 Nashville](http://fox17.com/news/local/tbi-releases-new-photos-details-in-amber-alert-of-elizabeth-thomas)
+1. [Cover Image](http://static-28.sinclairstoryline.com/resources/media/8a53ad84-ea50-4baa-8e99-604413edc8fb-large16x9_Photo1.jpg?1489698068710)
 
 ### Related:
 

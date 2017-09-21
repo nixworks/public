@@ -9,6 +9,7 @@ Iran delays the release of Sarah Shourd, one of three US hikers arrested last ye
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11268820)
 2. [Reuters via Fox News](http://www.foxnews.com/world/2010/09/10/iran-reportedly-cancels-release-detained-american-612718973/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

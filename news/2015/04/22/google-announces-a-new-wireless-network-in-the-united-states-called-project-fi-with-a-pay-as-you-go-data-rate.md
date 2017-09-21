@@ -8,6 +8,7 @@ Google becomes a mobile virtual network operator, selling cellular service that 
 ### Source:
 
 1. [Venture Beat](http://venturebeat.com/2015/04/22/google-announces-fi-wireless-service-plans-with-pay-as-you-go-data-rates/)
+1. [Cover Image](https://venturebeat.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-22-at-10.53.46-AM.png?fit=1250%2C950&amp;strip=all)
 
 ### Related:
 

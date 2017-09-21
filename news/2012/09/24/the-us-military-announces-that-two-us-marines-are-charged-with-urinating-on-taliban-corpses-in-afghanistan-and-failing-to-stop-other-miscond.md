@@ -8,6 +8,7 @@ Two US Marines are referred for trial over a video showing troops urinating on d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19708371)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57838000/jpg/_57838740_reu_grab1.jpg)
 
 ### Related:
 

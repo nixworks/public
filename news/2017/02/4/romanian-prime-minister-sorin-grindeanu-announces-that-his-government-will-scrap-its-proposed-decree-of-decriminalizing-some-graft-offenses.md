@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-romania-corruption-pm-decree-idUSKBN15J0SG)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170204&t=2&i=1171433003&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED130EV)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [La Libre Belgique](http://www.lalibre.be/actu/international/article/563554/ukraine-le-resultat-de-l-election-presidentielle-suspendu.html)
+1. [Cover Image](http://r2.llb.be/image/04/51b8b71ae4b0de6db9ba2904.jpg)
 
 ### Related:
 

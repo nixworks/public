@@ -8,6 +8,7 @@ Pictures posted on social media show blacked-out streets, lit only by headlights
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-38927000)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/908D/production/_94250073_brussels.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The aircraft performed a fly-by over the Golden Gate Bridge in the late afternoo
 
 1. [BBC](http://www.bbc.com/news/science-environment-36122618)
 2. [NBC News](http://www.nbcnews.com/tech/innovation/solar-impulse-2-s-pacific-crossing-going-smoothly-it-nears-n560946)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_16/1510056/160424-si2-0337_822c5fc58e4cba30ee6deac74ba0a64f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

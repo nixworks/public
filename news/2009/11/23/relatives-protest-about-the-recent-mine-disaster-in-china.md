@@ -10,6 +10,7 @@ Relatives of the 104 people killed in a gas blast at a coal mine in northeast Ch
 1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1230154/Wives-trapped-miners-fight-police-outside-Chinese-colliery-protest-104-die-gas-blast.html)
 2. [RTÉ](http://www.rte.ie/news/2009/1123/china.html)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5AK08Y20091123?sp=true)
+3. [Cover Image](https://img.rasset.ie/0002c605-1600.jpg)
 
 ### Related:
 

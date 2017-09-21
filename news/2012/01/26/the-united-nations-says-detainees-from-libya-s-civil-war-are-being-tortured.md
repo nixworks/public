@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/01/2012126601863986.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/9/1/20119110324839734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Europe and Russia have launched a joint mission to the Red Planet.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-35800975)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B603/production/_88759564_88759563.jpg)
 
 ### Related:
 

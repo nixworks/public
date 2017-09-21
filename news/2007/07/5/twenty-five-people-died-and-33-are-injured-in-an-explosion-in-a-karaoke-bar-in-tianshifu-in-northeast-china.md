@@ -8,6 +8,7 @@ Twenty-five people were killed and 33 injured in an explosion at a karaoke bar i
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/05/1970840.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ A Swedish pilot who had been flying on a fake licence for more than a decade was
 3. [The Age](http://www.theage.com.au/travel/travel-news/pilot-held-after-13-years-on-fake-licence-police-20100304-pjfc.html)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/7365800/Pilot-arrested-after-flying-with-fake-licence-for-13-years.html)
 5. [The News International](http://www.thenews.com.pk/updates.asp?id=99938)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01589/plane_1589796a.jpg)
 
 ### Related:
 

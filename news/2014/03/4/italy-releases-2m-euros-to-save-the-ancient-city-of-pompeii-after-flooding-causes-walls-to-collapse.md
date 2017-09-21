@@ -8,6 +8,7 @@ The Italian government will unblock 2m euros (£1.6m) in emergency funding to sa
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-26443808#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73376000/jpg/_73376652_73376651.jpg)
 
 ### Related:
 

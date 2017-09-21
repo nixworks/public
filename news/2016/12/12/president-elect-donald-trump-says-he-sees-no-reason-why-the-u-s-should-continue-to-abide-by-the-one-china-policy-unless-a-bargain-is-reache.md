@@ -10,6 +10,7 @@ President-elect says he sees no reason why the US should continuing abiding by O
 1. [CBS News](http://www.cbsnews.com/news/china-donald-trump-taiwan-one-china-policy-relations-badly-affected/)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/12/12/505236943/china-expresses-serious-concern-over-trumps-comments-on-taiwan)
 3. [The Guardian](https://www.theguardian.com/us-news/2016/dec/12/donald-trump-questions-us-commitment-to-one-china-policy)
+3. [Cover Image](https://i.guim.co.uk/img/media/bdbd5f9202711a0599dcc3de57582ad7ee55bfcc/0_0_4274_2564/master/4274.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=43f65cd4bd377dfbd2f4406db6709a2c)
 
 ### Related:
 

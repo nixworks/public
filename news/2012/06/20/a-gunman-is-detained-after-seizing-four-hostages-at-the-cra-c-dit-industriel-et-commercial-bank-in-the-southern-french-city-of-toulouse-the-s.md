@@ -8,6 +8,7 @@ French police detain a gunman who held four people hostage at a bank in the sout
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18516934)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61027000/jpg/_61027003_61027002.jpg)
 
 ### Related:
 

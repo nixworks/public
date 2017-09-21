@@ -8,6 +8,7 @@ Romanian accused of stealing photographs and emails from former US president Geo
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/10897002/Guccifer-hacker-indicted-after-George-H-W-Bushs-personal-email-targeted.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02474/bush_2474856k.jpg)
 
 ### Related:
 

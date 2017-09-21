@@ -9,6 +9,7 @@ German President Christian Wulff announces his resignation, after prosecutors ca
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17072479)
 2. [Reuters](http://uk.reuters.com/article/2012/02/17/uk-germany-president-idUKTRE81G0H720120217)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58554000/jpg/_58554282_014028008-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ (Reuters](http://www.reuters.com/article/us-france-degaulle-idUSKBN18N0WQ?il=0)
+1. [Cover Image](//s3.reutersmedia.net/resources/r/?m=02&d=20170527&t=2&i=1186541871&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4Q0N5)
 
 ### Related:
 

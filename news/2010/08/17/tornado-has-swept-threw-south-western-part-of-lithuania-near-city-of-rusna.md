@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Delfi](http://www.delfi.lt/news/daily/lithuania/virs-rusnes-prauze-viesulas.d?id=35586121)
+1. [Cover Image](http://g4.dcdn.lt/images/pix/file35586467_704824c6bc0e43af23.jpg)
 
 ### Related:
 

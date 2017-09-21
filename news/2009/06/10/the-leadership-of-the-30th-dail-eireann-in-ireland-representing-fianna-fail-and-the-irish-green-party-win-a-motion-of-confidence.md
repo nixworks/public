@@ -8,6 +8,7 @@ The Government has, as expected, won the motion of confidence vote in the DÃ¡il.
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0610/politics.html)
+1. [Cover Image](https://img.rasset.ie/00023580-1600.jpg)
 
 ### Related:
 

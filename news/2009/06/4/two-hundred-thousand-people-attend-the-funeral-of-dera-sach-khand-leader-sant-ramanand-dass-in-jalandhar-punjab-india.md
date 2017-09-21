@@ -9,6 +9,7 @@ Around two lakh devotees, many of them in tears, attended the funeral of Dera Sa
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8082493.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/India/Thousands-pour-in-for-Dera-leaders-cremation-in-Punjab/articleshow/4615567.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/4616789.cms)
 
 ### Related:
 

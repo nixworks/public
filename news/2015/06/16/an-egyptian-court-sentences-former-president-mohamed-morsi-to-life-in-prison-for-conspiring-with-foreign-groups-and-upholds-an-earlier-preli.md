@@ -9,6 +9,7 @@ Court yet to rule whether it will confirm or commute a death sentence it handed 
 
 1. [AP via Breaking News](http://www.breakingnews.com/item/2015/06/16/egypt-court-upholds-death-sentence-for-ousted-pres/)
 2. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/egypt-court-deliver-verdict-morsi-death-sentence-150616070248140.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/16/ec9cec1b525b44ad9ca115fe9ee645f7_18.jpg)
 
 ### Related:
 

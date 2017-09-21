@@ -9,6 +9,7 @@ Foreign minister says it has reported Iran to UN Security Council for possible s
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101116444792700.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11765935)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/12/2010111219542011876_20.jpg)
 
 ### Related:
 

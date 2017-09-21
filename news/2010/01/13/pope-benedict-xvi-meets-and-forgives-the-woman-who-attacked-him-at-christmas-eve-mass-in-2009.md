@@ -10,6 +10,7 @@ Pope Benedict XVI had a “brief meeting” with Susanna Maiolo in a room adjace
 1. [Adnkronos](http://www.adnkronos.com/AKI/English/Religion/?id=3.0.4194046362)
 2. [Catholic News Agency](http://www.catholicnewsagency.com/news/holy_father_meets_privately_with_christmas_assailant/)
 3. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article6986436.ece)
+3. [Cover Image](http://www.catholicnewsagency.com/images/default.jpg)
 
 ### Related:
 

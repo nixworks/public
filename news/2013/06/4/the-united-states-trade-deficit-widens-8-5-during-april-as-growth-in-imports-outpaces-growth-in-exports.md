@@ -8,6 +8,7 @@ A wide trade gap can restrain growth because it means Americans are spending mor
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/06/05/business/economy/trade-deficit-widens-as-demand-for-imports-grows.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/06/05/business/20130605_BALANCEOFTRADE_graphic/20130605_BALANCEOFTRADE_graphic-superJumbo.gif)
 
 ### Related:
 

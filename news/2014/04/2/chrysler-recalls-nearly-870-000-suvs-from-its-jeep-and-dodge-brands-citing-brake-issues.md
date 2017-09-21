@@ -8,6 +8,7 @@ Chrysler said Wednesday that it would recall 870,000 SUVs to fix a defect in the
 ### Source:
 
 1. [KNTV](http://www.nbcbayarea.com/news/national-international/Chrysler-SUVs-Jeep-Grand-Cherokee-Dodge-Durango-Recall-870000-Brake-Defect-253541771.html?_osource=SocialFlowTwt_BAYBrand)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/AP477082907772.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police fire tear gas into a camp for displaced people as protests accusing UN tr
 ### Source:
 
 1. [Al Jazerra](http://english.aljazeera.net/news/americas/2010/11/20101118173955660861.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/19/2010111905544574734_20.jpg)
 
 ### Related:
 

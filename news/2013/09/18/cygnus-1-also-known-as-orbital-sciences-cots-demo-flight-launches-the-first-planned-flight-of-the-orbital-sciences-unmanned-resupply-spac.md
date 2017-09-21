@@ -8,6 +8,7 @@ Orbital Sciences Corp. launched its Cygnus cargo spacecraft at 10:58 a.m. EDT We
 ### Source:
 
 1. [NASA](http://www.nasa.gov/content/cygnus-en-route-for-sunday-rendezvous-with-station/index.html)
+1. [Cover Image](http://www.nasa.gov/sites/default/files/eztv_4541_nasa_tv_hd_2013-09-18_10h57m45s_0.png)
 
 ### Related:
 

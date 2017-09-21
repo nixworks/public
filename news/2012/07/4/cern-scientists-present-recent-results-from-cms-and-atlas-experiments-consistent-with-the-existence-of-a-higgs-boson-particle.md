@@ -9,6 +9,7 @@ Scientists are meeting in Geneva shortly to reveal the latest results in the hun
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18693744#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)
 2. [CERN press release](http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61334000/jpg/_61334036_61334035.jpg)
 
 ### Related:
 

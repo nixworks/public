@@ -8,6 +8,7 @@ Russia is suspected of launching a cyber-attack against a Pentagon email network
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11788904/Russian-hackers-attacked-Pentagon.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03137/pentagon_3137349k.jpg)
 
 ### Related:
 

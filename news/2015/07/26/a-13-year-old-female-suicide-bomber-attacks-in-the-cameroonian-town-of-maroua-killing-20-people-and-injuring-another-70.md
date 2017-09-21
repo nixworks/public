@@ -9,6 +9,7 @@ Officials in northern Cameroon have ordered the closure of mosques and Islamic s
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/07/26/officials-order-mosques-closed-beggars-off-streets-in-north-cameroon-after/)
 2. [Voice of America](http://www.voanews.com/content/fresh-attack-in-cameroon-kills-at-least-20/2878923.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

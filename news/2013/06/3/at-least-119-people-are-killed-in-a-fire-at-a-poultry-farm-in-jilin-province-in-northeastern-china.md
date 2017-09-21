@@ -10,6 +10,7 @@
 1. [AP via ''Silicon Valley Mercury](http://www.mercurynews.com/breaking-news/ci_23375164/reports-fire-kills-43-at-poultry-farm-china)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/06/20136342345936220.html)
 3. [Xinhua](http://news.xinhuanet.com/english/china/2013-06/03/c_132427141.htm)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/3//20136394356461734_20.jpg)
 
 ### Related:
 

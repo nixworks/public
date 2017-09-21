@@ -8,6 +8,7 @@ At least 44 people have been injured after a cargo train derailed in Russia’s 
 ### Source:
 
 1. [RT](http://rt.com/news/oil-tanks-derail-russia-030/)
+1. [Cover Image](https://img.rt.com/files/news/1f/03/60/00/1515.si.jpg)
 
 ### Related:
 

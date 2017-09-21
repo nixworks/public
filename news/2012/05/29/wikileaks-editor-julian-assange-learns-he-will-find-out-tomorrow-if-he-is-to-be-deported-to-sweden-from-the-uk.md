@@ -10,6 +10,7 @@
 1. [Digital Journal](http://www.digitaljournal.com/article/325620)
 2. [The Guardian](http://www.guardian.co.uk/media/2012/may/29/julian-assange-extradition-supreme-court)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/assange-mum-in-london-ahead-of-verdict-20120529-1zh4y.html)
+3. [Cover Image](http://www.digitaljournal.com/img/3/4/5/1/7/1/i/1/1/6/o/owsassange.jpg)
 
 ### Related:
 

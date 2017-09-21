@@ -8,6 +8,7 @@ Bank of America Corp. has picked Dublin to locate its main European Union hub in
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-07-21/bank-of-america-chooses-dublin-for-main-eu-hub-after-brexit)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUSmsARIu_SQ/v0/1200x800.jpg)
 
 ### Related:
 

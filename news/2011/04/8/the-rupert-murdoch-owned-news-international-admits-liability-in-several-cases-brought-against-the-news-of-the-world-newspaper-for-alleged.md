@@ -8,6 +8,7 @@ The owner of the News of the World says sorry over the phone hacking scandal and
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13014161)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

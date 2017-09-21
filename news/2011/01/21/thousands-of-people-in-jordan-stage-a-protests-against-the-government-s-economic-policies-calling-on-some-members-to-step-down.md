@@ -8,6 +8,7 @@ At least 4,000 people take to the streets to condemn poor economic policies and 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011121125524911325.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/21/2011121131853972621_20.jpg)
 
 ### Related:
 

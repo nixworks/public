@@ -9,6 +9,7 @@ Will Judge Sandile Ngcobo be chief justice for just two years before giving way,
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=13&art_id=nw20090806142534531C121683)
 2. [Mail & Guardian](http://www.mg.co.za/article/2009-08-07-ngcobo-is-chief-justice-but-for-how-long)
+2. [Cover Image](http://c1608832.cdn.cloudfiles.rackspacecloud.com/AmpersandforFB.gif)
 
 ### Related:
 

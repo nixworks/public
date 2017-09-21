@@ -8,6 +8,7 @@ A source close to Gerry Adams tells the BBC the Sinn Fein leader is being questi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-northern-ireland-27272797)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74630000/jpg/_74630358_74630286.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ NASA has pushed back the launching of the Mars Science Laboratory by two years b
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2008/12/05/science/space/05mars.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/12/05/science/space/marslab75.jpg)
 
 ### Related:
 

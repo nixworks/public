@@ -8,6 +8,7 @@ Rebels in Syria say they have captured a major army base in the south of the cou
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-33064320?ocid=socialflow_twitter)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/83512000/jpg/_83512945_83512944.jpg)
 
 ### Related:
 

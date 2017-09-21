@@ -8,6 +8,7 @@ A Salvador Dali drawing that was stolen last week from a New York gallery is ret
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18656350)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61073000/jpg/_61073359_untitled-1.jpg)
 
 ### Related:
 

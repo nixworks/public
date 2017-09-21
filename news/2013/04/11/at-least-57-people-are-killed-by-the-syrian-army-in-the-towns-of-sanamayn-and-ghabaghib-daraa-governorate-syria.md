@@ -8,6 +8,7 @@ Children and women said to be among victims of attacks on two towns in Deraa app
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/2013411135719359514.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/11/2013411185423289580_20.jpg)
 
 ### Related:
 

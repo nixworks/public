@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13753422)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15150852,00.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53385000/jpg/_53385880_012212056-1.jpg)
 
 ### Related:
 

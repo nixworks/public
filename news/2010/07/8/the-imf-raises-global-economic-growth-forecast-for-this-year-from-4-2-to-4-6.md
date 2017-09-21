@@ -9,6 +9,7 @@ The International Monetary Fund raises its world economic growth forecast for 20
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/10549770.stm)
 2. [Business Week](http://www.businessweek.com/news/2010-07-08/copper-advances-on-imf-growth-forecast-contracting-stockpiles.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

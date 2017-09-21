@@ -9,6 +9,7 @@
 
 1. [AP via LA.com](http://www.la.com/celebrity-gossip/ci_15292885)
 2. [newser](http://www.newser.com/story/92490/michael-jackson-doctor-keeps-license.html)
+2. [Cover Image](http://img1-azcdn.newser.com/image/740690-12-20140204124409.jpeg)
 
 ### Related:
 

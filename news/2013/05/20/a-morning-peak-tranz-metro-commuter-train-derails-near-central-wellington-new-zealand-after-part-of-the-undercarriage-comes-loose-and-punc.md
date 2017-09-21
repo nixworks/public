@@ -8,6 +8,7 @@ Rail services in Wellington have returned to normal after delays caused by a tra
 ### Source:
 
 1. [Fairfax NZ](http://www.stuff.co.nz/national/8693203/Wellington-trains-stopped-after-derailment)
+1. [Cover Image](https://static2.stuff.co.nz/1382564252/169/8695169.jpg)
 
 ### Related:
 

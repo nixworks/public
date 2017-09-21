@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?view=CN&storyID=2006-10-30T032645Z_01_MAN287912_RTRIDST_0_WEATHER-PHILIPPINES-TYPHOON-UPDATE-1.XML&rpc=66&type=qcna)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/MAN265524.htm)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

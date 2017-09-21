@@ -8,6 +8,7 @@ A deadly fire in a factory on the outskirts of the southern Indian city of Banga
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-21921946)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66585000/jpg/_66585691_66585690.jpg)
 
 ### Related:
 

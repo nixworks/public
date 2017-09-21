@@ -8,6 +8,7 @@ Malcolm Turnbull is officially sworn in as Australia&#039;s 29th Prime Minister 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-09-15/live-blog-malcolm-turnbull-to-be-sworn-in-as-prime-minister/6775958)
+1. [Cover Image](http://www.abc.net.au/news/image/6777622-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Families in the Cambodian capital Phnom Penh search morgues and hospitals for re
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11817826)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/50108000/jpg/_50108246_50108242.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ A coalition of mainly Islamist Syrian rebels seize a key airbase in north-wester
 2. [BBC](http://www.bbc.com/news/world-middle-east-34196438)
 3. [Reuters via Sydney Morning Herald](http://www.smh.com.au/world/syria-air-base-falls-to-rebels-troops-exit--state-tv-20150909-gjizkl.html)
 4. [Reuters](http://www.reuters.com/article/2015/09/09/us-mideast-crisis-syria-exclusive-idUSKCN0R91H720150909)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1821C/production/_85444889_85444885.jpg)
 
 ### Related:
 

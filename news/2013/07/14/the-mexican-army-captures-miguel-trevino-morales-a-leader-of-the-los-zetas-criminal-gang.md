@@ -8,6 +8,7 @@ U.S. offering $5M reward for Miguel Angel Trevino Morales, accused of being lead
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57593865/mexican-army-captures-zetas-drug-lord-miguel-angel-trevino-morales/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/07/15/41c9e132-1c4f-11e3-9918-005056850598/drug-lord.jpg)
 
 ### Related:
 

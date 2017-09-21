@@ -8,6 +8,7 @@ A suicide bomber killed at least 54 people when he drove a car bomb into a milit
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN1140HJ?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160829&t=2&i=1151431923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7S0HP)
 
 ### Related:
 

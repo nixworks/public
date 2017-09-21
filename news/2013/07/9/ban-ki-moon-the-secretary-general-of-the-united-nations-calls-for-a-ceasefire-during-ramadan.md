@@ -11,6 +11,7 @@ Today&#39;s latest news from the civil war in Syria with Al Jazeera’s exclusiv
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-23239299)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jul/09/beirut-car-bomb-hezbollah-stronghold)
 4. [The Independent](http://www.independent.co.uk/news/world/middle-east/53-injured-as-explosion-in-beirut-rocks-hezbollah-stronghold-8697250.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

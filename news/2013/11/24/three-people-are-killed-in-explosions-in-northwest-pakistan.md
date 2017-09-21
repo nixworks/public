@@ -8,3 +8,4 @@ At least three persons, including two school students, were killed in two back-t
 ### Source:
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/pti-stories/three-killed-in-blasts-in-northwest-pakistan-113112400235_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)

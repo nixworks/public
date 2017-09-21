@@ -9,6 +9,7 @@ Ten years on from the day the 9/11 terrorist attacks changed so much for so many
 
 1. [Daily Sundial](http://sundial.csun.edu/2011/09/ground-zero-memorial-plaza-to-open-on-10th-anniversary-of-911/)
 2. [Yahoo News via AP](http://news.yahoo.com/9-11-remembered-worldwide-ceremonies-012658121.html)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

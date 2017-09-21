@@ -9,6 +9,7 @@ An international meeting to try to prevent the Arctic becoming the next battlegr
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11387175)
 2. [Voice of Russia](http://english.ruvr.ru/2010/09/22/21687359.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

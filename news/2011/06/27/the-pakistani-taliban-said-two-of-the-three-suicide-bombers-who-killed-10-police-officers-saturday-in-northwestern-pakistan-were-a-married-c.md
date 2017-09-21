@@ -9,6 +9,7 @@ The Pakistani Taliban said two of the three suicide bombers who killed 10 police
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/pakistan.drone.strike/index.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/pakistan.suicide.couple/index.html?hpt=wo_c2)
+2. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Parts of the south and west are on high alert this evening as more rain and high
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Flooding-In-Ireland-Troops-Drafted-In-To-Help-Emergency-Services-Deal-With-Crisis/Article/200911315460612?lpos=World_News_First_World_News_Article_Teaser_Region_4&lid=ARTICLE_15460612_Flooding_In_Ireland%3A_Troops_Drafted_In_To_Help_Emergency_Services_Deal_With_Crisis)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1121/breaking13.htm)
 5. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_457470.html)
+5. [Cover Image](https://img.rasset.ie/0002c5c3-1600.jpg)
 
 ### Related:
 

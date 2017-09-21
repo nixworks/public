@@ -9,6 +9,7 @@ The Okanogan Complex of wildfires has surpassed last year&#x27;s Carlton Complex
 
 1. [KOMO-TV](http://www.komonews.com/news/local/Im-alive-Washingtonians-survey-damage-from-wildfires-322679501.html)
 2. [NBC](http://www.nbcnews.com/storyline/western-wildfires/okanogan-complex-washington-wildfire-now-largest-state-history-n414916)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_35/1190121/150824-okanogan-fire-yh-1230p_abac807c3274b0e64a6b88f447407d09.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19134339)
 2. [CNN](http://edition.cnn.com/2012/08/05/world/meast/turkey-fighting/index.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62047000/jpg/_62047271_62047270.jpg)
 
 ### Related:
 

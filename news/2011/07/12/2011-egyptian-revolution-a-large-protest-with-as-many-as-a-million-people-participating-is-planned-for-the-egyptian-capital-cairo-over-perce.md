@@ -14,6 +14,7 @@ Thousands of Egyptians are protesting in Cairo to demand faster political reform
 5. [Gulf News](http://gulfnews.com/news/region/egypt/egyptian-protesters-unimpressed-by-promised-changes-1.837349)
 6. [News 24](http://www.news24.com/Africa/News/Egypt-number-plate-ministers-jailed-20110712)
 7. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=228717)
+7. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54040000/jpg/_54040414_012435544-1.jpg)
 
 ### Related:
 

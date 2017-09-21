@@ -9,6 +9,7 @@ Thirty-nine people have been rescued so far.
 
 1. [BenarNews](http://www.benarnews.org/english/news/indonesian/sulawesi-sinking-12202015004255.html)
 2. [Muscat Daily](http://www.muscatdaily.com/Archive/World/Nearly-80-still-missing-in-Indonesian-ferry-accident-4hwh)
+2. [Cover Image](http://www.benarnews.org/english/news/indonesian/sulawesi-sinking-12202015004255.html/151219-ID-ship-1000.jpg)
 
 ### Related:
 

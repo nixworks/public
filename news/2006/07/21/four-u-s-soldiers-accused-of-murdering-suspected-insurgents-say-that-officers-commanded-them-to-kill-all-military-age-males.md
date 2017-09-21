@@ -8,3 +8,4 @@ Four U.S. soldiers accused of murdering suspected insurgents during a raid in Ir
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/13974639/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

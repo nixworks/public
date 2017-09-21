@@ -8,6 +8,7 @@ The High Court has ruled that two Sri Lankan boat arrivals were denied &#034;pro
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/court-casts-doubts-over-legality-of-offshore-processing-of-asylum-seekers-20101111-17o9g.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/v/2/5/t/image.related.thumbnail.320x214.17o9g.png/1312094657167.jpg)
 
 ### Related:
 

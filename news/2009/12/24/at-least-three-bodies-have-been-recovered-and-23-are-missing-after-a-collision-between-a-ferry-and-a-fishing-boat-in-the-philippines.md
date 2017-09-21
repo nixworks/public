@@ -9,6 +9,7 @@ Three bodies were recovered from Manila Bay in the Philippines on Thursday as re
 
 1. [CBC](http://www.cbc.ca/world/story/2009/12/24/philippines-ferry-bodies.html)
 2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=535594&publicationSubCategoryId=63)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

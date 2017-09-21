@@ -10,6 +10,7 @@
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601103&sid=aqLTFbNWiqhE&refer=us)
 2. [MSNBC.com](http://www.msnbc.msn.com/id/28994296/)
 3. [New York Times](http://www.nytimes.com/2009/02/04/us/politics/04obama.html?hp)
+3. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Video/090203/x_30_nn_brianobamaweb_090203.standard.jpg)
 
 ### Related:
 

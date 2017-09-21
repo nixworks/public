@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/26/us-usa-explosions-boston-shooting-idUSBRE93I0GQ20130426)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130426&t=2&i=726255851&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93P0T7S00)
 
 ### Related:
 

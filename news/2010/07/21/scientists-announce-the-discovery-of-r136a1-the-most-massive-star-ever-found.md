@@ -9,3 +9,4 @@
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010721145010578146.html)
 2. [BBC](http://www.bbc.co.uk/news/science-environment-10707416)
+2. [Cover Image](http://www.aljazeera.com)

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eurozone-greece-clashes-idUSKBN0TP0SD20151206?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151206&t=2&i=1100330976&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB50GV)
 
 ### Related:
 

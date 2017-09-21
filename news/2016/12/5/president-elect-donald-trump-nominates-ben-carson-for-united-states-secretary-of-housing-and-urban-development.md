@@ -8,6 +8,7 @@ President-elect’s former rival for Republican presidential nomination says he 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/us-news/2016/dec/05/ben-carson-housing-secretary-nomination-trump-administration)
+1. [Cover Image](https://i.guim.co.uk/img/media/74435cc9d94f8f4bfae028bac87f8704f0238373/789_23_2129_1278/master/2129.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0f8141d1f52994813fe8d5e1087f073f)
 
 ### Related:
 

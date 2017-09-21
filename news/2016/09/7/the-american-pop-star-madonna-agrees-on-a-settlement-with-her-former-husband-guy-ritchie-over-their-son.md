@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-37301920)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16C8E/production/_91062339_madonnapa.jpg)
 
 ### Related:
 

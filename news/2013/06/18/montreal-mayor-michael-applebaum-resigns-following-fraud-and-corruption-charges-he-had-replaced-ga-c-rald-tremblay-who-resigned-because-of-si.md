@@ -8,6 +8,7 @@ Montreal Mayor Michael Applebaum has resigned in the wake of corruption charges 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2013/06/18/montreal-mayor-michael-applebaum-arrested-charged-fraud.html)
+1. [Cover Image](https://i.cbc.ca/1.1393176.1378971079!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-applepresser.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ TTP claims responsibility for attack
 
 1. [Reuters via SBS](http://www.sbs.com.au/news/article/2015/09/18/taliban-gunmen-kill-17-attack-pakistan-air-force-base)
 2. [The Express Tribune](http://tribune.com.pk/story/959024/militants-attack-pakistan-air-force-base-in-peshawar/)
+2. [Cover Image](https://c.tribune.com.pk/2015/09/959024-PAFF-1442550199-791-640x480.jpg)
 
 ### Related:
 

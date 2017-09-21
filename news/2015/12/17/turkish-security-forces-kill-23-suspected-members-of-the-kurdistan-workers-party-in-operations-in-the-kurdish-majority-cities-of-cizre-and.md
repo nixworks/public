@@ -9,6 +9,7 @@ Turkish security forces kill 23 suspected PKK members in two days of operations 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35120148)
 2. [Today's Zaman](http://www.todayszaman.com/anasayfa_hdp-deputy-security-forces-fired-in-streets-raided-homes-in-silopi_407133.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1542D/production/_87258078_902b742b-e725-48de-bfe2-49ccab11df35.jpg)
 
 ### Related:
 

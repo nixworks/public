@@ -8,6 +8,7 @@ Maverick French-American mathematician Benoit Mandelbrot, who explored a new cla
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2010/10/17/3040457.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

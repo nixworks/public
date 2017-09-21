@@ -8,6 +8,7 @@ The government is to create a marine reserve almost as big as the UK in the Atla
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-35216313)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/15F81/production/_87458998_87458997.jpg)
 
 ### Related:
 

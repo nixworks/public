@@ -8,6 +8,7 @@ The Maldives has left the Commonwealth, claiming it was &quot;unfairly and unjus
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/10/13/maldives-leaves-commonwealth-as-it-claims-unfair-treatment-in-ro/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/10/13/85200462_Maldives-beach-jetty-NEWS-xlarge_trans_NvBQzQNjv4Bq4U72PvVlAMIniqBdHHa0YTQyZqoZ4b2a5leIf3Cyqkg.jpg)
 
 ### Related:
 

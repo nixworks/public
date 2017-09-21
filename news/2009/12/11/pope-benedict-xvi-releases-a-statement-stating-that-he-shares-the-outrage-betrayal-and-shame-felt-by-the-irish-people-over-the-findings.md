@@ -10,6 +10,7 @@ Pope Benedict has said he shares the &#39;outrage, betrayal and shame&#39; felt 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8407210.stm)
 2. [CNN](http://www.cnn.com/2009/WORLD/europe/12/11/vatican.ireland.child.abuse/index.html)
 3. [RTÉ](http://www.rte.ie/news/2009/1211/abuse.html)
+3. [Cover Image](https://img.rasset.ie/00020348-1600.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8639223.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE63M10O20100423?feedType=RSS&feedName=worldNews)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/apr/23/30-killed-baghdad-blasts)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100423&t=2&i=96439673&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-23T130445Z_01_BTRE63M10BZ00_RTROPTP_0_IRAQ-VIOLENCE-BOMBS-INCREASE)
 
 ### Related:
 

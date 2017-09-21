@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/CA8019B2-3495-447D-B4CB-DAF250E74761.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3509850.stm)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=4562226)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A sugar industry group paid for studies that underplayed the role that added sug
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/health/health-news/sugar-industry-manipulated-heart-studies-review-finds-n646836)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_53/1359306/151231-sugar-mn-0900_dadaca5425deb5d8e9892bd6981d29ab.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ An Australian victims group says the Pope should apologise to abuse victims in A
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0321/breaking4.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0322/1224266809163.html)
 5. [The Sunday Times](http://www.timesonline.co.uk/tol/news/world/europe/article7069826.ece)
+5. [Cover Image](http://www.abc.net.au/news/image/1188356-1x1-700x700.jpg)
 
 ### Related:
 

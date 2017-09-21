@@ -8,6 +8,7 @@ Silvana Koch-Mehrin resigns as vice-president of the European Parliament - a sec
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13369608)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52163000/jpg/_52163244_newsilvgetty.jpg)
 
 ### Related:
 

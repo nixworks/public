@@ -12,6 +12,7 @@ Sitting at home taking in the sea views from the balcony, President Emeritus Gui
 3. [TVNZ](http://tvnz.co.nz/world-news/former-malta-president-marco-dies-79-3700244)
 4. [The Times of Malta](http://www.timesofmalta.com/articles/view/20100812/local/born-again-de-marco-cherishing-life-anew)
 5. [The Voice of Russia](http://english.ruvr.ru/2010/08/13/15557137.html)
+5. [Cover Image](https://cdn-attachments.timesofmalta.com/4b0ef52033d602c054346690a84ad28e-1568038857-1300501368-4d841378-620x348.jpg)
 
 ### Related:
 

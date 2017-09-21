@@ -10,6 +10,7 @@ Police in Bangkok charge a man in connection with the bomb attack that killed 20
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_THAILAND_EXPLOSION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-asia-34101309)
 3. [The Banjkok Post](http://bangkokpost.com/news/general/673552/police-hold-erawan-bomb-suspect)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3D5B/production/_85270751_hi028760190.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish officials say 15 Kurdish militants, all of them women, have died in figh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17500617)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59281000/gif/_59281282_turkey_bitlis_mar2012.gif)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16778292)
 2. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/UN-nuclear-inspection-under-way-in-Iran/articleshow/11675114.cms)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58161000/jpg/_58161512_013854007-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/04/27/Iran-jails-four-journalists-for-acting-against-national-security-and-aiding-US/6241461778595/?spt=rln&or=3)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/6241461778595/2016/1/ec219c9fee7afdacfa0e384c56a51ba3/v1.5/Iran-jails-four-journalists-for-acting-against-national-security-and-aiding-US.jpg)
 
 ### Related:
 

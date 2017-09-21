@@ -8,6 +8,7 @@ Landslides and floods kill at least 76 following three days of rains.
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/201262743136333529.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/27/201262743956464734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/heres-putins-next-move-2014-7)
+1. [Cover Image](http://static4.businessinsider.com/image/53d8c7326bb3f763170dc1b3-1190-625/putins-next-move-could-involve-gas.jpg)
 
 ### Related:
 

@@ -22,6 +22,7 @@
 13. [Ynet](http://www.ynetnews.com/Ext/Comp/CdaNewsFlash/0,2297,L-3275530_3089,00.html)
 14. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275609,00.html)
 15. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275923,00.html)
+15. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

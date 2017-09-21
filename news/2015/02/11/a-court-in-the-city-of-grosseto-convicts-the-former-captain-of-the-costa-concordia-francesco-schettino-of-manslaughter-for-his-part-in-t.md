@@ -8,6 +8,7 @@ Costa Concordia captain Francesco Schettino is jailed for 16 years for the mansl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-31430998)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80948000/jpg/_80948103_80946427.jpg)
 
 ### Related:
 

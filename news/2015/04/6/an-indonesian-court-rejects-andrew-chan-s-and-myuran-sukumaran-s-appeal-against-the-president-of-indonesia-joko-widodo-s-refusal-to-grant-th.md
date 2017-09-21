@@ -8,6 +8,7 @@ Indonesian court rules two Australians on death row not allowed to challenge pre
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-04-06/court-decides-on-bali-nine-pair-appeal-against-execution/6373032)
+1. [Cover Image](http://www.abc.net.au/news/image/6137712-1x1-700x700.jpg)
 
 ### Related:
 

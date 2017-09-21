@@ -12,6 +12,7 @@ Hurricane Matthew heads towards Jamaica, with wind speeds strong enough to wreck
 3. [The Los Angeles Times](http://www.latimes.com/world/la-fg-hurricane-matthew-20161002-snap-story.html)
 4. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/020252.shtml?)
 5. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/022037.shtml?)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13FE8/production/_91469818_mediaitem91469816.jpg)
 
 ### Related:
 

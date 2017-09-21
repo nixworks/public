@@ -8,6 +8,7 @@ Two separate groups are vying for credit in what some might consider the researc
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2010/09/15/business/15chocolate.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

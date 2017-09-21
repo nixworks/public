@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/18728-aquino-signs-rh-bill-into-law)
+1. [Cover Image](http://static.rappler.com/images/RHlawsignatures.jpg)
 
 ### Related:
 

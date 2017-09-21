@@ -8,6 +8,7 @@ The US envoy to the Middle East, George Mitchell, is stepping down after two yea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13393047)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52709000/gif/_52709278_6rnbclyf.gif)
 
 ### Related:
 

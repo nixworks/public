@@ -8,6 +8,7 @@ SEOUL: South Korea today approved the first shipment of humanitarian aid to Nort
 ### Source:
 
 1. [AFP via FMT](http://www.freemalaysiatoday.com/category/world/2013/03/22/s-korea-approves-first-n-korea-aid-since-rocket-launch/)
+1. [Cover Image](http://s3media.freemalaysiatoday.com/wp-content/uploads/2013/03/360589-north-korean-rocket-launch.jpg)
 
 ### Related:
 

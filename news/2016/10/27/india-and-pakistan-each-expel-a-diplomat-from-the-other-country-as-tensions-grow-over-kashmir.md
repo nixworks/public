@@ -9,6 +9,7 @@ By Tommy Wilkes and Amjad Ali NEW DELHI/ISLAMABAD (Reuters) - India and Pakistan
 
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/10/27/world/asia/ap-as-pakistan-india.html?_r=0)
 2. [Reuters via SwissInfo.ch](http://www.swissinfo.ch/eng/reuters/india--pakistan-to-expel-diplomats-amid-kashmir-tension/42549152)
+2. [Cover Image](/static/Themes/basic/img/logos/swi_logo_1200x630.jpg)
 
 ### Related:
 

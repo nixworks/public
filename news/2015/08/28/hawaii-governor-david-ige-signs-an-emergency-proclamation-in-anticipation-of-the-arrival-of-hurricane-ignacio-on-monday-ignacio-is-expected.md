@@ -11,6 +11,7 @@ Gov. David Ige signed an emergency proclamation on Friday in anticipation of the
 2. [Hawaii News Now](http://www.hawaiinewsnow.com/story/29912019/gov-ige-signs-emergency-proclamation-as-hurricane-ignacio-tracks-toward-state)
 3. [Maui Now](http://mauinow.com/2015/08/28/hurricanes-ignacio-jimena-expected-to-strengthen/)
 4. [The Honolulu Star-Advertiser](http://www.staradvertiser.com/news/breaking/20150824_Kilo_Loke_moving_into_Northwest_Hawaiian_Islands.html?id=322716741)
+4. [Cover Image](http://KHNL.images.worldnow.com/images/8383133_G.jpg)
 
 ### Related:
 

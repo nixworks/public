@@ -13,6 +13,7 @@ More than 400 people fleeing Libya and Tunisia arrived overnight in an Italian i
 4. [CNN](http://www.cnn.com/2011/WORLD/africa/05/14/libya.war/index.html)
 5. [Tripoli Post](http://tripolipost.com/articledetail.asp?c=1&i=6013)
 6. [VoA](http://www.voanews.com/english/news/Libyan-Opposition-Reaches-out-to-France-121827009.html)
+6. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/05/14/libya.refugees/tzvids.libya.refugees.afp.gi.jpg)
 
 ### Related:
 

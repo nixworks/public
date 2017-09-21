@@ -8,6 +8,7 @@ The government has introduced a controversial bill it says balances the rights o
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/technology/story/2008/06/12/tech-copyright.html)
+1. [Cover Image](https://i.cbc.ca/1.2223139.1382676337!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-prentice-cbc080612.jpg)
 
 ### Related:
 

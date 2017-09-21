@@ -8,6 +8,7 @@ Officials are reportedly considering a plan to move Guantanamo detainees to a sp
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0803/guantanamo.html)
+1. [Cover Image](https://img.rasset.ie/0002181f-1600.jpg)
 
 ### Related:
 

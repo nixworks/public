@@ -8,6 +8,7 @@ Communities along the eastern NT coast are readying for their second major storm
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-03-21/eastern-nt-bracing-for-cyclone-nathan/6337724)
+1. [Cover Image](http://www.abc.net.au/news/image/6337826-1x1-700x700.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Fifty-five people were drowned,or missing and presumed to have drowned, after an
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20801092)
 3. [CNN](http://www.cnn.com/2012/12/20/world/somalia-boat-deaths/)
 4. [Reuters](http://www.reuters.com/article/2012/12/20/somalia-boat-idUSL5E8NKCOY20121220)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

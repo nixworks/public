@@ -8,6 +8,7 @@ Convicted murderer and escaped inmate David Sweat was shot near the Canadian bor
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/new-york-prison-escape/escaped-inmate-david-sweat-shot-malone-new-york-n383411)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_27/1097656/sweat_af13fbd4acdf9f87bc6f6764b99ceff7.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

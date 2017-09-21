@@ -13,6 +13,7 @@ The man who devised the fertility treatment IVF is awarded the Nobel prize for m
 4. [BBC](http://www.bbc.co.uk/news/health-11465715)
 5. [BBC](http://www.bbc.co.uk/news/health-11472753)
 6. [Nobel Prize](http://nobelprize.org/nobel_prizes/medicine/laureates/2010/)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

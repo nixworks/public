@@ -8,6 +8,7 @@ At least 24 people were killed and 50 injured when an overcrowded bus collided w
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bus-crash-in-india-kills-24-20100627-zbcg.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

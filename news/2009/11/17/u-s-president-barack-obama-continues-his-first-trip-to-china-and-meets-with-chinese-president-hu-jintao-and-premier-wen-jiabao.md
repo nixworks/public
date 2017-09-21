@@ -10,6 +10,7 @@ U.S. President Barack Obama was set to continue his effort to court China while 
 1. [Asia Times Online](http://www.atimes.com/atimes/China/KK19Ad02.html)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5AE15L20091117)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-11/17/content_12478330.htm)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091117&t=2&i=13533212&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-17T220354Z_01_BTRE5AG08QU00_RTROPTP_0_OBAMA-CHINA)
 
 ### Related:
 

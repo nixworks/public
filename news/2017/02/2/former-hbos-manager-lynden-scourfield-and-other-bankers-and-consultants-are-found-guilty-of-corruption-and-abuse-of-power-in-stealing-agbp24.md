@@ -8,6 +8,7 @@ Fraud bankers and consultants indulged in sex parties and luxury holidays as the
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/business/2017/feb/02/hbos-manager-and-other-city-financiers-jailed-over-245m-loans-scam)
+1. [Cover Image](https://i.guim.co.uk/img/media/b6961ebbda09f71782c4b6e64ff60d8cfa68b4cf/0_74_511_307/master/511.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2de40804aa4c2d52128075f34ec6fc7e)
 
 ### Related:
 

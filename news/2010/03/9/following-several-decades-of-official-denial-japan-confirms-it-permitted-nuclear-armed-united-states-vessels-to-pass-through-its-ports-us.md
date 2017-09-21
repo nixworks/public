@@ -12,6 +12,7 @@ The agreements were made public in the United States years ago, but until recent
 3. [People's Daily Online](http://english.people.com.cn/90001/90777/90851/6913762.html)
 4. [The New York Times](http://www.nytimes.com/2010/03/10/world/asia/10japan.html?hp)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/09/AR2010030900183.html)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The discovery of an iron meteorite sitting on Mars by NASA’s Opportunity rover
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4192617.stm)
 2. [Space.com](http://www.space.com/missionlaunches/mars_meteor_050120.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMC84MjYvb3JpZ2luYWwvaF9vcHBvcnR1bml0eV9yb2NrMDEyMF8yXzAyLmpwZw==)
 
 ### Related:
 

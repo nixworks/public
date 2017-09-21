@@ -10,6 +10,7 @@ British grandmother Lindsay Sandiford is sentenced to death by firing squad in B
 1. [BBC](http://www.bbc.co.uk/news/uk-21137649)
 2. [CNN](http://edition.cnn.com/2013/01/22/world/asia/indonesia-uk-death-sentence)
 3. [Sky News](http://news.sky.com/story/1041142/bali-death-penalty-for-british-drug-smuggler)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65428000/jpg/_65428594_c4a7c10c.jpg)
 
 ### Related:
 

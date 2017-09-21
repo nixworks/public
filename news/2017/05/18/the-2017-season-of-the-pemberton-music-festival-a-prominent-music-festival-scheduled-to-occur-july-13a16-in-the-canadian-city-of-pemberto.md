@@ -8,6 +8,7 @@ The biggest music festival in B.C. has been cancelled. Global News has learned t
 ### Source:
 
 1. [Global News](https://globalnews.ca/news/3462901/2017-pemberton-music-festival-cancelled-no-automatic-ticket-refunds/)
+1. [Cover Image](https://shawglobalnews.files.wordpress.com/2013/09/5238739.jpg?quality=70&strip=all&w=720&h=480&crop=1)
 
 ### Related:
 

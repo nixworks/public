@@ -10,6 +10,7 @@ Yangon, Jan 10 (DPA) Myanmars newly elected chambers of parliament are to hold t
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gzjbjI0hF3qxq8hq5kPfH3KSgxbw?docId=CNG.be52d05c6ef86cc2c693b368eb0aa63f.791)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12149244)
 3. [Sify India](http://www.sify.com/news/myanmar-s-parliament-to-convene-jan-31-news-international-lbkxOejcaga.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

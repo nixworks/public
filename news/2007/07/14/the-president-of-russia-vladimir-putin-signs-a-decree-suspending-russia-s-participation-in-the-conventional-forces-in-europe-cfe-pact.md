@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2007-07-14T083137Z_01_L14393402_RTRUKOC_0_US-SECURITY-RUSSIA-EUROPE.xml)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

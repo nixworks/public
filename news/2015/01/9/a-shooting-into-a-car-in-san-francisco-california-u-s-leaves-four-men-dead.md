@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP](http://news.yahoo.com/four-men-shot-dead-car-san-francisco-california-105601562.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

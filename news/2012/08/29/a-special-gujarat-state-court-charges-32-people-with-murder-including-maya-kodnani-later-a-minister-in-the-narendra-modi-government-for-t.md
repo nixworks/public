@@ -9,6 +9,7 @@ Former BJP minister Maya Kodnani is among 32 people who have been convicted by a
 
 1. [Firstpost](http://www.firstpost.com/politics/naroda-patiya-verdict-who-said-what-434862.html)
 2. [The Washington Post](http://www.washingtonpost.com/world/indian-court-convicts-former-government-minister-in-deadly-2002-riots/2012/08/29/3745a438-f1b3-11e1-b74c-84ed55e0300b_story.html)
+2. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2012/08/naroda.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Josef Stalin&#039;s grandson has lost a bizarre legal case he hoped would rehabi
 
 1. [RIA Novosti](http://en.rian.ru/society/20091013/156455944.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/6319755/Josef-Stalins-grandson-loses-legal-attempt-at-rehabilitating-Soviet-dictators-reputation.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01499/stalin_1499310a.jpg)
 
 ### Related:
 

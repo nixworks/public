@@ -10,6 +10,7 @@ A petrol bomb attack during a staff meeting at a rural bank in north-west China 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13385613)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/Blast-at-a-rural-bank-in-China-injures-39/articleshow/8294735.cms)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-05/13/c_13873121.htm)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52693000/jpg/_52693993_011963632-1.jpg)
 
 ### Related:
 

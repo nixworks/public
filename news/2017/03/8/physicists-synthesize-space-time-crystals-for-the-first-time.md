@@ -9,3 +9,4 @@ Scientists have created an exotic form of matter known as a time crystal, which 
 
 1. [Live Science](http://www.livescience.com/58171-time-crystals-created-in-the-lab.html)
 2. [Nature](http://www.nature.com/news/the-quest-to-crystallize-time-1.21595)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5MC8xODEvb3JpZ2luYWwvdGltZS1jcnlzdGFsLmpwZw==)

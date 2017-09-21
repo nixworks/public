@@ -8,6 +8,7 @@ Pope Francis on Friday called for dialogue between faiths to end the Islamist ex
 ### Source:
 
 1. [AFP via ''The Times of India](http://timesofindia.indiatimes.com/world/europe/Pope-Francis-pleads-for-dialogue-to-end-extremism-on-Turkey-visit/articleshow/45313653.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/45313663.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ EU leaders meeting in Brussels say distrust of the US over spying could harm int
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24668286#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70706000/jpg/_70706351_zxcolely.jpg)
 
 ### Related:
 

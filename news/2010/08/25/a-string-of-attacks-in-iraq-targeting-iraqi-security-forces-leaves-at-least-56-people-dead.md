@@ -9,6 +9,7 @@ With a withering wave of assaults on security forces, which killed dozens, insur
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/24/AR2010082400600.html?hpid=moreheadlines)
 2. [New York Times](http://www.nytimes.com/2010/08/26/world/middleeast/26iraq.html)
+2. [Cover Image](https://static01.nyt.com/images/2010/08/26/world/26iraqspan-cnd/26iraqspan-cnd-thumbStandard.jpg)
 
 ### Related:
 

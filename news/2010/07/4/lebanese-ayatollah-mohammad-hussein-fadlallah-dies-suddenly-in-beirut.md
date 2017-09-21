@@ -12,6 +12,7 @@
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=133319&sectionid=351020203)
 4. [RTÉ](http://www.rte.ie/news/2010/0704/fadlallahmh.html)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/04/c_13383134.htm)
+5. [Cover Image](https://img.rasset.ie/00037871-1600.jpg)
 
 ### Related:
 

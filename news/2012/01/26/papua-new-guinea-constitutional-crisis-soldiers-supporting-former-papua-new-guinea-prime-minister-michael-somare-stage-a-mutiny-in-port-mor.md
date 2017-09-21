@@ -8,6 +8,7 @@ The retired colonel who claims to have seized control of PNG&#039;s military thr
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2012-01-26/military-mutiny-underway-in-png/3794314)
+1. [Cover Image](http://www.abc.net.au/news/image/3794810-1x1-700x700.jpg)
 
 ### Related:
 

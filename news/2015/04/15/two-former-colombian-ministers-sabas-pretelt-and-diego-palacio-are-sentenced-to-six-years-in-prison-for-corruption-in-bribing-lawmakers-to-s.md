@@ -8,6 +8,7 @@ BOGOTA, Colombia (AP) — Colombia&#8217;s Supreme Court convicted two close aid
 ### Source:
 
 1. [AP via WTOP](http://wtop.com/latin-america/2015/04/ex-colombia-ministers-convicted-of-bribes-on-behalf-of-uribe/)
+1. [Cover Image](http://wtop.com/wp-content/uploads/2015/04/Colombia-Corruption.jpeg)
 
 ### Related:
 

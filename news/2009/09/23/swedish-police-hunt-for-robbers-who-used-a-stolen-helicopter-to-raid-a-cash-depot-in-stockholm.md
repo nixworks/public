@@ -9,6 +9,7 @@ Business experts fear that a break-in at a cash depot in Sweden could lead to a 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8270619.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0923/sweden.html)
+2. [Cover Image](https://img.rasset.ie/00029daf-1600.jpg)
 
 ### Related:
 

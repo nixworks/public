@@ -9,6 +9,7 @@ Pakistani and Indian forces clash near the disputed region and trade blame over 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010523143658362649.html)
 2. [Hindustan Times](http://www.hindustantimes.com/Pak-troops-violate-ceasefire-open-fire-at-Indian-post-along-LoC/H1-Article1-547435.aspx)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

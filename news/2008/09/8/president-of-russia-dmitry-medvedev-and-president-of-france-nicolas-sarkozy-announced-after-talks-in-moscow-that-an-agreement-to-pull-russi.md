@@ -10,6 +10,7 @@
 1. [Financial Times](http://www.ft.com/cms/s/0/bdffd9a6-7b71-11dd-b839-000077b07658.html)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSL272497420080908?feedType=RSS&feedName=worldNews&pageNumber=3&virtualBrandChannel=0)
 3. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080908.wrussia0908/BNStory/International/?page=rss&id=RTGAM.20080908.wrussia0908)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080908&t=2&i=5907904&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-08T202312Z_01_L2724974_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

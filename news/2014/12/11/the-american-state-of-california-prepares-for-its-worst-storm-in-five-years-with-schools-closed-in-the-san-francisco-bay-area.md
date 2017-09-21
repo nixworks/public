@@ -8,6 +8,7 @@ A ferocious storm is forecast to batter California with drenching rain, heavy sn
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/weather/2014/12/10/california-storm/20187287/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

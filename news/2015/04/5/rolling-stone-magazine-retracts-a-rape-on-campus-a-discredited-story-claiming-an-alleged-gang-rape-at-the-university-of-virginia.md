@@ -8,6 +8,7 @@ Rolling Stone magazine has apologized and officially retracted its discredited a
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/university-of-virginia-rolling-stone-magazine-apologises-and-retracts-discredited-rape-story-10157668.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/04/06/01/university-of-virginia.jpg)
 
 ### Related:
 

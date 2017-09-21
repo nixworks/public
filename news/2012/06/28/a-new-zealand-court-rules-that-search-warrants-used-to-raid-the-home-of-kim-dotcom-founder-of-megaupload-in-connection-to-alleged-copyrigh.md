@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/06/28/us-newzealand-dotcom-court-idUSBRE85R08720120628)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120628&t=2&i=624274262&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE85R0I2R00)
 
 ### Related:
 

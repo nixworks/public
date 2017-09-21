@@ -11,6 +11,7 @@
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1680038,00.html)
 3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/LSGZ-6ARCD5?OpenDocument)
 4. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42410d4f:873ca14e478e439a?type=topNews&localeKey=en_ZA&storyID=7979712)
+4. [Cover Image](http://www.cidrap.umn.edu/sites/default/themes/siteskin/inc/images/logo-fb.png)
 
 ### Related:
 

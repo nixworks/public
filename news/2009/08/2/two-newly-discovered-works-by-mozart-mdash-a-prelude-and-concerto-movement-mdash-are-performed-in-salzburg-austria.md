@@ -10,6 +10,7 @@ An Austrian pianist performed two newly discovered pieces by Wolfgang Amadeus Mo
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jdIpbnNm3YEuTPMHQ4WIuKiTiSlwD99QODS80)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8180138.stm)
 3. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE5710N020090802)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090802&t=2&i=11089376&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-02T123233Z_01_BTRE5710YUD00_RTROPTP_0_MUSIC-MOZART)
 
 ### Related:
 

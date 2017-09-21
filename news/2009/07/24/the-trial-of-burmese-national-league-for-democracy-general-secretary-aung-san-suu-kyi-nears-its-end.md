@@ -10,6 +10,7 @@ Prosecution given extra time to compile final arguments against Nobel prize winn
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/2009724114148441717.html)
 2. [Jakarta Globe](http://thejakartaglobe.com/afp/myanmar-defiant-as-suu-kyi-trial-enters-final-stage/319966)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6726224.ece)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

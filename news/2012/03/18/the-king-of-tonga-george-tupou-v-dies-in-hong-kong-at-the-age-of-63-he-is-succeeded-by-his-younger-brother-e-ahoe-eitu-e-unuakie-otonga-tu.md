@@ -8,6 +8,7 @@ The King of Tonga has died in Hong Kong, sparking an outpouring of grief in the 
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10793035)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201212/SCCZEN_A_NZPA106991_1024x768.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/12/pope-calls-peace-south-sudan-syria-2013122512534510684.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/25/20131225125715280580_20.jpg)
 
 ### Related:
 

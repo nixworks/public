@@ -8,6 +8,7 @@ Five men are formally charged with the gang rape and murder of a young woman in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20930101)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65110000/jpg/_65110170_rdayn9hh.jpg)
 
 ### Related:
 

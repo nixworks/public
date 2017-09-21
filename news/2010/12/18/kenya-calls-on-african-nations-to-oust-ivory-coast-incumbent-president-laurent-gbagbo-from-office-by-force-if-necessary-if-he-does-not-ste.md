@@ -9,6 +9,7 @@ Kenyan PM calls on African nations to oust Ivorian incumbent president Gbagbo if
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012188402027780.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12028263)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/18/20101218930028621_20.jpg)
 
 ### Related:
 

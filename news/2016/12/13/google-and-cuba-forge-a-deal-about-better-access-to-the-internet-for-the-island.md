@@ -8,6 +8,7 @@ Deal that eliminates long distances signal have to travel through Venezuela remo
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/dec/12/google-cuba-deal-data-servers)
+1. [Cover Image](https://i.guim.co.uk/img/media/6e0fe3b898d9ee885a6a2240a3e80aa827a13411/0_26_2404_1442/master/2404.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=82351b3ca25168c5368ea88dfa0896ac)
 
 ### Related:
 

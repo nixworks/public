@@ -9,6 +9,7 @@ Nearly a month of jousting on social media culminated Tuesday in the arrest of a
 
 1. [New York Times](http://www.nytimes.com/2016/03/30/us/politics/trump-campaign-manager-corey-lewandowski.html)
 2. [The Palm Beach Post](http://www.palmbeachpost.com/news/news/local/trump-aide-charged-with-misdemeanor-battery-on-ex-/nqtkY/)
+2. [Cover Image](http://www.palmbeachpost.com/rf/image/Pub/p7/PalmBeachPost/2016/03/29/Images/photos.medleyphoto.9205021.jpg)
 
 ### Related:
 

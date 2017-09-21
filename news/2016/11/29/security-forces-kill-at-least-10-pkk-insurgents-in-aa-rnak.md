@@ -8,6 +8,7 @@ Six others also remanded on charges of aiding terrorist group PKK - Anadolu Agen
 ### Source:
 
 1. [Anadolu Agency](http://aa.com.tr/en/todays-headlines/29-pkk-terrorists-neutralized-in-se-turkey-operations/695740)
+1. [Cover Image](http://aa.com.tr/uploads/Contents/2016/11/29/thumbs_m_c_f6002e04ced5e9c1836e5fff8a8f92e1.jpg?v=095656)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Angola’s governing party took a lead in a parliamentary election and is on tra
 ### Source:
 
 1. [Reuters via ''The New York Times](http://www.nytimes.com/2008/09/09/world/africa/09briefs-GOVERNINGPAR_BRF.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

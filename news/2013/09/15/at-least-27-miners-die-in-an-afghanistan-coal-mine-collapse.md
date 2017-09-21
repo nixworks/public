@@ -9,6 +9,7 @@ Officials say tunnel collapse at Abkhorak mine in northern Samangan province has
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/09/201391563752759330.html)
 2. [Reuters](http://www.reuters.com/article/2013/09/15/us-afghanistan-mine-idUSBRE98E02A20130915)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/9/15/20139156132379734_20.jpg)
 
 ### Related:
 

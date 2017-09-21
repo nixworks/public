@@ -8,6 +8,7 @@ A radioactive smart bomb might help mop up the last bits of AIDS virus hiding ou
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/health/targeted-radioactive-bomb-might-clean-out-aids-virus-study-finds-2D11689347)
+1. [Cover Image](https://media2.s-nbcnews.com/j/streams/2013/december/131203/2d9842065-131203-world-aids-day-hmed-3p.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

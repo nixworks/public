@@ -15,6 +15,7 @@ Opposition cancels rallies after preemptive arrests, threats.
 6. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/middleeast/la-fg-iran-protests-2010-0613-20100612,0,6359771.story)
 7. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=221115)
 8. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3903993,00.html)
+8. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=32127)
 
 ### Related:
 

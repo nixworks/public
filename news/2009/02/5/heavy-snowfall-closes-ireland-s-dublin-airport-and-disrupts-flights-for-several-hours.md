@@ -8,6 +8,7 @@ The Dublin Airport Authority says the airport has reopened and flights have resu
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0205/weather.html)
+1. [Cover Image](https://img.rasset.ie/00020b4c-1600.jpg)
 
 ### Related:
 

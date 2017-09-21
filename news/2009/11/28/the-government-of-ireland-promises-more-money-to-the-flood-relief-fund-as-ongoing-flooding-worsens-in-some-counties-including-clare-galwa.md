@@ -8,6 +8,7 @@ The Government has confirmed that further financial assistance will be made avai
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1128/weather.html)
+1. [Cover Image](https://img.rasset.ie/0002c9f6-1600.jpg)
 
 ### Related:
 

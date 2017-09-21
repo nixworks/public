@@ -8,6 +8,7 @@ The Turkish government seizes control of the Zaman newspaper linked to an exiled
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35729114)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15A5C/production/_88586688_88585410.jpg)
 
 ### Related:
 

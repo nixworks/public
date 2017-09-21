@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2011/05/14/us-yemen-idUSTRE73L1PP20110514)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/14/c_13874334.htm)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110514&t=2&i=414664209&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-14T160606Z_01_BTRE74C1HZC00_RTROPTP_0_YEMEN)
 
 ### Related:
 

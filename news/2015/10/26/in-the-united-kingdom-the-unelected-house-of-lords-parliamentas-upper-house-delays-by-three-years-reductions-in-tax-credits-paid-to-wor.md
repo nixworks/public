@@ -9,6 +9,7 @@ U.K. Chancellor of the Exchequer George Osborne suffered his first major setback
 
 1. [BBC](http://www.bbc.com/news/uk-politics-34644262)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-10-26/u-k-lords-vote-to-delay-osborne-s-welfare-cuts-for-parents)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBfBZCKa4iAg/v1/1200x675.jpg)
 
 ### Related:
 

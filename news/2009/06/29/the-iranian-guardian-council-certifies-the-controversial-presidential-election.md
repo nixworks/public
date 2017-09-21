@@ -8,6 +8,7 @@ The unexpectedly rapid decision by the Guardian Council set off angry screaming 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/06/30/world/middleeast/30iran.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/06/30/world/30iran_75.jpg)
 
 ### Related:
 

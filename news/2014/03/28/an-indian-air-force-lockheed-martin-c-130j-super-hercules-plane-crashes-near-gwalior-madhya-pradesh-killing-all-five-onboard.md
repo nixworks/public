@@ -8,6 +8,7 @@ Less than 10 minutes after it took off from Agra, one of the Indian Air Force&#0
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/air-force-s-new-c-130-j-aircraft-crashes-near-gwalior-five-killed-501343?curl=1395996681)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-03/plane_crash_india_650.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Weather Zone](http://www.weatherzone.com.au/news/tropical-cyclone-amos-intensifies-on-approach-to-samoa/494096)
+1. [Cover Image](http://wz5.resources.weatherzone.com.au/images/logos/wz-512x512.jpg)
 
 ### Related:
 

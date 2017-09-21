@@ -13,6 +13,7 @@ India has reported an outbreak of a highly contagious bird flu virus in the sout
 4. [Reuters](http://www.reuters.com/article/us-health-birdflu-india-idUSKBN13K1U9)
 5. [The New York Times](http://www.nytimes.com/aponline/2016/11/25/world/europe/ap-eu-germany-bird-flu.html?_r=0)
 6. [WHO](http://www.who.int/influenza/human_animal_interface/avian_influenza/riskassessment_AH5N8_201611/en/)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

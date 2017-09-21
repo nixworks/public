@@ -8,6 +8,7 @@ Army&#x20;rulers&#x20;in&#x20;Egypt&#x20;decided&#x20;Sunday&#x20;to&#x20;bring&
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20120101-egypt-elections-cairo-muslim-brotherhood-hosni-mubarak)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Tantaoui---Egypte_0.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 500,000 people - a quarter of them children - were homeless in the Uni
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/20/us-usa-homelessness-idUSKCN0T908720151120#tHdY88eBiwMYrAIM.97)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151120&t=2&i=1096356005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAJ03A)
 
 ### Related:
 

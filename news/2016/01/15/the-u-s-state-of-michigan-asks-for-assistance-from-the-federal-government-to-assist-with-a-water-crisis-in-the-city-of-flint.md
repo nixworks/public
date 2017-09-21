@@ -8,6 +8,7 @@ Michigan Governor Rick Snyder has asked President Barack Obama to declare both a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-michigan-water-idUSKCN0UT1MG)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160115&t=2&i=1109815045&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0E0W7)
 
 ### Related:
 

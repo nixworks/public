@@ -8,6 +8,7 @@ The dollar extended losses late on Thursday, hitting fresh record lows against t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/hotStocksNews/idUST24480320080313)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080313&t=2&i=3513307&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-13T203645Z_01_T244803_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

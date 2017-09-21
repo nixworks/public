@@ -8,6 +8,7 @@ The withdrawal of the Slovenian commission candidate clears the way for a new no
 ### Source:
 
 1. [EU Observer](http://euobserver.com/political/125991)
+1. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/af71eec58a99202c6b1349fbfeb36d43-480x.jpg)
 
 ### Related:
 

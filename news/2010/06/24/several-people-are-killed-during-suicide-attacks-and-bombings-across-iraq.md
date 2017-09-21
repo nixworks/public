@@ -8,6 +8,7 @@ Suicide attacks and bombings across country leave several security personnel dea
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010624132715557277.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

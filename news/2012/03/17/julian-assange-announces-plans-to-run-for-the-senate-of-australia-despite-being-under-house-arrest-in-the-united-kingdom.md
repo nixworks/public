@@ -8,6 +8,7 @@ WIKILEAKS founder Julian Assange plans to run for a seat in the Australian Senat
 ### Source:
 
 1. [News Limited](http://www.news.com.au/national/how-strange-julian-assange-announces-plan-to-run-for-the-australian-senate/story-e6frfkvr-1226302505248)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/455234bb1e272aed39f0af8aac2d7e6f)
 
 ### Related:
 

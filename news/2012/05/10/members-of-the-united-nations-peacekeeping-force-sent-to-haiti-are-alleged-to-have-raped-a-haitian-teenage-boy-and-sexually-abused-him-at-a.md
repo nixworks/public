@@ -8,6 +8,7 @@ Haitian teenager who says he was raped by Uruguayan members of UN peacekeeping f
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/americas/2012/05/20125105177557662.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/10/20125105336142580_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Duke of Cambridge arrives in the Falklands for a tour of duty as an RAF pilo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16859361)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58262000/jpg/_58262185_86224df1-e85c-4206-a3fe-a4bf6e32c329.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Kurdistan Workers Party (PKK) militants kill three Turkish police officers overn
 
 1. [Daily Sabah](http://www.dailysabah.com/nation/2015/09/16/5-police-officers-killed-by-pkk-terrorists-in-southeastern-turkey)
 2. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Sep-16/315432-pkk-bomb-attack-clashes-kill-12-in-southeast-turkey-sources.ashx)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/09/16/454497_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

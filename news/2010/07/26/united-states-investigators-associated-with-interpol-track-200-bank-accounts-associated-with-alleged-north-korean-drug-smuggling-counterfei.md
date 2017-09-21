@@ -8,6 +8,7 @@ US investigators working with Interpol are understood to have tracked 200 bank a
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/07/27/2964944.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

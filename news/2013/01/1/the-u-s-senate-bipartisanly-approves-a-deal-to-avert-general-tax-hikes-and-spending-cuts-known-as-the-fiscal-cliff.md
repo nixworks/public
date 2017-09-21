@@ -13,6 +13,7 @@ The US Senate approves a deal to avert a combination of tax hikes and spending c
 4. [New York Post](http://www.nypost.com/p/news/national/fiscal_cliff_deal_approved_house_DXAki3A2tPMkLvlCcEqDEL)
 5. [Reuters](http://www.reuters.com/article/2013/01/01/us-usa-fiscal-idUSBRE8A80WV20130101)
 6. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/us-politics/9774979/Fiscal-cliff-US-House-of-Representatives-approves-deal.html)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65027000/jpg/_65027960_65027959.jpg)
 
 ### Related:
 

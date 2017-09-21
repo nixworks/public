@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/canada/montreal-city-hall-locked-down-as-anti-corruption-squad-conducts-multiple-raids-1.1163313)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1163732.1361327684!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

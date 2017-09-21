@@ -8,6 +8,7 @@ At least seven people are dead and many are missing as the floods on the island 
 ### Source:
 
 1. [Reuters via ABC](http://www.abc.net.au/news/2017-07-07/japan-floods-continue-six-dead-22-still-missing/8688086)
+1. [Cover Image](http://www.abc.net.au/news/image/8688416-1x1-700x700.jpg)
 
 ### Related:
 

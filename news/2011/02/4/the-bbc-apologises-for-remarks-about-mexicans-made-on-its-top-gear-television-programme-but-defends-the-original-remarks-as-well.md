@@ -11,6 +11,7 @@ The BBC apologises over remarks on the TV show Top Gear that provoked outrage in
 2. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0204/breaking23.html)
 3. [Sky News](http://news.sky.com/skynews/Home/UK-News/BBC-Issues-Apology-Over-Top-Gear-Comments-Branding-Mexicans-As-Lazy-Feckless-And-Flatulent/Article/201102115922831?lpos=UK_News_First_UK_News_Article_Teaser_Region_2&lid=ARTICLE_15922831_BBC_Issues_Apology_Over_Top_Gear_Comments_Branding_Mexicans_As_Lazy%2C_Feckless_And_Flatulent)
 4. [TIME](http://newsfeed.time.com/2011/02/03/mexican-anger-at-bbc-car-show-after-xenophobic-comments/)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

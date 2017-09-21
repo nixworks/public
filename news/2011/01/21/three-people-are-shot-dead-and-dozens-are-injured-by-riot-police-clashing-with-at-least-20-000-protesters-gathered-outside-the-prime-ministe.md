@@ -12,6 +12,7 @@ At&#x20;least&#x20;three&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;dozens&
 3. [BBC](http://www.bbc.co.uk/news/world-europe-12256616)
 4. [CNN](http://edition.cnn.com/2011/WORLD/europe/01/21/albania.protests/)
 5. [Radio New Zealand](http://www.radionz.co.nz/news/world/66803/protesters-killed-outside-pm's-office)
+5. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/albanie-new.jpg)
 
 ### Related:
 

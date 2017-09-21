@@ -9,6 +9,7 @@ North Korea begins two days of funeral services for late leader Kim Jong-il with
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16342315)
 2. [Tripoli Post](http://tripolipost.com/articledetail.asp?c=1&i=7573&archive=1)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57588000/jpg/_57588563_013593820-1.jpg)
 
 ### Related:
 

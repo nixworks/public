@@ -9,6 +9,7 @@ Warplane destroys petrol station near Damascus, killing and wounding dozens and 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/201312111453479410.html)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=43866&Cr=syria)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/2/201312192812346734_20.jpg)
 
 ### Related:
 

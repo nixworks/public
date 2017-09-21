@@ -9,6 +9,7 @@ The United States advised its citizens to leave Burundi as soon as possible foll
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/12/13/United-States-warns-citizens-to-leave-Burundi-as-death-toll-in-barracks-attacks-rises-to-87/2271450053812/?spt=rln&or=1)
 2. [US State](http://travel.state.gov/content/passports/en/alertswarnings/burundi-travel-warning.html)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/2271450053812/2015/1/14500554941900/v2.1/US-warns-citizens-to-leave-Burundi-as-death-toll-in-barracks-attacks-rises-to-87.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ So-called Islamic State says one of its militants carried out the deadly Berlin 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-38385961)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/143A7/production/_93055828_mediaitem93055827.jpg)
 
 ### Related:
 

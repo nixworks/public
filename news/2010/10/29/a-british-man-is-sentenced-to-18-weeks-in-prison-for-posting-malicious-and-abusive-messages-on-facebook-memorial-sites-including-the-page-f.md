@@ -8,6 +8,7 @@ An &quot;internet troll&quot; who posted obscene and offensive messages on Faceb
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-manchester-11650593)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

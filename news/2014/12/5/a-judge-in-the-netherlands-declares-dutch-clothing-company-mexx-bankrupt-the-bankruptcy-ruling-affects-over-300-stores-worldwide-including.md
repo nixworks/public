@@ -8,6 +8,7 @@ The shakeup in women&rsquo;s fashion merchandising continues with the bankruptcy
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/business/mexx-goes-bankrupt-affecting-95-canadian-stores-1.2861928?)
+1. [Cover Image](https://i.cbc.ca/1.2861967.1417798201!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/mexx.jpg)
 
 ### Related:
 

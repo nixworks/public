@@ -8,6 +8,7 @@ The actor was sentenced to a maximum of three years in federal prison for three 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/04/25/business/25snipes.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/04/24/business/25snipes01_75.jpg)
 
 ### Related:
 

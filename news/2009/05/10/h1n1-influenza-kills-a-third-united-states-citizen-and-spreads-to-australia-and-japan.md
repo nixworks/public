@@ -8,6 +8,7 @@ A Washington state man with H1N1 influenza died last week, health officials said
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5480IR20090510)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090510&t=2&i=10046667&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-10T095832Z_01_BTRE5480ZMR00_RTROPTP_0_FLU-JAPAN)
 
 ### Related:
 

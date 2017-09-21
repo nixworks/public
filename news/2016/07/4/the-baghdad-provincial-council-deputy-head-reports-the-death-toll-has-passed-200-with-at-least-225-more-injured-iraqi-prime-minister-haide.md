@@ -8,6 +8,7 @@ As more bodies are discovered in the rubble of a Baghdad suicide bombing two day
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/07/04/Death-toll-in-Baghdad-bombing-climbs-past-200/4141467636768/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4141467636768/2016/3/116f1723e03f6e9946f9cbeae4cb1568/v1.5/Death-toll-in-Baghdad-bombing-climbs-past-200.jpg)
 
 ### Related:
 

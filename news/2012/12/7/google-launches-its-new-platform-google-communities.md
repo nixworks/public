@@ -8,6 +8,7 @@ Google has rolled out a brand new feature for its Google+ social network today, 
 ### Source:
 
 1. [VentureBeat](http://venturebeat.com/2012/12/06/google-plus-communities/)
+1. [Cover Image](http://venturebeat.com/wp-content/uploads/2012/12/g-plus-communities.jpg)
 
 ### Related:
 

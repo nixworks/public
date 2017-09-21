@@ -9,6 +9,7 @@ Young supporters of Hong Kong&#x27;s democracy movement, known as &#x27;Umbrella
 
 1. [AFP via Yahoo](http://news.yahoo.com/umbrella-soldiers-seats-hong-kong-elections-040136004.html)
 2. [Reuters](http://www.reuters.com/article/2015/11/23/us-hongkong-politics-election-idUSKCN0TA0WL20151123#XOO6IdHeYSDgGPot.97)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/YuQKwq44ZI0TH_4obVsfkQ--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-HKG-Hkg10232851-1-1-0.jpg)
 
 ### Related:
 

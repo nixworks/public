@@ -8,6 +8,7 @@ Shrien Dewani&#039;s suicide risk is not immediate and he is well enough to be s
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1119711/shrien-dewani-to-be-extradited-over-murder)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/15952803_3508254.jpg?20160704114137)
 
 ### Related:
 

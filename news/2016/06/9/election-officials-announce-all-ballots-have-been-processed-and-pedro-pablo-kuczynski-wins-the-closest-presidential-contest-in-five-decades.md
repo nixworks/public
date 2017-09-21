@@ -10,6 +10,7 @@ The economist Pedro Pablo Kuczynski wins a cliff-hanger presidential election in
 1. [ABC News](http://abcnews.go.com/International/wireStory/perus-presidential-election-wait-enters-4th-day-39715609)
 2. [AP](http://bigstory.ap.org/article/cecd9e363cda4155a4b317b6de8d38d3/perus-presidential-election-wait-enters-4th-day)
 3. [BBC News](http://www.bbc.com/news/world-latin-america-36495737)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11F3D/production/_89933537_c1819e6d-fcf2-440c-90cd-8ce1b7101780.jpg)
 
 ### Related:
 

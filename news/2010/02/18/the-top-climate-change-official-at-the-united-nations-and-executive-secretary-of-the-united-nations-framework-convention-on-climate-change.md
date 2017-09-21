@@ -9,6 +9,7 @@ The top climate change official at the UN is resigning after nearly four years o
 
 1. [CBC](http://www.cbc.ca/world/story/2010/02/18/un-climate-deboer.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/environment/article7032083.ece)
+2. [Cover Image](https://i.cbc.ca/1.2121370.1382074017!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-deboer-cp-rtxs065.jpg)
 
 ### Related:
 

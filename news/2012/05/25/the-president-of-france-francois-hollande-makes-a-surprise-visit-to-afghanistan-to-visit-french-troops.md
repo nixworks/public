@@ -8,6 +8,7 @@ French&#x20;President&#x20;Fran&#x00E7;ois&#x20;Hollande&#x20;made&#x20;a&#x20;s
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20120525-hollande-makes-surprise-visit-afghanistan-soldiers-kabul)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/afghanistan%20hollande%20new.JPG)
 
 ### Related:
 

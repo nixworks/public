@@ -8,6 +8,7 @@ ETA has said it will end its 15-month-old ceasefire at midnight tonight and has 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0605/spain.html?rss)
+1. [Cover Image](https://img.rasset.ie/0000e40b-1600.jpg)
 
 ### Related:
 

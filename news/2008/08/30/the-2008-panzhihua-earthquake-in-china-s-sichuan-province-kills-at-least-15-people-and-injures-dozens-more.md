@@ -8,6 +8,7 @@ Chinese rescue teams carrying tents, quilts and sacks of rice rushed to reach su
 ### Source:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/26469490/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photo/_new/080901-chinaquake-hmed-415a.standard.jpg)
 
 ### Related:
 

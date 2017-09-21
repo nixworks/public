@@ -10,6 +10,7 @@ The death toll from devastating floods in the Philippine capital, Manila, and su
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/philippines/6239022/Philippine-flood-death-toll-rises.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/sep/28/philippines-storm-death-toll)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6852358.ece)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01490/typhoonKetsana_1490469a.jpg)
 
 ### Related:
 

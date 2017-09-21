@@ -8,6 +8,7 @@ Bombs in and around Baghdad killed at least nine people on Saturday, police and 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/07/us-mideast-crisis-iraq-violence-idUSKCN0SW0IW20151107#URyD0m250bsGOj70.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ PRETORIA, April 12 (ANA) – Economic Freedom Fighters (EFF) leader Julius Malem
 ### Source:
 
 1. [Weekly Xpose South Africa](https://weeklyxpose.co.za/2017/04/12/malema-warned-marchers-behave/)
+1. [Cover Image](https://weeklyxpose.co.za/wp-content/uploads/2017/04/48492995IMG4153.jpg)
 
 ### Related:
 

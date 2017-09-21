@@ -31,7 +31,7 @@ _Context: Mexico City, Torre Mayor_
 _Context: Waziristan War_
 
 ### [ The United Nations Headquarters building in New York City is evacuated after vials containing the chemical agent phosgene are discovered. ](/news/2007/08/30/the-united-nations-headquarters-building-in-new-york-city-is-evacuated-after-vials-containing-the-chemical-agent-phosgene-are-discovered.md)
-_Context: New York City, United Nations Headquarters, phosgene_
+_Context: New York City, United Nations headquarters, phosgene_
 
 ### [ The Al-Aqsa Martyrs Brigades of Fatah claims its militants have fired a missile into southern Israeli city of Sderot in response to Israeli raids on the Gaza Strip. Israeli sources said the rocket landed on a building and caused damages and panic. ](/news/2007/08/30/the-al-aqsa-martyrs-brigades-of-fatah-claims-its-militants-have-fired-a-missile-into-southern-israeli-city-of-sderot-in-response-to-israeli.md)
 _Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza, Israel, Sderot, rocket attacks_

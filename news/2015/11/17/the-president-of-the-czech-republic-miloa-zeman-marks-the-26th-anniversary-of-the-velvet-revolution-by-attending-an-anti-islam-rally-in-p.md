@@ -9,6 +9,7 @@ The president of the Czech Republic has said opponents of Islam should not be re
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/czech-president-attends-addresses-rally-muslims-35252147)
 2. [Breitbart](http://www.breitbart.com/london/2015/11/17/eastern-europe-rising-czech-president-speaks-anti-islam-rally-pegida-leaders-tommy-robinson/)
+2. [Cover Image](http://media.breitbart.com/media/2015/11/GettyImages-497526784.jpg)
 
 ### Related:
 

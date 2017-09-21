@@ -9,6 +9,7 @@ The number was far in excess of expectations and more than three times the 37,00
 
 1. [BBC](http://www.bbc.com/news/world-europe-32459375)
 2. [TV NZ](http://tvnz.co.nz/world-news/estimated-120-000-attend-canberra-dawn-service-6300228)
+2. [Cover Image](https://www.tvnz.co.nz/content/dam/images/news/2015/04/25/anzac-poppy-on-cross.jpg.hashed.ec503d2a.desktop.story.share.jpg)
 
 ### Related:
 

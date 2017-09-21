@@ -10,6 +10,7 @@ The hacking group revealed emails and phone numbers for alleged members.
 1. [Anonymous](http://anonhq.com/opkkk-anonymous-unmasks-kkk-reveals-identities-of-prominent-members/)
 2. [The Hill](http://thehill.com/policy/cybersecurity/258832-anonymous-kicks-off-alleged-kkk-unmasking)
 3. [USA Today](http://www.usatoday.com/story/news/nation/2015/11/02/reports-hacktivist-groud-anonymous-publishes-names-alleged-ku-klux-klan-members/75039282/)
+3. [Cover Image](http://thehill.com/sites/default/files/anonymous_110513getty.jpg)
 
 ### Related:
 

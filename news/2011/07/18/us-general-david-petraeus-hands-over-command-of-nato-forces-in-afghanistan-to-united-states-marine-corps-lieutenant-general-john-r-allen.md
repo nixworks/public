@@ -8,6 +8,7 @@ Gen. David Petraeus, the outgoing top commander of the NATO forces in Afghanista
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/07/18/afghanistan.petraeus.handover/index.html?eref=edition)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/07/18/afghanistan.petraeus.handover/tzvids.david.petraeus.gi.jpg)
 
 ### Related:
 

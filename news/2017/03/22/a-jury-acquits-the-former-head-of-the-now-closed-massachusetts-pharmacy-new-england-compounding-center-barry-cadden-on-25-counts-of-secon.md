@@ -8,6 +8,7 @@ BOSTON (AP) — The former head of a Massachusetts pharmacy was acquitted Wednes
 ### Source:
 
 1. [Boston.com](https://www.boston.com/news/local-news/2017/03/22/verdict-reached-in-trial-over-deadly-us-meningitis-outbreak)
+1. [Cover Image](https://www.boston.com/wp-content/uploads/2017/03/Bedford_170322_CADDEN_002-850x478.jpg)
 
 ### Related:
 

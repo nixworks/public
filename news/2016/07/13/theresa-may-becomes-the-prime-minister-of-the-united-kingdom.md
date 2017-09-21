@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/12/revealed-what-theresa-may-really-thinks---trawl-of-speeches-over/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/07/12/theresemay121-xlarge_trans_NvBQzQNjv4BqGLLAPY3LddE1Qiv-bsIMYEpOjEuByBQ-qnj-v4gOKxM.jpg)
 
 ### Related:
 

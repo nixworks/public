@@ -8,6 +8,7 @@ Four Russian nationals and a Ukrainian have been charged with running a sophisti
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2013/07/25/4-russians-1-ukrainian-hacked-corporations-over-7-years-losses-in-hundreds/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

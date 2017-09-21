@@ -10,6 +10,7 @@ What to do... what to do...
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10139215.stm)
 2. [CBC](http://www.cbc.ca/arts/film/story/2010/05/21/cannes-algeria-protest.html)
 3. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/cannes/article7133175.ece)
+3. [Cover Image](https://i.cbc.ca/1.4044480.1490728468!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trudeau-comic-1.jpg)
 
 ### Related:
 

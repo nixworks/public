@@ -9,6 +9,7 @@
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gg7AqaXONd_Na0OknrdjVdLxH4Zw)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20885821)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65035000/gif/_65035488_angola_luanda_010113.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Government officials from Japan and North Korea meet in Beijing for their first 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19406812)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62543000/jpg/_62543128_8t8wqbsm.jpg)
 
 ### Related:
 

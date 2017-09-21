@@ -8,6 +8,7 @@ At least 17 people were killed in and around the Iraqi capital on Monday in four
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/21/us-mideast-crisis-iraq-violence-idUSKCN0RL1SV20150921)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Palestinian footballer who went on a hunger strike in an Israeli jail says he 
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/Sports/Football/2012/Oct-01/189781-palestinian-footballer-turns-down-barca-invite.ashx#axzz283WCTu42)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/10/01/103889_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

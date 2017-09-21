@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/laptop-ban-lifted-airplane-cabins-homeland-security-john-kelly/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/03/21/02f9868d-cbcc-4beb-a4f4-224e2db1621d/istock-623826556.jpg)
 
 ### Related:
 

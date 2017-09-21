@@ -8,6 +8,7 @@ Call for nationwide rallies comes after dozens are arrested in street battles be
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2014/03/venezuelan-activists-urge-more-protests-20143112538208400.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/2/20//201422017208795734_20.jpg)
 
 ### Related:
 

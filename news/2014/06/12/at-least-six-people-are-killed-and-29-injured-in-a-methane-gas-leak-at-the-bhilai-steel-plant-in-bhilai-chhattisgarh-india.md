@@ -8,6 +8,7 @@ Six people including two Deputy General Managers are dead and over 30 sustained 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/six-dead-29-injured-after-gas-leak-at-bhilai-steel-plant-540548?curl=1402598685)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-06/bhilai_explosion_360x270.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Italian PM vows to act after protesters clash with police over plan to locate ne
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/europe/2010/10/2010102317302730496.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/20101023173654808965_20.jpg)
 
 ### Related:
 

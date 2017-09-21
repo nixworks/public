@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-europe-27467807)
 2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/nato-sees-no-signs-of-russian-troops-withdrawal-from-ukrainian-border-for-now-348442.html)
 3. [New York Times](http://www.nytimes.com/2014/05/20/world/europe/kremlin-announces-ukraine-pullback-but-nato-doesnt-see-it.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74946000/jpg/_74946757_021740075-1.jpg)
 
 ### Related:
 

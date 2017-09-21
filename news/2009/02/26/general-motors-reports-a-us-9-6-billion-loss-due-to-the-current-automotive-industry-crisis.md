@@ -8,6 +8,7 @@ Rick Wagoner, the chief executive of General Motors, met with government officia
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/02/27/business/27auto.html?_r=1&partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

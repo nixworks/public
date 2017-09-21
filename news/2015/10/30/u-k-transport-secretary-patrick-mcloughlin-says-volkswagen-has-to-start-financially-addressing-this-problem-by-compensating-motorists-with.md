@@ -9,6 +9,7 @@ Motorists may have to be reimbursed for the fall in value of their cars after th
 
 1. [Bitterwallet](http://www.bitterwallet.com/vwcompensation-for-emissions-scandal-also-linked-to-deaths/88802)
 2. [Sky News](http://news.sky.com/story/1578856/vw-drivers-could-get-600m-compensation)
+2. [Cover Image](http://e3.365dm.com/16/04/1600x900/gettyimages-493571650-1-2048x1536_3449165.jpg?20160415123510)
 
 ### Related:
 

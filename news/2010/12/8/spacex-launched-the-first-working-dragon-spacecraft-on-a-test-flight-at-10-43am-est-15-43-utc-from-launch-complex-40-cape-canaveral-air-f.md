@@ -10,6 +10,7 @@ Private US company sends a spacecraft into orbit in a move that could pave way f
 1. [Al-Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012816229990487.html)
 2. [CNN.com](http://www.cnn.com/2010/US/12/08/space.flight/index.html?hpt=T1)
 3. [Spaceflight Now](http://www.spaceflightnow.com/falcon9/002/status.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/8/2010128185136330811_20.jpg)
 
 ### Related:
 

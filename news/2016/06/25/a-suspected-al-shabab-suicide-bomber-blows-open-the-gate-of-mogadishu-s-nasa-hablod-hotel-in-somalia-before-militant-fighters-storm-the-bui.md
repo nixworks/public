@@ -10,6 +10,7 @@ Islamic extremist group al-Shabab on Saturday claimed responsibility for the lat
 1. [AP via NBC News](http://www.nbcnews.com/news/world/bomb-detonated-outside-somali-hotel-gunmen-try-storming-building-report-n598891)
 2. [AP](http://bigstory.ap.org/article/30e6c2e3a8d340cfaa9e3852b7cd103b/huge-explosion-outside-hotel-somali-capital-police-say)
 3. [CNN](http://edition.cnn.com/2016/06/25/africa/mogadishu-hotel-explosion-gunfire/index.html)
+3. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_25/1595006/160625-somalia-attack-mn-1200_a3ba7e4eab95ae56b45f2602d23c268f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

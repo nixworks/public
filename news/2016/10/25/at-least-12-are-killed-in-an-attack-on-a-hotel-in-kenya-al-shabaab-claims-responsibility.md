@@ -9,6 +9,7 @@ Attackers blew up part of a hotel in northeastern Kenya, killing at least 12 peo
 
 1. [BBC](http://www.bbc.com/news/world-africa-37759749)
 2. [Reuters](http://www.reuters.com/article/us-kenya-attacks-idUSKCN12P0GY)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161025&t=2&i=1158909103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9O1CE)
 
 ### Related:
 

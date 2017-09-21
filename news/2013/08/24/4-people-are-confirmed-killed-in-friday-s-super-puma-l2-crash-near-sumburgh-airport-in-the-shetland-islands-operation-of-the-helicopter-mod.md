@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-23822420)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69463000/jpg/_69463748_heli_rescue.jpg)
 
 ### Related:
 

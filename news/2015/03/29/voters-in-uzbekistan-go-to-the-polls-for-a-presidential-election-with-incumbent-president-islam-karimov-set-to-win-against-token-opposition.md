@@ -8,6 +8,7 @@ More than 90 percent turnout reported in vote in which 26-year ruler Islam Karim
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/03/uzbeks-polls-expected-extend-26-year-rule-150329054543751.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/3/29/cb001b62876a46869ef5215d9733c32d_18.jpg)
 
 ### Related:
 

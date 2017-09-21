@@ -8,6 +8,7 @@ GENEVA (AP) — The U.N. envoy for Syria appealed to the U.S. and Russia to inte
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/7da077a315944fdfbc31b377a380046e/un-envoy-appeals-us-russia-help-syria-peace-talks)
+1. [Cover Image](http://binaryapi.ap.org/e7cb60c38c3c458d87632713091d867e/460x.jpg)
 
 ### Related:
 

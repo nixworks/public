@@ -9,6 +9,7 @@ Martial law stays in Mindanao until the end of the year.
 
 1. [AFP via Yahoo News](https://www.yahoo.com/news/philippine-mps-vote-martial-law-extension-bid-023408113.html)
 2. [CNN Philippines](http://cnnphilippines.com/news/2017/07/22/Congress-votes-martial-law-extension-Duterte.html)
+2. [Cover Image](http://cnnphilippines.com/incoming/6rpmvz-PRRD-Congress-Breaking_CNNPH.png/ALTERNATES/LANDSCAPE_640/PRRD-Congress-Breaking_CNNPH.png)
 
 ### Related:
 

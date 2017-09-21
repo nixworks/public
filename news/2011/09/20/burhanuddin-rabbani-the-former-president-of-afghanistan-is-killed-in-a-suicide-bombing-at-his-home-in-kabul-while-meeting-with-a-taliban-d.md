@@ -9,6 +9,7 @@ Burhanuddin Rabbani, who headed team tasked with negotiating with Taliban, kille
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/a-taliban-suicide-bomber-has-killed-top-afghan-diplomat-burhanuddin-rabbani/story-fn7ycml4-1226142293705)
 2. [Al-Jazeera](http://english.aljazeera.net/news/asia/2011/09/2011920124955977877.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/9/21/201192114136541734_20.jpg)
 
 ### Related:
 

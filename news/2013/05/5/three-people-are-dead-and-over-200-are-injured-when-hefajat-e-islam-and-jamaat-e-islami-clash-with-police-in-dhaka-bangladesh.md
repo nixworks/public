@@ -8,6 +8,7 @@ At least three people were killed and over 200 injured as radical Islamists of H
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/south-asia/clashes-continue-in-dhaka-3-killed/article4686768.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

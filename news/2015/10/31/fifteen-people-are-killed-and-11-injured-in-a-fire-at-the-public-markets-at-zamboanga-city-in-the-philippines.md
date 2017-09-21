@@ -8,6 +8,7 @@ Fifteen people were killed while 11 others were injured in a fire that struck th
 ### Source:
 
 1. [CNN](http://cnnphilippines.com/regional/2015/10/31/15-killed-11-injured-in-Zamboanga-City-Public-Market-fire.html)
+1. [Cover Image](http://cnnphilippines.com/incoming/mr9jow-31-oct-2015-zamboanga-city-public-market-fire.jpg/ALTERNATES/LANDSCAPE_640/31-oct-2015-zamboanga-city-public-market-fire.jpg)
 
 ### Related:
 

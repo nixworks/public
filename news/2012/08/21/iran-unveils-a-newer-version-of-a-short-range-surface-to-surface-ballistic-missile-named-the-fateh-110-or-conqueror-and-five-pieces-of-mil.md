@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19337449)
 2. [Mehrnews](http://www.mehrnews.com/en/newsdetail.aspx?NewsID=1677704)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62413000/jpg/_62413715_62413714.jpg)
 
 ### Related:
 

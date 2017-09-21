@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/01/24/nyregion/24assess.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/01/23/nyregion/gil75.5.jpg)
 
 ### Related:
 

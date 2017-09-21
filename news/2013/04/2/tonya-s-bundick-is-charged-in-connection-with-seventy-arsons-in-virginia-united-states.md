@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2013/04/02/woman-charged-in-most-recent-more-than-70-arsons-on-virginia-eastern-shore/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

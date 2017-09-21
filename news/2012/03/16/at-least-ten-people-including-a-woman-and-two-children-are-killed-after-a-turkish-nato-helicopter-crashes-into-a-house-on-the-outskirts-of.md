@@ -11,6 +11,7 @@ FOURTEEN people, including two children, are dead after a NATO helicopter crashe
 2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/03/20123168242245864.html)
 3. [Al-Arabiya](http://english.alarabiya.net/articles/2012/03/16/201011.html)
 4. [New York Times](http://www.nytimes.com/2012/03/17/world/asia/afghan-shooting-suspect-identified-as-army-staff-sgt-robert-bales.html)
+4. [Cover Image](http://cdn.newsapi.com.au/image/v1/5210f278def6f89bf6ec615a0fa3b1c2)
 
 ### Related:
 

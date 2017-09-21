@@ -17,6 +17,7 @@ Consumer goods allowed into enclave but tight limits remain on construction mate
 8. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180561)
 9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3915113,00.html)
 10. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3915544,00.html)
+10. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

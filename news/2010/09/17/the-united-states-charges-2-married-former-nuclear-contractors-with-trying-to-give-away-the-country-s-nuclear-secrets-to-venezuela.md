@@ -8,6 +8,7 @@ A husband and wife team of former nuclear contractors are charged in the US with
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11351535)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

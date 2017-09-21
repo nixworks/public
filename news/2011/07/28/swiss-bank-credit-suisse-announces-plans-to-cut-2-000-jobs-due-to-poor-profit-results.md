@@ -8,6 +8,7 @@ Swiss bank Credit Suisse CSGN.VX is cutting about 2,000 jobs after weak trading 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/28/us-creditsuisse-idUSTRE76R0MI20110728?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110728&t=2&i=467929278&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-28T135502Z_01_BTRE76R0EPO00_RTROPTP_0_CREDITSUISSE)
 
 ### Related:
 

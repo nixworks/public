@@ -11,6 +11,7 @@ New York Daily NewsThe scene at the corner of W 45th St. and Broadway in the hea
 2. [NECN](http://www.necn.com/05/13/10/Neighbor-One-arrested-at-Watertown-house/landing_newengland.html?blockID=234093&feedID=4215)
 3. [NJ News](http://www.nj.com/news/index.ssf/2010/05/fbi_raids_northeast_locations.html)
 4. [WJZ](http://wjz.com/national/fbi.watertown.times.2.1691785.html)
+4. [Cover Image](http://image.nj.com/home/njo-media/width620/img/ledgerupdates_impact/photo/2010/05/times-square-car-bombjpg-5c47fd5cd7e90b86.jpg)
 
 ### Related:
 

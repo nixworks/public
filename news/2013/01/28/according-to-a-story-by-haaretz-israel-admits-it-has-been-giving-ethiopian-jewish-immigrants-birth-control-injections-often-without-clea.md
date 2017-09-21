@@ -8,6 +8,7 @@ Israel has admitted for the first time that it has been giving Ethiopian Jewish 
 ### Source:
 
 1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/israel-gave-birth-control-to-ethiopian-jews-without-their-consent-16266787.html)
+1. [Cover Image](http://www.belfasttelegraph.co.uk/editorial/web/facebook/fb-holder.png)
 
 ### Related:
 

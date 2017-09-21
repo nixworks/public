@@ -9,6 +9,7 @@ The two officials were executed in early August for disobeying leader Kim Jong U
 
 1. [International Business Times](http://www.ibtimes.com/north-korea-public-execution-officials-killed-anti-aircraft-gun-disobeying-leader-kim-2409041)
 2. [The Guardian, UK](https://www.theguardian.com/world/2016/aug/30/north-korea-reportedly-executes-officials-anti-aircraft-gun-purge)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/04/27/kim-jong-un.jpg)
 
 ### Related:
 

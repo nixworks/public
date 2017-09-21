@@ -9,6 +9,7 @@ South Sudanese President Salva Kiir has ordered all government troops to cease f
 
 1. [AFP via ''The Daily Star](http://www.dailystar.com.lb/News/World/2015/Aug-29/313230-south-sudan-government-accuses-rebels-of-ceasefire-violation.ashx)
 2. [AFP via ''The Times Live](http://www.timeslive.co.za/africa/2015/08/29/South-Sudan-army-ordered-to-end-fighting-ahead-of-ceasefire)
+2. [Cover Image](http://www.timeslive.co.za/Feeds/Reuters_Images/2015/08/29/2015-02-02t100530z_01_afr102_rtridsp_3_southsudan-war-02-02-2015-17-02-33-164.jpg/ALTERNATES/crop_630x432/2015-02-02T100530Z_01_AFR102_RTRIDSP_3_SOUTHSUDAN-WAR-02-02-2015-17-02-33-164.jpg)
 
 ### Related:
 

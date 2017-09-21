@@ -8,6 +8,7 @@ The killing of President Hamid Karzai&rsquo;s cousin Hashmat by a Taliban suicid
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/10998276/Karzais-cousin-killed-by-turban-bomber-in-fresh-blow-to-Afghan-government.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02990/Hashmat-Karzai_2990031k.jpg)
 
 ### Related:
 

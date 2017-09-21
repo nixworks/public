@@ -8,6 +8,7 @@ In recent times, defense contractors are resorting to reducing headcount to cut 
 ### Source:
 
 1. [Zacks](http://www.zacks.com/stock/news/194641/lockheed-martin-to-cut-overhead-costs-amid-tepid-budget)
+1. [Cover Image](https://staticx-tuner.zacks.com/images/articles/main/bigstock-stock-numbers.jpg)
 
 ### Related:
 

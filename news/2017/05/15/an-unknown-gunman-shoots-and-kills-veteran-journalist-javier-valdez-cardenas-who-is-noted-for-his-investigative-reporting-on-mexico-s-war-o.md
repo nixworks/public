@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2017/05/15/veteran-journalist-javier-valdez-killed-in-mexico-sinaloa.html)
+1. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/05/15/veteran-journalist-javier-valdez-killed-in-mexico-sinaloa/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1494886339112.jpg?ve=1)
 
 ### Related:
 

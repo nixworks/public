@@ -8,6 +8,7 @@ The US carries out air strikes on so-called Islamic State in Libya, targeting a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-35613085)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/16067/production/_88351209_88350765.jpg)
 
 ### Related:
 

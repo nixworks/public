@@ -8,6 +8,7 @@ Twitter CEO Dick Costolo is stepping down effective July 1, replaced by Interim 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/tech/2015/06/11/twitter-ceo-dick-costolo-stepping-down/71081242/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

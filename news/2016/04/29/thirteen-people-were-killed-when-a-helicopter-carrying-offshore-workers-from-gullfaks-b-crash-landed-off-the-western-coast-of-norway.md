@@ -9,6 +9,7 @@ Norwegian rescue officials said the search operation after a helicopter crash is
 
 1. [LA Times](http://www.latimes.com/world/la-fg-helicopter-crashes-in-norway-20160429-story.html)
 2. [VG.no, Norwegian](http://www.vg.no/nyheter/innenriks/helikopterstyrten-i-hordaland/helikopterstyrt-i-hordaland-11-bekreftet-omkommet/a/23671189/)
+2. [Cover Image](http://www.trbimg.com/img-57238282/turbine/la-fg-helicopter-crashes-in-norway-20160429)
 
 ### Related:
 

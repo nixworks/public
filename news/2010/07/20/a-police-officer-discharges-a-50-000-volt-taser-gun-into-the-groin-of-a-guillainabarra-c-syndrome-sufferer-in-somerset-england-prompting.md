@@ -10,6 +10,7 @@ Police were investigating today after an officer accidentally discharged a 50,00
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-10701733)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-1296195/Police-officer-accidentally-blasts-man-groin-50-000-volt-Taser.html)
 3. [The Independent](http://www.independent.co.uk/news/uk/crime/taser-accidentally-discharged-into-mans-groin-2030889.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

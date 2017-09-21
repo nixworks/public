@@ -8,6 +8,7 @@ One person has tested positive in Denmark for the mosquito-borne Zika virus, whi
 ### Source:
 
 1. [RT](https://www.rt.com/news/330262-zika-virus-strikes-europe/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/56a86499c46188242a8b4577.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Former Cuban President Fidel Castro says he is to blame for the persecution of h
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/castro-admits-to-marginalising-gays-20100902-14nt0.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11147157)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/cuba/7976488/Fidel-Castro-regrets-discrimination-against-gays-in-Cuba.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

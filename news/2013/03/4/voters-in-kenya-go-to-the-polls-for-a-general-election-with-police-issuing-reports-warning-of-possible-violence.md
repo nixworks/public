@@ -11,6 +11,7 @@ At least four Kenyan police officers, deployed to keep the peace in a tense pres
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21651267)
 3. [RTE](http://www.rte.ie/news/2013/0304/371921-kenya-elections/)
 4. [Reuters](http://www.reuters.com/article/2013/03/04/us-kenya-elections-mombasa-idUSBRE92301Y20130304)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130304&t=2&i=709334920&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9230ABA00)
 
 ### Related:
 

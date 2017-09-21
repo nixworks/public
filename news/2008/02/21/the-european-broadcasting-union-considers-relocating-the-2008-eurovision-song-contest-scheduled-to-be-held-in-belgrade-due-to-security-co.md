@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Expressen](http://www.expressen.se/nyheter/1.1057464/finalen-i-belgrad-hotad)
+1. [Cover Image](http://www.expressen.se/static/images/wasp-for-facebook.png)
 
 ### Related:
 

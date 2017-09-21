@@ -8,6 +8,7 @@ A SEVERE heatwave has killed more than a dozen people in Pakistan, a week after 
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/at-least-13-die-in-pakistani-heatwave/story-e6frfkui-1227387423421?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

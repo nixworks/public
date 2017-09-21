@@ -8,6 +8,7 @@ Some police officers join demonstrators demanding the dissolution of the new int
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011121104023232257.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/21/2011121182032739738_20.jpg)
 
 ### Related:
 

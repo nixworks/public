@@ -8,6 +8,7 @@ An American flag that turned up in Washington state two years ago is believed to
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/09/08/911-flag-from-ground-zero-believed-to-be-lost-found-in-washington-state.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/07/0/0/694940094001_5115443917001_090716-fnr-rebuilding2-1280.jpg?ve=1)
 
 ### Related:
 

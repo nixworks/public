@@ -10,6 +10,7 @@ An unprecedented surge in babies born with microcephaly has driven Brazilian off
 1. [CNN](http://www.cnn.com/2015/12/23/health/brazil-zika-pregnancy-warning/)
 2. [Medical Daily](http://www.medicaldaily.com/brazilian-couples-urged-hold-pregnancies-due-microcephaly-surge-suspected-zika-virus-366718)
 3. [The Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2015/12/23/brazil-declares-emergency-after-2400-babies-are-born-with-brain-damage-possibly-due-to-mosquito-borne-virus/)
+3. [Cover Image](http://images.medicaldaily.com/sites/medicaldaily.com/files/2015/12/23/belly.jpg)
 
 ### Related:
 

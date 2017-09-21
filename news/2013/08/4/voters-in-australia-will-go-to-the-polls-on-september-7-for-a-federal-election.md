@@ -8,6 +8,7 @@ This afternoon, I visited the Governor-General and her Excellency has accepted m
 ### Source:
 
 1. [The Age](http://www.theage.com.au/federal-politics/federal-election-2013/prime-minister-kevin-rudds-election-statement-20130804-2r790.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/2/r/7/4/n/image.related.thumbnail.320x214.2r790.png/1375599965927.jpg)
 
 ### Related:
 

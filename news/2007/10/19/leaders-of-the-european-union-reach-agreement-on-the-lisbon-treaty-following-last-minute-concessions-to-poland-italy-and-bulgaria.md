@@ -9,6 +9,7 @@ European Union (EU) leaders have reached agreement on the last main obstacles to
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/10/19/2063831.htm)
 2. [EuObserver](http://euobserver.com/9/25001)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

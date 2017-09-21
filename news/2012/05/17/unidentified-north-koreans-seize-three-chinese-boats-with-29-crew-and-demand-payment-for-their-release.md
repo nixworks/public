@@ -8,6 +8,7 @@ Unidentified North Koreans holding 29 Chinese fishermen and three boats seized i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-18099658)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60290000/jpg/_60290954_nkorea-china.jpg)
 
 ### Related:
 

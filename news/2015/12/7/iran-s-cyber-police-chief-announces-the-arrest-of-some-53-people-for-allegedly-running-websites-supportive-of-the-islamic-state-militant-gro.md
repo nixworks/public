@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-iran-police-arrests-idUSKBN0TQ0TO20151207#3eIsvwevd7p7J3ge.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A total of 174 ex-Birmingham City Council workers can go ahead with compensation
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-20054049)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/finance/jobs/9629990/Women-win-equal-pay-fight-in-landmark-ruling.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63685000/jpg/_63685165_63685164.jpg)
 
 ### Related:
 

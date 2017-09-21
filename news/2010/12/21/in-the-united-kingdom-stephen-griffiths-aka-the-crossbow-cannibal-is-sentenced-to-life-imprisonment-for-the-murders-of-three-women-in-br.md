@@ -8,6 +8,7 @@ A university student, who referred to himself in court as the &quot;Crossbow Can
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-11541168)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

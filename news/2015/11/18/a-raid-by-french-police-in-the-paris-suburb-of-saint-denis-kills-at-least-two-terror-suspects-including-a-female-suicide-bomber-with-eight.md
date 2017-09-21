@@ -14,6 +14,7 @@ SAINT-DENIS, France — A woman blew herself up in a Paris suburb early Wednesda
 5. [The Independent](http://www.independent.co.uk/news/world/europe/paris-attack-abdelhamid-abaaoud-suggested-as-the-mastermind-behind-terror-atrocities-killed-a6739556.html)
 6. [The International Business Times](http://www.ibtimes.com/after-paris-attacks-alleged-isis-supporters-stab-jewish-teacher-marseilles-2190887)
 7. [Time](http://time.com/4119686/jewish-teacher-stabbed-france/)
+7. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_47/1308561/151118-saint-denis-raid-mn-1735_dfa42fa6ff02e586569a7bc44349f813.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Amanda Knox has been dramatically acquitted of the murder of Meredith Kercher, d
 
 1. [CBC News](http://www.cbsnews.com/stories/2011/10/03/501364/main20114867.shtml)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/8804833/Amanda-Knox-cleared-of-the-murder-of-Meredith-Kercher.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02016/Amanda_Knox_hears__2016865a.jpg)
 
 ### Related:
 

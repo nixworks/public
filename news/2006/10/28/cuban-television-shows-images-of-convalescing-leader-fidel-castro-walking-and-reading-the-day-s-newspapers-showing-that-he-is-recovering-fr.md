@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6095622.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-10-28T224450Z_01_N18357550_RTRUKOC_0_US-CUBA-CASTRO.xml)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

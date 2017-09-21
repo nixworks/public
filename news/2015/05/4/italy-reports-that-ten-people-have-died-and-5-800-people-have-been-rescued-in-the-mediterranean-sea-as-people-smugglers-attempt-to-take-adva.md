@@ -8,6 +8,7 @@ Around 7,000 migrants were rescued from overcrowded boats crossing the Mediterra
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/05/04/uk-europe-migrants-italy-idUKKBN0NO07820150504)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150504&t=2&i=1045576641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB430CL)
 
 ### Related:
 

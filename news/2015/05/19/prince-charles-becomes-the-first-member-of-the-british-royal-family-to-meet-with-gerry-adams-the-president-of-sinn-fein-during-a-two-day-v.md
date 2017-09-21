@@ -8,6 +8,7 @@ Prince Charles becomes the first British royal to meet Irish republican leader G
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2015-05-20/prince-charles-shakes-hands-irish-republican-leader-gerry-adams/6482392)
+1. [Cover Image](http://www.abc.net.au/news/image/6482390-1x1-700x700.jpg)
 
 ### Related:
 

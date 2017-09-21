@@ -8,6 +8,7 @@ Six New Jersey residents sue Governor Chris Christie over claims his office crea
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-us-canada-25686050)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72209000/jpg/_72209256_72209255.jpg)
 
 ### Related:
 

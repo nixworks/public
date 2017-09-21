@@ -8,6 +8,7 @@ An apparent gas explosion at a jail in Pensacola, Florida, kills two inmates and
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27234582)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74593000/jpg/_74593577_florida.jpg)
 
 ### Related:
 

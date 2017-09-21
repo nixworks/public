@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/12/us-apple-hp-patent-idUSTRE76B0SF20110712)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110712&t=2&i=457490536&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-12T183511Z_01_BTRE76B0HVV00_RTROPTP_0_APPLE)
 
 ### Related:
 

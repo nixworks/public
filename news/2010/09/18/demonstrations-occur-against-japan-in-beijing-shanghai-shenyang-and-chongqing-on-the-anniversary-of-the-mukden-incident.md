@@ -9,6 +9,7 @@ Small protests against Japan are held in several Chinese cities on a senstitive 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11354735)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE68H09Y20100918)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/49151000/jpg/_49151489_tv010213290.jpg)
 
 ### Related:
 

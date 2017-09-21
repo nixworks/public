@@ -13,6 +13,7 @@ Israeli police have banned men under the age of 50 from entering one of Jerusale
 4. [NBC News](http://www.nbcnews.com/news/world/al-aqsa-mosque-tensions-israel-bans-men-under-50-jerusalem-n785141)
 5. [Reuters](http://www.reuters.com/article/us-israel-palestine-idUSKBN1A62IS)
 6. [The New York Times](https://www.nytimes.com/2017/07/21/world/middleeast/jerusalem-israel-protests-al-aqsa-mosque.html)
+6. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_29/2079956/170721-world-jerusalem-goldman-police-615a_b376ce5c9f6adc1d45f7e6c13b6638d5.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

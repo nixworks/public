@@ -9,6 +9,7 @@ BBC broadcaster Stuart Hall, 83, is jailed for 15 months for sexually abusing gi
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-22932222)
 2. [The Guardian](http://www.guardian.co.uk/uk/2013/jun/17/stuart-hall-jailed-indecent-assault-girls)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68211000/jpg/_68211371_hall_police.jpg)
 
 ### Related:
 

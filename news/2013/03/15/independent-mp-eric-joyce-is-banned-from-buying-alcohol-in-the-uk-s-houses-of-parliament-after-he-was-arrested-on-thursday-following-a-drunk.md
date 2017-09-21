@@ -8,6 +8,7 @@ MP Eric Joyce is banned from buying alcohol on the Parliamentary estate followin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-21800097)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66404000/jpg/_66404131_66404130.jpg)
 
 ### Related:
 

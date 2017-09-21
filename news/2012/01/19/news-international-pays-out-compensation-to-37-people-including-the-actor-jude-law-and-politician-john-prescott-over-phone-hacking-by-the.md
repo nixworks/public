@@ -8,6 +8,7 @@ Jude Law and Lord Prescott are among 37 people to receive payouts over phone hac
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16629036)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57981000/jpg/_57981239_013750920-1.jpg)
 
 ### Related:
 

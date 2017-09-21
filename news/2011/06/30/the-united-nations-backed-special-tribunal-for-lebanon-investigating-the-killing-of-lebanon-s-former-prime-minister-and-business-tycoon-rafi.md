@@ -9,6 +9,7 @@ Lebanese media says UN-backed court has charged four Hezbollah members for 2005 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011630103132763170.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13972350)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/30/201163015939563734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ There are conflicting reports over the fate of 17 suspected Ebola patients who d
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-28827091)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77005000/jpg/_77005953_77005952.jpg)
 
 ### Related:
 

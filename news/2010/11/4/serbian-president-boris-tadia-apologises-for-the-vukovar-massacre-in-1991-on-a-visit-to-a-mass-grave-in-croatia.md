@@ -9,6 +9,7 @@ Boris Tadic apologises for a 1991 massacre in a symbolic step towards reconcilit
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010114105644570633.html)
 2. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=11&dd=04&nav_id=70684)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/4/2010114135611930811_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Children in Somalia are suffering some of the highest malnutrition rates in the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13171252)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52307000/jpg/_52307454_011684083-1.jpg)
 
 ### Related:
 

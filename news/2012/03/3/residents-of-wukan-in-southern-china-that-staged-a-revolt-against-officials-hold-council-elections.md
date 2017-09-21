@@ -9,6 +9,7 @@ Thousands turn out to elect a new leader for a Chinese village that staged a hig
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-17243103)
 2. [China Daily](http://www.chinadaily.com.cn/usa/china/2012-03/03/content_14747649.htm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58852000/jpg/_58852617_014151744-2.jpg)
 
 ### Related:
 

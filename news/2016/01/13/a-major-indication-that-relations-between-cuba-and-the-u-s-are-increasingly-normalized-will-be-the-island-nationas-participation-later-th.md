@@ -8,6 +8,7 @@ MIAMI — A U.S. military official says Cuba will attend an annual Caribbean sec
 ### Source:
 
 1. [Military Times](http://www.militarytimes.com/story/military/2016/01/12/cuba-attend-security-conference-us-first-time/78688478/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/b0/c6/b8c284d1400fb2788cc1506afa32/635882026798589830-caribbean-cuba-us-rel-weigjpg)
 
 ### Related:
 

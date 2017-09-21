@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTL Nieuws](http://www.rtlnieuws.nl/nederland/straaljager-neergestort-bij-vliegbasis-leeuwarden)
+1. [Cover Image](http://www.rtlnieuws.nl/sites/default/files/styles/landscape_2/public/content/images/2016/06/09/Bitgum.jpg?itok=l7x28dmh)
 
 ### Related:
 

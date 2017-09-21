@@ -12,6 +12,7 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 3. [CNN](http://edition.cnn.com/2012/08/07/world/asia/china-tropical-storm/index.html?eref=edition)
 4. [INQUIRER.net](http://newsinfo.inquirer.net/244953/9-luzon-areas-placed-under-state-of-calamity)
 5. [The Philippine STAR](http://www.philstar.com/nation/article.aspx?publicationsubcategoryid=63&articleid=835933)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62116000/jpg/_62116318_62116317.jpg)
 
 ### Related:
 

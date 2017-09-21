@@ -8,6 +8,7 @@ Typhoon Nari knocked down trees and damaged hundreds of houses in central Vietna
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/15/us-vietnam-storm-idUSBRE99E02520131015?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131015&t=2&i=802985576&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99E0C0N00)
 
 ### Related:
 

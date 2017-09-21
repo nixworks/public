@@ -9,6 +9,7 @@ Pop star Cheryl Cole is being treated for malaria in hospital, her spokesman con
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10520189.stm)
 2. [The Independent](http://www.independent.co.uk/news/people/news/cheryl-cole-in-hospital-being-treated-for-malaria-2019469.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

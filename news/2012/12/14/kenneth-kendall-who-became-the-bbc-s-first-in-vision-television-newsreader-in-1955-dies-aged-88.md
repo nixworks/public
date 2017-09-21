@@ -8,6 +8,7 @@ Kenneth Kendall, former BBC newsreader and presenter of the popular UK game show
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20730869)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64770000/jpg/_64770588_kennethkendall.jpg)
 
 ### Related:
 

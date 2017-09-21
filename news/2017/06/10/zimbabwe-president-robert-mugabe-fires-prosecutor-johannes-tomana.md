@@ -8,6 +8,7 @@ The official had dropped charges against two soldiers accused of plotting agains
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-40233694)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/160D3/production/_96432309_tomana.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russia has said it will conduct regular air patrols to the Caribbean and the Gul
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30028371)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78945000/jpg/_78945658_78945657.jpg)
 
 ### Related:
 

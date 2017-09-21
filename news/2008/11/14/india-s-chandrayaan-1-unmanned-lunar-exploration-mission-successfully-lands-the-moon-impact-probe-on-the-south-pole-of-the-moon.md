@@ -8,6 +8,7 @@ Before India, the moon has had visitors from the US, former Soviet Union, Japan 
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/Chandrayaan-I_Impact_Probe_lands_on_moon/articleshow/3714245.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3715181.cms)
 
 ### Related:
 

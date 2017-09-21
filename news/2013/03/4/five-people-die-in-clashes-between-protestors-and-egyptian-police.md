@@ -8,6 +8,7 @@ Five people - including two policemen - have been killed in clashes between prot
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21652940)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66184000/jpg/_66184519_66183401.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Three Russian satellites fail to enter orbit after launch, possibly crashing int
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11922496)
 2. [RIA Novosti](http://en.rian.ru/russia/20101205/161637911.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

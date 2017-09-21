@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2015/09/30/us/oklahoma-richard-glossip-midazolam-execution/)
 2. [Reuters](http://www.reuters.com/article/2015/09/30/us-usa-execution-oklahoma-court-idUSKCN0RU2O520150930)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150930&t=2&i=1083541178&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8T15K)
 
 ### Related:
 

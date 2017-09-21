@@ -9,6 +9,7 @@ Prime Minister John Howard has arrived at Government House in Canberra and he is
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/10/14/2059061.htm)
 2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/10/14/2059084.htm)
+2. [Cover Image](http://www.abc.net.au/news/image/698050-1x1-700x700.jpg)
 
 ### Related:
 

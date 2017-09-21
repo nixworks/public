@@ -11,6 +11,7 @@ News and opinion from The Times &amp; The Sunday Times
 2. [CNN](http://edition.cnn.com/2006/WORLD/europe/03/11/milosovic/index.html)
 3. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-03-11T123623Z_01_LA749012_RTRIDST_0_NEWS-WARCRIMES-MILOSEVIC-COL.XML)
 4. [Times](http://www.timesonline.co.uk/article/0,,3-2081301,00.html)
+4. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

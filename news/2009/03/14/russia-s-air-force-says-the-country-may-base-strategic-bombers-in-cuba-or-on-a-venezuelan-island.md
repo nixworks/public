@@ -8,6 +8,7 @@ A Russian Air Force chief said Saturday that the country could base some strateg
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29691183/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/ap/b2ebf0ce-8a1e-4bcb-87e0-99b1b52ab266.standard.jpg)
 
 ### Related:
 

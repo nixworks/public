@@ -8,6 +8,7 @@ Western and Gulf Arab nations pledged $1.4 billion (£852 million) on Wednesday 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/01/15/uk-syria-crisis-aid-idUKBREA0E0N320140115)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140115&t=2&i=829666195&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0E0WI000)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Taliban truck bomb exploded outside a protected hotel compound used by foreign
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN10B0WA?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160801&t=2&i=1147842661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC700WG)
 
 ### Related:
 

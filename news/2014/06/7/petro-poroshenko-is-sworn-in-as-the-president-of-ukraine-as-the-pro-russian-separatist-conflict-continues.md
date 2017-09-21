@@ -9,6 +9,7 @@ Petro Poroshenko will be sworn in on Saturday as Ukraine&#039;s president, buoye
 
 1. [BBC](http://www.bbc.com/news/world-europe-27745278#)
 2. [NDTV](http://www.ndtv.com/article/world/ukraine-s-petro-poroshenko-to-be-sworn-in-as-east-seethes-with-separatist-conflict-537507)
+2. [Cover Image](http://i.ndtvimg.com/mt/2014-06/Petro_poroshonko_reuters_360x270_1.jpg)
 
 ### Related:
 

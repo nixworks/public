@@ -8,6 +8,7 @@ Likud leadership candidate Benjamin Netanyahu says he will cooperate with Foreig
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3186636,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ India has agreed to aChinese demand to demolish bunkers near their de facto bord
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2013/05/07/india-china-idINL3N0DO1ET20130507)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

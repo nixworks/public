@@ -8,6 +8,7 @@ Italian police seize more than 5,000 ancient artefacts in a record haul after di
 ### Source:
 
 1. [AFP via ABC.Net.AU](http://www.abc.net.au/news/2015-01-22/italian-police-seize-over-5000-artefacts/6033706)
+1. [Cover Image](http://www.abc.net.au/news/image/6033748-1x1-700x700.jpg)
 
 ### Related:
 

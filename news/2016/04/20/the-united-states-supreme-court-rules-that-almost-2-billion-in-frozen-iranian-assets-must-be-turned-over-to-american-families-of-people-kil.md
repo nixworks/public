@@ -8,6 +8,7 @@ The U.S. Supreme Court on Wednesday ruled that almost $2 billion in frozen Irani
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-court-iran-idUSKCN0XH1R6)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160420&t=2&i=1133780401&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3J1MF)
 
 ### Related:
 

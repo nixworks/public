@@ -9,6 +9,7 @@
 
 1. [Newsweek](http://msnbc.msn.com/id/8525978/site/newsweek/)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/07/10/AR2005071001000.html)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

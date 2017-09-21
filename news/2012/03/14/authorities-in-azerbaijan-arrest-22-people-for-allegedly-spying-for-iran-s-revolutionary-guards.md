@@ -8,6 +8,7 @@ The authorities in Azerbaijan arrest 22 people on suspicion of spying for Iran, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17368576)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59067000/jpg/_59067551_013881954-1.jpg)
 
 ### Related:
 

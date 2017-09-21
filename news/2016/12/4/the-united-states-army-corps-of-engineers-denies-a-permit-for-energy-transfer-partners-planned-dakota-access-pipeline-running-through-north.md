@@ -8,6 +8,7 @@ A Native American leader asked thousands of protesters to return home after the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13T0QX)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161206&t=2&i=1164326684&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB506L)
 
 ### Related:
 

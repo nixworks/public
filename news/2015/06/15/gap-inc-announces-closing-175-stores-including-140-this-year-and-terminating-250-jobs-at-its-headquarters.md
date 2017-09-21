@@ -8,6 +8,7 @@ Apparel retailer Gap Inc (GPS.N) said it would close a quarter of Gap specialty 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/15/us-gap-restructuring-idUSKBN0OV2NT20150615)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150615&t=2&i=1056509986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5E13E)
 
 ### Related:
 

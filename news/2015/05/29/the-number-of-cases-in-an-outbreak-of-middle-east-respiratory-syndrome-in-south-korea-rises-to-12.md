@@ -8,6 +8,7 @@ Yonhap news articles produced by building a network covering domestic supplies i
 ### Source:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/search1/2603000000.html?cid=AEN20150529009500320)
+1. [Cover Image](http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/fb_en_logo.png)
 
 ### Related:
 

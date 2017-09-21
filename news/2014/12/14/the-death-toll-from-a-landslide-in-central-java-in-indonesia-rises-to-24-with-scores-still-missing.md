@@ -8,6 +8,7 @@ Rescuers were hampered by a lack of equipment after the landslide roared down a 
 ### Source:
 
 1. [Reuters via NBC News](http://www.nbcnews.com/news/world/scores-missing-indonesia-landslide-death-toll-hits-24-n267681)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2014_50/807426/141213-indonesia-landslide-02_052ee74b82916c9ad25e1e859f60dd19.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

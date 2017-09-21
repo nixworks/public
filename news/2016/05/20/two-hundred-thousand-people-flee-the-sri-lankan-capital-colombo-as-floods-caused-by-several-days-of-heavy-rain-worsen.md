@@ -8,6 +8,7 @@ Desperate Sri Lankans clambered onto rubber dinghies and makeshift rafts Friday 
 ### Source:
 
 1. [AFP via Yahoo](https://www.yahoo.com/news/200-000-flee-capital-sri-lanka-flood-misery-071238369.html?ref=gs)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/15xLsOhDfrDcNM_DCPCSgg--/aD02OTE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/1d0ac86c793a6ae634791ad24002df48a0bcd9e7.jpg)
 
 ### Related:
 

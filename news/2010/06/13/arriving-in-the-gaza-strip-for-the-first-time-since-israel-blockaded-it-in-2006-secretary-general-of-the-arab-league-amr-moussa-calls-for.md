@@ -17,6 +17,7 @@ Defense Ministry reports that Barak will remain in Israel until team of experts 
 8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13348760.htm)
 9. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904272,00.html)
 10. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904449,00.html)
+10. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

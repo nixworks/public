@@ -8,6 +8,7 @@ North Korea says it will scrap an accord aimed at preventing accidental naval cl
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/05/27/north-korea-china.html)
+1. [Cover Image](https://i.cbc.ca/1.2096394.1382067260!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-korea-ship-cp-rtr2e451.jpg)
 
 ### Related:
 

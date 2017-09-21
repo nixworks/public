@@ -10,6 +10,7 @@
 1. [ (CNN](http://www.cnn.com/2014/01/09/world/meast/syria-civil-war/?hpt=zite_zite4_featured)
 2. [NYT](http://www.nytimes.com/2014/01/10/world/middleeast/syrian-groups-try-to-recruit-us-travelers.html)
 3. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4475028,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The European Commission president, José Manuel Barroso, said the sum should sen
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/10/23/world/europe/23donors.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

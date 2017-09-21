@@ -8,6 +8,7 @@ Taoiseach Enda Kenny has insisted that a new European Union bailout for Greece, 
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0620/breaking60.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

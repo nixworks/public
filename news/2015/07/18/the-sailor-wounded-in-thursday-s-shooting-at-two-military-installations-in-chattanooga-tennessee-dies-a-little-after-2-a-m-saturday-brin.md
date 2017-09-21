@@ -8,6 +8,7 @@ The U.S. Navy says that the sailor who was shot earlier this week at a military 
 ### Source:
 
 1. [Chattanooga Times-Free Press](http://www.timesfreepress.com/news/local/story/2015/jul/18/us-navy-says-sailor-injured-tennessee-shooting-has-died/315279/)
+1. [Cover Image](http://media-cdn.timesfreepress.com/img/photos/2015/07/18/smith19n1web3955097943_t1070_h1e9b616e4136f84cb4dc2ddcd5769cc0cf48e121.jpg)
 
 ### Related:
 

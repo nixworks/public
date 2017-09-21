@@ -9,6 +9,7 @@ At least 13 people were killed and dozens were injured by a car bomb on Thursday
 
 1. [Aljazeera](http://www.aljazeera.com/news/2016/11/battle-aleppo-syria-army-intensifies-air-campaign-161118090027663.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-azaz-idUSKBN13C1E5)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

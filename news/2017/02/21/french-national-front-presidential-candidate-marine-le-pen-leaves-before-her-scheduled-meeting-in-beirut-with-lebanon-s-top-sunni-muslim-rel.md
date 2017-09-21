@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/marine-le-pen-stirs-headscarf-controversy-lebanon-170221150240682.html)
 2. [Reuters](http://www.reuters.com/article/us-france-election-lepen-idUSKBN1600R6)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170221&t=2&i=1173466395&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1K0E1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A French TGV train broke a world speed record on Tuesday when it hurtled down a 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSL0364103520070403)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070403&t=2&i=560934&w=&fh=545px&fw=&ll=&pl=&sq=&r=560934)
 
 ### Related:
 

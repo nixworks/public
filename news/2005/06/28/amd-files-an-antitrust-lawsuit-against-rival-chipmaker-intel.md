@@ -8,6 +8,7 @@ Here are the latest articles published on Tom’s Hardware. See the latest news,
 ### Source:
 
 1. [Tom's Hardware](http://www.tomshardware.com/hardnews/20050628_102226.html)
+1. [Cover Image](http://www.tomshardware.com/medias/img/th_pic.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@
 ### Source:
 
 1. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11317243)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201436/SCCZEN_ashburton-11_1024x768.jpg)

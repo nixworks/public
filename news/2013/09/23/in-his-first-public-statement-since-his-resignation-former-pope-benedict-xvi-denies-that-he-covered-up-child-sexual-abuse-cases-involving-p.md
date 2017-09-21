@@ -8,6 +8,7 @@ Former Pope Benedict has denied that he tried to cover up sexual abuse of childr
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/24/us-pope-abuse-idUSBRE98N0GX20130924)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130924&t=2&i=796954285&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98N0WM500)
 
 ### Related:
 

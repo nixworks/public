@@ -8,6 +8,7 @@ A U.S. law requiring large graphic health warnings on cigarette packaging and ad
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/19/us-tobacco-labels-idUSBRE82I0VX20120319)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120319&t=2&i=584419731&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82I1FRO00)
 
 ### Related:
 

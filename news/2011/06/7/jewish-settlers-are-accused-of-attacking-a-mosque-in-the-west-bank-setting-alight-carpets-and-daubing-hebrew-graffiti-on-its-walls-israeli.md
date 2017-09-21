@@ -10,6 +10,7 @@ MUGHAYYIR, West Bank (Reuters) - Jewish settlers were accused of attacking a mos
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13684157)
 2. [Reuters](http://uk.reuters.com/article/2011/06/07/uk-palestinians-israel-violence-idUKTRE7563YD20110607)
 3. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=224060)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110607&t=2&i=430581691&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-07T152429Z_01_BTRE75616SY00_RTROPTP_0_PALESTINIANS-ISRAEL-VIOLENCE)
 
 ### Related:
 

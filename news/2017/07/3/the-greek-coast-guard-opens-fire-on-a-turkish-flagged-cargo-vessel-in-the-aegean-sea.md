@@ -9,6 +9,7 @@ The captain of a Turkishfreight ship on Monday said the Greek coast guard opened
 
 1. [Reuters](http://www.reuters.com/article/greece-turkey-ship-idUSL8N1JU3XX)
 2. [Sputnik International](https://sputniknews.com/asia/201707031055188074-greece-turkey-ship-aegean/)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

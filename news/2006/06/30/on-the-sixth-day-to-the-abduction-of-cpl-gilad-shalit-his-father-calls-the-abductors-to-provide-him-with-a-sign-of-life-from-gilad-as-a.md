@@ -10,6 +10,7 @@ Noam Shalit, father of kidnapped IDF soldier Gilad, turns to abductors, asking t
 1. [Haaretz](http://www.haaretz.com/hasen/spages/733338.html)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269378,00.html)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269418,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

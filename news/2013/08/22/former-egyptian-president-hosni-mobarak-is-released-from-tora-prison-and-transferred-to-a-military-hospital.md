@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-egypt-hosni-mubarak-released-prison-20130822,0,551689.story)
+1. [Cover Image](http://www.trbimg.com/img-521627a2/turbine/la-fg-wn-egypt-hosni-mubarak-released-prison-20130822)

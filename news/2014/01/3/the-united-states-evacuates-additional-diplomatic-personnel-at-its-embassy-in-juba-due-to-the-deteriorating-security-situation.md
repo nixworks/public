@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Hill](http://thehill.com/blogs/global-affairs/africa/194322-more-diplomatic-personnel-evacuated-from-south-sudan)
+1. [Cover Image](http://thehill.com/sites/default/files/thehill_logo_200.jpg)
 
 ### Related:
 

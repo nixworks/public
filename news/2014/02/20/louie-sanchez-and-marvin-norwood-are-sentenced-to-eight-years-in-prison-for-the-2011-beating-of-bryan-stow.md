@@ -8,3 +8,4 @@ Two men charged in the beating of a San Francisco Giants fan pleaded guilty Thur
 ### Source:
 
 1. [NBC](http://www.nbcbayarea.com/news/local/Bryan-Stow-Beating-Case-Judge-Sentences-Complete-Cowards-in-Giants-Fan-Assault-246376281.html?_osource=SocialFlowTwt_BAYBrand)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/bryan-stow-case-feb-20-sentencing.jpg)

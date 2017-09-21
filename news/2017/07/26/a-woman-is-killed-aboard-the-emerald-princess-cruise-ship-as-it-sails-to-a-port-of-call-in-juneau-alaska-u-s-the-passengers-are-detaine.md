@@ -8,6 +8,7 @@ The FBI is investigating the death of a Utah woman stemming from a domestic disp
 ### Source:
 
 1. [NBC News](http://www.9news.com/mobile/article/news/fbi-investigating-death-from-domestic-dispute-on-cruise-ship/459712377)
+1. [Cover Image](http://content.9news.com/photo/2017/07/26/GettyImages-88818072_1501100675267_10133679_ver1.0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The coordinated attack is another stinging blow to NATO-backed Afghan forces.
 ### Source:
 
 1. [AFP via Dunya News](http://dunyanews.tv/en/World/389346-Taliban-raid-kills-20-policemen-in-southern-Afghan)
+1. [Cover Image](http://img.dunyanews.tv/news/2017/May/05-21-17/news_big_images/389346_15972780.jpg)
 
 ### Related:
 

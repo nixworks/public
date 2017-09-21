@@ -10,6 +10,7 @@ The killings of low-level officials are an attempt to undermine counterinsurgenc
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201061010921894475.html)
 2. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/06/10/afghanistan.child.execution/index.html)
 3. [The New York Times](http://www.nytimes.com/2010/06/10/world/asia/10taliban.html?src=me)
+3. [Cover Image](https://static01.nyt.com/images/2010/06/10/world/10taliban_337-span/TALIBAN1-thumbStandard.jpg)
 
 ### Related:
 

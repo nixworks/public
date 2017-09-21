@@ -8,6 +8,7 @@ Plymouth-based HMS Portland is to become the first frontline Royal Navy warship 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-devon-14451761)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54492000/jpg/_54492391_hmsportlandsarahwest.jpg)
 
 ### Related:
 

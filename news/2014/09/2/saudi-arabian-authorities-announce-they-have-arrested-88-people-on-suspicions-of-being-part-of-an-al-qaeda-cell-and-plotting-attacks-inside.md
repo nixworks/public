@@ -8,6 +8,7 @@ Government says 88 people, including Saudis and Yemenis, held on suspicion of pl
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2014/09/saudi-arabia-foils-al-qaeda-attack-plot-20149213400695493.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/9/2/20149214151610734_20.jpg)
 
 ### Related:
 

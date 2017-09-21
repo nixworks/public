@@ -8,6 +8,7 @@ The European Commission ordered Apple Inc to pay Ireland unpaid taxes of up to 1
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eu-apple-taxavoidance-idUSKCN114211?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160830&t=2&i=1151601519&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7T0MF)
 
 ### Related:
 

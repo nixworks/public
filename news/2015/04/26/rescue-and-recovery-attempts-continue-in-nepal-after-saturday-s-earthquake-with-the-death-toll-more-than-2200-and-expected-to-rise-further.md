@@ -12,6 +12,7 @@ Tens of thousands of Nepalese who spent the night under a chilly sky were jolted
 3. [NBC News](http://www.nbcnews.com/storyline/nepal-earthquake/nepal-earthquake-mount-everest-avalanche-wounded-get-rescue-choppers-n348451)
 4. [New York Times](http://www.nytimes.com/2015/04/27/world/asia/nepal-earthquake-katmandu.html?_r=0)
 5. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3055925/Earthquake-aftershock-hits-Nepal-India-magnitude-6-7.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+5. [Cover Image](https://i.cbc.ca/1.3049070.1429995996!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/nepal-earthquake.jpg)
 
 ### Related:
 

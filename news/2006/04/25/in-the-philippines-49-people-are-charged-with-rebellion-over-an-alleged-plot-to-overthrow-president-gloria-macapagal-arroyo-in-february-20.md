@@ -9,6 +9,7 @@ The Philippines government has charged 49 people with rebellion over an alleged 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4939820.stm)
 2. [CBC](http://www.cbc.ca/world/story/2006/04/25/arroyo060425.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

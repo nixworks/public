@@ -8,6 +8,7 @@ Taliban and government representatives meet for unofficial talks on continuing c
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201052115352749229.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

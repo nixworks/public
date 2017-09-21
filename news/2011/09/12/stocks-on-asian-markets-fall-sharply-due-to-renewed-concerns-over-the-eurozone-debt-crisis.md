@@ -8,6 +8,7 @@ Asian stocks plunge, with some shares hitting multiyear lows, after renewed fear
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/asia-stocks-plunge-after-us-european-losses-2011-09-11)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ China sentences 20 men to up to life in jail on terrorism and inciting secession
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-21954425)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66632000/gif/_66632239_china_xinjiang27032013.gif)
 
 ### Related:
 

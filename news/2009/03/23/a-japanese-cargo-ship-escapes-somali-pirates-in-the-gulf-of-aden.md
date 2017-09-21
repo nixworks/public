@@ -8,6 +8,7 @@ A Japanese ship operated byMitsui O.S.K. Lines (9104.T) was shot at by two pirat
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUST17444920090323)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

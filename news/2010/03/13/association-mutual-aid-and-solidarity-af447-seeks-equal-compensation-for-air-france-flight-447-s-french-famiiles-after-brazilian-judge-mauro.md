@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/idUSN1224359020100312?type=marketsNews)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10631808)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

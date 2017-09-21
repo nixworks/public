@@ -10,6 +10,7 @@ Scores of Kenyan troops go on the rampage in the eastern town of Garissa, beatin
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20401136)
 2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2012/11/gunmen-kill-three-soldiers-in-kenyas-northeast/)
 3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Riot-in-Kenya-after-bus-bombing-kills-nine-in-capital/articleshow/17285247.cms)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64242000/jpg/_64242265_dscf0397.jpg)
 
 ### Related:
 

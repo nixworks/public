@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/08/15/us-ali-pictures-accounts-idUSKBN0GF08220140815)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140815&t=2&i=964271999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7E046)
 
 ### Related:
 

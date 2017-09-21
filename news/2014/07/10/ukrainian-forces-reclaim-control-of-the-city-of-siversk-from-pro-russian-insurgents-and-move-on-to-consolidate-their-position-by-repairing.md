@@ -8,6 +8,7 @@ Leaders of the pro-Russia separatists said they had decided to surrender another
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/ukraine-forces-take-another-rebel-held-town-1404996939?tesla=y&mg=reno64-wsj&url=http://online.wsj.com/article/SB10001424052702303833804580020850598928726.html)
+1. [Cover Image](https://si.wsj.net/public/resources/images/WO-AS966_UKRAIN_G_20140710183147.jpg)
 
 ### Related:
 

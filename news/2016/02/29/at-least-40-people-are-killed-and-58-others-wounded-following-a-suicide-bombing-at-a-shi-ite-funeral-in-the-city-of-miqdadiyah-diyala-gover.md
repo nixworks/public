@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKCN0W21UA)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160301&t=2&i=1121507764&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC202FC)
 
 ### Related:
 

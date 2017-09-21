@@ -8,6 +8,7 @@ A Colorado grand jury has indicted 23 people allegedly linked to the Los Zetas d
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/12/us-drugs-smuggling-mexico-idUSTRE76B02U20110712)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

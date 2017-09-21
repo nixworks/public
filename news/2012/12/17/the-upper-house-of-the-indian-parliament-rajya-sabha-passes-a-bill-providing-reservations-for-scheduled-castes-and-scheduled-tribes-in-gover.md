@@ -8,6 +8,7 @@ The Rajya Sabha on Monday passed the constitution amendment bill to provide rese
 ### Source:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/rajya-sabha-passes-promotion-quota-bill-to-provide-reservations-in-promotions-for-scs-sts/articleshow/17653590.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-17653640,width-672,resizemode-4,imglength-34460/news/politics-and-nation/rajya-sabha-passes-promotion-quota-bill-to-provide-reservations-in-promotions-for-scs-sts.jpg)
 
 ### Related:
 

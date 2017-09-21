@@ -9,6 +9,7 @@ ZAGREB, Croatia (AP) — Lawmakers in Croatia approved a new government on Wedne
 
 1. [AP](http://bigstory.ap.org/article/bf02f9bea1484fc7b62279bc31ba43f5/croatia-pm-designate-vows-boost-reform-bridge-divisions)
 2. [Reuters](http://www.reuters.com/article/us-croatia-government-idUSKCN12J2EQ?il=0)
+2. [Cover Image](http://binaryapi.ap.org/bb2f3d680ba6490f851af1d6628f3889/460x.jpg)
 
 ### Related:
 

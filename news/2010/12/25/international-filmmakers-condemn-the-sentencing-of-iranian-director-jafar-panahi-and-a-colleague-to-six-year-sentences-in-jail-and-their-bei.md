@@ -9,6 +9,7 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 
 1. [CBC](http://www.cbc.ca/arts/film/story/2010/12/24/panahi-protest-filmmakers-festivals-petition.html)
 2. [MSN](http://news.in.msn.com/international/article.aspx?cp-documentid=4739163)
+2. [Cover Image](https://i.cbc.ca/1.4029734.1489767376!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canada-story-of-us-episode-101-filles-du-roi-group-shot.JPG)
 
 ### Related:
 

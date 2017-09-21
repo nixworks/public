@@ -10,6 +10,7 @@ A bus carrying 42 passengers traveling from Harvard University in Cambridge, Mas
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57567317/bus-hits-overpass-in-boston-injuring-more-than-30/)
 2. [Reuters](http://www.reuters.com/article/2013/02/03/us-usa-boston-crash-idUSBRE91202720130203)
 3. [Sky News](http://news.sky.com/story/1046805/boston-bus-crash-dozens-of-passengers-hurt)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130203&t=2&i=700456774&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9120BQT00)
 
 ### Related:
 

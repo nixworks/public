@@ -9,6 +9,7 @@ Millions of people across the world have marked Earth Hour by switching off ligh
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/7969515.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0328/earthhour.html)
+2. [Cover Image](https://img.rasset.ie/0001c859-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Indian and Pakistan security forces trade fire along their troubled frontier, le
 ### Source:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2014-10-06/civilians-killed-in-india-pakistan-border-clashes/5794314)
+1. [Cover Image](http://www.abc.net.au/news/image/4457576-1x1-700x700.jpg)
 
 ### Related:
 

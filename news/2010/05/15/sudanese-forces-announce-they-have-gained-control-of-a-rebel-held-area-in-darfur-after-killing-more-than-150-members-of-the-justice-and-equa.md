@@ -12,6 +12,7 @@ More than 150 fighters reported dead as clashes cast further doubt on peace talk
 3. [BBC](http://news.bbc.co.uk/2/hi/africa/8684544.stm)
 4. [France24](http://www.france24.com/en/20100515-sudan-darfur-army-rebel-jebel-moon-justice-equality-movement)
 5. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Sudan-army-seizes-Darfur-rebel-bastion-kills-108-spokesman-/articleshow/5934367.cms)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -11,6 +11,7 @@ People were killed as they gathered to collect fuel from the overturned tanker, 
 2. [BBC](http://www.bbc.com/news/world-south-asia-40396036)
 3. [CNN](http://edition.cnn.com/2017/06/25/asia/deadly-oil-tank-explosion-pakistan/index.html)
 4. [India Times](http://economictimes.indiatimes.com/news/international/world-news/123-killed-as-oil-tanker-exploded-in-pakistans-bahwalpur/articleshow/59306772.cms)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/8FC3/production/_96630863_pakistantanker.png)
 
 ### Related:
 

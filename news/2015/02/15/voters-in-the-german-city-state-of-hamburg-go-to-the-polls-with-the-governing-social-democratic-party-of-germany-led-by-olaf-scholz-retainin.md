@@ -8,6 +8,7 @@ Angela Merkel’s conservative Christian Democratic Union (CDU) suffered a rathe
 ### Source:
 
 1. [Guardian Liberty Voice](http://guardianlv.com/2015/02/angela-merkels-conservatives-defeated-in-election/)
+1. [Cover Image](http://guardianlv.com/wp-content/uploads/2015/02/Angela-Merkels-Conservatives-Defeated-in-Election.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/94262-malaysia-summons-philippines-official-sabah)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/AF81C3215AFF40A88F1D0ED766EDC691/sabah-evacuees-20150525-1.jpg)
 
 ### Related:
 

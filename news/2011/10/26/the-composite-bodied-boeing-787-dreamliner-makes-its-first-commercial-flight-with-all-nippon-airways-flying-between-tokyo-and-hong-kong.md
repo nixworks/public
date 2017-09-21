@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15456696)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56283000/jpg/_56283980_ana.jpg)
 
 ### Related:
 

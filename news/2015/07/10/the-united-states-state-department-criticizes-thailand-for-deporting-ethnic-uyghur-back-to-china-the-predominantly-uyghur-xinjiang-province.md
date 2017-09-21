@@ -8,6 +8,7 @@ The ruling junta in the Southeast Asian country ordered 100 ethnic Uighur Muslim
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/07/09/421497316/u-s-criticizes-thailands-deportation-of-uighurs-to-china)
+1. [Cover Image](https://media.npr.org/assets/img/2015/07/09/ap_746752363004_wide-66545f66d0a9401e46447261d70a1421868af3f5.jpg?s=1400)
 
 ### Related:
 

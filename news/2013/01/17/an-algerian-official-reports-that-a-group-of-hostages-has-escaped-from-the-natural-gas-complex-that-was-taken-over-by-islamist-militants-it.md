@@ -12,6 +12,7 @@ Security forces in eastern Algeria surround a gas facility occupied by militants
 3. [Fox News](http://www.foxnews.com/world/2013/01/17/us-france-reportedly-in-talks-with-algeria-over-hostage-standoff/)
 4. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-20-foreign-hostages-escape-islamist-captors-in-algeria-20130117,0,7004240.story)
 5. [USA Today](http://www.usatoday.com/story/news/world/2013/01/17/algeria-hostages/1841343/)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65341000/jpg/_65341018_qlhyxjks.jpg)
 
 ### Related:
 

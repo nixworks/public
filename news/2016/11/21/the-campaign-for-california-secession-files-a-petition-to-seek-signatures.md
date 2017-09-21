@@ -8,6 +8,7 @@ Update on &apos;Essential Politics November archives&apos;
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-california-secession-calexit-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-588fc4f8/turbine/la-pol-ca-essential-politics-california-secession-calexit)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Move comes as Turkey says it should not be expected to become a &lsquo;concentra
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/news/world/europe/croatia-opens-border-for-thousands-of-stranded-refugees-1.2397412)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2397940&origw=1440)
 
 ### Related:
 

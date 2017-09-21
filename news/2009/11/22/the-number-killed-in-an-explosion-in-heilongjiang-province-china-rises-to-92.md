@@ -11,6 +11,7 @@ The explosion on Saturday was unusual in that it involved a large mine operated 
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8372760.stm)
 3. [New York Times](http://www.nytimes.com/2009/11/22/world/asia/22china.html)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE5AK09720091122)
+4. [Cover Image](https://static01.nyt.com/images/2009/11/21/world/21chinamine/thumbStandard.jpg)
 
 ### Related:
 

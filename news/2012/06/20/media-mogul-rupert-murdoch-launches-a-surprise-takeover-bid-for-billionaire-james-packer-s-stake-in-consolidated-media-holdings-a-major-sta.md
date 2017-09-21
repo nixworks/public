@@ -8,6 +8,7 @@ News unveils a $2b takeover bid for James Packer-controlled Consolidated Media e
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/business/murdoch-wields-axe-and-cheque-book-20120620-20mw7.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/x/q/b/b/image.related.articleLeadwide.620x349.20mw7.png/1340778872293.jpg)
 
 ### Related:
 

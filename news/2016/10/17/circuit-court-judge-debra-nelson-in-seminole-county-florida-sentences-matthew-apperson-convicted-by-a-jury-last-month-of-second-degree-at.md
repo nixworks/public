@@ -8,6 +8,7 @@ A Florida man was sentenced to 20 years in prison on Monday for shooting at Geor
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-florida-zimmerman-idUSKBN12H1S2)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157807762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G0Y3)
 
 ### Related:
 

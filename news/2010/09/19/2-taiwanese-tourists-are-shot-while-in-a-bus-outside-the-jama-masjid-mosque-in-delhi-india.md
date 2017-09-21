@@ -9,6 +9,7 @@ Two Taiwanese tourists are injured after gunmen open fire in Delhi, weeks before
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11361549)
 2. [Times of India](http://timesofindia.indiatimes.com/city/delhi/Two-foreigners-injured-in-firing-near-Jama-Masjid-in-Delhi/articleshow/6584160.cms)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

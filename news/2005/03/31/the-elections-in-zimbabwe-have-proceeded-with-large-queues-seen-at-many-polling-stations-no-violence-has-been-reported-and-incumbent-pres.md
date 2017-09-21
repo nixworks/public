@@ -12,6 +12,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [CNN](http://edition.cnn.com/2005/WORLD/africa/03/31/zimbabwe.mugabe/)
 4. [News24](http://www.news24.com/News24/Africa/Zimbabwe/0,,2-11-1662_1683144,00.html)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8043431)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

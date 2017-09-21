@@ -8,6 +8,7 @@ At least 3 people were killed and 22 others sustained severe injuries when a hom
 ### Source:
 
 1. [AAJ](http://www.aaj.tv/2010/10/2-killed-in-peshawar-blast/)
+1. [Cover Image](http://www.aaj.tv/wp-content/uploads/2010/10/peshawar-police.jpg)
 
 ### Related:
 

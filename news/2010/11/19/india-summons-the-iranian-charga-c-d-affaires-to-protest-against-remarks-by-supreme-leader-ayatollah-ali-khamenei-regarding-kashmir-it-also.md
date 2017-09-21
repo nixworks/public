@@ -8,6 +8,7 @@ Angry at the critical statements by Iranian supreme leader Ayatollah Ali Khamene
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Iranian-envoy-summoned-for-Khameneis-K-remark/articleshow/6957552.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The FCC decided Friday that it can&#x27;t force Internet companies like Google, 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/tech/internet/fcc-we-cant-force-google-facebook-stop-tracking-you-online-n458856?cid=par-time_20151106)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2014_37/634396/140825-passwords-computer-mn-955_1ff04ba261a9791a9733166d0915fd6d.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20925193)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60769000/jpg/_60769732_008664042-1.jpg)
 
 ### Related:
 

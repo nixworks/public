@@ -9,6 +9,7 @@ Wintry weather is set to cause more travel chaos across the UK, with warnings of
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21095132)
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-21101217)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65386000/jpg/_65386829_hgbvdo30.jpg)
 
 ### Related:
 

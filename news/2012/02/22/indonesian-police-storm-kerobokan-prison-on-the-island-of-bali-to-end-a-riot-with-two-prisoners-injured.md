@@ -9,6 +9,7 @@ Indonesian police stormed a prison on the resort island of Bali on Wednesday to 
 
 1. [AAP via News Limited](http://www.news.com.au/world/rioting-prisoners-take-over-bali-prison/story-e6frfkyi-1226277760803)
 2. [Reuters](http://www.reuters.com/article/2012/02/22/us-indonesia-prison-idUSTRE81L06F20120222)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120222&t=2&i=573729986&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81L09M400)
 
 ### Related:
 

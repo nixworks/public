@@ -8,6 +8,7 @@ Three people have been killed and eight others injured after violence erupted in
 ### Source:
 
 1. [New Delhi TV](http://www.ndtv.com/india-news/violence-in-south-manipur-houses-of-minister-2-lawmakers-set-on-fire-1212872)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-08/manipur-violence_650x400_81441032929.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Officials say foreign passport holders will now be allowed to freely visit north
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14022616)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53858000/jpg/_53858421_dance_afp.jpg)
 
 ### Related:
 

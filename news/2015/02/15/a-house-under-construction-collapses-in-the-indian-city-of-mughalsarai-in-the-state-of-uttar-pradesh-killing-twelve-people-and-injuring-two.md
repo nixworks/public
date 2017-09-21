@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/india-news/12-killed-as-under-construction-house-collapses-in-uttar-pradesh-739711)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-02/uphousecollapse_650x400_61423984412.jpg)
 
 ### Related:
 

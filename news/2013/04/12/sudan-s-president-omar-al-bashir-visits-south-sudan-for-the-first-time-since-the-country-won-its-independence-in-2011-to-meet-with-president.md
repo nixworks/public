@@ -8,6 +8,7 @@ JUBA, Apr 12 - Sudan&#039;s President Omar al-Bashir will visit South Sudan Frid
 ### Source:
 
 1. [AFP via Capital FM Kenya](http://www.capitalfm.co.ke/news/2013/04/bashir-heads-to-south-sudan-as-tensions-ease/)
+1. [Cover Image](http://www.capitalfm.co.ke/news/files/2013/04/BASHIR-SALUTE.jpg)
 
 ### Related:
 

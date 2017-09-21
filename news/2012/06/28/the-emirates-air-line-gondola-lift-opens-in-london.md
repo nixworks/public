@@ -8,6 +8,7 @@ The new Thames cable car, spanning the river in east London, opens to the public
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-london-18619936)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61231000/jpg/_61231040_015185273.jpg)
 
 ### Related:
 

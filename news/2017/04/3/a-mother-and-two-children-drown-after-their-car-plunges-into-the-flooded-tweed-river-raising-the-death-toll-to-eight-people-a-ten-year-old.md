@@ -8,6 +8,7 @@ A MOTHER and her young son and daughter are believed to have drowned after their
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/national/nsw-act/news/mother-child-among-at-least-three-trapped-in-car-washed-into-tweed-river/news-story/e8b8b3e300b54b0bd0e49720c4f894be)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/affc1f33191151c9aebcda99e7a56eb9)
 
 ### Related:
 

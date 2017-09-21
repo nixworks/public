@@ -11,6 +11,7 @@ Ex-ruler of Panama sentenced to seven years in prison for laundering drug money.
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10542179.stm)
 3. [Bangkok Post](http://www.bangkokpost.com/breakingnews/185396/french-court-orders-more-jail-time-for-noriega)
 4. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5haoVrce5A9OyQ2Vpqct1UJCFRpIQ)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

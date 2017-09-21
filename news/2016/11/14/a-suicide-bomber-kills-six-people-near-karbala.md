@@ -10,6 +10,7 @@ Eight people were killed and nearly 20 wounded on Monday in two separate car bom
 1. [RFERL](http://www.rferl.org/a/iraq-suicide-attack-kerbala/28114472.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKBN1390SW)
 3. [Reuters](http://www.reuters.com/article/us-midest-crisis-iraq-falluja-idUSKBN1391S8)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

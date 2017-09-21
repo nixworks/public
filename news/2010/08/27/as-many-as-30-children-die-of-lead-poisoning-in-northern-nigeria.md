@@ -9,6 +9,7 @@ As many as 30 children are reportedly dead in northern Nigeria from lead poisoni
 
 1. [AllAfrica.com](http://allafrica.com/stories/201008270828.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11111799)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

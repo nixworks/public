@@ -8,6 +8,7 @@ France reported its first death from the new SARS-like coronavirus on Tuesday an
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/05/29/uk-coronavirus-france-idUKBRE94R0Y320130529)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -19,5 +20,5 @@ France reported its first death from the new SARS-like coronavirus on Tuesday an
 6. [ French authorities are investigating reports that Osama bin Laden has died of typhoid after a leaked French secret service report. "Time" magazine also cites an unknown Saudi Arabian source that Bin Laden had a waterborne disease and may be dead. However, French and U.S. authorities are unable to confirm these reports. ](/news/2006/09/23/french-authorities-are-investigating-reports-that-osama-bin-laden-has-died-of-typhoid-after-a-leaked-french-secret-service-report-time-m.md) _Context: France, Saudi Arabia_
 7. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
 8. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
-9. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
-10. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
+9. [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md) _Context: Saudi Arabia_
+10. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_

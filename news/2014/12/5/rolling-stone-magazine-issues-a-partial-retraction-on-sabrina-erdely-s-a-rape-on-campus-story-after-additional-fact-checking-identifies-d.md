@@ -10,6 +10,7 @@ Lack of documentation puts pressure on accuser.
 1. [Rolling Stone](http://www.rollingstone.com/culture/news/a-note-to-our-readers-20141205)
 2. [TimesDispatch](http://www.timesdispatch.com/news/state-regional/rolling-stone-backs-off-its-u-va-rape-story/article_82f71500-0cd8-5ae5-9114-fd62d01f0995.html)
 3. [Washington Post](http://www.washingtonpost.com/blogs/erik-wemple/wp/2014/12/02/rolling-stone-whiffs-in-reporting-on-alleged-rape/)
+3. [Cover Image](//assets.wennermedia.com/rollingstone/img/social/default-rollingstone.jpg)
 
 ### Related:
 

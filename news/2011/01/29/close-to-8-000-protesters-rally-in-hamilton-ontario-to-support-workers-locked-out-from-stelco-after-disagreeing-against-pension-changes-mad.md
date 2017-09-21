@@ -9,6 +9,7 @@
 
 1. [CTV](http://www.ctv.ca/CTVNews/Canada/20110129/hamilton-labour-rally-110229/)
 2. [Niagara Falls Review](http://www.niagarafallsreview.ca/ArticleDisplay.aspx?e=2953771)
+2. [Cover Image](http://www.niagarafallsreview.ca/assets/img/banners/logos/niagara_falls_review.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Islamist insurgents killed four pro-government Somali soldiers and injured 11 ot
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKBN13O225?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

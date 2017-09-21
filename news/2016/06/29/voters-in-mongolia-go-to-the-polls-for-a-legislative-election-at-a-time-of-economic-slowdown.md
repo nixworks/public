@@ -8,6 +8,7 @@ Election comes amid economic downturn caused by slumping demand for commodities 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jun/29/mongolians-head-to-polls-for-election-amid-economic-slowdown)
+1. [Cover Image](https://i.guim.co.uk/img/media/1745bfe2d637f965d28b08091095f1bbddb7c825/0_26_3888_2333/3888.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8eed96250a329ac890659f97ea387437)
 
 ### Related:
 

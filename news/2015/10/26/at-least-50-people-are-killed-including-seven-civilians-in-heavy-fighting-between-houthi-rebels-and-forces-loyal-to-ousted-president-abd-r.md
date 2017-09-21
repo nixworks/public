@@ -8,6 +8,7 @@ At least seven civilians, more than 50 Houthi rebels and eight pro-government fi
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/10/civilians-scores-dead-yemen-taiz-151026185306692.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/10/26/aee1167e3a8544fda735c711661f8ec8_18.jpg)
 
 ### Related:
 

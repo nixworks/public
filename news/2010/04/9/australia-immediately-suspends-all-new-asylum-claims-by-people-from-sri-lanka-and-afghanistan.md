@@ -14,6 +14,7 @@ Australia has suspended processing new claims for asylum from Afghans and Sri La
 5. [The Guardian](http://www.guardian.co.uk/world/2010/apr/09/australia-refugees-afghanistan-sri-lanka)
 6. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Australia-stops-accepting-new-Afghan-Sri-Lankan-asylum-seekers/articleshow/5776602.cms)
 7. [The Times](http://www.timesonline.co.uk/tol/news/world/article7092776.ece#cid=OTC-RSS&attr=797093)
+7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

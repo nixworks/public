@@ -8,6 +8,7 @@ Nine decapitated bodies have been discovered in the Mexican border city of Tijua
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2008/12/01/2434040.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

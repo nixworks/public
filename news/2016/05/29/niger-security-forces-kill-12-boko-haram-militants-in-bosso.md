@@ -9,6 +9,7 @@ Security forces in Niger killed around 12 fighters of the Islamist militant grou
 
 1. [Reuters](http://in.reuters.com/article/niger-boko-haram-idINKCN0YK02Z)
 2. [U.S. News](http://www.usnews.com/news/world/articles/2016-05-29/buried-ied-blamed-on-boko-haram-kills-5-in-northeast-nigeria)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

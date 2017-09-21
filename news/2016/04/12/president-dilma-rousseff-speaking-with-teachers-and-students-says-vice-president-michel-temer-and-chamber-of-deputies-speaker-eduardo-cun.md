@@ -9,6 +9,7 @@ Brazil’s impeachment saga took a bizarre twist on Monday after Vice President 
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/politics/congress/brazil-congressional-committee-votes-in-favor-of-impeachment/2016/04/11/9d27fbac-0046-11e6-8bb1-f124a43f84dc_story.html)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-11/brazil-s-vp-practices-national-unity-speech-in-leaked-audio)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW_zQEM37vpA/v1/1200x804.jpg)
 
 ### Related:
 

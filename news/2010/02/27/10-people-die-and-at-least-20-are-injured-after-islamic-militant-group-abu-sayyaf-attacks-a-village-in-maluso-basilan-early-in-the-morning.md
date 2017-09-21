@@ -8,6 +8,7 @@ Al Qaeda-linked Muslim militants have attacked a town in the southern Philippine
 ### Source:
 
 1. [The Snydey Morning Herald](http://news.smh.com.au/breaking-news-world/philippines-abu-sayyaf-militants-kill-11-20100227-p9x3.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

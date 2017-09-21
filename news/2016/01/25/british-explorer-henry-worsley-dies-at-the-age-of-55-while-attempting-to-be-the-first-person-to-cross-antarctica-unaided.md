@@ -8,6 +8,7 @@ Explorer Henry Worsley dies during a solo attempt to cross Antarctica and comple
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-35398552)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/2136/production/_87920580_87920579.jpg)
 
 ### Related:
 

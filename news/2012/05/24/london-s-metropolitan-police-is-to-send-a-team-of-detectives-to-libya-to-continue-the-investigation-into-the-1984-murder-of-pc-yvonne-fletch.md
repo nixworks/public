@@ -8,6 +8,7 @@ A Metropolitan Police team is to fly to Libya to continue the investigation into
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18198912)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56194000/jpg/_56194234_013189655-1.jpg)
 
 ### Related:
 

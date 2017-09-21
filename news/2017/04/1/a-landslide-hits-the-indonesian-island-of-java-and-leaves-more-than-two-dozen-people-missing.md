@@ -8,6 +8,7 @@
 ### Source:
 
 1. [DPA via News Limited](http://www.news.com.au/world/breaking-news/indonesian-landslide-buries-up-to-27/news-story/4e13917fabc16b127a8fa1979e24bd77)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

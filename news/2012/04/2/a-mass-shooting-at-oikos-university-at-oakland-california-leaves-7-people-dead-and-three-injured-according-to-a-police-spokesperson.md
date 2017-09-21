@@ -10,6 +10,7 @@ A 43-year-old former student is arrested after seven people are shot dead at a p
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17590859)
 2. [CNN](http://news.blogs.cnn.com/2012/04/02/multiple-fatalities-in-shooting-at-california-college-oakland-police-say/)
 3. [KTVU](http://www.ktvu.com/news/news/crime-law/one-dead-several-wounded-oakland-university-classr/nMHdf/?hpt=hp_t3)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59449000/jpg/_59449228_59449227.jpg)
 
 ### Related:
 

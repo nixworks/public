@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Maritime Executive](http://www.maritime-executive.com/article/vietnam-chinese-vessels-cut-seismic-cables)
+1. [Cover Image](http://maritime-executive.com/media/images/article/archive/556px_south_china_sea_3.jpg)
 
 ### Related:
 

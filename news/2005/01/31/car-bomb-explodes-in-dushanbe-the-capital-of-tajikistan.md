@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4221603.stm)
 2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=1693936&PageNum=0)
 3. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=10744401)
+3. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)
 
 ### Related:
 

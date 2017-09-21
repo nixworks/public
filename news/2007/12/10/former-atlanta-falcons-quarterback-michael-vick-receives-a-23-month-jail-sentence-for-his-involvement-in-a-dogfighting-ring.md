@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Canadian Press via TSN](http://www.tsn.ca/nfl/news_story/?ID=224839&hubname=)
+1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
 
 ### Related:
 

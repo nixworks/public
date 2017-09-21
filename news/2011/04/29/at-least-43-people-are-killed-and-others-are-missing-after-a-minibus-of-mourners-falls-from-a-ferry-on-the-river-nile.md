@@ -8,6 +8,7 @@ A minibus falls off a ferry on the Nile River in Egypt, killing at least 17 peop
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13237979)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52422000/jpg/_52422206_011861092-1.jpg)
 
 ### Related:
 

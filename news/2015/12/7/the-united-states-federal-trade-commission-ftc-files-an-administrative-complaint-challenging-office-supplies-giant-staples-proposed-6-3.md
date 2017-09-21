@@ -9,6 +9,7 @@ The Federal Trade Commission Monday filed an administrative complaint challengin
 
 1. [Bloomberg via ''Chicago Tribune](http://www.chicagotribune.com/business/ct-staples-office-depot-merger-20151207-story.html)
 2. [USA Today](http://www.usatoday.com/story/money/2015/12/07/ftc-challenges-63b-staples-home-depot-deal/76930420/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

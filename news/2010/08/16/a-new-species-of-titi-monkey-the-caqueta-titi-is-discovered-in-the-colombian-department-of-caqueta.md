@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://content.usatoday.com/communities/sciencefair/post/2010/08/new-colombian-monkey-species-discovered-but-only-250-are-left/1)
+1. [Cover Image](http://i.usatoday.net/communitymanager/_photos/science-fair/2010/08/16/Titi_monkeyx-wide-community.jpg)
 
 ### Related:
 

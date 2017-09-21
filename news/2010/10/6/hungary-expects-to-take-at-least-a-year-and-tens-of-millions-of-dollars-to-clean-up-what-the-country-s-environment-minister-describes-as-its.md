@@ -9,6 +9,7 @@ Hungary has opened a criminal investigation into the toxic sludge flood which ha
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11481740)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/hungary/8046943/Hungary-opens-criminal-investigation-into-toxic-sludge-flood.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01732/sludge-cat_1732213a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man is killed by a shark while surfing off the coast of Western Australia, in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18840324)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61570000/jpg/_61570607_ozsharkattack1407_rtr.jpg)
 
 ### Related:
 

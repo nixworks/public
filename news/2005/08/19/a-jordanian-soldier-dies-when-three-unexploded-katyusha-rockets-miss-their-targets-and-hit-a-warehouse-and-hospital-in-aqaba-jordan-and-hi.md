@@ -9,6 +9,7 @@ Police detained several suspects on Saturday as the hunt widened for the attacke
 
 1. [CNN](http://www.cnn.com/2005/WORLD/meast/08/19/jordan.blasts/index.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/9004040/)
+2. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/050820/050820_jordan_missile_hmed7a.standard.jpg)
 
 ### Related:
 

@@ -15,6 +15,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 6. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-07-08T231815Z_01_L04812837_RTRUKOC_0_US-MIDEAST.xml)
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272507,00.html)
 8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272708,00.html)
+8. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

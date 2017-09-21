@@ -8,6 +8,7 @@ Researchers studying a mass vaccination campaign against meningitis have found a
 ### Source:
 
 1. [CBC.ca](http://www.cbc.ca/news/health/meningitis-vaccine-offers-some-defence-against-gonorrhea-study-finds-1.4198771)
+1. [Cover Image](https://i.cbc.ca/1.4076689.1499738817!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/drug-resistant-gonorrhea-2013010.jpg)
 
 ### Related:
 

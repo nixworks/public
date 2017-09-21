@@ -11,6 +11,7 @@ The Taliban attack a Nato base in east Afghanistan a day after the US commander,
 2. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/world/militants-killed-in-airport-battle-14859586.html)
 3. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5i-AGnS7CsNKklCZmmlqISux0yEHA)
 4. [The ''Globe and Mail](http://www.theglobeandmail.com/news/world/asia-pacific/8-militants-killed-in-fighting-at-eastern-afghanistan-airport/article1623953/)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

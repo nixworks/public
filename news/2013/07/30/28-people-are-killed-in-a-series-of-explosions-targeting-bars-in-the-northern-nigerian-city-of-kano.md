@@ -8,6 +8,7 @@ At least 28 are people are killed in a series of explosions that targeted bars i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23498757)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69012000/gif/_69012152_nigeria_kano304.gif)
 
 ### Related:
 

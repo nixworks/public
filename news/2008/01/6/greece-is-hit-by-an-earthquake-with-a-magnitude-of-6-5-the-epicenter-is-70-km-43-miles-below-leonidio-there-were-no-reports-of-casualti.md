@@ -8,6 +8,7 @@ A powerful earthquake measuring 6.5 on the Richter scale hit the Peloponnese reg
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0106/greece.html)
+1. [Cover Image](https://img.rasset.ie/00013a51-1600.jpg)
 
 ### Related:
 

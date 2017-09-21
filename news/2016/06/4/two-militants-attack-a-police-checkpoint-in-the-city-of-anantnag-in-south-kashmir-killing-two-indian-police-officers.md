@@ -8,6 +8,7 @@ The attack comes ahead of the June 22 polling for by-election to Anantnag Assemb
 ### Source:
 
 1. [Indian Express](http://indianexpress.com/article/india/india-news-india/militants-kill-two-policemen-in-kashmirs-anantnag-2834089/)
+1. [Cover Image](http://images.indianexpress.com/2016/06/jammu-and-kashmir_anantnag_.jpg?w=480)
 
 ### Related:
 
@@ -19,5 +20,5 @@ The attack comes ahead of the June 22 polling for by-election to Anantnag Assemb
 6. [India claims two of its soldiers have been killed during a gunfight with Pakistani forces in the Indian-controlled portion of Kashmir. This report comes two days after Pakistan made a similar claim of the death of one of its troops due to an Indian cross-border operation in the disputed region. ](/news/2013/01/8/india-claims-two-of-its-soldiers-have-been-killed-during-a-gunfight-with-pakistani-forces-in-the-indian-controlled-portion-of-kashmir-this.md) _Context: Kashmir, Kashmir conflict_
 7. [A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldier-and-another-crit.md) _Context: Kashmir, Kashmir conflict_
 8. [Clashes break out between Indian and Pakistani troops near the border in the disputed Kashmir region. ](/news/2010/05/23/clashes-break-out-between-indian-and-pakistani-troops-near-the-border-in-the-disputed-kashmir-region.md) _Context: Kashmir, Kashmir conflict_
-9. [At least 7 people are killed and 15 injured after gunmen fire upon a pilgrimage bus and a police vehicle, on the 11th day of the Amarnath Yatra pilgrimage in the Indian city of Anantnag. The attack is believed to be terror-related. ](/news/2017/07/10/at-least-7-people-are-killed-and-15-injured-after-gunmen-fire-upon-a-pilgrimage-bus-and-a-police-vehicle-on-the-11th-day-of-the-amarnath-ya.md) _Context: Anantnag_
-10. [Six people are killed and two are missing after the Jhelum River in Kashmir overflows following heavy rain and snowfall. ](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.md) _Context: Kashmir_
+9. [ Indian policemen and soldiers of the Indian Army recover 300&nbsp;kg of RDX from a grocery store near the southern Kashmir town of Anantnag, 55&nbsp;km from Srinagar. This is the biggest ever explosive haul in the state of Jammu and Kashmir. ](/news/2004/11/20/indian-policemen-and-soldiers-of-the-indian-army-recover-300-nbsp-kg-of-rdx-from-a-grocery-store-near-the-southern-kashmir-town-of-anantnag.md) _Context: Anantnag, Kashmir_
+10. [At least 7 people are killed and 15 injured after gunmen fire upon a pilgrimage bus and a police vehicle, on the 11th day of the Amarnath Yatra pilgrimage in the Indian city of Anantnag. The attack is believed to be terror-related. ](/news/2017/07/10/at-least-7-people-are-killed-and-15-injured-after-gunmen-fire-upon-a-pilgrimage-bus-and-a-police-vehicle-on-the-11th-day-of-the-amarnath-ya.md) _Context: Anantnag_

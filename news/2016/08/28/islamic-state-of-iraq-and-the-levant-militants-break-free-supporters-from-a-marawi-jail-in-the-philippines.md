@@ -8,6 +8,7 @@ Muslim militants linked to so-called Islamic State are freed from jail in the Ph
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37207973)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4597/production/_90951871_mediaitem90951867.jpg)
 
 ### Related:
 

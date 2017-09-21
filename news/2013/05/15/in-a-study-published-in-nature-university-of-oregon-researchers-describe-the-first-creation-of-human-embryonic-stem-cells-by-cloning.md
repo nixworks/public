@@ -8,6 +8,7 @@ Breakthrough sets up showdown with induced adult lines.
 ### Source:
 
 1. [Nature](http://www.nature.com/news/human-stem-cells-created-by-cloning-1.12983)
+1. [Cover Image](http://www.nature.com/polopoly_fs/7.10532.1368541824!/image/web-Egg%20cell%20nucleus%20extracted%20and%20in%20pipette-credit-OHSU%20Photos%20copy.jpg_gen/derivatives/nature_homepage/web-Egg%20cell%20nucleus%20extracted%20and%20in%20pipette-credit-OHSU%20Photos%20copy.jpg)
 
 ### Related:
 

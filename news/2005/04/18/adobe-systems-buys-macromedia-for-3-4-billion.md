@@ -11,6 +11,7 @@ Adobe Systems Inc., one of the world&#39;s largest providers of document-design 
 2. [New York Times](http://www.nytimes.com/2005/04/18/technology/18cnd-adobe.html)
 3. [USA Today](http://www.usatoday.com/money/industries/technology/2005-04-18-adobe-macromedia_x.htm?csp=34)
 4. [Yahoo! Financial](http://biz.yahoo.com/ap/050418/adobe_macromedia.html?.v=9)
+4. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

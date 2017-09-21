@@ -9,6 +9,7 @@ Minist­ry of Interi­or suspen­ds its first order in which it suspended operat
 
 1. [ARY Digital](http://arynews.tv/en/exclusive-interior-ministry-holds-in-abeyance-its-own-action-against-save-the-children)
 2. [Express Tribune](http://tribune.com.pk/story/903370/save-the-children-allowed-to-resume-operations-in-pakistan/)
+2. [Cover Image](https://c.tribune.com.pk/2015/06/903370-savechildren-1434264280-384-640x480.jpg)
 
 ### Related:
 

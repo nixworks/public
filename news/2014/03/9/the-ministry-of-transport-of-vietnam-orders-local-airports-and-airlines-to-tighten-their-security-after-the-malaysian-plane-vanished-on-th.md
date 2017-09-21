@@ -8,6 +8,7 @@ The Ministry of Transport on Sunday ordered local airports and airlines to tight
 ### Source:
 
 1. [Thanh Nien News](http://www.thanhniennews.com/society/vietnam-tightens-aviation-security-amid-terrorism-fears-24517.html)
+1. [Cover Image](http://static.thanhniennews.com/Uploaded/thanhnguyen/2014_03_10/airport-small_ZMZV.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The bloc suspends Venezuela for failing to meet basic trade and human rights rul
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38181198)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3908/production/_92800641_gettyimages-586144646.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ More than 120 people killed in car bomb blasts at five different locations in Ba
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/200912881156299629.html)
 2. [Wall Street Journal](http://online.wsj.com/article/SB126025979660281539.html?mod=WSJ_hpp_LEFTTopStories)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

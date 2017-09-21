@@ -8,6 +8,7 @@ Nicolas Sarkozy speaks out against niqab as government moves to outlaw garment.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/201042113113654415.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Separatist rebels in southern Thailand kill four soldiers in an &quot;unusually 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12238656)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/158177.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

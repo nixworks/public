@@ -9,6 +9,7 @@ Two US drone missile attacks kill at least 15 people in the Pakistani tribal reg
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13938461)
 2. [The News International](http://www.thenews.com.pk/TodaysPrintDetail.aspx?ID=7047&Cat=13)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52140000/jpg/_52140600_008664042-1.jpg)
 
 ### Related:
 

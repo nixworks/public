@@ -9,6 +9,7 @@ Israeli jets fired two missiles from Lebanese airspace that struck near Damascus
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38155933)
 2. [Forward](http://forward.com/news/breaking-news/355664/israel-s-air-force-reportedly-strikes-military-position-hezbollah-arms-conv/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1614/production/_92725650_syriasabbouradamascuslebanon4641116.png)
 
 ### Related:
 

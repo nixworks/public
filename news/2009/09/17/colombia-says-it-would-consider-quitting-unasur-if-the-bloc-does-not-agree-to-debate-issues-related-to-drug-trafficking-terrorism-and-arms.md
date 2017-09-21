@@ -8,6 +8,7 @@ Colombia could consider quitting the South American Nations Union, Unasur, if th
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/17/isolated-colombia-seriously-considering-abandoning-unasur)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21944/200x200/c54fc2a7f5ba04a67ad9ac939aab497e.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ In a bid to appease protesters, the Syrian president continues to make new gover
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201144134848651549.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/23/201132315232828954_20.jpg)
 
 ### Related:
 

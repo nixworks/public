@@ -8,6 +8,7 @@ Franko Simatovic and Jovica Stanisic were accused of crimes against humanity com
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/05/201353014169850774.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/5/30/201353015195260734_20.jpg)
 
 ### Related:
 

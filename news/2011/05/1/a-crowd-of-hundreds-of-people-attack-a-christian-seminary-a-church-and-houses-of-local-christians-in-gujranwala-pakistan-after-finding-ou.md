@@ -8,6 +8,7 @@ Police arrest 100 protes­ters, vow to protec­t the minori­ty.
 ### Source:
 
 1. [The Express Tribune](http://tribune.com.pk/story/160337/blasphemy-allegations-release-of-alleged-blasphemers-sparks-riots-in-gujranwala/)
+1. [Cover Image](https://c.tribune.com.pk/2011/05/sire-640x480.jpg)
 
 ### Related:
 

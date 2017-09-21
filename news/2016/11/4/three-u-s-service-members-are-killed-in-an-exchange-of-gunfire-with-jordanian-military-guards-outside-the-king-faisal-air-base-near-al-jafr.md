@@ -8,6 +8,7 @@ Jordanian army says car failed to stop at gate of airbase in al-Jafr, leading to
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/us-news/2016/nov/04/two-americans-killed-at-jordanian-airbase)
+1. [Cover Image](https://i.guim.co.uk/img/media/3c31db8953a50fa67b359fb2270924b25ae8287d/0_172_3811_2287/master/3811.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c63432d40bde03c574ff18274131898f)
 
 ### Related:
 

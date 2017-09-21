@@ -10,6 +10,7 @@ Leader of Central African Republic appeals for help securing city of Bangui, as 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/12/20121226235056434187.html)
 2. [CNN](http://www.cnn.com/2012/12/27/world/africa/central-african-republic-unrest/index.html)
 3. [Reuters](http://www.reuters.com/article/2012/12/28/car-rebels-usa-idUSL1E8NS02Y20121228)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/27/20121227151335233734_20.jpg)
 
 ### Related:
 

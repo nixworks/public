@@ -8,6 +8,7 @@ The soldier killed on a London street is named as Drummer Lee Rigby of the 2nd B
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22644857)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72356000/jpg/_72356660_72245710.jpg)
 
 ### Related:
 

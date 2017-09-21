@@ -13,6 +13,7 @@ The Federal Reserve said Tuesday that it would become a lender of last resort to
 4. [MarketWatch](http://www.marketwatch.com/news/story/icelands-regulator-takes-control-landsbanki/story.aspx?guid=%7BD21012C4%2DD7A3%2D4CCE%2DBFE1%2D6ED768C81F5A%7D)
 5. [New York Times](http://www.nytimes.com/2008/10/08/business/08markets.html?_r=1&hp&oref=slogin)
 6. [Reuters](http://www.reuters.com/points/article/rbssFinancialServicesAndRealEstateNews/idUSSAT00565120081007)
+6. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

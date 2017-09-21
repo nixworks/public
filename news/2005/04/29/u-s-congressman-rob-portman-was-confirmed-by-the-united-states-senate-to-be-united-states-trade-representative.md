@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS Marketwatch](http://www.marketwatch.com/news/story.asp?guid=%7BD8143D14-B626-4FD8-8D82-1568451035C3%7D&siteid=google)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

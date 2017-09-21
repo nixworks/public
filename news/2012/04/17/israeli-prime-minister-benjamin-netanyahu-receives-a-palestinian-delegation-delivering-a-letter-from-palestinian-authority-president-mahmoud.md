@@ -9,6 +9,7 @@ Liberman slams PA president after Fayyad avoids meeting; PM pledges to respond t
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17748254)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=266426)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=183364)
 
 ### Related:
 

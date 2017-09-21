@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/nov/01/kurdish-peshmerga-kobani-isis-syria)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/1/1414867749929/Kurdish-peshmerga-forces--014.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1559c43b368a713dead0f13707926b05)
 
 ### Related:
 

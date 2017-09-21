@@ -8,6 +8,7 @@ Theresa May has put the growing feud between Downing Street and European leaders
 ### Source:
 
 1. [The Scotsman](http://www.scotsman.com/news/uk/may-goes-full-donald-trump-with-attack-on-eu-officials-1-4436323)
+1. [Cover Image](http://res.cloudinary.com/jpress/image/fetch/w_300,f_auto,ar_3:2,c_fill/http://www.scotsman.com/webimage/1.4427422.1493830785!/image/image.jpg)
 
 ### Related:
 

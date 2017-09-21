@@ -8,6 +8,7 @@ HP needs 6-8 weeks to ship additional TouchPads, according to a leaked email sen
 ### Source:
 
 1. [eWeek](http://www.eweek.com/article2/0,1759,1568023,00.asp)
+1. [Cover Image](http://www.eweek.com/bundles/eweekbase/images/logo_eweek.jpg)
 
 ### Related:
 

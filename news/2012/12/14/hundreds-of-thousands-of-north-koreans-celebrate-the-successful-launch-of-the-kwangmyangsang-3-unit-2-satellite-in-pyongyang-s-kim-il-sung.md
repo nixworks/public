@@ -8,6 +8,7 @@ Hundreds of thousands of North Korean soldiers and civilians have rallied in the
 ### Source:
 
 1. [AFP via SBS News](http://www.sbs.com.au/news/article/1720653/North-Korea-celebrates-rocket-launch)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/6/9/6909_north-korea-rocket-jongun-aap-121214-b.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Turkish military says its aircraft have struck inside northern Iraq, targeti
 ### Source:
 
 1. [Reuters via ABC News](http://www.abc.net.au/news/stories/2008/04/26/2228125.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/08/01/us-hsbc-idUSTRE7701HH20110801?feedType=RSS&feedName=businessNews&dlvrit=56943)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110801&t=2&i=470483890&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-01T142341Z_01_BTRE77013ZJ00_RTROPTP_0_HSBC)
 
 ### Related:
 

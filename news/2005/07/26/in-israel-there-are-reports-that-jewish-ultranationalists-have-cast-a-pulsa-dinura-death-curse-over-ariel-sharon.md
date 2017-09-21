@@ -9,6 +9,7 @@ Condemnations of the Pulsa Dinura death prayer against Prime Minister Sharon, co
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26684414.htm)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3118408,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

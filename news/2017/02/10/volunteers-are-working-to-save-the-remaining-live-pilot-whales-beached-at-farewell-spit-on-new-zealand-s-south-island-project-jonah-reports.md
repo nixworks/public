@@ -8,6 +8,7 @@ Hundreds of volunteers in New Zealand have formed a human chain as they try to s
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/rescuers-fight-save-hundreds-pilot-whales-beached-new-zealand-n719206)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_06/1897621/170210-world-newzealand-beached-whales-rescue-0521_ce7b43b4304d3e6172aa4e2c9ba42608.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

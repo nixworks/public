@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/uk-38470682)
 2. [Physics Org](http://phys.org/news/2016-12-year-eve-extra.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1025A/production/_93183166_hi006664199.jpg)
 
 ### Related:
 

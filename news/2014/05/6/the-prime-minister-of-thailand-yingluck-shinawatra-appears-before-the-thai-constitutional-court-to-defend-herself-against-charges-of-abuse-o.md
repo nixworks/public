@@ -8,6 +8,7 @@ Thai PM Yingluck Shinawatra in court for hearing that may lead to her dismissal 
 ### Source:
 
 1. [Reuters via ''DNA India](http://www.dnaindia.com/world/report-thai-pm-yingluck-shinawatra-in-court-for-hearing-that-may-lead-to-her-dismissal-1985446)
+1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)
 
 ### Related:
 

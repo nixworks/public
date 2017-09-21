@@ -8,6 +8,7 @@ There were around 60 to 70 passengers in the bus and those sitting in the back l
 ### Source:
 
 1. [Indian Express](http://indianexpress.com/article/world/world-others/57-killed-in-bus-oil-tanker-collision-in-southern-pakistan/)
+1. [Cover Image](http://images.indianexpress.com/2015/01/pak21.jpg?w=209)
 
 ### Related:
 

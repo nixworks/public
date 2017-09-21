@@ -8,6 +8,7 @@ Checks are ordered on all Airbus A380 superjumbos after cracks were found in win
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16942361)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58376000/jpg/_58376090_a380.jpg)
 
 ### Related:
 

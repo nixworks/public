@@ -8,6 +8,7 @@ BlackBerry Ltd (BB.TO) (BBRY.O) reported a smaller quarterly loss on Friday and 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/26/us-blackberry-results-idUSKCN0HL13J20140926)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140926&t=2&i=977266647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA8P0G2)
 
 ### Related:
 

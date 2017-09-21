@@ -8,6 +8,7 @@ Supreme Court Associate Justice Antonin Scalia says he once thought cameras shou
 ### Source:
 
 1. [Reuters TV](http://www.reuters.com/video/2012/09/18/reuters-tv-scalia-posners-accusation-about-him-a-li?videoId=237806851&videoChannel=117851&refresh=true)
+1. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/0/9/h/n/h7r9/reuters04?videoId=48285956)
 
 ### Related:
 

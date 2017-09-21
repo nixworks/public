@@ -8,6 +8,7 @@ After deliberating for most of the year, Isis Pharmaceuticals Inc said on Friday
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-isis-pharma-namechange-idUSKBN0U12A720151218)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -15,3 +16,4 @@ After deliberating for most of the year, Isis Pharmaceuticals Inc said on Friday
 2. [Stock prices rise at stock exchanges around the world, and some analysts see this as a reaction to a fiscal agreement among the leaders of the eurozone. ](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-world-and-some-analysts-see-this-as-a-reaction-to-a-fiscal-agreement-among-the-leaders-of-t.md) _Context: stock exchange_
 3. [ Mittal Steel completes the first part of its takeover of Arcelor with ArcelorMittal being listed on European stock exchanges with the combined company becoming the world's largest steel producer. ](/news/2007/09/3/mittal-steel-completes-the-first-part-of-its-takeover-of-arcelor-with-arcelormittal-being-listed-on-european-stock-exchanges-with-the-combi.md) _Context: stock exchange_
 4. [ NASDAQ agrees to buy OMX AB which runs several stock exchanges in Scandinavia and the Baltic States for 25.1 billion Swedish kronor (USD$3.7 billion). ](/news/2007/05/25/nasdaq-agrees-to-buy-omx-ab-which-runs-several-stock-exchanges-in-scandinavia-and-the-baltic-states-for-25-1-billion-swedish-kronor-usd-3.md) _Context: stock exchange_
+5. [ Shares of stock in Google, Inc. begin trading on the NASDAQ stock exchange at around $100 per share in one of the most highly anticipated initial public offerings of the year. It is estimated that the IPO raised a total of $1.66 billion, the third highest ever for an IPO. ](/news/2004/08/19/shares-of-stock-in-google-inc-begin-trading-on-the-nasdaq-stock-exchange-at-around-100-per-share-in-one-of-the-most-highly-anticipated-i.md) _Context: stock exchange_

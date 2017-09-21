@@ -8,6 +8,7 @@ Poland buys the Czartoryski collection of about 86,000 artefacts for about 5% of
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38462474)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1639D/production/_93173019_hi036886500.jpg)
 
 ### Related:
 

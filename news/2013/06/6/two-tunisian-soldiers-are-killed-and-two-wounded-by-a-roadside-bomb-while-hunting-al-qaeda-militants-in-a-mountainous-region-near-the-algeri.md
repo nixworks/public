@@ -9,6 +9,7 @@ Two Tunisian soldiers are killed and at least another two wounded in a roadside 
 
 1. [ABC](http://abcnews.go.com/International/wireStory/tunisian-soldiers-killed-roadside-bomb-19338377#.UbCmjuf2aSo)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22795938)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68011000/gif/_68011351_tunisiakasserine304.gif)
 
 ### Related:
 

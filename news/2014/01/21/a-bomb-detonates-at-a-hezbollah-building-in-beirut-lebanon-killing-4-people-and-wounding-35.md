@@ -8,6 +8,7 @@ BEIRUT (AP) — A car bomb ripped through a Shiite neighborhood in south Beirut 
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2014/01/21/beirut-bomb/4710867/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

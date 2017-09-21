@@ -9,6 +9,7 @@ The report alleges that government forces are permitted to rape women in lieu of
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/un-cites-horrendous-human-rights-situation-in-south-sudan/2016/03/11/d25f22ca-e76c-11e5-a9ce-681055c7a05f_story.html)
 2. [Newsweek](http://www.newsweek.com/south-sudan-human-rights-violations-horrendous-un-435904)
+2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/03/11/south-sudanese-soldier-walks-towards-malakal..jpg)
 
 ### Related:
 

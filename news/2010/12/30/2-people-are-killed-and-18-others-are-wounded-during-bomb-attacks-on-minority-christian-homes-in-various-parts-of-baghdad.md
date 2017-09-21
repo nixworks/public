@@ -8,6 +8,7 @@ Ten explosions target Christians across Iraqi capital, killing two and wounding 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010123019144787472.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/1/201011191142384833_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President Rodrigo Duterte said Xi Jinping had warned him there would be war if t
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/r-philippine-minister-starts-damage-control-after-dutertes-china-war-remark-2017-5)
+1. [Cover Image](http://static4.businessinsider.com/image/5922b9fc34911b21008b54d6-1190-625/the-philippines-is-starting-damage-control-after-duterte-claims-china-threatened-war.jpg)
 
 ### Related:
 

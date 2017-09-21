@@ -11,6 +11,7 @@ China has placed military forces on heightened alert in the northeastern part of
 2. [CBS News](http://www.cbsnews.com/8301-202_162-57577407/north-korea-vows-to-restart-yongbyon-nuclear-complex-capable-of-making-bombs-worth-of-plutonium-per-year/)
 3. [CNN](http://www.cnn.com/2013/04/01/world/asia/us-north-korea-radar)
 4. [The Washington Times](http://www.washingtontimes.com/news/2013/apr/1/showdown-looming-china-mobilizing-troops-jets-near/)
+4. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2010/10/12/korea_7720.jpg)
 
 ### Related:
 

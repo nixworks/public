@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39799961)
 2. [BNO News](http://bnonews.com/news/index.php/news/id5870)
+2. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)
 
 ### Related:
 

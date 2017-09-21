@@ -8,6 +8,7 @@ The country has agreed to move about a thousand animals to sanctuaries.
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/2017/07/wildlife-watch-bear-bile-farms-vietnam-rescue/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2017/07/19/bear-bile-rescue/01-bear-bile-rescue.ngsversion.1500496224099.adapt.1900.1.jpg)
 
 ### Related:
 

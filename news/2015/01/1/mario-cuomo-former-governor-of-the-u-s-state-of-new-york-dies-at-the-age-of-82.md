@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/02/us-usa-politics-cuomo-idUSKBN0KB00F20150102)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150102&t=2&i=1010736322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB01011)
 
 ### Related:
 

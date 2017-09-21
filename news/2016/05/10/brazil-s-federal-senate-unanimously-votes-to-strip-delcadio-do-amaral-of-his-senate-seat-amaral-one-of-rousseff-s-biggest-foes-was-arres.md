@@ -8,6 +8,7 @@ RIO DE JANEIRO (AP) — The rollercoaster ride that is the impeachment drive aga
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/b8c22f9b07d34154b01667f2c5516f57/effort-impeach-brazils-president-plunges-chaos)
+1. [Cover Image](http://binaryapi.ap.org/da64f322952d43fab2d84fe1d5993706/460x.jpg)
 
 ### Related:
 

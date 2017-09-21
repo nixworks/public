@@ -8,6 +8,7 @@ About 1,000 people have fled the city fearing another crackdown on protests, rig
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/20117711451884870.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/5/201175145256723734_20.jpg)
 
 ### Related:
 

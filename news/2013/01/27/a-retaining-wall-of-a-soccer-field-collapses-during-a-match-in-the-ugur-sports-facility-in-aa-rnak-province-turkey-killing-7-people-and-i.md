@@ -10,6 +10,7 @@ Rescuers searched for possible survivors following the collapse of a soccer fiel
 1. [Sanliurfa](http://www.sanliurfa.com/haber107780-7-killed-3-injured-in-astro-pitch-wall-collapse.htm)
 2. [UPI](http://www.upi.com/Top_News/World-News/2013/01/28/7-dead-in-Turkish-retaining-wall-collapse/UPI-39641359380977)
 3. [World Bulletin](http://www.worldbulletin.net/?aType=haber&ArticleID=102431)
+3. [Cover Image](http://www.sanliurfa.com/images/haberler/7-killed--3-injured-in-astro-pitch-wall-colla.jpg)
 
 ### Related:
 

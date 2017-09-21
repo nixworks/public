@@ -8,6 +8,7 @@ Reaction has been strong to Thursday&#39;s Glee episode, Shooting Star, which in
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/people/2013/04/12/glee-stirs-debate-with-school-shooting-episode/2077033/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

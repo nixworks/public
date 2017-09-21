@@ -10,6 +10,7 @@ The official Xinhua News translation of a Communist Party statement expelling di
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19761669)
 2. [Reuters](http://www.reuters.com/article/2012/09/28/us-china-politics-idUSBRE88R0HM20120928)
 3. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/28/c_131880079.htm)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63173000/jpg/_63173258_4bcawsdk.jpg)
 
 ### Related:
 

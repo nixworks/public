@@ -8,6 +8,7 @@ Bodies of three women, three men and seven children have been recovered from ben
 ### Source:
 
 1. [Dawn](http://www.dawn.com/news/1212779)
+1. [Cover Image](http://i.dawn.com/medium/2015/10/561cb25f3d2c7.jpg)
 
 ### Related:
 

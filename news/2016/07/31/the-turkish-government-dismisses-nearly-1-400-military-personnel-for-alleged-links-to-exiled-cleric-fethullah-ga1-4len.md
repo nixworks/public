@@ -8,6 +8,7 @@ Turkey dismissed nearly 1,400 more members of its armed forces and stacked the t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-security-military-idUSKCN10B08G?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160731&t=2&i=1147759373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6U05X)
 
 ### Related:
 

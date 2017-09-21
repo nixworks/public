@@ -8,6 +8,7 @@ Russian officials say at least 14 people have been killed after a bus caught fir
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2017/07/02/20-dead-in-road-accidents-in-russia-14-as-bus-catches-fire.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

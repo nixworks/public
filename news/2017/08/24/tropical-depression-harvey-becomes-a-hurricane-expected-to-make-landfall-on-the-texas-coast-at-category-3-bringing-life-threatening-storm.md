@@ -9,6 +9,7 @@ Devastating rainfall flooding, dangerous storm surge and high winds are expected
 
 1. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/242046.shtml?)
 2. [The Weather Channel](https://weather.com/storms/hurricane/news/hurricane-harvey-forecast-gulf-coast-texas-louisiana)
+2. [Cover Image](https://s.w-x.co/harvey-25aug17-430a-radar.jpg)
 
 ### Related:
 

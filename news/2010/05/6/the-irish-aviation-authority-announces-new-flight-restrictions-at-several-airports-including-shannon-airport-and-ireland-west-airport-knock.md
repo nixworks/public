@@ -8,6 +8,7 @@ The Irish Aviation Authority has said that Irish airports will operate as normal
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0506/travel.html)
+1. [Cover Image](https://img.rasset.ie/000341ee-1600.jpg)
 
 ### Related:
 

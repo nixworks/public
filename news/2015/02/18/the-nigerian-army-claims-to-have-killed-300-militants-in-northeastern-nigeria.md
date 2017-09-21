@@ -8,6 +8,7 @@ Thirty-seven people have died in an air strike in southern Niger during military
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31521279?ocid=socialflow_twitter)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81092000/jpg/_81092573_dsc_0049.jpg)
 
 ### Related:
 

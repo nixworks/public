@@ -8,6 +8,7 @@ The move is the latest step in the Obama administration’s fight against wildli
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/2016/06/us-ivory-ban-regulations/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2016/06/02/01-us-ivory-ban.ngsversion.1465392774823.adapt.1900.1.jpg)
 
 ### Related:
 

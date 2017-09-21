@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [CNN](http://edition.cnn.com/2005/WORLD/europe/05/07/veday.saturday.ap/index.html)
 2. [CNN](http://www.cnn.com/2005/WORLD/europe/05/07/bush.europe/index.html)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-05-07T225215Z_01_N07627509_RTRIDST_0_NEWS-GERMANY-DC.XML)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

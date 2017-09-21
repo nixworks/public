@@ -12,6 +12,7 @@ Six American troops were killed in Afghanistan on Monday when a suicide bomber o
 3. [Reuters](http://uk.reuters.com/article/uk-afghanistan-blast-idUKKBN0U422C20151221)
 4. [Reuters](http://www.reuters.com/article/us-afghanistan-attack-idUSKBN0U418520151221)
 5. [The Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2015/12/21/mass-casualty-in-afghanistan-six-u-s-troops-dead-others-wounded/)
+5. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151221&t=2&i=1104004636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBK1FH)
 
 ### Related:
 

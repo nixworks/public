@@ -8,6 +8,7 @@ Cabinet approves changes to pacifist constitution allowing Japan&#039;s military
 ### Source:
 
 1. [Australia Network News](http://www.abc.net.au/news/2014-07-01/an-japan-constitution/5564098)
+1. [Cover Image](http://www.abc.net.au/news/image/5049074-1x1-700x700.jpg)
 
 ### Related:
 

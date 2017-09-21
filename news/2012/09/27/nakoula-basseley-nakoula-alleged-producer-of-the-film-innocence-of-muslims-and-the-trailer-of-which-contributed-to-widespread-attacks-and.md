@@ -8,6 +8,7 @@ The alleged producer of an anti-Islamic film that sparked violent protests has b
 ### Source:
 
 1. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2012/09/27/nakoula-anti-islamic-film-probation-violation/70001300/1#.UGTkl41lSjQ)
+1. [Cover Image](http://www.gannett-cdn.com/media/USATODAY/ondeadline/2012/09/27/ap-anti-muslim-film-x-wide-community.jpg)
 
 ### Related:
 

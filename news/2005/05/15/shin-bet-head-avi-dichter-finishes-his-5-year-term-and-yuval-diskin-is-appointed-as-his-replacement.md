@@ -10,6 +10,7 @@ About 20 right-wing activists initiate unlimited hunger strike to protest upcomi
 1. [Haaretz](http://www.haaretz.com/hasen/spages/575853.html)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3085418,00.html)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3085664,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

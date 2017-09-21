@@ -9,6 +9,7 @@ The measles outbreak believed to have originated in Disneyland has spread from C
 
 1. [AJC](http://www.ajc.com/news/news/national/disneyland-measles-outbreak-spreads-5-states/njwZD/)
 2. [CBS](http://www.cbsnews.com/news/measles-outbreak-traced-to-disneyland-continues-to-grow/)
+2. [Cover Image](/rw/PortalConfig/np-free/assets/ajc/images/AJC_200x200.png)
 
 ### Related:
 

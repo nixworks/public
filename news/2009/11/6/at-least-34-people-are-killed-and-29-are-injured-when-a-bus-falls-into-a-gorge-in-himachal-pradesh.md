@@ -12,6 +12,7 @@ Thirty-four people, including six children and 12 women, were killed and another
 3. [RIA Novosti](http://en.rian.ru/world/20091106/156731165.html)
 4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSDEL301588)
 5. [The Times of India](http://timesofindia.indiatimes.com/india/34-killed-as-bus-falls-into-gorge-in-Himachal/articleshow/5204496.cms)
+5. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

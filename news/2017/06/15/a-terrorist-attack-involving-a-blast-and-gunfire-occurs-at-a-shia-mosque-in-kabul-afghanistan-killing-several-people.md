@@ -8,6 +8,7 @@ An attack hits a mosque in an area of the Afghan capital Kabul dominated by mino
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-40296509)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/92D6/production/_96509573_afghanistan-kabul2017.jpg)
 
 ### Related:
 

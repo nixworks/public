@@ -8,6 +8,7 @@ Former Essex Council leader and former Tory peer Lord Hanningfield is found guil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13558360)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53001000/jpg/_53001211_hanningfield464in_pa.jpg)
 
 ### Related:
 

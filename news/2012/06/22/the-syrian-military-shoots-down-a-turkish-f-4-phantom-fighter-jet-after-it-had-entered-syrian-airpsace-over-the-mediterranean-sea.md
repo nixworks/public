@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262210113949697.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18561219)
 3. [The Guardian](http://www.guardian.co.uk/world/2012/jun/22/saudi-arabia-syria-rebel-army)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/21/201262103552584734_20.jpg)
 
 ### Related:
 

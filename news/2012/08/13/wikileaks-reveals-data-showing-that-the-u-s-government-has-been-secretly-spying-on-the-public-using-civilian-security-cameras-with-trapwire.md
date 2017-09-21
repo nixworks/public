@@ -11,6 +11,7 @@ Emails obtained via a hack of intelligence agency Stratfor have shed light on a 
 2. [PC Mag](http://www.pcmag.com/article2/0,2817,2408402,00.asp)
 3. [Sky News](http://news.sky.com/story/972078/wikileaks-virus-website-crashes-after-attack)
 4. [Wired](http://www.wired.com/dangerroom/2012/08/trapwire-strafor-biz/)
+4. [Cover Image](https://assets.pcmag.com/media/images/345420-6-tips-for-safe-email.jpg?thumb=y&width=275&height=275)
 
 ### Related:
 

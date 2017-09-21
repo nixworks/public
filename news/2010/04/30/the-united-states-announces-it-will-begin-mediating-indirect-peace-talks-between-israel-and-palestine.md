@@ -8,6 +8,7 @@ Israeli and Palestinian negotiators will not be in the same room, many experts a
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2010/05/01/world/middleeast/01diplo.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

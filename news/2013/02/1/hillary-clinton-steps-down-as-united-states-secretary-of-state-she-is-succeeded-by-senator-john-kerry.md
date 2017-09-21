@@ -9,6 +9,7 @@ The window for negotiationswith Iran about its nuclear program cannot stay open 
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21299198)
 2. [Reuters](http://www.reuters.com/article/2013/02/01/iran-usa-clinton-idUSL1N0B0LVW20130201)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

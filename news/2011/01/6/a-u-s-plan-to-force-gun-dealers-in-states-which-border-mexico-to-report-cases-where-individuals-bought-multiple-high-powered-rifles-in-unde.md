@@ -8,6 +8,7 @@ A planned Obama administration clampdown on Mexico border gun dealers which woul
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE7055XA20110106)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110106&t=2&i=297823217&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-06T214528Z_01_BTRE7051OFV00_RTROPTP_0_USA)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Six men in the UK have been charged with terrorism offences a week after they we
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2011-09-26/british-men-charged-with-terrorism/2942510)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

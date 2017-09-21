@@ -8,6 +8,7 @@ Flights arriving at Gatwick Airport are diverted and drivers are warned of sever
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1667780/storm-katie-threatens-easter-monday-misery)
+1. [Cover Image](http://e3.365dm.com/16/03/1600x900/158633707-2-2048x1536_3438390.jpg?20160328005140)
 
 ### Related:
 

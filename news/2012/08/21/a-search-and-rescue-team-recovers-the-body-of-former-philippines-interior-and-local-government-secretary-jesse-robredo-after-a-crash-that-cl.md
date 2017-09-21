@@ -11,6 +11,7 @@
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/254682/robredos-remains-now-back-in-naga)
 3. [Rappler](http://www.rappler.com/nation/10931-gov-t-bids-robredo-goodbye)
 4. [Reuters](http://www.reuters.com/article/2012/08/21/us-philippines-crash-minister-idUSBRE87K03920120821)
+4. [Cover Image](http://static.rappler.com/images/robredo-recovery-20120821-1.jpeg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former U.S. spy agency contractor Edward Snowden has applied for political asylu
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/07/01/us-usa-security-snowden-asylum-idUSBRE9600UQ20130701)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130701&t=2&i=746549001&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9601A5G00)
 
 ### Related:
 

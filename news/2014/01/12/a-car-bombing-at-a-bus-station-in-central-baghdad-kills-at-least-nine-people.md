@@ -8,6 +8,7 @@ A car bomb kills at least nine people and wounds several others at a bus station
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25702740)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72227000/jpg/_72227866_72227865.jpg)
 
 ### Related:
 

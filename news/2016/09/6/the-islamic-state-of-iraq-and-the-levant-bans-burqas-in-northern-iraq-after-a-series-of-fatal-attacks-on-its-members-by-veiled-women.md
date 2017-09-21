@@ -8,6 +8,7 @@ The group has made a U-turn on its burka stance following reports of a veiled wo
 ### Source:
 
 1. [International Business Times](https://amp.ibtimes.co.uk/islamic-state-bans-burka-northern-iraq-after-veiled-woman-kills-2-jihadists-1579804)
+1. [Cover Image](https://d.ibtimes.co.uk/en/full/383186/burka.jpg)
 
 ### Related:
 

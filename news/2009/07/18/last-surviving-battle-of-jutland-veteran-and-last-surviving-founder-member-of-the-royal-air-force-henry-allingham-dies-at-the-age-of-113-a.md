@@ -10,6 +10,7 @@ Henry Allingham, who was the world&#39;s oldest man and oldest World War I veter
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hhwMA4Dwt4_3-v8g8kqJY6dnyTxw)
 2. [BBC](http://news.bbc.co.uk/1/hi/uk/8157128.stm)
 3. [RTÉ](http://www.rte.ie/news/2009/0718/allinghamh.html)
+3. [Cover Image](https://img.rasset.ie/00027435-1600.jpg)
 
 ### Related:
 

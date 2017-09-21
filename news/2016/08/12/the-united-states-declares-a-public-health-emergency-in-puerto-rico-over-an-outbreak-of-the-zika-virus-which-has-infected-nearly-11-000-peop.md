@@ -9,6 +9,7 @@ The U.S. government has declared a public health emergency in Puerto Rico becaus
 
 1. [AP via ''St. Louis Post-Dispatch](http://www.stltoday.com/lifestyles/health-med-fit/health/federal-health-emergency-declared-in-puerto-rico-due-to-zika/article_4a8977b6-ef39-5cea-9dae-ea10feb7653f.html)
 2. [BBC](http://www.bbc.com/news/health-37057934)
+2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?_dc=1470253301)
 
 ### Related:
 

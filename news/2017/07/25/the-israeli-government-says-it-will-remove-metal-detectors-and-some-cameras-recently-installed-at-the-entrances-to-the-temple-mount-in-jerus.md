@@ -10,6 +10,7 @@ After days of violent protests and a diplomatic crisis with Jordan over the plac
 1. [Haaretz](http://www.haaretz.com/israel-news/1.803266)
 2. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKBN1A92Q5)
 3. [The New York Times](https://www.nytimes.com/2017/07/24/world/middleeast/israel-jordan-aqsa-temple-mount-violence.html)
+3. [Cover Image](https://static01.nyt.com/images/2017/07/25/world/25Israel1/25Israel1-facebookJumbo.jpg)
 
 ### Related:
 

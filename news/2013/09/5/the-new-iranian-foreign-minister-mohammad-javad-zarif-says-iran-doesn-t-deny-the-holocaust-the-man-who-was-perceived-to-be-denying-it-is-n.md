@@ -8,6 +8,7 @@ Iran&#039;s new U.S.-educated Foreign Minister offers latest indication of rappr
 ### Source:
 
 1. [Time](http://world.time.com/2013/09/05/iran-doesnt-deny-the-holocaust-new-foreign-minister-says-on-twitter/)
+1. [Cover Image](https://s0.wp.com/wp-content/themes/vip/time2012/library/assets/images/time-logo-og.png)
 
 ### Related:
 

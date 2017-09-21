@@ -8,6 +8,7 @@ The move came after President Luiz Inácio Lula da Silva had assured Brazilians 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/07/25/world/asia/25cnd-brazil.html?ex=1343016000&en=0d45f8bacf5b785e&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

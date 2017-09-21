@@ -8,6 +8,7 @@ Police search a Berkshire property belonging to Sir Cliff Richard in relation to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-28790718)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76941000/jpg/_76941925_cliff_getty.jpg)
 
 ### Related:
 

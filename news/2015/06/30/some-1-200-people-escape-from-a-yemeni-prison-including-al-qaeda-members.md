@@ -8,6 +8,7 @@ A Yemeni security official says some 1,200 inmates fled a prison after guards de
 ### Source:
 
 1. [AP via TVNZ](http://tvnz.co.nz/world-news/al-qaeda-suspects-flee-during-massive-prison-break-6350288)
+1. [Cover Image](https://www.tvnz.co.nz/etc/designs/news/assets/images/1newsnow_og_logo.jpg)
 
 ### Related:
 

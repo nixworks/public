@@ -8,6 +8,7 @@ New Jersey Lt. Gov. Kim Guadagno denies accusation that she tied Superstorm Sand
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/chris-christies-lt-gov-denies-sandy-aid-allegation/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/01/20/8e744fa9-4d11-4616-8e3a-4def7bd1067d/169916159.jpg)
 
 ### Related:
 

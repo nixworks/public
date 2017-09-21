@@ -9,6 +9,7 @@ Sobered by reports that Eurozone partners were ready to let Greece fall out of t
 
 1. [LA Times](http://www.latimes.com/world/europe/la-fg-greece-bailout-plan-20150709-story.html)
 2. [Money Control](http://www.moneycontrol.com/news/world-news/greece-submits-new-bailout-plan-to-avoid-euro-exit_1892241.html)
+2. [Cover Image](http://www.trbimg.com/img-559ee0b6/turbine/la-fg-greece-bailout-plan-20150709)
 
 ### Related:
 

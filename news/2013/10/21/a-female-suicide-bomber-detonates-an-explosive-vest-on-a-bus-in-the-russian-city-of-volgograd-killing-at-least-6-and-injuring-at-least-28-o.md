@@ -9,6 +9,7 @@ A suspected female suicide bomber blows up a bus in Volgograd, southern Russia, 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24608694)
 2. [Reuters](http://www.reuters.com/article/2013/10/21/us-russia-blast-idUSBRE99K08G20131021)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70611000/jpg/_70611880_qbt1cim0.jpg)
 
 ### Related:
 

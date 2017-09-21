@@ -10,6 +10,7 @@ Officials say at least 31 people have been killed and more than 200 others wound
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201341562946963175.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22149863)
 3. [Reuters](http://www.reuters.com/article/2013/04/15/us-iraq-violence-idUSBRE93E07320130415)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67005000/jpg/_67005307_iraqbomb2.jpg)
 
 ### Related:
 

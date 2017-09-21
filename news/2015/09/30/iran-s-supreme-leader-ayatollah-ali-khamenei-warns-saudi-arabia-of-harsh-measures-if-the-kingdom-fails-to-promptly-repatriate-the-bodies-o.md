@@ -9,6 +9,7 @@
 
 1. [AP via ''Denver Post](http://www.denverpost.com/breakingnews/ci_28899269/iran-summons-saudi-envoy-4th-time-over-hajj)
 2. [Reuters](http://www.reuters.com/article/2015/09/30/saudi-haj-iran-idUSL5N12028320150930)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

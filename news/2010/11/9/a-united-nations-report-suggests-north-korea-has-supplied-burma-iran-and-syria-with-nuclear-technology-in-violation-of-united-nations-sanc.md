@@ -8,6 +8,7 @@ After months in limbo due to Chinese objections, a U.N. report suggesting North 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A83IQ20101109?loomia_ow=t0:s0:a49:g43:r1:c0.373333:b39114558:z0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

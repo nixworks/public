@@ -8,6 +8,7 @@ A car bomb has killed an anti-Syrian lawmaker and at least seven other people in
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/20/2038172.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/675432-1x1-700x700.jpg)
 
 ### Related:
 

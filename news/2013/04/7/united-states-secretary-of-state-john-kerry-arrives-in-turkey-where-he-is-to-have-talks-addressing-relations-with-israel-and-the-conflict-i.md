@@ -8,6 +8,7 @@ US Secretary of State John Kerry discusses Iran and ties with Israel on a visit 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22056501)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66789000/jpg/_66789788_66789787.jpg)
 
 ### Related:
 

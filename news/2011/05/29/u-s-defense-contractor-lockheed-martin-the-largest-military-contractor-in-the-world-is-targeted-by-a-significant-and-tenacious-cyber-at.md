@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/05/201152965727411604.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/29/20115296571268734_20.jpg)
 
 ### Related:
 

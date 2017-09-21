@@ -9,6 +9,7 @@ A doctor shot six people inside a New York City hospital, one of them fatally, b
 
 1. [NBC New York](http://www.nbcnewyork.com/news/local/Shooting-Bronx-Lebanon-Hospital-NYPD-431820163.html)
 2. [New York Daily News](http://www.nydailynews.com/new-york/nyc-crime/doctor-opens-fire-killing-1-bronx-lebanon-hospital-article-1.3291797)
+2. [Cover Image](http://media.nbcnewyork.com/images/1200*675/Active+Shooter+Chopper+June+30.jpg)
 
 ### Related:
 

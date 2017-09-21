@@ -8,6 +8,7 @@ Lawrence Springborg has been elected as leader of Qld&#039;s Liberal National Pa
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-02-07/lawrence-springborg-new-lnp-leader-queensland/6077536)
+1. [Cover Image](http://www.abc.net.au/news/image/6077742-1x1-700x700.jpg)
 
 ### Related:
 

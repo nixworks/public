@@ -8,6 +8,7 @@ Residents flee scene of violence as at 10 soldiers are killed after clashes with
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/201362315132483536.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/24/20136243937466734_20.jpg)
 
 ### Related:
 

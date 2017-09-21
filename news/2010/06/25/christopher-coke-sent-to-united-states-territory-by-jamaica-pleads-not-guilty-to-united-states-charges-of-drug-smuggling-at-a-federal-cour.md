@@ -9,6 +9,7 @@ Evangelical preacher Merrick &#039;Al&#039; Miller was hit with criminal charges
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010625183920605809.html)
 2. [Jamaica Gleaner](http://www.jamaica-gleaner.com/gleaner/20100625/lead/lead3.html)
+2. [Cover Image](http://jamaica-gleaner.com/sites/default/files/styles/250px/public/article_images/2010/06/25/almillerreleaseb20100624rm.jpg?itok=TA1MG-kF)
 
 ### Related:
 

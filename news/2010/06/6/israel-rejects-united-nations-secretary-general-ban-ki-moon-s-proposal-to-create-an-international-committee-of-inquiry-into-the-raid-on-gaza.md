@@ -9,6 +9,7 @@ Prime Minister Netanyahu tells Ban Ki-moon: Investigation of the facts must be c
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/10250354.stm)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israel-rejects-un-proposal-for-joint-gaza-flotilla-probe-with-u-s-and-turkey-1.294489)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.294236.1275804645!/image/3791896770.jpg_gen/derivatives/headline_1200x630/3791896770.jpg)
 
 ### Related:
 

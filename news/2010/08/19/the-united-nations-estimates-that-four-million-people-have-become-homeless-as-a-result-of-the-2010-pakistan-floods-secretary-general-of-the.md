@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11031765)
 2. [Reuters](http://www.reuters.com/article/idUSSGE67I05N)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

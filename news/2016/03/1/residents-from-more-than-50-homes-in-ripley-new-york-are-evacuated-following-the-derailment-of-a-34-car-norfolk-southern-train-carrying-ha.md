@@ -9,6 +9,7 @@ Dozens of residents in western New York town were evacuated from their homes ear
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/03/02/train-carrying-hazardous-materials-derails-in-upstate-new-york.html)
 2. [Reuters](http://www.reuters.com/article/us-new-york-derailment-idUSKCN0W418C)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

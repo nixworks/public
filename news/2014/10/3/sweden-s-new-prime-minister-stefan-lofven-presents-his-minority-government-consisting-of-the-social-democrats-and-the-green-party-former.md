@@ -8,6 +8,7 @@
 ### Source:
 
 1. [SVT](http://www.svt.se/nyheter/sverige/ny-regering-presenterad)
+1. [Cover Image](https://www.svtstatic.se/image-cms/svtse/1412323293/svts/article2370364.svt/alternates/large/vbaylan-jpg)
 
 ### Related:
 

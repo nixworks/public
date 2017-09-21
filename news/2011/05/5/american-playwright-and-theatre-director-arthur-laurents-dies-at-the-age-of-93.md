@@ -8,6 +8,7 @@ Mr. Laurents was a playwright, screenwriter and director who wrote and ultimatel
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/05/06/arts/arthur-laurents-playwright-and-director-dies-at-93.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2011/05/06/arts/LAURENTS2-obit/LAURENTS2-obit-thumbStandard.jpg)
 
 ### Related:
 

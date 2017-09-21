@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11339074)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/dpj-to-ok-leadership-lineup-ahead-of-cabinet-reshuffle)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

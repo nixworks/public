@@ -8,6 +8,7 @@ One person was killed and least three wounded as an armed group seized a police 
 ### Source:
 
 1. [RT](https://www.rt.com/news/351668-yerevan-police-gunmen-hostage/)
+1. [Cover Image](https://img.rt.com/files/2016.07/article/578b4aafc3618845738b4587.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 129 bodies have been recovered from Lake Tanganyika in the Democratic R
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30470079)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/79722000/jpg/_79722794_cdf226c2-9b71-48b6-8f26-92d29f69c821.jpg)
 
 ### Related:
 

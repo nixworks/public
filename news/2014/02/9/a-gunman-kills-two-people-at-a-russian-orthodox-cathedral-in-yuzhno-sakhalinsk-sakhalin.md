@@ -8,6 +8,7 @@ A gunman opens fire inside a cathedral on the eastern Russian island of Sakhalin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26106584)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72854000/gif/_72854021_sakahlin_russia_304.gif)
 
 ### Related:
 
@@ -18,3 +19,4 @@ A gunman opens fire inside a cathedral on the eastern Russian island of Sakhalin
 5. [ Patriarch Kirill of the Russian Orthodox Church begins a visit to Ukraine. ](/news/2009/07/27/patriarch-kirill-of-the-russian-orthodox-church-begins-a-visit-to-ukraine.md) _Context: Russian_
 6. [ Kirill I is officially enthroned as Patriarch of the Russian Orthodox Church. ](/news/2009/02/1/kirill-i-is-officially-enthroned-as-patriarch-of-the-russian-orthodox-church.md) _Context: Russian_
 7. [ An earthquake measuring 6.7 on the Richter Scale hits the southern part of Sakhalin off the coast of Russia causing a death. It also triggered a small tsunami that struck the coast of Hokkaido in Japan. ](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale-hits-the-southern-part-of-sakhalin-off-the-coast-of-russia-causing-a-death-it-also-trigge.md) _Context: Sakhalin_
+8. [ A precious icon is returned to the Kremlin's Cathedral of the Assumption by a Roman Catholic Cardinal as a goodwill gesture from the Pope to the Russian Orthodox Church. The image is an 18th-century copy of the "Our Lady of Kazan", one of Russia's most sacred images. ](/news/2004/08/28/a-precious-icon-is-returned-to-the-kremlin-s-cathedral-of-the-assumption-by-a-roman-catholic-cardinal-as-a-goodwill-gesture-from-the-pope-t.md) _Context: Russian_

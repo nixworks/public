@@ -8,6 +8,7 @@ Fears for the future of the Roman theatre at Sabratha, one of the world&#039;s f
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/islamic-state/12045883/Islamic-State-seizes-Unesco-heritage-site-in-Libya.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03524/libya-sabratha_3524021k.jpg)
 
 ### Related:
 

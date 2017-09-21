@@ -9,6 +9,7 @@ Jonathan Pollard to be paroled on Friday, but won’t be able to travel or use t
 
 1. [The Globe and Mail''-2](http://www.theglobeandmail.com/news/world/israeli-spy-to-face-parole-restrictions-after-30-years-in-us-prison/article27379948/)
 2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/israeli-spy-jonathan-pollard-released-from-us-prison/article27385323/)
+2. [Cover Image](http://static.theglobeandmail.ca/c16/news/world/article27379947.ece/ALTERNATES/w620/wo-israel-spy19nw1.JPG)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/20101289284365470.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/08/pakistan.blast/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/8/2010128101616328876_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A suicide bomb attack on a cafe in the Lebanese city of Tripoli killed at least 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/10/us-lebanon-attack-idUSKBN0KJ0ML20150110)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150110&t=2&i=1015280057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB090AW)
 
 ### Related:
 

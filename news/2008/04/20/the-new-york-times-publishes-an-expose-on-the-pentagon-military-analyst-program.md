@@ -8,6 +8,7 @@ The Pentagon has cultivated “military analysts” in a campaign to generate fa
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/04/20/washington/20generals.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/04/19/washington/20generals_75.jpg)
 
 ### Related:
 

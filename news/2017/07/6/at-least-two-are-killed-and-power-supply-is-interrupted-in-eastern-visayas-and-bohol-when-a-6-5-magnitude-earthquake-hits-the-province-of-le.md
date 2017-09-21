@@ -8,6 +8,7 @@
 ### Source:
 
 1. [InterAksyon](http://www.interaksyon.com/magnitude-6-5-quake-hits-jaro-leyte-damage-aftershocks-expected/)
+1. [Cover Image](http://media.interaksyon.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-06-at-4.37.10-PM.png)
 
 ### Related:
 

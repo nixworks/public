@@ -8,6 +8,7 @@ After months of discussions, eurozone finance ministers eventually found a succe
 ### Source:
 
 1. [Presseurop](http://www.presseurop.eu/en/content/news-brief/3298091-jeroen-dijsselbloem-tough-chairman-eurogroup)
+1. [Cover Image](http://www.voxeurop.eu/sites/all/themes/pefront/images/VE-FB-180.png)
 
 ### Related:
 

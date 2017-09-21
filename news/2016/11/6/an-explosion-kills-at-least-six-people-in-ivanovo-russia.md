@@ -8,6 +8,7 @@ Six people have died and eight have been pulled from under the rubble of a two-s
 ### Source:
 
 1. [RT](https://www.rt.com/news/365507-russia-ivanovo-gas-blast-video/)
+1. [Cover Image](https://img.rt.com/files/2016.11/article/581ee105c36188d2198b457c.jpg)
 
 ### Related:
 

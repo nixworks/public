@@ -8,6 +8,7 @@ The country&#39;s constitutional court has ruled out postponing Sunday&#39;s ele
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/guinea-presidential-election-to-go-ahead/a-18775109)
+1. [Cover Image](http://www.dw.com/image/17705086_304.jpg)
 
 ### Related:
 

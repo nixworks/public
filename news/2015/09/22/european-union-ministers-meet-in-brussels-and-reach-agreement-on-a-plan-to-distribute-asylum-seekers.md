@@ -9,6 +9,7 @@ European Union interior ministers meeting in Brussels Tuesday approved a plan to
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/09/22/european-union-approves-plan-to-relocate-120000-refugees-across-europe/)
 2. [The New York Times](http://www.nytimes.com/2015/09/23/world/europe/european-union-ministers-migrants-refugees.html)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2015/09/22/0/0/0922215_otr_refugee.jpg?ve=1)
 
 ### Related:
 

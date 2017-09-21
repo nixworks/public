@@ -9,6 +9,7 @@ As Ukrainians vote for a new leader today, the people who live in Novgorodskoe a
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/ukraine-election-due-to-start-but-who-will-vote-20140525-zrnf4.html)
 2. [Washington Post](http://www.washingtonpost.com/world/ukrainians-head-to-the-polls-to-elect-a-new-president-except-in-the-restive-east/2014/05/25/2680fad4-e9f7-4118-923e-852b01351b39_story.html?wpisrc=al_national)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/3/8/w/d/6/image.related.articleLeadwide.620x349.zrnf4.png/1400981136757.jpg)
 
 ### Related:
 

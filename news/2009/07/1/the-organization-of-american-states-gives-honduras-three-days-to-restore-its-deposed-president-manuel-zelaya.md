@@ -8,6 +8,7 @@ A flurry of negotiations began on Wednesday to lay the groundwork for a possible
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/07/02/world/americas/02honduras.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

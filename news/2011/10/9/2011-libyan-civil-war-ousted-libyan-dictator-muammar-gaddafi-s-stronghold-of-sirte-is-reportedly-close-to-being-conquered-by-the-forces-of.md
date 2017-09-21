@@ -8,6 +8,7 @@ Libyan interim government forces say they have captured a key bastion of Gaddafi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15232870)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55935000/jpg/_55935185_dact5yj8.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Twelve of 13 people who died in recent winter weather were killed after the vehi
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/missouri-governor-warns-historic-dangerous-floods-n487541)
 2. [UPI](http://www.upi.com/Top_News/US/2015/12/29/Midwest-Weather-Missouri-governor-Nixon-warns-of-historic-water-levels-to-rival-Great-Flood-of-93/2371451386905/)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_53/1357316/151229-missouri-floods-01_8282526d8ac0f9a0b622f027442f295a.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

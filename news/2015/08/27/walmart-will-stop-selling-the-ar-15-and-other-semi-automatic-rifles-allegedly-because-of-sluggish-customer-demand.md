@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/26/us-wal-mart-stores-rifles-idUSKCN0QV26520150826)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150826&t=2&i=1074789850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7P151)
 
 ### Related:
 

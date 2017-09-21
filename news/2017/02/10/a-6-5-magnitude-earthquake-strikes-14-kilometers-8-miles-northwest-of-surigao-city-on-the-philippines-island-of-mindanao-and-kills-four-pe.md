@@ -10,6 +10,7 @@ A 6.5-magnitude earthquake shook the southern Philippines on Friday, sending pan
 1. [9news](http://www.9news.com.au/world/2017/02/11/05/01/strong-6-5-magnitude-quake-shakes-southern-philippines-usgs)
 2. [AP](http://bigstory.ap.org/article/fea9a634fc9e4c71897978beadc5de9f/67-magnitude-earthquake-shakes-southern-philippines)
 3. [Reuters](http://www.reuters.com/article/us-quake-philippines-damage-idUSKBN15Q01I?il=0)
+3. [Cover Image](http://prod.static9.net.au/_/media/2017/02/11/05/03/160210_quake.ashx)
 
 ### Related:
 

@@ -11,6 +11,7 @@ At least 27 people have been killed in two explosions in the Syrian capital Dama
 2. [CNN](http://edition.cnn.com/2012/03/17/world/meast/syria-unrest/?hpt=hp_c1)
 3. [Ninemsn](http://news.ninemsn.com.au/world/8436848/two-bombings-rock-damascus)
 4. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Saudi-Arabia-sends-military-equipment-to-Syria-rebels/articleshow/12307918.cms)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59137000/jpg/_59137251_59137197.jpg)
 
 ### Related:
 

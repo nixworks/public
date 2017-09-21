@@ -10,6 +10,7 @@ At least 12 people are reported to have died and a number of others were missing
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_GEORGIA_FLOODING?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Reuters, DPA via ''WA Today](http://www.watoday.com.au/world/at-least-nine-die-in-georgia-floods-deadly-zoo-animals-roam-streets-20150614-ghnsiw.html)
 3. [USA Today](http://www.usatoday.com/story/news/world/2015/06/14/georgia-flooding-deaths/71206678/)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

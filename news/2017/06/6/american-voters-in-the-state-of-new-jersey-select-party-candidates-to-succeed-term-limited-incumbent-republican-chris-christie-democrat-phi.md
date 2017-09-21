@@ -8,6 +8,7 @@ TRENTON, N.J. (AP) — Voters on Tuesday chose a wealthy former Goldman Sachs ex
 ### Source:
 
 1. [Q13 FOX News](http://q13fox.com/2017/06/06/chris-christie-deputy-ex-goldman-sachs-executive-win-primaries-in-gubernatorial-race/)
+1. [Cover Image](https://tribkcpq.files.wordpress.com/2017/06/s075856669-300.jpg?quality=85&amp;strip=all&amp;w=1200)
 
 ### Related:
 

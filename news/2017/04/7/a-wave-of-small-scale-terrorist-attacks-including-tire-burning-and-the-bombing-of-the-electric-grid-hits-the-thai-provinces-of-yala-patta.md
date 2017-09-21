@@ -8,6 +8,7 @@ Bomb blasts were among 23 coordinated attacks that rocked Muslim-majority southe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-thailand-south-attacks-idUSKBN17908H?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170407&t=2&i=1179776394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED360FT)
 
 ### Related:
 

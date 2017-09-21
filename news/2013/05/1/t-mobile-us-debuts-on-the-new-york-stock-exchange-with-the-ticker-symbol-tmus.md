@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/01/us-tmobileus-metropcs-idUSBRE9400KP20130501)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130501&t=2&i=727669802&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94018E700)
 
 ### Related:
 

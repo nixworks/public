@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12703119)
 2. [Zim Online](http://www.zimonline.co.za/Article.aspx?ArticleId=6607)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

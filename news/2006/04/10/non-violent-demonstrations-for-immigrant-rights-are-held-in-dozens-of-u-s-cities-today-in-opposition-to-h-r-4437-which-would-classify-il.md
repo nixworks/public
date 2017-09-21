@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [AP via Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=1509365)
 2. [New York Times](http://www.nytimes.com/2006/04/10/us/10cnd-rallies.html?_r=1&oref=slogin)
 3. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2006-04-10T175733Z_01_N10367945_RTRIDST_0_USA-IMMIGRATION-PICTURE.XML)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

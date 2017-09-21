@@ -9,6 +9,7 @@ Award comes despite peace deal being voted down in a referendum
 
 1. [Nobel Prize](https://www.nobelprize.org/)
 2. [The Guardian](https://www.theguardian.com/world/live/2016/oct/07/nobel-peace-prize-2016-announcement-live)
+2. [Cover Image](https://i.guim.co.uk/img/media/d62187710cfc444a00f12e9dd582530d46cb4e08/0_15_1353_812/master/1353.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=407cca4fe452fe8d32c9a60686e8cb56)
 
 ### Related:
 

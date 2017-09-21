@@ -8,6 +8,7 @@ Up to 75 British military personnel will deploy to Ukraine next month to provide
 ### Source:
 
 1. [PA via ''Wandwsorth Guardian](http://www.wandsworthguardian.co.uk/news/national/11814655.UK_troops_to_be_sent_to_Ukraine/)
+1. [Cover Image](http://www.wandsworthguardian.co.uk/resources/images/3561968/)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Former Democratic vice presidential nominee and two-time presidential candidate 
 1. [CNN](http://www.cnn.com/2011/POLITICS/06/03/edwards.case/index.html)
 2. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-edwards-talks-20110603,0,3901207.story)
 3. [USA Today](http://content.usatoday.com/communities/onpolitics/post/2011/06/john-edwards-indictment-affair-/1)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/POLITICS/06/03/edwards.case/tzvids.john.edwards.gi.jpg)
 
 ### Related:
 

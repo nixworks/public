@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-20126364)
 2. [The Guardian](http://www.guardian.co.uk/business/2012/oct/29/penguin-random-house-merger-bertelsmann?INTCMP=ILCNETTXT3487)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63781000/jpg/_63781679_63781678.jpg)
 
 ### Related:
 

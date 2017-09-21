@@ -9,6 +9,7 @@
 
 1. [FDA](http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm477512.htm)
 2. [Reuters](http://www.reuters.com/article/us-merck-co-fda-bridion-idUSKBN0TY2TK20151215)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

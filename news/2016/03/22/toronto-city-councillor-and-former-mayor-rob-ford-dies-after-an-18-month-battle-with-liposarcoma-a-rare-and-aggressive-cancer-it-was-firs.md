@@ -9,6 +9,7 @@ He may never be commemorated with a statue or have a park named after him, but R
 
 1. [BlogTO](http://www.blogto.com/city/2016/03/former_toronto_mayor_rob_ford_has_died/)
 2. [Toronto Star](http://www.thestar.com/news/gta/2016/03/22/rob-ford-former-toronto-mayor-dead-after-battle-with-cancer.html)
+2. [Cover Image](http://media.blogto.com/articles/f7a0-2016316-rob-ford.jpg?width=1300&amp;quality=70)
 
 ### Related:
 

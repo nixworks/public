@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-sunoco-lp-m-a-seven-i-hldgs-idUSKBN1780IT?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170406&t=2&i=1179587391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED350AP)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Beirut (AFP) - At least 51 civilians, including four children, were killed in ai
 ### Source:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/51-civilians-killed-aleppo-raids-shelling-monitor-215411715.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/T0SA9V9M6UAThbYYyH.BcQ--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/17ecc612a9fd299cdd337207f07539cb52f98fd6.jpg)
 
 ### Related:
 

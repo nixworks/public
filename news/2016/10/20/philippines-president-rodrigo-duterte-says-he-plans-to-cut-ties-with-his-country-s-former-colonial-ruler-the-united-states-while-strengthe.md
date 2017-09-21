@@ -8,6 +8,7 @@ On visit to China the leader repeats his denunciation of Barack Obama as a ‘so
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/oct/20/philippines-president-duterte-says-time-to-say-goodbye-to-america)
+1. [Cover Image](https://i.guim.co.uk/img/media/f0c6a10fccbad3c0530c098576155ddd9745a400/0_56_3097_1858/master/3097.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0a0eb1bd7b2a8431b3976f083e42ceb3)
 
 ### Related:
 

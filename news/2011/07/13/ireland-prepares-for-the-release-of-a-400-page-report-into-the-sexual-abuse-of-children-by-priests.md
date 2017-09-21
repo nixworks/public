@@ -13,6 +13,7 @@ THE LONG-AWAITED report into the handling of clerical sexual abuse allegations i
 4. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/exbishop-slammed-over-child-abuse-16022689.html)
 5. [The Guardian](http://www.guardian.co.uk/world/2011/jul/13/irish-report-child-sex-abuse-vatican)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0713/1224300654778.html)
+6. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

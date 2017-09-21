@@ -8,6 +8,7 @@ Portuguese police reopen their inquiry into the disappearance of British girl Ma
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24655826)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70448000/jpg/_70448549_madeleinetennis.jpg)
 
 ### Related:
 

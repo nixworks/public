@@ -13,6 +13,7 @@ US Coast Guard searching for cargo ship with 33 people on board that went missin
 4. [Reuters](http://www.reuters.com/article/2015/10/03/us-storm-joaquin-idUSKCN0RV3NW20151003)
 5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11909023/Hurricane-Joaquin-cargo-ship-with-33-crew-on-board-missing-near-the-eye-of-the-storm.html)
 6. [WorldNetDaily](http://www.wnd.com/2015/10/joaquin-shifting-eastward-but-stay-on-guard/)
+6. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03462/The-El-Faro-lost_i_3462019k.jpg)
 
 ### Related:
 

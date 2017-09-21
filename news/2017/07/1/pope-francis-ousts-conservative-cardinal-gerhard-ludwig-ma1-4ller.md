@@ -8,6 +8,7 @@ Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead th
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/01/world/europe/vatican-pope-doctrine-mueller.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/02/business/02vatican/02vatican-facebookJumbo.jpg)
 
 ### Related:
 

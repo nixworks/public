@@ -8,6 +8,7 @@ Man charged in shooting that kills 2, injures 1 at Hazard Community and Technica
 ### Source:
 
 1. [Lexington Herald-Leader](http://www.kentucky.com/2013/01/15/2477560/at-least-3-injured-in-shooting.html)
+1. [Cover Image](http://www.kentucky.com/latest-news/ijyo4y/picture42785940/ALTERNATES/LANDSCAPE_1140/eECQN.So.79.jpg)
 
 ### Related:
 

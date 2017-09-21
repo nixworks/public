@@ -8,6 +8,7 @@ Michael Mukasey collapsed while giving a speech to the Federalist Society in Was
 ### Source:
 
 1. [Politico](http://www.politico.com/news/stories/1108/15842.html)
+1. [Cover Image](http://s3-origin-images.politico.com/081120_mukasey_allen.jpg)
 
 ### Related:
 

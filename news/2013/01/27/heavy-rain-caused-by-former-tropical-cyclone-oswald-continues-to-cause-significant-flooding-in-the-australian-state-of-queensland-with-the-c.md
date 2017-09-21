@@ -8,6 +8,7 @@ Brisbane and Ipswich will flood this week, with floodwaters predicted to inundat
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-01-27/live-wild-weather-queensland-calls-in-army/4486270)
+1. [Cover Image](http://www.abc.net.au/news/image/4486214-1x1-700x700.jpg)
 
 ### Related:
 

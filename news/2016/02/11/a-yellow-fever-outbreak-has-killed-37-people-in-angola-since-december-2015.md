@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/yellow-fever-outbreak-in-angola-kills-37/news-story/eb6a57a67a59d7bc77f45e926ca2b2ba?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

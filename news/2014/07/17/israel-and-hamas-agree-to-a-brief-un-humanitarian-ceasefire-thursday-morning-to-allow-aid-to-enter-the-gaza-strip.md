@@ -12,6 +12,7 @@ Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to
 3. [BBC](http://www.bbc.com/news/world-middle-east-28359582)
 4. [Times of Israel](http://www.timesofisrael.com/20-missiles-found-in-un-run-school-in-gaza/)
 5. [Times of Israel](http://www.timesofisrael.com/abbas-sissi-urge-immediate-gaza-ceasefire/)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/7/16//201471620375697734_20.jpg)
 
 ### Related:
 

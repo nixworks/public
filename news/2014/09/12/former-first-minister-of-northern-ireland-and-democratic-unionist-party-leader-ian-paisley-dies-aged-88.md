@@ -8,6 +8,7 @@ Former first minister and Democratic Unionist Party leader Ian Paisley has died 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-29177705)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77550000/jpg/_77550808_1991revianpaisley4.jpg)
 
 ### Related:
 

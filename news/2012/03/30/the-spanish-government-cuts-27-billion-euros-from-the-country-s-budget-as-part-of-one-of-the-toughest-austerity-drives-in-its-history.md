@@ -9,3 +9,4 @@ Spain cuts 27bn euros ($36bn; £22.5bn) from its budget this year and freezes pu
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/2012330101558497711.html)
 2. [BBC](http://www.bbc.co.uk/news/business-17557172)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59405000/jpg/_59405451_59405450.jpg)

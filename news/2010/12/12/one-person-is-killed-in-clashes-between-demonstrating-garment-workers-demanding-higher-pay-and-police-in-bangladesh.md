@@ -9,6 +9,7 @@ At least three people are dead and dozens more injured in Bangladesh after prote
 
 1. [BD News 24](http://www.bdnews24.com/details.php?id=181413&cid=2)
 2. [CBC](http://www.cbc.ca/world/story/2010/12/12/bangladesh-garment-workers-protest.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

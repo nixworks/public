@@ -8,6 +8,7 @@ Myanmar authorities say at least 20 people have been killed and several people a
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/20-killed-in-myanmar-wedding-boat-crash-20170408-2)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/5146/0a0adaf28b2a45cca2b842d14a48f0bb.jpg)
 
 ### Related:
 

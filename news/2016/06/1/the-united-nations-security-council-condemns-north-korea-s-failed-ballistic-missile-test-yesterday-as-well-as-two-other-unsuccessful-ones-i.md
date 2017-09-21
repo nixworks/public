@@ -8,6 +8,7 @@ The United Nations Security Council on Wednesday condemned three recent failed b
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-missile-un-idUSKCN0YN5UU)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160601&t=2&i=1139595021&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5031L)
 
 ### Related:
 

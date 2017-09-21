@@ -8,6 +8,7 @@ HYDERABAD, India (AFP) - At least 20 people died in a gun battle between the pol
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/news/asia/south-asia/story/india-police-say-20-dead-after-shootout-smugglers-20150407)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

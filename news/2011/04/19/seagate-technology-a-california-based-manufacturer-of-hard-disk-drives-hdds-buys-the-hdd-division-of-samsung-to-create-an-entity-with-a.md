@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/19/us-samsung-seagate-idUSTRE73I1CG20110419)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110419&t=2&i=392473469&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-19T135257Z_01_BTRE73I0OTJ00_RTROPTP_0_SAMSUNG)
 
 ### Related:
 

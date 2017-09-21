@@ -8,6 +8,7 @@ The Syrian army accuses Israel of air strikes on areas near Damascus, but there 
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-30370670)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67415000/jpg/_67415321_67415320.jpg)
 
 ### Related:
 

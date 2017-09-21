@@ -8,6 +8,7 @@ The suit, filed by a rights group, was based on Cisco sales materials. Cisco sai
 ### Source:
 
 1. [Reuters](http://www.nytimes.com/2011/05/23/technology/23cisco.html?ref=business)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2015/07/26/fishing-boat-missing/30705179/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

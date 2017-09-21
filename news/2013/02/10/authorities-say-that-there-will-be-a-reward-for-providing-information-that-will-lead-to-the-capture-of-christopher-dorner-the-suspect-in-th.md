@@ -9,6 +9,7 @@ Officials this afternoon offered a $1 million reward for information leading to 
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2013/02/dorner-manhunt-reward-to-be-offered.html)
 2. [The Sun](http://www.sbsun.com/ci_22556555)
+2. [Cover Image](http://local.sbsun.com/common/dfm/assets/logos/small/sbsun_new.png)
 
 ### Related:
 

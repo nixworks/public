@@ -8,6 +8,7 @@ Iran executed in public on Saturday three men convicted of involvement in a bomb
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54T0MW20090530)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

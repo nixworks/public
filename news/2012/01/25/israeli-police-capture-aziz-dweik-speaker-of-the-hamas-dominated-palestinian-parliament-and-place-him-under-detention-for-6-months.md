@@ -9,6 +9,7 @@ Palestinians say arrest of 5 Hamas legislators a ploy to sabotage Palestinian re
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=255053)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/jan/24/israel-jails-palestinian-parliament-speaker)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=184704)
 
 ### Related:
 

@@ -8,6 +8,7 @@ These interactive map and charts show the drug-related fatalities reported since
 ### Source:
 
 1. [Abscbn](http://news.abs-cbn.com/focus/v2/07/13/16/map-charts-the-death-toll-of-the-war-on-drugs)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/news-special1/lifestyle/7/12/war-on-drugs.jpg)
 
 ### Related:
 

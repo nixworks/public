@@ -8,6 +8,7 @@ Twenty-three people have been killed and many more hurt in a head-on collision i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36774059)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/8044/production/_90363823_mediaitem90362362.jpg)
 
 ### Related:
 

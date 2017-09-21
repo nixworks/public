@@ -9,6 +9,7 @@ US President Barack Obama called for an &quot;immediate ceasefire&quot; between 
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/israel-hamas-fighting-resumes-humanitarian-lull-170517230.html)
 2. [Haaretz](http://www.haaretz.com/1.606129)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/NccAvH9Tec5Z6pBXRUqcAQ--/aD02Mjg7dz05NDI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par7935284-1-1-0.jpg)
 
 ### Related:
 

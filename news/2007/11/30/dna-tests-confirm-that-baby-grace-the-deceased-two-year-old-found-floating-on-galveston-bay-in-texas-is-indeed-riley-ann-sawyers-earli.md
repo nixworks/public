@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/front/5343117.html)
+1. [Cover Image](http://ww2.hdnux.com/photos/04/31/60/1154101/3/rawImage.jpg)
 
 ### Related:
 

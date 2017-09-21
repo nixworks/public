@@ -8,6 +8,7 @@ The first clear evidence for a new particle at the Large Hadron Collider emerges
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-16301908)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57182000/jpg/_57182144_006160467-1.jpg)
 
 ### Related:
 

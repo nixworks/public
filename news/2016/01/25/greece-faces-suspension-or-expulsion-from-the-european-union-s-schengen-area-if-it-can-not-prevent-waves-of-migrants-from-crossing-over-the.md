@@ -8,6 +8,7 @@ Plan emerges to seal Greek border with Macedonia as EU leaders meet in Amsterdam
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/eu/12119799/Greece-threatened-with-expulsion-from-Schengen-free-movement-zone.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03558/greece_3558215k.jpg)
 
 ### Related:
 

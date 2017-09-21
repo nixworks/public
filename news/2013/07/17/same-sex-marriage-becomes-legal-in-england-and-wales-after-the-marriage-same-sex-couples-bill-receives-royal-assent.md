@@ -8,6 +8,7 @@ Same-sex couples will be able to get married in England and Wales after new meas
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-23338279)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67702000/jpg/_67702082_gaymarriagepic.jpg)
 
 ### Related:
 

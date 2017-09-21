@@ -8,6 +8,7 @@ The Nationalist Party this morning gave an emotional farewell to former Presiden
 ### Source:
 
 1. [The Times of Malta](http://www.timesofmalta.com/articles/view/20100814/local/pn-in-emotional-farewell-to-guido-de-marco)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/57cfad5800e7d31684ddd18b1aee0b701682669975-1300497183-4d84031f-620x348.jpg)
 
 ### Related:
 

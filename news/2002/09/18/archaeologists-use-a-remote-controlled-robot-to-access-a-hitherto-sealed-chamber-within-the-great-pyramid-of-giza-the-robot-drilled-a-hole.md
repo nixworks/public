@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ Two amateur French Egyptologists claim to have discovered, using radar, a previously unknown corridor inside the Great Pyramid of Khufu. They believe the corridor would lead directly to Khufu's burial chamber, a room which &ndash; if it exists &ndash; is unlikely to have been accessed since the burial and may still contain the king's remains. ](/news/2004/08/30/two-amateur-french-egyptologists-claim-to-have-discovered-using-radar-a-previously-unknown-corridor-inside-the-great-pyramid-of-khufu-th.md) _Context: Great Pyramid_

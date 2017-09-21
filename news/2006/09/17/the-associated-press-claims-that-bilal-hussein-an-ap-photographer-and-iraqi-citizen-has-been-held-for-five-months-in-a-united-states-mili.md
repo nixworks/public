@@ -12,6 +12,7 @@ The Pentagon defended its monthslong detention of an Associated Press photograph
 3. [MSNBC](http://msnbc.msn.com/id/14877866/)
 4. [Reuters](http://today.reuters.com/news/ArticleNews.aspx?type=worldNews&storyID=2006-09-17T135931Z_01_L17724017_RTRUKOC_0_US-SOMALIA-ITALIAN.xml&pageNumber=2&imageid=&cap=&sz=13&WTModLoc=NewsArt-C1-ArticlePage2)
 5. [SOS](http://www.sos-childrensvillages.org/news-and-media/news/pages/sos-childrens-villages-mourns-death-of-italian-nurse-in-mogadishu.aspx)
+5. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Live updates as heavy gunfire is heard at a shopping centre in the Kenyan capita
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24200990)
 2. [Euronews](http://www.euronews.com/2013/09/23/end-appears-near-in-kenyan-hostage-crisis/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

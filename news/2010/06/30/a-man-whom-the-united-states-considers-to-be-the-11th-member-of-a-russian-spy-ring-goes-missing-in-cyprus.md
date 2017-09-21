@@ -8,6 +8,7 @@ The 11th member of alleged Russian spy ring in US fails to appear at police stat
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201063018482943541.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

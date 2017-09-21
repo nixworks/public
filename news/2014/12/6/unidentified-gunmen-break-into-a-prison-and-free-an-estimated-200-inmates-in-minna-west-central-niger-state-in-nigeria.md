@@ -8,6 +8,7 @@ Gunmen broke into a prison in the central Nigerian city of Minna, freeing around
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/prison-break-frees-200-inmates-central-nigeria-n263331)
+1. [Cover Image](http://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
 
 ### Related:
 

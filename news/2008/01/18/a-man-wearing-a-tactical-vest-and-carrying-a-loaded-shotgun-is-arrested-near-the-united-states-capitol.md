@@ -9,6 +9,7 @@ A man with a shotgun was arrested a block from the U.S. Capitol on Friday but th
 
 1. [Reuters](http://www.reuters.com/article/domesticNews/idUSN1833701520080118)
 2. [WUSA9](http://www.wusa9.com/news/local/story.aspx?storyid=67470)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080118&t=2&i=2828369&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-01-18T194600Z_01_N18337015_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

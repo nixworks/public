@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11015985)
 2. [Citizen.co.za](http://www.citizen.co.za/index.php?option=com_content&view=article&id=108216&catid=29:world-news&Itemid=53)
 3. [News24](http://www.news24.com/World/News/Hostage-taker-an-ex-informant-20100818)
+3. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

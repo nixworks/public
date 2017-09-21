@@ -8,6 +8,7 @@ Zimbabwe&#039;s Parliament has transferred control of all foreign-owned companie
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/27/2044571.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

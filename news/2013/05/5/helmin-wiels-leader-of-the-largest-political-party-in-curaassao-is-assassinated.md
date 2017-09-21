@@ -8,6 +8,7 @@ Unidentified gunmen on the Dutch Caribbean island of Curacao kill Helmin Wiels, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22424009)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67436000/jpg/_67436559_wielws2.jpg)
 
 ### Related:
 

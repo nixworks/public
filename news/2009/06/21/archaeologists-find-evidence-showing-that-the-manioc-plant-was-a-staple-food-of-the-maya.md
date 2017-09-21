@@ -8,6 +8,7 @@ Corn was the royalty of Maya food crops, celebrated in religion and cosmology, b
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-sci-maya21-2009jun21,0,7620705.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A suicide bomb attack on the Afghan National Directorate of Security building in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21039927)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65314000/jpg/_65314254_vcb28kiu.jpg)
 
 ### Related:
 

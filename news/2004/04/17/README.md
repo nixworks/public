@@ -1,7 +1,7 @@
 ## [2004-04-17](/news/2004/04/17/index.md)
 
 ### [ His Holiness the Fourteenth Dalai Lama begins a visit to Canada. ](/news/2004/04/17/his-holiness-the-fourteenth-dalai-lama-begins-a-visit-to-canada.md)
-_Context: Fourteenth Dalai Lama_
+_Context: Tenzin Gyatso_
 
 ### [ Burma's National League for Democracy reopens its Rangoon headquarters nearly a year after the government closed it down. ](/news/2004/04/17/burma-s-national-league-for-democracy-reopens-its-rangoon-headquarters-nearly-a-year-after-the-government-closed-it-down.md)
 _Context: Myanmar, National League for Democracy, Rangoon_

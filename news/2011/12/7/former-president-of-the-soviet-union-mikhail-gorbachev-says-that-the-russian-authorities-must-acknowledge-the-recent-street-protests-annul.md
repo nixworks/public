@@ -8,6 +8,7 @@ The first and only president of the Soviet Union, Mikhail Gorbachev has said tha
 ### Source:
 
 1. [RT](http://rt.com/politics/calls-repeated-parliamentary-elections-241/)
+1. [Cover Image](https://img.rt.com/files/oldfiles/politics/calls-repeated-parliamentary-elections-241/novosti-krivobok-ruslan-ria.si.jpg)
 
 ### Related:
 

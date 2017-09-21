@@ -8,6 +8,7 @@ Supporters of a bid for California independence are again submitting plans for a
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-take-two-for-bid-for-california-1495224217-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-591f6846/turbine/la-pol-ca-essential-politics-updates-take-two-for-bid-for-california-1495224217)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The shelling of an Abidjan market by Ivory Coast security forces which killed at
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12787015)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72H0F920110318?sp=true)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

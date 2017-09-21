@@ -10,6 +10,7 @@ The suicide attacks brought anger, mourning and upheaval to a mostly Shiite sout
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3644733.stm)
 2. [NYT](http://www.nytimes.com/2004/04/21/international/middleeast/21CND-IRAQ.html?hp)
 3. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1082499014094&call_pageid=968332188854&col=968350060724)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

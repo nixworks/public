@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8260414.stm)
 3. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=441164)
 4. [Saba](http://www.sabanews.net/en/news193895.htm)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Officials in the Philippines say seven people have been killed in two provinces 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/11/25/2100622.htm)
 2. [ABS-CBN News](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=100329)
 3. [ABS-CBN News](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=100354)
+3. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

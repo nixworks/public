@@ -8,6 +8,7 @@ Jenson Button put on a nerveless display of Formula One driving at the 2009 Mona
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/sport/motorsport/formulaone/f1news/5378280/Monaco-Grand-Prix-Jenson-Button-wins-again-for-Brawn-GP.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01409/jenson__button_1409369a.jpg)
 
 ### Related:
 

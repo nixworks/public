@@ -8,6 +8,7 @@ Researchers have found that marijuana users have lower fasting insulin levels co
 ### Source:
 
 1. [Healthline](http://www.healthline.com/health-news/policy-marijuana-use-helps-with-blood-sugar-control-and-bmi-051613)
+1. [Cover Image](http://www.healthline.com/hlcmsresource/images/News/public-policy/marijuanabloodsugar.jpg)
 
 ### Related:
 

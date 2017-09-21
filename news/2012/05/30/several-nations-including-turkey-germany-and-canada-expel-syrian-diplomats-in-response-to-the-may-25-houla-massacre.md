@@ -9,6 +9,7 @@ Hopes of a new initiative over Syria suffer a setback as a Russian spokesman rul
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2012-05-31/un-uncovers-fresh-syrian-massacre/4043234)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18260992)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60576000/jpg/_60576434_60576433.jpg)
 
 ### Related:
 

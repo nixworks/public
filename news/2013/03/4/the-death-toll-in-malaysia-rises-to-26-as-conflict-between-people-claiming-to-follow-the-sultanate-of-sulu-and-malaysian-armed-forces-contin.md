@@ -8,6 +8,7 @@ The three-week standoff involving a band of Filipino rebels who stormed a northe
 ### Source:
 
 1. [Time](http://world.time.com/2013/03/04/malaysia-at-least-26-dead-in-ongoing-sabah-siege/)
+1. [Cover Image](https://timeglobalspin.files.wordpress.com/2013/03/int_sulurebels_0303.jpg?w=600)
 
 ### Related:
 

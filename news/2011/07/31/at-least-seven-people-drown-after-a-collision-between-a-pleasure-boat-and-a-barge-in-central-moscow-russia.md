@@ -9,6 +9,7 @@
 
 1. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=231733)
 2. [The Moscow News](http://themoscownews.com/local/20110731/188886418.html)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Spokesman for Syrian Kurdish-Arab coalition says it would &#039;fight&#039; Popu
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2017/05/31/Kurdish-leader-SDF-will-counter-Iraq-s-PMU-if-it-enters-its-areas-in-Syria.html)
 2. [Middle East Eye](http://www.middleeasteye.net/news/sdf-says-they-would-fight-iraqi-shia-militias-if-they-enter-their-territory-1282364149)
+2. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/SDF-spokesman-678x381.jpg)
 
 ### Related:
 

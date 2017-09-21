@@ -8,6 +8,7 @@ A portal of daily newspapers covering Philippine news headlines, business, lifes
 ### Source:
 
 1. [Philippines Star](http://www.philstar.com/nation/article.aspx?publicationsubcategoryid=200&articleid=731489)
+1. [Cover Image](http://www.philstar.com/sites/all/themes/philstar_default/images/fb-share-default.jpg)
 
 ### Related:
 

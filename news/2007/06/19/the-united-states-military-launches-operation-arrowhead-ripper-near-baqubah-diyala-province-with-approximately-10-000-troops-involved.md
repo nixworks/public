@@ -9,6 +9,7 @@ The U.S. military said it had launched a major offensive against al Qaeda north 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6767427.stm)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSL1914954220070619?feedType=RSS)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070619&t=2&i=979435&w=&fh=545px&fw=&ll=&pl=&sq=&r=979435)
 
 ### Related:
 

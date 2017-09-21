@@ -8,6 +8,7 @@ Two black farm workers accused of bludgeoning to death South African white separ
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/8816551/White-supremacist-Eugene-Terreblanche-murder-trial-to-begin.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01609/terre_1609493a.jpg)
 
 ### Related:
 

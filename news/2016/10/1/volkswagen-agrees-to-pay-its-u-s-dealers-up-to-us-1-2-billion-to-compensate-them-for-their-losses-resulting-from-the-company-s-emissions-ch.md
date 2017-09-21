@@ -8,6 +8,7 @@ Volkswagen agrees to compensation U.S. dealers $1.2 billion over emissions scand
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/business/la-fi-volkswagen-settlement-20161001-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57f000e7/turbine/la-fi-volkswagen-settlement-20161001-snap)
 
 ### Related:
 

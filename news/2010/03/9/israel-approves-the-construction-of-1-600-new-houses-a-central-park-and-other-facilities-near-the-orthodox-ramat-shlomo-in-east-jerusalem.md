@@ -10,6 +10,7 @@ AS US vice president Joe Biden wrapped up a day of talks with Israeli leaders ye
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8558347.stm)
 2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1155171.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0310/1224265976902.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ U.S. President Barack Obama spoke by phone with Netherlands Prime Minister Mark 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/25/us-ukraine-crisis-obama-idUSKBN0FU06G20140725)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140725&t=2&i=944567124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6O04P)
 
 ### Related:
 

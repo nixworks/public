@@ -8,6 +8,7 @@ At least 12 people have died after a bus carrying the Tunisian presidential guar
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/world/africa/tunisia-bombing-bus-explodes-near-rcd-party-headquarters-a6747166.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/24/19/web-tunis-1-reuters.jpg)
 
 ### Related:
 

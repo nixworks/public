@@ -8,6 +8,7 @@ At the top of the agenda in the Virginia forum is assessing how the Trump admini
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-40125253)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/ECAE/production/_96309506_hi039400483.jpg)
 
 ### Related:
 

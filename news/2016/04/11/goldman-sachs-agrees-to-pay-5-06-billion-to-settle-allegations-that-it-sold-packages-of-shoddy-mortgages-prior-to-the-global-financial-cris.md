@@ -9,6 +9,7 @@
 
 1. [The Washington Post](https://www.washingtonpost.com/news/business/wp/2016/04/11/goldman-sachs-pays-5-billion-to-settle-allegations-it-sold-shoddy-mortgages-prior-to-financial-crisis/)
 2. [UPI](http://www.upi.com/Business_News/2016/04/11/Goldman-Sachs-to-pay-5-billion-in-settlement-over-financial-crisis/2151460387785/?spt=sec&or=bn)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/2151460387785/2016/1/14603904331806/v2.1/Goldman-Sachs-to-pay-5-billion-in-settlement-over-financial-crisis.jpg)
 
 ### Related:
 

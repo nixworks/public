@@ -11,6 +11,7 @@ Tough new Kremlin measures against protests may have emboldened rather than dete
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261293938264131.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-18405306)
 4. [The New York Times](http://www.nytimes.com/2012/06/13/world/europe/anti-putin-demonstrators-gather-in-moscow.html)
+4. [Cover Image](https://static01.nyt.com/images/2012/06/12/world/12russia1_cnd/12russia1_cnd-superJumbo.jpg)
 
 ### Related:
 

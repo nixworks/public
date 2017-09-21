@@ -8,6 +8,7 @@ Maine health officials have asked a court to limit the movements of nurse Kaci H
 ### Source:
 
 1. [Boston Globe](http://www.bostonglobe.com/metro/2014/10/31/maine-asking-court-limit-movements-nurse-kaci-hickox/9tGSogqyPYlu3Vq7WjG84L/story.html)
+1. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2014/10/31/BostonGlobe.com/Metro/Images/458185072.jpg)
 
 ### Related:
 

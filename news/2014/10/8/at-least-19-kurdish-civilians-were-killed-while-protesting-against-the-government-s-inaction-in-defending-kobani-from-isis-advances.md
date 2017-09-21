@@ -8,6 +8,7 @@ Demonstrators protest government&#8217;s failure to act against Islamic State at
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/turkish-army-imposes-curfew-after-19-killed-in-pro-kurdish-protests/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/10/000_Par7996932-e1412796345203.jpg)
 
 ### Related:
 

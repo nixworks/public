@@ -8,6 +8,7 @@ A string of explosions has rocked the northeastern Syrian city of Kamishli, targ
 ### Source:
 
 1. [RT](https://www.rt.com/news/327497-syria-suicide-bombings-kurds/)
+1. [Cover Image](https://img.rt.com/files/2015.12/article/56846427c36188145f8b45d2.jpg)
 
 ### Related:
 

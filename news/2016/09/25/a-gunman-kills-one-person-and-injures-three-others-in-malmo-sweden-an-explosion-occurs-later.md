@@ -8,6 +8,7 @@ ONE person has died and three others have been injured following a gun attack in
 ### Source:
 
 1. [Express](http://www.express.co.uk/news/world/714291/Malmo-gun-attack-shooting-Sweden-several-injured)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/674x400/shooting-714291.jpg)
 
 ### Related:
 

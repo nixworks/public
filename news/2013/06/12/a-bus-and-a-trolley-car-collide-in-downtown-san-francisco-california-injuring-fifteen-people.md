@@ -8,6 +8,7 @@ A low-speed collision between a Muni bus and historic trolley along bustling Mar
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/Muni-bus-trolley-collide-15-injured-4596394.php)
+1. [Cover Image](http://ww3.hdnux.com/photos/22/15/71/4775502/10/rawImage.jpg)
 
 ### Related:
 

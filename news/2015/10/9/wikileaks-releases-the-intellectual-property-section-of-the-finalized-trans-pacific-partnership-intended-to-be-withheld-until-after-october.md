@@ -9,6 +9,7 @@ The secrecy surrounding the negotiation of the Trade in Services Agreement and o
 
 1. [International Business Times](http://www.ibtimes.com/wikileaks-publishes-secret-tisa-trade-documents-1951967)
 2. [WikiLeaks](https://www.wikileaks.org/tpp-ip3/)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/06/04/tpp-japan.jpg)
 
 ### Related:
 

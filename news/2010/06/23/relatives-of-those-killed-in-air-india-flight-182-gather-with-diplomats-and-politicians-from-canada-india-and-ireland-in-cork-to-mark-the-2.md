@@ -13,6 +13,7 @@ Diplomats and relatives gathered today in west Cork to commemorate the 25th anni
 4. [RTÉ](http://www.rte.ie/news/2010/0623/airindia.html)
 5. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1298519&lang=eng_news)
 6. [Toronto Star](http://www.thestar.com/news/canada/article/827792--pm-apologizes-at-air-india-memorial)
+6. [Cover Image](https://img.rasset.ie/00036e20-1600.jpg)
 
 ### Related:
 

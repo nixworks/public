@@ -8,6 +8,7 @@ Arson investigators were at the scene of a wildfire near Los Angeles that explod
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-colby-fire-glendora-wind-20140116,0,5340676.story)
+1. [Cover Image](http://www.trbimg.com/img-52d82154/turbine/la-me-ln-colby-fire-glendora-wind-20140116)
 
 ### Related:
 

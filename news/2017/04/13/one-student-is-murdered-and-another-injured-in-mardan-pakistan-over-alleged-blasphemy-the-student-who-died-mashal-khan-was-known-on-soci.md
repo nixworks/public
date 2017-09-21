@@ -8,6 +8,7 @@ The student was brutally murdered by a mob at a university campus in northern Pa
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39593302)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1CCD/production/_95637370_9b541733-4023-4bc8-ad2d-b995847b3c1a.jpg)
 
 ### Related:
 

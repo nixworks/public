@@ -12,6 +12,7 @@ North and South Korea fire artillery shells across their tense western sea borde
 3. [The Sun'' UK](http://www.thesun.co.uk/sol/homepage/news/3241739/North-Korea-fire-sparks-outrage.html)
 4. [YTN Television](http://www.stuff.co.nz/world/asia/4378199/North-Korea-shells-South-Korean-island)
 5. [Yonhap](http://english.yonhapnews.co.kr/national/2010/11/23/95/0301000000AEN20101123011500315F.HTML)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/50111000/jpg/_50111145_010706200-1.jpg)
 
 ### Related:
 

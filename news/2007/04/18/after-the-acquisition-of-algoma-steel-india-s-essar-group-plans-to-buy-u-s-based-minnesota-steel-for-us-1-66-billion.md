@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=ap6CZvSHd.Ug&refer=home)
 2. [Reuters](http://www.reuters.com/article/mergersNews/idUSN1826651120070418)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

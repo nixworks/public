@@ -8,6 +8,7 @@ At least six people were killed when a goods train hit a passenger train south-w
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27484148)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74970000/jpg/_74970169_022337625-1.jpg)
 
 ### Related:
 

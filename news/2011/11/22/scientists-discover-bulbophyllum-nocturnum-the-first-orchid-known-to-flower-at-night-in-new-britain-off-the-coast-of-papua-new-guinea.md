@@ -8,6 +8,7 @@ A &quot;remarkable&quot; night-flowering orchid, the first of its kind known to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-15818662)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56852000/jpg/_56852188_bulbophyllum_nocturnum_landscape_credit_andre_schuiteman__03.jpg)
 
 ### Related:
 

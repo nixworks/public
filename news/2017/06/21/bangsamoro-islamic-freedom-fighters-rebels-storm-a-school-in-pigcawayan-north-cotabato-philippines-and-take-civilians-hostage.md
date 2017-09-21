@@ -8,6 +8,7 @@ Pro-Islamic State militants have stormed a town and occupied a school in the sou
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/islamic-militants-storm-school-in-the-philippines-20170621-gwve9k.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/w/s/2/w/k/image.related.articleLeadwide.620x349.gwve9k.png/1498025054173.jpg)
 
 ### Related:
 

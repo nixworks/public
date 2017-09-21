@@ -8,6 +8,7 @@ Jaguar Land Rover says it is creating 1,000 new jobs at its Halewood factory on 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17353024)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59035000/jpg/_59035447_59035446.jpg)
 
 ### Related:
 

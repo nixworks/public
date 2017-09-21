@@ -8,6 +8,7 @@ U.S. health officials on Friday approved the first drug made using genetically e
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/domesticNews/idUSTRE5154OE20090206)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090206&t=2&i=8160972&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-06T191712Z_01_BTRE5151AXR00_RTROPTP_0_US-GTC-ATRYN)
 
 ### Related:
 

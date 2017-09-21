@@ -8,6 +8,7 @@ Forty-three people reportedly killed when a van hit a bus on a highway in centra
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-07-19/at-least-38-killed-in-fiery-china-road-accident/5609432)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The troubled Russian Phobos-Grunt spacecraft, which has been stuck in low-Earth 
 ### Source:
 
 1. [Space.com](http://www.space.com/13846-phobos-grunt-russia-mars-mission-doomed.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAxMy83MDQvb3JpZ2luYWwvcGhvYm9zLWdydW50LW5vdi0yOS0yMDExLmpwZw==)
 
 ### Related:
 

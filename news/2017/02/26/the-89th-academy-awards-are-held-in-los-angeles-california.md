@@ -13,6 +13,7 @@ The most coveted award of the Oscars descends into chaos, with La La Land mistak
 4. [The Guardian](https://www.theguardian.com/film/2017/feb/27/the-salesman-wins-best-foreign-language-oscar-asghar-farhadi)
 5. [The Guardian](https://www.theguardian.com/global/video/2017/feb/27/mahershala-ali-becomes-the-first-muslim-actor-to-win-an-oscar-video)
 6. [Vox](http://www.vox.com/culture/2017/2/26/14742386/khaled-khateeb-white-helmets-oscars-denied-entry-syria)
+6. [Cover Image](http://www.abc.net.au/news/image/8308276-1x1-700x700.jpg)
 
 ### Related:
 

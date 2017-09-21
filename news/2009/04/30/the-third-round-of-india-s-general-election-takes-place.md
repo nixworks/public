@@ -8,6 +8,7 @@ Polls have opened in the third round of India&#039;s month-long elections, with 
 ### Source:
 
 1. [Reuters via ''Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/5247642/Indian-election-Third-wave-of-voting-begins.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01394/indian_voters_1394033a.jpg)
 
 ### Related:
 

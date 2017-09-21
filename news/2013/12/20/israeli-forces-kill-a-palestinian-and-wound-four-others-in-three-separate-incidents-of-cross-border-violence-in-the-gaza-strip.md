@@ -8,6 +8,7 @@ One Palestinian was killed and four wounded by IDF fire in several incidents on 
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.564618)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.494140.1364966693!/image/4279929120.jpg_gen/derivatives/headline_1200x630/4279929120.jpg)
 
 ### Related:
 

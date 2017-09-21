@@ -9,6 +9,7 @@ At least nine Afghans on their way to a wedding in the north are killed by a roa
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/01/201111611526976374.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12201970)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

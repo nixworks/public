@@ -8,6 +8,7 @@ Mitsubishi group companies vowed yesterday to stick by struggling Mitsubishi Mot
 ### Source:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/worldbiz/archives/2004/04/24/2003137940)
+1. [Cover Image](http://www.taipeitimes.com/images/2004/04/24/thumbs/20040423180259.jpeg)
 
 ### Related:
 

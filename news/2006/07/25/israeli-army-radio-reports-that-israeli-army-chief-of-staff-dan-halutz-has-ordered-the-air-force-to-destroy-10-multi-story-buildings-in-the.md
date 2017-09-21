@@ -21,6 +21,7 @@ As the war between Israel and Hezbollah continued, four unarmed U.N. observers w
 12. [News24](http://www.news24.com/News24/World/Middle_East/0,,2-10-2075_1972537,00.html)
 13. [Scoop](http://www.scoop.co.nz/stories/WO0607/S00466.htm)
 14. [The Guardian](http://www.guardian.co.uk/israel/Story/0,,1828142,00.html)
+14. [Cover Image](https://static01.nyt.com/images/2006/07/25/world/26mideast1_75.jpg)
 
 ### Related:
 

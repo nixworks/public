@@ -8,6 +8,7 @@ A 19-year-old individual was shot and killed by police in the northern Quebec vi
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/akulivik-stabbing-bei-police-shooting-1.4155167)
+1. [Cover Image](https://i.cbc.ca/1.3649697.1466709419!/fileImage/httpImage/image.png_gen/derivatives/16x9_1180/akulivik.png)
 
 ### Related:
 

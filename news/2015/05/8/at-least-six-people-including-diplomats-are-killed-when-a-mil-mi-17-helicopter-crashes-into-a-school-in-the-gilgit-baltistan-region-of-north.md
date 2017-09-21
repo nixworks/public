@@ -8,6 +8,7 @@ The wives of the Malaysian and Indonesian envoys were also killed in the crash.
 ### Source:
 
 1. [Dawn](http://www.dawn.com/news/1180757/helicopter-crash-in-gilgit-kills-two-foreign-envoys-four-others)
+1. [Cover Image](http://i.dawn.com/medium/2015/05/554c7e3607f57.jpg)
 
 ### Related:
 

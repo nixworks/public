@@ -8,6 +8,7 @@ Armed group Mend says Niger Delta could be on the brink of renewed violence.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/200911195852610722.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

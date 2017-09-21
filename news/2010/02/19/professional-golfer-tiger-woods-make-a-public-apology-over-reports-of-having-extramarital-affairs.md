@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/golf/8521060.stm)
 2. [CBS News](http://www.cbsnews.com/stories/2010/02/18/sportsline/main6220458.shtml)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2009/12/14/dbb153fb-a642-11e2-a3f0-029118418759/image5977184x.jpg)
 
 ### Related:
 

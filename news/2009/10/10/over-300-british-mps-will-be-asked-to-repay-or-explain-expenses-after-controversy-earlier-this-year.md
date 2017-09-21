@@ -8,6 +8,7 @@ At least 325 MPs will be ordered this week to repay money or provide further det
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/mps-expenses/6293282/MPs-expenses-325-MPs-told-to-pay-up-or-explain.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01409/commons_1409554a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 2,000 anti-austerity protesters try to blockade the Catalan parliament
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13774761)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53418000/jpg/_53418492_gatesap.jpg)
 
 ### Related:
 

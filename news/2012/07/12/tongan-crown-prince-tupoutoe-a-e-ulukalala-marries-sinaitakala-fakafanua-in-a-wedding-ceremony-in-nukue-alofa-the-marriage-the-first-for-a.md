@@ -8,6 +8,7 @@ Tongans have celebrated the royal wedding of the Crown Prince to his second-cous
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/tongafrenchpolynesia/9394358/Tongan-crown-prince-marries-second-cousin.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02274/tonga_2274718k.jpg)
 
 ### Related:
 

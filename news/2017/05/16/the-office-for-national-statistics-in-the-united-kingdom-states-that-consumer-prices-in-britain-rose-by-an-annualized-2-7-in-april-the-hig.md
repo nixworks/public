@@ -8,6 +8,7 @@ British inflation hit its highest level since September 2013 last month, extendi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-britain-economy-idUSKCN18C0TE?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170516&t=2&i=1184925500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED4F0SV)
 
 ### Related:
 

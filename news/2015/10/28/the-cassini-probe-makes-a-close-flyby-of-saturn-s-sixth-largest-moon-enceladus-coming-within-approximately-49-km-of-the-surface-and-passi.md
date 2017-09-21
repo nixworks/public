@@ -9,6 +9,7 @@ The Cassini spacecraft has made a final ultra-close flyby of Enceladus, a moon o
 
 1. [BBC Online](http://www.bbc.com/news/science-environment-34593944)
 2. [JPL Press Release](http://saturn.jpl.nasa.gov/news/newsreleases/newsrelease20151028/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10FB2/production/_86245596_pia17184.jpg)
 
 ### Related:
 
@@ -19,5 +20,6 @@ The Cassini spacecraft has made a final ultra-close flyby of Enceladus, a moon o
 5. [ NASA announces that the Cassini spacecraft has captured images of several sea-sized bodies of liquid, likely hydrocarbons, on Titan, the largest moon of Saturn. ](/news/2007/03/14/nasa-announces-that-the-cassini-spacecraft-has-captured-images-of-several-sea-sized-bodies-of-liquid-likely-hydrocarbons-on-titan-the-la.md) _Context: Cassini_
 6. [ NASA's Cassini spacecraft records a hurricane-like storm on the south pole of Saturn which is the first time such an event has been observed on another planet. ](/news/2006/11/10/nasa-s-cassini-spacecraft-records-a-hurricane-like-storm-on-the-south-pole-of-saturn-which-is-the-first-time-such-an-event-has-been-observe.md) _Context: Cassini_
 7. [ In what is expected to be one of the major scientific events of this decade, the Huygens probe successfully lands on Saturn's largest moon Titan. Data sent back from the probe via the Cassini orbiter is now being analysed. Three low-resolution pictures have been released, including one from an altitude of 16&nbsp;km that appears to show channels cut by liquid, and another from the surface of Titan showing rocks or ice. ](/news/2005/01/14/in-what-is-expected-to-be-one-of-the-major-scientific-events-of-this-decade-the-huygens-probe-successfully-lands-on-saturn-s-largest-moon.md) _Context: Cassini_
-8. [ The Cassini-Huygens unmanned probe becomes the first spacecraft to orbit Saturn, and prepares to study the planet and its satellites. ](/news/2004/07/1/the-cassiniahuygens-unmanned-probe-becomes-the-first-spacecraft-to-orbit-saturn-and-prepares-to-study-the-planet-and-its-satellites.md) _Context: Cassini_
-9. [ The Cassini-Huygens probe approaches within 2000 km of Phoebe, the outermost moon of the planet Saturn. ](/news/2004/06/11/the-cassiniahuygens-probe-approaches-within-2000-km-of-phoebe-the-outermost-moon-of-the-planet-saturn.md) _Context: Cassini_
+8. [ NASA/ESA Spacecraft Cassini-Huygens discovers two new natural satellites of Saturn. They are provisionally named "S/2004 S 1" (later named "Methone") and "S/2004 S 2" (later named "Pallene"). ](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.md) _Context: Cassini_
+9. [ The Cassini-Huygens unmanned probe becomes the first spacecraft to orbit Saturn, and prepares to study the planet and its satellites. ](/news/2004/07/1/the-cassiniahuygens-unmanned-probe-becomes-the-first-spacecraft-to-orbit-saturn-and-prepares-to-study-the-planet-and-its-satellites.md) _Context: Cassini_
+10. [ The Cassini-Huygens probe approaches within 2000 km of Phoebe, the outermost moon of the planet Saturn. ](/news/2004/06/11/the-cassiniahuygens-probe-approaches-within-2000-km-of-phoebe-the-outermost-moon-of-the-planet-saturn.md) _Context: Cassini_

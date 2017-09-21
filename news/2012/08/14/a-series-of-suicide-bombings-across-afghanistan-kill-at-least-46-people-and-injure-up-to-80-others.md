@@ -9,6 +9,7 @@ A series of bombings on markets crowded with shoppers preparing for the end of R
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19257090)
 2. [CBS](http://www.cbsnews.com/8301-202_162-57492716/bazaar-bombing-adds-to-deadly-day-in-afghanistan/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62278000/jpg/_62278033_zaranj_grab.jpg)
 
 ### Related:
 

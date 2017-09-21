@@ -8,6 +8,7 @@ Riot police surround building occupied by activists in central London ahead of s
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013611140466410.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/11/2013611141826835734_20.jpg)
 
 ### Related:
 

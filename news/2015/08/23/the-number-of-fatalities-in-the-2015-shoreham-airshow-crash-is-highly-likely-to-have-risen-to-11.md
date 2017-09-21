@@ -8,6 +8,7 @@ The death toll from the Shoreham air crash where a vintage jet plummeted into tr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-34034430#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4DE8/production/_85144991_victims.gif)
 
 ### Related:
 

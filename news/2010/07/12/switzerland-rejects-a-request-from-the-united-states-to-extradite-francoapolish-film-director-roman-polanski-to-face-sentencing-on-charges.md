@@ -8,6 +8,7 @@ Roman Polanski is free after the Swiss government rejected a US extradition requ
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/film/roman-polanski/7885408/Roman-Polanski-free-after-Swiss-reject-US-extradition-request.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01490/polanski_1490465a.jpg)
 
 ### Related:
 

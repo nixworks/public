@@ -8,6 +8,7 @@ Gunmen have stormed theal-Mabrook oilfield in central Libya, oil and military of
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/04/libya-security-mabrook-idUSL6N0VE19Z20150204)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

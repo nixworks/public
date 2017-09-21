@@ -8,6 +8,7 @@ Bangkok calls for bilateral talks while Cambodia accuses Thai forces of damaging
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/20114254046831170.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/25/201142551915718621_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Newsday](http://www.newsday.com/business/men-s-wearhouse-fires-back-at-ousted-founder-1.5568025)
+1. [Cover Image](http://cdn.newsday.com/polopoly_fs/1.5567608.1372257171!/httpImage/image.JPG_gen/derivatives/landscape_1280/image.JPG)
 
 ### Related:
 

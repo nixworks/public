@@ -8,6 +8,7 @@ Deutsche Bank announced plans to eliminate 35,000 jobs from its payroll over the
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/deutsche-bank-posts-6-6-billion-loss-1446104427)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KG319_2deuts_TOP_20150911112019.jpg)
 
 ### Related:
 

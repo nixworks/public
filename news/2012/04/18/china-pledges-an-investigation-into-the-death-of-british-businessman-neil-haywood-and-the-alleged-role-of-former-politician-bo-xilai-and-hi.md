@@ -8,6 +8,7 @@ China promises a &quot;thorough&quot; investigation into a top politician linked
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-17751970)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59634000/jpg/_59634092_heywood.jpg)
 
 ### Related:
 

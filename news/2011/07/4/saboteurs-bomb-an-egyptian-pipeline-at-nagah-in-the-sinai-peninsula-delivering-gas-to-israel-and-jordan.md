@@ -9,6 +9,7 @@ Unknown attackers blow up Sinai pipeline that supplies gas to Jordan and Israel.
 
 1. [AFP via ''Jakarta Post](http://www.thejakartaglobe.com/afp/saboteurs-bomb-egypt-gas-pipeline-to-israel-jordan/450645)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011740176861868.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/28/20114289181132784_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A court in Egypt sentences 11 supporters of deposed President Mohammed Morsi to 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27176608)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74468000/jpg/_74468047_021675755.jpg)
 
 ### Related:
 

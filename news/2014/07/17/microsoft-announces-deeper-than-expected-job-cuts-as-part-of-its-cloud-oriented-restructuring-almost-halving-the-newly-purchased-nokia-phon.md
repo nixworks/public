@@ -8,6 +8,7 @@ Microsoft Chief Executive Officer Satya Nadella kicked off one of the largest la
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/17/us-microsoft-employment-idUSKBN0FM1EH20140717)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140717&t=2&i=936811169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6G0KB)
 
 ### Related:
 

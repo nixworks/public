@@ -9,6 +9,7 @@ House Republicans plan to vote Thursday on the latest version of the American He
 
 1. [CNN](http://www.cnn.com/2017/05/04/politics/health-care-vote/)
 2. [Fox News](http://www.foxnews.com/politics/2017/05/04/republican-health-care-bill-whats-in-it.html)
+2. [Cover Image](//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/04/0/0/694940094001_5421590396001_5421562127001-vs.jpg?ve=1)
 
 ### Related:
 

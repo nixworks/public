@@ -8,6 +8,7 @@ A tiny, winged fossil could shed light on the origins of swift and hummingbird f
 ### Source:
 
 1. [Science World Report](http://www.scienceworldreport.com/articles/6573/20130501/tiny-winged-fossil-reveals-origins-speedy-swift-hummingbird-flight.htm)
+1. [Cover Image](http://images.scienceworldreport.com/data/images/full/4500/fossil-bird.jpg)
 
 ### Related:
 

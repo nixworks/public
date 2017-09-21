@@ -8,6 +8,7 @@ Eight people were killed and 25 wounded in a suicide bomb attack on Monday on a 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/08/12/uk-iraq-violence-bomber-idUKBRE97B0KK20130812)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

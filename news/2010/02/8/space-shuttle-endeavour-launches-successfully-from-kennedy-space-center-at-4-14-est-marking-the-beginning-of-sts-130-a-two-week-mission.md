@@ -8,6 +8,7 @@ Shuttle Endeavour lifted off from Florida before dawn Monday, the last scheduled
 ### Source:
 
 1. [UPI](http://www.upi.com/Daily-Briefing/2010/02/08/Shuttle-launched/UPI-80011265639067/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/80011265639067/2010/3/3c3d57f6464098b055a83c543558b0d7/v2.1/Shuttle-launched.jpg)
 
 ### Related:
 

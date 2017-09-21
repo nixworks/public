@@ -8,6 +8,7 @@ A Unity in the Park concert event turned into panic after shots were fired into 
 ### Source:
 
 1. [19 Action News](http://www.19actionnews.com/story/15180524/ems-four-people-shot-during-george-clinton-concert-at-e116th-and-kinsman)
+1. [Cover Image](http://woio.images.worldnow.com/images/15180524_BG2.jpg)
 
 ### Related:
 

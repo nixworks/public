@@ -8,6 +8,7 @@ State officials said approximately 800 stranded motorists were rescued Friday al
 ### Source:
 
 1. [Bismarck Tribune](http://www.bismarcktribune.com/news/local/article_183f06f0-4c1f-11e0-af7b-001cc4c002e0.html)
+1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/c/a9/ca9ed2f2-4c2f-11e0-aac9-001cc4c03286/4d7aa3954b0c5.preview-300.jpg?crop=300%2C169%2C0%2C18&amp;resize=356%2C200&amp;order=crop%2Cresize)
 
 ### Related:
 

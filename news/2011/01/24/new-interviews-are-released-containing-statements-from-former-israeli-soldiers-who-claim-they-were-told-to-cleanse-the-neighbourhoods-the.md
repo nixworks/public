@@ -9,6 +9,7 @@ Israel&#039;s controversial invasion of Gaza deliberately aimed to &#034;cleanse
 
 1. [Channel 4](http://www.channel4.com/news/israeli-soldiers-ordered-to-cleanse-gaza)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8276943/Israel-aimed-to-cleanse-Gaza-neighbourhoods-in-2008-invasion.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01809/Gaza_1809452a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Sultan of Kelantan, Sultan Muhammad V is set to become the 15th Yang di-Pert
 ### Source:
 
 1. [Malaysian Outlook](http://www.malaysiaoutlook.com/sultan-muhammad-v-set-to-reign-as-the-15th-yang-di-pertuan-agong/)
+1. [Cover Image](http://www.malaysiaoutlook.com/wp-content/uploads/2016/12/sultan-kelantan2.jpg)
 
 ### Related:
 

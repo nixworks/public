@@ -9,6 +9,7 @@
 
 1. [Fox News](http://www.foxnews.com/scitech/2010/04/14/obama-vs-neil-armstrong-nasa-constellation/?test=latestnews)
 2. [The Telegraph](http://www.telegraph.co.uk/science/space/7590756/Barack-Obama-to-unveil-bold-space-mission-to-send-astronauts-to-Mars.html)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2010/04/14/obama-vs-neil-armstrong-nasa-constellation/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1421867742777.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Maldives opposition leader, Sheikh Imran Abdulla, is convicted of terrorism ov
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-35593011)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15F68/production/_88306998_008960883-1.jpg)
 
 ### Related:
 

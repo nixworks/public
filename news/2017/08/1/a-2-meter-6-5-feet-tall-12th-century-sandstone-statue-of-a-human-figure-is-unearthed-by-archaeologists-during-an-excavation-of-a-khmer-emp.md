@@ -8,6 +8,7 @@ The discovery at Angkor Wat has been described as &quot;like something that only
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-40788658)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/13BF4/production/_97148808_37ea8ddc-8868-4a5a-bf8b-b91bbe6333a9.jpg)
 
 ### Related:
 

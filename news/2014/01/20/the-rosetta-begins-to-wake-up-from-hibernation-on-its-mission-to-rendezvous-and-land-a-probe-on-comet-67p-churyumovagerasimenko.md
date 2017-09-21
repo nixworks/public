@@ -8,6 +8,7 @@ European Space Agency controllers wait for a signal from the Rosetta probe that 
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/science-environment-25782249)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72376000/jpg/_72376241_rosetta_-_the_comet_chaser.jpg)
 
 ### Related:
 

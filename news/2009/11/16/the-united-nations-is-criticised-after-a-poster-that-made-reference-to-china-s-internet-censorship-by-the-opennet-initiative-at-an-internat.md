@@ -10,6 +10,7 @@ The United Nations is drawing fire after disrupting a meeting of rights activist
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h2sbeua-b-jM_2xSM-f4mFsiFFJQD9C0PH4G0)
 2. [BBC](http://news.bbc.co.uk/1/hi/technology/8361849.stm)
 3. [CBC](http://www.cbc.ca/technology/story/2009/11/16/internet-censorship--governance-egypt.html)
+3. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

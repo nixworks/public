@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez died on Tuesday after a two-year battle with ca
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/03/05/us-venezuela-chavez-idUSBRE92405420130305)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130305&t=2&i=709939287&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9241PUS00)
 
 ### Related:
 

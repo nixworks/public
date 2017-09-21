@@ -8,6 +8,7 @@ Three Chinese anti-graft activists who agitated for officials to disclose their 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/28/us-china-corruption-idUSBRE99Q0C920131028)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131028&t=2&i=806724122&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99Q1N1900)
 
 ### Related:
 

@@ -8,6 +8,7 @@ As the outgoing host mulls his own network, FNC is eager to fill his slot with s
 ### Source:
 
 1. [The Wrap](http://www.thewrap.com/media/column-post/whats-next-glenn-beck-and-fox-news-26213)
+1. [Cover Image](http://www.thewrap.com/wp-content/themes/thewrap-canvas/imgs/LOGO_TW.jpg)
 
 ### Related:
 

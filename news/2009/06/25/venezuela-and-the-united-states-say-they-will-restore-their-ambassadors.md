@@ -8,6 +8,7 @@ Venezuela and the United States said yesterday they will restore their ambassado
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0625/breaking1.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Grandma Kris Jenner says the parents are fine and their new addition is a knocko
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/people/2013/06/15/kim-kardashian-gives-brth/2388593/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

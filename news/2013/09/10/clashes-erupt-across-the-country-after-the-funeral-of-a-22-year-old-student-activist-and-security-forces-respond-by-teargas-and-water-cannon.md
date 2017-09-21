@@ -8,3 +8,4 @@ Clashes have erupted across Turkey following an activist&#039;s funeral, whose d
 ### Source:
 
 1. [Russia Today](http://rt.com/news/turkey-protest-clashes-death-685/)
+1. [Cover Image](https://img.rt.com/files/news/20/64/d0/00/turkey-protest-clashes-death.si.jpg)

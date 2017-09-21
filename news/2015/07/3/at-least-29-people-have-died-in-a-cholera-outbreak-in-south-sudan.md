@@ -8,6 +8,7 @@ At least 29 people have died in a cholera outbreak in war-torn South Sudan with 
 ### Source:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-03/304959-cholera-deaths-in-south-sudan-rise-thousands-at-risk-un.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/07/03/432425_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

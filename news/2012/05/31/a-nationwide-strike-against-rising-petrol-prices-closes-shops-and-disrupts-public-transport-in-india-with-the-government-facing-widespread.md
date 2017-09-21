@@ -8,6 +8,7 @@ Cities disrupted as opposition parties and trade unions call nationwide protest 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/05/20125319563551660.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/31/201253110012212734_20.jpg)
 
 ### Related:
 

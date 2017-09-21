@@ -8,6 +8,7 @@ Two people have been killed and seven others injured following a plane crash in 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0705/planecrash.html)
+1. [Cover Image](https://img.rasset.ie/0000eeb3-1600.jpg)
 
 ### Related:
 

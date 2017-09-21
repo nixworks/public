@@ -8,6 +8,7 @@ There’s a statesmanship – a vision, a morality and a core – to her that wa
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/commentisfree/2017/may/29/angela-merkel-leader-free-world-donald-trump)
+1. [Cover Image](https://i.guim.co.uk/img/media/1df61a2b197bb1a5a07afb1ff15491e52e8150d6/0_270_2423_1453/master/2423.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=68350c7ad52ac195296bcdc62147a76d)
 
 ### Related:
 

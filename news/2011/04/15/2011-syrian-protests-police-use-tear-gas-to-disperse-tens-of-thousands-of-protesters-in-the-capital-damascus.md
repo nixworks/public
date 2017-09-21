@@ -8,6 +8,7 @@ Syrian security forces in the capital Damascus use tear gas and batons to disper
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13097926)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52175000/jpg/_52175034_011657014-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/04/22/diplomat-eu-drops-sanctions-against-myanmar-to-support-country-path-toward/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

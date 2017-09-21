@@ -8,6 +8,7 @@ Around 260 members of the outlawed Kurdistan Workers Party (PKK) have been kille
 ### Source:
 
 1. [AFP via Yahoo! News](https://uk.news.yahoo.com/260-pkk-members-killed-turkey-air-strikes-report-062704477.html#xUegIDm)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/tNj1NwVBQXrziAq.tVfqJg--/aD00OTQ7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/94ef15094ca84704e9ba6dd1a46ba759eeb3d645.jpg)
 
 ### Related:
 

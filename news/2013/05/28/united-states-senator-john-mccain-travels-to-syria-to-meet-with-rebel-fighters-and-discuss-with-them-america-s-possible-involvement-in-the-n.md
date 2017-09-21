@@ -10,6 +10,7 @@
 1. [IANS via OneIndia](http://news.oneindia.in/2013/05/29/russia-evacuates-130-people-from-syria-1227152.html)
 2. [Le Monde](http://www.lemonde.fr/proche-orient/article/2013/05/27/chemical-war-in-syria_3417708_3218.html)
 3. [Reuters](http://www.reuters.com/article/2013/05/27/us-syria-crisis-usa-mccain-idUSBRE94Q0HU20130527)
+3. [Cover Image](http://www.oneindia.com/img/2013/05/29-russian-flag-on-map.jpg)
 
 ### Related:
 

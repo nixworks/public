@@ -10,6 +10,7 @@ Hundreds of suspected al-Qaeda gunmen have captured the southern Yemeni city of 
 1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/yemen-may-29-2011-1024)
 2. [TV New Zealand](http://tvnz.co.nz/world-news/three-french-aid-workers-missing-in-yemen-4196710)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/yemen/8544577/Al-Qaeda-gunmen-seize-Yemen-city-Zinjiba.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01750/anwar_1750203a.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Police in Berlin arrest the Canadian porn actor wanted for the murder and dismem
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18325047)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-2154389/Luka-Rocco-Magnotta-Cannibal-porn-star-arrested.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60690000/jpg/_60690050_60690049.jpg)
 
 ### Related:
 

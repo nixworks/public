@@ -8,6 +8,7 @@ To the liberal Democratic faithful, Mr. McGovern remained a standard-bearer well
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/10/22/us/politics/george-mcgovern-a-democratic-presidential-nominee-and-liberal-stalwart-dies-at-90.html?pagewanted=all&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2012/10/17/obituaries/MCGOVERN-OBIT-slide-X8UR/MCGOVERN-OBIT-slide-X8UR-superJumbo.jpg)
 
 ### Related:
 

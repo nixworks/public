@@ -10,6 +10,7 @@ Public transport and services shut down as workers protest government spending c
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/06/20106295562844389.html)
 2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65S2OH20100629)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/29/c_13375774.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

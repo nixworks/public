@@ -9,6 +9,7 @@ Kurdish forces who have launched an offensive to retake Sinjar from Islamic Stat
 
 1. [NBC News](http://www.nbcnews.com/storyline/isis-terror/kurds-launch-offensive-retake-isis-held-iraqi-town-sinjar-n461846)
 2. [Reuters](http://www.reuters.com/article/2015/11/12/us-mideast-crisis-iraq-sinjar-idUSKCN0T10AL20151112#wYoUOyYq66LDChsq.97)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151112&t=2&i=1094294985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAB0AS)
 
 ### Related:
 

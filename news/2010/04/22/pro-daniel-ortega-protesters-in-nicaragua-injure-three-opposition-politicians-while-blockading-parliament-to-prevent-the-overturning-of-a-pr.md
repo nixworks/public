@@ -8,6 +8,7 @@ Protesters blockade parliament amid growing stand-off over presidential decree.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/04/20104221165645513.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

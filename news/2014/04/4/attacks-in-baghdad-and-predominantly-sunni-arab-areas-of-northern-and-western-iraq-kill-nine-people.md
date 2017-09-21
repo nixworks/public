@@ -8,6 +8,7 @@ BAGHDAD: Attacks in Baghdad and predominantly Sunni Arab areas of northern and w
 ### Source:
 
 1. [AFP via the ''Cairo Post](http://thecairopost.com/news/105132/news/iraq-attacks-kill-nine-as-election-looms)
+1. [Cover Image](http://thecairopost.youm7.com/wp-content/uploads/2014/04/2014-635322213613511015-351.jpg)
 
 ### Related:
 

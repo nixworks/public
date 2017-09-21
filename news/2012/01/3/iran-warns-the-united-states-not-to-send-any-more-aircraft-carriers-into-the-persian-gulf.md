@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/01/03/us-iran-usa-idUSTRE80208P20120103)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120103&t=2&i=553903987&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE80212FX00)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Almost 6,000 web shops are unknowingly harbouring malicious code that is stealin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-37643754)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15EC9/production/_91910898_thinkstockphotos-518897678.jpg)

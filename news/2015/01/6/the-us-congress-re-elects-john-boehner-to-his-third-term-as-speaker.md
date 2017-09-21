@@ -8,6 +8,7 @@ House Speaker John Boehner, R-Ohio, faces a test of support on the first day of 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/politics/2015/01/06/first-congress-boehner-election/21330229/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot 
 ### Source:
 
 1. [AFP via Yahoo News](http://news.yahoo.com/mig-23-fighter-shot-down-over-libyas-benghazi-212631215.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ogAhWUezU_lQqJ8IyRAX7g--/aD02MDQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6023996-1-1-0.jpg)
 
 ### Related:
 

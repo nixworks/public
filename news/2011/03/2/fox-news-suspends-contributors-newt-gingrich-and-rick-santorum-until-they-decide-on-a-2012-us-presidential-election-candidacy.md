@@ -8,6 +8,7 @@ They&#39;re off the payroll until they decide about 2012.
 ### Source:
 
 1. [Politico](http://www.politico.com/news/stories/0311/50505.html)
+1. [Cover Image](http://s3-origin-images.politico.com/news/110302_gingrich_santorum_ap_328.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Work and Pensions Secretary Iain Duncan Smith&#039;s department has made a forma
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/iain-duncan-smith-attacks-bbc-correspondent-for-peeing-all-over-british-industry-8061246.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/politics/9485510/Iain-Duncan-Smith-in-attack-on-BBC-over-jobless-figures.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/08/19/10/ids.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/tech/2014/12/12/microsoft-to-spill-windows-10-beans-jan-21)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2014/12/12/microsoft-to-spill-windows-10-beans-jan-21/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446692575741.jpg?ve=1)
 
 ### Related:
 

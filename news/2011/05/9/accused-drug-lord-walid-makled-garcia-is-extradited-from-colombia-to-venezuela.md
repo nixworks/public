@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/05/09/venezuela.colombia.extradition/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/05/09/venezuela.colombia.extradition/tzvids.walid.makled.gi.jpg)
 
 ### Related:
 

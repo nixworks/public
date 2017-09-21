@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rediff News](http://in.rediff.com/sports/2004/jul/04wimb.htm)
+1. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)
 
 ### Related:
 

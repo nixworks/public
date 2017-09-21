@@ -10,6 +10,7 @@ To the great surprise of pollsters and the regret of the government, the Swiss o
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009112915164769444.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8385069.stm)
 3. [Swissinfo](http://www.swissinfo.ch/eng/front/Minaret_ban_approved_by_57_per_cent_of_voters.html?siteSect=105&sid=11554852&cKey=1259511693000&ty=st)
+3. [Cover Image](http://www.swissinfo.ch/blob/7791724/365999a4c7f38d024abb6af3a9231b9c/keyimg20091129-11554119-2-data.jpg)
 
 ### Related:
 

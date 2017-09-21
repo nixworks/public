@@ -9,6 +9,7 @@ A United Nations General Assembly committee has adopted a North Korea human righ
 
 1. [Reuters via CBS News](http://www.cbsnews.com/news/united-nations-human-rights-councils-commission-of-inquiry-condemns-north-korea-for-gross-human/)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/11/19/UN-committee-denounces-North-Korea-human-rights-violations/1891447986491/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/1891447986491/2015/1/c36ad97a4a8352055913f8c8a96ee0a5/v1.5/UN-committee-denounces-North-Korea-human-rights-violations.jpg)
 
 ### Related:
 

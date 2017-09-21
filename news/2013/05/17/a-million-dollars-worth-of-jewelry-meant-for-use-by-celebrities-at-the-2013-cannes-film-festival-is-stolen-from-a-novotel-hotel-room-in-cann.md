@@ -8,6 +8,7 @@ More than $1m (£650,000) worth of jewels have been stolen from a hotel in the F
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22567649)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67667000/jpg/_67667720_67667718.jpg)
 
 ### Related:
 

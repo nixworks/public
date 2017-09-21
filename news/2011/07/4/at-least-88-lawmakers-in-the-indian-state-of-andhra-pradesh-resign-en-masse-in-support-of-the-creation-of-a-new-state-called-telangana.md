@@ -10,6 +10,7 @@ The Telangana spectre returned to haunt the Centre with 78 MLAs from across the 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14009929)
 2. [The Hindu](http://www.thehindu.com/news/national/article2158170.ece)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/Telangana-on-the-boil-again-78-MLAs-10MPs-resign/articleshow/9105090.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

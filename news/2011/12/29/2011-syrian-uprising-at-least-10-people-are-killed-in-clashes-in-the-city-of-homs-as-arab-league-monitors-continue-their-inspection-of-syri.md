@@ -8,6 +8,7 @@ Arab League peace monitors spread to various parts of Syria but anti-government 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16350047)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57599000/jpg/_57599406_013596395-2.jpg)
 
 ### Related:
 

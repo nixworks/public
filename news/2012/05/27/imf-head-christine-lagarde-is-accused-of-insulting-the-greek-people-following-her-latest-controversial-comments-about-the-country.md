@@ -8,6 +8,7 @@ Political parties in Greece criticise IMF head Christine Lagarde for suggesting 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18227230)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60518000/jpg/_60518990_014836864-1.jpg)
 
 ### Related:
 

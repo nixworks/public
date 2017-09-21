@@ -9,6 +9,7 @@ Somali authorities seized twoaircraft carrying $3.6 million in ransom payments f
 
 1. [Bernama](http://www.bernama.com.my/bernama/v5/newsworld.php?id=588861)
 2. [Reuters](http://www.reuters.com/article/2011/05/24/somalia-piracy-planes-idUSLDE74N1DN20110524)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

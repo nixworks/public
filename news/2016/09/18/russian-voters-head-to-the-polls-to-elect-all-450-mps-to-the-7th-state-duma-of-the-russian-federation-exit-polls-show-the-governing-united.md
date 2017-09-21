@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37382850)
 2. [The Duran](http://theduran.com/first-exit-polls-russia-election-point-another-win-putin-party/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16276/production/_91224709_ruselectionwomanafp14sep16.jpg)
 
 ### Related:
 

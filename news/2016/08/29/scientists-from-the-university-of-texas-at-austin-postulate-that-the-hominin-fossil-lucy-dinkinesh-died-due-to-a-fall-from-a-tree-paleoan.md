@@ -8,6 +8,7 @@ New analysis suggests that Lucy—one of the most complete hominin fossils ever 
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/2016/08/lucy-tree-fall-human-ancestor/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2016/08/29/lucy/01-lucy-death-hominin.ngsversion.1472238428205.adapt.1900.1.jpg)
 
 ### Related:
 

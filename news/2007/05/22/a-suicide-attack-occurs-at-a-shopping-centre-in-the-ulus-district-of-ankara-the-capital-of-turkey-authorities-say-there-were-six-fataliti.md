@@ -9,6 +9,7 @@
 
 1. [Hürriyet](http://www.hurriyet.com.tr/gundem/6563491.asp?gid=180)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L22619461.htm)
+2. [Cover Image](http://i.hurimg.com/i/hurriyet/75/0x0/55eaf210f018fbb8f8a0dc5c.gif)
 
 ### Related:
 

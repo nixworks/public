@@ -8,6 +8,7 @@ Oil prices rose to their highest in two weeks on Tuesday, aided by a broad rush 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/05/us-markets-oil-idUSTRE7592LE20110705)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

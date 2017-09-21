@@ -10,6 +10,7 @@
 1. [RTÉ](http://www.rte.ie/news/2011/0404/callelyi.html)
 2. [TV3](http://www.tv3.ie/article.php?article_id=56745&locID=1.2&pagename=news)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0404/breaking28.html)
+3. [Cover Image](https://img.rasset.ie/000462a6-1600.jpg)
 
 ### Related:
 

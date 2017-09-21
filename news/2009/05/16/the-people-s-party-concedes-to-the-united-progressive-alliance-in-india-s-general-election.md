@@ -8,6 +8,7 @@ India&#039;s main opposition has admitted defeat as counting shows the ruling Co
 ### Source:
 
 1. [AFP/BBC via ABC Australia](http://www.abc.net.au/news/stories/2009/05/16/2572515.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1685040-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Van Cliburn, the internationally celebrated pianist whose triumph at a 1958 Mosc
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/02/27/american-classical-pianist-van-cliburn-dies-at-78/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

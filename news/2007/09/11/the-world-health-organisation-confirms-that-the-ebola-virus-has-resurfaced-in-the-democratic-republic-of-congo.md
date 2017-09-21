@@ -8,6 +8,7 @@ The lethal Ebola virus has resurfaced in central Congo, U.N. officials said, and
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/12/world/africa/12ebola.html?em&ex=1189656000&en=54004381e2e57ce6&ei=5087%0A)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

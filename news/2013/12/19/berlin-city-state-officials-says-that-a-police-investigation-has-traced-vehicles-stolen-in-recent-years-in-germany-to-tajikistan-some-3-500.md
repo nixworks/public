@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304773104579268273395689970)
+1. [Cover Image](https://si.wsj.net/img/WSJ_Logo_black_social.gif)
 
 ### Related:
 

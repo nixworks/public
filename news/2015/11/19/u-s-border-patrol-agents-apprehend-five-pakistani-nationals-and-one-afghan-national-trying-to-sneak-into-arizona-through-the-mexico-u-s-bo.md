@@ -8,6 +8,7 @@ Border Patrol agents say they have apprehended five Pakistani Nationals and one 
 ### Source:
 
 1. [Fox 10 Phoenix](http://www.fox10phoenix.com/news/arizona-news/51673004-story)
+1. [Cover Image](http://static.lakana.com/media.fox10phoenix.com/photo/2015/10/22/Border_Patrol_1445575248418_395787_ver1.0_640_360.jpg)
 
 ### Related:
 

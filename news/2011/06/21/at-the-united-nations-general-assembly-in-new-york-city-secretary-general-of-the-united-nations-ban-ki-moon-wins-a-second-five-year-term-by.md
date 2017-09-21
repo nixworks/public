@@ -10,6 +10,7 @@ Former South Korean foreign minister re-elected by acclamation as secretary gene
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/06/2011621161148676944.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13868655)
 3. [news.com.au](http://www.news.com.au/breaking-news/ban-elected-for-second-term-as-un-leader/story-e6frfku0-1226079629504)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/22/2011622514450734_20.jpg)
 
 ### Related:
 

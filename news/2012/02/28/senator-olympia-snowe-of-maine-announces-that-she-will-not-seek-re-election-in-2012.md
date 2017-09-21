@@ -8,6 +8,7 @@ The retirement of the Republican senator from Maine could reconfigure the race f
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/02/29/us/politics/snowe-opts-not-to-seek-re-election-in-maine.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/02/29/us/29snowe2_span/29snowe2_span-thumbStandard.jpg)
 
 ### Related:
 

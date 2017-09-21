@@ -8,6 +8,7 @@ Secretary of State John F. Kerry held separate talks with Israeli and Palestinia
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-israel-palestinians-kerry-20151124-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5654950c/turbine/la-fg-israel-palestinians-kerry-20151124)
 
 ### Related:
 

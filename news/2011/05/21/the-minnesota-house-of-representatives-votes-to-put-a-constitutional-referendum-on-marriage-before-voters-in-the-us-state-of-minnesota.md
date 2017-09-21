@@ -8,6 +8,7 @@ After a long and passionate debate, the House passed a proposed constitutional a
 ### Source:
 
 1. [Minnesota Star-Tribune](http://www.startribune.com/politics/statelocal/122401039.html)
+1. [Cover Image](http://stmedia.stimg.co/ericroper_1306042896_vote.JPG?h=630&amp;w=1200&amp;fit=crop&amp;bg=999&amp;crop=faces)
 
 ### Related:
 

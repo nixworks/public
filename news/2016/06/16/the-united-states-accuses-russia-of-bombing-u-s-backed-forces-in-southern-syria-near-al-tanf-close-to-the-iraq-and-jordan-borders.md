@@ -10,6 +10,7 @@ Airstrikes were conducted in southern Syria, where Russian aircraft have &quot;n
 1. [New York Times](http://www.nytimes.com/2016/06/17/world/middleeast/syria-assad-obama-airstrikes-diplomats-memo.html?emc=edit_na_20160616&nlid=66213151&ref=cta&_r=0)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-usa-cable-idUSKCN0Z3087)
 3. [Washington Examiner](http://www.washingtonexaminer.com/pentagon-russia-bombed-u.s.-backed-rebels-in-syria/article/2594178)
+3. [Cover Image](http://cdn.washingtonexaminer.biz/cache/r960-ad24bf7221b393fa6b2064124b6921ee.jpg?v=2017.01.10.01)
 
 ### Related:
 

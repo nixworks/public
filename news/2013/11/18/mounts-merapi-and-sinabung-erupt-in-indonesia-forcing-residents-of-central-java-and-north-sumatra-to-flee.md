@@ -8,6 +8,7 @@ Two volcanoes erupted Monday in Indonesia, prompting warnings for flights and ev
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/11/17/2-volcanoes-in-indonesia-erupt-prompting-warnings-for-flights-and-evacuation/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

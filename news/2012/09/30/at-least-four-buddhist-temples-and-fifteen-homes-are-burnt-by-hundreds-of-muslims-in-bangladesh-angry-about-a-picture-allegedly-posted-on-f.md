@@ -9,6 +9,7 @@ Hundreds of Muslim protesters attack Buddhist villages in Bangladesh, after an i
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19780692)
 2. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Protesters-torch-Buddhist-temples-homes-in-Bangladesh/articleshow/16611659.cms?)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63208000/jpg/_63208632_63208631.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ JPMorgan Chase & Co has reached a tentative $13 billion (8.03 billion pounds) ag
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/10/19/uk-jpmorgan-settlement-idUKBRE99I08Y20131019)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131019&t=2&i=804362485&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99I1GMZ00)
 
 ### Related:
 

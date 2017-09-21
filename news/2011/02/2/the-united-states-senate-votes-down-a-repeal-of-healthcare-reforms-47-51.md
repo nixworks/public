@@ -8,6 +8,7 @@ The Senate on Wednesday rejected Mitch McConnell&#039;s effort to repeal of Pres
 ### Source:
 
 1. [The Hill](http://thehill.com/blogs/healthwatch/health-reform-implementation/141829-senate-rejects-healthcare-repeal)
+1. [Cover Image](http://thehill.com/sites/default/files/mcconnellwalkinggetty.jpg)
 
 ### Related:
 

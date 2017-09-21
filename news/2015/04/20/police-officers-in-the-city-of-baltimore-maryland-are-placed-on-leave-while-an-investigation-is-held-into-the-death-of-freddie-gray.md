@@ -8,6 +8,7 @@ City police wrote in court documents that Freddie Gray was arrested &quot;withou
 ### Source:
 
 1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/crime/blog/bs-md-ci-freddie-gray-arrest-documents-20150420-story.html)
+1. [Cover Image](http://www.trbimg.com/img-55350e4f/turbine/bs-md-ci-freddie-gray-arrest-documents-20150420)
 
 ### Related:
 

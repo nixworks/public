@@ -10,6 +10,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 1. [ABC News](http://abcnews.go.com/International/wireStory/fighting-central-yemen-kills-32-39467306)
 2. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3615204/South-Yemen-clashes-kill-39.html)
 3. [FOX News](http://www.foxnews.com/world/2016/05/29/fighting-in-central-yemen-kills-32.html)
+3. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

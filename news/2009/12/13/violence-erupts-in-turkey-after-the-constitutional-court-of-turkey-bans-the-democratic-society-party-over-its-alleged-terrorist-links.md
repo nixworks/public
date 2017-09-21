@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912136152398809.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/dec/12/turkey-bans-main-kurdish-party)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

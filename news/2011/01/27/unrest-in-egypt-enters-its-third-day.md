@@ -10,6 +10,7 @@ Authorities in Egypt brace for more demonstrations, following two days of unrest
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112734210243448.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12294804)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/27/c_13709987.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Europe was plunged into fresh crisis on Friday as Austria&rsquo;s courts ordered
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/01/austria-court-orders-presidential-election-re-run-after-far-righ/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/07/01/102162714_Hofer-xlarge_trans_NvBQzQNjv4BqFVq1ryR5wTJeBBSomGzQV_G6IiTJNwFP9sqwmoungCc.jpg)
 
 ### Related:
 

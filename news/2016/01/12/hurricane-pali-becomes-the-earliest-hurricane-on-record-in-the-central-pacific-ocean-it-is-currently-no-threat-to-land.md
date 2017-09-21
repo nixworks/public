@@ -8,6 +8,7 @@ Still months away from the official start of the 2016 hurricane season, a hurric
 ### Source:
 
 1. [Weather Channel](http://www.weather.com/storms/hurricane/news/tropical-depression-one-c-pali-central-pacific?cm_ven=T_WX_L:_11116_6)
+1. [Cover Image](http://s.w-x.co/pali_prim_0114am.jpg)
 
 ### Related:
 

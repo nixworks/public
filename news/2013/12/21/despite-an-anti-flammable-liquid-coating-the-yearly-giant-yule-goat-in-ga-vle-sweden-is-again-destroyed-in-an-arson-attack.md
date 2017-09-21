@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Expressen](http://www.expressen.se/nyheter/filmar-nar-de-slar-till-mot-bocken/)
+1. [Cover Image](https://y.cdn-expressen.se/images/53/7c/537c5e0655cb413c85229980e12abd65/912@70.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A vote to choose the leader of the Union for a Popular Movement party was consid
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/11/19/world/europe/french-opposition-vote-comes-up-too-close-to-call.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/11/19/world/FRANCE-1/FRANCE-1-superJumbo.jpg)
 
 ### Related:
 

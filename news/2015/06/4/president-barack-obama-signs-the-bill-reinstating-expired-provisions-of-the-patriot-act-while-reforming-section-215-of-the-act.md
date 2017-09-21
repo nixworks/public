@@ -8,6 +8,7 @@ The bill moves the storage of bulk telephone metadata used by the NSA to telecom
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/storyline/nsa-snooping/senate-vote-measure-reform-nsa-surveillance-n368341)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_21/1034396/150520-nsa_patriotact2016-1043_b3ca8cb3ed667bb7df13936f5f1f1096.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

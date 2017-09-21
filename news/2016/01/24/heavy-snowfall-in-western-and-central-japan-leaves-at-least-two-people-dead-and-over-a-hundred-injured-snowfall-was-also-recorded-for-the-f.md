@@ -8,6 +8,7 @@ Two people die and more than 100 are injured as a cold air mass grips the nation
 ### Source:
 
 1. [The Japan Times](http://www.japantimes.co.jp/news/2016/01/24/national/heavy-snow-hits-western-central-japan/#.VqTlTFK2pFQ)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2016/01/n-snow-a-20160125-870x1067.jpg)
 
 ### Related:
 

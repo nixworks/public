@@ -8,6 +8,7 @@ The Chilean government will subsidize the purchase of more fuel-efficient trucks
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/01/chile-launches-trucks-scrappage-plan-to-boost-economy-and-fight-pollution)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21751/200x200/f9b27af4ba02bb2c6fa35cf8f9784194.jpg)
 
 ### Related:
 

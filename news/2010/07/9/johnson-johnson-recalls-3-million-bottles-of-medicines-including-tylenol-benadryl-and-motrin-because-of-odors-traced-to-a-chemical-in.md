@@ -8,6 +8,7 @@ Johnson &amp; Johnson provided additional details on Friday about its two most r
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE66865120100709?type=domesticNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

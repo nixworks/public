@@ -8,6 +8,7 @@ Heavy clashes between Syrian troops and rebels trying to break a government sieg
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/11/24/160-killed-syria-siege/3691503/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

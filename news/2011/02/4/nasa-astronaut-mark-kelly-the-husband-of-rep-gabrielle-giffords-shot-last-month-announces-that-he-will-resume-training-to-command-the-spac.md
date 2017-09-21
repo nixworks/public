@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Politico](http://www.politico.com/news/stories/0211/48830.html)
+1. [Cover Image](http://s3-origin-images.politico.com/news/110203_kelly_nasa_ap_605.jpg)
 
 ### Related:
 

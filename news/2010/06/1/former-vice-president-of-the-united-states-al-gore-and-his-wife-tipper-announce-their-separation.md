@@ -8,6 +8,7 @@ Another sad sign today of the toll that public life can take on families: Former
 ### Source:
 
 1. [USA Today](http://content.usatoday.com/communities/theoval/post/2010/06/al-and-tipper-gore-are-separating/1)
+1. [Cover Image](http://i.usatoday.net/communitymanager/_photos/the-oval/2010/06/01/al-tipperx-inset-community.jpg)
 
 ### Related:
 

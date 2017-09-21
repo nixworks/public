@@ -8,6 +8,7 @@ The shooting occurred about 1 a.m. Tuesday inside the store. Police said there i
 ### Source:
 
 1. [Minneapolis Star Tribune](http://www.startribune.com/2-dead-several-injured-in-shooting-at-grand-forks-wal-mart/304982191/)
+1. [Cover Image](http://stmedia.stimg.co/marcellwillis-walmart052615.jpg?h=630&amp;w=1200&amp;fit=crop&amp;bg=999&amp;crop=faces)
 
 ### Related:
 

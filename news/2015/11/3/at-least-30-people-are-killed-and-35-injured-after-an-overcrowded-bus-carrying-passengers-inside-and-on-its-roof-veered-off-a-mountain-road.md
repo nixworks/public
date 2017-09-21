@@ -8,6 +8,7 @@ An official says an overcrowded bus carrying passengers inside and on its roof v
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/11/03/nepal-bus-accident/75080208/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

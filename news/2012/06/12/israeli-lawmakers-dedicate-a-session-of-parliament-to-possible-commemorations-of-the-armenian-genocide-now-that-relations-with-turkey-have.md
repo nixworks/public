@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/06/israeli-parliament-debates-armenian-genocide-amid-continued-tension-with-turkey.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef0176156063e3970c-120pi)
 
 ### Related:
 

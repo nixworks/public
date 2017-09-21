@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Gulf News](http://www.gulf-news.com/region/Kuwait/10133913.html)
+1. [Cover Image](http://static.gulfnews.com/media/img/gulfnews_logo.png?v=1)
 
 ### Related:
 

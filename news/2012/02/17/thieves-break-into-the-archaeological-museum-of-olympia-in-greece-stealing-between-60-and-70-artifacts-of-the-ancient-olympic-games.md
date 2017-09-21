@@ -9,6 +9,7 @@ Armed robbers steal dozens of priceless artefacts from a Greek museum in Olympia
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17071934)
 2. [Ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_wsite1_1_17/02/2012_428407)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58566000/jpg/_58566725_014030125-2.jpg)
 
 ### Related:
 

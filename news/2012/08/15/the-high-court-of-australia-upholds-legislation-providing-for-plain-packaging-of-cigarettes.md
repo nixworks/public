@@ -8,6 +8,7 @@ Australia&amp;#39;s High Court has upheld the world&amp;#39;s toughest laws on c
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/2012-08-15/australia-calls-on-rest-of-world-to-stand-up-to-big-tobacco/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/78094/59c629a21bca151c_1345011632_9j-4aaqsk.jpeg)
 
 ### Related:
 

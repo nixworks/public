@@ -8,6 +8,7 @@ Two people remain in detention in connection with alleged attack plot in Gothenb
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/20101030193145678596.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/30/2010103019391645630_20.jpg)
 
 ### Related:
 

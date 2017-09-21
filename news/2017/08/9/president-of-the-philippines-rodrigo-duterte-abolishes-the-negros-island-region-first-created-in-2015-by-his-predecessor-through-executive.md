@@ -9,6 +9,7 @@ Official Gazette of the Republic of the Philippines - The Official Gazette is th
 
 1. [Official Gazette of the Republic of the Philippines](http://www.officialgazette.gov.ph/2017/08/07/executive-order-no-38-s-2017/)
 2. [Rappler](http://www.rappler.com/nation/178175-duterte-dissolves-negros-island-region)
+2. [Cover Image](http://www.officialgazette.gov.ph/wp-content/themes/govph/assets/images/default-thumb.png)
 
 ### Related:
 

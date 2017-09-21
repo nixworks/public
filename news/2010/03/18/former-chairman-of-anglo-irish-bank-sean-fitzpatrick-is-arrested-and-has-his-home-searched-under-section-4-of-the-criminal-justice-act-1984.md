@@ -12,6 +12,7 @@ The former chairman of Anglo Irish Bank, Sean FitzPatrick, was said to be in cus
 3. [Sky News](http://news.sky.com/skynews/Home/Business/Fraud-Squad-Questions-Sean-FitzPatrick-Former-Head-Of-Anglo-Irish-Bank/Article/201003315576604?lpos=Business_First_Buisness_Article_Teaser_Region_3&lid=ARTICLE_15576604_Fraud_Squad_Questions_Sean_FitzPatrick%2C_Former_Head_Of_Anglo_Irish_Bank)
 4. [The New York Times](http://www.nytimes.com/2010/03/19/business/global/19anglobank.html)
 5. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/banking_and_finance/article7067473.ece)
+5. [Cover Image](https://static01.nyt.com/images/2010/03/19/business/19anglobank_CA0/19anglobank_CA0-thumbStandard.jpg)
 
 ### Related:
 

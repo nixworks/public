@@ -8,6 +8,7 @@ Authorities accused Lai Changxing of running a multi-billion-dollar smuggling ne
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/12/31/world/asia/lai-changxing-indicted-in-china.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2011/12/31/world/brief-lai/brief-lai-thumbStandard.jpg)
 
 ### Related:
 

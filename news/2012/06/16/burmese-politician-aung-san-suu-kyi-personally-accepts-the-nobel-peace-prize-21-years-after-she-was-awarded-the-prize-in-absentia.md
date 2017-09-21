@@ -9,6 +9,7 @@ The Myanmar activist said the prize helped her keep going in captivity.
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18464946)
 2. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0616/Aung-San-Suu-Kyi-accepts-Nobel-Peace-Prize-21-years-later)
+2. [Cover Image](http://images.csmonitor.com/csm/2012/06/0614-kii.jpg?alias=standard_900x600)
 
 ### Related:
 

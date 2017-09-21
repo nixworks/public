@@ -8,6 +8,7 @@ Entertainment legend Bruce Forsyth is knighted in a list which also recognises O
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13728375)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53362000/jpg/_53362236_012196274-1.jpg)
 
 ### Related:
 

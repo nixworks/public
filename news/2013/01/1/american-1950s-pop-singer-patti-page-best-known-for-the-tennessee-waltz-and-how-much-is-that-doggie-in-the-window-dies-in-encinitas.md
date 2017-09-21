@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC San Diego](http://www.nbcsandiego.com/news/local/Patti-Page-Died-Encinitas-Rancho-Santa-Fe-185415202.html)
+1. [Cover Image](http://media.nbcsandiego.com/images/1200*675/AP5801170191cropped.jpg)
 
 ### Related:
 

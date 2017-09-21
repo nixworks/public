@@ -8,6 +8,7 @@ Britain will help eliminate Syria¿s chemical stockpile by destroying 165 tons o
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-britain-syria-chemical-weapons-20131220,0,6721436.story#axzz2o2xyXGJi)
+1. [Cover Image](http://www.trbimg.com/img-52b48777/turbine/la-fg-wn-britain-syria-chemical-weapons-20131220)
 
 ### Related:
 

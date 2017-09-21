@@ -8,6 +8,7 @@ Kitty Wells, the long-reigning “Queen of Country Music” and the first woman 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/music/posts/la-et-ms-kitty-wells-obituary-country-music-dead-92-20120716,0,6691564.story)
+1. [Cover Image](http://www.trbimg.com/img-50047db9/turbine/la-et-ms-kitty-wells-obituary-country-music-dead-92-20120716)
 
 ### Related:
 

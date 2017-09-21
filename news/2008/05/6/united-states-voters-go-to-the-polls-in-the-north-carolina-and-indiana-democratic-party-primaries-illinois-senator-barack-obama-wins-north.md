@@ -9,6 +9,7 @@ Barack Obama won a commanding victory in the North Carolina primary but fell sho
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7384859.stm)
 2. [The New York Times](http://www.nytimes.com/2008/05/07/us/politics/06cnd-campaign.html)
+2. [Cover Image](https://static01.nyt.com/images/2008/05/06/us/07clinton03_75.jpg)
 
 ### Related:
 

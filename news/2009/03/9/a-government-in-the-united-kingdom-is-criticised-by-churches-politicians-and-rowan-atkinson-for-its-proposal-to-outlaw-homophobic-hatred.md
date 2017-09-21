@@ -8,6 +8,7 @@ Popular television characters could disappear from our screens if the Government
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/tvandradio/5011862/Popular-television-characters-could-vanish-from-screens-because-of-homophobia-law.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01368/daffyd_little_brit_1368703a.jpg)
 
 ### Related:
 

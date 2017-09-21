@@ -8,6 +8,7 @@ The African island nation of Sao Tome has cut diplomatic ties with Taiwan, offic
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-38388181)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/136D7/production/_93057597_gettyimages-459019272.jpg)
 
 ### Related:
 

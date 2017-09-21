@@ -8,6 +8,7 @@ Ecuador expels the US ambassador in Quito after the release of a US diplomatic c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12979967)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

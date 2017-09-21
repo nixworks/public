@@ -8,6 +8,7 @@ Parents in Polk County, Florida are outraged after learning that students in are
 ### Source:
 
 1. [RT](http://rt.com/usa/school-scan-iris-students-023/)
+1. [Cover Image](https://img.rt.com/files/news/1f/41/70/00/schools-conducted-iris-scans-on-students-without-permission.si.jpg)
 
 ### Related:
 

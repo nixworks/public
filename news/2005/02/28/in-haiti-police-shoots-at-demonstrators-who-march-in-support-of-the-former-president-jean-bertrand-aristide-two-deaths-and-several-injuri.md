@@ -11,6 +11,7 @@ At least 2 killed during pro-Aristide demonstration in Haiti.
 2. [CBC](http://www.cbc.ca/world/story/2005/02/28/haiti050228.html)
 3. [LATimes](http://www.latimes.com/news/nationworld/world/la-fg-ushaiti1mar01,1,16424.story?coll=la-headlines-world&ctrack=1&cset=true)
 4. [Reuters](http://www.alertnet.org/thenews/newsdesk/N28288180.htm)
+4. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

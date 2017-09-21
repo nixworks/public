@@ -8,6 +8,7 @@ Microsoft Corp (MSFT.O) executives are in early talks with potential Yahoo Inc (
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-microsoft-yahoo-idUSKCN0WS067)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160326&t=2&i=1127892521&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2P04V)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Chad troops enter the Central African Republic (CAR) to help fight rebels who ha
 ### Source:
 
 1. [ (BBC](http://www.bbc.co.uk/news/world-africa-20777922)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64853000/jpg/_64853630_64853629.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Pakistani minister and woman’s activist has been shot dead by an Islamic ext
 
 1. [FOX](http://www.foxnews.com/story/0,2933,253125,00.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article1414137.ece)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/story/2007/02/21/female-pakistani-minister-shot-dead-for-refusing-to-wear-veil/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422523849595.jpg?ve=1)
 
 ### Related:
 

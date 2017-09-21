@@ -8,6 +8,7 @@ MEXICO CITY — Salvadorans vote Sunday in a presidential election that may give
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/la-fg-salvador-elections-20140201,0,783017.story#axzz2s7RaxESO)
+1. [Cover Image](http://www.trbimg.com/img-52ec4ad3/turbine/la-fg-salvador-elections-20140201)
 
 ### Related:
 

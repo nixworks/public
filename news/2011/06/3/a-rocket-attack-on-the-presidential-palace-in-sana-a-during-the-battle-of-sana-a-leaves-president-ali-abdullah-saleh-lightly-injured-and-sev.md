@@ -9,6 +9,7 @@ Hours after surviving the shelling of a mosque at his presidential palace that k
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/03/yemen.unrest/index.html?section=cnn_latest)
 2. [Deseret News](http://www.deseretnews.com/mobile/article/700141205/Yemen-president-wounded-as-tribesmen-strike-palace.html)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/06/03/yemen.unrest/tzvids.yemen.june2.gi.afp.jpg)
 
 ### Related:
 

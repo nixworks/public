@@ -9,6 +9,7 @@ Thousands of Venezuelans marched for and against President Hugo Chavez on Saturd
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/01/2010123205847603488.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE60M1N120100123)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100123&t=2&i=49833784&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-23T212256Z_01_BTRE60M1NEM00_RTROPTP_0_VENEZUELA)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Four of the largest chocolate producers in Canada have agreed to pay more than $
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/business/chocolate-companies-to-pay-23-2m-in-price-fixing-class-action-1.1457685#ixzz2f8eIEOiL)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1314907.1370564424!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Hill](http://thehill.com/homenews/news/339104-michigan-judge-halts-deportation-of-more-than-100-iraqi-christians)
+1. [Cover Image](http://thehill.com/sites/default/files/blogs/aclu_romero_anthony_72670771.jpg)
 
 ### Related:
 

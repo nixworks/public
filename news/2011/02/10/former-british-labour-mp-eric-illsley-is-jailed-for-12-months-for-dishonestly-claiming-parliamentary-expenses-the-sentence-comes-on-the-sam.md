@@ -8,6 +8,7 @@ Former Labour MP Eric Illsley is sentenced to a year in jail for dishonestly cla
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12418223)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

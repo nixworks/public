@@ -8,6 +8,7 @@ Senator had come under fire for his views on race and civil rights in a tempestu
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/us-news/2017/feb/08/jeff-sessions-confirmed-attorney-general-senate)
+1. [Cover Image](https://i.guim.co.uk/img/media/0eddbdb001a512dbbf880d8821ce52cf771f8632/0_129_3000_1800/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0ea2d1043e33ef530278b29e4a4fcbed)
 
 ### Related:
 

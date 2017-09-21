@@ -8,6 +8,7 @@ The test-flight of the indigenously-developed supersonic combustion ramjet engin
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/isro-successfully-testfires-scramjet-rocket-engine/article9042486.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article14542500.ece/ALTERNATES/LANDSCAPE_615/28-atv_29833)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/201236123841695817.html)
 2. [Reuters](http://www.trust.org/alertnet/news/libyan-leader-says-autonomy-call-a-foreign-plot/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/6/201236135159557734_20.jpg)
 
 ### Related:
 

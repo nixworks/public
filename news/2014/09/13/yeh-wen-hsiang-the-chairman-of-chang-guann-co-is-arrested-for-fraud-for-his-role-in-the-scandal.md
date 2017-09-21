@@ -8,3 +8,4 @@ The head of a Taiwanese company at the centre of a widening food safety scandal 
 ### Source:
 
 1. [AFP via SBA](http://www.sbs.com.au/news/article/2014/09/13/taiwan-executive-detained-gutter-oil-food-safety-scandal-deepens)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20140909001027573233-original.jpg)

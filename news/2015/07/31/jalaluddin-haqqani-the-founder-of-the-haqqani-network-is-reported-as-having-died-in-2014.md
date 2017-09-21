@@ -8,6 +8,7 @@ Jalaluddin Haqqani, the Afghan founder of the militant Haqqani network, died at 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33740337?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1B3A/production/_84607960_gettyimages-155626966.jpg)
 
 ### Related:
 

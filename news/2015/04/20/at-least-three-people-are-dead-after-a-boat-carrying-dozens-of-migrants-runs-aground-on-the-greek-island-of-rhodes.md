@@ -8,6 +8,7 @@ A distress call about a migrant boat sinking in the Mediterranean Sea with 300 p
 ### Source:
 
 1. [The Independent](http://www.independent.ie/world-news/europe/at-least-three-dead-as-boat-runs-aground-off-greek-island-31156187.html)
+1. [Cover Image](http://www.independent.ie/incoming/article31156093.ece/ALTERNATES/h342/bodies008.jpg)
 
 ### Related:
 

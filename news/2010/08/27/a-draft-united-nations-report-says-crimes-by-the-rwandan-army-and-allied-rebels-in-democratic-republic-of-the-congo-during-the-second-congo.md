@@ -10,6 +10,7 @@ Killings by the Rwandan army and allied rebels in Zaire and DR Congo in the 1990
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11105289)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=nw20100827091245181C675450)
 3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE67Q02020100827?sp=true)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

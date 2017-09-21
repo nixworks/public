@@ -8,6 +8,7 @@ Seeking to control global warming, nearly 200 countries agreed Saturday to exten
 ### Source:
 
 1. [AP via Yahoo News](http://news.yahoo.com/un-conference-adopts-extension-kyoto-accord-161126143.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

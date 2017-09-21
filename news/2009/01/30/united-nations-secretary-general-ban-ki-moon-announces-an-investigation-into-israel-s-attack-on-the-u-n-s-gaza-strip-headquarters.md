@@ -8,6 +8,7 @@ Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/01/2009129232237121901.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

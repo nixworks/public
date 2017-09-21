@@ -8,6 +8,7 @@ Kristina Keneally will become the first female Premier of NSW after Nathan Rees 
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/national/keneally-first-female-nsw-premier-20091203-k8n0.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/k/8/m/y/image.related.articleLeadwide.620x349.k8n0.png/1259834101983.jpg)
 
 ### Related:
 

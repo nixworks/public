@@ -9,6 +9,7 @@ The search is back on for a spacecraft that disappeared during a landing attempt
 
 1. [Space.com](http://www.space.com/missionlaunches/050502_mpl_search.html)
 2. [Spaceflight Now](http://www.spaceflightnow.com/news/n0505/05mpl/)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMC85NjYvb3JpZ2luYWwvaF9tcGxfc2NoZW1hdGljXzAyLmpwZw==)
 
 ### Related:
 

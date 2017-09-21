@@ -9,6 +9,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/chinese-officials-begin-dismantle-tibetan-study-site-40793473)
 2. [BBC](http://www.bbc.com/news/world-asia-china-36863888)
+2. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

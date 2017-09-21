@@ -8,6 +8,7 @@ continues to be well supported by a large, diversified and highly competitive ec
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/13/idUSL2E8DDHER20120213)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

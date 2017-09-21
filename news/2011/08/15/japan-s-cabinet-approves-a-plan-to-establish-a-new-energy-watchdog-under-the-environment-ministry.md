@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Japan Today](http://www.japantoday.com/category/politics/view/cabinet-approves-plan-to-set-up-new-nuclear-watchdog)
+1. [Cover Image](https://www.japantoday.com/img/jt_logo_fb.gif)
 
 ### Related:
 

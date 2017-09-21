@@ -8,6 +8,7 @@ At least 17 people are killed and more than 90 injured by a large explosion at w
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16350832)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57600000/jpg/_57600181_013597259-1.jpg)
 
 ### Related:
 

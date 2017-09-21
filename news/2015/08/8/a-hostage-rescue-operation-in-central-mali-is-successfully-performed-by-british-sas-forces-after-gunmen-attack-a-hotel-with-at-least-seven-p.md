@@ -8,6 +8,7 @@ Five foreigners and several other hostages were freed overnight after they were 
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/World/2015/Aug-08/310245-foreigners-rescued-as-mali-hotel-siege-leaves-7-dead.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/08/08/443240_img650x420_img650x420_crop.jpeg)
 
 ### Related:
 

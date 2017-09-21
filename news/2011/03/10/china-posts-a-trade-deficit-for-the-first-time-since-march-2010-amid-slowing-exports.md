@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-12688877)
 2. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=465887&type=Business)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

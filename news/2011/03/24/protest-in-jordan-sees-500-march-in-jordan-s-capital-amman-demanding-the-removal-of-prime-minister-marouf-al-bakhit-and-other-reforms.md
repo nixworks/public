@@ -17,6 +17,7 @@ At least 10 people are killed after Syrian police open fire on people protesting
 8. [The Australian](http://www.theaustralian.com.au/news/world/air-force-destroyed-fierce-fighting-at-key-cities/story-e6frg6so-1226027356167)
 9. [The Australian](http://www.theaustralian.com.au/news/world/security-forces-reportedly-open-fire-outside-a-mosque/story-e6frg6so-1226027178517)
 10. [VoA](http://www.voanews.com/english/news/Coalition-Forces-Pound-Libya-as-African-Union-Brokers-Talks-118608614.html)
+10. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

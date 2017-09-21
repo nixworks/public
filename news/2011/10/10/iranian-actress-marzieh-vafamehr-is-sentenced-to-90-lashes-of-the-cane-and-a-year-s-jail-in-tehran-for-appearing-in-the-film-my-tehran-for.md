@@ -8,6 +8,7 @@ An Iranian actress has been sentenced to 90 lashes and a year in jail for her pa
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-10-11/iranian-actress-sentenced/3495518)
+1. [Cover Image](http://www.abc.net.au/news/image/3496040-1x1-700x700.jpg)
 
 ### Related:
 

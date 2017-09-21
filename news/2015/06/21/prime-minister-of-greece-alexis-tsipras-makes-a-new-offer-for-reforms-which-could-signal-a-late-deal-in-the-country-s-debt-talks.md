@@ -8,6 +8,7 @@ Greek debt talks are resuming after creditors accused the country&#x27;s Prime M
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/story/2015-06-21/greece-debt-crisis-tsipras-makes-last-minute-offer/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/698960/mobile_article_img.jpg)
 
 ### Related:
 

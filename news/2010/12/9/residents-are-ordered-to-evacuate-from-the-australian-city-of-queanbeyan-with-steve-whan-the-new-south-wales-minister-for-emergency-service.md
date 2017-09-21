@@ -8,6 +8,7 @@ Queanbeyan, south-east of Canberra, has been declared a natural disaster zone af
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/12/09/3089085.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/2360344-1x1-700x700.jpg)
 
 ### Related:
 

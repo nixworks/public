@@ -8,6 +8,7 @@ An Indian juvenile court defers its verdict in the case of an 18-year-old accuse
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23265994#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66546000/jpg/_66546193_65680328.jpg)
 
 ### Related:
 

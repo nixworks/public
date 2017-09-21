@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/01/28/us-albania-idUSTRE70R62A20110128)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110128&t=2&i=320207661&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-28T175937Z_01_BTRE70R1DZK00_RTROPTP_0_ALBANIA-SHOOTINGS)
 
 ### Related:
 

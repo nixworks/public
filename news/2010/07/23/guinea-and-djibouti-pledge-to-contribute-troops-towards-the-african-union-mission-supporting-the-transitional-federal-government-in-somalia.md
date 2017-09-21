@@ -9,6 +9,7 @@ Guinea and Djibouti pledge troops to peacekeeping force, despite al-Shabab threa
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gTz-wx7K176PNQZ5svb9PRWaz7sQD9H4PJP82)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/2010723133917713629.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

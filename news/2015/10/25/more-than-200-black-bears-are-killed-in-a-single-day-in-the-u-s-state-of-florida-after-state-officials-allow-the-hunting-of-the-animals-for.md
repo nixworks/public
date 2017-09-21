@@ -8,6 +8,7 @@ Supporters say the aim of the hunt is to cut down on the surging population but 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1575927/over-200-bears-killed-in-florida-as-hunt-allowed)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/2015-10-24t183245z-1-lynxnpeb9n0ch-rtroptp-2-usa-hunting-1-1_3506011.jpg?20160704112601)
 
 ### Related:
 

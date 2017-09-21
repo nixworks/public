@@ -8,6 +8,7 @@ A super typhoon has killed atleast fourteen people in China since making landfal
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/19/china-typhoon-idUSL4N0PU0DV20140719)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

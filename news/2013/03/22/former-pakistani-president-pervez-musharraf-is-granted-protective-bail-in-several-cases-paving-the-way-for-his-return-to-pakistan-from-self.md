@@ -8,6 +8,7 @@ Former Pakistani President Pervez Musharraf has been granted protective bail in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21898362)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66552000/jpg/_66552799_66552798.jpg)
 
 ### Related:
 

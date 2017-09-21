@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4466019.stm)
 2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_21-4-2005_pg1_2)
 3. [Pakistan Times](http://pakistantimes.net/2005/04/20/top15.htm)
+3. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

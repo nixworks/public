@@ -8,6 +8,7 @@ Janet Napolitano , the U.S. secretary of Homeland Security and former governor o
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-uc-president-20130712,0,83979.story)
+1. [Cover Image](http://www.trbimg.com/img-51df86bf/turbine/la-me-ln-uc-president-20130712)
 
 ### Related:
 

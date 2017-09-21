@@ -8,6 +8,7 @@ UN-backed authorities in Tripoli call for international help to apprehend the ta
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/27/renegade-libyan-oil-shipment-sets-sail-at-behest-of-splinter-government)
+1. [Cover Image](https://i.guim.co.uk/img/media/0edc47b721e29bcf4680ba8cdb983b4182e7cd98/0_0_3500_2101/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=234c4ecdfe91950be72fac4299f367a7)
 
 ### Related:
 

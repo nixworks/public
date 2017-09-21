@@ -8,6 +8,7 @@ Less than a week after powerful thunderstorm winds toppled a stage at the Indian
 ### Source:
 
 1. [The Inquisitr](http://www.inquisitr.com/135614/2011-pukkelpop-festival-stage-collapse-belgium-kills-five/)
+1. [Cover Image](http://cdn.inquisitr.com/wp-content/uploads/2011/08/2011-pukkelpop-festival-stage-collapse-belgium-kills-five.jpg)
 
 ### Related:
 

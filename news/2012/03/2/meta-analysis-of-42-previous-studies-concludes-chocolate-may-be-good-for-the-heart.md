@@ -8,6 +8,7 @@ Eating chocolate is not only a treat for the tongue -- it may also have some tan
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/02/us-chocolate-heart-idUSTRE8210O420120302)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120302&t=2&i=577676662&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8210Z9H00)
 
 ### Related:
 

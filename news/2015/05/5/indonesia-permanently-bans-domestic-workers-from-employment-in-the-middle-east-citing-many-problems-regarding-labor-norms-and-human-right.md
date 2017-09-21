@@ -8,6 +8,7 @@ Jakarta angry over the recent execution of two Indonesian women found guilty of 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/may/05/indonesia-to-stop-sending-domestic-workers-to-middle-east-reports)
+1. [Cover Image](https://i.guim.co.uk/img/media/6faf3c482f191e73fa59147847081a559d144f78/0_87_4000_2401/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=63e820de7120f62844b963f717d5b3c2)
 
 ### Related:
 

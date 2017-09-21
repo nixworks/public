@@ -9,6 +9,7 @@ Lava from Hawaii’s Kilauea volcano makes its way into the ocean for the first 
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0727/Lava-travels-across-Hawaii-finishes-its-journey-in-the-sea)
 2. [The Weather Channel](https://weather.com/news/weather/video/kilauea-volcanos-lava-oozes-into-ocean)
+2. [Cover Image](http://images.csmonitor.com/csm/2016/07/31195264.sf.jpg?alias=standard_900x600)
 
 ### Related:
 

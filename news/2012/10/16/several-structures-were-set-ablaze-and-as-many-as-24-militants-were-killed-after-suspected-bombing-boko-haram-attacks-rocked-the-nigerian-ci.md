@@ -8,6 +8,7 @@ Loud explosions and gunfire rock the northern Nigerian city of Maiduguri - the m
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19958107)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63514000/jpg/_63514607_musa_afp.jpg)
 
 ### Related:
 

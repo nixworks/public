@@ -8,6 +8,7 @@ On the eve of King Richard III&#039;s reburial, his relatives visit Bosworth Bat
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-03-26/king-richard-descendants-visit-battlefield-before-reburial/6348842)
+1. [Cover Image](http://www.abc.net.au/news/image/6348872-1x1-700x700.jpg)
 
 ### Related:
 

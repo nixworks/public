@@ -11,6 +11,7 @@ At least 27 people at a hospital in Aleppo, Syria, were killed overnight, includ
 2. [FOX News](http://www.foxnews.com/world/2016/04/28/at-least-27-killed-as-wave-airstrikes-hit-near-hospital-in-contested-syrian-city.html)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-turkey-idUSKCN0XP24O)
 4. [Washington Post](https://www.washingtonpost.com/news/world/wp/2016/04/28/doctors-without-borders-14-patients-medical-workers-killed-in-airstrikes/?wpisrc=al_alert-COMBO-world%252Bnation)
+4. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2016/04/28/0/0/042816_syria_airstrikes_1280.jpg?ve=1)
 
 ### Related:
 

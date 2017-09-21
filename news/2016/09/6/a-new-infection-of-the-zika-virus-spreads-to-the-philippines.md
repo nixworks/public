@@ -8,6 +8,7 @@ The Philippines confirms its first case of the Zika virus this year and says it 
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2016-09-06/zika-virus-case-confirmed-in-philippines/7817378)
+1. [Cover Image](http://www.abc.net.au/news/image/7122918-1x1-700x700.jpg)
 
 ### Related:
 

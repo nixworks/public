@@ -8,6 +8,7 @@ PORT-AU-PRINCE, Haiti (AP) — Prime Minister Laurent Lamothe announced early Su
 ### Source:
 
 1. [TownHall](http://townhall.com/news/politics-elections/2014/12/14/haiti-awaits-pm-speech-amid-political-discontent-n1931598)
+1. [Cover Image](https://media.townhall.com/townhall/reu/ha/2014/347/245f457b-0508-4195-bf31-fecc92b23a9d.jpg)
 
 ### Related:
 

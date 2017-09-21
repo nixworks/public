@@ -8,6 +8,7 @@ Wurfing, polkadodge and nonversation are among the words stored in secret files 
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/howaboutthat/7926646/Secret-vault-of-words-rejected-by-the-Oxford-English-Dictionary-uncovered.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01003/dictionary-page-22_1003364a.jpg)
 
 ### Related:
 

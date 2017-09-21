@@ -9,6 +9,7 @@ BRUSSELS (AP) — The European Union pressed ahead Wednesday with efforts to per
 
 1. [AP](http://bigstory.ap.org/article/591a0b398f8c47b8aaebbf26f070bcd9/eu-countries-could-face-fines-rejected-refugees)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/05/04/EU-proposes-visa-free-travel-for-Turkey-in-migrant-crisis-concession/7721462370040/?spt=rln&or=4)
+2. [Cover Image](http://binaryapi.ap.org/ad118b31934b4b3a8393c0735457f3ae/460x.jpg)
 
 ### Related:
 

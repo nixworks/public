@@ -8,6 +8,7 @@ Report says a third of migrant workers in industry are trapped in debt bondage a
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/global-development/2014/sep/17/modern-day-slavery-malaysia-electronics-industry)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Environment/Pix/pictures/2014/9/17/1410956099918/MDG---Electronics-industr-010.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=3a473f00dc86a6222a1ed301b22f3cf0)
 
 ### Related:
 

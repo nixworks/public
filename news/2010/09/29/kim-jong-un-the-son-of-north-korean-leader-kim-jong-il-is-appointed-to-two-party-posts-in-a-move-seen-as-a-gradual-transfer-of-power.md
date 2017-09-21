@@ -9,6 +9,7 @@ The youngest son of North Korean leader Kim Jong-il is awarded two key party pos
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11431415)
 2. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2010/09/29/2010092900321.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

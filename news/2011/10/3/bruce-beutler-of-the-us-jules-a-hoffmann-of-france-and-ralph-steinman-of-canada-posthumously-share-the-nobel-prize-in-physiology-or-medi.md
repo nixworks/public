@@ -9,6 +9,7 @@
 
 1. [AP via ''New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10756360)
 2. [BBC](http://www.bbc.co.uk/news/health-15149257)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55790000/gif/_55790158_p2660147-dendritic_cells,_a.gif)
 
 ### Related:
 

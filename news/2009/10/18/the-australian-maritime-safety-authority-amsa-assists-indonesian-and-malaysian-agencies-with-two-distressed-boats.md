@@ -8,6 +8,7 @@ Hundreds of people believed to be heading to Australia are reportedly aboard two
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/two-boats-in-distress-20091018-h2j3.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/h/2/k/e/image.related.thumbnail.320x214.h2j3.png/1255830445457.jpg)
 
 ### Related:
 

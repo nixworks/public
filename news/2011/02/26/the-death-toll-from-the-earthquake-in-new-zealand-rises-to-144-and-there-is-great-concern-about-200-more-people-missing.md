@@ -10,6 +10,7 @@ Violent aftershocks hampered desperate efforts to find survivors in quake-hit Ch
 1. [Reuters](http://uk.reuters.com/article/2011/02/26/uk-newzealand-quake-idUKTRE71L04920110226)
 2. [TV New Zealand](http://tvnz.co.nz/national-news/aftershocks-trigger-more-evacuations-4041351?ref=rss)
 3. [TV New Zealand](http://tvnz.co.nz/national-news/live-updates-christchurch-earthquake-day-five-4040854)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110226&t=2&i=347386885&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-26T135303Z_01_BTRE71P036A00_RTROPTP_0_NEWZEALAND-QUAKE)
 
 ### Related:
 

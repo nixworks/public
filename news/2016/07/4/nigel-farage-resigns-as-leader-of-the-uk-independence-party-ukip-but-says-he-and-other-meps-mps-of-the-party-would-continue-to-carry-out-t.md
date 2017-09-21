@@ -8,6 +8,7 @@ Brexit - Nigel Farage has announced he is standing down as leader of the UK Inde
 ### Source:
 
 1. [BBC via ''Radio New Zealand](http://www.radionz.co.nz/news/world/307929/farage-stands-down-as-ukip-leader)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

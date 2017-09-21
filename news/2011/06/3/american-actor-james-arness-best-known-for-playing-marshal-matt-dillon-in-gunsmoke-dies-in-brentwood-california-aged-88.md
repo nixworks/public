@@ -8,6 +8,7 @@ James Arness, the towering actor best known for portraying Marshal Matt Dillon, 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/la-me-james-arness-20110604,0,6262500.story)
+1. [Cover Image](http://www.trbimg.com/img-53259563/turbine/la-me-james-arness-20110604)
 
 ### Related:
 

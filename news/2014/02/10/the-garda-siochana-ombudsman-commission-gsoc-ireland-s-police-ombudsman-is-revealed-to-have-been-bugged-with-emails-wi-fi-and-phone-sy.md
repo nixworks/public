@@ -9,6 +9,7 @@ A report today claimed emails, wi-fi and phone systems were hacked and a phone i
 
 1. [Mirror](http://www.irishmirror.ie/news/irish-news/alan-shatter-unaware-garda-ombudsman-3129567)
 2. [The Journal](http://www.thejournal.ie/garda-ombudsman-1308142-Feb2014/)
+2. [Cover Image](http://img2.thejournal.ie/article/1308142/river/?height=400&version=1308156)
 
 ### Related:
 

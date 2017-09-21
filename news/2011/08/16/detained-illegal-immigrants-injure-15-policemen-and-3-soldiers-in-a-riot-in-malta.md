@@ -8,6 +8,7 @@ Fifteen policemen, three soldiers and an immigrant were slightly injured in a ri
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20110816/local/safi-migrants-start-fire-in-protest.380542)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/059c9535bf4dc9f2d9c33ee53b38265f3974690379-1313494216-4e4a54c8-620x348.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A blast struck a market in the northeastern Nigerian city of Yola on Tuesday eve
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/17/us-nigeria-blast-idUSKCN0T62NC20151117)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

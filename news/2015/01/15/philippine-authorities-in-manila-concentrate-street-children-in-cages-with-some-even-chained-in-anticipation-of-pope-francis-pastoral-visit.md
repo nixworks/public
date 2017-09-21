@@ -10,6 +10,7 @@ Street children are rounded up and hidden away to provide the Pope with a more p
 1. [Catholic Online](http://www.catholic.org/news/international/asia/story.php?id=58402)
 2. [The Daily Mail](http://www.dailymail.co.uk/news/article-2906730/EXCLUSIVE-Children-CAGED-God-Police-seize-orphans-chain-filth-clear-streets-Pope-s-visit-Philippines.html)
 3. [the Philippine Daily Inquirer](http://newsinfo.inquirer.net/664788/officials-deny-caging-street-children-ahead-of-pope-francis-visit)
+3. [Cover Image](/files/images/ins_news/2015015719phil-p.jpg)
 
 ### Related:
 

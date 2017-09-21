@@ -8,3 +8,4 @@ Mike Nichols, who won an Oscar for directing the 1967 film The Graduate, has die
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-30129848)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79151000/jpg/_79151356_79146381.jpg)

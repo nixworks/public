@@ -9,6 +9,7 @@ Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be op
 
 1. [Reuters](http://www.reuters.com/article/us-pope-colombia/pope-urges-skeptical-colombians-to-accept-peace-with-guerrillas-idUSKCN1BJ1TQ?il=0)
 2. [Salem Radio Network](http://www.srnnews.com/pope-urges-skeptical-colombians-to-accept-peace-with-guerrillas/)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170908&t=2&i=1200624836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED871OQ)
 
 ### Related:
 

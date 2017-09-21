@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-youtube-prevails-copyright-suit-viacom-20130418,0,5832848.story)
+1. [Cover Image](http://www.trbimg.com/img-51707d75/turbine/la-et-ct-youtube-prevails-in-huge-copyright-su-001/600/600x400)
 
 ### Related:
 

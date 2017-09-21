@@ -9,6 +9,7 @@
 
 1. [GMA News](http://www.gmanetwork.com/news/story/576683/news/regions/abu-sayyaf-kidnaps-3-in-sulu)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/08/08/Abu-Sayyaf-suspected-in-kidnapping-of-three-in-Philippines/5261470656165/?spt=mps&or=3)
+2. [Cover Image](http://cdnph.upi.com/ph/st/th/5261470656165/2016/i/14706615569113/v1.5/Abu-Sayyaf-suspected-in-kidnapping-of-three-in-Philippines.jpg?lg=2)
 
 ### Related:
 

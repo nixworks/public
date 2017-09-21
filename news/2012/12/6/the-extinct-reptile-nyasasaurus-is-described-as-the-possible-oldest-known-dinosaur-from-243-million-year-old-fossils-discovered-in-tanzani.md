@@ -10,6 +10,7 @@ Dinosaurs originated 15 million years earlier than previously thought.
 1. [BBC](http://www.bbc.co.uk/news/science-environment-20594147)
 2. [Huffington Post](http://www.huffingtonpost.com/2012/12/05/earths-earliest-dinosaur-nyasasaurus-parringtoni_n_2243479.html)
 3. [Nature](http://www.nature.com/news/earliest-known-dino-relative-found-1.11959)
+3. [Cover Image](http://www.nature.com/polopoly_fs/7.7739.1354642720!/image/1.11959.jpg_gen/derivatives/nature_homepage/1.11959.jpg)
 
 ### Related:
 

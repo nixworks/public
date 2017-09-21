@@ -8,6 +8,7 @@ Twitter has shut down more than 125,000 terrorism-related accounts since the mid
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-02-06/twitter-shuts-down-accounts-linked-to-terrorists/7145906)
+1. [Cover Image](http://www.abc.net.au/news/image/4928816-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Some 45,000 people signed a petition asking that attendees be allowed to carry f
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/politics/onpolitics/2016/03/28/secret-service-no-gunsrepublican-convention/82348324/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

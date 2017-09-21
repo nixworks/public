@@ -8,6 +8,7 @@ SAN DIEGO – After six weeks of controversy over his improper conduct with wome
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-san-diego-mayor-bob-filner-resigns-20130823,0,401188.story)
+1. [Cover Image](http://www.trbimg.com/img-5217fe22/turbine/la-me-ln-san-diego-mayor-bob-filner-resigns-20130823)
 
 ### Related:
 

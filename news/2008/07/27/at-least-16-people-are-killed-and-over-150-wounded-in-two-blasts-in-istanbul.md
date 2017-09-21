@@ -9,6 +9,7 @@ Two bombs exploded within a few minutes in what seemed to be the worst terrorist
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7527977.stm)
 2. [The New York Times](http://www.nytimes.com/2008/07/28/world/europe/28turkey.html)
+2. [Cover Image](https://static01.nyt.com/images/2008/07/28/world/28turkey-span-75.jpg)
 
 ### Related:
 

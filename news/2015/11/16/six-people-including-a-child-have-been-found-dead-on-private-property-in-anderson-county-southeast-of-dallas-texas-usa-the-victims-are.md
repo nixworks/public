@@ -8,6 +8,7 @@ One person has been arrested in connection with the death of six people, includi
 ### Source:
 
 1. [CBS DFW](http://dfw.cbslocal.com/2015/11/16/family-confirms-6-killed-at-anderson-county-campsite/)
+1. [Cover Image](https://cbsdallas.files.wordpress.com/2015/11/anderson-county-victims.jpg?w=1245)
 
 ### Related:
 

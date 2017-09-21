@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/10/30/us-southchinasea-usa-china-idUSKCN0SM2ER20151030)
 2. [The International News](http://www.thenews.com.pk/Todays-News-1-348445-Top-US-Chinese-naval-officers-hold-video-talks)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151030&t=2&i=1090847046&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9T00N)
 
 ### Related:
 

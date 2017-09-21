@@ -8,6 +8,7 @@ Market reactions and analysis on the day after George Osborne delivered his 2011
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/budget/8395079/Budget-2011-live.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01855/budget_1855844a.jpg)
 
 ### Related:
 

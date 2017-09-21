@@ -9,6 +9,7 @@ Fighting at a United Nations compound sheltering people fleeing conflict in Sout
 
 1. [Reuters](http://www.reuters.com/article/us-southsudan-unrest-idUSKCN0VR1FU?feedType=RSS&feedName=worldNews)
 2. [Trend News Agency](http://en.trend.az/world/other/2496504.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

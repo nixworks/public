@@ -12,6 +12,7 @@
 3. [Press TV](http://www.presstv.ir/detail/166088.html)
 4. [Reuters](http://www.reuters.com/article/2011/02/19/iran-germany-release-confirm-idUSLDE71I0EX20110219)
 5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4030928,00.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Controversial Dutch politician Geert Wilders was cleared Thursday of inciting ha
 
 1. [AP via ''Huffington Post](http://www.huffingtonpost.com/huff-wires/20110623/eu-netherlands-hate-speech/)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/06/23/netherlands.politician.trial/index.html)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/23/netherlands.politician.trial/tzvids.dutch.wilders.jpg)
 
 ### Related:
 

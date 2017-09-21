@@ -8,6 +8,7 @@ Violence broke out amid street protests against a bill allowing the president to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39465064)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0871/production/_95416120_hi038787414.jpg)
 
 ### Related:
 

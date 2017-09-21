@@ -8,6 +8,7 @@ Doctors believe they have found the first evidence that a new deadly virus in th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-27695140)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75290000/jpg/_75290552_c0069951-dromedary_camel-spl.jpg)
 
 ### Related:
 

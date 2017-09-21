@@ -8,6 +8,7 @@ Ulster Bank is to open 20 branches on a Sunday for the first time, to help custo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18568705)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57829000/jpg/_57829073_ulsterbankderry.jpg)
 
 ### Related:
 

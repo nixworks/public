@@ -8,6 +8,7 @@ Two people were killed and 21 were wounded in an attack early Thursday on an ant
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/world/two-killed-21-wounded-in-attack-on-thai-protest-camp-officials-524562)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-05/Thailand_Anti-Government_Protest_Reuters_360.jpg)
 
 ### Related:
 

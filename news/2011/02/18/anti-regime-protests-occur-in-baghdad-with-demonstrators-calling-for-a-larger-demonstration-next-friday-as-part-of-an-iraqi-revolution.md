@@ -13,6 +13,7 @@ Reports of deaths as thousands turn out to demand better service delivery and jo
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/17/AR2011021706418.html)
 5. [Xinhua](http://news.xinhuanet.com/english2010/video/2011-02/18/c_13738367.htm)
 6. [euronews](http://www.euronews.net/2011/02/17/deaths-reported-in-fresh-protests-in-iraq/)
+6. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/18/201121810526917360_20.jpg)
 
 ### Related:
 

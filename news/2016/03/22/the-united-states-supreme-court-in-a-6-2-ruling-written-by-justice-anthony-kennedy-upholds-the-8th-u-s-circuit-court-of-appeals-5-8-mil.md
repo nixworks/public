@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-court-tyson-foods-idUSKCN0WO1Y1)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160322&t=2&i=1126882030&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2L10X)
 
 ### Related:
 

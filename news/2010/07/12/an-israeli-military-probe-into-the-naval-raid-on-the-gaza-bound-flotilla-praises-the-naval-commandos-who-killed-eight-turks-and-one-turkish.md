@@ -11,6 +11,7 @@ The killing of nine Turks in a raid on a Gaza-bound flotilla last month followed
 2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10603486.stm)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/12/gaza-flotilla-report-israeli-military)
 4. [The Independent](http://www.independent.co.uk/news/world/middle-east/flotilla-deaths-were-a-mistake-says-idf-report-2025100.html)
+4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/07/12/23/412388.bin)
 
 ### Related:
 

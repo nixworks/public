@@ -8,6 +8,7 @@ KUALA LUMPUR - Malaysian Member of Parliament Nurul Izzah Anwar was released on 
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/nurul-izzah-released-bail-will-have-report-police-month-later-201503)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/03/17/nurul17e_2x.jpg?itok=hMJR8Ffh)
 
 ### Related:
 

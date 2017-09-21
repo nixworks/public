@@ -8,6 +8,7 @@ A oil tanker has exploded while docking at the northern port of Lach Bang, Thanh
 ### Source:
 
 1. [Thanh Nien News](http://www.thanhniennews.com/society/2-killed-4-injured-in-vietnam-oil-tanker-explosion-30292.html)
+1. [Cover Image](http://static.thanhniennews.com/Uploaded/danghanh/2014_08_24/1_OVTS.jpg)
 
 ### Related:
 

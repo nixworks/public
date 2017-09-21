@@ -8,6 +8,7 @@ Somaliland elects new leader as country celebrates 50 years of independence.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071195237734727.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

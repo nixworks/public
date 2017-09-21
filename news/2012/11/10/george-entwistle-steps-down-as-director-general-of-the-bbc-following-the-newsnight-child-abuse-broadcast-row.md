@@ -9,6 +9,7 @@ The BBC&rsquo;s director-general has dramatically quit over the corporation&rsqu
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20284124)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/tvandradio/bbc/9669681/George-Entwistle-quits-as-director-general-over-Newsnight-fiasco.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02394/Entwistle-Saturday_2394977k.jpg)
 
 ### Related:
 

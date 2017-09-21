@@ -9,6 +9,7 @@
 
 1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2006/01/11/MNGKHGLEFB1.DTL)
 2. [The Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1683576,00.html)
+2. [Cover Image](http://ww2.hdnux.com/photos/12/16/35/2680649/8/rawImage.jpg)
 
 ### Related:
 

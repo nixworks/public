@@ -8,6 +8,7 @@ Afghan security forces exchanged fire with gunmen barricaded in a house near the
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/world-news/explosion-near-indian-consulate-in-jalalabad-in-afghanistan-1265215)
+1. [Cover Image](http://i.ndtvimg.com/i/2016-01/jalalabad_650x400_61452683655.jpg)
 
 ### Related:
 

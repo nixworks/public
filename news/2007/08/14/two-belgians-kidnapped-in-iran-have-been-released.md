@@ -8,6 +8,7 @@ A Belgian man and woman kidnapped in south-eastern Iran at the weekend have been
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/15/2005221.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ China is providing assistance to Pakistan in developing its plutonium-based nucl
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/World/China-assisting-Pakistans-plutonium-nuke-programme/articleshow/4602416.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

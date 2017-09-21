@@ -9,6 +9,7 @@ Three women in Namibia are suing the state for allegedly being sterilised withou
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10202429.stm)
 2. [UPI](http://www.upi.com/Top_News/International/2010/06/01/HIV-women-sue-over-forced-sterilization/UPI-76661275392988/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

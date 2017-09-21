@@ -10,6 +10,7 @@ The death in Ireland of a woman whose repeated requests for an abortion were tur
 1. [Irish Independent](http://www.independent.ie/national-news/pregnant-woman-died-after-hospital-denied-abortion-3293842.html)
 2. [NDTV](http://www.ndtv.com/article/india/savita-halappanavar-s-parents-slam-irish-abortion-laws-292871)
 3. [The Independent](http://www.independent.co.uk/news/world/europe/this-is-a-catholic-country-woman-dies-of-septicaemia-after-being-refused-an-abortion-in-irish-hospital-8315609.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/14/13/abortiondeath.jpg)
 
 ### Related:
 

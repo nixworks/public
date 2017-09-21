@@ -9,6 +9,7 @@ A laptop containing bank account details of 75,000 Bord Gáis customers has been
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8106231.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0617/bordgais.html)
+2. [Cover Image](https://img.rasset.ie/0000d808-1600.jpg)
 
 ### Related:
 

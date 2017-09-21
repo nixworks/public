@@ -8,6 +8,7 @@ A severe flood warning remains in place for part of south-west England, followin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18750430)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61428000/jpg/_61428073_015268420-1.jpg)
 
 ### Related:
 

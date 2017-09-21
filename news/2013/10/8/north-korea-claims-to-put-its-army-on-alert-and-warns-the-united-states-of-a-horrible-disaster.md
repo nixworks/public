@@ -8,6 +8,7 @@ North Korea said on Tuesday its military would be put on high alert and be ready
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/07/us-korea-north-idUSBRE9960ZW20131007?feedType=RSS&feedName=topNews&dlvrit=992637)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

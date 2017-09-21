@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via LBC](http://www.lbcgroup.tv/news/216460/suicide-bomber-hits-checkpoint-near-libyas-misrata)
+1. [Cover Image](http://www.lbcgroup.tv/newsimages/NB-216460-635686600001325819.jpg)
 
 ### Related:
 

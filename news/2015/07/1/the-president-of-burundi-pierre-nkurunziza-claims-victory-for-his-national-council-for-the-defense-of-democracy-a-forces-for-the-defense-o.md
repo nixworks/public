@@ -8,6 +8,7 @@ Pierre Nkurunziza claims an early victory for his ruling CNDD-FDD party, despite
 ### Source:
 
 1. [African Media Agency via ''Mail and Guardian](http://mg.co.za/article/2015-07-01-burundi-president-claims-early-victory-in-elections/)
+1. [Cover Image](https://cdn.mg.co.za/crop/content/images/2013/06/06/000_Par75025951_landscape.jpg/1280x720/)
 
 ### Related:
 

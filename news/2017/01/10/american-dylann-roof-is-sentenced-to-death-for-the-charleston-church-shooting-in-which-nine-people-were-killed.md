@@ -8,6 +8,7 @@ The same jury that convicted Dylann Roof in the 2015 massacre at Emanuel AME chu
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/01/10/dylann-roof-sentenced-to-death-for-2015-charleston-church-massacre.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/01/10/0/0/694940094001_5277226555001_Jury-sentences-Dylann-Roof-to-death.jpg?ve=1)
 
 ### Related:
 

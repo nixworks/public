@@ -8,6 +8,7 @@ FOUR people have been killed and more than 20 injured when a homemade bomb was d
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/four-dead-20-injured-in-thai-bomb-blast/story-e6frfkui-1226585312054)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

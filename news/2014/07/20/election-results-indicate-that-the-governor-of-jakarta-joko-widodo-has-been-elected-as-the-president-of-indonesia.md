@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Jakarta Globe](http://www.thejakartaglobe.com/news/jokowi-kalla-win-presidential-election-kpu-completes-tally/)
+1. [Cover Image](http://img.thejakartaglobe.com/2014/07/Rekapitulasi-Suara-Pilpres-Nasional-200714-wsj-5-1024x712.jpg)
 
 ### Related:
 

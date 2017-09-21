@@ -8,6 +8,7 @@ Oracle Corp ORCL.O hassued Micron Technology Inc (MU.O) for fixing prices of com
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSN278750920100927)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

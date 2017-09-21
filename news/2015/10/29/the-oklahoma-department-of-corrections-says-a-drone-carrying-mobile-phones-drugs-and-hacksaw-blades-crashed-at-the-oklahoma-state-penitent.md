@@ -9,6 +9,7 @@ The drone - which also carried a mobile phone, cigarettes, cigars, super glue an
 
 1. [Sky News](http://news.sky.com/story/1578220/drone-carrying-hacksaw-blades-crashes-at-prison)
 2. [UPI](http://www.upi.com/Odd_News/2015/10/28/Drone-recovered-at-Oklahoma-prison-carrying-drugs-hacksaw-blades/5131446040903/)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/rtx1tgwh-1_3505502.jpg?20160704112240)
 
 ### Related:
 

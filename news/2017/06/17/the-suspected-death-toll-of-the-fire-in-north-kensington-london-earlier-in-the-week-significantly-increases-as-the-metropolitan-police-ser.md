@@ -8,6 +8,7 @@ The official response to the Grenfell Tower catastrophe &ldquo;was not good enou
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/06/17/grenfell-tower-58-people-missing-presumed-dead-london-fire/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/z/2/z2zhzsyje6dpbyv_fphkbsbsmbro5ptd-xlarge.jpg)
 
 ### Related:
 

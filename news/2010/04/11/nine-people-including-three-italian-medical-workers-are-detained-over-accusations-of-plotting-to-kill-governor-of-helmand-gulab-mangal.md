@@ -8,6 +8,7 @@ Three medical workers among nine arrested for allegedly plotting to kill Helmand
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041171211170120.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

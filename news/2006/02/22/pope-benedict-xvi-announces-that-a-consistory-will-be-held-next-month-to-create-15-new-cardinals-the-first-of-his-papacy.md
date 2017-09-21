@@ -8,6 +8,7 @@ Pope Benedict XVI has announced that he will hold a consistory next month to cre
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2006/0222/vatican.html)
+1. [Cover Image](https://img.rasset.ie/0000496e-1600.jpg)
 
 ### Related:
 

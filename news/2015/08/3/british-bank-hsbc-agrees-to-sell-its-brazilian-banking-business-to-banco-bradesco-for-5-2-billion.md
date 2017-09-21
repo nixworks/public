@@ -8,6 +8,7 @@ HSBC has agreed to sell its Brazilian business to local group Banco Bradesco, th
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/hsbc-profits-fall-3-8-second-quarter-043630779.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/afa03fRbY00047WUwZFG9w--/aD02ODM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/d64ee24f13be635d1733bc1dac417ed62d9f457a.jpg)
 
 ### Related:
 

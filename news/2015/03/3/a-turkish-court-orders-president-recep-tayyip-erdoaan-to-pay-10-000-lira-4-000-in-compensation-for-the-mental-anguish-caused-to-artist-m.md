@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2015/03/03/court-fines-turkish-president-erdogan-for-calling-armenia-peace-monument/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

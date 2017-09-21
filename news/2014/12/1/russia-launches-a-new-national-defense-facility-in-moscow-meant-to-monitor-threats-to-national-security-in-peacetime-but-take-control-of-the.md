@@ -8,6 +8,7 @@ Russia is launching a new national defense facility, which is meant to monitor t
 ### Source:
 
 1. [RT](http://rt.com/news/210307-russia-national-defence-center/)
+1. [Cover Image](https://img.rt.com/files/news/33/58/30/00/russia-national-defence-center.si.jpg)
 
 ### Related:
 

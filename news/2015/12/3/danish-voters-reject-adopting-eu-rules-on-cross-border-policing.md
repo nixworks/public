@@ -8,6 +8,7 @@ Danes vote No in a referendum on adopting EU rules strengthening cross-border po
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35002158)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/FA0B/production/_87011046_030410530-1.jpg)
 
 ### Related:
 

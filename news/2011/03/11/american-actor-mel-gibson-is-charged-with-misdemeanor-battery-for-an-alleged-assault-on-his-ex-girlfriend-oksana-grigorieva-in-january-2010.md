@@ -8,6 +8,7 @@ Mel Gibson has been charged with a misdemeanor battery complaint in Los Angeles 
 ### Source:
 
 1. [Access Hollywood](http://www.accesshollywood.com/mel-gibson-charged-with-misdemeanor-battery_article_45151?__source=rss|access-originals)
+1. [Cover Image](https://d919ce141ef35c47fc40-b9166a60eccf0f83d2d9c63fa65b9129.ssl.cf5.rackcdn.com/images/112418.2e16d0ba.fill-300x300.jpg)
 
 ### Related:
 

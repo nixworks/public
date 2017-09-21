@@ -9,6 +9,7 @@ Togo security forces fired tear gas at hundreds of anti-government protesters ca
 
 1. [Reuters](http://www.reuters.com/article/us-togo-protests/protesters-mass-for-second-day-to-demand-exit-of-togos-leader-idUSKCN1BI1UT)
 2. [X News Press](http://xnewspress.com/2017/09/mass-protests-in-togo-for-constitutional-reform/)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170907&t=2&i=1200426848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED861MH)
 
 ### Related:
 

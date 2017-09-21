@@ -8,6 +8,7 @@ Fourteen mausoleums in Timbuktu in northern Mali are rebuilt, three years after 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-33587325)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/14DC6/production/_84364458_84364457.jpg)
 
 ### Related:
 

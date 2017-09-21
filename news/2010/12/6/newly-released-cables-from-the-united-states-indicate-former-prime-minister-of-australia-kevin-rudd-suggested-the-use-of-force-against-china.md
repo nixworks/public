@@ -12,6 +12,7 @@ Saudi Arabia is the single biggest contributor to the funding of Islamic extremi
 3. [Indian Express](http://www.indianexpress.com/news/-Aggressive--China--leaves-India--others-worried/720864)
 4. [The Independent](http://www.independent.co.uk/news/world/middle-east/saudi-arabia-is-biggest-funder-of-terrorists-2152327.html)
 5. [The Independent](http://www.independent.co.uk/news/world/politics/us-believes-al-jazeera-is-propaganda-tool-of-qatar-2152329.html)
+5. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/12/06/01/510447.bin)
 
 ### Related:
 

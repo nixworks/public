@@ -8,6 +8,7 @@ SOFIA, Bulgaria (AP) — The Latest on Bulgaria&#x27;s election Sunday: (all tim
 ### Source:
 
 1. [Yahoo! News](https://www.yahoo.com/news/latest-socialist-leader-bulgaria-votes-change-123120722.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/xDyi1l5Z.ZBBhWyNKthv7w--/aD0yODE5O3c9NDE2ODtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/f9365a84f8ae4a5f8c28a016d22b8adf.jpg)
 
 ### Related:
 

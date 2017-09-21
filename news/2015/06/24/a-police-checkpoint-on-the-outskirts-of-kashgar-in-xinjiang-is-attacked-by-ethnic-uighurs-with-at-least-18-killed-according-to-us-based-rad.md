@@ -8,6 +8,7 @@ At least 18 people are killed in the Chinese region of Xinjiang during a clash a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-33251572)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3590/production/_83821731_83821730.jpg)
 
 ### Related:
 

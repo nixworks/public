@@ -8,6 +8,7 @@ More than 100 people have starved to death in a single region of Somalia within 
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/somalia-dead-drought-starve-prime-minister-hassan-khaire-united-nations-famine-mogadishu-country-a7611471.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/20/17/somalia-child-famine-save-the-children.jpg)
 
 ### Related:
 

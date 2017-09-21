@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/154873-duterte-robredo-liberal-party-plot-oust)
+1. [Cover Image](https://assets.rappler.com/4341ACD8B119411CA072D268EAC83637/img/A709351203CC476CB23399D54BC69BEC/duterte-cabinet-meeting-20160711-001.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [El Universo](http://www.eluniverso.com/noticias/2017/06/29/nota/6255319/hombre-derriba-su-auto-vallas-metalicas-casa-rosada)
 2. [Infobae](http://www.infobae.com/politica/2017/06/29/echaron-a-custodios-de-la-casa-rosada-y-reforzaran-la-seguridad-tras-el-incidente-con-el-auto/)
+2. [Cover Image](http://www.eluniverso.com/sites/default/files/styles/nota_ampliada_normal_foto/public/fotos/2017/06/casa20rosadadfdfd.jpg?itok=mJ8E_NTs)
 
 ### Related:
 

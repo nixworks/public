@@ -8,6 +8,7 @@ A court in India sentences a man to death for plotting a bomb blast at a German 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22212001)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67004000/jpg/_67004072_67004071.jpg)
 
 ### Related:
 

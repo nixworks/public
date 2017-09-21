@@ -8,6 +8,7 @@ BEIRUT (AP) — Kurdish-led Syrian forces began an offensive Sunday to liberate 
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/5d2818fec6864288933e4b29e2b1abb4/syria-kurds-announce-start-campaign-retake-raqqa)
+1. [Cover Image](http://binaryapi.ap.org/db8ad9cb50f64e9cb0ddb312e853ba3e/460x.jpg)
 
 ### Related:
 

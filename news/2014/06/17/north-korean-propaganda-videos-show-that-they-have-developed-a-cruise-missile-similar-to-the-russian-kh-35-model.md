@@ -8,6 +8,7 @@ A North Korean propaganda film posted on the internet reveals footage of a newly
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27881483)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75577000/jpg/_75577211_missile_still.jpg)
 
 ### Related:
 

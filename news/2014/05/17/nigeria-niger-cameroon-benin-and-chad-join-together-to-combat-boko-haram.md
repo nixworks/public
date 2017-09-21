@@ -9,6 +9,7 @@ Nigeria, Cameroon, Niger, Chad and Benin pledge to cooperate against militant gr
 
 1. [The Guardian](http://www.theguardian.com/world/2014/may/17/boko-haram-african-action-nigeria-schoolgirls)
 2. [The New York Times](http://www.nytimes.com/2014/05/18/world/africa/west-african-nations-set-aside-their-old-suspicions-to-combat-boko-haram.html)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/17/1400345156447/French-president-Francois-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=55eacabe0e5244698dba55adc9970857)
 
 ### Related:
 

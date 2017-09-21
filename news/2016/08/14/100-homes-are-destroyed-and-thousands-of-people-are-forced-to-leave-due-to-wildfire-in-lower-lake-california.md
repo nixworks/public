@@ -8,6 +8,7 @@ Firefighters are battling to control a Northern California blaze that destroyed 
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/fire-roars-into-california-town-destroying-over-100-homes-1471277262)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-PK237_0815ca_TOP_20160815113625.jpg)
 
 ### Related:
 

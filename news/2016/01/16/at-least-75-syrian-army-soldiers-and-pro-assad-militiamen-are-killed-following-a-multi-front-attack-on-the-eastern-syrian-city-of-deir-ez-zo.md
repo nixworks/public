@@ -9,6 +9,7 @@ An Islamic State group attack Saturday in the eastern Syrian city of Deir Ezzor 
 
 1. [AFP via Yahoo](http://news.yahoo.com/toll-attack-syria-forces-deir-ezzor-rises-75-192919561.html)
 2. [AFP via the ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3402835/IS-attack-Syrias-Deir-Ezzor-kills-75-regime-forces-monitor.html)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Club4ppmGcLZphYmisjqdw--/aD03MTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6305959-1-1-0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Germany holds an emotional memorial service for the 21 people killed in a stampe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10825599)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Armed men killed sevensoldiers and wounded 12 others in clashes in the southern 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/06/yemen-clashes-idUSLDE7552I820110606)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

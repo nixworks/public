@@ -20,6 +20,7 @@ There have been multiple fatalities after a shallow 6.3 magnitude earthquake in 
 11. [TV3](http://www.3news.co.nz/Christchurch-quake-200-trapped-in-Pyne-building/tabid/423/articleID/199310/Default.aspx)
 12. [TVNZ](http://tvnz.co.nz/national-news/chch-quake-65-confirmed-dead-4038278)
 13. [WA Today](http://www.watoday.com.au/world/huge-quake-hits-christchurch-20110222-1b356.html)
+13. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Lockheed Martin Corp, the world&#39;s biggest aerospace company and the Pentagon
 ### Source:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/43199200)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

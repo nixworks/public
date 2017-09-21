@@ -14,6 +14,7 @@ The United States has suspended its evacuations of critically injured Haitians u
 5. [New York Times](http://www.nytimes.com/2010/01/30/us/30airlift.html?hp)
 6. [Primera Hora](http://www.primerahora.com/diario/noticia/terremotohaiti/noticias/fotos_de_medicos_puertorriquenos_en_facebook:_¿que_estaban_pensando?/361382)
 7. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/01/30/AR2010013001397.html)
+7. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

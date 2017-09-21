@@ -9,6 +9,7 @@ The body of a Palestinian teenager was found in the occupied West Bank on Friday
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE64D4ZH20100514?loomia_ow=t0:s0:a49:g43:r2:c0.090909:b34020514:z0)
 2. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=175608)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100514&t=2&i=107368947&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-14T194029Z_01_BTRE64D1INL00_RTROPTP_0_PALESTINIAN-ISRAEL-VIOLENCE)
 
 ### Related:
 

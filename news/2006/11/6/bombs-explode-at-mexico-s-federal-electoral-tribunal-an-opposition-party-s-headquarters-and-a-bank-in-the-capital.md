@@ -8,6 +8,7 @@ Bombs have exploded at Mexico&#39;s top electoral court, an opposition party&#39
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2006/1106/mexico.html?rss)
+1. [Cover Image](https://img.rasset.ie/000ba79f-1600.jpg)
 
 ### Related:
 

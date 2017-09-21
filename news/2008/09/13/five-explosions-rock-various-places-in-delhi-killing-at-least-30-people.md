@@ -8,6 +8,7 @@ Within a month and a half of Jaipur, Bangalore and Ahmedabad terror blasts, Delh
 ### Source:
 
 1. [India Times](http://timesofindia.indiatimes.com/India/Serial_blasts_rock_Delhi_several_injured/articleshow/3479914.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3480012.cms)
 
 ### Related:
 

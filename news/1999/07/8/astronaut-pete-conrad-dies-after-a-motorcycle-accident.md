@@ -8,3 +8,4 @@ Charles &quot;Pete&quot; Conrad, the Apollo 12 astronaut who was the third man t
 ### Source:
 
 1. [Los Angeles Times](http://articles.latimes.com/1999/jul/09/local/me-54330)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

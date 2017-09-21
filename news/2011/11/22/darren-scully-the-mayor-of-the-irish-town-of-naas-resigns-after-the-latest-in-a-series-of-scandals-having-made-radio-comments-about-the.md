@@ -10,6 +10,7 @@ Fine Gael&#39;s Darren Scully has resigned as Mayor of Naas.
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2065262/Irish-town-mayor-quits-refusing-deal-black-people.html)
 2. [Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/1123/1224308000247.html)
 3. [RTE News](http://www.rte.ie/news/2011/1122/scullyd.html)
+3. [Cover Image](https://img.rasset.ie/0005404f-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18540232)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61059000/jpg/_61059574_freud_egg.jpg)
 
 ### Related:
 

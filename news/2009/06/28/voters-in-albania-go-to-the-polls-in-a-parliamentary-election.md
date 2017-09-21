@@ -9,6 +9,7 @@ Albanians were voting in legislative elections seen as crucial for the European 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8122759.stm)
 2. [The Age](http://news.theage.com.au/breaking-news-world/albanians-voting-to-elect-new-parliament-20090628-d0xh.html)
+2. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

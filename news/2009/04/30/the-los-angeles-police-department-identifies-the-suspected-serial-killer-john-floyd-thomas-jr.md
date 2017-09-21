@@ -8,6 +8,7 @@ The first wave of slayings haunted Los Angeles in the mid-1970s. The killer slip
 ### Source:
 
 1. [LA Times](http://www.latimes.com/news/local/la-me-serial-killer30-2009apr30,0,4540481.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

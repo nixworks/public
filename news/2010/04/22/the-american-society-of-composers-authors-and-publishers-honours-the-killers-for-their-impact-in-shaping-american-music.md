@@ -10,3 +10,4 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8636682.stm)
 2. [CBC](http://www.cbc.ca/arts/music/story/2010/04/22/ascap-songwriters-awards.html)
 3. [Contact Music](http://www.contactmusic.com/news.nsf/story/the-killers-shape-us-music_1139966)
+3. [Cover Image](http://images.contactmusic.com/newsimages/the_killers_1139966.jpg)

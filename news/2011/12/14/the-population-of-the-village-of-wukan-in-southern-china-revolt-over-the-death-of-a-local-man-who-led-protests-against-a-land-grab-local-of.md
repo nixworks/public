@@ -9,6 +9,7 @@ Chinese officials have ratcheted up pressure on the rebel village of Wukan, as i
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8957048/Wukan-siege-Chinese-officials-hold-village-to-ransom.html)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204026804577098633988592556.html?mod=googlenews_wsj)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02084/wu_2084956a.jpg)
 
 ### Related:
 

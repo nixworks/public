@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8633823.stm)
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/6967601.html)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/argentinas-last-dictator-gets-25-years-20100421-ssb5.html)
+3. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

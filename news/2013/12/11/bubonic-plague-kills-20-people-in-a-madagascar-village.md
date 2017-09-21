@@ -8,6 +8,7 @@ Twenty people have died following a deadly outbreak of the bubonic plague, medic
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/bubonic-plague-kills-20-in-madagascar-village-8997280.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/07/03/22/pg-21-rats.jpg)
 
 ### Related:
 

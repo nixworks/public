@@ -8,6 +8,7 @@ A suicide car bomber killed at least 20 people, and possibly as many as 35, in a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/25/us-afghanistan-bombing-idUSTRE75O0OZ20110625?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

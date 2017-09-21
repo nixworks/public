@@ -9,6 +9,7 @@ At least 20 vehicles loaded with anti-aircraft guns block road as 200 armed men 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/04/2013428102159904364.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22331562)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/28/201342815207956734_20.jpg)
 
 ### Related:
 

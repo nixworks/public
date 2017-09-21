@@ -8,6 +8,7 @@ Drivers of the Delhi Transport Cooperation (DTC) today called off their strike p
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/delhi-news/bus-drivers-call-off-strike-after-delhi-government-evokes-esma-762583)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-05/dtc-strike-commuters_650x400_71431317326.jpg)
 
 ### Related:
 

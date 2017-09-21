@@ -8,6 +8,7 @@ How much of your DNA is constructive? Of the 3 billion letters that make up your
 ### Source:
 
 1. [Design & Trend](http://www.designntrend.com/articles/4291/20130512/worlds-record-breaking-plant-deletes-noncoding-junk-dna.htm)
+1. [Cover Image](http://images.designntrend.com/data/images/full/9561/carnivorous-bladderwort-plant.jpg)
 
 ### Related:
 

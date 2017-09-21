@@ -8,6 +8,7 @@ Al-Qaeda vows retaliation over military operation in Syria as air raids target I
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/09/al-qaeda-linked-group-warns-us-led-coalition-2014927224526662127.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/9/19//201491919434720734_20.jpg)
 
 ### Related:
 

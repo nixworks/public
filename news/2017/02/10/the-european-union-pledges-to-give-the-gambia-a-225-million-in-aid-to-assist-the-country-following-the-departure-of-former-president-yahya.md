@@ -8,6 +8,7 @@ Major funding commitment to help ‘virtually bankrupt’ country shake off lega
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/global-development/2017/feb/10/european-union-eu-pledges-225m-rescue-package-newly-democratic-the-gambia-adama-barrow)
+1. [Cover Image](https://i.guim.co.uk/img/media/70150fb681d7f8d6403e402b67da1229755dd757/30_217_3142_1885/master/3142.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=99ce3f66299b43df195fd65ec5c5f086)
 
 ### Related:
 

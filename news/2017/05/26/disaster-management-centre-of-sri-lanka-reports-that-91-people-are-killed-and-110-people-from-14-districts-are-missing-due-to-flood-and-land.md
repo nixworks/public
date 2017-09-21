@@ -8,6 +8,7 @@ Flooding and mudslides caused by monsoon rains leave at least 91 dead and more t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-40063400)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/FEEE/production/_96226256_039717631.jpg)
 
 ### Related:
 

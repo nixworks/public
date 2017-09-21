@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/egan-jones-downgrades-italy-sees-22-default-risk-2012-07-25?link=MW_home_latest_news)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

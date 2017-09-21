@@ -9,6 +9,7 @@ An&#x20;armed&#x20;gang&#x20;has&#x20;kidnapped&#x20;about&#x20;20&#x20;Mexican&
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/03/mexico.abduction/)
 2. [RFI](http://www.english.rfi.fr/americas/20101003-20-mexican-tourists-kidnapped-acapulco)
+2. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/mexico_web.jpg)
 
 ### Related:
 

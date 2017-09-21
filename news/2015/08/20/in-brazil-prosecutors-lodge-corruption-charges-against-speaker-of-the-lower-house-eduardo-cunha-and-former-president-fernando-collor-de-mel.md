@@ -10,6 +10,7 @@ Speaker of lower house and ex-president named by prosecutors in investigation in
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/brazil-key-political-figures-face-corruption-charges-150821013638139.html)
 2. [BBC](http://www.bbc.com/news/world-latin-america-34012980)
 3. [The Guardian](http://www.theguardian.com/world/2015/aug/21/brazils-speaker-and-a-former-president-face-corruption-charges)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/21/b913b425af8543eb84a094acec25cf89_18.jpg)
 
 ### Related:
 

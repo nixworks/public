@@ -10,6 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2783895&CMP=OTC-RSSFeeds0312)
 2. [CBS](http://www.cbsnews.com/stories/2007/01/10/world/main2344598.shtml)
 3. [CNN](http://edition.cnn.com/2007/WORLD/africa/01/10/somalia.strike.ap/index.html)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2007/03/26/50e17b91-a642-11e2-a3f0-029118418759/image2608417.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gsdjgCX2JtwyHVtOEKfuVieGZaLw)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/2009101610455533672.html)
 3. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1255694824777&pagename=JPost%2FJPArticle%2FShowFull)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

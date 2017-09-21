@@ -8,6 +8,7 @@ Researchers have been able to trace a line between some of the earliest modern h
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21123717)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65413000/jpg/_65413364_65413363.jpg)
 
 ### Related:
 

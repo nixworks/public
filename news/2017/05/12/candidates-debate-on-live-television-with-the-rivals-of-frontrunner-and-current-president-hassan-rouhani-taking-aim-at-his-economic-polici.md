@@ -8,6 +8,7 @@ Iranian President Hassan Rouhani launched a stinging attack on his main conserva
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-05-12/rouhani-fires-away-at-leading-rival-a-week-before-iran-election)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3FyJDNoP5oc/v0/1200x686.jpg)
 
 ### Related:
 

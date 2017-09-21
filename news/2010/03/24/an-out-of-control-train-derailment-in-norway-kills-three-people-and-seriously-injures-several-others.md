@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010324144331137516.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8585315.stm)
 3. [CNN](http://news.blogs.cnn.com/2010/03/24/at-least-3-dead-in-norway-train-derailment/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/iran-rebukes-azerbaijan-for-allegedly-aiding-israel-s-mossad-1.412511)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.288369.1323173483!/image/1355184826.jpg_gen/derivatives/headline_1200x630/1355184826.jpg)
 
 ### Related:
 

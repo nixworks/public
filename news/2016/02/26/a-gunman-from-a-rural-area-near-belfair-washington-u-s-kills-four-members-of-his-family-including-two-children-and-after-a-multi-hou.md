@@ -8,6 +8,7 @@ The Mason County coroner’s office released the names of the family members, in
 ### Source:
 
 1. [The Seattle Times](http://www.seattletimes.com/seattle-news/crime/officials-investigating-mans-claim-he-shot-4-people-in-belfair/)
+1. [Cover Image](http://static.seattletimes.com/wp-content/uploads/2016/02/4f7d2b32-dce9-11e5-bc8a-e433c209bfb2-1560x1170.jpg)
 
 ### Related:
 

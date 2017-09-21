@@ -8,6 +8,7 @@ Rescue effort ends after refugee boat with 200 people capsized near Christmas Is
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/06/201262413621421133.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/24/201262415349637734_20.jpg)
 
 ### Related:
 

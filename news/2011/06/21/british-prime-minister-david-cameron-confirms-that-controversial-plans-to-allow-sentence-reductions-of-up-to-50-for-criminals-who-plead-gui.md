@@ -8,6 +8,7 @@ David Cameron defends his decision to scrap controversial plans to give prisoner
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13847999)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53549000/jpg/_53549339_zcamerongrab_304.jpg)
 
 ### Related:
 

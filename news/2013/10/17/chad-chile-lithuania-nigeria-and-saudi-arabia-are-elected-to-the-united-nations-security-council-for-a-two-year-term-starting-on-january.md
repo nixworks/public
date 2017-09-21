@@ -8,6 +8,7 @@ Saudi Arabia, Chad and Nigeria were elected by the U.N. General Assembly on Thur
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/17/us-un-securitycouncil-election-idUSBRE99G0R120131017)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

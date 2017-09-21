@@ -8,6 +8,7 @@ Scientists at Oxford University have begun immunising healthy volunteers with a 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-30696018)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80084000/jpg/_80084853_c0217849-ebola_vaccine_trial-spl.jpg)
 
 ### Related:
 

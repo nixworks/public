@@ -9,6 +9,7 @@ The vote followed the end of months of protests against pro-Thaksin parties that
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7782950.stm)
 2. [New York Times](http://www.nytimes.com/2008/12/16/world/asia/16thailand.html?ref=world)
+2. [Cover Image](https://static01.nyt.com/images/2008/12/15/world/16thai.75.jpg)
 
 ### Related:
 

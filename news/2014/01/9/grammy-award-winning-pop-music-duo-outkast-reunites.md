@@ -8,6 +8,7 @@ Coachella convinced OutKast and The Replacements to reunite at this year&#39;s f
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/music/2014/01/09/arcade-fire-muse-and-outkast-to-headline-coachella-2014/4387429/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

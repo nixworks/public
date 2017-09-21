@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/10/22/498963468/at-least-70-die-in-train-derailment-in-cameroon-hundreds-injured)
+1. [Cover Image](https://media.npr.org/assets/img/2016/10/22/gettyimages-616073252_wide-a0f605a6f01e4e6df988d9667b0bf983397edcd8.jpg?s=1400)
 
 ### Related:
 

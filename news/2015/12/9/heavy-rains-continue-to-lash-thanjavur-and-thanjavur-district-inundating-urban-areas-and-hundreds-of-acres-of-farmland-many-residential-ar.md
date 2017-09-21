@@ -8,6 +8,7 @@ Fields are submerged; AIADMK worker electrocuted; old man washed away
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/tamil-nadu/no-sign-of-letup-in-the-downpour/article7963264.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article10008790.ece/ALTERNATES/LANDSCAPE_615/08dec_tanren03_+TY09_ROAD.jpg.jpg)
 
 ### Related:
 

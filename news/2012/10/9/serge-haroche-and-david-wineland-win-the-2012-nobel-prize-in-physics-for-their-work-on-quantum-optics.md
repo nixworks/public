@@ -8,6 +8,7 @@ A French and American duo that developed techniques to study the interplay betwe
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/10/10/science/french-and-us-scientists-win-nobel-physics-prize.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2012/10/10/science/10nobel/10nobel-superJumbo.jpg)
 
 ### Related:
 

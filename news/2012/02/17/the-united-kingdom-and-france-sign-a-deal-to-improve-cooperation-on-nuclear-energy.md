@@ -8,6 +8,7 @@ The UK signs a deal with France to strengthen co-operation on civil nuclear ener
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17069455)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58329000/jpg/_58329953_58329952.jpg)
 
 ### Related:
 

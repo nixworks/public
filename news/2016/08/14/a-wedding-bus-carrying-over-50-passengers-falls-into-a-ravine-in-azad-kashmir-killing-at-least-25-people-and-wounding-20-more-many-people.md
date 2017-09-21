@@ -8,6 +8,7 @@ Bus carrying wedding guests fell into a ravine in Pakistan-administered Azad Kas
 ### Source:
 
 1. [Anadolu Agency](http://aa.com.tr/en/asia-pacific/pakistan-bus-falls-into-ravine-at-least-25-killed/628503)
+1. [Cover Image](http://aa.com.tr/uploads/Contents/2016/08/14/thumbs_m_c_950a0078d03c0a3890792d229621255b.jpg)
 
 ### Related:
 

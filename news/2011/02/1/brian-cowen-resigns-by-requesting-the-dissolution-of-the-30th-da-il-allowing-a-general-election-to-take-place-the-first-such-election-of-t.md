@@ -13,6 +13,7 @@ Ireland will vote on February 25 in the first general election in Europe dominat
 4. [RTÉ](http://www.rte.ie/news/2011/0201/politics2.html)
 5. [Reuters](http://www.reuters.com/article/2011/02/01/us-ireland-idUKTRE71057C20110201)
 6. [The Guardian](http://www.guardian.co.uk/world/2011/feb/01/irish-brian-cowen-election-campaign)
+6. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110201&t=2&i=324983211&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-01T175212Z_01_BTRE7101DN300_RTROPTP_0_IRELAND)
 
 ### Related:
 

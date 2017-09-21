@@ -10,6 +10,7 @@ U2 frontman Bono left hospital in Germany today after undergoing emergency surge
 1. [CNN](http://edition.cnn.com/2010/SHOWBIZ/Music/05/25/u2.bono.tour/?hpt=T2)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0525/breaking34.html?via=mr)
 3. [The Sydney Morning Herald](http://www.smh.com.au/entertainment/music/u2-cancels-glastonbury-after-bono-hurt-20100526-wbmt.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

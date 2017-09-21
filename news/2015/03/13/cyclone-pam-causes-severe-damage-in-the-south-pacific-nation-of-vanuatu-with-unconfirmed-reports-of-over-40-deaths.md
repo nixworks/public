@@ -8,6 +8,7 @@ At least eight people are dead in Vanuatu, a senior aid official says, after one
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-03-14/tc-pam-leaves-trail-of-destruction-as-it-moves-south-of-vanuatu/6318652)
+1. [Cover Image](http://www.abc.net.au/news/image/6319784-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Vietnamese lawmakers have approved a law allowing broad foreign ownership of pro
 ### Source:
 
 1. [Financial Review](http://www.afr.com/p/world/vietnam_relaxes_foreign_land_ownership_8NFO2wC6e4aWVLVmOo8TfJ)
+1. [Cover Image](http://www.afr.com/content/dam/images/1/1/u/q/o/v/image.related.afrArticleLead.620x365.11uqox.png/1417009270555.jpg)
 
 ### Related:
 

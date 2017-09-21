@@ -8,6 +8,7 @@ Russia said it had won the battle with a raging blaze aboard a nuclear submarine
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/29/us-russia-submarine-fire-idUSTRE7BS0MJ20111229)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111229&t=2&i=552529709&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BS1C5O00)
 
 ### Related:
 

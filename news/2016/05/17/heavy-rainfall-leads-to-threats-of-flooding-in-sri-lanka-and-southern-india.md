@@ -8,6 +8,7 @@ The first depression of the season in the Bay of Bengal will track near the east
 ### Source:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/flooding-downpours-threaten-sr/57437771)
+1. [Cover Image](https://accuweather.brightspotcdn.com/af/afd42225c51fbabec512734fb3ffcdd6/650x366_05171349_ap_49357073792.jpg)
 
 ### Related:
 

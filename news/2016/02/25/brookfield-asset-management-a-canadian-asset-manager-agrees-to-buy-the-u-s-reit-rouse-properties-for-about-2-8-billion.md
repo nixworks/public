@@ -8,6 +8,7 @@ U.S. real estate investment trust Rouse Properties Inc RSE.N said Canadian asset
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-rouse-m-a-brookfield-asset-idUSKCN0VY1NN)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160225&t=2&i=1120224805&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1O0QT)
 
 ### Related:
 

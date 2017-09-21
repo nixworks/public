@@ -8,6 +8,7 @@ New satellite photos seem to show &quot;significant&quot; Chinese military defen
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-38319253)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/261B/production/_90355790_mediaitem90355789.jpg)
 
 ### Related:
 

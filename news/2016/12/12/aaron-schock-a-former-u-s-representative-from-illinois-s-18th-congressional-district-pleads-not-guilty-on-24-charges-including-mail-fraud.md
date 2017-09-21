@@ -8,6 +8,7 @@ A former U.S. representative whose lavish Washington office raised questions abo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-illinois-crime-idUSKBN1412S8)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20161212&t=2&i=1165208540&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBB1GJ)
 
 ### Related:
 

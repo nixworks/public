@@ -9,6 +9,7 @@ Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21842966)
 2. [RTÉ News](http://www.rte.ie/news/2013/0319/377292-cyprus-bailout/)
+2. [Cover Image](https://img.rasset.ie/00072524-1600.jpg)
 
 ### Related:
 

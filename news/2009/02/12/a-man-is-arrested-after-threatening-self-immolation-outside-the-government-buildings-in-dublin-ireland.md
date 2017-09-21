@@ -8,6 +8,7 @@ Gardaí and fire brigade personnel have overpowered a man who threatened to set 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0212/dublin.html)
+1. [Cover Image](https://img.rasset.ie/0002101d-1600.jpg)
 
 ### Related:
 

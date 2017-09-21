@@ -8,6 +8,7 @@ The Philippines has partially lifted the ban on overseas Filipino workers (OFWs)
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-40183085)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/171C1/production/_96375649_gettyimages-489515627.jpg)
 
 ### Related:
 

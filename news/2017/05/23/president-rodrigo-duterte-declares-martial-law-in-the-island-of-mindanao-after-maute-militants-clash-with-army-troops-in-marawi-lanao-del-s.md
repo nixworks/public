@@ -9,6 +9,7 @@ Philippine President Rodrigo Duterte makes the declaration while on an official 
 
 1. [Rappler](http://www.rappler.com/nation/170745-philippines-duterte-declares-martial-law-mindanao)
 2. [The Washington Post](https://www.washingtonpost.com/amphtml/world/asia_pacific/philippine-troops-battle-is-linked-gunmen-in-southern-city/2017/05/23/0d481914-3fa5-11e7-b29f-f40ffced2ddb_story.html&freshcontent=1)
+2. [Cover Image](https://assets.rappler.com/94F744F9860941BFB1CB23C534D6310D/img/992CA9C670B7480388EFBB6A3B55E47D/marawi-city-attack-isis-maute-may-23-2017-012.jpg)
 
 ### Related:
 

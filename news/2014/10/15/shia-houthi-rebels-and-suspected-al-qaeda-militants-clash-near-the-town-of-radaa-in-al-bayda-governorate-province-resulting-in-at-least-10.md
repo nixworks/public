@@ -8,6 +8,7 @@ Shia Houthi rebels and al-Qaeda militants engage in heavy fighting in southern Y
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-29627772)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78242000/jpg/_78242701_78242700.jpg)
 
 ### Related:
 

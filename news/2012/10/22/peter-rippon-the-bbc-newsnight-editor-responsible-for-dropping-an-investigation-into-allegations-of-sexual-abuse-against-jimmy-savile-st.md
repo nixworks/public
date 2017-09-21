@@ -9,6 +9,7 @@ The BBC Director-General, George Entwistle, will be fighting for his career toda
 
 1. [BBC](http://www.bbc.co.uk/news/world-20024904)
 2. [The Independent](http://www.independent.co.uk/news/uk/home-news/newsnight-editor-peter-rippon-steps-aside-over-jimmy-savile-claims-8220491.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/10/22/18/new-splash.jpg)
 
 ### Related:
 

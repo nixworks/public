@@ -9,6 +9,7 @@ MANILA -- President Benigno Aquino III paid tribute to the life and legacy of An
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/11/30/13/pnoy-yolanda-responders-just-heroic-bonifacio)
 2. [Manila Standard Today](http://manilastandardtoday.com/2013/11/30/bonifacio-150-resumes-primacy-debate/)
+2. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/topics/bandila/2013october/103013_pnoy3.jpg)
 
 ### Related:
 

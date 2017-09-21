@@ -8,6 +8,7 @@ Vermont has become the latest state to remove criminal penalties for the possess
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-vermont-marijuana-decriminalization-20130607,0,5218333.story)
+1. [Cover Image](http://www.trbimg.com/img-51b22d2f/turbine/la-na-nn-vermont-marijuana-decriminalization-2-001/600/600x400)
 
 ### Related:
 

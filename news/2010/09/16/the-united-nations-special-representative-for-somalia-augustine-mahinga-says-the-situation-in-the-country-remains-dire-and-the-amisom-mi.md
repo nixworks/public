@@ -12,6 +12,7 @@
 3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/2010916165140506179.html)
 4. [CNN](http://edition.cnn.com/2010/WORLD/africa/09/16/somalia.shelling/)
 5. [Manilla Bulletin](http://www.mb.com.ph/articles/277484/twelve-killed-mogadishu-rebels-attack-lawmakers-meeting)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/16/201091617163654580_20.jpg)
 
 ### Related:
 

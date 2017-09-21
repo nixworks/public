@@ -13,6 +13,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 4. [New Scientist](http://www.newscientist.com/article.ns?id=dn6878)
 5. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7323241)
 6. [Wired](http://www.wired.com/news/space/0,2697,66272,00.html?tw=wn_tophead_2)
+6. [Cover Image](http://www.esa.int/)
 
 ### Related:
 
@@ -24,5 +25,5 @@ Get the latest science news and technology news, read tech reviews and more at A
 6. [ NASA's Cassini spacecraft records a hurricane-like storm on the south pole of Saturn which is the first time such an event has been observed on another planet. ](/news/2006/11/10/nasa-s-cassini-spacecraft-records-a-hurricane-like-storm-on-the-south-pole-of-saturn-which-is-the-first-time-such-an-event-has-been-observe.md) _Context: Cassini, Saturn_
 7. [ The Cassini spacecraft takes pictures of Saturn's moon Titan that appear to show the presence of hydrocarbon lakes. ](/news/2006/07/21/the-cassini-spacecraft-takes-pictures-of-saturn-s-moon-titan-that-appear-to-show-the-presence-of-hydrocarbon-lakes.md) _Context: Saturn, Titan_
 8. [ Astronomers announce that the Cassini-Huygens probe has detected possible geysers of water on Saturn's moon Enceladus, perhaps the first example of naturally occurring liquid water beyond Earth. ](/news/2006/03/9/astronomers-announce-that-the-cassiniahuygens-probe-has-detected-possible-geysers-of-water-on-saturn-s-moon-enceladus-perhaps-the-first.md) _Context: Cassini, Saturn_
-9. [ The Cassini-Huygens unmanned probe becomes the first spacecraft to orbit Saturn, and prepares to study the planet and its satellites. ](/news/2004/07/1/the-cassiniahuygens-unmanned-probe-becomes-the-first-spacecraft-to-orbit-saturn-and-prepares-to-study-the-planet-and-its-satellites.md) _Context: Cassini, Saturn_
-10. [ The Cassini-Huygens probe approaches within 2000 km of Phoebe, the outermost moon of the planet Saturn. ](/news/2004/06/11/the-cassiniahuygens-probe-approaches-within-2000-km-of-phoebe-the-outermost-moon-of-the-planet-saturn.md) _Context: Cassini, Saturn_
+9. [ NASA/ESA Spacecraft Cassini-Huygens discovers two new natural satellites of Saturn. They are provisionally named "S/2004 S 1" (later named "Methone") and "S/2004 S 2" (later named "Pallene"). ](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.md) _Context: Cassini, Saturn_
+10. [ The Cassini-Huygens unmanned probe becomes the first spacecraft to orbit Saturn, and prepares to study the planet and its satellites. ](/news/2004/07/1/the-cassiniahuygens-unmanned-probe-becomes-the-first-spacecraft-to-orbit-saturn-and-prepares-to-study-the-planet-and-its-satellites.md) _Context: Cassini, Saturn_

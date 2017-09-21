@@ -8,6 +8,7 @@ Hundreds of people have been found dead in the northeast Nigerian town of Damasa
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/hundreds-found-dead-buried-damasak-ne-nigeria-residents-205636631.html;_ylt=AwrC1CmlpD5Vw0gAkl3QtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/xbeyYob4pq5ag0KujSgj0A--/aD03NjU7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8144213-1-1-0.jpg)
 
 ### Related:
 

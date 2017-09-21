@@ -9,6 +9,7 @@ North Korea successfully launched a rocket on Wednesday, boosting the credential
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20690338)
 2. [Reuters](http://www.reuters.com/article/2012/12/12/us-korea-north-rocket-idUSBRE8BB02K20121212)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121212&t=2&i=683851744&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BB13BW00)
 
 ### Related:
 

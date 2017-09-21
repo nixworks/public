@@ -9,6 +9,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/multiple-bomb-blasts-syrian-cities-41867892)
 2. [BBC](http://www.bbc.com/news/world-middle-east-37274240)
+2. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

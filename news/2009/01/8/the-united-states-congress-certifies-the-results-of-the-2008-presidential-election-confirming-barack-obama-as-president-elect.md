@@ -8,6 +8,7 @@ Congress formally tallies the results of the 2008 presidential election, certify
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2009/01/08/obama-certified-president-united-states/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

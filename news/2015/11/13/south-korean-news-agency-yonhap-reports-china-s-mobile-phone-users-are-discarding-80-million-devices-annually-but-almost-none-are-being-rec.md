@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/13/China-discards-80-million-phones-and-none-are-being-recycled/3751447442781/?spt=rln&or=4)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3751447442781/2015/1/4aa5f8dae8803cd734347c7c443db2c8/v1.5/China-discards-80-million-phones-and-none-are-being-recycled.jpg)
 
 ### Related:
 

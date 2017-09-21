@@ -10,6 +10,7 @@ People in the Chinese city of Tianjin whose homes were damaged by the huge explo
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/angry-protesters-demand-answers-china-blast-tianjin-150817042751991.html)
 2. [BBC](http://www.bbc.com/news/world-asia-china-33955963)
 3. [Radio New Zealand Online](http://www.radionz.co.nz/news/world/281653/protesters-demand-tianjin-blast-compo)
+3. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

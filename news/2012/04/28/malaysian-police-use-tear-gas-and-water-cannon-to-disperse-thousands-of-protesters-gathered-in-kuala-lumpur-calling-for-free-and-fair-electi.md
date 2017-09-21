@@ -9,6 +9,7 @@ At least 25,000 activists took to the streets on Saturday to call for free and f
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ispoDM6d7dKxv6iV_UGnCgrM46RQ?docId=CNG.ee85d12e96c8d0fef3111bf61b8cadd3.4c1)
 2. [The New York Times](http://www.nytimes.com/2012/04/29/world/asia/malaysian-capital-braces-for-rally-by-democracy-activists.html?_r=1)
+2. [Cover Image](https://static01.nyt.com/images/2012/04/29/world/29malaysia-span/29malaysia-span-superJumbo.jpg)
 
 ### Related:
 

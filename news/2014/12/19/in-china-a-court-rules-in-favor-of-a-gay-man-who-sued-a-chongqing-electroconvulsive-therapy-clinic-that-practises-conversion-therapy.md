@@ -8,6 +8,7 @@ In a landmark case for gay rights in China, a court has ruled in favor of a man 
 ### Source:
 
 1. [The Daily Beast](http://www.thedailybeast.com/articles/2014/12/19/china-s-electroshock-gay-conversion-case.html)
+1. [Cover Image](http://cdn.thedailybeast.com/content/dailybeast/articles/2014/12/19/china-s-electroshock-gay-conversion-case/jcr:content/image.img.2000.jpg/1419041136109.cached.jpg)
 
 ### Related:
 

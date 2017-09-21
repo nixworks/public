@@ -10,6 +10,7 @@ Salmaan Taseer&#039;s son was abducted from the Gulberg area of Lahore in August
 1. [GEO TV Lahore](http://www.geo.tv/latest/101971-Shahbaz-Taseer-being-flown-back-to-Quetta-ISPR)
 2. [Reuters](http://in.reuters.com/article/pakistan-kidnapping-idINKCN0WB19A)
 3. [The Express Tribune](http://tribune.com.pk/story/1061730/shahbaz-taseer-recovered-from-balochistan-after-five-years/)
+3. [Cover Image](https://c.tribune.com.pk/2016/03/1061730-Shahbaazz-1457459246-845-640x480.jpg)
 
 ### Related:
 

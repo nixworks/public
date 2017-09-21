@@ -8,6 +8,7 @@
 ### Source:
 
 1. [LA Times](http://latimesblogs.latimes.com/technology/2011/05/microsoft-windows-8-windows-phone-7-features.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef014e889eefc6970d-120pi)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Serena Williams completed her climb back to No. 1 with a 6-4, 7-5 victory agains
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/08/sports/tennis/08women.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/09/08/sports/08open.757.jpg)
 
 ### Related:
 

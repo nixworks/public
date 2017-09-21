@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/2009112355144281591.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/23/cambodia.duch.trial/)
 3. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009112329705/National-news/duch-trial-enters-final-arguments.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

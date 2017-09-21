@@ -8,6 +8,7 @@ Delphine Boël&#8217;s has been declared inadmissible by the Belgian Court in Br
 ### Source:
 
 1. [The Royal Central](http://royalcentral.co.uk/europe/delphine-boels-case-declared-inadmissible-by-belgian-court-79359)
+1. [Cover Image](https://i1.wp.com/royalcentral.co.uk/wp-content/uploads/2016/10/Delphine_Boël.jpg?fit=1200%2C1019)
 
 ### Related:
 

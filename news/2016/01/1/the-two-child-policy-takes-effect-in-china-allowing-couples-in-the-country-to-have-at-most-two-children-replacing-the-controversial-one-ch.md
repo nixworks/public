@@ -8,6 +8,7 @@ Under the new law, married couples are now allowed to have a second child, but t
 ### Source:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/china-s-new-two-child/2391832.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)
 
 ### Related:
 

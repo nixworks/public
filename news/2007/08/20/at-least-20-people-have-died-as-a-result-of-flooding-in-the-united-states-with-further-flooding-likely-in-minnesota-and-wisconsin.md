@@ -8,6 +8,7 @@ Storms that deluged widely separated parts of the country from the upper Mississ
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/21/us/21floods.html?_r=1&ref=us&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/08/21/us/21floods-75.jpg)
 
 ### Related:
 

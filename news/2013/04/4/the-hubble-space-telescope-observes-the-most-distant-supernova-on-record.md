@@ -8,6 +8,7 @@ Scientists using the Hubble Space Telescope caught sight of Supernova UDS10Wil&#
 ### Source:
 
 1. [Space.com](http://www.space.com/20509-most-distant-supernova-found.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyNy83MzQvb3JpZ2luYWwvaHViYmxlLXdpbHNvbi1zbi1kaXN0YW50LmpwZw==)
 
 ### Related:
 

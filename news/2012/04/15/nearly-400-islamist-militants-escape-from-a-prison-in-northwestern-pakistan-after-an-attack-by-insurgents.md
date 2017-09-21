@@ -8,6 +8,7 @@ Nearly 400 prisoners including militants escaped early Sunday from a jail in nor
 ### Source:
 
 1. [Vanguard Nigeria](http://www.vanguardngr.com/2012/04/nearly-400-escape-as-islamist-militants-attack-pakistan-prison/)
+1. [Cover Image](http://www.vanguardngr.com/vangurad.png)
 
 ### Related:
 

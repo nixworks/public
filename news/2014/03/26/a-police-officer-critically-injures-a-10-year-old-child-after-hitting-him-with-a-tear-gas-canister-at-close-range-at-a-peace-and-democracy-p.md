@@ -8,6 +8,7 @@ A boy aged 10 is critically injured after reportedly being hit by a police tear 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-26746188)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73815000/jpg/_73815145_73815144.jpg)
 
 ### Related:
 

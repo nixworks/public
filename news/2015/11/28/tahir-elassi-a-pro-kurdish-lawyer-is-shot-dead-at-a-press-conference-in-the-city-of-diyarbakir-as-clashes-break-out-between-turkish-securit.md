@@ -8,6 +8,7 @@ The head of the Diyarbakir Bar Association was shot dead in the Turkish city of 
 ### Source:
 
 1. [Bloomberg'' via ''Washington Today](http://www.watoday.com.au/world/top-prokurdish-lawyer-shot-dead-in-turkeys-southeast-20151128-glam0c.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/g/k/z/0/r/7/image.related.articleLeadwide.620x349.glam0c.png/1448748131733.jpg)
 
 ### Related:
 

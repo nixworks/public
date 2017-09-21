@@ -8,6 +8,7 @@ Wheat markets tumbled the daily limit on Friday, posting their biggest daily per
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6742QQ20100806)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100806&t=2&i=173145302&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-06T070249Z_01_BTRE6750JKS00_RTROPTP_0_BELARUS)
 
 ### Related:
 

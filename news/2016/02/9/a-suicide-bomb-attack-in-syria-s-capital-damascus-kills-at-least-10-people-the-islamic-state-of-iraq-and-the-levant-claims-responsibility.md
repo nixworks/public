@@ -11,6 +11,7 @@ An airstrike targeted a hospital supported by Médecins Sans Frontières in Syri
 2. [Médecins Sans Frontières](http://www.doctorswithoutborders.org/article/msf-supported-hospital-hit-airstrikes-southern-syria)
 3. [The New York Times](http://www.nytimes.com/2016/02/10/world/middleeast/isis-syria-car-bomb.html)
 4. [UPI](http://www.upi.com/Top_News/World-News/2016/02/09/Another-MSF-hospital-hit-by-errant-airstrike-in-Syria-organization-says/1391455042755/?spt=rln&or=3)
+4. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/1391455042755/2016/1/14550521841387/v2.1/Another-MSF-hospital-hit-by-errant-airstrike-in-Syria-organization-says.jpg)
 
 ### Related:
 

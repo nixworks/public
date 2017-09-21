@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via FOX Business](http://www.foxbusiness.com/industries/2014/12/08/scotus-rejects-bp-challenge-to-gulf-spill-settlement/)
+1. [Cover Image](http://global.fncstatic.com/static/cq/fb/img/all/og-fox-business.png)
 
 ### Related:
 

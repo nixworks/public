@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10879859)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100805223112203C763728)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

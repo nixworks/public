@@ -8,6 +8,7 @@ More than 500 fans of UEFA Cup champions Zenit St Petersburg have been arrested 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2009/03/16/2516762.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

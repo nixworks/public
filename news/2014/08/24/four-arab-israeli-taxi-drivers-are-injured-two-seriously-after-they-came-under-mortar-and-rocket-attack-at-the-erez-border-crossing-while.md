@@ -11,6 +11,7 @@ Four taxi drivers injured as mortars slam into Erez terminal. &#8216;This is an 
 2. [Jerusalem Post](http://www.jpost.com/Middle-East/Palestinian-Authority-says-Hamas-shot-Fatah-men-in-legs-during-Gaza-fighting-371568)
 3. [Times of Israel](http://www.timesofisrael.com/day-49-barrage-of-rockets-before-midnight-hamas-head-says-no-return-to-talks/)
 4. [Times of Israel](http://www.timesofisrael.com/waiting-to-transport-sick-drivers-at-gaza-crossing-come-under-attack/)
+4. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/08/F140824EI01.jpg)
 
 ### Related:
 

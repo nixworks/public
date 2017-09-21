@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Taipei Times](http://www.taipeitimes.com/News/worldbiz/archives/2007/08/22/2003375338)
+1. [Cover Image](http://www.taipeitimes.com/images/2007/08/22/thumbs/20070821191836.jpeg)
 
 ### Related:
 

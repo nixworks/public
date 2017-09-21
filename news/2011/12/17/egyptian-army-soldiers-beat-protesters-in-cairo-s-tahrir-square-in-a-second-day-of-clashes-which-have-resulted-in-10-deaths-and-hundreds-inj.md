@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/17/us-egypt-idUSL6E7NH03C20111217)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111217&t=2&i=548097340&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BG0ZDM00)
 
 ### Related:
 

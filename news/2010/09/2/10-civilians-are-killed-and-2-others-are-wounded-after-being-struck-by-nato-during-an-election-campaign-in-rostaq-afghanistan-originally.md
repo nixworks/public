@@ -9,6 +9,7 @@ Ten election campaign workers have been killed in an air strike by Nato-led forc
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11163742)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6812F220100902)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

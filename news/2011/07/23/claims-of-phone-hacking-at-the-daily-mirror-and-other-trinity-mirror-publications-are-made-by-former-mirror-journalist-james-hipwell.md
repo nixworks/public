@@ -10,6 +10,7 @@ The phone-hacking story took a new and dramatic turn yesterday as a former journ
 1. [BBC](http://www.bbc.co.uk/news/uk-14259180)
 2. [The Guardian](http://www.guardian.co.uk/media/2011/jul/23/phone-hacking-piers-morgan-mirror)
 3. [The Independent](http://www.independent.co.uk/news/media/press/hacking-was-endemic-at-the-mirror-says-former-reporter-2319039.html)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54227000/jpg/_54227000_006528069-1.jpg)
 
 ### Related:
 

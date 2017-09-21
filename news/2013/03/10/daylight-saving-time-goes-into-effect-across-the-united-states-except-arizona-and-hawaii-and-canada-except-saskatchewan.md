@@ -9,6 +9,7 @@ Canadians in provinces that use daylight saving time during the summer months wi
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2013/03/06/f-daylight-savings-time-faq.html)
 2. [CNN](http://edition.cnn.com/2013/03/09/us/daylight-saving-time/)
+2. [Cover Image](https://i.cbc.ca/1.2072796.1446225794!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-sleep-teen-istockjpg.jpg)
 
 ### Related:
 

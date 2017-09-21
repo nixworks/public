@@ -8,6 +8,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/mayor-rob-ford-yes-i-have-smoked-crack-cocaine-1.2415533)
+1. [Cover Image](https://i.cbc.ca/1.2415604.1383675328!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/fordadmission.jpg)
 
 ### Related:
 

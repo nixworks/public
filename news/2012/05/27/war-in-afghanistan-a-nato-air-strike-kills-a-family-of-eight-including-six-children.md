@@ -10,6 +10,7 @@ A Nato air strike has killed eight members of a family in the eastern Afghan pro
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/05/20125277911748807.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-18224875)
 3. [The News](http://www.thenews.com.pk/article-51190-Nato-air-strike-kills-eight-civilians)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60514000/gif/_60514562_afghan_paktia_may2012.gif)
 
 ### Related:
 

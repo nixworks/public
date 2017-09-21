@@ -8,6 +8,7 @@ At least 56 civilians were killed on Tuesday in air strikes north of the besiege
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-manbij-idUSKCN0ZZ16Z)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160719&t=2&i=1146170613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6I0NR)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Andrej Kisha, a philanthropist who became rich from his consumer-credit business
 
 1. [Deutsche Welle](http://www.dw.de/polls-close-in-slovakia-runoff-election/a-17529802)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/slovakia/10732435/Millionaire-Andrej-Kiska-elected-first-Slovak-president-with-no-communist-past.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02867/Andrej-Kiska_2867011a.jpg)
 
 ### Related:
 

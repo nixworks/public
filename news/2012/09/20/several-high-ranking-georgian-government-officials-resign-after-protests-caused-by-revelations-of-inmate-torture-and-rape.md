@@ -9,6 +9,7 @@ Hundreds of people held a spontaneous protest in Georgia’s capital Tbilisi ear
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19669537)
 2. [Euronews](http://www.euronews.com/2012/09/19/georgia-prisons-minister-resigns-after-revelations-of-inmate-torture-and-rape/)
+2. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

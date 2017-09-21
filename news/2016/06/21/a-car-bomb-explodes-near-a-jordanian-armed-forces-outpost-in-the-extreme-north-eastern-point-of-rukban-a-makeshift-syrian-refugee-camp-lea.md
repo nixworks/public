@@ -8,6 +8,7 @@ Six Jordanian security personnel are killed in a suicide truck bomb attack near 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36584885)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/46CC/production/_90042181_mediaitem90042180.jpg)
 
 ### Related:
 

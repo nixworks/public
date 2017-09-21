@@ -12,6 +12,7 @@ Aid boat carrying Jewish activists sails to Gaza
 3. [CNN](http://edition.cnn.com/2010/WORLD/meast/09/26/gaza.aid.ship/)
 4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6047248,00.html)
 5. [euronews](http://www.euronews.net/2010/09/26/jewish-activists-attempt-to-break-gaza-siege/)
+5. [Cover Image](http://www.albawaba.com/sites/default/files/im/misc/gazaboat.jpg)
 
 ### Related:
 

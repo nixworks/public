@@ -8,6 +8,7 @@ Four Shia Muslim activists, including the head of the Haq Movement for Liberty a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10982402)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

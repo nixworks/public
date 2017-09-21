@@ -9,6 +9,7 @@
 
 1. [Globo](http://g1.globo.com/politica/operacao-lava-jato/noticia/2016/05/maioria-do-stf-confirma-afastamento-de-eduardo-cunha-da-camara.html)
 2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0XV1UB)
+2. [Cover Image](http://s2.glbimg.com/n5nwcgxsiuu665LtD4hbkrIYXIo=/1200x630/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/53/47/5004753)
 
 ### Related:
 

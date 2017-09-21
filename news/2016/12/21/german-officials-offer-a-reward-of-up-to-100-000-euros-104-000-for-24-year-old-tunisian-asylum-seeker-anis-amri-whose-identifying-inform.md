@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/germany-truck-tunisia-idINKBN14A0YX)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166312239&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK17X)
 
 ### Related:
 

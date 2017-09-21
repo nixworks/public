@@ -9,6 +9,7 @@ At least eight people have been killed in a bomb explosion on a bus in Peshawar 
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/13/bomb-bus-passengers-pakistan/2079691/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22136485)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66944000/gif/_66944466_pak_tir_304x171.gif)
 
 ### Related:
 

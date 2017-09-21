@@ -8,6 +8,7 @@ The Phillies beat the Dodgers in Game 5 of the N.L.C.S. to advance to the World 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/10/16/sports/baseball/16nlcs.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2008/10/15/sports/16ncls_75.jpg)
 
 ### Related:
 

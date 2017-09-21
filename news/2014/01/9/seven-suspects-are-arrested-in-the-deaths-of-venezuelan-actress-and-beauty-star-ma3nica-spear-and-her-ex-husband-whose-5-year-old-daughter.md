@@ -8,6 +8,7 @@ Venezuela says farewell to slain beauty queen
 ### Source:
 
 1. [The Miami Herald](http://www.miamiherald.com/2014/01/09/3861053/venezuela-detains-seven-in-murder.html)
+1. [Cover Image](http://www.miamiherald.com/static/images/miamiherald/facebook.jpg)
 
 ### Related:
 

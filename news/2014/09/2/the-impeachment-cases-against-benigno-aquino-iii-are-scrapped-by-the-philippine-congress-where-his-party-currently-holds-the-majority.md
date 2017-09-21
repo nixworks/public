@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Economic Times](http://m.economictimes.com/news/international/world-news/philippine-house-rejects-president-benigno-aquino-impeachment/articleshow/41518281.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-41518397,width-672,resizemode-4,imglength-21650/news/international/world-news/philippine-house-rejects-president-benigno-aquino-impeachment.jpg)
 
 ### Related:
 

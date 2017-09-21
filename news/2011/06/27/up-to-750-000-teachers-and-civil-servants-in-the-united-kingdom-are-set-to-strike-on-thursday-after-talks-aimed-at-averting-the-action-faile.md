@@ -8,6 +8,7 @@ Leader of the TUC Brendan Barber says unions will continue talks with ministers 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13923112)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53695000/jpg/_53695075_gove464in_pa2.jpg)
 
 ### Related:
 

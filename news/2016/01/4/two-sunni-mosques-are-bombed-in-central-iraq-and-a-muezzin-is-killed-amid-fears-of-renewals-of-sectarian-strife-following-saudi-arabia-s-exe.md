@@ -8,6 +8,7 @@ HILLA, Iraq (AFP) - Blasts rocked two Sunni mosques in central Iraq Monday (Jan 
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/world/middle-east/two-sunni-mosques-bombed-muezzin-killed-in-iraq-police)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/media-brightcove/4841166174001.jpg)
 
 ### Related:
 

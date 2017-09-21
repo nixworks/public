@@ -10,6 +10,7 @@ The European Union accuses Russia of putting peace efforts at risk in Syria.
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2015-10-13/eu-tells-russia-to-end-syria-attacks-or-risk-prolonging-conflict/6848710)
 2. [Daily Sabah](http://www.dailysabah.com/europe/2015/10/12/eu-foreign-ministers-urge-russia-to-stop-attacks-on-moderate-syrian-opposition)
 3. [European Council](http://www.consilium.europa.eu/en/press/press-releases/2015/10/12-fac-conclusions-syria/)
+3. [Cover Image](http://www.abc.net.au/news/image/6832658-1x1-700x700.jpg)
 
 ### Related:
 

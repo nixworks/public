@@ -9,6 +9,7 @@ Goldman Sachs reported strong earnings on Thursday, but the bank reduced the sha
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8472315.stm)
 2. [The New York Times](http://www.nytimes.com/2010/01/22/business/22goldman.html?hp)
+2. [Cover Image](https://static01.nyt.com/images/2010/01/22/business/22goldman_CA0/thumbStandard.jpg)
 
 ### Related:
 

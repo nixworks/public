@@ -9,6 +9,7 @@ THE TAOISEACH Brian Cowen will be Ryan Tubridy&rsquo;s first guest when he prese
 
 1. [Irish Examiner](http://www.irishexaminer.com/home/the-new-look-late-late-100186.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0904/1224253820581.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

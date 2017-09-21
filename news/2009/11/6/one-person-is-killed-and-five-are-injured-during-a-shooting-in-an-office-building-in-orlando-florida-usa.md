@@ -9,6 +9,7 @@ An ex-employee of an engineering consulting firm who was laid off in 2007 opened
 
 1. [CNN](http://www.cnn.com/2009/CRIME/11/06/orlando.shootings/index.html?eref=rss_topstories)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE5A54FB20091106)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091106&t=2&i=12237362&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-06T215518Z_01_BTRE5A51OWC00_RTROPTP_0_USA-OFFICE-SHOOTING)
 
 ### Related:
 

@@ -14,6 +14,7 @@ A gunman kills 20 children and six adults at a primary school in Connecticut - i
 5. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323297104578179271453737596.html)
 6. [The Washington Post](http://www.washingtonpost.com/national/gunman-kills-mother-then-26-in-grade-school-rampage-in-connecticut/2012/12/15/9017a784-46b6-11e2-8061-253bccfc7532_story_1.html)
 7. [WABC](http://abclocal.go.com/wabc/story?section=news/local/northern_suburbs&id=8920181)
+7. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64774000/jpg/_64774514_newtownbee.jpg)
 
 ### Related:
 

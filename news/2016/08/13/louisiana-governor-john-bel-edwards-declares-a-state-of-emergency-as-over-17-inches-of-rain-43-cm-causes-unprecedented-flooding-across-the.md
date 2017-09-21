@@ -9,6 +9,7 @@ U.S. President Barack Obama issued a disaster declaration on Sunday for flood-ra
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-08-13-US--Deep%20South%20Weather/id-72fa84916550437b80282b9c3fc92c5c)
 2. [Reuters](http://www.reuters.com/article/us-usa-weather-floods-idUSKCN10N2D4)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160814&t=2&i=1149622996&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7D0FA)
 
 ### Related:
 

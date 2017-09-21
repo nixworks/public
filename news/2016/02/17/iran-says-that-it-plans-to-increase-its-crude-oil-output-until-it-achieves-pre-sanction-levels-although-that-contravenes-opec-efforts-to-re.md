@@ -8,6 +8,7 @@ Iran on Wednesday stopped short of offering to restrain oil output as part of a 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-opec-oil-iran-idUSKCN0VQ17P)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160217&t=2&i=1118171507&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1G0L5)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Military-ruled Fiji was on Tuesday suspended from the Commonwealth of Nations af
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8231717.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/Fiji-suspended-from-Commonwealth-over-failure-to-restore-democracy/articleshow/4961084.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The arrest of Samar Badawi, a prominent human rights defender, as well as the si
 1. [Amnesty International](http://www.amnestyusa.org/news/press-releases/arrest-of-human-rights-defender-samar-badawi-in-saudi-arabia-latest-attempt-to-intimidate-activists)
 2. [CNN](http://www.cnn.com/2016/01/12/middleeast/samar-badawi-arrest-saudi-arabia/)
 3. [The Guardian](http://www.theguardian.com/world/2016/jan/12/samar-badawi-sister-blogger-raif-badawi-arrested-saudi-arabia)
+3. [Cover Image](http://www.amnestyusa.org/sites/default/files/cyivvlsweam3a9j.jpg)
 
 ### Related:
 

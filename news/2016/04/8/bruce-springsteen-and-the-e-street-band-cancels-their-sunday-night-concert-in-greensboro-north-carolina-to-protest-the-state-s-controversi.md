@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rolling Stone](http://www.rollingstone.com/music/news/bruce-springsteen-cancels-north-carolina-gig-to-protest-bathroom-bill-20160408)
+1. [Cover Image](http://img.wennermedia.com/social/rs-235859-GettyImages-516313196.jpg)
 
 ### Related:
 

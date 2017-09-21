@@ -8,6 +8,7 @@ Thai Prime Minister Yingluck Shinawatra urges anti-government demonstrators to e
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25118083)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71393000/jpg/_71393085_020145369getty.jpg)
 
 ### Related:
 

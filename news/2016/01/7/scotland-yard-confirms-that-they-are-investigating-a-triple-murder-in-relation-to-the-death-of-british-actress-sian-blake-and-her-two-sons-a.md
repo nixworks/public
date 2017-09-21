@@ -8,6 +8,7 @@ FORMER EastEnders actress Sian Blake and her two young sons, Zachary and Amon, d
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/eastenders-actress-sons-murdered/news-story/5ea8bc580d1c02dd4f65679783d581eb?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

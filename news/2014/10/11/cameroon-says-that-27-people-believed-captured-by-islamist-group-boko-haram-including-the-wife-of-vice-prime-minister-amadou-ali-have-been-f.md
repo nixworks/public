@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/10/11/cameroon-says-27-hostages-believed-kidnapped-by-boko-haram-freed/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

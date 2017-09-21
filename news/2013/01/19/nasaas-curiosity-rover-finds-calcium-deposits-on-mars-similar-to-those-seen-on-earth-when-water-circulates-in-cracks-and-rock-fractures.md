@@ -9,6 +9,7 @@ Watch or download the latest launch videos, mission updates, animations, This We
 
 1. [NASA](http://www.nasa.gov/multimedia/videogallery/index.html?collection_id=14483&media_id=158615081&module=homepage)
 2. [Universe Today](http://www.universetoday.com/99527/msl-update-curiosity-finds-calcium-rich-deposits/)
+2. [Cover Image](http://www.nasa.gov/sites/default/files/files/nasa_insignia_300.jpg)
 
 ### Related:
 

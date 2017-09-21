@@ -8,6 +8,7 @@ REYKJAVIK, Iceland (AP) — Iceland looked likely to steer away from a Pirate ta
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/9defc6ffb7d244d481864dd4d1489e50/pirates-aim-gains-icelanders-choose-new-government)
+1. [Cover Image](http://binaryapi.ap.org/4fafd831b06f478db51150a0a2558699/460x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Chinese President Xi Jinping&#39;s first stop on his United States tour isn&#39;
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/tech/2015/09/21/china-president-xi-seattle-internet-cyber-security/72425102/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AFP via ''StraitsTimes](http://www.straitstimes.com/asia/east-asia/japan-lawmakers-scuffle-over-controversial-security-bills)
 2. [BBC](http://www.bbc.com/news/world-asia-34275968)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/090F/production/_85591320_85591319.jpg)
 
 ### Related:
 

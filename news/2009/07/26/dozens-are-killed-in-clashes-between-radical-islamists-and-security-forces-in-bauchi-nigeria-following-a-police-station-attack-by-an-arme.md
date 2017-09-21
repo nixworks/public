@@ -9,6 +9,7 @@ More than 50 Nigerians were killed today in clashes between security forces and 
 
 1. [Reuters](http://www.reuters.com/article/newsMaps/idUSTRE56P0MA20090726)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0726/breaking18.htm)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

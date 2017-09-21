@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2014-05-03/afghanistan-landslide-villages-hundreds-feared-dead/5428048)
+1. [Cover Image](http://www.abc.net.au/news/image/5428712-1x1-700x700.jpg)
 
 ### Related:
 

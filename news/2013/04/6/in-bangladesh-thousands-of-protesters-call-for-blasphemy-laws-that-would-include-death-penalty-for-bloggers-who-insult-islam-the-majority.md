@@ -8,6 +8,7 @@ Hundreds of thousands of marchers call for law that would include death penalty 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134661058364976.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/7/20134723044291734_20.jpg)
 
 ### Related:
 

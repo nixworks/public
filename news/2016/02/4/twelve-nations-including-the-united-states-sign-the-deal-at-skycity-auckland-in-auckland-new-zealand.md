@@ -9,6 +9,7 @@ The long-awaited Trans Pacific Partnership, one of the biggest multinational tra
 
 1. [BBC](http://www.bbc.com/news/business-35480600)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/02/03/US-11-nations-sign-contested-Trans-Pacific-trade-deal-Sanders-vows-to-kill-it-if-elected/3911454547462/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11377/production/_88091507_usrepresentativemichaelfromanleftandvietnamministervuhuyhoangrightcelebratestheafterthesigningofthetpp.jpg)
 
 ### Related:
 

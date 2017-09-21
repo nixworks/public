@@ -10,6 +10,7 @@ The 41-year-old rhino has been under veterinary care for a bacterial infection a
 1. [ABC News](http://abcnews.go.com/US/wireStory/endangered-white-rhino-dies-san-diego-zoo-35357190)
 2. [F&F Photography-2014](https://featherandfurphotography.wordpress.com/2014/03/30/only-7-northern-white-rhinos-remain-on-planet-earth/)
 3. [San Diego Union Tribune](http://www.sandiegouniontribune.com/news/2015/nov/22/northern-white-rhino-dies-at-sd-zoo-safari-park/)
+3. [Cover Image](http://www.trbimg.com/img-57bccbf5/turbine/sdut-northern-white-rhino-dies-at-sd-zoo-safari-park-2015nov22)
 
 ### Related:
 

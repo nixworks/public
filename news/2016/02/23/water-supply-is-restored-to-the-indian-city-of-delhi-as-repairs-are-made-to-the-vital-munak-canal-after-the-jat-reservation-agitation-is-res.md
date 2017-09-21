@@ -8,6 +8,7 @@ Water supply is partially restored in the Indian capital, Delhi, where up to 10 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-35638161)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F603/production/_88397926_88397925.jpg)
 
 ### Related:
 

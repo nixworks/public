@@ -8,6 +8,7 @@ A notebook full of Pablo Picasso&rsquo;s sketches worth several million euros ha
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0609/breaking45.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

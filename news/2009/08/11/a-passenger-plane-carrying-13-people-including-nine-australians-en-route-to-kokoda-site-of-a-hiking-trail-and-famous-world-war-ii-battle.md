@@ -9,6 +9,7 @@ A passenger plane carrying 13 people, including nine Australians, is missing fea
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8195167.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0811/png.html)
+2. [Cover Image](https://img.rasset.ie/000281cd-1600.jpg)
 
 ### Related:
 

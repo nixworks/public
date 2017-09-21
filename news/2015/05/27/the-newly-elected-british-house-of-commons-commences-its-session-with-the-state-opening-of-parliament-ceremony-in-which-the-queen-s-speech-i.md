@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-32894214)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/83253000/jpg/_83253307_queen.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A ban on tobacco displays is coming into force in England - with ministers promi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-17626133)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59528000/jpg/_59528864_014317654-1.jpg)
 
 ### Related:
 

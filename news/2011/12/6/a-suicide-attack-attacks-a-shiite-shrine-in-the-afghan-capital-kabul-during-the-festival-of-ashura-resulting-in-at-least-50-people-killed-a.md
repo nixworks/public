@@ -11,6 +11,7 @@
 2. [AP via NineMSN](http://news.ninemsn.com.au/world/8385613/blast-rocks-kabul-shrine-many-feared-dead)
 3. [Reuters](http://www.reuters.com/article/2011/12/06/us-kabul-blast-idUSTRE7B50C320111206?feedType=RSS&feedName=worldNews)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/dec/06/kabul-shrine-blast-kills-worshippers)
+4. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111206&t=2&i=543653934&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B510YF00)
 
 ### Related:
 

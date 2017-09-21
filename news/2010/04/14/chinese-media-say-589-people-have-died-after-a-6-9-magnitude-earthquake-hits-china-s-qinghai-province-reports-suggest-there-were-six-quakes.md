@@ -11,6 +11,7 @@ Chinese authorities raced against time, distance, altitude and wind in a remote 
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-04/14/content_9728383.htm)
 3. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-china-earthquake15-2010apr15,0,2837670.story)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/apr/14/china-earthquake-death-toll-yushu)
+4. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

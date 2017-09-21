@@ -9,6 +9,7 @@ A UN report accuses security in Myanmar forces of gang-raping Rohingya women and
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/rohingyas-killed-myanmar-crackdown-170203101817841.html)
 2. [BBC](http://www.bbc.com/news/world-asia-38858655)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17470/production/_93944359_rohingyawoman.jpg)
 
 ### Related:
 

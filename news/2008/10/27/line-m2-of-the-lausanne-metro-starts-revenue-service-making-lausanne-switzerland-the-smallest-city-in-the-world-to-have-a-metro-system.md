@@ -8,6 +8,7 @@
 ### Source:
 
 1. [swissinfo](http://www.swissinfo.ch/eng/news_digest/Lausanne_underground_officially_opens.html?siteSect=104&sid=9894680&cKey=1225104122000&ty=nd)
+1. [Cover Image](/static/Themes/basic/img/logos/swi_logo_1200x630.jpg)
 
 ### Related:
 

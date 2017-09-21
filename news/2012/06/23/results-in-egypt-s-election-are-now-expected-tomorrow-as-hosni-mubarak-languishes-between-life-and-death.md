@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Associated Press via CBC](http://www.cbc.ca/news/world/story/2012/06/23/egypt-election-protests.html)
+1. [Cover Image](https://i.cbc.ca/1.1528223.1379039647!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-cairo-tahrir-square-protest-852-ap-02849991.jpg)
 
 ### Related:
 

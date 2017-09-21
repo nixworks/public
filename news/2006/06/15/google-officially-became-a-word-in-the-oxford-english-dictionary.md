@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ResourceShelf](http://web.resourceshelf.com/go/resourceblog/42925)
+1. [Cover Image](http://web.resourceshelf.com/library/Logo-ResourceShelf-RS_72x72.png)
 
 ### Related:
 

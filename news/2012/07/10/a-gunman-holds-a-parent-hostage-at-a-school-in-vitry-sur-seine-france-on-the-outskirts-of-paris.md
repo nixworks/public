@@ -8,3 +8,4 @@ A man apparently brandishing a fake gun releases the last hostage he was holding
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18779293)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61471000/jpg/_61471188_c78zvcwf.jpg)

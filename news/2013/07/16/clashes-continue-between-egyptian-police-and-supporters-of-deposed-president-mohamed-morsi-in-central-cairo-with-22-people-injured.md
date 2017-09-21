@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/07/16/us-egypt-protests-idUSBRE96E01E20130716)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130716&t=2&i=751299625&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96F0RYR00)
 
 ### Related:
 

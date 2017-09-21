@@ -11,6 +11,7 @@ Members of the Irish Catholic hierarchy are in Rome in advance of their meeting 
 2. [RTÉ](http://www.rte.ie/news/2010/0214/abuse.html)
 3. [Reuters](http://www.reuters.com/article/idUSTRE61D13J20100214)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/weekend/2010/0213/1224264326892.html)
+4. [Cover Image](https://img.rasset.ie/0002cbce-1600.jpg)
 
 ### Related:
 

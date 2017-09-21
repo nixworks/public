@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-court-immigration-idUSKCN1231FS)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161003&t=2&i=1155969563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC920ZO)
 
 ### Related:
 

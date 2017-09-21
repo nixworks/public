@@ -8,6 +8,7 @@ California beginsmarrying gay and lesbian couples on Monday afternoon in a stepl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/marketsNews/idUSN1629533520080616?sp=true)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

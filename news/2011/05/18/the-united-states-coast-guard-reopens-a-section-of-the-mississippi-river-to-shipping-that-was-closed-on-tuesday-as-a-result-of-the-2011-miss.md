@@ -8,6 +8,7 @@ The US Coast Guard re-opens a section of the swollen Mississippi River to shippi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13434361)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52803000/jpg/_52803977_012003177-1.jpg)
 
 ### Related:
 

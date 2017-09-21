@@ -8,6 +8,7 @@ Prime Minister John Howard has announced an independent inquiry into the spread 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/02/2021720.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/652270-1x1-700x700.jpg)
 
 ### Related:
 

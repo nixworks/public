@@ -11,6 +11,7 @@ Officials in Sri Lanka say 25 people, not the 60 earlier stated, were killed in 
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11341236)
 3. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Over-60-killed-in-Sri-Lanka-explosives-depot-blast/articleshow/6571649.cms)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/17/c_13517525.htm)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

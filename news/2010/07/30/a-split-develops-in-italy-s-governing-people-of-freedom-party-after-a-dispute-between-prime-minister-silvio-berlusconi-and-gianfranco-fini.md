@@ -8,6 +8,7 @@ ROME: Silvio Berlusconi&#039;s government is in danger of collapse, with open wa
 ### Source:
 
 1. [Telegraph and agencies via ''Sydney Morning Herald](http://www.smh.com.au/world/berlusconis-war-with-party-colleague-could-bring-down-government-20100730-10zq9.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/0/z/q/y/image.related.thumbnail.320x214.10zq9.png/1280509201000.jpg)
 
 ### Related:
 

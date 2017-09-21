@@ -8,6 +8,7 @@ The U.S. economy sheds 54,000 nonfarm jobs in August, fewer than forecast, as th
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/us-economy-sheds-54000-nonfarm-jobs-in-aug-2010-09-03?dist=beforebell)
+1. [Cover Image](http://s.marketwatch.com/public/resources/MWimages/MW-AG184_payrol_MD_20100903092410.jpg)
 
 ### Related:
 

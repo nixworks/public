@@ -8,6 +8,7 @@ Grenade attack destroys a minibus in a Somali-dominated neighbourhood of the cap
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/20121118135632876369.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/18/20121118154225560734_20.jpg)
 
 ### Related:
 

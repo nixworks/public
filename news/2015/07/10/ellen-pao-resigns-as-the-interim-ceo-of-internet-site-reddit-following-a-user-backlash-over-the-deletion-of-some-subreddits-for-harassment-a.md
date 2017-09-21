@@ -8,6 +8,7 @@ Reddit, one of the most highly trafficked websites in the world, is replacing it
 ### Source:
 
 1. [WSJ](http://blogs.wsj.com/digits/2015/07/10/ellen-pao-is-out-as-ceo-of-reddit/)
+1. [Cover Image](http://si.wsj.net/public/resources/images/BN-JG484_reddit_P_20150706211341.jpg)
 
 ### Related:
 

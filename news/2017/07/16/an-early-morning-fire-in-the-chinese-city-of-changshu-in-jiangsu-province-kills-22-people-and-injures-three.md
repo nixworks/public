@@ -8,6 +8,7 @@ The fire broke out in a house in Changshu city in Jiangsu province.
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/world-news/22-killed-in-fire-in-china-s-jiangsu-province/story-U15HeBpKER0Dkf1EItSJyI.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/07/16/Pictures/_f8274d0c-69f2-11e7-ae46-9bfe7bf72e96.jpg)
 
 ### Related:
 

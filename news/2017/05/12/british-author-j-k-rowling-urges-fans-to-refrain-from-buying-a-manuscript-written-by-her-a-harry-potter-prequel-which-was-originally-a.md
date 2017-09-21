@@ -8,6 +8,7 @@
 ### Source:
 
 1. [People](http://people.com/books/harry-potter-handwritten-prequel-stolen-in-burglary-jk-rowling/)
+1. [Cover Image](http://i0.wp.com/peopledotcom.files.wordpress.com/2016/11/jk-rowling.jpg?crop=0px%2C0px%2C1751px%2C919.275px&amp;resize=1200%2C630&amp;ssl=1)
 
 ### Related:
 

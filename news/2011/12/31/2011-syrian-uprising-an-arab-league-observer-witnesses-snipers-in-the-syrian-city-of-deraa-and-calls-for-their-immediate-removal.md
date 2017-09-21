@@ -8,6 +8,7 @@ Observer says he witnessed snipers in southern Syrian city, as huge rallies took
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011123164911825320.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/31/20111231161514458734_20.jpg)
 
 ### Related:
 

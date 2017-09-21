@@ -10,6 +10,7 @@ Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she
 1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/protestors-throw-eggs-and-cheese-at-harney-481576.html)
 2. [RTÉ](http://www.rte.ie/news/2010/1112/harneym.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1112/breaking37.html)
+3. [Cover Image](https://img.rasset.ie/0003e91f-1600.jpg)
 
 ### Related:
 

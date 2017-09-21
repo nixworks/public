@@ -10,6 +10,7 @@ Thirteen people, including 3-year-old Deonta&apos; Howard, who suffered a gunsho
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-multiple-people-including-3yearold-shot-in-south-side-attack-20130919,0,352520.story)
 2. [The New York Times](http://www.nytimes.com/2013/09/21/us/chicago-shooting.html?_r=0)
 3. [Yahoo News](http://news.yahoo.com/12-including-child-3-shot-chicago-park-060122294.html)
+3. [Cover Image](http://www.trbimg.com/img-523c8608/turbine/chi-multiple-people-including-3yearold-shot-in-south-side-attack-20130919)
 
 ### Related:
 

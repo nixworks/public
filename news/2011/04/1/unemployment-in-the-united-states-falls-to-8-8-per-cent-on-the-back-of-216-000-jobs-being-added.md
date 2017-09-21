@@ -8,6 +8,7 @@ The U.S. economy posted a second straight month of solid gains in March, marking
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/42373010/ns/business-eye_on_the_economy/from/toolbar)
+1. [Cover Image](http://media3.s-nbcnews.com/j/reuters/2011-04-01t111202z_01_btre7300v4800_rtroptp_3_usa-economy-jobs.standard.jpg)
 
 ### Related:
 

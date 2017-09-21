@@ -10,6 +10,7 @@ Private newspapers are published in Burma for the first time in almost 50 years,
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21991899)
 2. [GlobalPost](http://www.globalpost.com/dispatch/news/regions/asia-pacific/myanmar/130401/private-newspapers-myanmar)
 3. [Reuters](http://www.reuters.com/article/2013/04/01/us-myanmar-press-idUSBRE93007320130401)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66692000/jpg/_66692069_66692068.jpg)
 
 ### Related:
 

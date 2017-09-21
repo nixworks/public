@@ -16,6 +16,7 @@ Turkey&#x27;s president declared he is in control of the NATO country early Satu
 7. [Reuters via Yahoo! News](https://www.yahoo.com/news/greece-arrests-eight-aboard-turkish-military-helicopter-101227848.html)
 8. [Reuters](http://www.reuters.com/article/us-turkey-security-usa-flights-idUSKCN0ZW15C)
 9. [The New York Times](http://www.nytimes.com/2016/07/16/world/europe/military-attempts-coup-in-turkey-prime-minister-says.html?emc=edit_na_20160715&nlid=66213151&ref=cta)
+9. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_28/1623726/ss-160716-coup-celebrations-_3_9c6d488f54e38bc2588edf5349a982ac.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gujarat chief minister Narendra Modi has ordered an inquiry in the stampede at t
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/modi-orders-inquiry-after-six-dead-in-temple-stampede-177796&cp)
+1. [Cover Image](http://i.ndtvimg.com/mt/2012-02/Gujarat_temple_stampede_295x200.jpg)
 
 ### Related:
 

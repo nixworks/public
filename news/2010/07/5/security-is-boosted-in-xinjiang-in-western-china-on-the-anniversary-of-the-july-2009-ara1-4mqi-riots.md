@@ -9,6 +9,7 @@
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/05/xianjiang-riots-security-uighur-han)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/security-tight-on-china-ethnic-unrest-anniversary-20100705-zwqs.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

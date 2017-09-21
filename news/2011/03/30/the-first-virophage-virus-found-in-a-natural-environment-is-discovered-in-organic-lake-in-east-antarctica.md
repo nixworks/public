@@ -9,6 +9,7 @@
 
 1. [Nature](http://www.nature.com/news/2011/110328/full/news.2011.188.html)
 2. [PhysOrg](http://www.physorg.com/news/2011-03-virus-eating-virus-antarctic-lake.html)
+2. [Cover Image](https://cf3e497594.site.internapcdn.net/tmpl/v5/img/phys_308px.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ''Times of India](http://timesofindia.indiatimes.com/world/middle-east/Syria-says-shoots-down-two-of-three-Islamic-State-jets/articleshow/44914318.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

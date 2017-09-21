@@ -9,6 +9,7 @@ A new Russian Sukhoi Superjet passenger plane carrying 50 people goes missing on
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18004097)
 2. [CNN](http://edition.cnn.com/2012/05/09/world/asia/indonesia-plane/index.html?hpt=hp_t1)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60116000/jpg/_60116214_141287002.jpg)
 
 ### Related:
 

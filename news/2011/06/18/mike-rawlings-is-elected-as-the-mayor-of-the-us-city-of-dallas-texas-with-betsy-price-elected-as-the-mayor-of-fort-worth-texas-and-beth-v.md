@@ -8,6 +8,7 @@ Dallas, Fort Worth, and Irving elected new mayors in the June run-off elections.
 ### Source:
 
 1. [NBC Dallas Fort Worth](http://www.nbcdfw.com/news/politics/New-North-Texas-Mayors-Elected-124142114.html)
+1. [Cover Image](http://media.nbcdfw.com/images/1200*675/mayors.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Yukio Hatoyama quits partly over broken promise to move US military base off Oki
 1. [AP via Yahoo News](http://news.yahoo.com/s/nm/20100602/ts_nm/us_japan_politics)
 2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/20106205314278472.html)
 3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704875604575281292285208862.html?mod=googlenews_wsj)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of voters across England, Scotland and Wales are going to the polls to
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/05/04/local-elections-2017-results-analysis/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/05/04/TELEMMGLPICT000127733725_1-xlarge_trans_NvBQzQNjv4Bq8JWdQZ1J_PyHeSO_SJ-VAoyYNSukMALmIzuk96PqrxU.jpeg)
 
 ### Related:
 

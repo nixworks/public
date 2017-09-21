@@ -8,6 +8,7 @@ Officials say two men dressed as women tried to break through a security gate to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-32121316)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82013000/jpg/_82013031_82013030.jpg)
 
 ### Related:
 

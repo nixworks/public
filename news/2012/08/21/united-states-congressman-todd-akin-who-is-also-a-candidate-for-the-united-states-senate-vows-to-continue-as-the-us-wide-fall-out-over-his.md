@@ -8,6 +8,7 @@ US Representative Todd Akin, under fire for controversial remarks on abortion an
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/0821/todd-akin-rape-abortion.html)
+1. [Cover Image](https://img.rasset.ie/00064b3e-1600.jpg)
 
 ### Related:
 

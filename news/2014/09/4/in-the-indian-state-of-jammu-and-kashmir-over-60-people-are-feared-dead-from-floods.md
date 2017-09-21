@@ -8,6 +8,7 @@ Army personnel rescued flood-affected villagers of Mirbaazar in Kulgam district 
 ### Source:
 
 1. [Indian Express](http://indianexpress.com/photos/picture-gallery-others/floods-hit-kulgam-district-in-jammu-and-kashmir/#flood-in-sriinaga1)
+1. [Cover Image](http://images.indianexpress.com/2014/09/thumb21.jpg?w=410)
 
 ### Related:
 

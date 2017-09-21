@@ -9,6 +9,7 @@ Jimmy Wales said the new platform, Wikitribune, would be free to read and carry 
 
 1. [NBC News](http://www.nbcnews.com/tech/tech-news/wikipedia-founder-jimmy-wales-launches-project-fix-news-n750591?cid=sm_npd_nn_fb_ma)
 2. [Nieman Foundation for Journalism](http://www.niemanlab.org/2017/04/wikipedia-founder-jimmy-wales-launches-wikitribune-news-by-the-people-and-for-the-people/)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_17/1976546/2017-04-25t094749z_517901468_rc1c569b0ce0_rtrmadp_3_media-wikitribune_41a9ae45487e2dc55e58b93a51548879.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

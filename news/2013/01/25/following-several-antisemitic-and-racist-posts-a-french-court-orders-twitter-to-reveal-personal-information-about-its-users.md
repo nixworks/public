@@ -10,6 +10,7 @@ In yet another struggle over speech on the Internet, a French court told Twitter
 1. [The New York Times](http://www.nytimes.com/2013/01/25/technology/twitter-ordered-to-help-reveal-sources-of-anti-semitic-posts.html)
 2. [UPI](http://www.upi.com/Science_News/Technology/2013/01/25/French-court-rules-on-hate-tweets/UPI-38951359153077/)
 3. [ZDNet](http://www.zdnet.com/twitter-ordered-to-give-up-details-of-racist-tweeters-7000010283/)
+3. [Cover Image](https://static01.nyt.com/images/2013/01/25/business/Tweetjp/Tweetjp-videoLarge.jpg)
 
 ### Related:
 

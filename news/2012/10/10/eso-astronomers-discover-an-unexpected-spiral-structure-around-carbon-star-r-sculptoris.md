@@ -8,6 +8,7 @@ Astronomers have discovered an unexpected spiral structure in the material aroun
 ### Source:
 
 1. [Red Orbit](http://www.redorbit.com/news/space/1112710760/alma-eso-r-sculptoris-101012/)
+1. [Cover Image](http://www.redorbit.com/media/uploads/2012/10/space-101012-006.jpg)
 
 ### Related:
 

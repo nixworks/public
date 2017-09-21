@@ -8,6 +8,7 @@ Wikileaks founder Julian Assange has been served with an extradition notice by t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18629906)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61035000/jpg/_61035652_assange2.jpg)
 
 ### Related:
 

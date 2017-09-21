@@ -8,6 +8,7 @@ Britain has become &ldquo;completely lost&rdquo; post Brexit and can eventually 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/09/09/uk-completely-lost-post-brexit-and-will-plead-for-a-deal-top-bru/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/05/11/97127914_jean-claude-juncker-xlarge_trans_NvBQzQNjv4Bq15XUfPwoY7svuJOpueeorRfiMJGWaRBFeEzgYZ6y4S0.jpg)
 
 ### Related:
 

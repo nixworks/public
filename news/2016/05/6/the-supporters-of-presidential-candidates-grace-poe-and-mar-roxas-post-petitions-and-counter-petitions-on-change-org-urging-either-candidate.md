@@ -16,6 +16,7 @@ Manila Standard | Defining The News
 7. [Rappler](http://www.rappler.com/nation/politics/elections/2016/132060-leni-robredo-vp-bid-sendoff)
 8. [The Manila Standard](http://thestandard.com.ph/news/-main-stories/top-stories/204990/poe-roxas-camps-tell-each-other-to-quit.html)
 9. [The Philippine Star](http://www.philstar.com/headlines/2016/05/07/1580579/grace-poe-mars-call-whats-there-talk-about)
+9. [Cover Image](http://thestandard.com.ph/panel/_files/image/top2_may6.jpg)
 
 ### Related:
 

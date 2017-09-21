@@ -8,6 +8,7 @@ Craig Spencer, a New York doctor whose hospitalization for Ebola stirred fears t
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/11/11/new-york-ebola-craig-spencer-doctor-released/18847045/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

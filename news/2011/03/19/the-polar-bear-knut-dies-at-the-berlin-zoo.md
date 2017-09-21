@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/42166988/ns/world_news-europe/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110319-knut-hmed-10a.standard.jpg)
 
 ### Related:
 

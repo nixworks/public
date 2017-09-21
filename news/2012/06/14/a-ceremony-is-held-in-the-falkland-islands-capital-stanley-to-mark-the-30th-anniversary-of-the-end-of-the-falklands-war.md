@@ -9,6 +9,7 @@ Falkland Islanders mark 30 years since the end of the war with Argentina with a 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18437000)
 2. [BBC](http://www.bbc.co.uk/news/uk-18453372)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60891000/jpg/_60891005_015036397-1.jpg)
 
 ### Related:
 

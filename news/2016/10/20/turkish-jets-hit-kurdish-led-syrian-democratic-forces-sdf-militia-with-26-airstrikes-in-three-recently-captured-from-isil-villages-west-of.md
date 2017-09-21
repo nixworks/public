@@ -9,6 +9,7 @@ Turkish air strikes pounded a group of Kurdish fighters allied to a U.S.-backed 
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-kurds-idUSKCN12K0ER)
 2. [USA Today](http://www.usatoday.com/story/news/world/2016/10/20/turkish-media-strikes-kill-up-200-kurdish-militants-syria/92450020/)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161020&t=2&i=1158293653&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9J0BE)
 
 ### Related:
 

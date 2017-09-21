@@ -8,6 +8,7 @@ New commercial satellite imagery indicates North Korea has resumed operation of 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-idUSKBN15B270)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170127&t=2&i=1170453041&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0Q199)
 
 ### Related:
 

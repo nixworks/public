@@ -9,6 +9,7 @@ Tunisian party leaders were meeting Monday to try to agree on a new premier in a
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2013/10/28/Tunisia-s-Ennahda-will-give-up-government-but-not-power-says-party-leader.html)
 2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Oct-28/236049-tunisia-party-chiefs-to-negotiate-on-new-pm.ashx#axzz2j2o9e7YA)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/10/28/219958_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

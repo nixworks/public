@@ -9,6 +9,7 @@ A dispatch from an international human rights organization criticized on Wednesd
 
 1. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
 2. [The Philippine Star](http://www.philstar.com/headlines/2015/09/09/1497798/aquino-hit-disappointingly-predictable-reaction-lumad-killings)
+2. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20150909/lumad-killings-protest.jpg)
 
 ### Related:
 

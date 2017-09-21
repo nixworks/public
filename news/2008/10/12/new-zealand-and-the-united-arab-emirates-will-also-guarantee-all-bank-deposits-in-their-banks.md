@@ -8,6 +8,7 @@ Australia, New Zealand and the United Arab Emirates have said they will guarante
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2008/1012/economy1.html)
+1. [Cover Image](https://img.rasset.ie/000182be-1600.jpg)
 
 ### Related:
 

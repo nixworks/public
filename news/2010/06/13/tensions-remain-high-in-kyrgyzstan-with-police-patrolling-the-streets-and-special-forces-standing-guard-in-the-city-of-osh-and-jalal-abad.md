@@ -16,6 +16,7 @@ Authorities struggling to restore order in southern region where ethnic violence
 7. [presstv.ir](http://www.presstv.ir/detail.aspx?id=130256&sectionid=351020406)
 8. [swissinfo](http://www.swissinfo.ch/eng/news/international/Ethnic_riots_kill_83_in_Kyrgyzstan.html?cid=9083286)
 9. [trtenglish](http://www.trtenglish.com/trtinternational/en/newsDetail.aspx?HaberKodu=8a07aa35-2883-47ff-a8e1-9c48a959d2b7)
+9. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

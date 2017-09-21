@@ -8,6 +8,7 @@ Two crude bombs hit Malegaon in Maharashtra, killing seven and injuring 30, and 
 ### Source:
 
 1. [TOI](http://timesofindia.indiatimes.com/Blasts_in_Maharashtra_Gujarat_8_killed/articleshow/3542011.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3542333.cms)
 
 ### Related:
 

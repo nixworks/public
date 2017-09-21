@@ -8,6 +8,7 @@ Just a couple hours after Harris County officials made a plea to help find Deput
 ### Source:
 
 1. [ABC 13](http://abc13.com/news/hcso-arrest-made-in-shooting-death-of-harris-co-deputy/961336/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/ktrk/images/cms/automation/images/962200_1280x720.jpg)
 
 ### Related:
 

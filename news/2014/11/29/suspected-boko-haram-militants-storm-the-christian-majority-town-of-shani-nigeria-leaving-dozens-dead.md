@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Sabah](http://www.dailysabah.com/africa/2014/11/30/boko-haram-spreading-fear-and-blood-in-nigeria-dozens-killed-in-borno-state)
+1. [Cover Image](https://idsb.tmgrup.com.tr/2014/11/30/645x344/1417385355399.jpg)
 
 ### Related:
 

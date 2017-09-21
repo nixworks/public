@@ -9,6 +9,7 @@ Egyptian forces kill 20 people during air strikes on Sinai, in response to deadl
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201287233145805683.html)
 2. [Reuters](http://www.reuters.com/article/2012/08/07/egypt-attack-sinai-idUSL6E8J7EIP20120807)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/8/20128834724635734_20.jpg)
 
 ### Related:
 

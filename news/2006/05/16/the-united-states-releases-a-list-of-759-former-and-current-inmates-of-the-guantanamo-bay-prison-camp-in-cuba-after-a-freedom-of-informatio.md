@@ -9,6 +9,7 @@ The Age 404 Page
 
 1. [Pentagon list](http://www.defenselink.mil/pubs/foi/detainees/detaineesFOIArelease15May2006.pdf)
 2. [The Age](http://www.theage.com.au/news/World/US-names-759-Guantanamo-inmates/2006/05/16/1147545296196.html)
+2. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

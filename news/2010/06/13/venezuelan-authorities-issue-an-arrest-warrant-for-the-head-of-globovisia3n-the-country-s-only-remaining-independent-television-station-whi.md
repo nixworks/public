@@ -8,6 +8,7 @@ Warrant issued for head of only remaining independent TV station critical of Hug
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/20106131536642627.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

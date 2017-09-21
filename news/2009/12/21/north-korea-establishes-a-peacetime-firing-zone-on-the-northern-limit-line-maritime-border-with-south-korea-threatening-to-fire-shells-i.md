@@ -11,6 +11,7 @@
 2. [RIA Novosti](http://en.rian.ru/world/20091221/157311649.html)
 3. [UPI](http://www.upiasia.com/Security/2009/12/21/pyongyang_threatens_to_fire_in_south_korean_waters/5117/)
 4. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/21/6/0401000000AEN20091221006200315F.HTML)
+4. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

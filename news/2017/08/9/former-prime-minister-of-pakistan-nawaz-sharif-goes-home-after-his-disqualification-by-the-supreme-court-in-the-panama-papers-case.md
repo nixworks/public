@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/deposed-pakistani-pm-lead-rally-security-threats-49107523)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_cf739fd4ee624407b5fab5894660e8e5_16x9_992.jpg)
 
 ### Related:
 

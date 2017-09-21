@@ -9,6 +9,7 @@ West Australian Premier Colin Barnett has played down polling pointing to a land
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/1744824/West-Australians-head-to-the-polls)
 2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/mcgowan-gracious-in-wa-election-loss/story-fn3dxiwe-1226594004086)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/9/3/9360_barnett-colin-wa-election-130309-b.jpg)
 
 ### Related:
 

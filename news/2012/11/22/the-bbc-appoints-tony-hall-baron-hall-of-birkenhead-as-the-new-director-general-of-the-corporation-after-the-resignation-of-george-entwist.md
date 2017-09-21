@@ -8,6 +8,7 @@ The BBC has appointed Tony Hall - Lord Hall of Birkenhead - as the new Director 
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/home-news/bbc-confirms-tony-hall-to-be-appointed-new-directorgeneral-8343625.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/03/11/22/Pg-20-seat-ireland.jpg)
 
 ### Related:
 

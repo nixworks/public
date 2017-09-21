@@ -8,6 +8,7 @@ A car bomb on Tuesday struck a police vehicle that was carrying officers escorti
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2016/05/10/bombing-targets-police-in-southeastern-turkey-state-media-report.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/05/10/bombing-targets-police-in-southeastern-turkey-state-media-report/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1462894169137.jpg?ve=1)
 
 ### Related:
 

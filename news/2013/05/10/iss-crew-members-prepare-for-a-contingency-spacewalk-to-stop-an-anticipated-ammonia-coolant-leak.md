@@ -10,6 +10,7 @@ Station managers and international partners approved plans Friday for Saturday s
 1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition35/e35_051013.html)
 2. [nasaspaceflight.com](http://www.nasaspaceflight.com/2013/05/ammonia-leak-iss-contingency-spacewalks/)
 3. [nasaspaceflight.com](http://www.nasaspaceflight.com/2013/05/eva21-live-contingency-iss-spacewalk/)
+3. [Cover Image](http://www.nasa.gov/images/content/748114main_2013-05-10_100.jpg)
 
 ### Related:
 

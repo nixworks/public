@@ -8,6 +8,7 @@ The Age 404 Page
 ### Source:
 
 1. [AAP](http://www.theage.com.au/news/National/Cyclone-Larry-rips-through-north-Qld/2006/03/20/1142703243509.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ On Saturday, bargainers for G.M. and the union did not repeat the marathon sessi
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/15/business/15cnd-auto.html?ex=1347508800&en=542e6bc1fba1b37f&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/09/16/business/16auto.75.jpg)
 
 ### Related:
 

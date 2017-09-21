@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gWUo2xmjq-hTqVEJFFI7PzinD50g?docId=CNG.5015a9f8705f68f43bc0253d8f9facc3.21)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12261142)
 3. [CNN](http://edition.cnn.com/2011/WORLD/europe/01/23/portugal.election/index.html?eref=edition)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Aljazeera](http://english.aljazeera.net/NR/exeres/8F7D3E44-79D4-40BF-B8C6-E93BBCE4F0E1.htm)
 2. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-09-11T125348Z_01_SCH017657_RTRIDST_0_INTERNATIONAL-JAPAN-ELECTION-DC.XML)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

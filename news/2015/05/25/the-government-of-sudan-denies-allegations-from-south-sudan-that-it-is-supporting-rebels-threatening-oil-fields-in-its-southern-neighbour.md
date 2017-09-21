@@ -8,6 +8,7 @@ The Sudanese government has denied supporting rebels in South Sudan after it acc
 ### Source:
 
 1. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/May-25/299228-sudanese-government-denies-supporting-rebels-in-south-sudan.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

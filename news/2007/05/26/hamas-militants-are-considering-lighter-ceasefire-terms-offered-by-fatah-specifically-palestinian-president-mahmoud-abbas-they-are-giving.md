@@ -10,6 +10,7 @@
 1. [Reuters via ABC News Online](http://www.abc.net.au/news/newsitems/200705/s1934132.htm)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSL1731780720070526)
 3. [Reuters](http://www.reuters.com/article/newsOne/idUSL1731780720070526?)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070526&t=2&i=862887&w=&fh=545px&fw=&ll=&pl=&sq=&r=862887)
 
 ### Related:
 

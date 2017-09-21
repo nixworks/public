@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mongolia-elections-idUSKBN19H238)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170626&t=2&i=1190556394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5P1DW)
 
 ### Related:
 

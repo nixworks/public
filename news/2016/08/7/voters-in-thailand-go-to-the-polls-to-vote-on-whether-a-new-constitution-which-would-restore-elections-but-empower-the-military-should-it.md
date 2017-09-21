@@ -8,6 +8,7 @@ A clear majority of Thai referendum voters back a draft constitution written by 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36972396)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1234A/production/_90707547_mediaitem90707546.jpg)
 
 ### Related:
 

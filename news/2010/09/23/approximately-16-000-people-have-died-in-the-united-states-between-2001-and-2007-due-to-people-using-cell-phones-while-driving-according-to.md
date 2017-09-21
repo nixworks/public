@@ -8,3 +8,4 @@ Drivers distracted by talking or texting on cell phones killed an estimated 16,0
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68M53K20100923)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100923&t=2&i=210695241&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-23T214103Z_01_BTRE68M1JUO00_RTROPTP_0_USA-DRIVERS-TEXTING)

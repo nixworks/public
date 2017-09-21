@@ -8,6 +8,7 @@ A mother and daughter have been arrested by police following the daylight shooti
 ### Source:
 
 1. [AAP via SBS Australia](http://www.sbs.com.au/news/article/2014/05/13/arrests-made-after-spanish-politician-shot-dead-public)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/489783945.jpg)
 
 ### Related:
 

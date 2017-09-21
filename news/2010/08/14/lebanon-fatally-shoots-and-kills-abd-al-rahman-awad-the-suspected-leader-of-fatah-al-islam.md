@@ -9,6 +9,7 @@ Lebanese security officials say they have killed the suspected leader of the mil
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/lebanese-army-kills-top-islamist-after-threeyear-hunt-20100815-124r4.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10977538)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

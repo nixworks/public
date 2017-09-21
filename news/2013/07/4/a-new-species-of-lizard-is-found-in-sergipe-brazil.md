@@ -8,6 +8,7 @@
 ### Source:
 
 1. [GloboNews](http://g1.globo.com/se/sergipe/noticia/2013/07/lagarto-quase-do-tamanho-de-moeda-e-encontrado-em-sergipe.html)
+1. [Cover Image](http://s2.glbimg.com/JGoyk6b5zIK_WOj7v7uwMSp_NqY=/1200x630/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/04/31/2673104)
 
 ### Related:
 

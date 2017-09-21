@@ -8,6 +8,7 @@ Mayor Stephanie Rawlings-Blake announced Wednesday that she has fired Police Com
 ### Source:
 
 1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-batts-fired-20150708-story.html)
+1. [Cover Image](http://www.trbimg.com/img-559d80c0/turbine/bs-md-ci-batts-fired-20150708)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Official says Hamid Karzai tried to block him from probing high-level corruption
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108294428881711.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/27/201082723316609734_20.jpg)
 
 ### Related:
 

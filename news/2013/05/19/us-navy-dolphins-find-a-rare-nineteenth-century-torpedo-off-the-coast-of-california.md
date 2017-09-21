@@ -8,6 +8,7 @@ The discovery itself is notable enough: Navy specialists found a rare torpedo of
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/19/navy-dolphins-torpedo-discovery/2323885/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

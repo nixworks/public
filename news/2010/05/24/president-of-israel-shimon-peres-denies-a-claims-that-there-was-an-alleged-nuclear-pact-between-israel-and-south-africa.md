@@ -10,6 +10,7 @@ Australia expels an Israel diplomat after a probe blames Israel for the use of f
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10145459.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10146075.stm)
 3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=176362)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AP via CBS](http://wcbstv.com/wireapnational/Ex.defense.minister.2.1762437.html)
 2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/201062018745679669.html)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE65J30320100620)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

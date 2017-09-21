@@ -8,6 +8,7 @@ Police have been forced to intervene during a clash between the gay and lesbian 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2011/05/14/3216987.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2715880-1x1-700x700.jpg)
 
 ### Related:
 

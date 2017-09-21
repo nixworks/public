@@ -8,6 +8,7 @@ The Supreme Court overturned a lower court’s order that would have made challe
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/10/18/washington/18scotus.html?ref=us)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Men who become fathers later in life pass on more brand-new genetic mutations to
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/health/boostershots/la-heb-older-fathers--genetic-mutations-autism-schizophrenia20120822,0,4956716.story)
+1. [Cover Image](http://www.trbimg.com/img-50351b6b/turbine/la-heb-older-fathers--genetic-mutations-autism-001/600)

@@ -8,6 +8,7 @@ Several people are feared trapped after scaffolding collapsed Friday morning at 
 ### Source:
 
 1. [Houston Chronicle](http://www.chron.com/houston/article/Workers-trapped-as-scaffolding-collapses-downtown-6574175.php)
+1. [Cover Image](http://ww3.hdnux.com/photos/41/44/64/8801570/3/rawImage.jpg)
 
 ### Related:
 

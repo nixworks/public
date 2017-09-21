@@ -9,6 +9,7 @@ At least 32 people, mostly Christians, died after consuming homemade liquor in a
 
 1. [The New York Times](http://www.nytimes.com/2016/12/27/world/asia/christians-pakistan-alcohol-christmas.html?_r=0)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/12/27/Toxic-liquor-kills-at-least-32-in-Pakistani-town/8921482843810/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/8921482843810/2016/1/2612f6c5a66cc6f8bac9a3476e97c217/v1.5/Toxic-liquor-kills-at-least-32-in-Pakistani-town.jpg)
 
 ### Related:
 

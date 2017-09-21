@@ -11,6 +11,7 @@ Heavy rain is expected tomorrow as the Government pledges to re-examine flood de
 2. [Sky News](http://news.sky.com/story/1601012/number-of-deaths-caused-by-storm-desmond)
 3. [Sky News](http://news.sky.com/story/1601604/floods-bring-260ft-high-waterfall-back-to-life)
 4. [The Washington Post](https://www.washingtonpost.com/news/capital-weather-gang/wp/2015/12/07/13-inches-in-24-hours-flooding-storm-desmond-shatters-u-k-rainfall-records/)
+4. [Cover Image](http://e3.365dm.com/16/07/1600x900/gettyimages-500317968-1_3499816.jpg?20160704101723)
 
 ### Related:
 

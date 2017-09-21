@@ -8,6 +8,7 @@ Cartel boss has 40-year jail sentence for murder of American DEA agent Enrique C
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2013/aug/09/mexican-druglord-rafael-caro-quintero-released)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/8/9/1376066099208/Rafael-Caro-Quintero-008.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a1e0a040c69d79273421219e725a0fc0)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ixeFBxfLzaSjs8Mb8cuFmtPOT6-wD9CDNIGG0)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/2009126101815957736.html)
 3. [CNN](http://edition.cnn.com/2009/WORLD/meast/12/06/iran.protest.warnings/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iaZF8q1rj96RQAxy5ifvnUofRPAQ)
 2. [China Daily](http://www.chinadaily.com.cn/china/2009-11/18/content_8997049.htm)
 3. [Taiwan Today](http://www.taiwantoday.tw/ct.asp?xItem=78866&CtNode=414)
+3. [Cover Image](https://edit.taiwantoday.tw/images/content/img120160803073239472_350.gif)
 
 ### Related:
 

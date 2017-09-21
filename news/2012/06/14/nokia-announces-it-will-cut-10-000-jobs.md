@@ -8,6 +8,7 @@ Nokia cuts another 10,000 jobs and warns that second-quarter losses from its mob
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18438052)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59599000/jpg/_59599378_014483943-1.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Miss. governor estimates 80 could be dead in one county alone; two levees break 
 2. [Fox News](http://www.foxnews.com/story/0,2933,167633,00.html)
 3. [Yahoo! News](http://news.yahoo.com/s/ap/20050830/ap_on_re_us/hurricane_katrina_3;_ylt=AiQ5CXJxwXVtmvijI8TgLK8bLisB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
 4. [Yahoo! News](http://news.yahoo.com/s/ap/20050830/ap_on_re_us/katrina_washington)
+4. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

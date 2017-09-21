@@ -8,6 +8,7 @@ An interim government set up after a military coup in Honduras said on Thursday 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55R24E20090702)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090702&t=2&i=10728589&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-02T233255Z_01_BTRE5610O7P00_RTROPTP_0_HONDURAS)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Terrorist group ISIS released a video Saturday purportedly showing the execution
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_IRAQ?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [NBC News](http://www.nbcnews.com/storyline/isis-terror/isis-releases-video-purportedly-showing-beheading-british-hostage-n202836)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2014_37/665506/140913-david-haines-1913_5afee602ca9b8b5b279eb4b52b84050a.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

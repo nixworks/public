@@ -8,6 +8,7 @@ The International Committee of the Red Cross released the figures ahead of the I
 ### Source:
 
 1. [AFP via NYT](http://www.nytimes.com/2007/08/30/world/europe/30balkans.html?_r=1&ref=europe&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

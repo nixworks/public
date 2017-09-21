@@ -8,6 +8,7 @@ A commando operation backed by Russian warplanes and helicopters has killed 25 m
 ### Source:
 
 1. [AFP via Yahoo](https://www.yahoo.com/news/commandos-kill-25-jihadists-central-syria-monitor-093231505.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/2O7Ad1jZvz9wGFTSxpUVDw--/aD03Njg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/0fd7e7b7e15e3256f03dc142a80fd00e7bbb01c0.jpg)
 
 ### Related:
 

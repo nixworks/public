@@ -10,6 +10,7 @@ As Palestinian political factions prepared Tuesday to formally sign a political 
 1. [CNN](http://edition.cnn.com/2011/WORLD/meast/05/03/mideast.unity.pact/)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=219024)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4064061,00.html)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/03/mideast.unity.pact/tzvids.netanyahu.israel.jpg)
 
 ### Related:
 

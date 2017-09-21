@@ -10,6 +10,7 @@ An apartment block in the Belgian city of Liege has collapsed, trapping two peop
 1. [RTÉ](http://www.rte.ie/news/2010/0127/belgium.html)
 2. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5g6nDNAP2vJiwgfF4knMXzX_N9WkQ)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/expat/expatnews/7083614/Building-collapses-in-Liege.html)
+3. [Cover Image](https://img.rasset.ie/0002f3b3-1600.jpg)
 
 ### Related:
 

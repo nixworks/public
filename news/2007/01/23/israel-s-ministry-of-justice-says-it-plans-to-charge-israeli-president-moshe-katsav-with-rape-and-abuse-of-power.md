@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6291345.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-01-23T204222Z_01_L2334752_RTRUKOC_0_US-ISRAEL-PRESIDENT.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-6)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

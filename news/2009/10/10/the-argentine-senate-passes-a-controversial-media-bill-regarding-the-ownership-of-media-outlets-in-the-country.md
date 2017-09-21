@@ -10,6 +10,7 @@ More than 200 modifications
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h70XfVfDj4pFHawUTDaI5N45zCKA)
 2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/14192)
 3. [CNN](http://edition.cnn.com/2009/WORLD/americas/10/10/argentina.media/)
+3. [Cover Image](/files/imagenes//2010/9172_anibal235.jpg)
 
 ### Related:
 

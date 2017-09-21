@@ -16,6 +16,7 @@ Thousands of demonstrators stage an unprecedented protest in the Tunisian capita
 7. [OpEd News](http://www.opednews.com/articles/This-Revolution-Has-Not-Be-by-Peter-Dearman-110114-469.html)
 8. [The Guardian](http://www.guardian.co.uk/world/2011/jan/14/tunisian-president-flees-country-protests)
 9. [Voice of America](http://www.voanews.com/english/news/africa/Tunisian-President-Dismisses-Government-Amid-Protests-113607609.html)
+9. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ LONDON -- Theresa May just confirmed that...
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com.au/theresa-may-brexit-speech-leaving-single-market-immigration-control-2017-1?r=UK&IR=T)
+1. [Cover Image](https://static.businessinsider.com/image/587e08fedd0895fe1f8b4c9c/image.jpg)
 
 ### Related:
 

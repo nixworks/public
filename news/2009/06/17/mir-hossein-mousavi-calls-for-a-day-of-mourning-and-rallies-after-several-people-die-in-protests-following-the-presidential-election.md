@@ -12,6 +12,7 @@ The Iranian soccer team made a political statement in World Cup qualifying, but 
 3. [CBC](http://www.cbc.ca/sports/soccer/story/2009/06/17/sp-world-cup-qualify.html)
 4. [Reuters](http://www.reuters.com/article/topNews/idUSTRE55F54520090617)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article6520840.ece)
+5. [Cover Image](https://i.cbc.ca/1.2174944.1382504917!/httpImage/image.jpg_gen/derivatives/16x9_1180/iran-soccer-ap-090617.jpg)
 
 ### Related:
 

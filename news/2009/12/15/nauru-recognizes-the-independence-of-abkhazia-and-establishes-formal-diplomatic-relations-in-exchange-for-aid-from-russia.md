@@ -8,6 +8,7 @@ Facing depletion of its main resource, phosphates, Nauru is only the fourth nati
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/12/16/world/europe/16georgia.html)
+1. [Cover Image](https://static01.nyt.com/images/2009/12/15/world/europe/16georgiaA/thumbStandard.jpg)
 
 ### Related:
 

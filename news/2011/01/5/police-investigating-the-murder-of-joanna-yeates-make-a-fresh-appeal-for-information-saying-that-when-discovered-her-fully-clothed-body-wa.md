@@ -8,6 +8,7 @@ Murdered Jo Yeates was missing a sock when she was found dead near Bristol, Avon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-12117460)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/50667000/jpg/_50667380_44536487.jpg)
 
 ### Related:
 

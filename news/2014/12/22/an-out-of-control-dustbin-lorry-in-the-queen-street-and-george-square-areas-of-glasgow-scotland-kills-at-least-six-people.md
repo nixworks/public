@@ -8,6 +8,7 @@ Six people have been killed and eight others injured after an out-of-control bin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-30580114)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79898000/jpg/_79898968_lorry_getty.jpg)
 
 ### Related:
 

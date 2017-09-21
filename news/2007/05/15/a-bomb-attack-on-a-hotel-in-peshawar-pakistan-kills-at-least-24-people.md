@@ -9,6 +9,7 @@ A bomb killed 24 people in northwest Pakistan on Tuesday, while in the capital o
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6656933.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSSP22983520070515)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070515&t=2&i=799206&w=&fh=545px&fw=&ll=&pl=&sq=&r=799206)
 
 ### Related:
 

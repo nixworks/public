@@ -8,6 +8,7 @@ At least 74 people were killed and the army deployed after sport fan violence in
 ### Source:
 
 1. [AFP via SBS News Australia](http://www.sbs.com.au/news/article/1623276/FIFA-condemns-deadly-Egypt-football-riots)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/2/0/2012-02-01T200905Z_1_BTRE8101J5000_RTROPTP_2_EGYPT-SOCCER-VIOLENCE.JPG)
 
 ### Related:
 

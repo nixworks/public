@@ -11,6 +11,7 @@ A Swiss businessman who had been hiding in the country&#039;s Tripoli embassy fo
 2. [Reuters](http://af.reuters.com/article/tunisiaNews/idAFLDE61L09F20100222?feedType=RSS&feedName=tunisiaNews)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/7292508/Swiss-hand-fugitive-to-Libya-after-19-months.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/feb/22/swiss-businessman-libyan-police-embassy)
+4. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

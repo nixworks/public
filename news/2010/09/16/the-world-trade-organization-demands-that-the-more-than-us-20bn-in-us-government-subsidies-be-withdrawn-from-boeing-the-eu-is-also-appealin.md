@@ -8,6 +8,7 @@ The World Trade Organisation has ruled some US government subsidies should be wi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11312819)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

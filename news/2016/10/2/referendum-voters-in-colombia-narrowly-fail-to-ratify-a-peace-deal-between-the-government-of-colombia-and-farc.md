@@ -10,6 +10,7 @@ Hungarians have overwhelmingly rejected the EU&#39;s refugee quota plan in a ref
 1. [BBC](http://www.bbc.com/news/world-latin-america-37537252#)
 2. [Deutsche Welle](http://www.dw.com/en/majority-of-hungarians-reject-eu-migrant-plan-though-poll-invalid-election-office/a-35944430)
 3. [Reuters](http://www.reuters.com/article/us-colombia-peace-idUSKCN12204M)
+3. [Cover Image](http://www.dw.com/image/35944228_304.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The US House of Representatives passes a bill aimed at increasing pressure on Ch
 
 1. [BBC](http://www.bbc.co.uk/news/business-11437808)
 2. [CNN](http://money.cnn.com/2010/09/29/news/economy/congress_china_currency_bill/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

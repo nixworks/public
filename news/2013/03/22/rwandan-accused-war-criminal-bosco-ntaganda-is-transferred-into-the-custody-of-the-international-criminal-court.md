@@ -8,6 +8,7 @@ Rwandan-born warlord Bosco Ntaganda was taken into custody by the International 
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/22/international-court-rwandan-warlord/2009039/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ It has been confirmed that a magnitude four earthquake struck off the west coast
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2012/0606/earthquake-reported-off-coast-of-mayo.html)
+1. [Cover Image](https://img.rasset.ie/0005fd0f-1600.jpg)
 
 ### Related:
 

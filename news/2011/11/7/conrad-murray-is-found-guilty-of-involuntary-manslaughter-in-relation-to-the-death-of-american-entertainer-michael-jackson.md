@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/news/nation/story/2011-11-04/michael-jackson-doctor-trial-verdict/51113244/1)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2011/11/04/Jackson-fans-family-see-justice-in-verdict-E7IKQBN-x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/16/us-lebanon-bomb-idUSBREA0F0AJ20140116)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140116&t=2&i=830013390&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0F0NTP00)
 
 ### Related:
 

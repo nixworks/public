@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/oilRpt/idUKN1248733020080812)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080812&t=2&i=5549817&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-08-12T155858Z_01_N12487330_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

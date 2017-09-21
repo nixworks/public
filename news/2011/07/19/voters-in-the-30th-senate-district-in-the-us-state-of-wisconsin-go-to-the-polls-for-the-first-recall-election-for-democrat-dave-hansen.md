@@ -8,6 +8,7 @@ The balloting in the Green Bay area will be a first definitive outcome in the se
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/07/19/us/19wisconsin.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/07/19/us/WISCONSIN/WISCONSIN-thumbStandard.jpg)
 
 ### Related:
 

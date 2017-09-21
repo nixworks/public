@@ -8,6 +8,7 @@ Two &#8216;house-shaking&#8217; bombing raids reported in stronghold in Bekaa Va
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/israeli-jets-reportedly-strike-targets-near-lebanon-syria-border)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/11/F131125IDF002.jpg)
 
 ### Related:
 

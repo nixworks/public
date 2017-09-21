@@ -9,6 +9,7 @@ Israel today refused to allow Indonesian Foreign Minister Retno Marsudi to visit
 
 1. [AFP via ''Business Standard](http://www.business-standard.com/article/pti-stories/israel-stops-indonesian-minister-west-bank-visit-palestinians-116031300743_1.html)
 2. [AP via ''The Washington Post](https://www.washingtonpost.com/national/palestinians-israel-denies-indonesian-fm-entry-to-west-bank/2016/03/13/ac98a92c-e950-11e5-a9ce-681055c7a05f_story.html)
+2. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

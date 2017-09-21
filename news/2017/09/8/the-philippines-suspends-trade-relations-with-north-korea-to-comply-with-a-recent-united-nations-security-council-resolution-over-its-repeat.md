@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-philippines-northkorea/philippines-suspends-trade-with-north-korea-to-comply-with-u-n-resolution-idUSKCN1BJ10K)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170908&t=2&i=1200531386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED870NW)
 
 ### Related:
 

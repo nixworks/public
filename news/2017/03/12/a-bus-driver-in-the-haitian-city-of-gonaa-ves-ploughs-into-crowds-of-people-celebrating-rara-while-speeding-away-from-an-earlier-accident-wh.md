@@ -8,6 +8,7 @@ The bus mows down a group of musicians as the driver tries to flee the scene of 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/bus-driver-kills-34-speeding-away-from-accident-in-haiti-10799761)
+1. [Cover Image](http://e3.365dm.com/17/03/1600x900/8752b7d4aff72f46aaed20c3c63bb321f143517ceb654da4bbdf8436def8c40d_3908496.jpg?20170313045859)
 
 ### Related:
 

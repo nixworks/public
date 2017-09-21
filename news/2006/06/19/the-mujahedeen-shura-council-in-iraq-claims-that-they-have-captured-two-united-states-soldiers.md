@@ -8,6 +8,7 @@ An Iraqi militant group claimed Monday that it abducted two U.S. soldiers in an 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/06/19/kidnap-iraq.html)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

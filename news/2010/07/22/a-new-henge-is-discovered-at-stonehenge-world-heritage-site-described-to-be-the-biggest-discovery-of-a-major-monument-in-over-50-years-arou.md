@@ -8,6 +8,7 @@ Archaeologists discover a second henge at Stonehenge, described as the most exci
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-10718522)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

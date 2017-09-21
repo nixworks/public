@@ -8,6 +8,7 @@ Dozens of Yemeni Houthi fighters were killed during an assault on the border wit
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/12/01/uk-yemen-security-saudi-idUKKBN0TK45920151201)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

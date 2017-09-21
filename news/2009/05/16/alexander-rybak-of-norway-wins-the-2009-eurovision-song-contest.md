@@ -8,6 +8,7 @@ Rotman and James Kilner
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/entertainmentNews/idUSTRE54F2IH20090516)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090516&t=2&i=10144725&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-16T221428Z_01_BTRE54F1PSE00_RTROPTP_0_EUROVISION)
 
 ### Related:
 

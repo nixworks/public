@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez has improved after a cancer operation and has s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20840451)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64936000/jpg/_64936604_jywlx896.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of people, including members of the Royal Family, attend a ceremony in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-36674451)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16BBE/production/_90181139_royalspa.jpg)
 
 ### Related:
 

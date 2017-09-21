@@ -9,6 +9,7 @@ A maker of compounded drugs will begin selling $1 doses of Daraprim, whose price
 
 1. [Chicago Tribune](http://www.chicagotribune.com/business/ct-daraprim-imprimis-20151023-story.html)
 2. [Toronto Star](http://www.thestar.com/news/canada/2015/10/23/750-daraprim-pill-now-has-a-1-generic-alternative.html)
+2. [Cover Image](http://www.trbimg.com/img-562a667c/turbine/ct-daraprim-imprimis-20151023)
 
 ### Related:
 

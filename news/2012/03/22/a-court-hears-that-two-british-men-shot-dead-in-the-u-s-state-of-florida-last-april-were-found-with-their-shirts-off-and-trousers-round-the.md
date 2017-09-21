@@ -8,6 +8,7 @@ A Florida court hears two British men shot dead last year were found with their 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-17479559)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52262000/jpg/_52262731_kouzarisandcooper.jpg)
 
 ### Related:
 

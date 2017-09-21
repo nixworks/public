@@ -14,6 +14,7 @@ Human Rights Watch describes Hamas treatment of captive as torture.
 5. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=179542)
 6. [VOA](http://www1.voanews.com/english/news/middle-east/Rights-Group-Urges-Hamas-to-Allow-Shalit-Contact-with-Family-97151764.html)
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3910768,00.html)
+7. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=145214)
 
 ### Related:
 

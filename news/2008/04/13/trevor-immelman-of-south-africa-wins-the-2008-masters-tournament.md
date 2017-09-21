@@ -8,6 +8,7 @@ Trevor Immelman has become the first South African to win the US Masters in 30 y
 ### Source:
 
 1. [Reuters via ABC](http://www.abc.net.au/news/stories/2008/04/14/2215807.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/233438-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Eight Afghan policemen were killed by a colleague who turned his gun on them at 
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/world/8-afghan-police-killed-in-zabul-insider-attack-officials/story-RtzH3SxZwOhLiy0bZbIDQI.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/05/19/Pictures/afghanistan-society_1e1c953a-1dbe-11e6-9a57-4ae968dd8e7b.jpg)
 
 ### Related:
 

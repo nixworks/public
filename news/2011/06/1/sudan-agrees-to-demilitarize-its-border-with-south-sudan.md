@@ -8,6 +8,7 @@ Announcement comes 10 days after the north seized the disputed Abyei region, pro
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011531141320311375.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/31/2011531143452601734_20.jpg)
 
 ### Related:
 

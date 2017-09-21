@@ -9,6 +9,7 @@ MIDEAST-CRISIS/BAGHDAD (UPDATE 1):UPDATE 1-Wave of bombings in Baghdad kills 37 
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11407112&ref=NZH_Tw)
 2. [Thomson Reuters Foundation](http://www.trust.org/item/20150224180334-w2kw4)
+2. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/cc1af7ae-fd2f-4203-a345-758a3a04db5f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

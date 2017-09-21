@@ -8,6 +8,7 @@ Heavy snow falls from Michigan to Colorado, while much of the country braces for
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/weather/icy-blast-first-winter-storm-season-kills-four-minnesota-n245861)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2014_46/760881/141111-snow-minneapolis-4a_cfbf1a2c6308f3df39ae23fb45198b9f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

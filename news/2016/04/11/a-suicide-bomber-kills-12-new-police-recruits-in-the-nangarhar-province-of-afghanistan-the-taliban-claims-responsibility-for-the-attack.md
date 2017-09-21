@@ -8,6 +8,7 @@ At least 12 people are killed by a bomb targeting police recruits on a bus in ea
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36012640)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/EDE1/production/_89179806_89179803.jpg)
 
 ### Related:
 

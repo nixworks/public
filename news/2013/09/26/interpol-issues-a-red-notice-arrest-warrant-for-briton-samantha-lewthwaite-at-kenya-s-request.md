@@ -9,6 +9,7 @@ Kenya seeks the arrest of Briton Samantha Lewthwaite - suspected al-Shabab membe
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24288236)
 2. [Irish Times](http://www.irishtimes.com/news/world/africa/interpol-issues-alert-for-white-widow-at-kenya-s-request-1.1541202)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70090000/jpg/_70090451_70085689.jpg)
 
 ### Related:
 

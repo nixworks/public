@@ -8,6 +8,7 @@ Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1072115/north-korea-nuclear-arsenal-will-be-increased)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/kim2-1_3666804.jpg?20160706090839)
 
 ### Related:
 

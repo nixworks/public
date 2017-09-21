@@ -8,6 +8,7 @@ Party leader, along with other ministers expected to form new party; House Commi
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=203937)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=155506)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Lori Berenson, an American who was sentenced in Peru for collaborating with left
 3. [Japan Today](http://www.japantoday.com/category/world/view/american-lori-berenson-apologizes-for-aiding-rebels-in-peru)
 4. [MercoPress](http://en.mercopress.com/2010/08/16/us-militant-apologizes-for-collaborating-with-terrorism-in-peru)
 5. [Peruvian Times](http://www.peruviantimes.com/american-woman-apologizes-for-collaborating-with-peruvian-marxist-rebel-group/167611)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

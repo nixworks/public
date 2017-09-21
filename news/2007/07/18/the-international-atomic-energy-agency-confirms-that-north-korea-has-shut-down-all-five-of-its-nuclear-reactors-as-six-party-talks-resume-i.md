@@ -8,6 +8,7 @@ Envoys in Beijing on Wednesday worked towards a deal to press North Korea to dis
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSKLT00521820070718?feedType=RSS)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070718&t=2&i=1142413&w=&fh=545px&fw=&ll=&pl=&sq=&r=1142413)
 
 ### Related:
 

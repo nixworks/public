@@ -9,6 +9,7 @@ Myanmar opposition leader Aung San Suu Kyi said on Thursday she would be &quot;a
 
 1. [Reuters](http://www.reuters.com/article/2015/11/05/us-myanmar-election-idUSKCN0SU0AR20151105#V1RhmsAzSFIRFzvW.97)
 2. [Time](http://time.com/4101057/aung-san-suu-kyi-burma-myanmar-elections-nld/)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151105&t=2&i=1092448567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA404W)
 
 ### Related:
 

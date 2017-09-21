@@ -8,6 +8,7 @@ The Olympic flame arrives in the host city in dramatic style, being abseiled int
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18902961)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61719000/jpg/_61719878_abseil464261.jpg)
 
 ### Related:
 

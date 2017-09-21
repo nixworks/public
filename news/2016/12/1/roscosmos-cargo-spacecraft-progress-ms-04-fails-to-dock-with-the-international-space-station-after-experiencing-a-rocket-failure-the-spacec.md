@@ -8,6 +8,7 @@ Russia’s space agency has confirmed that an unmanned cargo ship launched on Th
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2016/12/01/roscosmos-have-lost-contact-with-the-progress-65p-cargo-ship-for-iss-launched)
+1. [Cover Image](http://static.euronews.com/articles/351208/1000x563_351208.jpg)
 
 ### Related:
 

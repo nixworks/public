@@ -8,6 +8,7 @@ The 20bn euro project to build the A400M transport plane is saved as seven natio
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11701337)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

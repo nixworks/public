@@ -8,6 +8,7 @@ Police hunting the chief suspect shoot a man in an area to the west of the city.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-41004603)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/10B7C/production/_97467486_mediaitem97467484.jpg)
 
 ### Related:
 

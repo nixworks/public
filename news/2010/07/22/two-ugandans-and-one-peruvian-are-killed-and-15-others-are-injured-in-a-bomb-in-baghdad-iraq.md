@@ -9,6 +9,7 @@ Three contractors killed in the attack near the US embassy complex in the Iraqi 
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010722194239181125.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10732997)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The bodies of 40 migrants have been found washed ashore in Libya, with a search 
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/10/25/bodies-40-migrants-wash-ashore-libya)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/e/p/EPA--AT_SEA_LIBYA_MIGRATION-123_800x600.jpg)
 
 ### Related:
 

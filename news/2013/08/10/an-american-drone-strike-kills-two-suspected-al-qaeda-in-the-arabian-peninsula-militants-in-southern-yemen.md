@@ -8,6 +8,7 @@ Two militants have been killed in a suspected US drone strike in southern Yemen,
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-23653488)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69225000/gif/_69225081_yemen_lahj_strikes_0813.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/pernod-ricard-snaps-up-absolut/story.aspx?guid=%7B857750B5-A73B-43D0-A69E-6F93A8927DF3%7D&dist=hplatest)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

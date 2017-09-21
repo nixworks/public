@@ -12,6 +12,7 @@ British Petroleum said Thursday it plans to increase its ability to capture the 
 3. [Reuters](http://mobile.reuters.com/mobile/m/FullArticle/CTOP/ntopNews_uUSTRE6573FD20100610)
 4. [The New York Times](http://www.nytimes.com/2010/06/11/us/11spill.html?src=un&feedurl=http%3A%2F%2Fjson8.nytimes.com%2Fpages%2Fopinion%2Findex.jsonp)
 5. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2010/06/bp-oil-spill-payments/1)
+5. [Cover Image](http://i.usatoday.net/communitymanager/_photos/green-house/2010/06/10/workersx-wide-community.jpg)
 
 ### Related:
 

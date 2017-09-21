@@ -9,6 +9,7 @@ Iranian president criticizes family planning program that reduced birth rate as 
 
 1. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=196131)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3987617,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

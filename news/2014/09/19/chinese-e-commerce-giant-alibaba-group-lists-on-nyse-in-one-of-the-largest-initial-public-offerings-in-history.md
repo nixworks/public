@@ -8,6 +8,7 @@ Chinese online giant Alibaba prices its shares $68 ahead of the start of trading
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-29262715?ocid=global_bbccom_email_18092014_business)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77680000/jpg/_77680683_455477104(1).jpg)
 
 ### Related:
 

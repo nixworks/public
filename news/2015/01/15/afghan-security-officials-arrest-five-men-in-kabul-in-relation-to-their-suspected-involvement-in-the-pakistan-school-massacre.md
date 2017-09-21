@@ -8,6 +8,7 @@ Five men accused of involvement in a Pakistan school massacre have been arrested
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-01-15/five-men-arrested-for-pakistan-massacre-involvement/6018048)
+1. [Cover Image](http://www.abc.net.au/news/image/5976010-1x1-700x700.jpg)
 
 ### Related:
 

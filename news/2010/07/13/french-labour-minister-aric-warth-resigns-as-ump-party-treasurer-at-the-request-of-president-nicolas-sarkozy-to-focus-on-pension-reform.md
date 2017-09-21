@@ -8,6 +8,7 @@ French&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth&#x20;has&#x20;said&#x20;h
 ### Source:
 
 1. [France24](http://www.france24.com/en/20100713-sarkozy-woerth-resigns-treasurer-ump-party-scandal-illegal-campaign-donations-bettencourt)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Woerth.jpg)
 
 ### Related:
 

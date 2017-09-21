@@ -8,3 +8,4 @@ Eight people were killed and 10 injured when their van crashed in Florida, offic
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/florida-van-crash-leaves-8-dead-10-injured-n332376)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_14/953741/150330-van_crash-1008_fead46f3f025ec7d11dd3befb42a5cea.nbcnews-fp-1200-800.jpg)

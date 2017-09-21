@@ -10,6 +10,7 @@ Hundreds protest against the arrest of Julian Assange and accuse the Australian 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/12/20101210131224247432.html)
 2. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/fey-general-who-ignited-a-cyber-war-20101210-18sxk.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-12/10/c_13644249.htm)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/10/20101210134011394112_20.jpg)
 
 ### Related:
 

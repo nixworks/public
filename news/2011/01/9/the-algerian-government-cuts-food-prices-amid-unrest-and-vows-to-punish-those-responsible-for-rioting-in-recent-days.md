@@ -8,6 +8,7 @@ In the wake of deadly protests, the government lowers duties on basic food suppl
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111820132025240.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/9/20111915113751811_20.jpg)
 
 ### Related:
 

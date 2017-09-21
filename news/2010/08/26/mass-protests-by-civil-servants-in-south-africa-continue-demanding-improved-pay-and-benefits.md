@@ -8,6 +8,7 @@ Civil servants plan bigger strikes if pay demands not met, as services are restr
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/20108265325707917.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

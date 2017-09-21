@@ -8,6 +8,7 @@ A rare functioning Apple 1 computer sells for more than double the estimated pri
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-18456746)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60937000/jpg/_60937203_apple1.jpg)
 
 ### Related:
 

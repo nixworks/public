@@ -9,6 +9,7 @@ Hillary Clinton&#039;s campaign was caught up in the cyberattacks on Democrats, 
 
 1. [Fox News](http://www.foxnews.com/politics/2016/07/29/fbi-investigating-apparent-cyberattack-on-clinton-campaign.html)
 2. [Washington Examiner](http://www.washingtonexaminer.com/clinton-campaign-hacked/article/2598179)
+2. [Cover Image](http://cdn.washingtonexaminer.biz/cache/r960-fbf7a8e60c8b2fd8e0bb42a06d24ce3b.jpg?v=2017.03.18.01)
 
 ### Related:
 

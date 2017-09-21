@@ -8,6 +8,7 @@ Four Palestinians, including two children, wounded in raids say officials from t
 ### Source:
 
 1. [Al Jazeeera](http://english.aljazeera.net/news/middleeast/2011/07/2011714222348698192.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/14/201171423443388734_20.jpg)
 
 ### Related:
 

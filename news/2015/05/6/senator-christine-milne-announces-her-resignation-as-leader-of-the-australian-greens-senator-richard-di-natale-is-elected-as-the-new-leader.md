@@ -9,6 +9,7 @@ The Australian Greens will have a new leader by lunchtime following the surprise
 
 1. [ABC](http://www.abc.net.au/news/2015-05-06/greens-leader-christine-milne-resigns/6448452)
 2. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/christine-milne-resigns-as-greens-leader-will-not-contest-2016-election-20150506-ggv4dj.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/g/g/v/4/e/k/image.related.articleLeadwide.620x349.ggv4dj.png/1430882602991.jpg)
 
 ### Related:
 

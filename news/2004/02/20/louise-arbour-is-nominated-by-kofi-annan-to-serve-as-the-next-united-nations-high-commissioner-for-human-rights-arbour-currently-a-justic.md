@@ -9,6 +9,7 @@
 
 1. [CBC](http://www.cbc.ca/stories/2004/02/20/arbour_UN040219)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=9836&Cr=human&Cr1=rights)
+2. [Cover Image](/News/dh/photos/large/02-20arbour.jpg)
 
 ### Related:
 

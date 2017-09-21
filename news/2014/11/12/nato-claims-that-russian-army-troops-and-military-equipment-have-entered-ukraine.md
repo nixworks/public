@@ -8,6 +8,7 @@ Nato says it has observed columns of Russian troops and military equipment enter
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30025138)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78932000/jpg/_78932888_78932887.jpg)
 
 ### Related:
 

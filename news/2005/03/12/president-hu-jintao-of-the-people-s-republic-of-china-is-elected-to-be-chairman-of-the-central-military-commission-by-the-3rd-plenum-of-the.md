@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [NBC-WTSM](http://www.wstm.com/Global/story.asp?S=3069127)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7884180)
 4. [Xinhua](http://news.xinhuanet.com/english/2005-03/13/content_2690671.htm)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

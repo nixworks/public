@@ -8,6 +8,7 @@ Two remandees have died and 30 others been admitted following a cholera outbreak
 ### Source:
 
 1. [The Star via AllAfrica](http://allafrica.com/stories/201505211382.html)
+1. [Cover Image](http://allafrica.com/static/images/structure/aa-logo-rgba-no-text-128x128.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ With video of the damage and the storm, and a photo gallery
 
 1. [New York Times](http://www.nytimes.com/aponline/2010/03/13/us/AP-US-Stormy-Weather.html?hp)
 2. [Press of Atlantic City](http://pressofatlanticcity.com/news/breaking/article_b3e29272-2ecd-11df-ad92-001cc4c03286.html)
+2. [Cover Image](http://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/9/47/94783144-2f1d-11df-a3ec-001cc4c002e0/94783144-2f1d-11df-a3ec-001cc4c002e0.preview-300.jpg?crop=263%2C197%2C18%2C0&amp;resize=267%2C200&amp;order=crop%2Cresize)
 
 ### Related:
 

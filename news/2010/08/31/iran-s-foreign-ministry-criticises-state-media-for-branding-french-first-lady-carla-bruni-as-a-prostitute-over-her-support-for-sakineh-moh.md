@@ -10,6 +10,7 @@
 1. [ABC News](http://www.news.com.au/breaking-news/carla-bruni-prostitute-slur-slammed/story-e6frfku0-1225912517187)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jGKdAlGxhi2IiOMIsA_QzFtphGdAD9HU0K0G0)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20100831093848609C300289)
+3. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

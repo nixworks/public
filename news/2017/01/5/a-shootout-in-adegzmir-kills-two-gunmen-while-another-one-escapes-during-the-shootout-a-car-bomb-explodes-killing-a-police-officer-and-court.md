@@ -8,6 +8,7 @@ Car bomb detonates outside court complex in coastal city, killing police officer
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/05/turkish-police-shoot-dead-two-suspected-attackers-after-explosion)
+1. [Cover Image](https://i.guim.co.uk/img/media/a1ae6b7f65e3015d812d54bb3f027b22f99caa66/0_592_2250_1350/master/2250.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0c9287a267d41589a57b831c4f282517)
 
 ### Related:
 

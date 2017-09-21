@@ -15,6 +15,7 @@ The IAA has extended the closure of Irish airspace until 1pm on Sunday because o
 6. [The Guardian](http://www.guardian.co.uk/world/2010/apr/17/volcano-in-iceland-ash-britain)
 7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0417/breaking2.html)
 8. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100416-704497.html?mod=WSJ_latestheadlines)
+8. [Cover Image](https://img.rasset.ie/0003341f-1600.jpg)
 
 ### Related:
 

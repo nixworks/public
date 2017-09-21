@@ -9,6 +9,7 @@ Iran is preparing to switch its national currency from the rial to the toman - a
 
 1. [Euronews](http://www.euronews.com/2016/12/08/iran-considers-currency-change)
 2. [PressTV](http://www.presstv.ir/Detail/2016/12/08/496981/Iran-to-switch-currency-from-rial-to-toman)
+2. [Cover Image](http://cdn.presstv.com/photo/20161208/889d3088-cd7c-473d-8fbf-075359c157e1.jpg)
 
 ### Related:
 

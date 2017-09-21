@@ -8,6 +8,7 @@ TOKYO (AFP) - The governor of Okinawa said on Monday (Sept 14) that he will revo
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/east-asia/okinawa-to-revoke-approval-for-controversial-us-base-again)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/09/14/nabmtakeshi14915.jpg?itok=Wpw5HFfs)
 
 ### Related:
 

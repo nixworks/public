@@ -8,6 +8,7 @@ The host of the Miss Universe pageant mistakenly announced the wrong winner on S
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-missuniverse-idUSKBN0U30SA20151221)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151221&t=2&i=1103838808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBK06O)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Eleven women die after botched sterilisation surgery at a remote village in cent
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-29999874)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78913000/gif/_78913525_villagersindex.gif)
 
 ### Related:
 

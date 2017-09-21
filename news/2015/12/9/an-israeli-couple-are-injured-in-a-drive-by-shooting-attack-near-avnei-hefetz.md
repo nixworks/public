@@ -11,6 +11,7 @@
 2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/BREAKING-Two-Israelis-wounded-in-stabbing-attack-in-Hebron-area-436777)
 3. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/WATCH-IDF-Palestinian-youth-clash-in-Bethlehem-436698)
 4. [The Times of Israel](http://www.timesofisrael.com/2-israelis-hurt-1-seriously-in-west-bank-shooting-attack/)
+4. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/12/AiTZFuKhw4iud3qRqd_nde02UW-P109svM7Gq4c-MK5x.jpg)
 
 ### Related:
 

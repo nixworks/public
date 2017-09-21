@@ -8,6 +8,7 @@ The US military secretly deployed a small number of trainers and advisers to Som
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/us-has-deployed-military-advisers-to-somalia-officials-say-20140111-hv845.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/0/o/7/6/image.related.thumbnail.320x214.hv845.png/1389447998110.jpg)
 
 ### Related:
 

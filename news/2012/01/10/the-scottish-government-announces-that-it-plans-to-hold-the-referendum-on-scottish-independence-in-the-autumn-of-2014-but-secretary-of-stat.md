@@ -8,6 +8,7 @@ The Scottish government plans to hold an independence referendum in the autumn o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-16478121)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57810000/jpg/_57810049_013573285-1.jpg)
 
 ### Related:
 

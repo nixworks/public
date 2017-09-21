@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101129102949839336.html)
 2. [Al-Masry Al-Youm](http://www.almasryalyoum.com/en/news/muslim-brotherhood-levels-fraud-accusations-against-ndp)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-11860568)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/29/2010112911168740140_20.jpg)
 
 ### Related:
 

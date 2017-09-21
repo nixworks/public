@@ -8,6 +8,7 @@ Trump stressed that his plan to prevent Muslims from entering the U.S. was &quot
 ### Source:
 
 1. [The Hill](http://thehill.com/blogs/ballot-box/presidential-races/262410-trump-were-at-war-get-it-through-your-head)
+1. [Cover Image](http://thehill.com/sites/default/files/blogs/donaldtrump212-3-15.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Indian student who was left critically ill after being gang-raped on a Delhi 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20860569)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64999000/jpg/_64999613_64999383.jpg)
 
 ### Related:
 

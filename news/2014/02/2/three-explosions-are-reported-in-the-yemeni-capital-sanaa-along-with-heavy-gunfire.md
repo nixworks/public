@@ -8,6 +8,7 @@ Three large explosions were heard in Yemen&#39;s capital Sanaa on Sunday, close 
 ### Source:
 
 1. [Reuters via Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Feb-02/246181-two-explosions-rock-yemeni-capital-sanaa.ashx#axzz2sDPxtCcn)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/02/03/246469_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

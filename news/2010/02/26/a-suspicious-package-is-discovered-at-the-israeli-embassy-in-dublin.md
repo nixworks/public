@@ -8,6 +8,7 @@ Restrictions were lifted around the Israeli Embassy in Dublin following the disc
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0226/israelembassy.html)
+1. [Cover Image](https://img.rasset.ie/00030c13-1600.jpg)
 
 ### Related:
 

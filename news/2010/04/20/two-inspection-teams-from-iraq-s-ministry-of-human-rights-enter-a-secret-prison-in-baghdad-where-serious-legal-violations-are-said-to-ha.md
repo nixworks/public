@@ -11,6 +11,7 @@ Human rights group urges action after allegations of abuse at Baghdad prison.
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8632239.stm)
 3. [CBC](http://www.cbc.ca/world/story/2010/04/20/iraq-al-qaeda.html?ref=rss)
 4. [The News International](http://www.thenews.com.pk/updates.asp?id=103240)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

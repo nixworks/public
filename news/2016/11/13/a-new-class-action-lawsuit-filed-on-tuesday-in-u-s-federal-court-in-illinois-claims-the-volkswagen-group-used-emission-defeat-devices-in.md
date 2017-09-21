@@ -10,6 +10,7 @@ A newly filed class action lawsuit accuses Audi of using defeat devices in at le
 1. [Auto Week](http://autoweek.com/article/vw-diesel-scandal/lawsuit-audi-used-defeat-devices-several-gas-engined-models)
 2. [Industry Week](http://www.industryweek.com/regulations/audi-hit-fresh-emissions-cheating-lawsuit)
 3. [UPI](http://www.upi.com/Business_News/2016/11/13/New-emissions-scandal-linked-to-Audi-gasoline-models/1591479062166/?spt=hts&or=2)
+3. [Cover Image](http://hanabi.autoweek.com/sites/default/files/styles/gen-1200-675/public/q5_1.jpg?itok=IaVasLti)
 
 ### Related:
 

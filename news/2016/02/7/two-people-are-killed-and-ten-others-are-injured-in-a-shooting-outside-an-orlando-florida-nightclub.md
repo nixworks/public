@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Click Orlando](http://www.clickorlando.com/news/8-shot-2-confirmed-dead-at-orlando-nightclub)
+1. [Cover Image](https://media.clickorlando.com/photo/2016/02/07/GLITZSHOOTING_1454837746449_2103394_ver1.0_1280_720.JPG)
 
 ### Related:
 

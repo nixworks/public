@@ -8,6 +8,7 @@ The vice presidential candidates from the two major parties in the US presidenti
 ### Source:
 
 1. [RTE](https://www.rte.ie/news/2016/1004/821246-us-vice-presidents/)
+1. [Cover Image](https://img.rasset.ie/000cf3ae-1600.jpg)
 
 ### Related:
 

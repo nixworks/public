@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/154935-pnp-dela-rosa-comment-senate-report-tokhang)
+1. [Cover Image](https://assets.rappler.com/09EF5F7662C64E809B62F9CE72214A4D/img/A7B2E6A5702349B99EC6472FDD1FDA97/oplan-tokhang-forbes-park-20160905-001.jpg)
 
 ### Related:
 

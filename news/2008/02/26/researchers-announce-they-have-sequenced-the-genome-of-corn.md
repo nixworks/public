@@ -8,6 +8,7 @@ Researchers have sequenced the gene map of corn, also known as maize, a key crop
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSN2632641520080226)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080226&t=2&i=3300951&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-26T155001Z_01_N26326415_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

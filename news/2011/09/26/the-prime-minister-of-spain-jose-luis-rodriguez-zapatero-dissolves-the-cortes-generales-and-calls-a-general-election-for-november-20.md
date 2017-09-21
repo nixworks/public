@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News Latino](http://latino.foxnews.com/latino/politics/2011/09/26/spains-parliament-dissolves-presidential-campaigning-begins-in-earnest/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2011/09/26/spains-parliament-dissolves-presidential-campaigning-begins-in-earnest/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1481342844152.jpg?ve=1)
 
 ### Related:
 

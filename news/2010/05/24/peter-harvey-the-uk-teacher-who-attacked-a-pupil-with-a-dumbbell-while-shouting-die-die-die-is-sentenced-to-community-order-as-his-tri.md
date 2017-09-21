@@ -12,6 +12,7 @@ A teacher who bludgeoned a disruptive teenage pupil with a dumbbell has walked f
 3. [The Guardian](http://www.guardian.co.uk/education/2010/may/24/teacher-dumbbell-peter-harvey-community-order)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0524/breaking51.html)
 5. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7134964.ece)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01441/harvey_1441450a.jpg)
 
 ### Related:
 

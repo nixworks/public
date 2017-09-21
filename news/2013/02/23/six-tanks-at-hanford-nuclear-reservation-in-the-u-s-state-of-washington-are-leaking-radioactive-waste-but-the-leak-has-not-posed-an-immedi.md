@@ -11,6 +11,7 @@ Six underground tanks holding a mix of radioactive and toxic waste are leaking a
 2. [Fox News](http://www.foxnews.com/us/2013/02/23/6-underground-hanford-nuclear-tanks-leaking-washington-governor-says/)
 3. [Reuters](http://www.reuters.com/article/2013/02/22/us-usa-nuclear-leak-idUSBRE91L19G20130222)
 4. [The Guardian](http://www.guardian.co.uk/world/2013/feb/23/radiactive-waste-leak-washington-state)
+4. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/022313/0/0/022313_anhq_radioactive_640.jpg?ve=1)
 
 ### Related:
 

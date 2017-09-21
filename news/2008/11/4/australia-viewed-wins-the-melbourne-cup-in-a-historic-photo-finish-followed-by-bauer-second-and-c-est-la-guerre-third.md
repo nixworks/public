@@ -8,6 +8,7 @@ Makybe Diva is the seven-year-old mare (at the time of the 2005 Melbourne Cup) w
 ### Source:
 
 1. [About.com](http://goaustralia.about.com/od/racing/a/melbournecup08.htm)
+1. [Cover Image](http://fthmb.tqn.com/d19ZRfOYCl3HEmaVcTRBtgKmFU8=/640x0/filters:no_upscale()/about/makybediva-56a37a8f3df78cf7727d9280.jpg)
 
 ### Related:
 

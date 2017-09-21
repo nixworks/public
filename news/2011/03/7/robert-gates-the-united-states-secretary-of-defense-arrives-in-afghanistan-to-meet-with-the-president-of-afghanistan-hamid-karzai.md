@@ -8,6 +8,7 @@ Defense Secretary Robert Gates described the mistaken killing of nine Afghan boy
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/07/us-afghanistan-gates-idUSTRE7260P220110307)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110307&t=2&i=355857414&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-07T215512Z_01_BTRE7261AGU00_RTROPTP_0_AFGHANISTAN-GATES-APOLOGY)
 
 ### Related:
 

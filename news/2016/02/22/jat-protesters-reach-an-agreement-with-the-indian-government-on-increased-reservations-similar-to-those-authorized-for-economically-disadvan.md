@@ -8,6 +8,7 @@ Haryana Jat protest: The agitating members of the Jat community have been demand
 ### Source:
 
 1. [The Indian Express](http://indianexpress.com/article/india/india-news-india/jat-reservation-agitation-haryana-live-updates-rohtak/)
+1. [Cover Image](http://images.indianexpress.com/2016/02/khattar_jat_480.jpg?w=480)
 
 ### Related:
 

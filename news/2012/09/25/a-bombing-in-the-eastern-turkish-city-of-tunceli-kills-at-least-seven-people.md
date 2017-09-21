@@ -8,6 +8,7 @@ Seven people - mainly members of the security forces - are killed in a blast in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19721724)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63112000/jpg/_63112550_4jzyshj5.jpg)
 
 ### Related:
 

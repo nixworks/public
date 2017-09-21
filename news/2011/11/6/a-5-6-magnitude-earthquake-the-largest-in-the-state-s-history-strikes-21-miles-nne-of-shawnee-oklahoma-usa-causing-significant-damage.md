@@ -9,6 +9,7 @@
 
 1. [Fox News](http://www.foxnews.com/us/2011/11/06/52-magnitude-earthquake-strikes-oklahoma/)
 2. [USGS](http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usb0006klz/)
+2. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/110611/640/360/0/0/110611_ff_quake3_640.jpg?ve=1)
 
 ### Related:
 

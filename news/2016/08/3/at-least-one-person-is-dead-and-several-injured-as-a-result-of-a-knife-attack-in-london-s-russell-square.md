@@ -8,6 +8,7 @@ A man is arrested on suspicion of murder after a US citizen was killed and five 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-36972126)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16221/production/_90675609_mediaitem90675608.jpg)
 
 ### Related:
 

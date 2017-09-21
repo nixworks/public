@@ -10,6 +10,7 @@ Thousands of people are left homeless after the fires ripped through a slum and 
 1. [AFP/Reuters via ABC Australia](http://www.abc.net.au/news/2012-12-25/an-seven-dead-in-manila-fires/4443466)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20841396)
 3. [SkyNews](http://news.sky.com/story/1030011/manila-christmas-eve-fires-tear-through-slum)
+3. [Cover Image](http://e3.365dm.com/16/07/1600x900/158708110-1_3683502.jpg?20160706123013)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Assassins killed Libya’s top rebel military commander, stirring fears that a t
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/07/29/world/africa/29libya.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2011/07/29/world/29libya/29libya-thumbStandard-v2.jpg)
 
 ### Related:
 

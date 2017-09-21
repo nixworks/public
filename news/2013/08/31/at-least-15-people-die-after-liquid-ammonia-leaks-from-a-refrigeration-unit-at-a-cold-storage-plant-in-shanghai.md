@@ -8,6 +8,7 @@ At least 15 people have been killed after liquid ammonia leaked from a refrigera
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Liquid-ammonia-leak-kills-15-in-Shanghai-20130831)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1797/9a1ef34260d8437182a223af05636f9f.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 700 people fleeing Africa and the Middle East may have drowned in ship
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/09/15/uk-europe-migrants-boat-idUKKBN0HA1MR20140915)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140915&t=2&i=973877398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA8E0ZB)
 
 ### Related:
 

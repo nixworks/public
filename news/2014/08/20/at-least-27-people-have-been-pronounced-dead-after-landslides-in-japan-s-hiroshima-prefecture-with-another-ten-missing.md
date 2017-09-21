@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-28862949)
 2. [CNN](http://edition.cnn.com/2014/08/20/world/asia/japan-landslides/index.html?eref=edition)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77049000/jpg/_77049055_023560782ap.jpg)
 
 ### Related:
 

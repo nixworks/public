@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-venezuela-politic*s-idUSKCN0WS0JO)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160326&t=2&i=1127961892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2P0BW)
 
 ### Related:
 

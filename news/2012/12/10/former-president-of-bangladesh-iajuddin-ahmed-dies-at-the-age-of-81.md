@@ -8,6 +8,7 @@ Former Bangladesh President Iajuddin Ahmed whose eventful tenure exposed the cou
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/south-asia/Bangladeshs-controversial-ex-President-Iajuddin-Ahmed-passes-away/articleshow/17558510.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

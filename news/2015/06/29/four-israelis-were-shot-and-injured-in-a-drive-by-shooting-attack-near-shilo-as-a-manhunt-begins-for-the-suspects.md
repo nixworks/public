@@ -8,6 +8,7 @@ One seriously wounded, three suffer moderate wounds after coming under fire at t
 ### Source:
 
 1. [YNet](http://www.ynetnews.com/articles/0,7340,L-4674258,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/06/29/6139237/6139221099099640360no.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Change in mandate allows peacekeepers to engage al-Shabab, as they try to turn t
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/20117242810884556.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/2/2011724234463734_20.jpg)
 
 ### Related:
 

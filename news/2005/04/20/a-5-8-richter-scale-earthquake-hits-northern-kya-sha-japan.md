@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/143504/1/.html)
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=334772)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8231215)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

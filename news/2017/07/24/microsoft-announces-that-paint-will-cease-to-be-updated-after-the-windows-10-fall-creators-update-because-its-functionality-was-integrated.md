@@ -9,6 +9,7 @@ Long-standing basic graphics editing program, used throughout childhoods since t
 
 1. [CNET](https://www.cnet.com/how-to/free-replacements-for-microsoft-paint/)
 2. [The Guardian](https://www.theguardian.com/technology/2017/jul/24/microsoft-paint-kill-off-after-32-years-graphics-editing-program)
+2. [Cover Image](https://i.guim.co.uk/img/media/94a45ddb218870d252222de614c4f580219d33d7/0_90_1856_1114/master/1856.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7edf0392cf27a5b10b3ecbbbebee4db1)
 
 ### Related:
 

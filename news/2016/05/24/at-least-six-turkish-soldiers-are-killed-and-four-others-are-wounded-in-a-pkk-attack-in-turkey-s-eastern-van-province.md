@@ -8,6 +8,7 @@ Six Turkish soldiers were killed and four others were wounded in a PKK terror at
 ### Source:
 
 1. [Daily Sabah](http://www.dailysabah.com/war-on-terror/2016/05/24/pkk-terror-attack-in-eastern-turkey-leaves-6-soldiers-dead-4-wounded)
+1. [Cover Image](https://iadsb.tmgrup.com.tr/ee5ec8/645/344/0/100/2000/1168?u=http://i.tmgrup.com.tr/dailysabah/2016/05/24/1464110793769.jpg)
 
 ### Related:
 

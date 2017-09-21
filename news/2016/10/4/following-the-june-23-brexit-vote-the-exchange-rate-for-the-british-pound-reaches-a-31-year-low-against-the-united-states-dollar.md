@@ -8,6 +8,7 @@ The FTSE 100 share index comes close to an all-time high after rising above 7,00
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37549685)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A349/production/_91510814_gettyimages-543267938.jpg)
 
 ### Related:
 

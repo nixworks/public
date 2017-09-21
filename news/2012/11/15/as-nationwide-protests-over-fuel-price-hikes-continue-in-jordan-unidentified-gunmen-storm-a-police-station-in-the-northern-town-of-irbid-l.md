@@ -8,6 +8,7 @@ Police stations come under fire as anger grows over fuel price hikes in the king
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012111421456916947.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/14/20121114212426316734_20.jpg)
 
 ### Related:
 

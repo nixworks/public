@@ -8,6 +8,7 @@ U.S. President Donald Trump is expected to nominate Columbia University law prof
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-sec-jackson-idUSKCN1BC3ED?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

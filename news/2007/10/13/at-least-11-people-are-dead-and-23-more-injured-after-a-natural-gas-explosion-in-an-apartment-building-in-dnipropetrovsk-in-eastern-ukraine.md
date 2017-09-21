@@ -8,6 +8,7 @@ Ukrainian officials say at least 11 people were killed and 23 others injured in 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/10/14/2058951.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

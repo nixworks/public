@@ -8,6 +8,7 @@ A royal charter on press regulation is granted by the Privy Council, despite a l
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-24746137)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66467000/jpg/_66467723_newspapers_pa.jpg)
 
 ### Related:
 

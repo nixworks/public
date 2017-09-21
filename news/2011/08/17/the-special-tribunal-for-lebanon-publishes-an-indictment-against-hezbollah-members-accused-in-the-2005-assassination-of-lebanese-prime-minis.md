@@ -11,6 +11,7 @@ International jurists Wednesday released details of how an analysis of cellphone
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/lebanon/8706873/Lebanon-indictment-Rafiq-Hariri-tracked-for-three-months-with-elaborate-phone-network.html)
 3. [UPI](http://www.upi.com/Top_News/Special/2011/08/17/Tribunal-publishes-warrants-in-Hariri-case/UPI-84571313599154/)
 4. [Washington Post](http://www.washingtonpost.com/world/middle-east/un-court-indicts-hezbollah-members-in-2005-assassination-in-lebanon/2011/08/17/gIQAv2KTLJ_story.html)
+4. [Cover Image](http://www.latimes.com/media/photo/2011-08/64049457.jpg)
 
 ### Related:
 

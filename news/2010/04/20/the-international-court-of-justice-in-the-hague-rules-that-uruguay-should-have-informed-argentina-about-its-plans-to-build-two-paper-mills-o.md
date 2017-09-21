@@ -9,6 +9,7 @@ International court rejects Argentine claims that Uruguay contaminated shared ri
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/04/2010420181035373716.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8632933.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

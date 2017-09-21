@@ -8,6 +8,7 @@ A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months 
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/former-u-s-house-speaker-dennis-hastert-sentenced-to-15-months-in-prison-1461777151)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-NT231_0427HA_TOP_20160427141708.jpg)
 
 ### Related:
 

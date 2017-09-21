@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-37260375)
 2. [Reuters via ''Time](http://time.com/4477252/uzbekistan-president-islam-karimov-ill/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10E6E/production/_91003296_hi035001453.jpg)
 
 ### Related:
 

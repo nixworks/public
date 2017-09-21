@@ -10,6 +10,7 @@
 1. [AFP](http://afp.google.com/article/ALeqM5ji6H18az0aIKyD5jHaC6j3sawCAg)
 2. [BBC Mundo](http://news.bbc.co.uk/hi/spanish/latin_america/newsid_7613000/7613726.stm)
 3. [Reuters](http://uk.reuters.com/article/oilRpt/idUKN1240144420080912)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

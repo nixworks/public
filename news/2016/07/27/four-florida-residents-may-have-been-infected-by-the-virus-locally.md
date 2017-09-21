@@ -8,6 +8,7 @@ Florida health officials are investigating four cases of the Zika virus that are
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/zika-virus-florida-advisory-officials-investigate-4-non-travel-cases-a7159111.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/07/27/17/zika-advisory-miami.jpg)
 
 ### Related:
 

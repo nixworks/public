@@ -8,6 +8,7 @@ Fire that broke out in south Dublin in early hours of morning kills members of t
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/news/ireland/irish-news/at-least-eight-believed-dead-after-fire-at-dublin-halting-site-1.2387124)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2387130&origw=1440)
 
 ### Related:
 

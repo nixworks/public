@@ -8,6 +8,7 @@ Taliban militants behead seven Pakistani soldiers captured by insurgents in a cr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18586978)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61134000/jpg/_61134791_003873417-1.jpg)
 
 ### Related:
 

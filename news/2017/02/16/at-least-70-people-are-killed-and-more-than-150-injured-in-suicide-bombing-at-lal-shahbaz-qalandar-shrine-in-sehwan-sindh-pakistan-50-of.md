@@ -9,6 +9,7 @@ Scores of people injured in the explosion; armed forces facilitating civil offic
 
 1. [Dawn News](http://www.dawn.com/news/1315136/at-least-10-dead-as-bomb-rips-through-lal-shahbaz-shrine-in-sehwan-sindh)
 2. [The News](https://www.thenews.com.pk/latest/186748-Several-injured-in-Sehwan-Sharif-explosion#)
+2. [Cover Image](http://i.dawn.com/medium/2017/02/58a67692724d9.jpg)
 
 ### Related:
 

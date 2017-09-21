@@ -8,6 +8,7 @@ The ultra-orthodox party proposes a bill that would thwart the mixed prayer area
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4885677,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2016/11/02/7358894/73588850100993640360no.jpg)
 
 ### Related:
 

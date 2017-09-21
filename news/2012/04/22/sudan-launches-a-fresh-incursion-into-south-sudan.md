@@ -8,6 +8,7 @@ Border areas across Unity State bombed leaving one dead and three others wounded
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/2012422224749713350.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/23/201242385139361734_20.jpg)
 
 ### Related:
 

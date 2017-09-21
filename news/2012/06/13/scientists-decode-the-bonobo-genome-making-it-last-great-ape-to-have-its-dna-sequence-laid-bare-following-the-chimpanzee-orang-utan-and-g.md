@@ -8,6 +8,7 @@ Scientists decode the genetics of the bonobo, the last great ape to have its DNA
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18430420)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60882000/jpg/_60882527_60882526.jpg)
 
 ### Related:
 

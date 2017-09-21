@@ -8,6 +8,7 @@
 ### Source:
 
 1. [SBS](http://www.sbs.com.au/news/article/2016/04/27/bali-9s-czugaj-allegedly-found-drugs)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20070817000042347809-original.jpg)
 
 ### Related:
 

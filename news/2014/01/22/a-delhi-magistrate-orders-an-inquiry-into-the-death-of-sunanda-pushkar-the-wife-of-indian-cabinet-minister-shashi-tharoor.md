@@ -8,6 +8,7 @@ A magistrate in Delhi orders an investigation into the death of Sunanda Pushkar,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-25838661)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72440000/jpg/_72440389_113273853.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Former Brazilian President Luiz Inacio Lula da Silva was sworn in as chief of st
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35835795)
 2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WJ1WN)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160317&t=2&i=1125646343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2G1BJ)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gunmen have killed at least 30 people in an attack in a farming region in northe
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/08/12/uk-nigeria-violence-idUKBRE97B0TR20130812)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

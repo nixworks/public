@@ -9,6 +9,7 @@ Two people were seriously hurt, 2 more were critically injured after a car plowe
 
 1. [CBS Los Angeles](http://losangeles.cbslocal.com/2013/08/03/2-seriously-hurt-2-critical-after-car-plows-into-venice-boardwalk-crowd/)
 2. [CNN](http://www.cnn.com/2013/08/03/us/california-venice-beach-crash/index.html?hpt=hp_t2)
+2. [Cover Image](https://cbsla.files.wordpress.com/2013/08/venice-beach-crash2.jpg?w=625)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20120713-icc-seeks-arrest-rwandan-commander-congo-war-crimes-sylvestre-mudacumura)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/mudacumura.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ At least nine people, including two policemen, are killed during anti-government
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26236860)
 2. [CNN](http://edition.cnn.com/2014/02/18/world/europe/ukraine-protests/)
 3. [Reuters](http://uk.reuters.com/article/2014/02/18/uk-ukraine-crisis-police-idUKBREA1H20E20140218)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73058000/jpg/_73058835_73054636.jpg)
 
 ### Related:
 

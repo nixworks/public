@@ -9,6 +9,7 @@ The storm has already been blamed for deaths in the Dominican Republic.
 
 1. [NBC News](http://www.nbcnews.com/news/weather/tropical-storm-earl-expected-be-hurricane-when-it-hits-belize-n621586)
 2. [NHC public advisory](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_31/1650641/160803-earl-mexico-mn-noaa-mn-0809_1ed81474c35f1f3eb8468f371a3d9afe.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

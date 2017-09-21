@@ -11,3 +11,4 @@ With a rapt world watching the drama unfold live on television, the tsunami race
 2. [CNN](http://www.cnn.com/2010/WORLD/americas/02/28/chile.quake/index.html?hpt=T2)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Tsunami-Warning-Issued-By-Japan-Following-Earthquake-In-Chile-Hawaii-Threat-Is-Lifted/Article/201002415561684?f=rss)
 4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10629160)
+4. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)

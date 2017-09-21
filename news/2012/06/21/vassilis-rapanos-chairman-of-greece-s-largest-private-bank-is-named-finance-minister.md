@@ -8,6 +8,7 @@ Vassilis Rapanos, chairman of Greece&#39;s largest private bank, has been named 
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2012/0621/top-greek-banker-appointed-finance-minister.html)
+1. [Cover Image](https://img.rasset.ie/0005a67e-1600.jpg)
 
 ### Related:
 

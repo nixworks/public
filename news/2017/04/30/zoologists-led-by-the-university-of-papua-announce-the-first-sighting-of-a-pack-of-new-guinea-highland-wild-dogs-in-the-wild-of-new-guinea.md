@@ -8,6 +8,7 @@ Scientists confirm the existence of one of the world&#039;s most ancient and pri
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2017-04-30/dingo-relative-rediscovered-in-papua-new-guinea-highlands/8463208)
+1. [Cover Image](http://www.abc.net.au/news/image/8483610-1x1-700x700.jpg)
 
 ### Related:
 

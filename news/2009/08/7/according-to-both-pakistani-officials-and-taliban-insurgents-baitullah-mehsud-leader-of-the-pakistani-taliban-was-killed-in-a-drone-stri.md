@@ -8,6 +8,7 @@ Baitullah Mehsud was blamed for the assassination of Benazir Bhutto and scores o
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/08/08/world/asia/08pstan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

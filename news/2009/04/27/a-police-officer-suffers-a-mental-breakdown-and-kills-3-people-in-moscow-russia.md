@@ -9,6 +9,7 @@ An off-duty police chief has shot and killed two people and wounded seven others
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8020184.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0427/moscow.html)
+2. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Tensions between Republican presidential hopefuls Ted Cruz and Marco Rubio erupt
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2016/01/29/cruz-rubio-tensions-flare-at-trump-less-gop-debate.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/01/28/0/0/694940094001_4727215413001_6c5812e4-26b9-4cb9-9f6f-09738c65eb37.jpg?ve=1)
 
 ### Related:
 

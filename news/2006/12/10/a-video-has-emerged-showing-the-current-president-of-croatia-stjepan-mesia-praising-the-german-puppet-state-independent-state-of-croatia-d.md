@@ -8,3 +8,4 @@
 ### Source:
 
 1. [index.hr](http://www.index.hr/clanak.aspx?id=334481)
+1. [Cover Image](http://www.index.hr/images2/mesic10travnjaV.jpg)

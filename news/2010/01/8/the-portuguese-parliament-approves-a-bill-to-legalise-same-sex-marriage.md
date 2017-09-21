@@ -10,6 +10,7 @@ The Portuguese parliament has approved at first reading a bill to legalise gay m
 1. [CBC](http://www.cbc.ca/cp/world/100108/w010849A.html)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5101079,00.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0108/portugal.html)
+3. [Cover Image](https://img.rasset.ie/00028c9f-1600.jpg)
 
 ### Related:
 

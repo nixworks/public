@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/07/21/uk-brunei-helicopter-idUKBRE86K06K20120721)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -18,4 +19,5 @@
 5. [The 25th Association of Southeast Asian Nations summit and 8th East Asia Summit are held in Brunei. ](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.md) _Context: Brunei_
 6. [Brunei and Malaysia sign a deal to jointly explore and produce oil and gas off the coast of northern Borneo. ](/news/2010/12/13/brunei-and-malaysia-sign-a-deal-to-jointly-explore-and-produce-oil-and-gas-off-the-coast-of-northern-borneo.md) _Context: Brunei_
 7. [ Majeedah Bolkiah&mdash;daughter of Hassanal Bolkiah, Sultan of Brunei&mdash;marries Khairul Khalil, an official in the office of the Prime Minister in a lavish Islamic wedding ceremony. ](/news/2007/06/11/majeedah-bolkiah-mdash-daughter-of-hassanal-bolkiah-sultan-of-brunei-mdash-marries-khairul-khalil-an-official-in-the-office-of-the-prime.md) _Context: Brunei_
-8. [ Spratly Islands: The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-ric.md) _Context: Brunei_
+8. [ Crown Prince Al-Muhtadee Billah of Brunei marries Pengiran Anak Sarah. ](/news/2004/09/9/crown-prince-al-muhtadee-billah-of-brunei-marries-pengiran-anak-sarah.md) _Context: Brunei_
+9. [ Spratly Islands: The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-ric.md) _Context: Brunei_

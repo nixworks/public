@@ -8,6 +8,7 @@ The Sudanese Ambassador to Ireland has confirmed that negotiations are underway 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0709/comminss.html)
+1. [Cover Image](https://img.rasset.ie/00026e15-1600.jpg)
 
 ### Related:
 

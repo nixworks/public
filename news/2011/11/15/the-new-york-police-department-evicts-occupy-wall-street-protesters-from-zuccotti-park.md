@@ -8,6 +8,7 @@ Occupy Wall Street protesters can no longer camp at their original protest site,
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2011-11-15/police-clear-occupy-wall-street/3673220)
+1. [Cover Image](http://www.abc.net.au/news/image/3673860-1x1-700x700.jpg)
 
 ### Related:
 

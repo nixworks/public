@@ -10,6 +10,7 @@
 1. [AP](https://apnews.com/b6dc8bc3cd34432b9386ea0f844de69f/The-Latest:-Police-shot,-injured-attacker-near-Notre-Dame)
 2. [BBC](http://www.bbc.com/news/world-europe-40178183)
 3. [Reuters](http://www.reuters.com/article/us-europe-attacks-france-idUSKBN18X1V5)
+3. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:15eea94e5bfa4cbbad8bae645c0d14ae/800.jpeg)
 
 ### Related:
 

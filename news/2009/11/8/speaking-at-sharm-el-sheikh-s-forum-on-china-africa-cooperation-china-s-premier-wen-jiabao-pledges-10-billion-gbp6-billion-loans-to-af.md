@@ -12,6 +12,7 @@ Chinese has offered Africa $10bn in concessional loans over the next three years
 3. [France 24](http://www.france24.com/en/20091108-china-africa-summit-egypt-financial-aid-development-beijing)
 4. [RTÉ](http://www.rte.ie/news/2009/1108/africa.html)
 5. [The Age](http://news.theage.com.au/breaking-news-world/china-to-give-africa-us10b-in-loans-20091108-i3ki.html)
+5. [Cover Image](https://img.rasset.ie/00010d4b-1600.jpg)
 
 ### Related:
 

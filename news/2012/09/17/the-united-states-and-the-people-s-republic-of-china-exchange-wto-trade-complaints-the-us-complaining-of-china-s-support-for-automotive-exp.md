@@ -9,6 +9,7 @@ President Barack Obama on Monday said the United States was challenging Chinese 
 
 1. [Los Angeles Times](http://www.latimes.com/business/money/la-fi-mo-china-trade-complaint-wto-dumping-obama-romney-20120917,0,2797876.story)
 2. [Reuters](http://www.reuters.com/article/2012/09/17/us-obama-trade-idUSBRE88G02420120917)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120917&t=2&i=653894169&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88G07O000)
 
 ### Related:
 

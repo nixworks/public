@@ -8,6 +8,7 @@ Syrian rebels backed by the Turkish military have captured the outskirts of the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-albab-idUSKBN15N0RO)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170208&t=2&i=1171894307&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED17178)
 
 ### Related:
 

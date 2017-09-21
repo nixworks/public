@@ -9,6 +9,7 @@
 
 1. [Rappler](http://www.rappler.com/nation/142510-duterte-sereno-declare-martial-law)
 2. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/us-concerned-about-extrajudicial-killings-in-philippines/2016/08/09/f42853cc-5e09-11e6-84c1-6d27287896b5_story.html)
+2. [Cover Image](https://assets.rappler.com/10BCED0DB67F40D2943EF095EE620C9B/img/AED58A1369AB41D5923B03735161545A/maro-pco-duterte-capiz-cebu-20160806-8.jpg)
 
 ### Related:
 

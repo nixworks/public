@@ -11,6 +11,7 @@ Police early Saturday forcefully broke up an hours-long blockade of exits from t
 2. [RT](https://www.rt.com/news/370590-poland-parliament-protest-police/)
 3. [Reuters](http://www.reuters.com/article/us-poland-politics-crisis-idUSKBN1452TL?il=0)
 4. [Reuters²](http://www.reuters.com/article/us-poland-media-idUSKBN1451OJ?il=0)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161217&t=2&i=1165827963&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBG0DI)
 
 ### Related:
 

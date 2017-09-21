@@ -11,6 +11,7 @@ The clock is ticking on trans fat. FDA sets three-year deadline.
 2. [FDA's statement](http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm451237.htm)
 3. [MSN](http://www.msn.com/en-us/foodanddrink/foodnews/fda-bans-artificial-trans-fats-in-united-states-food-supply/ar-BBldG5q?ocid=ansfoodDailyMeal11)
 4. [Washington Post](http://www.washingtonpost.com/news/to-your-health/wp/2015/06/16/the-100-year-old-scientist-who-pushed-the-fda-to-ban-artificial-trans-fat/)
+4. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150616143438-trans-fats-780x439.jpg)
 
 ### Related:
 

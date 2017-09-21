@@ -8,6 +8,7 @@ Nangarhar police said that the bombing, a Massive Ordnance Air Blast (MOAB), des
 ### Source:
 
 1. [TOLOnews](http://www.tolonews.com/afghanistan/four-daesh-commanders-killed-us-bombing-achin)
+1. [Cover Image](http://www.tolonews.com/sites/default/files/moab-15-april-17.jpg)
 
 ### Related:
 

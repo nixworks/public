@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/world/magnitude-68-earthquake-strikes-japanese-coast-tsunami-warning-issued/story-e6frfkyi-1226299794617)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/d6169ae0f5af5c02ce8b30d7634089b5)
 
 ### Related:
 

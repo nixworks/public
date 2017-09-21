@@ -8,6 +8,7 @@ Scientists have sequenced the tomato genome and say it will yield tastier fruit 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18253577)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60580000/jpg/_60580319_h1104406-tomatoes-spl.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iraqi forces backed by U.S.-led coalition air strikes reached the center of the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-hit-idUSKCN0X516M)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160408&t=2&i=1131271168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC370RY)
 
 ### Related:
 

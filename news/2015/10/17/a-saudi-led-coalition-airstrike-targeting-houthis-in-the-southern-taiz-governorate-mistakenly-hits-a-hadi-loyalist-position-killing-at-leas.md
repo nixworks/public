@@ -9,6 +9,7 @@ The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hit
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34563528)
 2. [CBC News](http://www.cbc.ca/news/world/yemen-sudan-houthi-1.3276586)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D528/production/_86186545_gettyimages-158852226.jpg)
 
 ### Related:
 

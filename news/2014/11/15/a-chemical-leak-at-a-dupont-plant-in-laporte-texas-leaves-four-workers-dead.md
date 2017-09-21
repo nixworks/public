@@ -8,6 +8,7 @@ The federal Chemical Safety Board said it was sending a seven-person investigati
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/leaking-valve-suspected-dupont-chemical-leak-killed-four-n249396)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2014_46/769341/141115-chemical-spill-texas-1842_2450cb17f707eeedf72e6dd118ff9c13.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

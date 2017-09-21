@@ -8,6 +8,7 @@ The Ethiopian government says armed men have killed 140 people and abducted 39 c
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36064710)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A11F/production/_89274214_ethiopiagambella4641604.png)
 
 ### Related:
 

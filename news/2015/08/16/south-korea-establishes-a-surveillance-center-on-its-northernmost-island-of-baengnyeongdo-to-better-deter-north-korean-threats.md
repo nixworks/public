@@ -9,6 +9,7 @@ A surveillance center dedicated to monitoring possible military provocations fro
 
 1. [The Korea Times](https://www.koreatimes.co.kr/www/news/nation/2015/08/116_184946.html)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2015/08/16/0200000000AEN20150816000900315.html?input=www.tweeter.com)
+2. [Cover Image](http://www.koreatimes.co.kr/upload/newsV2/images/150816_p02_border.jpg)
 
 ### Related:
 

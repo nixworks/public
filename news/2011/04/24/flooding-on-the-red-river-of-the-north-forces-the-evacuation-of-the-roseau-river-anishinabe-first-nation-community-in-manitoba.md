@@ -8,6 +8,7 @@ The evacuation of Roseau River Anishinabe First Nation continued Sunday with abo
 ### Source:
 
 1. [Winnipeg Sun](http://www.winnipegsun.com/2011/04/24/roseau-river-evacuates-90-of-residents)
+1. [Cover Image](http://storage.winnipegsun.com/v1/suns-prod-images/1297162310353_LARGE_BOX.jpg?quality=80&stmp=1490883402902)
 
 ### Related:
 
@@ -17,3 +18,4 @@ The evacuation of Roseau River Anishinabe First Nation continued Sunday with abo
 4. [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md) _Context: Manitoba_
 5. [ The Red River rises above 40 feet, causing emergency evacuations in Fargo, North Dakota, United States. ](/news/2009/03/28/the-red-river-rises-above-40-feet-causing-emergency-evacuations-in-fargo-north-dakota-united-states.md) _Context: Red River of the North_
 6. [ Premier Gary Doer of the Canadian province of Manitoba secures a third straight NDP majority government in the general election. ](/news/2007/05/22/premier-gary-doer-of-the-canadian-province-of-manitoba-secures-a-third-straight-ndp-majority-government-in-the-general-election.md) _Context: Manitoba_
+7. [ Manitoba becomes the fourth province, and the fifth jurisdiction, in Canada to legalize same-sex marriage. ](/news/2004/09/16/manitoba-becomes-the-fourth-province-and-the-fifth-jurisdiction-in-canada-to-legalize-same-sex-marriage.md) _Context: Manitoba_

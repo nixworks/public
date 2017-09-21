@@ -9,6 +9,7 @@ Thousands of Iranian exiles rally in France, demand tougher sanctions against Te
 
 1. [Euronews](http://www.euronews.net/2010/06/26/anti-iranian-regime-rally-draws-thousands-to-paris/)
 2. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3910975,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -16,6 +16,7 @@ Sustained winds on the ground in Barbuda were recorded at 108 mph.
 7. [The Guardian](https://www.theguardian.com/world/live/2017/sep/06/hurricane-irma-caribbean-islands-category-5-storm?page=with:block-59afd634e4b046d20d3e8a02#block-59afd634e4b046d20d3e8a02)
 8. [The Times-Picayune](http://www.nola.com/hurricane/index.ssf/2017/09/hurricane_katia_forms_gulf_of.html)
 9. [Weather Channel](https://weather.com/storms/hurricane/news/tropical-depression-thirteen-tropical-storm-katia)
+9. [Cover Image](http://a.abcnews.com/images/US/WireAP_358a5144ce7b4a02bf4968707f6ab5c5_16x9_992.jpg)
 
 ### Related:
 

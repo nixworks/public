@@ -8,6 +8,7 @@ A record-setting May snowstorm swept across the north-central U.S. on Thursday, 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/weather/2013/05/02/may-snowstorm-midwest/2130447/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

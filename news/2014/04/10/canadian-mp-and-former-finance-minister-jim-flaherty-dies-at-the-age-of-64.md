@@ -8,6 +8,7 @@ Emergency crews were called to the 64-year-old’s Ottawa condo Thursday afterno
 ### Source:
 
 1. [Globe and Mail](http://www.theglobeandmail.com/news/politics/flaherty/article17919447/#dashboard/follows/)
+1. [Cover Image](http://static.theglobeandmail.ca/25b/news/politics/article7504928.ece/ALTERNATES/w620/web-flaherty17nw2.jpg)
 
 ### Related:
 

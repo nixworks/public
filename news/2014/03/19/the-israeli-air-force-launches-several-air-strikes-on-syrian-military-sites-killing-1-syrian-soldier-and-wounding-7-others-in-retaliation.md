@@ -8,6 +8,7 @@ A Syrian soldier is killed in air strikes launched by Israel in retaliation for 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-26641815)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73678000/jpg/_73678268_73675466.jpg)
 
 ### Related:
 

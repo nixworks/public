@@ -8,6 +8,7 @@ Roadside bombs killed five foreign troops in Afghanistan on Saturday, military o
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/25295430/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

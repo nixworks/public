@@ -8,6 +8,7 @@ Three jawans of fire services were among six persons killed as torrential rains 
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Heavy-rains-create-havoc-in-Uttarakhand-Chardham-Yatra-suspended/articleshow/15349436.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Government forces retreat as the district headquarters fall to militants after a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39365330)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/988E/production/_88145093_88145089.jpg)
 
 ### Related:
 

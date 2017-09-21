@@ -8,6 +8,7 @@ Egypt signed a contract Saturday to buy two Mistral warships, whose sale to Russ
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Egypt-signs-deal-for-two-French-warships/articleshow/49302673.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/49302762.cms)
 
 ### Related:
 

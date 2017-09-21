@@ -8,6 +8,7 @@ Attackers flying flags of Somalia&#039;s al-Shabaab carry out deadliest attack o
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/kenya/10901970/Dozens-killed-after-Islamists-set-fire-to-hotels-along-Kenya-coast.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02942/Kenya_terror_attac_2942910k.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Six policemen, including a Superintendent of Police, have been killed in an ambu
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/major-maoist-attack-in-jharkhand-eight-policemen-feared-killed-386972)
+1. [Cover Image](http://i.ndtvimg.com/mt/2013-07/Amarjit_Balihar_295.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mauritanian President Mohamed Ould Abdel Aziz has won another five-year term wit
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/06/22/uk-mauritania-election-idUKKBN0EX14F20140622)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140622&t=2&i=910628925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5L0JU)
 
 ### Related:
 

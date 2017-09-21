@@ -8,6 +8,7 @@ ECUADOR has issued an orange alert -- the second-highest warning level -- for to
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/ecuador-declares-volcano-alert/story-e6frfkui-1226538227088)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

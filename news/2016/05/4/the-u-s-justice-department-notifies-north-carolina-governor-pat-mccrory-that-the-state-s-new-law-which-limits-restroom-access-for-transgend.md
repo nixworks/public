@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2016/05/04/us/north-carolina-transgender-law-challenge/)
 2. [Reuters](http://www.reuters.com/article/us-north-carolina-lgbt-idUSKCN0XV2N8)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160504&t=2&i=1135803978&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC431LM)
 
 ### Related:
 

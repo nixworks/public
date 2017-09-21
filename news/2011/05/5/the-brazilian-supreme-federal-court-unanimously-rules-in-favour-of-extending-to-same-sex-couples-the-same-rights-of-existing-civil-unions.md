@@ -10,6 +10,7 @@
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/brazils-top-court-approves-same-sex-civil-unions-sets-precedent-for-gay-rights/2011/05/05/AFXJzv1F_story.html)
 2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110505/ap_on_re_la_am_ca/lt_brazil_civil_unions)
 3. [BBC](http://www.bbc.co.uk/news/world-13304442)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52559000/jpg/_52559778_gaymarraige.jpg)
 
 ### Related:
 

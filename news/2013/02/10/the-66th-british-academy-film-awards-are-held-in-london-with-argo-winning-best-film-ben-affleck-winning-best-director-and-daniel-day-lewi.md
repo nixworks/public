@@ -9,6 +9,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 1. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=844520)
 2. [The Guardian](http://www.guardian.co.uk/film/filmblog/2013/feb/10/baftas-2013-film-ceremony-live)
+2. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

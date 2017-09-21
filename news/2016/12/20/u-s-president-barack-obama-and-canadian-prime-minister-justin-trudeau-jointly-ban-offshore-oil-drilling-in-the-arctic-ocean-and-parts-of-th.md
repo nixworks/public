@@ -9,6 +9,7 @@ In 2015, 0.1 percent of U.S. federal offshore crude production came from the Arc
 
 1. [Toronto Star](https://www.thestar.com/news/canada/2016/12/20/canada-us-announce-ban-on-offshore-oil-gas-licenses-in-arctic.html)
 2. [Washington Examiner](http://www.washingtonexaminer.com/president-obama-bans-offshore-drilling-in-arctic-atlantic/article/2610103)
+2. [Cover Image](http://cdn.washingtonexaminer.biz/cache/1060x600-85e07f8fc7e735194a34869cdfdc3866.jpg)
 
 ### Related:
 

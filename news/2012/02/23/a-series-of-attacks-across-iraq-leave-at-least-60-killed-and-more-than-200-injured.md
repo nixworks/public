@@ -10,6 +10,7 @@ Suspected al Qaeda militants unleashed a wave of terror across Baghdad and 11 ot
 1. [AP via MSNBC](http://news.ninemsn.com.au/world/8424628/baghdad-rocked-by-multiple-attacks)
 2. [Reuters](http://www.reuters.com/article/2012/02/23/us-iraq-violence-idUSTRE81M0CJ20120223?feedType=RSS&feedName=topNews)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iraq/9100067/More-than-30-killed-in-Iraq-bombings.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02148/ir_2148297a.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10537133.stm)
 2. [ESPN](http://soccernet.espn.go.com/worldcup/?null&topId=800552&linktext=Spain+beats+Germany+1-0+to+reach+final&cc=3436&ver=global)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

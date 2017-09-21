@@ -9,6 +9,7 @@ The former chief executive of Italian food conglomerate Parmalat is sentenced to
 
 1. [BBC](http://www.bbc.co.uk/news/business-11958133)
 2. [Dow Jones via the Australian](http://www.theaustralian.com.au/business/news/ex-parmalat-owner-calisto-tanzi-jailed-for-18-years/story-e6frg90o-1225968719008?referrer=email&source=AusBus_Morn_email_nl&emcmp=AusBusMorn&emchn=Newsletter&emlist=Member)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

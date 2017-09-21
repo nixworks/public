@@ -8,6 +8,7 @@ Thousands of Italians take to the streets to join a general strike against the g
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-12-13/thousands-protest-against-italian-government/5965086)
+1. [Cover Image](http://www.abc.net.au/news/image/5965108-1x1-700x700.jpg)
 
 ### Related:
 

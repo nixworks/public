@@ -8,6 +8,7 @@ Two of the stronger tremors in state history shook northwest Oklahoma. We have t
 ### Source:
 
 1. [The Weather Channel](http://www.weather.com/news/news/oklahoma-earthquake-swarm-fairview-january-2016)
+1. [Cover Image](http://s.w-x.co/ok-quakes-fairview-swarm.jpg)
 
 ### Related:
 

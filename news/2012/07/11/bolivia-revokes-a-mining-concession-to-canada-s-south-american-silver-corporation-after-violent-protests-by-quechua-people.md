@@ -8,6 +8,7 @@ President Evo Morales to revoke concessions of Canadian silver mine following vi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/07/201271193933748927.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/11/20127119545169734_20.jpg)
 
 ### Related:
 

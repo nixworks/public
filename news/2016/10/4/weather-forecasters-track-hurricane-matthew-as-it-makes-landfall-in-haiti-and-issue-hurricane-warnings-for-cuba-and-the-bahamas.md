@@ -13,6 +13,7 @@ More than a million residents near the South Carolina coast should get at least 
 4. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/040551.shtml)
 5. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/042354.shtml)
 6. [UPI](http://www.upi.com/Top_News/US/2016/10/04/SC-Gov-Nikki-Haley-calls-for-evacuation-of-11M-coastal-residents-ahead-of-Hurricane-Matthew/1081475611127/?spt=hs&or=tn_us)
+6. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/1081475611127/2016/1/14756129017585/v2.1/SC-Gov-Nikki-Haley-calls-for-evacuation-of-11M-coastal-residents-ahead-of-Hurricane-Matthew.jpg)
 
 ### Related:
 

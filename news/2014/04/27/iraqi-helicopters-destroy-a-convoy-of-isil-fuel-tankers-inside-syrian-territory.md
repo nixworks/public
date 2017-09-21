@@ -8,6 +8,7 @@ Iraqi military helicopters destroy a convoy of fuel tankers inside Syria, allegi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27179916)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74471000/gif/_74471704_syriairaq4640414.gif)
 
 ### Related:
 

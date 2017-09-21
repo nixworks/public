@@ -8,6 +8,7 @@ Government troops fired tank shells and artillery in heavy clashes between Syria
 ### Source:
 
 1. [CTV](http://www.ctvnews.ca/world/200-civilians-trapped-in-syrian-mosque-as-fighting-rages-outside-opposition-1.1366446)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1366745.1373829818!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

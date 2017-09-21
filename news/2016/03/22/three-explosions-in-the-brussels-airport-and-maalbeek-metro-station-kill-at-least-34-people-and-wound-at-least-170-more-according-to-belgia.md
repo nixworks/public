@@ -11,6 +11,7 @@
 2. [CNN](http://www.cnn.com/2016/03/22/europe/brussels-explosions/)
 3. [CNN²](http://www.cnn.com/2016/03/22/europe/brussels-explosions/index.html)
 4. [The New York Times](http://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12304/production/_88900547_88900400.jpg)
 
 ### Related:
 

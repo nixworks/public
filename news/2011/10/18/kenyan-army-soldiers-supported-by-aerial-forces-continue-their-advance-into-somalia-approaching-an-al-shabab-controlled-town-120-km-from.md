@@ -8,6 +8,7 @@ Kenyan troops with aerial support continuing their advance into Somalia, as a su
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15349597)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56121000/jpg/_56121568_013160551-1.jpg)
 
 ### Related:
 

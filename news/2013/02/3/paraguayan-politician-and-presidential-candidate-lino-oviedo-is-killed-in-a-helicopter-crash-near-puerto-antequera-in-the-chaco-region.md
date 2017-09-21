@@ -10,6 +10,7 @@ Presidential hopeful, Lino Oviedo, was killed in a helicopter crash in the north
 1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/the_americas/paraguayan-presidential-candidate-lino-oviedo-dies-in-helicopter-crash/2013/02/03/f116f0f8-6e07-11e2-b35a-0ee56f0518d2_story.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/02/201323185652458510.html)
 3. [The Voice of Russia](http://ruvr.co.uk/2013_02_03/Lino-Oviedo-dies-helicopter-crash/)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/3/201323192242966734_20.jpg)
 
 ### Related:
 

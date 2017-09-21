@@ -9,6 +9,7 @@ More than two dozen people were injured when a wood platform holding live firewo
 
 1. [AP via ''SFGate](http://www.sfgate.com/news/us/article/28-injured-at-Calif-fireworks-show-4647810.php)
 2. [FOX News](http://www.foxnews.com/us/2013/07/05/at-least-14-injured-at-california-fireworks-show/)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/070513/0/0/070513_edge_fireworkaccidentraw_640.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The city is banning pre-1997 cars and pre-2000 motorcycles from the streets in d
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/parallels/2016/07/01/484381708/to-fight-pollution-paris-imposes-weekday-ban-on-old-cars)
+1. [Cover Image](https://media.npr.org/assets/img/2016/07/01/gettyimages-544036228_wide-7b423c497150cd737714ad3420c812a03c134036.jpg?s=1400)
 
 ### Related:
 

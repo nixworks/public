@@ -8,6 +8,7 @@ A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaul
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/World/News/Swiss-tourist-gang-raped-in-India-20130316)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1869/08125c55b45949a59b729b5d7a89b25f.jpg)
 
 ### Related:
 

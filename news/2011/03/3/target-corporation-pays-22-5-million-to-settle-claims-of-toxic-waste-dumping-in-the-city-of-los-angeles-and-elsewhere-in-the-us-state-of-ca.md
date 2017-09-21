@@ -8,6 +8,7 @@ Target Corp. will pay $22.5 million to settle claims that it illegally dumped to
 ### Source:
 
 1. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Target-to-Pay-225-Million-to-Settle-Toxic-Waists-Dumping-Claims-117367493.html)
+1. [Cover Image](http://media.nbclosangeles.com/images/1200*675/Investigation+Photo1+copy1.jpg)
 
 ### Related:
 

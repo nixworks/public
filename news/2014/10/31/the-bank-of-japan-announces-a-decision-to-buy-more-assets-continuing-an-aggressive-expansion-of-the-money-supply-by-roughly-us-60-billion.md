@@ -8,6 +8,7 @@ The Bank of Japan shocked global financial markets on Friday by expanding its ma
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/10/31/us-japan-economy-boj-idUSKBN0IK0B120141031)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141031&t=2&i=987789167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA9U09U)
 
 ### Related:
 

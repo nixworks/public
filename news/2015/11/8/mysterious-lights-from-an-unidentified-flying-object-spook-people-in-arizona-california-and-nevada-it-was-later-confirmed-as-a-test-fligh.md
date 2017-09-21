@@ -8,6 +8,7 @@ A mysterious bright light in the sky over Los Angeles sends Californians into pa
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-34759177)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/104B1/production/_86573766_86573762.jpg)
 
 ### Related:
 

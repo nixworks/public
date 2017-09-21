@@ -9,6 +9,7 @@
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2010/11/30/following-pentagon-report-gates-urges-passage-of-dont-ask-dont-tell-repeal/)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6AT4RW20101130)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20101130&t=2&i=262295895&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-30T212500Z_01_BTRE6AT1NHS00_RTROPTP_0_USA)
 
 ### Related:
 

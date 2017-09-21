@@ -8,6 +8,7 @@ The Swiss team trying to fly a solar-powered plane around the world has abandone
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-33538442)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A0C2/production/_84045114_66.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Authorities struggle to cope with the aftermath of floods and landslides that ha
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/20111140122621565.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/15/201111514143986621_20.jpg)
 
 ### Related:
 

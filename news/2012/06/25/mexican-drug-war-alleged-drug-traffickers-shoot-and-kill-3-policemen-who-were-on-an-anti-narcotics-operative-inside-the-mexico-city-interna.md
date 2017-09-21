@@ -8,6 +8,7 @@ Two federal police officers suspected of working for drug traffickers opened fir
 ### Source:
 
 1. [Yahoo! News](http://news.yahoo.com/3-policemen-shot-death-mexico-city-airport-171218486.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

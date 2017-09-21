@@ -10,6 +10,7 @@ Animal rights activists were due to hold an anti-bullfighting march close to whe
 1. [BBC](http://www.bbc.com/news/world-latin-america-39023341)
 2. [Reuters](http://www.reuters.com/article/us-colombia-blast-bullfighting-idUSKBN15Y0PV?il=0)
 3. [i24news](http://www.i24news.tv/en/news/international/americas/138092-170219-explosion-in-colombian-capital-kills-a-policeman-injures-30-official)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16E1B/production/_94732739_2a389bf4-a118-4de5-a629-908f1c8dcafc.jpg)
 
 ### Related:
 

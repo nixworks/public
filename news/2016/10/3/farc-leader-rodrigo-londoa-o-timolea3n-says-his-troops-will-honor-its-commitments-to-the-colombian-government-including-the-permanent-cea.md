@@ -9,6 +9,7 @@ BOGOTA, Colombia (AP) — As peace talks in Colombia advanced over the past year
 
 1. [AP](http://bigstory.ap.org/article/1dbedba47161492e99b8847493166503/colombia-unchartered-territory-peace-deals-defeat)
 2. [The Washington Post'' via ''The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-colombia-peace-deal-20161003-story.html)
+2. [Cover Image](http://binaryapi.ap.org/9c2d94d08bfe483d9cf1e5dab4ab0d88/460x.jpg)
 
 ### Related:
 

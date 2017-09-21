@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20743019)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64790000/gif/_64790344_nigeria_abuja_kaduna_1212.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Game Of Thrones wins the Emmy for best drama, as Jon Hamm wins best actor for Ma
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-09-21/tv-stars-vie-for-emmy-awards-glory-live-blog/6790460)
+1. [Cover Image](http://www.abc.net.au/news/image/6792014-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Obama administration on Saturday notified the U.S. Congress of its decision 
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/us-sale-of-f16s-to-pakistan-india-expresses-disappointment-says-such-arms-transfers-will-help-combat-terrorism/article8231832.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article14040378.ece/ALTERNATES/LANDSCAPE_615/Jaishankar)
 
 ### Related:
 

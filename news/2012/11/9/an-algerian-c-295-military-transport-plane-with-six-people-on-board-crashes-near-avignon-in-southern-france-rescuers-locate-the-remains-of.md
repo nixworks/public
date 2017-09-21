@@ -9,6 +9,7 @@ An Algerian military transport aircraft returning to the country from Paris with
 
 1. [Reuters](http://www.reuters.com/article/2012/11/09/us-france-plane-idUSBRE8A816K20121109)
 2. [Trust.org](http://www.trust.org/alertnet/news/algerian-military-plane-crashes-in-france-four-dead/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

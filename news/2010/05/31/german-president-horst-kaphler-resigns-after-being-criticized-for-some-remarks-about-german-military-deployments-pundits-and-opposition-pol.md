@@ -9,6 +9,7 @@ German President Horst Koehler says he is resigning, following criticism of rema
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/10198036.stm)
 2. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,697785,00.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

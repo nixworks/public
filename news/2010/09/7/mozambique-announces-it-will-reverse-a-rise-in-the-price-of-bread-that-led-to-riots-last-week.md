@@ -9,6 +9,7 @@ Mozambique says it will reverse the increase in the price of bread that sparked 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/201097131921161458.html)
 2. [BBC](http://www.bbc.co.uk/news/business-11216009)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

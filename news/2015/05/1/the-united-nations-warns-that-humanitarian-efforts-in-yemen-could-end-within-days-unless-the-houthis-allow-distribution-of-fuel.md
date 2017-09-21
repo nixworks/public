@@ -8,6 +8,7 @@ UN agency calls on Houthis to release fuel supplies, saying it needs 200,000 lit
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/05/threatens-humanitarian-operations-yemen-150501172233517.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/5/1/34a1321ece004d1fbf66a03f2b17293f_18.jpg)
 
 ### Related:
 

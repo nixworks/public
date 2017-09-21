@@ -8,6 +8,7 @@ Samsung has announced it&#39;s ending production of the Galaxy Note 7 around the
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2016/10/11/13202608/samsung-galaxy-note-7-discontinued)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/NNab5GGOmfLc-Pt_wF9s2VzxLqg=/0x107:2039x1254/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/51301767/jbareham_160811_1180_B_0045.0.0.jpg)
 
 ### Related:
 

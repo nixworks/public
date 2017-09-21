@@ -8,6 +8,7 @@ A fire at a club in the southern Chinese city of Shenzhen, near the border with 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/09/21/2370116.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

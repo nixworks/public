@@ -8,6 +8,7 @@ A planned lunch between Iranian president Hassan Rouhani and French president Fr
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2015/11/11/iran-president-french-lunch-canceled-after-wanted-wine-free-menu-reports-claim/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/11/11/iran-president-french-lunch-canceled-after-wanted-wine-free-menu-reports-claim/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1447254128611.jpg?ve=1)
 
 ### Related:
 

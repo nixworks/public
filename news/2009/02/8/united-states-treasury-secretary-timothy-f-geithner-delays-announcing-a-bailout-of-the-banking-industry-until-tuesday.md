@@ -8,6 +8,7 @@ An administration official said the overhaul of the government&#39;s $700 billio
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29085097/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

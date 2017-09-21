@@ -8,6 +8,7 @@ Italian officials confirm 10 people have died after a fire on the Norman Atlanti
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30624086)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79977000/jpg/_79977073_025233645-1.jpg)
 
 ### Related:
 

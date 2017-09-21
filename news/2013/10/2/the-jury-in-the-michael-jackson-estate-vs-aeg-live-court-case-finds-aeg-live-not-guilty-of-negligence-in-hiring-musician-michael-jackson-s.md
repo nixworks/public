@@ -8,6 +8,7 @@ The singer&#039;s family alleges promoter AEG Live was negligent in hiring Dr Co
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1149510/michael-jackson-aeg-trial-verdict-reached)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/15328339_3635463.jpg?20160706012918)
 
 ### Related:
 

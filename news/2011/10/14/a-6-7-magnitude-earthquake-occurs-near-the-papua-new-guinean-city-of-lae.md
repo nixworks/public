@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-10-14/large-quake-hits-png/3571986)
+1. [Cover Image](http://www.abc.net.au/news/image/214452-1x1-700x700.jpg)
 
 ### Related:
 

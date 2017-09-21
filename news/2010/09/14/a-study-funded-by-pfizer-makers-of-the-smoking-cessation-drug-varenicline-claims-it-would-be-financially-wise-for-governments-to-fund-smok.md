@@ -8,6 +8,7 @@ Investing in smoking cessation treatments saves lives and it may be sound fiscal
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68D55Y20100914)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100914&t=2&i=203998860&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-14T205842Z_01_BTRE68D1M9X00_RTROPTP_0_CANADA)
 
 ### Related:
 

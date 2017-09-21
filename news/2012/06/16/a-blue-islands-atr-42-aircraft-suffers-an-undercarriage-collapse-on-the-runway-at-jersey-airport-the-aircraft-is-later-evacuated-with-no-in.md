@@ -8,6 +8,7 @@ The undercarriage of a Blue Islands plane from Guernsey gives way after landing 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-jersey-18469947)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56674000/jpg/_56674400_56674399.jpg)
 
 ### Related:
 

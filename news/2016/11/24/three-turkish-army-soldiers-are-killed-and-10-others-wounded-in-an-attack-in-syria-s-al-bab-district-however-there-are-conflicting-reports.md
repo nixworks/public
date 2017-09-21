@@ -9,6 +9,7 @@ Three Turkish soldiers are killed in an attack in Syria that Turkey says was a S
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-38090224)
 2. [Reuters via Yahoo! News](https://www.yahoo.com/news/three-turkish-soldiers-killed-islamic-state-attack-syrias-064027102.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/01C5/production/_92635400_mediaitem92635399.jpg)
 
 ### Related:
 

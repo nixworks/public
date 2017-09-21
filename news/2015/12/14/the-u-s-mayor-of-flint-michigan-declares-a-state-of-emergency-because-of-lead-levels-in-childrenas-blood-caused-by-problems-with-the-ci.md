@@ -9,6 +9,7 @@ Michigan city asks for more federal help while it deals with the fallout from wa
 
 1. [CBS News](http://www.cbsnews.com/news/flint-mayor-declares-state-of-emergency-over-contaminated-water/)
 2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/12/15/toxic-water-soaring-lead-levels-in-childrens-blood-create-state-of-emergency-in-flint-mich/?wpmm=1&wpisrc=nl_mix)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/06/09/95cebde3-7138-4cb3-9747-b34592a89080/waterfaucet.jpg)
 
 ### Related:
 

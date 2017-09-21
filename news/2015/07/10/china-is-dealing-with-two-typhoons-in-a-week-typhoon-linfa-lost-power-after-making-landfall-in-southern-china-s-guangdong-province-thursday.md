@@ -10,6 +10,7 @@ Chan-hom brought at least peripheral effects to four different locations in July
 1. [CNN](http://edition.cnn.com/2015/07/09/asia/asia-weather-typhoons-linfa-chan-hom/)
 2. [CRI English](http://english.cri.cn/12394/2015/07/10/4021s886724.htm)
 3. [Weather Channel](http://www.weather.com/storms/typhoon/news/typhoon-chanhom-china-shanghai-okinawa-jul2015)
+3. [Cover Image](http://s.w-x.co/CHAN-HOM-TRACK-HISTORY-2015.jpg)
 
 ### Related:
 

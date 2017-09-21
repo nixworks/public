@@ -8,6 +8,7 @@ A Learjet 35A plane, serial D-CGFI, was destroyed in an accident near Olsberg-El
 ### Source:
 
 1. [Aviation Safety Network](http://aviation-safety.net/database/record.php?id=20140623-0)
+1. [Cover Image](https://aviation-safety.net/photos/accidents/20140623-0-C-1.jpg)
 
 ### Related:
 

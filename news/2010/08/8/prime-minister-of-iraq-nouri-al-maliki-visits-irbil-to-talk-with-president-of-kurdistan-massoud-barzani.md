@@ -8,6 +8,7 @@ Iraqi premier tries to drum up Kurdish support after Shia bloc cuts off negotiat
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010887265441307.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

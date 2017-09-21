@@ -8,6 +8,7 @@ Zambian miners kill a Chinese manager by pushing a mine trolley at him during a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19135435)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62063000/gif/_62063493_zambia_sinazongwe_oct10.gif)
 
 ### Related:
 

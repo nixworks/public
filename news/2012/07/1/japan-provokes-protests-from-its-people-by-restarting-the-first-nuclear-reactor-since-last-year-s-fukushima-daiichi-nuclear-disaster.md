@@ -8,6 +8,7 @@ Hundreds of protesters gather as Japan restarts the first nuclear reactor since 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18662892)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60949000/jpg/_60949350_jex_1437035_de27-1.jpg)
 
 ### Related:
 

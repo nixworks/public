@@ -8,6 +8,7 @@ Zimbabwe&#039;s President Robert Mugabe and the opposition leader Morgan Tsvangi
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/zimbabwe/2961901/Zimbabwe-leaders-Robert-Mugabe-and-Morgan-Tsvangirai-sign-power-sharing-deal.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/00978/460-zim-agreement_978435a.jpg)
 
 ### Related:
 

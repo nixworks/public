@@ -19,6 +19,7 @@ The International Committee of the Red Cross pulls out of the Libyan rebel stron
 10. [The Guardian](http://www.guardian.co.uk/world/2011/mar/17/un-resolution-libya-no-fly-zone)
 11. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=37846&Cr=Bahrain&Cr1=)
 12. [UN Security Council resolutions 1970 & 1973](http://www.un.org/Docs/sc/unsc_resolutions11.htm)
+12. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

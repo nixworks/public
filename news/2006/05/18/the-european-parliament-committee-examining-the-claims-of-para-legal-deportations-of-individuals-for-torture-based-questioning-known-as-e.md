@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [EU Observer](http://euobserver.com/9/21632)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-05-17T153544Z_01_L17291758_RTRUKOC_0_US-SECURITY-EUROPE-CIA.xml&archived=False)
 3. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20060517-125933-1701r)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

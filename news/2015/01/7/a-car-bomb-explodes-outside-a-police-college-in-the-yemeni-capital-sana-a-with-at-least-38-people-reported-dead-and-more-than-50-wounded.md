@@ -10,6 +10,7 @@ At least 38 killed and dozen others injured in massive bomb blast near police ac
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2015/01/car-bomb-explodes-outside-yemen-police-centre-2015175443717838.html)
 2. [BBC](http://www.bbc.com/news/world-middle-east-30706208)
 3. [Reuters](http://www.reuters.com/article/2015/01/07/us-yemen-security-idUSKBN0KG0AD20150107?feedName=worldNews&feedType=RSS)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/1/7/201517133341354734_20.jpg)
 
 ### Related:
 

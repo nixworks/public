@@ -8,6 +8,7 @@ Barclays, RBS, Citi, JP Morgan and UBS forced to pay out over collusion by trade
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2015/may/20/banks-hit-by-record-57bn-fine-for-rigging-forex-markets)
+1. [Cover Image](https://i.guim.co.uk/img/media/ef20827d50b7efa984e7c3d8af757ad0cb644330/1071_392_2425_1455/2425.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7810190e2743fc00ccf869138ae51796)
 
 ### Related:
 

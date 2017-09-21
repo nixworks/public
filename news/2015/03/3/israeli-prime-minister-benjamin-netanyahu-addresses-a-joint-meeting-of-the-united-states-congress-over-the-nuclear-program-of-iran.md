@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-31716684)
 2. [The New York Times](http://www.nytimes.com/live/netanyahu-address/netanyahu-speech-will-air-in-israel-with-5-minute-delay)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81374000/jpg/_81374787_81374786.jpg)
 
 ### Related:
 

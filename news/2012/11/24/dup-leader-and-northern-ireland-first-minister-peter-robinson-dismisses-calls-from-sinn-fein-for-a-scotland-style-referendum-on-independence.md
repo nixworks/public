@@ -8,6 +8,7 @@ Stormont First Minister Peter Robinson tells the DUP conference he believes a ma
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20475919)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64357000/jpg/_64357224_robinson2.jpg)
 
 ### Related:
 

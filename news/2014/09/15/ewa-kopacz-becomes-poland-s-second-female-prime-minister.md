@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/15/us-poland-government-kopacz-idUSKBN0HA0Z320140915)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140915&t=2&i=973785319&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA8E0GY)
 
 ### Related:
 

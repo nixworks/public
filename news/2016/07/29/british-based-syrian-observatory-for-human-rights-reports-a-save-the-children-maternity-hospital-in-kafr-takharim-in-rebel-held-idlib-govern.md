@@ -8,6 +8,7 @@ A Syrian maternity hospital in a rebel-held area of Idlib province was extensive
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-idlib-hospital-idUSKCN1091R4)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160729&t=2&i=1147629898&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6S14H)
 
 ### Related:
 

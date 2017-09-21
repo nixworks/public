@@ -11,6 +11,7 @@ The US warns Syria to comply with a UN-backed peace plan, as government tanks re
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17466453)
 3. [CNN](http://www.cnn.com/2012/03/21/world/meast/syria-clinton/index.html?hpt=imi_c2)
 4. [CNN](http://www.cnn.com/2012/03/21/world/meast/syria-unrest/index.html?iref=obinsite)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59223000/jpg/_59223522_unscsyria_rtr.jpg)
 
 ### Related:
 

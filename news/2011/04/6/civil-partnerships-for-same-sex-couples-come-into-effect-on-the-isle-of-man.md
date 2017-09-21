@@ -8,6 +8,7 @@ Same-sex couples on the Isle of Man now have the right to a civil partnership.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-isle-of-man-12982708)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

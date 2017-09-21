@@ -8,6 +8,7 @@ Why the rest of the world is so nervous.
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/election-day-in-italy-3-scenarios-2013-2)
+1. [Cover Image](http://static6.businessinsider.com/image/512999ed69bedd3d1000000c-1190-625/its-election-day-in-italy--here-are-3-things-that-could-happen-that-would-rock-the-world.jpg)
 
 ### Related:
 

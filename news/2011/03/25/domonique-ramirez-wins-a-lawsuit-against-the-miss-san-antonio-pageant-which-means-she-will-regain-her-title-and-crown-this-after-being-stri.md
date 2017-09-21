@@ -8,3 +8,4 @@ A jury has ruled that pageant organizers breached their contract when they haras
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2011/03/24/booted-texas-beauty-queens-fate-hands-jury/?test=faces)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2011/03/24/booted-texas-beauty-queens-fate-hands-jury/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421901155519.jpg?ve=1)

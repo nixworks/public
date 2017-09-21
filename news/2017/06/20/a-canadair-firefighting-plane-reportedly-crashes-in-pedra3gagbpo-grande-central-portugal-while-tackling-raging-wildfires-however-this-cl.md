@@ -8,6 +8,7 @@ The water-bombing plane was fighting huge forest fires in central Portugal that 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40348252)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F164/production/_96569716_22b584b1-ce57-4a1c-bf70-b451395bbf40.jpg)
 
 ### Related:
 

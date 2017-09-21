@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2015/01/greece-george-papandreou-new-party-2015146210586284.html)
 2. [Reuters](http://www.reuters.com/article/2015/01/02/us-greece-politics-idUSKBN0KB0VD20150102)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150102&t=2&i=1011062328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB010E9)
 
 ### Related:
 

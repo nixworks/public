@@ -8,6 +8,7 @@ Three inmates who escaped a jail near Quebec City by helicopter have been arrest
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/quebec-police-capture-3-inmates-escaped-in-helicopter-jailbreak-1.2683695)
+1. [Cover Image](https://i.cbc.ca/1.2673910.1402610963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/quebec-jail-fugitives-helicopter-escape.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The European Central Bank cuts interest rates back to their historic low of 1%, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16091891)
+1. [Cover Image](http://playlists.bbc.co.uk/news/business-16091891A/playlist.sxml)
 
 ### Related:
 

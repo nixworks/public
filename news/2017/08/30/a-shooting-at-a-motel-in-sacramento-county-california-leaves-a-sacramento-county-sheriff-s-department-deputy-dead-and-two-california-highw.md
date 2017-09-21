@@ -9,6 +9,7 @@ Deputy Robert French, a 21-year veteran of the Sacramento County Sheriff&#x27;s 
 
 1. [NBC News](https://www.nbcnews.com/news/us-news/california-deputy-killed-two-others-wounded-shootout-hotel-n797676)
 2. [The Sacramento Bee](http://www.sacbee.com/news/local/article170257237.html)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_35/2139136/police_officers_shot_08769-jpg-c7a92_51ebc09e5ed821ab60d811f70ba32691.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

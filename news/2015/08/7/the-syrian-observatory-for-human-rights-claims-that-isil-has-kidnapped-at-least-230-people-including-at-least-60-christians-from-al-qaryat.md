@@ -11,6 +11,7 @@ Group tells the girls&#039; families not to expect their bodies for burial
 2. [Reuters](http://www.reuters.com/article/2015/08/07/us-mideast-crisis-christians-idUSKCN0QC0ST20150807)
 3. [The Clarion Project'' via ''The Express Tribune](http://tribune.com.pk/story/933973/islamic-state-executes-19-girls-in-mosul-for-refusing-to-have-sex-with-fighters/)
 4. [The Daily Caller](http://dailycaller.com/2015/08/07/notallmuslims-execute-19-women-for-refusing-sex-slavery/)
+4. [Cover Image](https://c.tribune.com.pk/2015/08/933973-xx-1438939888-327-640x480.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-india-tobacco-idUSKCN0X20YM)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160405&t=2&i=1130359210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC340GA)
 
 ### Related:
 

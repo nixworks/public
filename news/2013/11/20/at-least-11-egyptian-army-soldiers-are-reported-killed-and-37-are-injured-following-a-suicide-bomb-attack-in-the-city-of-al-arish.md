@@ -9,6 +9,7 @@ Eleven Egyptian military personnel are killed and dozens more wounded in a car b
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25013655#)
 2. [ITV](http://www.itv.com/news/update/2013-11-20/car-bomb-attack-kills-10-egyptian-soldiers-in-sinai/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71221000/jpg/_71221884_018073023-1.jpg)
 
 ### Related:
 

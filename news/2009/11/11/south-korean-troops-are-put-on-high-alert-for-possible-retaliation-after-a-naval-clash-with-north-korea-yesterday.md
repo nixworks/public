@@ -9,6 +9,7 @@ South Korean boats patrol disputed sea border after naval clash with North Korea
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5haCFqFsb0gc4n9YqW4dSms9Vtq8gD9BT99SG1)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/200911116025390235.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

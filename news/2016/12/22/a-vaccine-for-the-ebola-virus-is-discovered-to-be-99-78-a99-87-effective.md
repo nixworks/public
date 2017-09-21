@@ -8,6 +8,7 @@ The results are in from the clinical trials of a new vaccine — and it looks li
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/goatsandsoda/2016/12/22/506600875/first-ebola-vaccine-likely-to-stop-the-next-outbreak)
+1. [Cover Image](https://media.npr.org/assets/img/2016/12/22/gettyimages-465767080-55_wide-613a024b242244c89534bfc1a35d21a2cc7aa5ae.jpg?s=1400)
 
 ### Related:
 

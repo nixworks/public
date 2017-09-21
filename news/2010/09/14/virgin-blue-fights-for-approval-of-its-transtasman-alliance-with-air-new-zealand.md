@@ -8,6 +8,7 @@ Virgin Blue will keep fighting for approval of its transtasman alliance with Air
 ### Source:
 
 1. [Nzherald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10673493)
+1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

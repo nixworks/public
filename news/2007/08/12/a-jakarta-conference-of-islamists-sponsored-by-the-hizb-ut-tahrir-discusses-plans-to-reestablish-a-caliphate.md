@@ -8,6 +8,7 @@ A meeting is beginning in the Indonesian capital, Jakarta, to discuss the re-est
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/12/2002815.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

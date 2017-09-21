@@ -8,6 +8,7 @@ Facebook campaign group Concentrix Mums believe around 100 claimants have been s
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37631613)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D89F/production/_91355455_callcentre.jpg)
 
 ### Related:
 

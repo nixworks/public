@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/02/us-mali-election-idUSBRE9710XO20130802)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130802&t=2&i=756671533&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9711HCV00)
 
 ### Related:
 

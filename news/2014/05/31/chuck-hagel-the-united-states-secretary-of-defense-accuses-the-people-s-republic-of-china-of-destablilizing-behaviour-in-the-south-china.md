@@ -8,6 +8,7 @@ The United States and China squared off at an Asian security forum on Saturday, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/31/us-asia-security-idUSKBN0EB03520140531)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140531&t=2&i=901951943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA4U05L)
 
 ### Related:
 

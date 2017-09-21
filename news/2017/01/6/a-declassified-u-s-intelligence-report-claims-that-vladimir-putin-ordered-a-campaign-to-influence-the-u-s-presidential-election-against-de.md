@@ -8,6 +8,7 @@ A declassified U.S. intelligence report released Friday directly accused Russian
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2017/01/06/intel-report-says-putin-ordered-campaign-to-influence-us-election.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/01/06/0/0/694940094001_5273507008001_Report-Putin-ordered-campaign-to-influence-US-election.jpg?ve=1)
 
 ### Related:
 

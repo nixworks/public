@@ -9,6 +9,7 @@
 
 1. [AFP via ''The Jamaica Observer](http://www.jamaicaobserver.com/news/US-authorizes-up-to-110-daily-flights-to-Cuba)
 2. [AP](http://bigstory.ap.org/article/38bd18dd7e8449cebdcece9115962457/us-cuba-sign-deal-commercial-flights)
+2. [Cover Image](http://www.jamaicaobserver.com/assets/12663517/Airplane_w400.jpg)
 
 ### Related:
 

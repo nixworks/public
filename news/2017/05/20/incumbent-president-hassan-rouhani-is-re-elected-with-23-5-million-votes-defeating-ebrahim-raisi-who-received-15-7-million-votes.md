@@ -9,6 +9,7 @@ With more than half of votes counted, incumbent president appears set to beat co
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/iran-rouhani-leads-initial-count-70-percent-turnout-47525667)
 2. [Al Jazeera](http://www.aljazeera.com/news/2017/05/iran-election-president-hassan-rouhani-takes-lead-170520042625946.html)
+2. [Cover Image](http://a.abcnews.com/images/International/WireAP_8a4d7e90ed974a1cb23f13fc655ab071_16x9_992.jpg)
 
 ### Related:
 

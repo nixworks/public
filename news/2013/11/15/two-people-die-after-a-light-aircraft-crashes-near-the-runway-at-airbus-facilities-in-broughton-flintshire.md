@@ -8,6 +8,7 @@ A man and a woman have died after a light aircraft crashed near the runway at Ai
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/wales/update/2013-11-15/man-and-woman-confirmed-dead-in-broughton-air-crash/)
+1. [Cover Image](http://www.itv.com/news/assets/branding/fb.png)
 
 ### Related:
 

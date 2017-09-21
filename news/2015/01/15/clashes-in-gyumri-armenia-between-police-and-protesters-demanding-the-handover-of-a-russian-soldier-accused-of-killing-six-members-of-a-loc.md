@@ -8,6 +8,7 @@ At least 12 people are injured in Armenia police clash with protesters demanding
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30843361)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80306000/jpg/_80306620_025426199-1.jpg)
 
 ### Related:
 

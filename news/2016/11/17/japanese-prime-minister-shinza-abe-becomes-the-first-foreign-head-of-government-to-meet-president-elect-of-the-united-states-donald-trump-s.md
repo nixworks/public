@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-japan-idUSKBN13C0C8)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161118&t=2&i=1162230194&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAH0X2)
 
 ### Related:
 

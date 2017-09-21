@@ -8,6 +8,7 @@ The late John Paul II is one of two popes who are to be simultaneously declared 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/10161976/Pope-John-Paul-II-to-be-made-a-saint-Vatican-announces.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02606/John-Paul-II_2606331k.jpg)
 
 ### Related:
 

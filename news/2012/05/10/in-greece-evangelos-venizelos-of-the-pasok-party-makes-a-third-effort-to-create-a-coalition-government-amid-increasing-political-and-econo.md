@@ -8,6 +8,7 @@ Greek Socialist Evangelos Venizelos, the third political leader to try to form a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18015441)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60158000/jpg/_60158581_014715816-1.jpg)
 
 ### Related:
 

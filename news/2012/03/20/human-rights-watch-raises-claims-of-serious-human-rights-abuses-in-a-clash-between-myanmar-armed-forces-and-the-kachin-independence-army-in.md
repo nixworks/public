@@ -8,6 +8,7 @@ REUTERS - Troops in Myanmar have murdered, tortured and raped civilians since fi
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/03/20/myanmar-conflict-idINDEE82J02320120320)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120320&t=2&i=584600615&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEE82J0C7100)
 
 ### Related:
 

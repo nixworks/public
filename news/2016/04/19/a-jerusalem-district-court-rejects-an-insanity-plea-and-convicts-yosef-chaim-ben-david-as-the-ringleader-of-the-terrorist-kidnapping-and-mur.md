@@ -9,6 +9,7 @@ Yosef Chaim Ben-David well understood what he was doing and was in full control 
 
 1. [Al Bawaba](http://www.albawaba.com/news/killer-teenager-abu-khdeir-convicted-murder-830778)
 2. [Haaretz](http://www.haaretz.com/israel-news/1.715189)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.715196.1461049101!/image/2603921942.jpg_gen/derivatives/headline_1200x630/2603921942.jpg)
 
 ### Related:
 

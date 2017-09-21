@@ -9,6 +9,7 @@ A new study suggest the devices may help smokers stub out the habit.
 
 1. [ABC News](http://abcnews.go.com/Health/cigarettes-smokers-quit/story?id=48886292)
 2. [The BMJ](http://www.bmj.com/content/358/bmj.j3262)
+2. [Cover Image](http://a.abcnews.com/images/Health/e-cigarette-gty-jt-170727_16x9_992.jpg)
 
 ### Related:
 

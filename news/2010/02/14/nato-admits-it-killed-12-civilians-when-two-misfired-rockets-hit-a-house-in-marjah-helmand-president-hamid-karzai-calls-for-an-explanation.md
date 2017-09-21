@@ -10,6 +10,7 @@ TWELVE Afghan civilians have been killed during a major US-led offensive against
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8515141.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE61B4CS20100214?feedType=RSS&feedName=worldNews)
 3. [news.com.au](http://www.news.com.au/world/afghan-offensive-claims-civilian-victims/story-e6frfkyi-1225830315747)
+3. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A disease known as white-nose syndrome is likely to wipe out a once-common speci
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10882769)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48634000/jpg/_48634219_frick7hr.jpg)
 
 ### Related:
 

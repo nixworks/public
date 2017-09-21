@@ -8,6 +8,7 @@ Labour wins the Inverclyde by-election but its majority is more than halved.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-13980594)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53795000/jpg/_53795952_012347110-1.jpg)
 
 ### Related:
 

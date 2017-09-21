@@ -10,6 +10,7 @@ A government minister apologised on Monday after he appeared to suggest that cro
 1. [BBC](http://news.bbc.co.uk/2/hi/uk/10441575.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE65R3IS20100628)
 3. [The Guardian](http://www.guardian.co.uk/politics/2010/jun/28/jeremy-hunt-hillsborough-gaffe-apology)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100628&t=2&i=141418744&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-06-28T172957Z_01_BTRE65R1CM000_RTROPTP_0_BRITAIN-ELECTION)
 
 ### Related:
 

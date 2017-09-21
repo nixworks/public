@@ -9,6 +9,7 @@ Opposition fighters are to be allowed to withdraw from besieged parts of the Syr
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27252396)
 2. [Reuters](http://www.reuters.com/article/2014/05/02/us-syria-crisis-homs-idUSBREA410CA20140502)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74609000/jpg/_74609557_74600854.jpg)
 
 ### Related:
 

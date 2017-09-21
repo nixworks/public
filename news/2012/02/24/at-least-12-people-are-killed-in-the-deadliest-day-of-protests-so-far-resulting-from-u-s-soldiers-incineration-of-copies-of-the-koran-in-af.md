@@ -8,6 +8,7 @@ At least 11 protesters killed on fourth day of widespread protests against burni
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/02/20122249155462781.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/24/2012224133124209734_20.jpg)
 
 ### Related:
 

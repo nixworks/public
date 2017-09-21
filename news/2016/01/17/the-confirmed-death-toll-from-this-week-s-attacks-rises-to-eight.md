@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ''Jerusalem Post](http://www.jpost.com/Breaking-News/Death-toll-in-Jakarta-attack-rises-to-8-441748)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

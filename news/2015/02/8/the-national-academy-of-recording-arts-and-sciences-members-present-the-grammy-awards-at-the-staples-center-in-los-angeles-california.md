@@ -11,6 +11,7 @@ YOU could almost predict who is going to take home a Grammy award by the roll ca
 2. [AP](http://bigstory.ap.org/article/cd488977ce2140188e83d166dfe3df72/stay-me-wins-grammy-best-song)
 3. [News Limited](http://www.news.com.au/entertainment/aussie-chart-queens-sia-and-iggy-azalea-take-on-american-pop-royalty-at-the-grammys/story-e6frfmq9-1227211417509)
 4. [Reuters via Yahoo!](https://www.yahoo.com/music/sam-smith-triumphs-with-four-grammy-wins-beck-110511296141.html)
+4. [Cover Image](http://cdn.newsapi.com.au/image/v1/2d60dad5586fbe243d4469ff5df083ce)
 
 ### Related:
 

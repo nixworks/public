@@ -10,6 +10,7 @@ The Archbishop of Canterbury and Pope Benedict XVI took significant steps on Sat
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hdPBCaGtHcdITCACaEBWARF9CFnAD9C3TUMO0)
 2. [BBC News](http://news.bbc.co.uk/1/hi/uk/8371807.stm)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/6623989/Archbishop-of-Canterbury-and-Pope-Benedict-XVI-share-cordial-talks.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01520/Pope-Benedict-XVI_1520239a.jpg)
 
 ### Related:
 

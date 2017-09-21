@@ -8,3 +8,4 @@ Three people remain in critical condition after an alleged firebomb attack on th
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/world/asia/hong-kong-firebomb-arson-metro-commuters-rush-tsim-sha-tsui-cheung-kam-fai-a7576306.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/12/15/hong-kong-fire.jpg)

@@ -11,6 +11,7 @@ The Yemeni army commander leading the fight against militants in the south of th
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126186461265506.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18483785)
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-18493719)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60972000/jpg/_60972857_015084105-1.jpg)
 
 ### Related:
 

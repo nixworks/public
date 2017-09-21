@@ -8,6 +8,7 @@ At least 18 people have died and nearly one million have been made homeless by f
 ### Source:
 
 1. [Sify India](http://www.sify.com/news/sri-lanka-floods-toll-hits-18-news-international-lbmpkceijhh.html)
+1. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

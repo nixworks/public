@@ -9,6 +9,7 @@ An Indian diplomat at the centre of a row between the US and India is charged by
 
 1. [BBC News](http://www.bbc.co.uk/news/world-25677678)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2014/01/09/indian-diplomat-indicted-leaves-us/4394643/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72191000/jpg/_72191142_72191141.jpg)
 
 ### Related:
 

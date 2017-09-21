@@ -8,6 +8,7 @@ Winter Storm Leo&#039;s deadly trek is over, but here&#039;s what happened with 
 ### Source:
 
 1. [The Weather Channel](https://weather.com/storms/winter/news/winter-storm-leo-impacts)
+1. [Cover Image](http://s.w-x.co/ap_17025612687096.jpg)
 
 ### Related:
 

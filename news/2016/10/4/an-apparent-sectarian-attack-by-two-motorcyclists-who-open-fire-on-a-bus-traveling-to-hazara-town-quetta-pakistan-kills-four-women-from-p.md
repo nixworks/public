@@ -10,6 +10,7 @@ Bus carrying women of ethnic Hazara Shia community was travelling to Hazara Town
 1. [Dawn](https://www.dawn.com/news/1287981/four-hazara-women-killed-as-gunmen-open-fire-on-quetta-bus)
 2. [Firstpost](http://www.firstpost.com/world/pakistan-attack-gunmen-open-fire-at-a-moving-bus-kill-four-shiite-muslim-women-3034686.html)
 3. [The Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3821972/Four-Shiite-women-killed-Pakistan-bus-attack.html)
+3. [Cover Image](http://i.dawn.com/medium/2016/10/57f3f0bbf3b96.jpg)
 
 ### Related:
 

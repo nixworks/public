@@ -10,6 +10,7 @@
 1. [LA Times](http://latimesblogs.latimes.com/world_now/2011/12/former-dictator-manuel-noriega-extradited-home-to-panama.html)
 2. [Reuters via the ''Guardian](http://www.guardian.co.uk/world/2011/dec/11/manuel-noriega-panama-framce-extradition)
 3. [The Australian](http://www.theaustralian.com.au/news/world/manuel-noriega/story-e6frg6so-1226219643526)
+3. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef01675ea12c56970b-120pi)
 
 ### Related:
 

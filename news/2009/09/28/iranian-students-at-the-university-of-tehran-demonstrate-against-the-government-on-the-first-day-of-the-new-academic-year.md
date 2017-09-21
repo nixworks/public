@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8279193.stm)
 2. [New York Times](http://thelede.blogs.nytimes.com/2009/09/28/students-protest-at-tehran-university/?hp)
 3. [Reuters India](http://in.reuters.com/article/internetNews/idINTRE58R4DS20090928)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

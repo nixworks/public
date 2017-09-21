@@ -8,6 +8,7 @@ Deaths follow clashes between government troops and tribal fighters in Mbandaka.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104535123779436.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

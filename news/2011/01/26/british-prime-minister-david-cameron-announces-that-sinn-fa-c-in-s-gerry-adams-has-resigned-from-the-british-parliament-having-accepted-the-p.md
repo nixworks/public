@@ -9,6 +9,7 @@ House of Commons Speaker John Bercow rules that Gerry Adams has been disqualifie
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12294406)
 2. [The Independent](http://www.independent.ie/national-news/elections/adams-resigns-from-westminister-seat-2512403.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

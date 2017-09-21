@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/american-sniper-chris-kyle-film-success-occurs-as-real-life-murder-trial-begins-1.2945881)
+1. [Cover Image](https://i.cbc.ca/1.2945903.1423132013!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/chris-kyle.jpg)
 
 ### Related:
 

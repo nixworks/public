@@ -8,6 +8,7 @@ A gunman has killed six people - including a 14-year-old girl - in the western R
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22251836)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67161000/jpg/_67161581_67161580.jpg)
 
 ### Related:
 

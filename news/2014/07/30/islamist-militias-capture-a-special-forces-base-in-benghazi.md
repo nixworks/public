@@ -8,6 +8,7 @@ A special forces base in Libya has been seized by militias, the fighters and off
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-28557772#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76615000/jpg/_76615834_76615833.jpg)
 
 ### Related:
 

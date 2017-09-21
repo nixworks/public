@@ -8,6 +8,7 @@ The Taoiseach, Brian Cowen, has told the Fianna FÃ¡il parliamentary party that h
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0609/politics.html)
+1. [Cover Image](https://img.rasset.ie/00023532-1600.jpg)
 
 ### Related:
 

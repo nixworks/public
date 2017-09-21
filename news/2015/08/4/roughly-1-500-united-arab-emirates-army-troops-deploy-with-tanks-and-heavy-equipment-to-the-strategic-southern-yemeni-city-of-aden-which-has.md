@@ -8,6 +8,7 @@ Hundreds of Gulf Arab troops from the Saudi-led coalition fighting Iran-backed r
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/hundreds-gulf-arab-troops-enter-yemens-liberated-aden-113146417.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/4FBOYMUsDD.ZsZMy3Lmvhg--/aD03MjY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9a25cc1a98451e4dd8b12f534534a06d2f198026.jpg)
 
 ### Related:
 

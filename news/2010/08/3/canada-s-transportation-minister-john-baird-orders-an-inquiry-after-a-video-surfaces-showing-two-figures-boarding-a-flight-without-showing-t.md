@@ -12,6 +12,7 @@
 3. [Daily Star](http://www.dailystar.co.uk/news/view/147550/Airport-burka-security-blunder/)
 4. [Ottawa Citizen](http://www.ottawacitizen.com/life/Failure+check+veiled+travellers+disturbs+Baird/3351771/story.html)
 5. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=0c6ba627ee73a210VgnVCM100000360a0a0aRCRD&s=news)
+5. [Cover Image](http://cdn.images.dailystar.co.uk/dynamic/1/281x351/147550_1.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A businessman appointed by the prime minister to head a multibillion-pound quang
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-27090737)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74342000/jpg/_74342267_74342263.jpg)

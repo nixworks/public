@@ -9,6 +9,7 @@
 
 1. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/11/205_75705.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6A21HX20101103)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101103&t=2&i=240857447&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-03T201656Z_01_BTRE6A20U4100_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

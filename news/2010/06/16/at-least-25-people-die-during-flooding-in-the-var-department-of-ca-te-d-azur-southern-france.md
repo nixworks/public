@@ -12,6 +12,7 @@ Flash floods in south-eastern France leave at least 19 people dead and hundreds 
 3. [Le Monde](http://www.lemonde.fr/planete/article/2010/06/16/une-dizaine-de-morts-dans-le-var-apres-de-violentes-intemperies_1373499_3244.html#ens_id=1373507)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Flash-Floods-In-Southern-France-Kill-19-As-Torrential-Rains-Batter-Draguignan-Near-Cannes/Article/201006315650174?f=rss)
 5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7833492/Deadly-flash-floods-hit-southern-France.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

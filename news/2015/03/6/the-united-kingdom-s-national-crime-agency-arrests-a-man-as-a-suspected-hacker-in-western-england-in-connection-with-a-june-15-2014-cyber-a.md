@@ -9,6 +9,7 @@ British police arrested a 23-year-old man suspected of hacking into a U.S. Depar
 
 1. [AP](http://bigstory.ap.org/article/275b4d6908b445578dd3641385d6f1e8/uk-authorities-arrest-suspect-us-dod-cyber-attack)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-03-06/u-s-department-of-defense-hacking-suspect-arrested-in-u-k-)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

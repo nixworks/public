@@ -10,6 +10,7 @@ The Philippine peso keeps on sliding as the May 9 presidential elections get clo
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-05/emerging-asset-declines-deepen-as-u-s-jobs-eyed-for-fed-course)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-05/philippine-peso-heads-for-third-weekly-drop-before-vote-chart)
 3. [Reuters](http://www.reuters.com/article/southeast-asia-stocks-idUSL3N1821MH)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

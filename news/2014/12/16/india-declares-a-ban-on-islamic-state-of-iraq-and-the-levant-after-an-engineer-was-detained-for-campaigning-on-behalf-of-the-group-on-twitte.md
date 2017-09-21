@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/16/us-mideast-crisis-india-idUSKBN0JU0TV20141216)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141216&t=2&i=999725095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABF0BD)
 
 ### Related:
 

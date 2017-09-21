@@ -9,6 +9,7 @@ The bill aims at reigning in banks and protecting consumers from risky lending p
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201071520275553331.html)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/15/AR2010071500464.html?hpid=topnews)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

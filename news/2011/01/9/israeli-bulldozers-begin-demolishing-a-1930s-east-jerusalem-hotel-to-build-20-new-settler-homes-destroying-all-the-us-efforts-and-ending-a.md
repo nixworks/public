@@ -10,6 +10,7 @@ Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to m
 1. [AP via Fox News](http://www.foxnews.com/world/2011/01/08/military-palestinian-shot-dead-charged-troops/)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12146277)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/10/c_13683367.htm)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/01/08/military-palestinian-shot-dead-charged-troops/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421906209146.jpg?ve=1)
 
 ### Related:
 

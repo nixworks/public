@@ -9,6 +9,7 @@ At least 51 people were killed in clashes in Egyptian cities on Sunday, security
 
 1. [Euronews](http://www.euronews.com/2013/10/06/clashes-as-egypt-marks-1973-attack-on-israel/)
 2. [Reuters](http://www.reuters.com/article/2013/10/06/us-egypt-protests-idUSBRE99506720131006)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131006&t=2&i=800521017&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9951G4B00)
 
 ### Related:
 

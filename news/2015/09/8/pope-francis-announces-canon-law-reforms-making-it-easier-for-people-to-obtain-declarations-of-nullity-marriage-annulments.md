@@ -8,6 +8,7 @@ Pope Francis unveils reforms intended to make it easier for Roman Catholics to g
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34185559)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/02AA/production/_85428600_gettyimages-164714770.jpg)
 
 ### Related:
 

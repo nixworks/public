@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Météo Média](http://www.meteomedia.com/nouvelles/articles/tornade-en-ontario-angus-en-etat-durgence/29745)
+1. [Cover Image](http://s2.twnmm.com/thumb?src=//s2.twnmm.com/images/fr_ca/14/Tornade%20Ontario-29788.png&w=1200&h=630&scale=0&crop=0)
 
 ### Related:
 

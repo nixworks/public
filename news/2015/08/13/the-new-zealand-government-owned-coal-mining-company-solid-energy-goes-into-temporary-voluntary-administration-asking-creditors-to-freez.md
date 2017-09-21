@@ -8,6 +8,7 @@ The struggling state-owned coal company has been put into temporary voluntary ad
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/regional/281263/solid-energy-goes-into-administration)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

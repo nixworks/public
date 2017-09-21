@@ -9,6 +9,7 @@ Reports from Kyrgyzstan say four Islamist militants have been killed in a raid b
 
 1. [24.kg News Agency](http://eng.24.kg/incidents/2010/11/29/15031.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11861923)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

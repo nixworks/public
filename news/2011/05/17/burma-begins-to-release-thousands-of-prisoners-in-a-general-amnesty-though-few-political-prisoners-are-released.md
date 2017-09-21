@@ -10,6 +10,7 @@ Burma begins freeing thousands of prisoners and reducing sentences under an amne
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2011/05/2011517181542379456.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13421084)
 3. [The Hong Kong Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=6&art_id=111138&sid=32413437&con_type=1&d_str=20110518&fc=2)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52798000/jpg/_52798462_011998331-1.jpg)
 
 ### Related:
 

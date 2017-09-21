@@ -8,6 +8,7 @@ The former king of Nepal, Gyanendra Shah, formally turned over his palace in Kat
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2008/06/11/nepal-kinggoes.html)
+1. [Cover Image](https://i.cbc.ca/1.2212365.1382593431!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-nepal-king-cp-4934142.jpg)
 
 ### Related:
 

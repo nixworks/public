@@ -8,6 +8,7 @@ A strong wind storm battered much of Western Washington on Sunday, killing a man
 ### Source:
 
 1. [KING-TV](http://www.king5.com/story/weather/2016/03/12/sunday-windstorm-could-pack-55-70-mph-winds/81694150/)
+1. [Cover Image](http://content.king5.com/photo/2016/03/13/635935083638761898-storm-wires_994186_ver1.0.JPG)
 
 ### Related:
 

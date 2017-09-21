@@ -10,6 +10,7 @@ Former Prime Minister Tony Blair is to donate the reported £4m advance and all 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-10988478)
 2. [Sky News](http://news.sky.com/skynews/Home/Politics/Tony-Blairs-Donated-Book-Profits-To-The-Royal-British-Legion-Branded-Blood-Money/Article/201008315687765?lpos=Politics_First_Poilitics_Article_Teaser_Regi_0&lid=ARTICLE_15687765_Tony_Blairs_Donated_Book_Profits_To_The_Royal_British_Legion_Branded_Blood_Money)
 3. [The Guardian](http://www.guardian.co.uk/politics/2010/aug/16/tony-blair-british-legion-donation)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

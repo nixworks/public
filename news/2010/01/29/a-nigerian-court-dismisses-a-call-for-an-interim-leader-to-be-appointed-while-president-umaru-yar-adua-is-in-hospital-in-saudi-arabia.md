@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8487474.stm)
 2. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5519242-146/high_court_judge_rejects_demand_for.csp)
 3. [Reuters](http://www.reuters.com/article/idUSTRE60S35Y20100129)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100129&t=2&i=52670076&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-29T144902Z_01_BTRE60S155V00_RTROPTP_0_SAFRICA-NIGERIA)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The so-called Sand Fire north of Los Angeles was at 11,000 acres at noon Saturda
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-santa-clarita-fire-day-three-20160724-snap-story.html)
 2. [NBC News](http://www.nbcnews.com/storyline/western-wildfires/amp/california-wildfire-nearly-doubles-size-evacuations-expanded-n615576)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_29/1635336/afp_di6sc_9dff4d0863684a1be51cff5bb21accff.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

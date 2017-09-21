@@ -8,6 +8,7 @@ A suicide blast killed two Chadian troops from the U.N. mission in Mali and inju
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/23/us-mali-un-attack-idUSBRE99M17720131023)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

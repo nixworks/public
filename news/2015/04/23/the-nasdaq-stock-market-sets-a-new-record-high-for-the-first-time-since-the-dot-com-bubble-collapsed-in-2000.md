@@ -8,6 +8,7 @@ Investors weren’t wrong; they just paid too much to be right the last time the
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/dont-overpay-for-technology-again-1429823490)
+1. [Cover Image](https://si.wsj.net/img/WSJ_Logo_black_social.gif)
 
 ### Related:
 

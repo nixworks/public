@@ -11,6 +11,7 @@ The Duchess of York has allegedly become the victim of a tabloid sting aimed at 
 2. [News of the World](http://www.newsoftheworld.co.uk/news/822306/Royal-editor-Robert-Jobson-on-Sarah-Fergusons-rollercoaster-of-scandal.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/7754890/Duchess-of-York-in-tabloid-sting-over-finances.html)
 4. [The Times](http://www.timesonline.co.uk/tol/news/uk/article7134237.ece)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01642/sarah-ferguson_1642047a.jpg)
 
 ### Related:
 

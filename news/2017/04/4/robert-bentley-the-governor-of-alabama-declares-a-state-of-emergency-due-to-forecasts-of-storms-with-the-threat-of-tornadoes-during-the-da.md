@@ -8,6 +8,7 @@ Another round of severe weather with damaging winds is expected to sweep across 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/04/04/severe-weather-alabama-governor-declares-emergency-south-braces-for-more-storms.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2017/04/04/severe-weather-alabama-governor-declares-emergency-south-braces-for-more-storms/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1491354170085.jpg?ve=1)
 
 ### Related:
 

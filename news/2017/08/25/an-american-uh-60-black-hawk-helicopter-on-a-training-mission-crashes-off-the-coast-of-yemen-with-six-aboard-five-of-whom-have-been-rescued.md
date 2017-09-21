@@ -9,6 +9,7 @@ A U.S. Black Hawk helicopter crashed off the coast of Yemen on Friday during a t
 
 1. [Military.com](http://www.military.com/daily-news/2017/08/26/uh60-black-hawk-crashes-yemen-1-service-member-missing.html)
 2. [Reuters](http://www.reuters.com/article/us-usa-yemen-crash-idUSKCN1B6054)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

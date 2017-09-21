@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Space.com](http://www.space.com/23146-juno-jupiter-spacecraft-glitch-earth-flyby.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAzMy80MDgvb3JpZ2luYWwvanVuby1zcGFjZWNyYWZ0LWVhcnRoLWZseWJ5LmpwZw==)
 
 ### Related:
 

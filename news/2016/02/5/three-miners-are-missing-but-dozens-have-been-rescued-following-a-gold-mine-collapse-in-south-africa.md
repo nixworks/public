@@ -8,6 +8,7 @@ Scores of South African miners have been rescued and three workers missing in go
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2016-02-06/south-african-mine-collapse-traps-90-people/7145550)
+1. [Cover Image](http://www.abc.net.au/news/image/7145740-1x1-700x700.jpg)
 
 ### Related:
 

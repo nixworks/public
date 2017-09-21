@@ -10,6 +10,7 @@
 1. [Los Angeles Times](http://theenvelope.latimes.com/awards/oscars/env-oscars-2012-news-story,0,2701093.story)
 2. [NineMSN](http://news.ninemsn.com.au/entertainment/8425791/aussie-oscar-nominees-hunt-for-upset-win)
 3. [Tabnak](http://www.tabnak.ir/fa/news/229539/%D8%AC%D8%AF%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%D8%AF%D8%B1-%D8%A7%D8%B2-%D8%B3%DB%8C%D9%85%DB%8C%D9%86-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%A7%D8%B3%DA%A9%D8%A7%D8%B1-%D8%B4%D8%AF-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1)
+3. [Cover Image](http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600)
 
 ### Related:
 

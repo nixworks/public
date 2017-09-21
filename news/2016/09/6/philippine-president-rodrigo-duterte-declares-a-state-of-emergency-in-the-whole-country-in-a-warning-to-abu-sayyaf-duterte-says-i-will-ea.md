@@ -9,6 +9,7 @@
 
 1. [Rappler](http://www.rappler.com/nation/145346-proclamation-state-national-emergency-lawless-violence-released)
 2. [Time](http://time.com/4481495/philippines-duterte-abu-sayyaf-terrorist-eat-alive/)
+2. [Cover Image](https://assets.rappler.com/FBE2D1D394074D0CA635B187CE9FF9F4/img/D88B02C0439B4E838A5425DE6F0D813E/manila-checkpoint-davao-bombing-20160903-001.jpg)
 
 ### Related:
 

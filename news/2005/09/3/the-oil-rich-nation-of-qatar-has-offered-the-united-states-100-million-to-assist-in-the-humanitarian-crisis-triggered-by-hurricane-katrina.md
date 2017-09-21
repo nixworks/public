@@ -13,6 +13,7 @@
 4. [The Argus](http://www.insidebayarea.com/argus/news/ci_2998268)
 5. [The White House](http://www.whitehouse.gov/news/releases/2005/09/20050903.html)
 6. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/03/AR2005090301548.html)
+6. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ ALBEMARLE, N.C. — One student was shot Tuesday at a high school in this city a
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/09/30/person-shot-at-school/16470841/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

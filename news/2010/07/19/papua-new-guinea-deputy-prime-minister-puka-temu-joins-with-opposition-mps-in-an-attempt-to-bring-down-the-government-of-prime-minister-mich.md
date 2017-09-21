@@ -8,6 +8,7 @@ Papua New Guinea&#039;s government is facing another threat to its survival, thi
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/07/19/2958161.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/911062-1x1-700x700.jpg)
 
 ### Related:
 

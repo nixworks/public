@@ -9,6 +9,7 @@ The US military assembles a large team to prepare for the expected publication o
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11562494)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/ict-news/news/article.cfm?c_id=55&objectid=10681324&ref=rss)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

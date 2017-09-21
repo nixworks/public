@@ -9,6 +9,7 @@ Palestinians say troops have demolished mosques and several other structures in 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/201011251357498144.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11842358)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/25/201011252031822150_20.jpg)
 
 ### Related:
 

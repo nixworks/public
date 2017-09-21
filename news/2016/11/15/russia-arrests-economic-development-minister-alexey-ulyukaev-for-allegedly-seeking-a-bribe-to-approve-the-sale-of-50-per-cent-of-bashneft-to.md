@@ -8,6 +8,7 @@ Russia detained Economy Minister Alexei Ulyukayev on charges of taking a $2 mill
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-15/russia-detains-minister-for-bribe-over-5-billion-rosneft-deal)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8d6NRFC.4oM/v0/1200x801.jpg)
 
 ### Related:
 

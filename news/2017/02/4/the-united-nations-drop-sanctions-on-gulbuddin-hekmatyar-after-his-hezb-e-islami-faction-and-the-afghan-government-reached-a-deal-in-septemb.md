@@ -8,6 +8,7 @@ The move is part of a peace deal paving the way for Gulbuddin Hekmatyar to retur
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-38867280)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/185E7/production/_93951899_mediaitem89728197.jpg)
 
 ### Related:
 

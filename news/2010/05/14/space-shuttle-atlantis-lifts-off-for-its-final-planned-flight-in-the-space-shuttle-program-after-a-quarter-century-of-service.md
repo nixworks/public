@@ -8,6 +8,7 @@ The space shuttle Atlantis vaulted into orbit on a 12-day space station assembly
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/05/15/science/space/15shuttle.html?src=me)
+1. [Cover Image](https://static01.nyt.com/images/2010/05/15/science/15shuttle2-span-cnd/15shuttle2-span-cnd-thumbStandard.jpg)
 
 ### Related:
 

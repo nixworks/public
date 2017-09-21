@@ -8,6 +8,7 @@ A 28-year-old allegedly attacked the bus, injuring one footballer, to earn from 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39664212)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1813F/production/_95732689_hi039095195.jpg)
 
 ### Related:
 

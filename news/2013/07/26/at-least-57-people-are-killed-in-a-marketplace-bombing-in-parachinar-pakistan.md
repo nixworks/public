@@ -8,6 +8,7 @@ At least 57 people have been killed by bombs at a market in the northwestern Pak
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23470630)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68973000/jpg/_68973941_68973938.jpg)
 
 ### Related:
 

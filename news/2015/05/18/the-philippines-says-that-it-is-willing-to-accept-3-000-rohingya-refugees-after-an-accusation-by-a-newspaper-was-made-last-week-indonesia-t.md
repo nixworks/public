@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/93577-myanmar-rohingya-boat-people-philippines)
+1. [Cover Image](https://assets.rappler.com/D3A823609B0A4F948E96A9757A0ED084/img/82825D51A43349AD828CB1A883A48C00/EPA_Rohingya_Langsa_Aceh_15052015.jpg)
 
 ### Related:
 

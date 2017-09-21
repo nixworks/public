@@ -9,6 +9,7 @@ Search Continues For Three Missing Passengers, 13 Confirmed Dead
 
 1. [CBS/AP](http://www.cbsnews.com/stories/2005/08/06/world/main763639.shtml)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-08-06T162032Z_01_MOL654124_RTRUKOC_0_CRASH-ITALY.xml)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2005/08/07/d12d60f2-a642-11e2-a3f0-029118418759/image763686x.jpg)
 
 ### Related:
 

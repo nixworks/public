@@ -8,6 +8,7 @@ Flights on American Airlines were halted at three major U.S. airports Thursday d
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2015/09/17/American-Airlines-flights-halted-in-Chicago-Dallas-Miami-due-to-computer-glitch/2461442518266/?spt=rln&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/2461442518266/2015/1/14425253881010/v2.1/American-Airlines-flights-halted-in-Chicago-Dallas-Miami-due-to-computer-glitch.jpg)
 
 ### Related:
 

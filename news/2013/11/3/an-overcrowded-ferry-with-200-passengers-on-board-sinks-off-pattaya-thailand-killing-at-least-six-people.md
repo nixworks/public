@@ -8,6 +8,7 @@ An overcrowded ferry sinks off Pattaya in eastern Thailand, killing at least six
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-24796181)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70881000/jpg/_70881341_70881340.jpg)
 
 ### Related:
 

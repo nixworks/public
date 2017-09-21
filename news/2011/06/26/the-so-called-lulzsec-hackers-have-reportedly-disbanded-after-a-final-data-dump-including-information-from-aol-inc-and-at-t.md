@@ -8,6 +8,7 @@ The Lulz Security group of rogue hackers announced it was disbanding on Saturday
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/26/us-cybersecurity-lulzsec-idUSTRE75P05I20110626)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110626&t=2&i=446829834&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-26T115620Z_01_BTRE75P07L000_RTROPTP_0_BRITAIN-HACKER)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thomas Hamill is tired after his hostage ordeal in Iraq and excited to soon be r
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/ID/4884602/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/040505/tdy_curry_hamill_040505.standard.jpg)
 
 ### Related:
 

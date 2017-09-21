@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-04-30-ML--Iraq-Bombing/id-1c82f6056888436e98508f88edf0e0ba)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKCN0XR05X)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160430&t=2&i=1135211474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3T076)
 
 ### Related:
 

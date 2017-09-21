@@ -12,6 +12,7 @@ U.S. presidential candidates Hillary Clinton and Donald Trump kicked off a fierc
 3. [AP²](http://bigstory.ap.org/article/a6c31e9a7791497b8950a3e3d3d40de4/history-hand-clinton-faces-voters-presumptive-nominee)
 4. [Fox News](http://www.foxnews.com/politics/2016/06/07/clinton-clinches-democratic-presidential-nomination-fox-news-projects.html)
 5. [Reuters](http://www.reuters.com/article/us-usa-election-clinton-idUSKCN0YS0Y4)
+5. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160608&t=2&i=1140533973&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC571C8)
 
 ### Related:
 

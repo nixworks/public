@@ -10,6 +10,7 @@ In the wake of deadly protests, the government lowers duties on basic food suppl
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111820132025240.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12142799)
 3. [Yemen News Agency](http://www.sabanews.net/en/news232705.htm)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/9/20111915113751811_20.jpg)
 
 ### Related:
 

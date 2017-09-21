@@ -13,6 +13,7 @@ Exxon Mobil Corp and Rosneft signed an agreement to extract oil and gas from the
 4. [Reuters](http://www.reuters.com/article/2011/08/30/us-rosneft-exxon-idUSTRE77T2OM20110830)
 5. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111904199404576540350519892620.html)
 6. [Washington Post](http://www.washingtonpost.com/business/putin-says-exxon-rosneft-projects-may-reach-500-billion/2011/08/31/gIQAjFYcrJ_video.html)
+6. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110830&t=2&i=489487867&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-30T193106Z_01_BTRE77T15Q400_RTROPTP_0_RUSSIA-FUEL-CRISIS)
 
 ### Related:
 

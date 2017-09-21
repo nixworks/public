@@ -8,6 +8,7 @@ A 108-year-old woman is believed to be Britain&rsquo;s oldest surviving First Wo
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/6996800/108-year-old-woman-emerges-as-Britains-oldest-first-World-War-veteran.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01560/Florence-Green_1560285a.jpg)
 
 ### Related:
 

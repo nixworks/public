@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/10/13/left-wing-bolivia-president-morales-wins-unprecedented-third-term/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/10/13/left-wing-bolivia-president-morales-wins-unprecedented-third-term/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449127181062.jpg?ve=1)
 
 ### Related:
 

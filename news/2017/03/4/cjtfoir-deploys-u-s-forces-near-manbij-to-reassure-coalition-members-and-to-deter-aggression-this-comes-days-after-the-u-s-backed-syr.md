@@ -11,6 +11,7 @@ Moments ago, several Islamist factions claimed to have shot down a MiG-21 MiG-23
 2. [Daily Sabah](https://www.dailysabah.com/syrian-crisis/2017/03/04/plane-reportedly-shot-down-by-syrian-opposition-crashes-in-southeastern-turkey)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-airplane-idUSKBN16B0KB?il=0)
 4. [Rudaw](http://www.rudaw.net/english/middleeast/syria/040320171)
+4. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2017/03/C6FeEIIWAAEAzVz.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Atkins Nutritionals Inc., the company behind the Atkins Diet, filed for bankrupt
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,164425,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

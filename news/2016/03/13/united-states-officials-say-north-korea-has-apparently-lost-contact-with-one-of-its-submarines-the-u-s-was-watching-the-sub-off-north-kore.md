@@ -9,6 +9,7 @@ US officials claim the secretive Communist state lost contact with the submarine
 
 1. [STV](http://stv.tv/news/international/1346310-north-korea-loses-submarine-as-south-conducts-war-games-with-the-us/)
 2. [The Guardian](http://www.theguardian.com/world/2016/mar/13/north-korean-submarine-missing-and-presumed-sunk-say-reports)
+2. [Cover Image](https://images.stv.tv/articles/w1280xh720xmFitxoNews/418542-the-loss-comes-as-south-korea-conducts-war-games-with-the-us.jpg)
 
 ### Related:
 

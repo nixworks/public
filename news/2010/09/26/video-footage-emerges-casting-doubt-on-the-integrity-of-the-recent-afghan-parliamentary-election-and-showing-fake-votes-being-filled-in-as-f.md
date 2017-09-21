@@ -8,6 +8,7 @@ Amateur footage appears to show fake votes being filled in as border police task
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/09/201092614267602479.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/25/20109258563693580_20.jpg)
 
 ### Related:
 

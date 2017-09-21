@@ -8,6 +8,7 @@ The FBI opened an investigation into allegations of money laundering related to 
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/fbi-probes-malaysia-development-fund-1442694963?mod=djemalertAsianews)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KJ770_malays_TOP_20150920054026.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mr. Netanyahu says such democratic elections were &quot;something to welcome&quo
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article2101722.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article13808329.ece/ALTERNATES/LANDSCAPE_615/THANGA_ITALY_ISRAEL)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Leveson inquiry, launched after the phone-hacking scandal, hears details sug
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15725494)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56692000/jpg/_56692522_012548453-1.jpg)
 
 ### Related:
 

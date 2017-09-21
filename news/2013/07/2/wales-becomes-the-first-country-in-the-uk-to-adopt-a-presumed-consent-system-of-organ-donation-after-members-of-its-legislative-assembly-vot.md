@@ -8,6 +8,7 @@ A change in the law to bring in an opt-out organ donation system has been voted 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-23143236)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57927000/jpg/_57927323_donor_card_pa.jpg)
 
 ### Related:
 

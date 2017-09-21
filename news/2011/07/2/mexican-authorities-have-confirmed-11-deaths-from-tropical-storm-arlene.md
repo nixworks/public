@@ -8,6 +8,7 @@ Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene and the 
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/news/world/2011-07-02-mexico-tropical-storm-arlene_n.htm)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2011/07/02/Mexico-confirms-11-dead-from-Arlene-aftermath-RO6URT0-x.jpg)
 
 ### Related:
 

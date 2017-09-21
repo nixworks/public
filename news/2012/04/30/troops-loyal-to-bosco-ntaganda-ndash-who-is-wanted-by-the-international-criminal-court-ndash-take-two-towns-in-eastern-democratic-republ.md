@@ -8,6 +8,7 @@ Troops loyal to Bosco Ntaganda, wanted by the International Criminal Court, take
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17893674)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59562000/jpg/_59562676_010357396-1.jpg)
 
 ### Related:
 

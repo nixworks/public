@@ -9,6 +9,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gP103knQ42j4PNYX0FvbZj2M3rdg?docId=CNG.e8b48c4874bff22ac42fef23e4e46678.c1)
 2. [Asahi Shimbun](http://www.asahi.com/english/TKY201011030199.html)
+2. [Cover Image](http://www.asahicom.jp/ajw/images/logo_ogp.png)
 
 ### Related:
 

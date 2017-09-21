@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/25/us-bahrain-protests-idUSTRE71O4VS20110225)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110225&t=2&i=346621001&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-25T172320Z_01_BTRE71O1CB300_RTROPTP_0_BAHRAIN)
 
 ### Related:
 

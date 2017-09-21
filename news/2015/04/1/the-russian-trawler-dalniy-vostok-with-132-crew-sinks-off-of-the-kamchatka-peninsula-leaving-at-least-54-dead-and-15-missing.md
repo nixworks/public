@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/37eb852f2c8d4f6ba5e92850e63dca2a/russian-trawler-132-crew-sinks-least-43-dead)
 2. [BBC](http://www.bbc.com/news/world-europe-32157040)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82074000/jpg/_82074264_b367f4fa-f23e-4092-ace0-54844628d7c7.jpg)
 
 ### Related:
 

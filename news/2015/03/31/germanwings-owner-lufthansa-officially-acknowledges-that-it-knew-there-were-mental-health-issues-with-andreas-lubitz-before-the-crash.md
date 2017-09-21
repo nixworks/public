@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-32138867)
 2. [The New York Times](http://www.nytimes.com/2015/04/01/world/europe/lufthansa-germanwings-andreas-lubitz.html?_r=0)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82041000/jpg/_82041022_lubitz.jpg)
 
 ### Related:
 

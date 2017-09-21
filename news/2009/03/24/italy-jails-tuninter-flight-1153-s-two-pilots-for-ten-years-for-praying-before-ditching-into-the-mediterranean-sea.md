@@ -8,6 +8,7 @@ A Tunisian pilot who paused to pray instead of taking emergency measures before 
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/5043287/Pilot-who-paused-to-pray-in-crash-landing-sentenced-to-10-years-in-jail.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01371/Tuninter_1371693a.jpg)
 
 ### Related:
 

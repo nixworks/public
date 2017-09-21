@@ -8,6 +8,7 @@ Tokelau, a tiny Pacific archipelago administered by New Zealand, has joined neig
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/newzealand/8805520/Second-Pacific-island-running-out-of-drinking-water.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02017/Tokelau_2017157a.jpg)
 
 ### Related:
 

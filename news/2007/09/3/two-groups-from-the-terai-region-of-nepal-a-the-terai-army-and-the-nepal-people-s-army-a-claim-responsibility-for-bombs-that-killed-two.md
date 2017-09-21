@@ -8,6 +8,7 @@ Two ethnic groups from Nepal&#039;s restive southern Terai region have claimed r
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/03/2022805.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

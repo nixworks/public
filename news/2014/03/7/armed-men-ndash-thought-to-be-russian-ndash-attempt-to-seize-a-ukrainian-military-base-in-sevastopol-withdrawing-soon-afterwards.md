@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26492053)
 2. [Reuters via ''Today's Zaman](http://www.todayszaman.com/news-341473-turkey-scrambles-jets-after-russian-plane-again-flies-near-coast.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73447000/jpg/_73447834_73447833.jpg)
 
 ### Related:
 

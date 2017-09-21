@@ -9,6 +9,7 @@ At least 21 civilians, including three children, were killed Thursday in Russian
 
 1. [AFP via Yahoo!](http://news.yahoo.com/russia-strikes-kill-21-civilians-syrias-aleppo-city-133949657.html)
 2. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-idUKKCN0VC165)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ssACD_afSM3KQDczLCuagw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ff5943e4f915a3211af64188c7dd3a10648fb688.jpg)
 
 ### Related:
 

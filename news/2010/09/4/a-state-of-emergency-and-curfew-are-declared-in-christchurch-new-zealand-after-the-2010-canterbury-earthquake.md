@@ -9,6 +9,7 @@
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/sep/04/earthquake-christchurch-new-zealand)
 2. [Waikato Times](http://www.stuff.co.nz/waikato-times/4094986/Officers-flown-in-to-protect-Christchurch)
+2. [Cover Image](https://static2.stuff.co.nz/1283599911/920/4096920.jpg)
 
 ### Related:
 

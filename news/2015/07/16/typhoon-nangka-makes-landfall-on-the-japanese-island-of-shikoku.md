@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Weather.com](http://www.weather.com/storms/typhoon/news/typhoon-nangka-west-pacific-japan-july2015?cm_ven=Twitter_TheWeatherChannel_Weather_JWa_Article_No_5_20150716)
+1. [Cover Image](http://s.w-x.co/nangka-landfall-himawari-16jul15.jpg)
 
 ### Related:
 

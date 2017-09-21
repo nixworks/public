@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010528923401784.html)
 2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2010/5/29/worldupdates/2010-05-28T212211Z_01_NOOTR_RTRMDNC_0_-488772-7&sec=Worldupdates)
 3. [Times of India](http://timesofindia.indiatimes.com/world/pakistan/Taliban-militants-attack-Lahore-mosques-kill-70/articleshow/5986197.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/5986021.cms)
 
 ### Related:
 

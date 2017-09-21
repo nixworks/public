@@ -10,6 +10,7 @@ A strong earthquake hits off the eastern coast of central Japan, rattling buildi
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iTh72t5VXaM4PvgwHgQbIgqEQUmQD9EEBE700)
 2. [MSNBC.com](http://www.msnbc.msn.com/id/35858923/ns/world_news-asiapacific/)
 3. [Reuters](http://www.reuters.com/article/idUSTOE62D01520100314)
+3. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

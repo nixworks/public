@@ -9,6 +9,7 @@ Fingerprints from a Tunisian suspect have been found inside the truck that smash
 
 1. [Aljazeera](http://www.aljazeera.com/news/2016/12/lorry-ploughs-christmas-market-crowd-berlin-161219193437792.html)
 2. [Reuters](http://www.reuters.com/article/us-germany-truck-idUSKBN148287?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166299824&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK148)
 
 ### Related:
 

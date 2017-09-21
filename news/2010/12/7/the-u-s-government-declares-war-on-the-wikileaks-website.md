@@ -15,6 +15,7 @@ The U.S. and Other Governments Are Attempting to Bring Down WikiLeaks and Its Fo
 6. [The Guardian](http://www.guardian.co.uk/media/2010/dec/07/wikileaks-cables-julian-assange-arrest?intcmp=239)
 7. [The Guardian](http://www.guardian.co.uk/world/2010/dec/07/wikileaks-joe-lieberman-new-york-times-investigated?intcmp=239)
 8. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611610.html)
+8. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

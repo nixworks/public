@@ -8,6 +8,7 @@ Archbishop Diarmuid Martin has said at this moment, he believes that decisions o
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1129/abuse.html)
+1. [Cover Image](https://img.rasset.ie/0002c8dc-1600.jpg)
 
 ### Related:
 

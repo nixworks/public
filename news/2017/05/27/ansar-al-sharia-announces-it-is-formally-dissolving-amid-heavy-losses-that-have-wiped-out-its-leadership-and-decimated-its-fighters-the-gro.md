@@ -8,6 +8,7 @@ Libyan Islamist group Ansar al-Sharia, a group linked to Al-Qaeda, is formally d
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-idUSKBN18N0YR)
+1. [Cover Image](//s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

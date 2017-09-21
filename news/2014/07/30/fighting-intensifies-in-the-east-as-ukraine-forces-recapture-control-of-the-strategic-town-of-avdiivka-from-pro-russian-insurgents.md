@@ -8,6 +8,7 @@ The Ukrainian army says it has seized the town of Avdiivka, near the rebel stron
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28559482)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76619000/jpg/_76619164_023341925-2.jpg)
 
 ### Related:
 

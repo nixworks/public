@@ -12,6 +12,7 @@
 3. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=114306&region=3)
 4. [The Planetary Society](http://www.planetary.org/solarsail/update_20050625.html)
 5. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/06/19/AR2005061900653.html)
+5. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

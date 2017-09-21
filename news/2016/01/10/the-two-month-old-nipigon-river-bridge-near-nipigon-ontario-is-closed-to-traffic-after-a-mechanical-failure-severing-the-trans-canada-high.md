@@ -9,6 +9,7 @@ A newly constructed bridge in northern Ontario has heaved apart, indefinitely cl
 
 1. [CBC](http://www.cbc.ca/news/canada/thunder-bay/nipigon-river-bridge-closed-transcanada-1.3397831)
 2. [National Post](http://news.nationalpost.com/news/canada/bridge-closure-blocks-trans-canada-highway-main-way-to-cross-canada-by-car-now-through-u-s)
+2. [Cover Image](https://i.cbc.ca/1.3397851.1452482523!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/nipigon-river-bridge-fails-in-cold.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ European Union leaders gave Croatia the status of a candidate country for access
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3820607.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/3820607.stm)
 4. [Irish Times Online](http://www.irishtimes.com/newspaper/breaking/2004/0618/breaking27.htm)
+4. [Cover Image](https://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/europe/pro-russia-politician-in-clear-win-in-moldova-results-show/2016/11/14/543cff34-aa49-11e6-8f19-21a1c65d2043_story.html)
 2. [Euronews](http://www.euronews.com/2016/11/14/is-moldova-heading-for-an-early-election)
+2. [Cover Image](http://static.euronews.com/articles/349568/1000x563_349568.jpg)
 
 ### Related:
 

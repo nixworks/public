@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20571958)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/dec/02/kuwait-election-turnout-opposition-boycott)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64510000/jpg/_64510605_5ft334c8.jpg)
 
 ### Related:
 

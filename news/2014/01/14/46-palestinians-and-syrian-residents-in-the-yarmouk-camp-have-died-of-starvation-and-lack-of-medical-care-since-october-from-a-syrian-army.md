@@ -8,6 +8,7 @@ Palestinian and Syrian residents of Yarmouk camp cut off from food and water as 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/global-development/2014/jan/14/syria-dozens-die-starvation-damascus-camp?CMP=twt_gu)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Environment/Pix/columnists/2014/1/14/1389713408591/MDG--A-Palestinian-girl-h-008.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2885b2f8a80f04961156b491e1efde53)
 
 ### Related:
 

@@ -8,6 +8,7 @@ France confirms it intends to vote in favour of the Palestinian bid for recognit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20514194)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64413000/jpg/_64413584_64413583.jpg)
 
 ### Related:
 

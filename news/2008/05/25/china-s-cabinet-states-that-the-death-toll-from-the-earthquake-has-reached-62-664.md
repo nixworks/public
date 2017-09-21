@@ -9,6 +9,7 @@ The official death toll rose to more than 65,000, Chinese state media said, as r
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5hYiNinrp4U6hN569f8oDQgdhezQwD90SIL7O0)
 2. [The New York Times](http://www.nytimes.com/2008/05/26/world/asia/26quake.html)
+2. [Cover Image](https://static01.nyt.com/images/2008/05/26/world/26quake-span-75.jpg)
 
 ### Related:
 

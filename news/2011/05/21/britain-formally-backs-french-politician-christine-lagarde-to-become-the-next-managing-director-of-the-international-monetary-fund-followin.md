@@ -8,6 +8,7 @@ UK Chancellor George Osborne is to formally nominate Christine Lagarde for the p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13486709)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52881000/jpg/_52881125_012031647-1.jpg)
 
 ### Related:
 

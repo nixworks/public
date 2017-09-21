@@ -8,6 +8,7 @@ Jared Lee Loughner, who shot former Rep. Gabrielle Giffords in the head, killed 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-jared-loughner-life-in-prison-20121108,0,878153.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

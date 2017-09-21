@@ -8,6 +8,7 @@ The powerful Typhoon Hagupit makes landfall in the Philippines where over half a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30356298)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79560000/jpg/_79560594_79560593.jpg)
 
 ### Related:
 

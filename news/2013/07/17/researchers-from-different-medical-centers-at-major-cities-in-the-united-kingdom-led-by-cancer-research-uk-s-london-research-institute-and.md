@@ -8,6 +8,7 @@ Scientists across Britain are to map the genes of the tumours of 850 lung cancer
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-23340923)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68794000/jpg/_68794971_m1320644-lung_cancer_cell_division,_sem-spl.jpg)
 
 ### Related:
 

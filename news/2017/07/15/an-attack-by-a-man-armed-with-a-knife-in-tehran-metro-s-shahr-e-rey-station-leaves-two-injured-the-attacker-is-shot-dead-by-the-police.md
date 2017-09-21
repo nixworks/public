@@ -8,3 +8,4 @@ Tehran police shot dead a man who attacked a clergyman and other people with a k
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-iran-stabbing-idUSKBN1A006Y)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

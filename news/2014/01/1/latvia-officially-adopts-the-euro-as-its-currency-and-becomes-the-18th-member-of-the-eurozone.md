@@ -8,6 +8,7 @@ Latvia begins the new year by joining the eurozone, becoming the 18th member of 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25567096)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72025000/jpg/_72025223_72025222.jpg)
 
 ### Related:
 

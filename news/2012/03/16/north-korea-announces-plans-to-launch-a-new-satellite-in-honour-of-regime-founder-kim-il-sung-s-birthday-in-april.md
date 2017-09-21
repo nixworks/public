@@ -9,6 +9,7 @@ WTOP brings you the latest news, traffic, and weather information for the Washin
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/2012316134917812937.html)
 2. [WTOP](http://www.wtop.com/?nid=220&sid=2788587)
+2. [Cover Image](http://wtop.com/wp-content/uploads/2016/08/og-image.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ By Genevra PittmanNEW YORK (Reuters Health) - More babies born via cesarean sect
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/24/us-c-sections-tied-to-child-obesity-idUSBRE94N0NS20130524)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130524&t=2&i=734906658&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94N18VK00)

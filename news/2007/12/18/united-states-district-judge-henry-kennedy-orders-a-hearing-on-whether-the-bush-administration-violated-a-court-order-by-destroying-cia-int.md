@@ -8,6 +8,7 @@ A federal judge has ordered a hearing on whether the Bush administration violate
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/22312848/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Video/071218/n_cia_evidence_071218.standard.jpg)
 
 ### Related:
 

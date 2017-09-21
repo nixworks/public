@@ -9,6 +9,7 @@ Release of Lockerbie convict last year should not have happened, Clinton says.
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010716172357868278.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-10669618)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

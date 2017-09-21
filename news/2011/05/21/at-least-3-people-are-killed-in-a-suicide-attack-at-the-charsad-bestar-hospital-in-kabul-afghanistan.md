@@ -9,6 +9,7 @@ At least six medical students dead and 23 others injured in suicide bombing insi
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/05/20115218746225221.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13483023)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/21/20115219321791580_20.jpg)
 
 ### Related:
 

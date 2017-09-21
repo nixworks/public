@@ -8,6 +8,7 @@ Georgian President Mikhail Saakashvili said the former Soviet republic will rais
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,258006,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

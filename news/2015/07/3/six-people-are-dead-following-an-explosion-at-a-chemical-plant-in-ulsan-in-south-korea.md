@@ -9,6 +9,7 @@
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/explosion-chemical-plant-south-korea-kills-workers-32198236)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2015/07/03/0200000000AEN20150703001951315.html?input=www.tweeter.com)
+2. [Cover Image](http://img.yonhapnews.co.kr/etc/inner/EN/2015/07/03/AEN20150703001951315_01_i.jpg)
 
 ### Related:
 

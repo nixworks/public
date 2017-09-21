@@ -8,6 +8,7 @@ Judge to review evidence as former Egyptian president denies charges of complici
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/05/201351173415592499.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/5/11/201351111314071734_20.jpg)
 
 ### Related:
 

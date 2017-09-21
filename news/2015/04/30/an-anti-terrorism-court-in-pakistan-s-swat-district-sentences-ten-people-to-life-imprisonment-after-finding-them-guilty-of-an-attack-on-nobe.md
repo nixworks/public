@@ -8,6 +8,7 @@ In September last year, militants behind the attack on Malala and two other scho
 ### Source:
 
 1. [Pakistan Tribune](http://tribune.com.pk/story/878462/swat-atc-sentences-malala-yousafzais-attackers-life-imprisonment/)
+1. [Cover Image](https://c.tribune.com.pk/2015/04/878462-malalalalalalala-1430382325-476-640x480.gif)
 
 ### Related:
 

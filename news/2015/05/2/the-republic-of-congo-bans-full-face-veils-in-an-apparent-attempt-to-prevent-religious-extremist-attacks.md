@@ -8,6 +8,7 @@ The Republic of Congo will ban full face-veils in an attempt to prevent violent 
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/republic-of-congo-bans-fullface-veils-in-attempt-to-prevent-religious-extremist-attacks-10220909.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/05/02/15/veil-getty.jpg)
 
 ### Related:
 

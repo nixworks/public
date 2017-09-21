@@ -8,6 +8,7 @@ With recession and 10% unemployment, the Finns face pressure to bring debt into 
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/world/europe/eurosceptic-party-to-join-new-centre-right-government-in-finland-1.2204030)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2204028&origw=960)
 
 ### Related:
 

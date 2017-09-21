@@ -8,6 +8,7 @@ News, views and commentary on the 2008 parliamentary election in New Zealand
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/nz-election-2008/news/headlines.cfm?c_id=1501799)
+1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

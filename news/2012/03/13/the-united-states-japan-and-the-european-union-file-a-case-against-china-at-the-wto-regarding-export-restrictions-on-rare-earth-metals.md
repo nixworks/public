@@ -8,6 +8,7 @@ The US, EU and Japan file a landmark trade case against China over export of rar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17348648)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59033000/jpg/_59033550_105984017.jpg)
 
 ### Related:
 

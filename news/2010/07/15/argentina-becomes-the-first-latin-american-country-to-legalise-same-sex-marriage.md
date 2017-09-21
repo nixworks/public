@@ -11,6 +11,7 @@ Argentina becomes the first Latin American country to legalise gay marriage afte
 2. [BBC](http://www.bbc.co.uk/news/10630683)
 3. [The New York Times](http://www.nytimes.com/aponline/2010/07/15/world/americas/AP-LT-Argentina-Gay-Marriage.html?_r=1&ref=global-home)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/15/AR2010071501119.html?hpid=artslot)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

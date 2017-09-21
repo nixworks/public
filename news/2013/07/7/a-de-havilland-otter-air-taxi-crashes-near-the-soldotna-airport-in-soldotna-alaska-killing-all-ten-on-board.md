@@ -9,6 +9,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 1. [Associated Press via ABC News](http://abcnews.go.com/US/wireStory/police-fatal-plane-crash-alaska-airport-19602188#.Udou4ByAS5I)
 2. [Peninsula Clarion](http://peninsulaclarion.com/news/2013-07-07/plane-crashes-at-soldotna-airport)
+2. [Cover Image](http://peninsulaclarion.com/sites/all/themes/peninsulaclarion/logo.png)
 
 ### Related:
 

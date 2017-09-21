@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/09/07/Hungarys-defense-minister-resigns-amid-refugee-crisis/3421441648409/?spt=hts&or=1)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3421441648409/2015/13/c74e186c1495230ab2b6b6a4626e17ba/v1.5/Hungarys-defense-minister-resigns-amid-refugee-crisis.jpg)
 
 ### Related:
 

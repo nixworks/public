@@ -8,6 +8,7 @@ Jane Taber and Jill Mahoney provided up-to-the-minute coverage of the pomp and c
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/ottawa-notebook/david-johnston-sworn-in-as-governor-general/article1737076/)
+1. [Cover Image](http://static.theglobeandmail.ca/05e/migration_catalog/article4046171.ece/ALTERNATES/w620/GG-+johnston)
 
 ### Related:
 

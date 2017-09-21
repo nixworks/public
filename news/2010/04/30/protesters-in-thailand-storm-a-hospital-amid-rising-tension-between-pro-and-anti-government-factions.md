@@ -8,6 +8,7 @@ The hospital evacuated hundreds of its patients and shut down all but emergency 
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2010/05/01/world/asia/01thai.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

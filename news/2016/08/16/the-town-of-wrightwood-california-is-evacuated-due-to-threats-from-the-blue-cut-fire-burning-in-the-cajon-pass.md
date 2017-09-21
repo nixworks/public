@@ -9,6 +9,7 @@ Gov. Jerry Brown has declared a state of emergency in the fast-moving Blue Cut F
 
 1. [ABC 7](http://abc7.com/news/blue-cut-fire-above-devore-burns-6500-acres-thousands-evacuated/1471966/)
 2. [KTLA](http://ktla.com/2016/08/16/evacuations-issued-in-fast-moving-wild-fire-burning-in-devore/)
+2. [Cover Image](https://tribktla.files.wordpress.com/2016/08/blue-cut-fire-aerials.jpeg?quality=85&amp;strip=all&amp;w=1200)
 
 ### Related:
 

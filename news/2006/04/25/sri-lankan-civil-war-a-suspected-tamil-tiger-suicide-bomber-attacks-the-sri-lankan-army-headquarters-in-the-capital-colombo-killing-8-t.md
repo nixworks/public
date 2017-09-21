@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4941744.stm)
 2. [MumbaiMirror](http://www.mumbaimirror.com/nmirror/mmpaper.asp?sectid=5&articleid=4252006212344844252006212247890)
 3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-04-26T030647Z_01_PEK180392_RTRUKOC_0_US-SRILANKA.xml)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

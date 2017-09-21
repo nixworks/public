@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/singapore-official-resigns-after-affair/story-e6frfkui-1226535778997)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

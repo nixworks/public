@@ -8,6 +8,7 @@ Garda√≠ attached to the ODCE have ended their search at the Anglo Irish Bank hea
 ### Source:
 
 1. [RT…](http://www.rte.ie/news/2009/0224/angloirish.html)
+1. [Cover Image](https://img.rasset.ie/0001fe51-1600.jpg)
 
 ### Related:
 

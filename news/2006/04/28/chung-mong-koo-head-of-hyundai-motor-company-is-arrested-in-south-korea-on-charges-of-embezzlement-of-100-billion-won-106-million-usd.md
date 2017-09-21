@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/04/28/hyundai.probe.ap/)
 2. [NY Times](http://www.nytimes.com/2006/04/28/world/asia/28cnd-hyundai.html?hp&ex=1146283200&en=addb42d7d874746e&ei=5094&partner=homepage)
+2. [Cover Image](https://static01.nyt.com/images/2006/04/28/business/28cnd-hyun.75.jpg)
 
 ### Related:
 

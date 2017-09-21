@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11355258)
 2. [Voice of America](http://www.voanews.com/english/news/Pope-Benedict-Meets-with-British-Leaders-Celebrates-Mass-103198954.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

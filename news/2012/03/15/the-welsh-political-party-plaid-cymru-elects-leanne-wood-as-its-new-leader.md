@@ -8,6 +8,7 @@ Leanne Wood wins a three-cornered contest to be elected the new leader of Plaid 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-17381377)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56899000/jpg/_56899962_leanne.jpg)
 
 ### Related:
 

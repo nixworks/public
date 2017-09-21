@@ -11,6 +11,7 @@
 2. [Sky News](http://news.sky.com/skynews/Home/Strange-News/Three-Million-Party-On-German-A40-Autobahn-Between-Dortmund-And-Bochum-With-Worlds-Longest-Table/Article/201007315666986?f=rss)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/18/germany-autobahn-picnic)
 4. [The Star](http://thestar.com.my/news/story.asp?file=/2010/7/19/worldupdates/2010-07-18T214030Z_01_NOOTR_RTRMDNC_0_-502141-1&sec=Worldupdates)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

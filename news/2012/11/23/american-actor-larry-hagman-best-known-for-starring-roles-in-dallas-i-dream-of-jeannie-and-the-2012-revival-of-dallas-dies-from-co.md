@@ -8,6 +8,7 @@ Larry Hagman, who played evil oil baron J.R. Ewing, died in a Dallas hospital wi
 ### Source:
 
 1. [The Wrap](http://www.thewrap.com/tv/article/larry-hagman-dallas-and-i-dream-jeannie-star-dead-81-66321)
+1. [Cover Image](http://www.thewrap.com/wp-content/uploads/2016/07/news-placeholder-1.jpg)
 
 ### Related:
 

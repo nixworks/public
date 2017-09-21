@@ -8,6 +8,7 @@ Employees of Vale and BHP Billiton are among 21 people being charged with homici
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37723057)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/83CD/production/_88414733_gettyimages-496017316.jpg)
 
 ### Related:
 

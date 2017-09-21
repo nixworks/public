@@ -8,6 +8,7 @@ The United States plans to sell Taiwan $1.42 billion in arms, the first such sal
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-taiwan-arms-idUSKBN19K2XO)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170629&t=2&i=1191060765&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5S1US)
 
 ### Related:
 

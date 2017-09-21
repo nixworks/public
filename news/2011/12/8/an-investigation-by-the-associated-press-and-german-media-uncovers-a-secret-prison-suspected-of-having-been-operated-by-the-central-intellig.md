@@ -11,6 +11,7 @@ The CIA operated a secret prison in the Romanian capital Bucharest where terrori
 2. [AP](http://worldnews.msnbc.msn.com/_news/2011/12/08/9293815-hidden-in-plain-sight-inside-a-secret-cia-prison)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-16093106)
 4. [Indian Express](http://www.indianexpress.com/news/inside-romanias-secret-cia-prison/885436/)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57210000/jpg/_57210080_013483136-1.jpg)
 
 ### Related:
 

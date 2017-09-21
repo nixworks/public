@@ -8,6 +8,7 @@ Anders Behring Breivik, who killed 77 people in two attacks in Norway last year,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19365616)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62468000/jpg/_62468570_6mhp1hms.jpg)
 
 ### Related:
 

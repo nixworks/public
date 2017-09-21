@@ -11,6 +11,7 @@ Senator Ivor Callely has been suspended from the Fianna Fáil organisation over 
 2. [Irish Independent](http://www.independent.ie/national-news/enough-is-enough-senior-ff-figures-warn-callely-2281788.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0803/callelyi.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0803/breaking37.html?via=mr)
+4. [Cover Image](https://img.rasset.ie/00038190-1600.jpg)
 
 ### Related:
 

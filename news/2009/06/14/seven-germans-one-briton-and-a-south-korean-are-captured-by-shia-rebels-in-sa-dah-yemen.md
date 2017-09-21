@@ -9,6 +9,7 @@ Seven Germans, a Briton and a Korean have been kidnapped in the Saada area of no
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8099202.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0614/yemen.html)
+2. [Cover Image](https://img.rasset.ie/00025de7-1600.jpg)
 
 ### Related:
 

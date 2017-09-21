@@ -8,6 +8,7 @@ Opposition members and supporters demonstrated in Cairo after Egypt&#039;s rulin
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/12/13/3091320.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/2372788-1x1-700x700.jpg)
 
 ### Related:
 

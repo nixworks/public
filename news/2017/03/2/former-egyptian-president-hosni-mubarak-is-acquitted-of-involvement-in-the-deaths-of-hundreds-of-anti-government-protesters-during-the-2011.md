@@ -8,6 +8,7 @@ Former Egyptian president cleared of involvement in death of protesters during 2
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/02/hosni-mubarak-acquitted-in-final-ruling-on-egypts-arab-spring-deaths)
+1. [Cover Image](https://i.guim.co.uk/img/media/ce4345ccf793990d6546571c05163b7ca4f7d231/0_0_4518_2711/master/4518.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b521801c6c30d3d8477c4db2b325708b)
 
 ### Related:
 

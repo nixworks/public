@@ -8,6 +8,7 @@ Radical cleric Abu Qatada is held in a high security jail near the Jordanian cap
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23213740)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68590000/jpg/_68590013_68590012.jpg)
 
 ### Related:
 

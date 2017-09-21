@@ -8,6 +8,7 @@ With only two months left for Uruguay&rsquo;s October general election President
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/01/surprise-move-president-vazquez-most-trusted-advisor-defence-minister)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21753/200x200/014973af2df6cd8a6896104ff45d8db3.jpg)
 
 ### Related:
 

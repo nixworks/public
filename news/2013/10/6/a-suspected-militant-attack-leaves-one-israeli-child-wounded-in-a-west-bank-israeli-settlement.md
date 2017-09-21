@@ -8,6 +8,7 @@ Israeli authorities said they suspected that the attack was carried out by a Pal
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/10/06/world/middleeast/gunfire-wounds-israeli-girl-9-playing-in-yard-in-west-bank.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

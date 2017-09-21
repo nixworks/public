@@ -8,3 +8,4 @@ Company does not give explanation for contract blow; share price tumbles 12% aft
 ### Source:
 
 1. [Reuters via Arabian Business](http://www.arabianbusiness.com/spain-s-talgo-says-201m-saudi-trains-deal-cancelled-599769.html#.VadR89LbK70)
+1. [Cover Image](http://www.arabianbusiness.com/incoming/article575008.ece/BINARY/460365866.jpg)

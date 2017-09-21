@@ -8,6 +8,7 @@ Kim Jong-un sent a top official to China as ties between the two countries remai
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/05/23/world/asia/north-korean-leader-sends-envoy-to-china.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/05/23/world/korea/korea-videoLarge.jpg)
 
 ### Related:
 

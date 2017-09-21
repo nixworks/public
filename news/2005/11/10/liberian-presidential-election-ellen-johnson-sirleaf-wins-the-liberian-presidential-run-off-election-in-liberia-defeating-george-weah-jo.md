@@ -9,6 +9,7 @@
 
 1. [AP](http://www.usatoday.com/news/world/2005-11-10-liberianpresident_x.htm)
 2. [NYT](http://www.nytimes.com/2005/11/12/international/africa/12liberia.html?pagewanted=all)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

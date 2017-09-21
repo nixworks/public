@@ -9,6 +9,7 @@
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107141382061866.html)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5793846,00.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

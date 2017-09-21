@@ -8,6 +8,7 @@ The number of people arrested over rioting and looting in London earlier this mo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14668770)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54651000/jpg/_54651319_012638359-1.jpg)
 
 ### Related:
 

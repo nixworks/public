@@ -11,6 +11,7 @@
 2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_18-4-2005_pg1_3)
 3. [Pakistan Times](http://pakistantimes.net/2005/04/18/top6.htm)
 4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/079b61a3fd48051eb15fa0d01d3332ea.htm)
+4. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

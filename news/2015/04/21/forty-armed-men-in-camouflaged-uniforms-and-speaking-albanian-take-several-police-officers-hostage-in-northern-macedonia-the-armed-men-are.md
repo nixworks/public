@@ -8,6 +8,7 @@ Macedonia said on Tuesday 40 armed men in camouflage uniforms and speaking Alban
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/21/us-macedonia-incident-idUSKBN0NC19220150421)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150421&t=2&i=1042159363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3K0M5)
 
 ### Related:
 

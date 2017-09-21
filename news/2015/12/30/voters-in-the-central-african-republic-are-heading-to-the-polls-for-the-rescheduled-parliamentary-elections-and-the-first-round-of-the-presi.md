@@ -11,6 +11,7 @@ The turmoil and an upsurge of violence in the capital Bangui in September repeat
 2. [Bloomberg via ''The National](http://www.thenational.ae/world/africa/elections-in-central-african-republic-end-without-violence-as-voters-seek-peace)
 3. [EuroNews](http://www.euronews.com/2015/12/30/counting-underway-after-peaceful-car-election/)
 4. [Pulse News Agency](http://pulse.ng/world/central-african-republic-country-to-vote-in-election-to-restore-democracy-id4507108.html)
+4. [Cover Image](http://static.pulse.ng/img/incoming/crop4507058/2781748712-cfacebook_photo-w1200-h630/2015-12-30T065239Z-1007970001-LYNXMPEBBT063-RTROPTP-3-OZATP-UK-CENTRALAFRICA-ELECTION.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/b24e25763d514433b461f5fe88e758de/israeli-army-palestinian-stabs-israeli-shot-dead)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/10/26/Netanyahu-Revoke-residency-for-East-Jerusalem-Arabs/7011445874640/?spt=hs&or=tn_int)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/7011445874640/2015/2/af7ca540fe7f4916183873bec3303cec/v1.5/Netanyahu-Revoke-residency-for-East-Jerusalem-Arabs.jpg)
 
 ### Related:
 

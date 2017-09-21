@@ -9,6 +9,7 @@
 
 1. [News 18](http://www.news18.com/news/india/two-policemen-shot-dead-in-srinagar-search-operation-underway-1246774.html)
 2. [The New York Times](http://www.nytimes.com/aponline/2016/05/23/world/asia/ap-as-kashmir-rebel-attack.html?_r=0)
+2. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2016/05/kashmir-encounter.jpg)
 
 ### Related:
 

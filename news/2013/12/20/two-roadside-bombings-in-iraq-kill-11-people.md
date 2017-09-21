@@ -9,6 +9,7 @@ Bombings in Iraq, including two in a market and a third at a cemetery where vict
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Dec-20/241772-double-bombing-kills-6-in-iraq.ashx#axzz2o2zboJ7L)
 2. [Reuters](http://www.reuters.com/article/2013/12/20/us-iraq-violence-idUSBRE9BJ1BA20131220)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/12/20/234987_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

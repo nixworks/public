@@ -9,6 +9,7 @@ A Malaysian coroner records an open verdict in the case of an opposition activis
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12117835)
 2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/1/5/nation/20110105153818&sec=nation)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

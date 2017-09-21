@@ -8,6 +8,7 @@ A Turkish soldier and three Kurdish militants were killed in a clash in eastern 
 ### Source:
 
 1. [The Daily Star'' via Reuters](http://www.dailystar.com.lb/News/Middle-East/2015/Aug-16/311340-turkish-soldier-three-kurdish-militants-killed-in-clash.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/08/16/445581_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Syrian state TV says rebels linked to al-Qaeda group detonated cars filled with 
 2. [CNN](http://edition.cnn.com/2013/01/18/world/meast/syria-civil-war/)
 3. [Reuters](http://www.reuters.com/article/2013/01/18/us-syria-crisis-blast-idUSBRE90H0KA20130118)
 4. [The Hindu](http://www.thehindu.com/news/international/rocket-hits-aleppo-building-many-injured/article4319674.ece)
+4. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

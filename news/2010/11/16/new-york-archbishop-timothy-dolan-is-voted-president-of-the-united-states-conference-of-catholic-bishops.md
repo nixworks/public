@@ -8,6 +8,7 @@ Archbishop Timothy M. Dolan of New York will lead the United States Conference o
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/11/17/us/17bishops.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2010/11/17/us/17bishop2/17bishop2-thumbStandard.jpg)
 
 ### Related:
 

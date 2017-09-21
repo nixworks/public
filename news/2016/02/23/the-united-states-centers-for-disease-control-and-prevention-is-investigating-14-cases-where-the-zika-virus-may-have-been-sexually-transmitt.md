@@ -8,6 +8,7 @@ Some of those infected sexually have been pregnant women, the Centers for Diseas
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/zika-virus-outbreak/now-it-s-15-cases-sexually-transmitted-zika-virus-us-n524286)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_08/1430251/160223-zika-virus-mn-1505_a74605dd11f38370cc4c53df7a3ee6e0.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Eurovision Song Contest hits a major road bump, as 21 top level staff resign
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-38979114)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3859/production/_94652441_672f8fe5-7ff5-4879-a900-1cdb4ed26766.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ So far more than 1,300 people have died, 25% children, with numbers expected to 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-40395522)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F610/production/_96629926_mediaitem96627983.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Indian and Pakistani border guards traded gunfire in the divided region of Kashm
 ### Source:
 
 1. [AP via KSL](https://www.ksl.com/?nid=235&sid=36209410&title=indian-and-pakistani-border-guards-trade-gunfire-2-killed)
+1. [Cover Image](https://img.ksl.com/slc/2569/256933/25693355.jpg?filter=ksl/responsive_story_lg)
 
 ### Related:
 

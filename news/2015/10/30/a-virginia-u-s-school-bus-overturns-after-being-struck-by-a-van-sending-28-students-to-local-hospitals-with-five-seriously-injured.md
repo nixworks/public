@@ -8,6 +8,7 @@ A Virginia school bus overturned Friday after a traffic collision, injuring 28 s
 ### Source:
 
 1. [Inside Edition](http://www.insideedition.com/headlines/12699-28-students-injured-five-of-them-seriously-hurt-when-virginia-school-bus-overturns)
+1. [Cover Image](http://www.insideedition.com/images/stories/1510/12699.jpg)
 
 ### Related:
 

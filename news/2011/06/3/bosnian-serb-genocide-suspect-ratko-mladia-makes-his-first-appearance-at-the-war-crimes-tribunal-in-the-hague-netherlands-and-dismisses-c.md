@@ -8,6 +8,7 @@ Bosnian Serb genocide suspect Ratko Mladic dismissed as &quot;obnoxious&quot; ch
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/06/03/netherlands.mladic.trial/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/03/netherlands.mladic.trial/tzvids.mladic.gi.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ French police arrested 11 people suspected of having links to Al Qaeda in a pre-
 4. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6360469.stm)
 5. [Fox](http://www.foxnews.com/story/0,2933,251859,00.html)
 6. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/02/13/AR2007021301199.html)
+6. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/official-nullifies-results-zanzibar-presidential-poll-34788022)
 2. [Mail & Guardian Africa](http://mgafrica.com/article/2015-10-28-zanzibar-vote-annulled-in-tanzania-elections)
 3. [Reuters](http://in.reuters.com/article/2015/10/28/tanzania-election-idINKCN0SM1J020151028)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

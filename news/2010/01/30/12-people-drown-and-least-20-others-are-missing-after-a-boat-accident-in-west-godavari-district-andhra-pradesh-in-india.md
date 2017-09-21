@@ -11,6 +11,7 @@ Twelve people have died and at least 20 others are missing after a boat jammed w
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Hindu-Pilgrims-Drown-As-Crowded-Boat-Capsizes-In-Indian-State-Of-Andhra-Pradesh/Article/201001415538647?lpos=World_News_First_World_News_Article_Teaser_Region_1&lid=ARTICLE_15538647_Hindu_Pilgrims_Drown_As_Crowded_Boat_Capsizes_In_Indian_State_Of_Andhra_Pradesh)
 3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1168892&lang=eng_news)
 4. [The Hindu](http://beta.thehindu.com/news/national/article97319.ece)
+4. [Cover Image](https://img.rasset.ie/0002f63b-1600.jpg)
 
 ### Related:
 

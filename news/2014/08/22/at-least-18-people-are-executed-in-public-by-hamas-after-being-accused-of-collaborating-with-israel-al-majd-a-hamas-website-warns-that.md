@@ -11,6 +11,7 @@ Israeli Prime Minister Netanyahu says army and intelligence operations will &quo
 2. [BBC](http://www.bbc.com/news/world-middle-east-28900098)
 3. [NY Times](http://www.nytimes.com/2014/08/23/world/middleeast/israel-gaza.html?_r=0)
 4. [Times of Israel](http://www.timesofisrael.com/four-year-old-killed-in-mortar-attack-named-as-daniel-turgerman/)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77124000/jpg/_77124402_77124401.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Sony announces the fourth generation of its PlayStation games console featuring 
 
 1. [BBC](http://www.bbc.co.uk/news/technology-21526450)
 2. [IGN](http://www.ign.com/articles/2013/02/20/playstation-4-revealed)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65989000/png/_65989847_ps4.png)
 
 ### Related:
 

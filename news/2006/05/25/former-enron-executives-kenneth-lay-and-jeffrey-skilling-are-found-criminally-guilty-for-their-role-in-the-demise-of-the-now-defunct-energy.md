@@ -8,6 +8,7 @@ Kenneth L. Lay and Jeffrey K. Skilling were found guilty of fraud and conspiracy
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2006/05/25/business/25cnd-enron.html)
+1. [Cover Image](https://static01.nyt.com/images/2006/05/25/business/25enron75.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Actor Nicolas Cage was freed from jail Saturday after an alleged drunken inciden
 ### Source:
 
 1. [UPI](http://www.upi.com/Entertainment_News/2011/04/17/Nicolas-Cage-arrested-in-New-Orleans/UPI-95581303021317/#ixzz1JlIDNDqe)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/95581303021317/2011/1/13030464765542/v2.1/Nicolas-Cage-arrested-in-New-Orleans.jpg)
 
 ### Related:
 

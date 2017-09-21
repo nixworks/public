@@ -9,6 +9,7 @@ Nicole battered Bermuda during its long journey through the Atlantic.
 
 1. [The Alabama Media Group](http://www.al.com/news/index.ssf/2016/10/hurricane_nicole_path_update_b.html)
 2. [The Weather Channel](https://weather.com/storms/hurricane/news/major-hurricane-nicole-atlantic-bermuda)
+2. [Cover Image](http://s.w-x.co/nicole-track.jpg)
 
 ### Related:
 

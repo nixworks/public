@@ -10,6 +10,7 @@ Although the consitutionality of their proposal is questionable, Senate Republic
 1. [AP via ''Huffington Post](http://www.huffingtonpost.com/2011/03/03/judge-orders-protesters-removed-wisconsin-capitol_n_831167.html)
 2. [Milwaukee Journal-Sentinel](http://www.jsonline.com/blogs/news/117364028.html)
 3. [Wisconsin State Journal](http://host.madison.com/wsj/news/local/govt-and-politics/article_8d9ad090-45bd-11e0-bf68-001cc4c03286.html)
+3. [Cover Image](http://bloximages.chicago2.vip.townnews.com/host.madison.com/content/tncms/assets/v3/editorial/a/48/a48fbc8b-b03a-560d-b0ad-199e5579144e/4d7024480be5f.preview-1024.jpg?resize=935%2C630)
 
 ### Related:
 

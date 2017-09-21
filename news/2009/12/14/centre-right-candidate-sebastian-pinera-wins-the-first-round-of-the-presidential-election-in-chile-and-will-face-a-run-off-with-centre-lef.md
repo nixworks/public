@@ -10,6 +10,7 @@ Chile News | Breaking News, Views, Analysis
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hghpTbIvr5wM29By4VA5ZjCg6PXAD9CIU5I03)
 2. [The Independent](http://www.independent.co.uk/news/world/americas/chile-prepares-for-election-runoff-1840069.html)
 3. [The Santiago Times](http://www.santiagotimes.cl/index.php?option=com_content&view=article&id=17851:no-surprises-in-chile-election-pinera-to-face-off-against-frei-in-january&catid=49:elections&Itemid=27)
+3. [Cover Image](http://santiagotimes.cl/en/wp-content/uploads/2016/10/logo-st.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Suspected Maoist rebels set off two bombs in the eastern Indian state of Chhatti
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/12/us-india-election-blasts-idUSBREA3B06A20140412)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Visit to survivors of recent typhoon risks triggering angry reaction from Beijin
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1042358&lang=eng_news&cate_img=logo_taiwan&cate_rss=TAIWAN_eng)
 3. [Times South Africa](http://www.thetimes.co.za/News/Article.aspx?id=1056315)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-08/27/content_11954815.htm)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

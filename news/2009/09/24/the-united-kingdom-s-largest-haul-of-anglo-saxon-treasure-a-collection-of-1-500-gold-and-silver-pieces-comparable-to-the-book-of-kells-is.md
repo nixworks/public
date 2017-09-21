@@ -16,6 +16,7 @@ The largest hoard of Anglo-Saxon gold ever found comprises more than 1,500 items
 7. [The Guardian](http://www.guardian.co.uk/uk/2009/sep/24/anglo-saxon-treasure-hoard-gold-staffordshire-metal-detector)
 8. [The Independent](http://www.independent.co.uk/news/uk/home-news/golden-dreams-for-man-with-the-golden-metal-detector-1792390.html)
 9. [The Times](http://www.timesonline.co.uk/tol/news/uk/article6847081.ece)
+9. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ F. Sherwood Rowland, the Nobel prize-winning chemist who sounded the alarm on th
 ### Source:
 
 1. [AP via Yahoo News](http://news.yahoo.com/nobel-scientist-warned-thinning-ozone-dies-011119904.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

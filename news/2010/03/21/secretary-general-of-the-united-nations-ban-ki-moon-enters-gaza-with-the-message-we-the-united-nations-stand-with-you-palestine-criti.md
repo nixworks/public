@@ -18,6 +18,7 @@ UN Secretary General Ban Ki-moon has condemned Israel&#39;s blockade of Gaza say
 9. [The Palestine Telegraph](http://www.paltelegraph.com/world/middle-east/77-middle-east/4941-pakistanis-protest-against-israeli-threat-to-jerusalem-holy-sites)
 10. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7070122.ece#cid=OTC-RSS&attr=797093)
 11. [UN](http://www.un.org/apps/news/story.asp?NewsID=34140&Cr=palestin&Cr1=)
+11. [Cover Image](https://img.rasset.ie/00031f18-1600.jpg)
 
 ### Related:
 

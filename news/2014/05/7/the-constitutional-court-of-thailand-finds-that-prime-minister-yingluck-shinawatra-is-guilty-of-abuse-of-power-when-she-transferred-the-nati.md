@@ -8,6 +8,7 @@ There are fresh security concerns in Thailand after the elected prime minister w
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-05-07/thailand-yingluck-court-verdict/5436798)
+1. [Cover Image](http://www.abc.net.au/news/image/5438168-1x1-700x700.jpg)
 
 ### Related:
 

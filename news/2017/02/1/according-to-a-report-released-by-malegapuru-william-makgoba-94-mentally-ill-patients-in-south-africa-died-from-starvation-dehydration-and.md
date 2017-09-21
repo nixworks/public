@@ -8,6 +8,7 @@ A &quot;reckless&quot; attempt to save cash leads to starvation and dehydration 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/38826196)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/C814/production/_93902215_img_3274.jpg)
 
 ### Related:
 

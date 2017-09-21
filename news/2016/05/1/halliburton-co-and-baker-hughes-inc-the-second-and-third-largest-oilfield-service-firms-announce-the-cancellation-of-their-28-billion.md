@@ -10,6 +10,7 @@ Halliburton Co. and Baker Hughes Inc. called off their $28 billion merger that f
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-01/halliburton-baker-hughes-said-to-call-off-28-billion-merger)
 2. [Business Wire via Yahoo! Finance](http://finance.yahoo.com/news/halliburton-baker-hughes-announce-termination-000000573.html)
 3. [Reuters](http://www.reuters.com/article/us-bakerhughes-m-a-halliburton-idUSKCN0XS1KW?il=0)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

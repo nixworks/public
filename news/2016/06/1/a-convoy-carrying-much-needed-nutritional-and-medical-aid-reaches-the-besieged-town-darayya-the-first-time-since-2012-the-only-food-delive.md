@@ -12,6 +12,7 @@ The besieged Syrian town of Daraya, a rebel-held suburb of Damascus where Presid
 3. [BBC](http://www.bbc.com/news/world-middle-east-36424105)
 4. [NPR](http://www.npr.org/sections/thetwo-way/2016/06/01/480306743/1st-aid-convoy-since-2012-arrives-in-besieged-damascus-suburb)
 5. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-ceasefire-idINKCN0YN46H)
+5. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160601&t=2&i=1139522926&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5028O)
 
 ### Related:
 

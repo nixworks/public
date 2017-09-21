@@ -8,6 +8,7 @@
 ### Source:
 
 1. [El Mercurio](http://www.emol.com/noticias/nacional/2012/07/12/550366/sujeto-degolla-a-mujer-frente-a-sus-hijos-y-se-pasea-con-la-cabeza-por-calles-de-lolol.html)
+1. [Cover Image](http://img.emol.com/2012/07/12/anticuario-lolol-1_213916.jpg)
 
 ### Related:
 

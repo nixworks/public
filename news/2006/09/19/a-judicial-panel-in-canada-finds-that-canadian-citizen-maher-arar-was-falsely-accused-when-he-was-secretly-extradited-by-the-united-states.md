@@ -8,6 +8,7 @@ Canadian intelligence officials passed false warnings and bad information to Ame
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/14897315/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060918/060918_maher_arar_hmed_8p.standard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The long-awaited perjury trial of Barry Bonds, 46, never a media darling and har
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/03/22/sports/baseball/22rhoden.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2011/03/22/sports/22bonds1/22bonds1-thumbStandard.jpg)
 
 ### Related:
 

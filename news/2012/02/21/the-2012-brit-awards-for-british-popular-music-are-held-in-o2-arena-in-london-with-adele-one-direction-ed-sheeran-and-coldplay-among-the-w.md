@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17119910)
 2. [Capital FM](http://www.capitalfm.com/brits/news/winners-list-2012/)
+2. [Cover Image](http://playlists.bbc.co.uk/news/entertainment-arts-17119910A/playlist.sxml)
 
 ### Related:
 

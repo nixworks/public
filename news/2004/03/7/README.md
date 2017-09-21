@@ -28,7 +28,7 @@ _Context: Austria, Carinthia, FP, Jrg Haider, SP, Salzburg_
 _Context: Master of the Queen's Music, Peter Maxwell Davies_
 
 ### [ The headquarters of the US-led coalition in Baghdad come under rocket attack from Iraqi guerillas, the day before the new Iraqi temporary constitution is due to be signed. ](/news/2004/03/7/the-headquarters-of-the-us-led-coalition-in-baghdad-come-under-rocket-attack-from-iraqi-guerillas-the-day-before-the-new-iraqi-temporary-c.md)
-_Context: Baghdad, Iraq, Iraqi resistance_
+_Context: Baghdad, Iraq, rebel-held_
 
 ### [ Zimbabwean police in Harare airport impound a plane which flew in from South Africa with 67 alleged mercenaries on board. The mercenaries, funded by Sir Mark Thatcher (UK) were to overthrow the government of Equatorial Guinea.](/news/2004/03/7/zimbabwean-police-in-harare-airport-impound-a-plane-which-flew-in-from-south-africa-with-67-alleged-mercenaries-on-board-the-mercenaries.md)
 _Context: Mark Thatcher, overthrow the government of Equatorial Guinea_

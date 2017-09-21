@@ -8,6 +8,7 @@ The public is questioning the legitimacy of a qualification process so narrow th
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/09/12/world/asia/singapore-president-yacob.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/09/13/world/13singapore-1/13singapore-1-facebookJumbo.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ An extensive search has been launched for a 79-year-old Irish priest who has bee
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8301631.stm)
 2. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1277612.html)
 3. [RTÉ](http://www.rte.ie/news/2009/1011/sinnottm.html)
+3. [Cover Image](https://img.rasset.ie/0002aa1b-1600.jpg)
 
 ### Related:
 

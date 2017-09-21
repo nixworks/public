@@ -8,6 +8,7 @@ The &quot;Cosby Show&quot; actor was charged with drugging and molesting Andrea 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/bill-cosby-scandal/hung-jury-bill-cosby-sexual-assault-trial-ends-mistrial-n772106)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_24/2041951/170617-cosby-3-1250p-rs_5e617feb8fa320c4bf19aa286deb0123.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

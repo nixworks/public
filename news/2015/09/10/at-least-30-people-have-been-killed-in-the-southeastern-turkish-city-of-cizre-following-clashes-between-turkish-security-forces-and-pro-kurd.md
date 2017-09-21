@@ -8,6 +8,7 @@ Dozens of Kurdish militants die in army operations in the Turkish town of Cizre,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34206924)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16AC2/production/_85466829_85466828.jpg)
 
 ### Related:
 

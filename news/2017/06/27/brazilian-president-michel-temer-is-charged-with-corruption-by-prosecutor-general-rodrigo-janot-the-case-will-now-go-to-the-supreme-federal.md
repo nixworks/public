@@ -8,6 +8,7 @@ Temer is accused of accepting bribes – but any move towards trial would have t
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jun/27/brazils-president-michel-temer-charged-over-alleged-corruption)
+1. [Cover Image](https://i.guim.co.uk/img/media/0d681a77ea28ace4fa755100dd23b450fc3a5511/0_111_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=da93364eb0cde696dc1ebc745527ab44)
 
 ### Related:
 

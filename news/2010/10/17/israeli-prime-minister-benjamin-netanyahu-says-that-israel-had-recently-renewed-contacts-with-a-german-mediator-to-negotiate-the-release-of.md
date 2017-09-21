@@ -10,6 +10,7 @@ Prime Minister Benjamin Netanyahu said Israel renewed contacts with a German med
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iNrMErVQT3vAneSztoFoFRlmzyJw?docId=CNG.25952df47c270a7bf48166d814f52027.451)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=191755)
 3. [The New York Times](http://www.nytimes.com/2010/10/18/world/middleeast/18mideast.html?_r=1)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

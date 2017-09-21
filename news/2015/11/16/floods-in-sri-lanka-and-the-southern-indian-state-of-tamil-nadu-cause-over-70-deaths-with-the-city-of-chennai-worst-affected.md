@@ -8,6 +8,7 @@ Reports suggest at least 71 people have died from drowning, collapsing walls and
 ### Source:
 
 1. [Thomson Reuters](http://www.trust.org/item/20151116175728-ybkm1/)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/17c41311-8c80-4c49-8730-263885dedebf/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

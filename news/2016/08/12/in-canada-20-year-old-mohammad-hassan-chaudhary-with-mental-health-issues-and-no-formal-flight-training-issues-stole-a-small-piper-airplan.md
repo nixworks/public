@@ -8,3 +8,4 @@ Global News has learned the RCMP is now leading the investigation into a stolen 
 ### Source:
 
 1. [Global News](http://globalnews.ca/news/2890098/rcmp-investigating-peterborough-plane-crash-as-national-security-issue/)
+1. [Cover Image](https://shawglobalnews.files.wordpress.com/2016/08/chaudhary3b.jpg?quality=70&strip=all&w=720&h=480&crop=1)

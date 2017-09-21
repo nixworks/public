@@ -10,6 +10,7 @@ TAINAN, Taiwan (Reuters) - Rescuers in the southern Taiwan city of Tainan pulled
 1. [AP via CBS News](http://www.cbsnews.com/news/taiwan-earthquake-survivors-rescued-missing-in-tainan/)
 2. [Reuters via Yahoo! News](http://news.yahoo.com/taiwan-rescuers-pull-woman-alive-quake-rubble-witness-005643082.html)
 3. [USA Today](http://www.usatoday.com/story/news/world/2016/02/08/mayor-taiwan-quake-death-toll/79996350/#)
+3. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

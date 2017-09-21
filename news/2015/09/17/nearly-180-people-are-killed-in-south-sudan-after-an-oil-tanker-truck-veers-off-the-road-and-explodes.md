@@ -10,6 +10,7 @@ More than 100 people have been killed in South Sudan after an oil tanker veered 
 1. [RT](http://www.rt.com/news/315721-oil-tanker-south-sudan/)
 2. [The Independent](http://www.independent.co.uk/news/world/africa/85-reported-dead-afte-fuel-tank-explosion-in-south-sudan-live-10505698.html)
 3. [Voice of America](http://www.voanews.com/content/south-sudan-fuel-truck-accident-176-killed/2967902.html)
+3. [Cover Image](https://img.rt.com/files/2015.09/article/55fab131c46188ca198b45b8.jpg)
 
 ### Related:
 

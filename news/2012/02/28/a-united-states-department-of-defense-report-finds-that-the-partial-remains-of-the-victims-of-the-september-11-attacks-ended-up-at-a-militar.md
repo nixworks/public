@@ -8,6 +8,7 @@ A report by the Pentagon finds that partial remains of some 9/11 victims ended u
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17195894)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)
 
 ### Related:
 

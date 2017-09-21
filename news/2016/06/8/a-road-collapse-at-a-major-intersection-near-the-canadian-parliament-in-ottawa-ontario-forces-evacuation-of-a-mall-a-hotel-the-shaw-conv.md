@@ -8,6 +8,7 @@ A giant sinkhole opened up next to a major shopping mall in downtown Ottawa on W
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/ottawa/sinkhole-rideau-street-downtown-ottawa-1.3621949)
+1. [Cover Image](https://i.cbc.ca/1.3623537.1465432958!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/concrete-trucks-fill-in-rideau-street-sinkhole.jpg)
 
 ### Related:
 

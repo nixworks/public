@@ -8,6 +8,7 @@ A day after heavy storms left at least five dead and large swaths of the city un
 ### Source:
 
 1. [Houston Chronicle](http://www.chron.com/news/houston-weather/article/Scattered-overnight-showers-create-a-cautious-6287331.php)
+1. [Cover Image](http://ww1.hdnux.com/photos/36/56/20/8053808/4/rawImage.jpg)
 
 ### Related:
 

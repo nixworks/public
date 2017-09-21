@@ -11,6 +11,7 @@
 2. [AP](http://hosted.ap.org/dynamic/stories/I/ISRAEL_PALESTINIANS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2007-06-13-23-16-06)
 3. [CNN](http://edition.cnn.com/2007/WORLD/meast/06/14/gaza/index.html)
 4. [Reuters](http://www.reuters.com/article/newsOne/idUSMAC32084020070613)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070613&t=2&i=955349&w=&fh=545px&fw=&ll=&pl=&sq=&r=955349)
 
 ### Related:
 

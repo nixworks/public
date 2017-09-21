@@ -8,6 +8,7 @@ The U.S. will be awarded the bronze medal after a female gymnast was found to be
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2010/04/29/sports/olympics/29gymnast.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least five people are killed after a suicide bomb attack on a restaurant near
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-36013862)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/9661/production/_89179483_89179477.jpg)
 
 ### Related:
 

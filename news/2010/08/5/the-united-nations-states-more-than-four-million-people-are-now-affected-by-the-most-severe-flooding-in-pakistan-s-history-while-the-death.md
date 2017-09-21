@@ -9,6 +9,7 @@
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201085183457123771.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-10878458)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

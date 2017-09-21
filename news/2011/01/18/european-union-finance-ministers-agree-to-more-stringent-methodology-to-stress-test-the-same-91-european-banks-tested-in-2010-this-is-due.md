@@ -8,6 +8,7 @@ EU finance ministers agree to more stringent methodology to test if European ban
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/20111181173721457.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/18/2011118113019453784_20.jpg)
 
 ### Related:
 

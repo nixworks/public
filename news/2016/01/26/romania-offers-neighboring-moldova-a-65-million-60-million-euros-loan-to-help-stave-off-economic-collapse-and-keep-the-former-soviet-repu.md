@@ -10,6 +10,7 @@
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_ROMANIA_MOLDOVA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Reuters](http://www.reuters.com/article/us-romania-moldova-politics-idUSKCN0V41JK)
 3. [The New York Times](http://www.nytimes.com/2016/01/26/world/europe/oppositions-groups-in-moldova-unite-to-protest-new-government.html?_r=0)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160126&t=2&i=1112507462&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0P0S4)
 
 ### Related:
 

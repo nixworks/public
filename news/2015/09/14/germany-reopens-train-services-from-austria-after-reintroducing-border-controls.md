@@ -9,6 +9,7 @@ Rail services have resumed between Austria and Germany after all trains were sto
 
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/09/14/world/europe/ap-eu-europe-migrants-the-latest.html)
 2. [Deutsche Welle](http://www.dw.com/en/train-service-resumes-between-austria-and-germany-reimposed-border-controls-cause-traffic-chaos/a-18712392)
+2. [Cover Image](http://www.dw.com/image/18712281_304.jpg)
 
 ### Related:
 

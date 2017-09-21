@@ -8,6 +8,7 @@ Barnes &amp; Noble Inc (BKS.N) has settled a lawsuit brought against it by Sprin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/02/us-barnesandnoble-idUSTRE7213KI20110302)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110302&t=2&i=351114952&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-02T203437Z_01_BTRE7211L5S00_RTROPTP_0_USA)
 
 ### Related:
 

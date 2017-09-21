@@ -8,6 +8,7 @@ The resignation of Ard van der Steur weakens the government of Mark Rutte ahead 
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-38761549)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14977/production/_93834348_hi037529098.jpg)
 
 ### Related:
 

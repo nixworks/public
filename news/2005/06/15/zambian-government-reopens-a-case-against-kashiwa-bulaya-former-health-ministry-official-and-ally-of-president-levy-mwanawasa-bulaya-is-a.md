@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [AllAfrica](http://allafrica.com/stories/200506150037.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8799619)
 3. [Times of Zambia](http://www.times.co.zm/news/viewnews.cgi?category=4&id=1118877083)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

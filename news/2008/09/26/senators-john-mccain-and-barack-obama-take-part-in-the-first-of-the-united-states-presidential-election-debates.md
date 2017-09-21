@@ -8,6 +8,7 @@ US presidential rivals John McCain and Barack Obama have gone head-to-head in th
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/27/2375920.htm?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/523706-1x1-700x700.jpg)
 
 ### Related:
 

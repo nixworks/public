@@ -8,6 +8,7 @@ Tens of thousands of followers of anti-American Shiite cleric Moqtada al-Sadr ha
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2009/04/09/2540366.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1645194-1x1-700x700.jpg)
 
 ### Related:
 

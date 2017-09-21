@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ (Business Standard](http://www.business-standard.com/iceworld/storypage.php?hpFlag=Y&chklogin=N&autono=196260&leftnm=lmnu9&leftindx=9&lselect=0)
+1. [Cover Image](http://bsmedia.business-standard.com/_media/bs/img/common/no_preview.jpg)
 
 ### Related:
 

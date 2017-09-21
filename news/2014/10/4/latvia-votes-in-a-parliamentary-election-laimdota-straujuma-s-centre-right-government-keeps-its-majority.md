@@ -8,6 +8,7 @@ The incumbent prime minister of Latvia and her centre-right coalition look likel
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/10/04/latvia-s-pm-straujuma-set-for-re-election/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

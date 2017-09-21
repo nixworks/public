@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/India-formally-joins-elite-missile-club-Missile-Technology-Control-Regime/articleshow/52934162.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/52934307.cms)
 
 ### Related:
 

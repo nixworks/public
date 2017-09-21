@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18068820)
 2. [Press TV](http://presstv.com/detail/2012/05/15/241275/iran-executes-mossad-assassin-of-expert/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54773000/jpg/_54773565_54773564.jpg)
 
 ### Related:
 

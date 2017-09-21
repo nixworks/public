@@ -8,6 +8,7 @@ CINCINNATI — A federal judge on Monday found the Deer Park man who threatened 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2015/07/13/man-who-threatened-boehner-found-insane/30118525/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

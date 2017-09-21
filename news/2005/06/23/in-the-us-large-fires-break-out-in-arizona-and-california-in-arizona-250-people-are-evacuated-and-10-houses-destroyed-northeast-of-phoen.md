@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [KESQ](http://www.kesq.com/Global/story.asp?S=3511462&nav=9qrxbMre)
 2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-cleanup24jun24,0,4707101.story?coll=la-home-headlines)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-06-23T233846Z_01_N2365997_RTRIDST_0_NEWS-ENVIRONMENT-FIRE-DC.XML)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

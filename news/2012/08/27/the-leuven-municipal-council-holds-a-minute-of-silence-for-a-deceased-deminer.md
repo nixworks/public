@@ -8,6 +8,7 @@
 ### Source:
 
 1. [De Standaard](http://www.standaard.be/artikel/detail.aspx?artikelid=DMF20120827_175)
+1. [Cover Image](https://dsocdn.akamaized.net/Assets/Images_Upload/2012/08/27/03660949.jpg)
 
 ### Related:
 

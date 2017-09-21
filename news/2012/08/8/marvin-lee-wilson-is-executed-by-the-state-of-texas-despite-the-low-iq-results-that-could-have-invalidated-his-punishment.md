@@ -8,6 +8,7 @@ Marvin Wilson was convicted for killing a police informant in 1992; Prosecutors 
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57488757/texas-executes-man-despite-low-iq-claims/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/08/07/d00a3b7b-a644-11e2-a3f0-029118418759/marvin_wilson_AP91608893215.jpg)
 
 ### Related:
 

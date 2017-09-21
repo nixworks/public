@@ -9,6 +9,7 @@ Russia has sent a few dozen special-operations troops to Syria from Ukraine in r
 
 1. [Business Insider](http://uk.businessinsider.com/russia-reportedly-just-sent-its-version-of-delta-force-to-syria-2015-10?r=US&IR=T)
 2. [The Wall Street Journal](http://www.wsj.com/articles/russia-said-to-redeploy-special-ops-forces-from-ukraine-to-syria-1445636834)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-KX444_RUSARM_G_20151023145803.jpg)
 
 ### Related:
 

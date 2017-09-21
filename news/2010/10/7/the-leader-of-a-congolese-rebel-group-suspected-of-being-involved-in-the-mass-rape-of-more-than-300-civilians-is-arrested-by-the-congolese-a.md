@@ -8,6 +8,7 @@ THE LEADER of a Congolese rebel group suspected of being involved in the rape of
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1007/1224280566201.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

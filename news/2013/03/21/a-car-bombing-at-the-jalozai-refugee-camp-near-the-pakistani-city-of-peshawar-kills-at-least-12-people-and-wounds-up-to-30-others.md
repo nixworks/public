@@ -8,6 +8,7 @@ At least 15 people are killed in a bombing at the Jalozai refugee camp close to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21873552)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66520000/jpg/_66520751_66520750.jpg)
 
 ### Related:
 

@@ -9,3 +9,4 @@ Police say the community should not be alarmed after four people were found dead
 
 1. [Boston CBS](http://boston.cbslocal.com/2017/09/09/groton-quadruple-murder-orion-krause/)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-4871304/Jazz-drummer-22-beat-four-people-death-home.html)
+2. [Cover Image](https://cbsboston.files.wordpress.com/2017/09/grotonpicfromneighbor4.jpg?w=628)

@@ -8,6 +8,7 @@ The remarks to a Jewish group were among the popeâ€™s strongest since a bishopâ€
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/02/13/world/europe/13pope.html?_r=1&em)
+1. [Cover Image](https://static01.nyt.com/images/2009/02/12/world/12pope.ms.75.jpg)
 
 ### Related:
 

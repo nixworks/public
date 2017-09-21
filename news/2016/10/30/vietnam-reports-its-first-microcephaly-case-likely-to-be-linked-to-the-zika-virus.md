@@ -8,6 +8,7 @@ Vietnamese authorities report a microcephaly case that it says is likely to be t
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2016-10-30/vietnam-reports-first-microcephaly-case-likely-linked-to-zika/7978644)
+1. [Cover Image](http://www.abc.net.au/news/image/7124392-1x1-700x700.jpg)
 
 ### Related:
 

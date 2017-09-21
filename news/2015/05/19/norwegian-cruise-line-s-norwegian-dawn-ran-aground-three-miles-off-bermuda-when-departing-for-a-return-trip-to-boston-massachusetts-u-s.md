@@ -9,6 +9,7 @@ A Norwegian cruise ship has been freed after becoming stuck on a reef for more t
 
 1. [Boston Herald](https://www.bostonherald.com/news_opinion/local_coverage/2015/05/cruise_ship_out_of_boston_aground_in_bermuda)
 2. [Irish Independent](http://www.independent.ie/world-news/cruise-ship-freed-from-bermuda-reef-31237640.html)
+2. [Cover Image](http://www.independent.ie/world-news/article31237639.ece/ALTERNATES/h342/PANews_P-93bf23b9-70d9-4b4d-987b-860d037e07eb_I1.jpg)
 
 ### Related:
 

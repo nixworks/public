@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/15-killed-in-landslide-in-Arunachal-Pradesh/articleshow/51938553.cms?)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/51938648.cms)
 
 ### Related:
 

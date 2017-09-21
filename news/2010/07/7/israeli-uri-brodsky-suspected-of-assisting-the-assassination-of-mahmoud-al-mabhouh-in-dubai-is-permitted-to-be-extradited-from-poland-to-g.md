@@ -9,6 +9,7 @@ An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be 
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/20107720713228273.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10541332.stm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

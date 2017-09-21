@@ -9,6 +9,7 @@ Japan called on the world not to impose &quot;unjustifiable&quot; import curbs o
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/03/82098.html)
 2. [Reuters](http://www.reuters.com/article/2011/03/30/us-japan-quake-idUSTRE72A0SS20110330?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110330&t=2&i=374771199&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-30T161426Z_01_BTRE72T0WF500_RTROPTP_0_JAPAN-SEAWATER)
 
 ### Related:
 

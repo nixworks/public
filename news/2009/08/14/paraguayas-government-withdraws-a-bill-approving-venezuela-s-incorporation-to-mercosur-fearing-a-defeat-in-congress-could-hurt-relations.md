@@ -8,6 +8,7 @@ Paraguay&#039;s government withdrew a bill that would approve the incorporation 
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/14/paraguayan-government-withdraws-bill-for-venezuelas-mercosur-incorporation)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19829/200x200/dc5c1ddbb2bba82181dc11eade4dd1b1.jpg)
 
 ### Related:
 

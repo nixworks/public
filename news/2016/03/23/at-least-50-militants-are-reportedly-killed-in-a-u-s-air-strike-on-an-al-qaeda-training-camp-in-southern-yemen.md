@@ -8,6 +8,7 @@ At least 50 militants were killed in a U.S. air strike on an al Qaeda training c
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-yemen-strike-idUSKCN0WO37I)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

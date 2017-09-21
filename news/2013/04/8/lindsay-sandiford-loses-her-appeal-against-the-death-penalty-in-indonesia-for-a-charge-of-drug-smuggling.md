@@ -8,6 +8,7 @@ Briton Lindsay Sandiford loses her appeal against her death sentence in Bali for
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22061670)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66798000/jpg/_66798795_66798794.jpg)
 
 ### Related:
 

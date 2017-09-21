@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-43367220091022)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

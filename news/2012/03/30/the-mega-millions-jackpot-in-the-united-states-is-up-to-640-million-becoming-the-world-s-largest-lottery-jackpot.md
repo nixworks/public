@@ -8,6 +8,7 @@ World-record prize increases by $100 million hours before much-anticipated late-
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57407093/mega-millions-jackpot-swells-to-$640-million/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/03/30/4bf72ff9-a644-11e2-a3f0-029118418759/mega_millions_line_AP120329091082_fullwidth.jpg)
 
 ### Related:
 

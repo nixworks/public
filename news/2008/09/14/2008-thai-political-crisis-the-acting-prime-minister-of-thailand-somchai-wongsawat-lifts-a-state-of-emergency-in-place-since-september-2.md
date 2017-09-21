@@ -8,6 +8,7 @@ The acting prime minister of Thailand has lifted a state of emergency in the cap
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/14/world/asia/14bangkok.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

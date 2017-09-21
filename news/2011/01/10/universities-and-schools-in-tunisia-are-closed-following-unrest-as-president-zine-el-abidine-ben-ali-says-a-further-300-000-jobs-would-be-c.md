@@ -10,6 +10,7 @@ Warning to those involved in violent protests in north African nation tempered w
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hB-pk_CIvDDEAuGDd7cWeWpH5tAg?docId=CNG.a7256a3419e3e3b03b8d1b50e17ae892.c81)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111016239214548.html)
 3. [Reuters](http://www.reuters.com/article/idUSLDE7091ZB20110110)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/3/201113131644799876_20.jpg)
 
 ### Related:
 

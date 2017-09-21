@@ -8,6 +8,7 @@ Greece is set to impose further austerity measures and a number of privatization
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/06/03/greece.debt/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/03/greece.debt/tzvids.greek.austerity.afp.gi.jpg)
 
 ### Related:
 

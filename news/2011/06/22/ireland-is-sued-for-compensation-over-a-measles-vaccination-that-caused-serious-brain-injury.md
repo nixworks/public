@@ -8,3 +8,4 @@ The High Court has been told that the State has an obligation to compensate thos
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0622/measles.html)
+1. [Cover Image](https://img.rasset.ie/0003d979-1600.jpg)

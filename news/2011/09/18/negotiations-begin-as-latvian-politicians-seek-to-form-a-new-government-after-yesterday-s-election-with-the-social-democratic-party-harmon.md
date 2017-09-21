@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/09/18/latvia-election-idUSL5E7KH0TY20110918)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

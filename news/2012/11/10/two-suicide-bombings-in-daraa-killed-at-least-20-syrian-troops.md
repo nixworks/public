@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2012/11/10/twin-explosions-strike-city-in-southern-syria-causing-multiple-casualties-state/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

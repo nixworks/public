@@ -10,6 +10,7 @@
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010726352170386.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10757320)
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/25/cambodia.khmer.rouge.verdict/#fbid=Zi63FEAlScD)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

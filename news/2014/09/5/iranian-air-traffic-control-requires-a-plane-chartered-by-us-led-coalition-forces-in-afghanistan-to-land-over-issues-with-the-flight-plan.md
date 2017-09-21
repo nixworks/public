@@ -9,6 +9,7 @@ A chartered aircraft carrying about 100 Americans from the U.S. airbase at Bagra
 
 1. [Reuters](http://www.reuters.com/article/2014/09/05/us-usa-iran-aircraft-idUSKBN0H026120140905)
 2. [The New York Times](http://www.nytimes.com/2014/09/06/world/iranian-jets-force-us-military-charter-plane-to-land.html?_r=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

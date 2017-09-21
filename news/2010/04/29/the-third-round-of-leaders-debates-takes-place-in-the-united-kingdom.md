@@ -8,6 +8,7 @@ At their third and final debate with a week to go before the election, the leade
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2010/04/30/world/europe/30britain.html?src=me)
+1. [Cover Image](https://static01.nyt.com/images/2010/04/30/world/30britain_CA0/30britain_CA0-thumbStandard.jpg)
 
 ### Related:
 

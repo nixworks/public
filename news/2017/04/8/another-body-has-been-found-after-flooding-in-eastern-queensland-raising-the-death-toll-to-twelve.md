@@ -8,6 +8,7 @@ The body of one of three men who went missing during Cyclone Debbie and the foll
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2017-04-08/queensland-floods-man-missing-mondure-found/8428074)
+1. [Cover Image](http://www.abc.net.au/news/image/8428080-1x1-700x700.jpg)
 
 ### Related:
 

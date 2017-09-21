@@ -8,6 +8,7 @@ Almost more important than what is in the Black Saturday report is whether its r
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/07/31/2969722.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1110258-1x1-700x700.jpg)
 
 ### Related:
 

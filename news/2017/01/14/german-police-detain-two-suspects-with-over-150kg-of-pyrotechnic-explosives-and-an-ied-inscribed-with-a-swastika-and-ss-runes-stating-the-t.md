@@ -8,6 +8,7 @@ Two suspects detained with 155 kilograms of pyrotechnic explosives may have link
 ### Source:
 
 1. [RT](https://www.rt.com/news/373668-germany-explosives-police-detain)
+1. [Cover Image](https://img.rt.com/files/2017.01/article/5879fa45c46188bc598b4569.jpg)
 
 ### Related:
 

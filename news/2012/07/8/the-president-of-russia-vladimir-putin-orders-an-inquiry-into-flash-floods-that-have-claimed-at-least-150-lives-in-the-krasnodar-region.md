@@ -9,6 +9,7 @@ Russia holds day of mourning for those killed in the floods that swept large are
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18758895)
 2. [CNN](http://www.cnn.com/2012/07/08/world/europe/russia-floods/index.html?hpt=wo_c2)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61433000/jpg/_61433856_015269882-2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Three fresh tremors today jolted Nepal, triggering panic among the people alread
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Three-fresh-tremors-hit-Nepal-as-toll-crosses-8000/articleshow/47221521.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47221525.cms)
 
 ### Related:
 

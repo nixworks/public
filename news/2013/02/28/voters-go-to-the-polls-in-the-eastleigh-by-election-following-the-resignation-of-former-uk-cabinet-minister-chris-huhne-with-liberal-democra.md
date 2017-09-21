@@ -9,6 +9,7 @@ The Lib Dems have claimed victory in the Eastleigh by-election, with the officia
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-21619239)
 2. [The Guardian](http://www.guardian.co.uk/politics/blog/2013/feb/28/eastleigh-byelection-results-live-blog)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66133000/jpg/_66133351_162834734.jpg)
 
 ### Related:
 

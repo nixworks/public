@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/05/31/france.jet.crash/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/05/31/france.jet.crash/tzvids.air.france.gi.jpg)
 
 ### Related:
 

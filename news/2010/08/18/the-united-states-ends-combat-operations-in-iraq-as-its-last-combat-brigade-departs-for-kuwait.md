@@ -9,6 +9,7 @@ The last full U.S. combat brigade crossed the border into Kuwait on Thursday mor
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081818840122963.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/38744453/ns/world_news-mideastn_africa)
+2. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/nn_engel_iraq_100818.standard.jpg)
 
 ### Related:
 

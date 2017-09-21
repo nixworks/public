@@ -11,6 +11,7 @@ Police have arrested a suspect in the package bombs explosion in southern China&
 2. [Asia One](http://news.asiaone.com/news/asia/suspect-arrested-guangxi-package-bomb-blasts)
 3. [The New York Times](http://www.nytimes.com/2015/10/02/world/asia/china-liucheng-guangxi-explosions.html?_r=0)
 4. [Voice of America](http://www.voanews.com/content/suspect-sought-in-china-parcel-bombings/2987091.html)
+4. [Cover Image](http://news.asiaone.com/sites/default/files/original_images/Oct2015/20150110_GuangxiPackageBombs.jpg)
 
 ### Related:
 

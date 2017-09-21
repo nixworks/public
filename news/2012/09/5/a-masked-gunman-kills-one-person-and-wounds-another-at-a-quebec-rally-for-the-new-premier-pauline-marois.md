@@ -8,6 +8,7 @@ A masked gunman wearing a blue bathrobe opened fire during a midnight victory ra
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/gunman-kills-1-rally-quebec-premier-060908664.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

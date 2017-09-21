@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11508349)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11511579)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/oct/10/kyrgyzstan-uzbek-osh-ethnic-cleansing)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

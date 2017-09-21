@@ -10,6 +10,7 @@
 1. [Jakarta Globe](http://thejakartaglobe.com/home/thousands-trapped-under-rubble-in-indonesia-after-sumatra-earthquake-official/332769)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58T39720090930)
 3. [The Guardian](http://www.guardian.co.uk/world/2009/sep/30/indonesia-earthquake-padang)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090930&t=2&i=11782232&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-30T162812Z_01_BTRE58T19R400_RTROPTP_0_QUAKE-INDONESIA)
 
 ### Related:
 

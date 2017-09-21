@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-myanmar-border-idUSKCN12D0BN)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161013&t=2&i=1157250716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9C06J)
 
 ### Related:
 

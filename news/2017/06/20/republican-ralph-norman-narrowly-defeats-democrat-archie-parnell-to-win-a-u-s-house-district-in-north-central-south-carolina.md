@@ -8,3 +8,4 @@ Maps and results in the special election for a House seat vacated by Mick Mulvan
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/elections/results/south-carolina-house-special-election)
+1. [Cover Image](https://int.nyt.com/applications/elections/2017/assets/images/general-SC.png)

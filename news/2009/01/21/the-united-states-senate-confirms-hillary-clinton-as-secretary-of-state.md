@@ -8,6 +8,7 @@ The confirmation of Eric H. Holder Jr. still appears all but assured, but Senate
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/01/22/us/politics/22holder.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

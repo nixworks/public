@@ -8,6 +8,7 @@ The Valletta Summit on Migration ended early this afternoon with a Final Declara
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20151112/local/watch-valletta-summit-concluding-press-conference.591885)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/17b36c1e7867ad0bde6d2f2780b40fb1007ec752-1447330318-5644820e-620x348.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-19861727)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61403000/jpg/_61403387_john_hume_.jpg)
 
 ### Related:
 

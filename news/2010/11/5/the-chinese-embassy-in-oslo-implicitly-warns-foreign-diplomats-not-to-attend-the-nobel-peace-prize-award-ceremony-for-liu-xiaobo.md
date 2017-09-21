@@ -8,6 +8,7 @@ China warns that there will be &quot;consequences&quot; if governments show supp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11701725)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

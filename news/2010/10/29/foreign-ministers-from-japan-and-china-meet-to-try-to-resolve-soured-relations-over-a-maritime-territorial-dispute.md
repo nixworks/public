@@ -9,6 +9,7 @@ A diplomatic spat between China and Japan over a group of disputed islands flare
 
 1. [AP via Sign On San Diego](http://www.signonsandiego.com/news/2010/oct/28/china-japan-meet-amid-territorial-tensions/)
 2. [BBC News](http://www.bbc.co.uk/news/world-asia-pacific-11649759)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49701000/jpg/_49701029_010515449-1.jpg)
 
 ### Related:
 

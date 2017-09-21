@@ -8,6 +8,7 @@ A Chinese court sentences disgraced former top politician Bo Xilai to life after
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24170726)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70052000/jpg/_70052408_70052407.jpg)
 
 ### Related:
 

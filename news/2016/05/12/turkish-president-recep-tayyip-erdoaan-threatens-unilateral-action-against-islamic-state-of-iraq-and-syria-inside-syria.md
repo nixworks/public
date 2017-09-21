@@ -9,6 +9,7 @@ Turkey is preparing to take action against the Islamic State of Iraq and the Lev
 
 1. [Hurriyet Daily](http://www.hurriyetdailynews.com/turkey-may-take-unilateral-action-against-isil-in-syria.aspx?pageID=238&nID=99081&NewsCatID=352)
 2. [WSJ](http://www.wsj.com/articles/turkey-threatens-stronger-military-action-in-syria-1463058079)
+2. [Cover Image](http://www.hurriyetdailynews.com/images/news/201605/n_99081_1.jpg)
 
 ### Related:
 

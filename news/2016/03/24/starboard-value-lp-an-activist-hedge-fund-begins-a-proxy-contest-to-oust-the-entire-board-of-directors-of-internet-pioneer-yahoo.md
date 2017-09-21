@@ -8,6 +8,7 @@ By Michael Flaherty and Supantha MukherjeeActivist hedge fund Starboard Value LP
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yahoo-starboard-proxy-idUSKCN0WQ0D7)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160324&t=2&i=1127366701&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2N06V)
 
 ### Related:
 

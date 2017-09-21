@@ -9,6 +9,7 @@ Nuclear expert claims he was kidnapped but US says he lived freely and was free 
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201071410533953993.html)
 2. [BBC](http://www.bbc.co.uk/news/10626593)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

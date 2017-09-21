@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57593194/officials-30-missing-in-quebec-train-crash-presumed-dead/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/07/10/97b684b2-1c4f-11e3-9918-005056850598/AP588261965080.jpg)
 
 ### Related:
 

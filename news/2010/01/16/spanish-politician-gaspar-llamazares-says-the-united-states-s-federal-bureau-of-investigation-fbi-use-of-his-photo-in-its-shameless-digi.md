@@ -10,6 +10,7 @@ The FBI has admitted using a photograph of a bearded Spanish politician as the b
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8463657.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Computer-Image-Of-Osama-Bin-Laden-Spanish-Politician-Gaspar-Llamazares-Unhappy-His-Features-Used/Article/201001315525825?f=rss)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7004715/FBI-admits-Spanish-politican-was-model-for-high-tech-Osama-bin-Laden-photo-fit.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01560/bin-laden_1560406a.jpg)
 
 ### Related:
 

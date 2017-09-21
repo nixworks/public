@@ -8,6 +8,7 @@ A Chinese vessel fired a water cannon at Filipino fishermen near a disputed shoa
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-asia-26320383)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73136000/jpg/_73136418_73136417.jpg)
 
 ### Related:
 

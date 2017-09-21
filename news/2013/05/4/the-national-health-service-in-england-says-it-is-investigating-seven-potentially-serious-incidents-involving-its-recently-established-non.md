@@ -8,6 +8,7 @@ There were seven &quot;potentially serious&quot; incidents when the new NHS 111 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-22401585)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67403000/jpg/_67403222_phoneconcern.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [Interaksyon](http://www.interaksyon.com/article/132449/dds-member-links-duterte-son-paolo-to-murders)
 4. [Rappler](http://www.rappler.com/nation/146292-duterte-ordered-killing-jun-pala-senate-witness)
 5. [The New York Times](http://www.nytimes.com/aponline/2016/09/14/world/asia/ap-as-philippines-duterte-killings.html?_r=0)
+5. [Cover Image](http://interaksyon.com/assets/images/articles/original_1473905598.jpg)
 
 ### Related:
 

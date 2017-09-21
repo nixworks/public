@@ -9,6 +9,7 @@ The Obama administration said Wednesday it is continuing a review of the propose
 
 1. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-keystone-xl-pipeline-20151104-story.html)
 2. [Reuters](http://www.reuters.com/article/2015/11/05/us-transcanada-keystone-state-idUSKCN0ST2VX20151105#gXh4FQJj1sYTyrLK.97)
+2. [Cover Image](http://www.trbimg.com/img-563ad178/turbine/ct-keystone-xl-pipeline-20151104)
 
 ### Related:
 

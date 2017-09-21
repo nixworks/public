@@ -8,6 +8,7 @@ Police in Papua New Guinea have shot dead at least 11 inmates after a prison bre
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-35666273)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14B1D/production/_88456748_031670946-1.jpg)
 
 ### Related:
 

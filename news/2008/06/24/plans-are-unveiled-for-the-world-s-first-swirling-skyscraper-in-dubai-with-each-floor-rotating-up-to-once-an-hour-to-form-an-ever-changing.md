@@ -10,6 +10,7 @@ An architect has unveiled plans to build the world&#039;s first rotating skyscra
 1. [ABC](http://www.abc.net.au/news/stories/2008/06/25/2285385.htm?section=entertainment)
 2. [Reuters](http://uk.reuters.com/article/UKNews1/idUKN2435465820080624)
 3. [The Independent](http://www.independent.co.uk/arts-entertainment/art-and-architecture/news/revolutionary-skyscraper-will-offer-rooms-with-a-variable-view-853536.html)
+3. [Cover Image](http://www.abc.net.au/news/image/2484006-1x1-700x700.jpg)
 
 ### Related:
 

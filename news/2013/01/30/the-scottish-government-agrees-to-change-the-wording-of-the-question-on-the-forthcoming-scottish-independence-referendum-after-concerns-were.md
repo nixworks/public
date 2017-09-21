@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-21245701)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65588000/jpg/_65588745_017079801-1.jpg)
 
 ### Related:
 

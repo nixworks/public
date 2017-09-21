@@ -9,6 +9,7 @@ An attack that killed as many as five people infuriated leaders in Kandahar befo
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/20104121321185774.html)
 2. [The New York Times](http://www.nytimes.com/2010/04/13/world/asia/13afghan.html?hp)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

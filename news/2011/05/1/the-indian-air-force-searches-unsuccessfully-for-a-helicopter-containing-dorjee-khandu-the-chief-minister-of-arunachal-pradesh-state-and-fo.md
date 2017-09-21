@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/05/01/india.missing.helicopter/index.html?eref=edition)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/01/india.missing.helicopter/tzvids.dorjee.khandu.gi.jpg)
 
 ### Related:
 

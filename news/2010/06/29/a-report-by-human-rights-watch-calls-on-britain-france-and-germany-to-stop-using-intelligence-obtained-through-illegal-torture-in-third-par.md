@@ -8,6 +8,7 @@ UK, France and Germany urged not to use information gained by torture in other c
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010629134355923668.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

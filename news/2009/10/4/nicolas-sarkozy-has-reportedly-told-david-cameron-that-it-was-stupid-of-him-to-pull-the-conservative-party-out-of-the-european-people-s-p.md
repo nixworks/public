@@ -8,6 +8,7 @@ French President Nicolas Sarkozy angrily told David Cameron he was &#034;stupid&
 ### Source:
 
 1. [The Sunday Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/david-cameron/6257715/Nicolas-Sarkozy-told-David-Cameron-he-was-stupid-for-pulling-out-of-European-group.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01494/cameron_sarkozy_1494990a.jpg)
 
 ### Related:
 

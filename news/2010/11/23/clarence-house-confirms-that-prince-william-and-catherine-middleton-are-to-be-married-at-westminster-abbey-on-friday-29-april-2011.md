@@ -8,6 +8,7 @@ Prince William and Kate Middleton will marry on Friday 29 April at Westminster A
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11818049)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

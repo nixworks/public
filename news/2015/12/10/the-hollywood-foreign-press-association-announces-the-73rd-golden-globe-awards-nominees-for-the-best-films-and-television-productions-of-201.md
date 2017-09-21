@@ -8,6 +8,7 @@ The Hollywood Foreign Press Assn. has announced its nominees for the 2016 Golden
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/la-env-golden-globe-nominations-live-updates-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-566992da/turbine/la-env-golden-globe-nominations-live-updates)
 
 ### Related:
 

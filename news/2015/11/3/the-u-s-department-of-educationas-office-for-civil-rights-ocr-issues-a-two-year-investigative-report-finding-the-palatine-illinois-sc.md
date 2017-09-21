@@ -10,6 +10,7 @@ Federal authorities on Monday declared that officials at Illinois&apos; largest 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/ct-transgender-student-federal-ruling-met-20151102-story.html)
 2. [DOE report](http://www.chicagotribune.com/ct-doe-report-on-district-211-20151102-htmlstory.html)
 3. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/03/feds-say-illinois-school-district-broke-law-by-banning-trans-student-from-girls-locker-room/)
+3. [Cover Image](http://www.trbimg.com/img-5637ecdc/turbine/ct-transgender-student-federal-ruling-met-20151102)
 
 ### Related:
 

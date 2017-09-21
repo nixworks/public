@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTT via NASDAQ](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20061120%5cACQRTT200611201547RTTRADERUSEQUITY_0933.htm&)
+1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)
 
 ### Related:
 

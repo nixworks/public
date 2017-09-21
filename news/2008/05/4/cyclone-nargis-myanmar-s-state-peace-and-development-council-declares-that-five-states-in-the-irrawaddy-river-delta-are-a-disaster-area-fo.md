@@ -8,6 +8,7 @@ Myanmar&#39;s state-run television reported on Sunday that Category 3 Cyclone Na
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/24447510/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/ArtAndPhoto-Fronts/COVER/080504/g-080504-cyclone-9a.standard.jpg)
 
 ### Related:
 

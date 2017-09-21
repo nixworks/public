@@ -8,6 +8,7 @@ US financial giant to settle fraud charges in half-a billion dollar agreement.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/business/2010/07/20107160244871882.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

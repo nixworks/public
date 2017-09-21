@@ -10,6 +10,7 @@ Wikipedia, the online encyclopedia, is offline this evening
 1. [CNN](http://scitech.blogs.cnn.com/2010/03/24/wikipedia-down-after-server-meltdown/)
 2. [PC Magazine](http://www.pcmag.com/article2/0,2817,2361778,00.asp)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/technology/wikipedia/7514826/Wikipedia-goes-down.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01530/wiki_1530737a.jpg)
 
 ### Related:
 

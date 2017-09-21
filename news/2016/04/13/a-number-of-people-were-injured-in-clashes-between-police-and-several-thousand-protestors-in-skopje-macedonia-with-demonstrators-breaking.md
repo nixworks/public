@@ -8,6 +8,7 @@ An anti-government protest in the Macedonian capital of Skopje has resulted in v
 ### Source:
 
 1. [RT](https://www.rt.com/news/339488-macedonia-protests-clashes-arrests/)
+1. [Cover Image](https://img.rt.com/files/2016.04/article/570eaf56c46188f76b8b45df.jpg)
 
 ### Related:
 

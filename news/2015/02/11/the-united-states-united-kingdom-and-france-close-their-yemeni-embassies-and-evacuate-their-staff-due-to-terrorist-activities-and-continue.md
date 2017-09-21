@@ -8,6 +8,7 @@ Yemen rebels seized U.S. embassy vehicles in the capital of Sanaa on Wednesday a
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/02/11/yemen-embassy-closures/23220185/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

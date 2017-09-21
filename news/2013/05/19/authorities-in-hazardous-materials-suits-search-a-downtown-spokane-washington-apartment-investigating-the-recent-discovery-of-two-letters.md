@@ -8,6 +8,7 @@ FBI agents have searched an apartment in Spokane following the recent discovery 
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/FBI-follow-deadly-ricin-letter-trail-20130519)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2180/a4324f3f464343f794a4ba8ab0dc12aa.jpg)
 
 ### Related:
 

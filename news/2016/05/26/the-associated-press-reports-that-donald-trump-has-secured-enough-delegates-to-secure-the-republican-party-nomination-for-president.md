@@ -8,6 +8,7 @@ BISMARCK, N.D. (AP) — Triumphantly armed with a majority of his party&#039;s d
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/6fb6b090e8734d8593c0dc65658a4afa/trump-reaches-magic-number-delegates-clinch-nomination)
+1. [Cover Image](http://binaryapi.ap.org/98e588d33d75450b95c1ace6d279c7a2/460x.jpg)
 
 ### Related:
 

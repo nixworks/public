@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/07/us-germany-france-idUSBREA360S620140407)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140407&t=2&i=880140979&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA360XV100)
 
 ### Related:
 

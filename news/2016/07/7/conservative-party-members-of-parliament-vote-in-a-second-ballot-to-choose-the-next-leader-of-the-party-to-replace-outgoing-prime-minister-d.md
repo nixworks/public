@@ -9,6 +9,7 @@
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3678833/UK-Conservatives-choose-final-2-leadership-contenders.html)
 2. [BBC](http://www.bbc.com/news/live/uk-politics-36570120?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

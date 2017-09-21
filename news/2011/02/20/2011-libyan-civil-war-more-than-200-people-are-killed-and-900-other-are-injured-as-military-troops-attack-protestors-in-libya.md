@@ -20,6 +20,7 @@ Details emerge of massive casualties in the Libyan city of Benghazi, where docto
 11. [Reuters via London South East](http://www.lse.co.uk/FinanceNews.asp?ArticleCode=r2q88tjiooucut9&ArticleHeadline=Libya_tribal_chief_threatens_to_block_oil_exports_Jazeera)
 12. [Reuters](http://uk.reuters.com/article/2011/02/20/uk-libya-protests-idUKTRE71G0AW20110220?pageNumber=2)
 13. [Sky News](http://news.sky.com/skynews/Article/201102115937134)
+13. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Three people, including a teenager, were injured after a gunman opened fire outs
 ### Source:
 
 1. [The Independent](http://www.independent.ie/world-news/europe/three-people-including-teen-injured-in-metro-station-shooting-in-france-35564154.html)
+1. [Cover Image](http://www.independent.ie/incoming/article35545889.ece/ALTERNATES/h342/page23_airport2.jpg)
 
 ### Related:
 

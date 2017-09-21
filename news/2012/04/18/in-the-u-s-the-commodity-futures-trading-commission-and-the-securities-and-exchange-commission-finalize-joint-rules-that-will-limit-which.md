@@ -8,6 +8,7 @@ U.S. regulators limited the number of market players that will be slapped with a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/04/18/us-financial-regulation-swaps-idUSBRE83H0YE20120418)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

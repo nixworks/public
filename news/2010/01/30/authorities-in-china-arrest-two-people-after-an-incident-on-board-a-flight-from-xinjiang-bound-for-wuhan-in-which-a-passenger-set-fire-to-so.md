@@ -8,6 +8,7 @@ Chinese police have detained two people after a domestic flight from the restles
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE60T0LP20100130)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

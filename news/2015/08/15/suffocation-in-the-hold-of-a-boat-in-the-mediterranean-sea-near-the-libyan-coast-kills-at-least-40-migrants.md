@@ -8,6 +8,7 @@ At least 40 migrants died after apparently getting trapped and suffocating in th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/15/us-europe-migrants-italy-idUSKCN0QK0A320150815?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150815&t=2&i=1072083487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7E055)
 
 ### Related:
 

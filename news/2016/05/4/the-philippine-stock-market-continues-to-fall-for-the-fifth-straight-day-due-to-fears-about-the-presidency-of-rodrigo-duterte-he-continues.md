@@ -9,6 +9,7 @@ Foreign analysts writing country risk assessments in recent weeks are adopting a
 
 1. [Rappler](http://www.rappler.com/business/economy-watch/131655-duterte-causing-market-jitters-philippines)
 2. [The Philippine Star](http://www.philstar.com/business/2016/05/04/1579488/local-business-wary-duterte)
+2. [Cover Image](http://www.philstar.com/sites/all/themes/philstar_default/images/fb-share-default.jpg)
 
 ### Related:
 

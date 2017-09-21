@@ -8,6 +8,7 @@ Yemeni security forces killed seven suspected al Qaeda militants on Thursday whe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/08/07/us-yemen-violence-idUSKBN0G70S820140807?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Bild](http://www.bild.de/newsticker-meldungen/home/24-17-heesters-21753692.bild.html)
+1. [Cover Image](http://bilder.bild.de/fotos-skaliert/bild-logo-35166394/30,c=0,h=200.bild.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Venezuelan President Nicolas Maduro defies critics to push for a new constitutio
 2. [PJ Media](https://pjmedia.com/trending/2017/07/30/candidate-for-assembly-three-others-killed-in-venezuela-on-election-day/)
 3. [The Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-venezuela-constitution-20170730-htmlstory.html)
 4. [The New York Times](https://www.nytimes.com/2017/07/30/world/americas/venezuela-constituent-assembly-election.html)
+4. [Cover Image](http://www.trbimg.com/img-597d1c00/turbine/la-fg-venezuela-constitution-20170730)
 
 ### Related:
 

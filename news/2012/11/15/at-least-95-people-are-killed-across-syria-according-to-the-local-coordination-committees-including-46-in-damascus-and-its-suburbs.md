@@ -9,6 +9,7 @@ The move gives a powerful boost to the group known as the National Coalition of 
 
 1. [CNN](http://edition.cnn.com/2012/11/15/world/meast/syria-civil-war/index.html?hpt=wo_c2)
 2. [New York Times](http://www.nytimes.com/2012/11/16/world/middleeast/turkey-recognizes-new-syrian-rebel-group-as-legitimate-leader-of-syria.html?ref=world&_r=0)
+2. [Cover Image](https://static01.nyt.com/images/2012/11/16/world/middleeast/16syria/16syria-superJumbo.jpg)
 
 ### Related:
 

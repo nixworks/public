@@ -9,6 +9,7 @@ Both Asim Ghosh, the current MD of Hutch-Essar and an investor, and Analjit Sing
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6352525.stm?ls)
 2. [Economic Times](http://economictimes.indiatimes.com/articleshow/1600901.cms)
+2. [Cover Image](http://img.etimg.com/photo/6325547.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ European Union governments backed a deal with the United States that would open 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/03/23/business/worldbusiness/23skies.html?ex=1332302400&en=d64b2f8e22851f4c&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/03/23/business/23skies.75.jpg)
 
 ### Related:
 

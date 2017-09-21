@@ -12,6 +12,7 @@ Senior Syrian officials are to face targeted European Union sanctions and travel
 3. [RTT](http://www.rttnews.com/Content/MarketSensitiveNews.aspx?Id=1613257&SM=1)
 4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218986)
 5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8490488/Syria-William-Hague-to-push-for-sanctions-on-senior-officials.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01886/hague_1886363a.jpg)
 
 ### Related:
 

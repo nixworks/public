@@ -8,6 +8,7 @@ Mumtaz Qadri&#039;s supporters took to the streets to denounce the sentence soon
 ### Source:
 
 1. [Express Tribune](http://tribune.com.pk/story/264609/taseer-murder-case-qadri-sentenced-to-death/)
+1. [Cover Image](https://c.tribune.com.pk/2011/10/264609-QadrisupportReuters-1317471992-774-640x480.jpg)
 
 ### Related:
 

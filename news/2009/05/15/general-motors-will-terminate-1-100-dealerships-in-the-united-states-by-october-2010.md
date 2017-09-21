@@ -8,6 +8,7 @@ Automaker Not Renewing Franchises; Company Says Bankruptcy Possible Without Bond
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/stories/2009/05/15/business/main5016113.shtml?source=mostpop_story)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Eyewitnesses say people are trapped and there are fears the residential building
 3. [NBC News](http://www.nbcnews.com/news/world/24-story-london-tower-erupts-flames-residents-scream-help-n772011)
 4. [New York Times](https://www.nytimes.com/2017/06/13/world/europe/fire-london-apartment-building.html)
 5. [The Guardian](https://www.theguardian.com/uk-news/live/2017/jun/14/grenfell-tower-major-fire-london-apartment-block-white-city-latimer-road)
+5. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BF16/production/_96481984_mediaitem96481983.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Balkan Insight](http://www.balkaninsight.com/en/main/news/16012/)
 2. [Panama Ministry For Foreign Affairs](http://www.miregob.info/noticia.asp?elemid=3739)
+2. [Cover Image](http://www.balkaninsight.com/en/file/show/Images/Banners/BI-FB.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2012/Oct-17/191756-turkish-artillery-strikes-back-after-syrian-mortar-bomb-hit.ashx#axzz29b0Hl3Wh)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/10/17/108743_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

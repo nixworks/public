@@ -8,6 +8,7 @@ The scale of the damage done by IS militants to the site - featured in The Exorc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-39726244)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/50D1/production/_95798602_21a004ca-3a41-4645-929d-299a6ac27abc.jpg)
 
 ### Related:
 

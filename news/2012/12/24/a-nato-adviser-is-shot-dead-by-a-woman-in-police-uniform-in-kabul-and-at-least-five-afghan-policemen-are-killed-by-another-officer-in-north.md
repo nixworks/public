@@ -8,6 +8,7 @@ A Nato adviser is shot dead by a woman police officer in Kabul, as five Afghan p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20835328)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64931000/jpg/_64931981_64931980.jpg)
 
 ### Related:
 

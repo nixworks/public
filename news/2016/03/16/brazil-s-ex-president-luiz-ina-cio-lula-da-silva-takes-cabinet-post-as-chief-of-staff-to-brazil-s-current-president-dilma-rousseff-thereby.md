@@ -10,6 +10,7 @@ Protests erupted in several Brazilian cities on Wednesday after President Dilma 
 1. [New York Times](http://www.nytimes.com/2016/03/17/world/americas/brazil-ex-president-luiz-inacio-lula-da-silva.html)
 2. [Reuters](http://www.reuters.com/article/us-brazil-rousseff-idUSKCN0WI1T0)
 3. [UPI](http://www.upi.com/Top_News/World-News/2016/03/16/Brazils-Rousseff-names-former-president-Lula-her-chief-of-staff/7441458144589/?spt=hs&or=tn_int)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160316&t=2&i=1125453912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2F1SW)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Kremlin ally Sergei Sobyanin won 57.7 won percent of the votes in a Moscow mayor
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24004840)
 2. [RIA Novosti](http://en.rian.ru/russia/20130908/183267801/Russians-to-Elect-Governors-Moscow-Mayor-After-9-year-Break-in-Popular-Votes.html)
 3. [Reuters](http://www.reuters.com/article/2013/09/08/us-russia-moscow-election-results-idUSBRE9870D320130908)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130908&t=2&i=789509981&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9871FSM00)
 
 ### Related:
 

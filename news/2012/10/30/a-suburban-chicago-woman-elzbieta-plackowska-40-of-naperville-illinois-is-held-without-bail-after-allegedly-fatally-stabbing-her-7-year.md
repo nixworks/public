@@ -8,6 +8,7 @@ A suburban Chicago woman stabbed her 7-year-old son 100 times then turned the kn
 ### Source:
 
 1. [Peoria Journal Star](http://www.pjstar.com/free/x470415728/Prosecutor-Suburban-Chicago-woman-stabbed-son-100-times)
+1. [Cover Image](http://www.pjstar.com/storyimage/IP/20121101/NEWS/311019882/AR/0/AR-311019882.jpg)
 
 ### Related:
 

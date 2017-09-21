@@ -10,6 +10,7 @@ Attack comes shortly after Palestinians report 65-year-old farmer shot to death 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/three-rockets-fired-from-gaza-strike-ashkelon-region-1.336250?localLinksEnabled=false)
 2. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=202987)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4011773,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

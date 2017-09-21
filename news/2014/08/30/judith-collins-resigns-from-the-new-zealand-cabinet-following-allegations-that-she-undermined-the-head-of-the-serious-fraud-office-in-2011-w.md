@@ -8,6 +8,7 @@ Judith Collins has confirmed she is resigning as a Minister from Cabinet, with t
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11316644)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/gif/201435/COLLINS_1024x768.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Hundreds of whisky and gin bottles found at remains of British army barracks nea
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/22/israel-whisky-gin-bottles-first-world-war)
+1. [Cover Image](https://i.guim.co.uk/img/media/20b0ff898fc74b7ab0b8330b0c1aad1c5b20e3a6/0_63_5760_3456/master/5760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b33aa4e2701ee0f28a6c47d6f6988c04)
 
 ### Related:
 

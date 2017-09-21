@@ -8,6 +8,7 @@ Take a look at the latest and archived public health news releases published by 
 ### Source:
 
 1. [CDC](http://www.cdc.gov/media/releases/2016/s0315-zika-virus-travel.html)
+1. [Cover Image](http://www.cdc.gov/media/images/press-releases-fb-b.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gunmen abduct seven French tourists in northern Cameroon, French President Franc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21509248)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65961000/gif/_65961268_cameroon_nigeria_022013.gif)
 
 ### Related:
 

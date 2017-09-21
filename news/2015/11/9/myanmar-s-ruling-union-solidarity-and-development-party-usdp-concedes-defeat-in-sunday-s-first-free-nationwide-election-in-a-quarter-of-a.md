@@ -10,6 +10,7 @@
 1. [Reuters](http://www.reuters.com/article/2015/11/09/us-myanmar-election-idUSKCN0SW0TP20151109#3hsuUWjL7yPp4jjV.97)
 2. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/the-latest-us-says-more-can-be-done-after-myanmar-election/2015/11/09/70556624-8746-11e5-bd91-d385b244482f_story.html)
 3. [Tribble Agency](http://tribbleagency.com/2015/11/10/myanmars-military-rulers-concede-election-defeat/)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151109&t=2&i=1093484473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA80LY)
 
 ### Related:
 

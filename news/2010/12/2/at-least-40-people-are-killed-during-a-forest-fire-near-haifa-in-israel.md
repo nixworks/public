@@ -9,6 +9,7 @@ About 40 people - mostly prison guards - are killed in a massive forest fire out
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122151727717538.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11901750)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

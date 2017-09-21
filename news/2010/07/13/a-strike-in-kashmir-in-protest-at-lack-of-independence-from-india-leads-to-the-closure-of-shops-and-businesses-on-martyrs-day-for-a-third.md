@@ -8,6 +8,7 @@ Tensions run high in divided region as India and Pakistan prepare for high-level
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/2010713145031794130.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

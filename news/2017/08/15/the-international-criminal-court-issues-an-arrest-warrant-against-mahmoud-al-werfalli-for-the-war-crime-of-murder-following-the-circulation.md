@@ -8,6 +8,7 @@ Judges at the International Criminal Court (ICC) on Tuesday issued an arrest war
 ### Source:
 
 1. [Al Jazeera](https://www.reuters.com/article/us-warcrimes-libya-idUSKCN1AV1NU)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

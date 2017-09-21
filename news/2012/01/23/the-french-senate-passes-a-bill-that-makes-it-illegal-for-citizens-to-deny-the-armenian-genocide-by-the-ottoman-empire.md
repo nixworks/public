@@ -8,6 +8,7 @@ The French Senate approves a controversial bill that makes it a criminal offence
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16677986)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58043000/jpg/_58043710_013771521-1.jpg)
 
 ### Related:
 

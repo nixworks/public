@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/2011628131923580846.html)
 2. [Refugees International](http://refugeesinternational.org/policy/field-report/afghanistan-responsible-us-transition-must-address-displacement-crisis)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/28/201162815369233734_20.jpg)
 
 ### Related:
 

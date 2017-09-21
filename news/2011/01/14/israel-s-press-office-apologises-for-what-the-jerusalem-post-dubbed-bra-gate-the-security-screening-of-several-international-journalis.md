@@ -11,6 +11,7 @@ The director of Israels Government Press Office has apologized for the intensive
 2. [Sify](http://www.sify.com/news/israel-s-press-office-apologizes-for-journalists-bra-gate-howler-news-international-lbonOsefhij.html)
 3. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=203623)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4013765,00.html)
+4. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

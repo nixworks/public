@@ -8,6 +8,7 @@ Prime Minister Vladimir Putinordered the 2009 budget be reworked at half the ori
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/marketsNewsUS/idUKLJ47630320090119)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Workers at the World Trade Center site excavate a ship believed to have been bur
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10649949)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

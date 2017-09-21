@@ -11,6 +11,7 @@ A car bomb killed more than 50 people and wounded 200 in central Damascus on Thu
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21529634)
 3. [Reuters](http://www.reuters.com/article/2013/02/21/us-syria-crisis-blast-idUSBRE91K09W20130221)
 4. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323549204578317544181127314.html)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130221&t=2&i=706211884&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91K0UDG00)
 
 ### Related:
 

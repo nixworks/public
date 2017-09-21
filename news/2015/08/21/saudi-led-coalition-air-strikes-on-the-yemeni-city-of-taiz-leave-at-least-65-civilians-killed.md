@@ -9,6 +9,7 @@ At least 65 civilians die in air strikes by a Saudi-led coalition in the Yemeni 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34019475)
 2. [U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/08/21/aid-group-makes-dramatic-plea-day-after-65-killed-in-yemen)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14993/production/_85117348_hi028639065.jpg)
 
 ### Related:
 

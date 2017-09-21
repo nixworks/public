@@ -8,6 +8,7 @@ French President Francois Hollande names a new government under Prime Minister M
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28938703)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/77174000/jpg/_77174029_77174028.jpg)
 
 ### Related:
 

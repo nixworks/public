@@ -10,6 +10,7 @@ At least 13 people have died and 53 others have been injured in northeast Nigeri
 1. [AP via News24](http://www.news24.com/news24/Africa/News/Vigilante-accidentally-detonates-explosive-device-20150618)
 2. [Al Jazeera](http://www.aljazeera.com/news/2015/06/chad-bombs-boko-haram-positions-nigeria-150618124312584.html)
 3. [BBC](http://www.bbc.com/news/world-africa-33186154)
+3. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/12/67ad835f9083490db66a9be671eb4237.jpg)
 
 ### Related:
 

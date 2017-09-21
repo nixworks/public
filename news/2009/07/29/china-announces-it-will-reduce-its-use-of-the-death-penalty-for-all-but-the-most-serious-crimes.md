@@ -10,6 +10,7 @@ China will cut the number of people it executes every year to &quot;an extremely
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8174306.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2009-07/29/content_8484062.htm)
 3. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-41385920090729)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Drug researcher David Nutt discusses brain-imaging studies with hallucinogens.
 
 1. [BBC](http://www.bbc.co.uk/newsbeat/article/36022065/what-lsd-does-to-your-brain)
 2. [Nature](http://www.nature.com/news/brain-scans-reveal-how-lsd-affects-consciousness-1.19727)
+2. [Cover Image](http://www.nature.com/polopoly_fs/7.35672.1460455636!/image/low_LSD%20visual%20hal%20imahe.jpg_gen/derivatives/nature_homepage/low_LSD%20visual%20hal%20imahe.jpg)
 
 ### Related:
 

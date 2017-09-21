@@ -8,6 +8,7 @@ The brother of Jennifer Cardy says the family would have forgiven Robert Black i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-16086642)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56353000/jpg/_56353143__56321332_robertblack-1.jpg)
 
 ### Related:
 

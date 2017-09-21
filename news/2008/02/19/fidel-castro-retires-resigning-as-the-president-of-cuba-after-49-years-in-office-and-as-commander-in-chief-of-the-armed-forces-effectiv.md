@@ -10,6 +10,7 @@ Ailing Cuban leader Fidel Castro stepped down on Tuesday 49 years after taking p
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,23241323-2,00.html)
 2. [Granma](http://www.granma.cubaweb.cu/2008/02/19/nacional/artic10.html)
 3. [Reuters UK](http://uk.reuters.com/article/worldNews/idUKN1941945720080219)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080219&t=2&i=3212208&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-19T144359Z_01_N19419457_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -9,6 +9,7 @@ IRAN-ELECTION/START (URGENT):Iran holds run-off parliamentary election - state T
 
 1. [Reuters via Trust](http://news.trust.org/item/20160429035239-mmey1)
 2. [euronews](http://www.euronews.com/2016/04/30/iran-election-victory-for-allies-of-reformist-rouhani/)
+2. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/8effdee5-35e3-47fd-aec6-808ea1a31eb5/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

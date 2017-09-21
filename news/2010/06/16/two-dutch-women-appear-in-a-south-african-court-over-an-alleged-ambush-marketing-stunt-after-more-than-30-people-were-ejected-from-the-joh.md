@@ -10,6 +10,7 @@ A court bails two Dutch women over an alleged marketing stunt at the World Cup, 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10331583.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/World-Cup-South-Africa-2010-Two-Women-In-Court-Over-Minidress-Marketing-Stunt-By-Dutch-Fans/Article/201006315649682?f=rss)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/world-cup-faces-foul-play-cries-home-and-away-20100617-ygt4.html#)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

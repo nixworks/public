@@ -9,6 +9,7 @@ The head of Iranian Railways has resigned after four of his employees were arres
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/iran-arrests-three-over-deadly-train-crash-114903268.html)
 2. [Press TV](http://www.presstv.ir/Detail/2016/11/26/495238/Iran-Semnan-train-accident-Leader)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Rpdp9.BP4XBqlEAmUPWv3A--/aD01NTc7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2105c521a8a937e5d0d1b9758022f9beb9c3d929.jpg)
 
 ### Related:
 

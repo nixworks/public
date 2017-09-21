@@ -14,6 +14,7 @@ US, Russia, Ukraine and EU agree measures including end of violence, disarming o
 5. [USA Today](http://www.usatoday.com/story/news/world/2014/04/17/jews-ordered-to-register-in-east-ukraine/7816951/)
 6. [Ukrainian News Agency](http://un.ua/eng/article/504866.html)
 7. [Washington Post](http://www.washingtonpost.com/world/putin-changes-course-admits-russian-troops-were-in-crimea-before-vote/2014/04/17/b3300a54-c617-11e3-bf7a-be01a9b69cf1_story.html)
+7. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/17/1397754093757/Geneva-talks-on-Ukraine-c-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=577d61f4d4e145730be22192c9bf903f)
 
 ### Related:
 

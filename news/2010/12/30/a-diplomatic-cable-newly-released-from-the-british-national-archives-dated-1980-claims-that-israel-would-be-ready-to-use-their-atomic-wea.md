@@ -12,6 +12,7 @@ Former Ambassador Robinson told Foreign Office &#39;if Israelis are to be destro
 3. [Morning Star](http://www.morningstaronline.co.uk/index.php/news/content/view/full/99316)
 4. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=201251)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4007061,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

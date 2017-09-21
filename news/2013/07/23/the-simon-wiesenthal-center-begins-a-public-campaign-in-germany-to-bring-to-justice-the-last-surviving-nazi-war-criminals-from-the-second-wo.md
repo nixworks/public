@@ -8,6 +8,7 @@ A poster campaign is launched in Germany aimed at tracking down the last survivi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23428997)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68913000/jpg/_68913891_018734878.jpg)
 
 ### Related:
 

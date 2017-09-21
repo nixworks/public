@@ -10,6 +10,7 @@ The crew of a cargo ship seized by Somali pirates in the Gulf of Aden reportedly
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10121976.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/02/indian.ocean.pirates/)
 3. [Daily Nation](http://www.nation.co.ke/News/africa/Somali%20pirates%20seize%20Panama-flagged%20vessel/-/1066/930972/-/15hlfyuz/-/index.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Ruslan Fedotenko scored twice, including the critical first goal, as the resilie
 1. [ESPN](http://sports.espn.go.com/nhl/recap?gameId=240607020)
 2. [SI.com](http://sportsillustrated.cnn.com/2004/hockey/nhl/specials/playoffs/2004/06/07/bc.hkn.stanleycup.runni.ap/?cnn=yes)
 3. [TSN](http://www.tsn.ca/nhl/news_story.asp?id=86744)
+3. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

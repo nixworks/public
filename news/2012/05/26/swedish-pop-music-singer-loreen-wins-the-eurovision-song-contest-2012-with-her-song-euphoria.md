@@ -8,6 +8,7 @@ Sweden&#039;s Loreen wins Eurovision in Azerbaijan before a television audience 
 ### Source:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/2012-05-27/swedens-loreen-wins-eurovision/4035638/?site=newcastle)
+1. [Cover Image](http://www.abc.net.au/news/image/4035692-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Voters head to polls for second day as opposition calls for elections to be exte
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201041251835701851.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8616249.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

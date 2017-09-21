@@ -9,6 +9,7 @@ EXTREME weather has killed and injured dozens of people across Europe, with Spai
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8166617.stm)
 2. [Sydney Morning Herald](http://www.smh.com.au/world/dozens-killed-across-europe-in-summer-wildfires-20090725-dwtk.html)
+2. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

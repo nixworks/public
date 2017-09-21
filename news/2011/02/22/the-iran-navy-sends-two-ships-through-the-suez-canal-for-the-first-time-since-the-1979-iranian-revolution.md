@@ -9,6 +9,7 @@ The Egyptian agent fortwo Iranian naval ships has requested that the vessels pas
 
 1. [Reuters](http://www.reuters.com/article/2011/02/21/egypt-iran-suez-idUSLDE71K2F420110221)
 2. [WSJ](http://online.wsj.com/article/SB10001424052748703373404576148414160885824.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

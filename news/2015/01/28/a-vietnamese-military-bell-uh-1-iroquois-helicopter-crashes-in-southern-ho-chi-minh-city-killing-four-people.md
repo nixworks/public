@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/four-killed-vietnam-military-helicopter-crash-army-20150128)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Jus
 
 1. [ABS-CBN News](http://news.abs-cbn.com/news/08/02/17/impeachment-raps-filed-vs-chief-justice-sereno)
 2. [Manila Standard](http://www.manilastandard.net/news/national/243179/cj-sereno-faces-impeachment-raps.html)
+2. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/05/26/maria-lourdes-sereno-jc-2017-052317.jpg?ext=.jpg)
 
 ### Related:
 

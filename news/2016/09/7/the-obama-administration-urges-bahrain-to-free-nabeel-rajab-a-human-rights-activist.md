@@ -8,6 +8,7 @@ The US State Department urges Bahrain to immediately release prominent human rig
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37293117)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F357/production/_89959226_89959225.jpg)
 
 ### Related:
 

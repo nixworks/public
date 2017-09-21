@@ -8,6 +8,7 @@ The UK records its hottest day since July 2006 as the heatwave continues, but th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23408504)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68885000/jpg/_68885076_018727416.jpg)
 
 ### Related:
 

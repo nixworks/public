@@ -8,6 +8,7 @@ U.S. student in Egypt tweeted about throwing rocks at Tahrir Square protests; Eg
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57330058/egypt-questions-3-detained-u.s-students/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/11/22/cbcb9f89-a643-11e2-a3f0-029118418759/americans_students_111122.jpg)
 
 ### Related:
 

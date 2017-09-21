@@ -9,6 +9,7 @@ Critics including UN expert fear legislation passed by Abe government could targ
 
 1. [CNN](http://www.cnn.com/2017/06/15/asia/japan-abe-anti-conspiracy-bill/index.html)
 2. [The Guardian](https://www.theguardian.com/world/2017/jun/15/japan-passes-brutal-new-terror-law-which-opponents-fear-will-quash-freedoms)
+2. [Cover Image](https://i.guim.co.uk/img/media/0d79c0be6beeef1b07c5cbe523d29b882d92a8cd/0_0_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=adbd6eb1cbd1c7c1a121535cd978c3c5)
 
 ### Related:
 

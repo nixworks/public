@@ -8,6 +8,7 @@ Egyptian activist Ahmed Douma has been given a six month suspended jail sentence
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22758415)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67952000/jpg/_67952733_protest.jpg)
 
 ### Related:
 

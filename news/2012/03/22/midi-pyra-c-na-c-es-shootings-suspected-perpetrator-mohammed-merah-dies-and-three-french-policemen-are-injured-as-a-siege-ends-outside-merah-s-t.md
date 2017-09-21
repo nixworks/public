@@ -8,6 +8,7 @@ A police sniper shot and killed the gunman who carried out a spate of murders in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17473207)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59230000/jpg/_59230819_014323435-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former Virginia Republican Gov. Bob McDonnell and wife Maureen were indicted Tue
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/01/21/former-va-gov-bob-mcdonnell-wife-indicted/?intcmp=latestnews)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/012114/0/0/012114_sr_mcdonnell_640.jpg?ve=1)
 
 ### Related:
 

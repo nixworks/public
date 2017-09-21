@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Express Tribune](http://tribune.com.pk/story/328886/fake-medicine-unofficial-death-toll-reaches-111/)
+1. [Cover Image](https://c.tribune.com.pk/2012/01/328886-MedicineDESIGNANAMHALEEM-1327826701-857-640x480.JPG)
 
 ### Related:
 

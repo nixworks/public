@@ -8,6 +8,7 @@ Mitsubishi Motors Corp (7211.T) said its vehicles sold in the United States from
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mitsubishimotors-scandal-idUSKCN0XP04G)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160428&t=2&i=1134855014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3R02Y)
 
 ### Related:
 

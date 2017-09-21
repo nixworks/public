@@ -10,6 +10,7 @@
 1. [Nobel Foundation](http://www.nobelprize.org/nobel_prizes/literature/laureates/2011/press.html)
 2. [The Guardian](http://www.guardian.co.uk/books/booksblog/2011/oct/06/nobel-prize-literature-live-coverage?newsfeed=true)
 3. [The Washington Post](http://www.washingtonpost.com/entertainment/books/swedish-poet-tomas-transtromer-wins-nobel-literature-prize/2011/10/06/gIQAJ9YiPL_story.html)
+3. [Cover Image](http://www.nobelprize.org/nobel_prizes/literature/laureates/2011/../svaka_logo_09.gif)
 
 ### Related:
 

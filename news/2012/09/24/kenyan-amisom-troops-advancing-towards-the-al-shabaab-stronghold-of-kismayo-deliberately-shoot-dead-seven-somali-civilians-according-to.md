@@ -8,6 +8,7 @@ Six civilians are shot dead by a Kenyan soldier advancing towards the al-Shabab 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19698348)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63070000/jpg/_63070689_kenyaafp.jpg)
 
 ### Related:
 

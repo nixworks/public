@@ -8,6 +8,7 @@ At least 17 people killed after attack on government building in the western Ira
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010121273656219446.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/12/20101212153238829112_20.jpg)
 
 ### Related:
 

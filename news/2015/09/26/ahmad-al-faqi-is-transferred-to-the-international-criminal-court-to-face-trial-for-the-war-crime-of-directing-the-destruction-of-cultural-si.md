@@ -8,6 +8,7 @@ A suspected Islamist charged with the war crime of destroying religious monument
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-africa-34368108)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8BE8/production/_85761853_64924265.jpg)
 
 ### Related:
 

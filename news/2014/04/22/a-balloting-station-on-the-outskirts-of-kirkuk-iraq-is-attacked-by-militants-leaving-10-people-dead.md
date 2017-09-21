@@ -8,6 +8,7 @@ BAGHDAD (AP) — Militants wearing military uniforms carried out an overnight at
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/militants-attack-balloting-center-iraq-kill-10-094602474.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/TOgv.VSFNvSYiHvc7sxbFg--/aD0yNDc4O3c9MzYxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/bef337edc73b100f520f6a7067001a8c.jpg)
 
 ### Related:
 

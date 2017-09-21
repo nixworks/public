@@ -8,6 +8,7 @@ Colombia and Venezuela recall their ambassadors amid growing tension, a week aft
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34082611)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/39FB/production/_85234841_85234783.jpg)
 
 ### Related:
 

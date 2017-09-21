@@ -10,6 +10,7 @@ A senior U.S. diplomat met with Daw Aung San Suu Kyi, three days after her party
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gtK-SdwRWf4Gw5Om2FeG2vaMYKRwD9FJU1I80)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=126020&sectionid=351020406)
 3. [The New York Times](http://www.nytimes.com/2010/05/11/world/asia/11myanmar.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

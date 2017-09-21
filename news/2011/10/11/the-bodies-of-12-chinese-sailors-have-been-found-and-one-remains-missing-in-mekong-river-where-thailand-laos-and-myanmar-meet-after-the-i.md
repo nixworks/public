@@ -10,6 +10,7 @@ Passenger and cargo traffic was halted after Thai border police heard gunfire, f
 1. [The New York Times](http://www.nytimes.com/2011/10/11/world/asia/china-suspends-boat-traffic-on-mekong.html)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052970204450804576622800519874000.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-10/11/c_131185545.htm)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 
@@ -22,4 +23,4 @@ Passenger and cargo traffic was halted after Thai border police heard gunfire, f
 7. [ Thailand completes its repatriation of over 4,000 Hmong refugees to neighbouring Laos. ](/news/2009/12/29/thailand-completes-its-repatriation-of-over-4-000-hmong-refugees-to-neighbouring-laos.md) _Context: Laos, Thailand_
 8. [ Thailand begins repatriating 4,000 Hmong to Laos against their will, despite international protest. ](/news/2009/12/28/thailand-begins-repatriating-4-000-hmong-to-laos-against-their-will-despite-international-protest.md) _Context: Laos, Thailand_
 9. [ A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. ](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-china-near-the-myanmar-and-laos-borders-causing-casualties.md) _Context: Laos, Myanmar_
-10. [ Avian influenza has now been detected in a total of nine countries, with Pakistan and Laos as the latest additions. Pakistan has detected less dangerous strains H7 and H9. A six-year-old Thai boy became the seventh victim in Asia, with another ten suspected cases in the country. Around 19 million chickens have been slaughtered as a result of fighting the spread of the flu. The World Health Organisation expresses concern about a serious human outbreak. (WHO)](/news/2004/01/26/avian-influenza-has-now-been-detected-in-a-total-of-nine-countries-with-pakistan-and-laos-as-the-latest-additions-pakistan-has-detected-l.md) _Context: Laos, Thailand_
+10. [ Thai officials say that Myanmar's military has removed the current prime minister of Myanmar, General Khin Nyunt, from office and placed him under house arrest. ](/news/2004/10/19/thai-officials-say-that-myanmar-s-military-has-removed-the-current-prime-minister-of-myanmar-general-khin-nyunt-from-office-and-placed-hi.md) _Context: Myanmar, Thailand_

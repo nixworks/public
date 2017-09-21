@@ -9,6 +9,7 @@ A huge explosion rocked a popular French carnival, injuring at least 18 people. 
 
 1. [BBC](http://www.bbc.com/news/world-europe-39469112)
 2. [The Independent](http://www.independent.co.uk/news/world/europe/explosion-paris-carnival-villepinte-injuries-bonfire-latest-a7662476.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/01/22/carnival-explosion.jpg)
 
 ### Related:
 

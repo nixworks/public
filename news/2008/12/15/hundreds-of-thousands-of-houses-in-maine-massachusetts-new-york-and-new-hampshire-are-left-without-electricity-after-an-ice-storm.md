@@ -8,6 +8,7 @@ Officials are telling some customers in northern New England that they may not g
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/12/16/us/16ice.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/12/16/us/16ice.75.jpg)
 
 ### Related:
 

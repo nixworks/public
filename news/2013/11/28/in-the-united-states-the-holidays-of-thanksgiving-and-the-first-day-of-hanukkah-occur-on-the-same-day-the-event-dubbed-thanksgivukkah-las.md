@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/25140033)
 2. [TIME](http://newsfeed.time.com/2013/11/01/everything-you-need-to-know-about-thanksgivukkah/)
+2. [Cover Image](https://timenewsfeed.files.wordpress.com/2013/10/thanksgivukkah-sized.jpg?w=753)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two Turkish soldiers were killed when a roadside bomb hit their vehicle in the p
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/18/uk-turkey-kurds-idUKKCN0SC0JZ20151018)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

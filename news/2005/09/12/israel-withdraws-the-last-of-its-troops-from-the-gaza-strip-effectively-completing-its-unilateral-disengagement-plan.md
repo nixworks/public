@@ -16,6 +16,7 @@ Foreign minister says PA failed first test, as Palestinian mobs raid evacuated G
 7. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1126405205939)
 8. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3140767,00.html)
 9. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3141107,00.html)
+9. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

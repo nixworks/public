@@ -10,6 +10,7 @@ Shootout that killed opposition activist and dispute over who certifies ballots 
 1. [AFP via Yahoo New Zealand](http://nz.sports.yahoo.com/news/albania-votes-crucial-polls-determining-035447697.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/201362391518185222.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-23018090)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/23/2013623103747560734_20.jpg)
 
 ### Related:
 

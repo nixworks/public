@@ -10,6 +10,7 @@
 1. [AllAfrica.com](http://allafrica.com/stories/200911100102.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8352575.stm)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5A919O20091110)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091110&t=2&i=12266451&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-10T080615Z_01_BTRE5A90MIK00_RTROPTP_0_WARCRIMES-TAYLOR)
 
 ### Related:
 

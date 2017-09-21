@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-blast-raids-idUSKCN0ZG0RM)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160630&t=2&i=1143574391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5T14W)
 
 ### Related:
 

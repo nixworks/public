@@ -8,6 +8,7 @@ The discovery of the devices temporarily closed parts of bridges, subway station
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2007/02/01/us/01boston.html)
+1. [Cover Image](https://static01.nyt.com/images/2007/02/01/us/01boston75.1.jpg)
 
 ### Related:
 

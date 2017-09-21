@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13540204)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52954000/jpg/_52954940_52954939.jpg)
 
 ### Related:
 
@@ -16,3 +17,4 @@
 3. [Jay Leno finally says farewell for the second time to "The Tonight Show" with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md) _Context: Oprah Winfrey_
 4. [The final episode of The Oprah Winfrey Show is recorded in the US city of Chicago. ](/news/2011/05/17/the-final-episode-of-the-oprah-winfrey-show-is-recorded-in-the-us-city-of-chicago.md) _Context: Oprah Winfrey Show_
 5. [A woman accused of sexually abusing girls at the Oprah Winfrey Leadership Academy for Girls in Meyerton, South Africa, is acquitted. ](/news/2010/10/11/a-woman-accused-of-sexually-abusing-girls-at-the-oprah-winfrey-leadership-academy-for-girls-in-meyerton-south-africa-is-acquitted.md) _Context: Oprah Winfrey_
+6. [ A jury including U.S. talk show host Oprah Winfrey convicts Dion Coleman of murder after two hours of deliberation. ](/news/2004/08/19/a-jury-including-u-s-talk-show-host-oprah-winfrey-convicts-dion-coleman-of-murder-after-two-hours-of-deliberation.md) _Context: Oprah Winfrey_

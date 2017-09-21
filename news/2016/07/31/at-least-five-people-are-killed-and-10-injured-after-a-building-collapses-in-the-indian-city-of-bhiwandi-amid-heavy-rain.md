@@ -8,6 +8,7 @@ At least five persons were killed and ten others injured when a building collaps
 ### Source:
 
 1. [Press Trust of India via ''Business Standard](http://www.business-standard.com/article/pti-stories/5-killed-in-thane-building-collapse-116073100184_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

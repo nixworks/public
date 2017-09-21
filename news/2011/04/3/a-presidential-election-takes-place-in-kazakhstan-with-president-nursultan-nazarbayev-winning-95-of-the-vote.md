@@ -9,6 +9,7 @@ Kazakhstan President Nursultan Nazarbayev is re-elected after winning more than 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12949853)
 2. [RIA Novosti](http://en.rian.ru/exsoviet/20110403/163347082.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

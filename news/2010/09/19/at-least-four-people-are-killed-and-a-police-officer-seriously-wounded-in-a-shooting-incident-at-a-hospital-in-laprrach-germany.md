@@ -10,6 +10,7 @@ Four people are killed and one seriously injured in a shooting at a German hospi
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/four-killed-in-german-shooting-20100920-15i6q.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11366024)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6020400,00.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Russian President Dmitry Medvedev is said to be planning to visit more of the di
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11671514)
 2. [RIA Novosti](http://en.rian.ru/world/20101102/161177148.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

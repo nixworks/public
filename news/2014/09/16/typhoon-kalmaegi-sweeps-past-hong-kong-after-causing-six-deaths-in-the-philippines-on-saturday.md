@@ -8,6 +8,7 @@ Hong Kong was shuttered today as a powerful typhoon swept past the city, bringin
 ### Source:
 
 1. [PTI via ''The Hindu](http://www.thehindubusinessline.com/news/international/typhoon-shuts-down-hong-kong-with-strong-winds-rain/article6415305.ece)
+1. [Cover Image](http://www.thehindubusinessline.com/multimedia/dynamic/02110/hongkong_2110136g.jpg)
 
 ### Related:
 

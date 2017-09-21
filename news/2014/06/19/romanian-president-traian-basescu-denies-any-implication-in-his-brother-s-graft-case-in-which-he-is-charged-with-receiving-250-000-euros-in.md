@@ -8,6 +8,7 @@ Romanian prosecutors said they detained President Traian Basescu’s brother on 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/06/19/uk-romania-politics-president-idUKKBN0EU2GC20140619)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140619&t=2&i=909933327&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5I0ZY)
 
 ### Related:
 

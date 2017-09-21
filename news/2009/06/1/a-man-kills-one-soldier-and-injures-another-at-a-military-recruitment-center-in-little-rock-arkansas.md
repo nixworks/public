@@ -9,6 +9,7 @@ A man with &quot;political and religious motives&quot; killed a soldier just out
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gQACNshVFYt6M9CDykHq6DKqPhiwD98IKUB03)
 2. [MSNBC](http://www.msnbc.msn.com/id/31048825/)
+2. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090602-recruit-shoot-vmed-1215a.standard.jpg)
 
 ### Related:
 

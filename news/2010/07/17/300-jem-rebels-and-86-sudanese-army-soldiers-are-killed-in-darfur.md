@@ -8,6 +8,7 @@ Sudan rebel group denies reports in state media of nearly 400 killed in troubled
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/2010717104036168749.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Senator Barack Obama beat Senator Hillary Rodham Clinton by a wide margin, conti
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/09/us/politics/09wyoming.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/03/09/us/09wyoming.751.jpg)
 
 ### Related:
 

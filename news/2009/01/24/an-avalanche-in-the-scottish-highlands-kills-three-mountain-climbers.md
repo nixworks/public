@@ -8,6 +8,7 @@ Three men have died following an avalanche on a mountain near Glencoe in Scotlan
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0124/scotland.html)
+1. [Cover Image](https://img.rasset.ie/00020368-1600.jpg)
 
 ### Related:
 

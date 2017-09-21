@@ -8,6 +8,7 @@ At least 10,000 people gathered on Saturday to support a anti-corruption social 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2011/08/20/uk-india-protests-idUKTRE77J0GY20110820)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110820&t=2&i=482825321&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-20T072603Z_01_BTRE77J0KNH00_RTROPTP_0_INDIA-PROTESTS)
 
 ### Related:
 

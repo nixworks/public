@@ -8,6 +8,7 @@ EU&#x20;leaders&#x20;appointed&#x20;Italy&#x27;s&#x20;Mario&#x20;Draghi&#x20;&#x
 ### Source:
 
 1. [Reuters via France 24](http://www.france24.com/en/20110624-ecb-eurozone-mario-draghi-president-trichet-economy-europe-italy)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/draghi-m.jpg)
 
 ### Related:
 

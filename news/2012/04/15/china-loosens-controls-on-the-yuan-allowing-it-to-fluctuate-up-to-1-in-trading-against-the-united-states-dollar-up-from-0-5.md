@@ -8,6 +8,7 @@ China loosens its currency controls in a move that may spur gains in the value o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17721335)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59232000/jpg/_59232638_109492169.jpg)
 
 ### Related:
 

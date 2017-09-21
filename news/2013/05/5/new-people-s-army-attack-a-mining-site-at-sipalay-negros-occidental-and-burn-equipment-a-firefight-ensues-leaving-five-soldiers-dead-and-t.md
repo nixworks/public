@@ -8,6 +8,7 @@ Five soldiers were killed and two others were wounded yesterday during pursuit o
 ### Source:
 
 1. [Philippine Star](http://www.philstar.com/headlines/2013/05/05/938501/npas-raid-mining-site-5-soldiers-dead)
+1. [Cover Image](http://imageshack.us/a/img713/7227/gen6new.jpg)
 
 ### Related:
 

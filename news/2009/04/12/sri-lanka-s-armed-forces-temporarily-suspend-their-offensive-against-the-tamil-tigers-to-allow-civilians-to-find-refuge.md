@@ -8,6 +8,7 @@ Halt in offensive against LTTE aimed at allowing civilians to escape to safety.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/04/200941281548105265.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

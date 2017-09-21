@@ -8,6 +8,7 @@ China sends 2,500 soldiers to boost rescue efforts in Yunnan province, after an 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-28635027#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76720000/jpg/_76720092_76719036.jpg)
 
 ### Related:
 

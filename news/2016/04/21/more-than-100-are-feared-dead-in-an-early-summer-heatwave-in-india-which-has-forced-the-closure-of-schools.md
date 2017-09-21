@@ -8,6 +8,7 @@ More than 100 people are feared dead in India in an early-summer heat wave which
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-india-heatwave-idUSKCN0XI0R8)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160421&t=2&i=1133840099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3K0FC)
 
 ### Related:
 

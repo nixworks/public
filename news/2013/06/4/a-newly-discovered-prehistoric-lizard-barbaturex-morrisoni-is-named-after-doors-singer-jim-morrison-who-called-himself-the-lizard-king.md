@@ -8,6 +8,7 @@ A 6ft-long lizard species that roamed South East Asia some 36-40 million years a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22764946)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67962000/jpg/_67962487_lizards_morrisoni.jpg)
 
 ### Related:
 

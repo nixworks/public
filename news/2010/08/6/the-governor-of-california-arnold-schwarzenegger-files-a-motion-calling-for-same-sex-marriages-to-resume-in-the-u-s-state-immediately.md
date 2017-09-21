@@ -8,6 +8,7 @@ California Governor Arnold Schwarzenegger has weighed into the same-sex marriage
 ### Source:
 
 1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/schwarzenegger-backs-samesex-marriage-20100807-11p08.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

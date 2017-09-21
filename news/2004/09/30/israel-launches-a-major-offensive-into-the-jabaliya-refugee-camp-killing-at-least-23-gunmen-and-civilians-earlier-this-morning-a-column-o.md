@@ -1,0 +1,25 @@
+### [2004-09-30](/news/2004/09/30/index.md)
+
+#  Israel launches a major offensive into the Jabaliya refugee camp killing at least 23 gunmen and civilians. Earlier this morning, a column of Israeli tanks moved into the center of the camp, followed by bulldozers. At least three Palestinian civilians have been killed thus far. Homes are being demolished, forcing people to flee. Seventy-two Palestinians are known to have been wounded, some losing limbs. 
+
+
+
+
+### Source:
+
+1. [AP](http://www.kansascity.com/mld/kansascity/news/local/9797477.htm?1c)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3702902.stm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6374094)
+
+### Related:
+
+1. [An Israeli court rules that Israel is not responsible for the death of American activist Rachel Corrie at the hands of an Israeli Army bulldozer in the Gaza Strip in 2003. ](/news/2012/08/28/an-israeli-court-rules-that-israel-is-not-responsible-for-the-death-of-american-activist-rachel-corrie-at-the-hands-of-an-israeli-army-bulld.md) _Context: Israel, bulldozer_
+2. [Israeli authorities use bulldozers to demolish three Palestinian buildings in East Jerusalem. ](/news/2010/07/13/israeli-authorities-use-bulldozers-to-demolish-three-palestinian-buildings-in-east-jerusalem.md) _Context: Israel, bulldozer_
+3. [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md) _Context: Israel, bulldozer_
+4. [ An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family. ](/news/2009/01/1/an-israeli-airstrike-on-the-gaza-strip-city-of-jabalia-kills-senior-hamas-military-commander-nizar-rayan-and-six-members-of-his-family.md) _Context: Israel, Jabalia_
+5. [ Three Palestinian children are killed in an explosion between Beit Lahiya and the Jabalya refugee camp in the Gaza Strip caused by Israeli tank fire. The Israeli Defence Forces later claim they were aiming for rocket launchers in the area directed towards Israel, but eyewitnesses and medical sources said that there were no gunmen or rocket launchers at the scene. ](/news/2007/08/29/three-palestinian-children-are-killed-in-an-explosion-between-beit-lahiya-and-the-jabalya-refugee-camp-in-the-gaza-strip-caused-by-israeli.md) _Context: Israel, tank_
+6. [ Arab-Israeli Conflict: The Lebanese Militant group, Hezbollah, has flown a reconnaissance drone over Israeli territory for the first time. ](/news/2004/11/6/arab-israeli-conflict-the-lebanese-militant-group-hezbollah-has-flown-a-reconnaissance-drone-over-israeli-territory-for-the-first-time.md) _Context: Arab-Israeli conflict, Israel_
+7. [ Israeli-Palestinian Conflict: Israel Defense Forces troops enter the southern Gaza Strip refugee camp of Rafah with ten tanks and three bulldozers. ](/news/2004/10/17/israeli-palestinian-conflict-israel-defense-forces-troops-enter-the-southern-gaza-strip-refugee-camp-of-rafah-with-ten-tanks-and-three-bul.md) _Context: bulldozer, tank_
+8. [ Israeli Prime Minister Ariel Sharon accepts an Israeli Defence Force plan to begin withdrawing troops from Jabalia, Beit Lahiya, and Beit Hanoun in the northern Gaza Strip this weekend. [http://www.haaretz.com/hasen/spages/489056.html (Haaretz)] About 100,000 Israelis in 100 cities march in a series of demonstrations across Israel opposing their government's proposal to withdraw Israeli settlers from the Gaza Strip and parts of the West Bank.](/news/2004/10/14/israeli-prime-minister-ariel-sharon-accepts-an-israeli-defence-force-plan-to-begin-withdrawing-troops-from-jabalia-beit-lahiya-and-beit-h.md) _Context: Israel, Jabalia_
+9. [ Israeli-Palestinian conflict: Israel kills senior Hamas official, Ismail Abu Shanab, by a missile strike in the Gaza Strip and sent tanks into the West Bank towns of Nablus, Jenin and Tulkarem in response to a deadly suicide bombing of a bus in Jerusalem. In Hebron, troops destroy the terrorist bomber's home. Hamas and Islamic Jihad end their participation in the cease fire (in response to Israel's action from the two groups' bombing), declaring themselves as enemies to the peace plan, and vow further terrorist acts. The militants demand that Palestinian prime minister, Mahmoud Abbas, leave their area of control.](/news/2003/08/21/israeli-palestinian-conflict-israel-kills-senior-hamas-official-ismail-abu-shanab-by-a-missile-strike-in-the-gaza-strip-and-sent-tanks-i.md) _Context: Israel, tank_
+10. [Israel ground troops invade the West Bank and Gaza Strip in her largest offensive since the 1982 invasion of Lebanon. Dozens of tanks occupy Ramallah. Thirty-seven total dead so far, Israeli and Palestinian.](/news/2002/03/12/israel-ground-troops-invade-the-west-bank-and-gaza-strip-in-her-largest-offensive-since-the-1982-invasion-of-lebanon-dozens-of-tanks-occupy.md) _Context: Israel, tank_

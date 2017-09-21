@@ -8,6 +8,7 @@ The remains of Jane Deasy have been positively identified among the bodies recov
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0701/airfrance.html)
+1. [Cover Image](https://img.rasset.ie/00025b19-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man high on PCP-laced marijuana stabbed two neighborhood children in their hom
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/nj-man-arrested-deadly-attack-sleeping-kids-161411123.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

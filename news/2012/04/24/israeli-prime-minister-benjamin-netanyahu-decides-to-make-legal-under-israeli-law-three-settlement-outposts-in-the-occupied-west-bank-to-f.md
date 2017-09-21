@@ -9,6 +9,7 @@ Israel decides to make legal under Israeli law three settlement outposts in the 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242484751503415.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17824007)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

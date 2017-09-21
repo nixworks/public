@@ -1,0 +1,25 @@
+### [2004-09-18](/news/2004/09/18/index.md)
+
+#  Nader ballot access disputes: The Florida Supreme Court orders that Reform Party candidate Ralph Nader be included on the ballot in Florida for the upcoming U.S. presidential election. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/3667874.stm)
+2. [CNN](http://edition.cnn.com/2004/ALLPOLITICS/09/18/presidential.polls.nader/)
+3. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=6270086)
+
+### Related:
+
+1. [ Two days before the 2004 United States presidential elections, President George W. Bush and challenger John Kerry tour the swing states of Ohio, New Hampshire and Florida. ](/news/2004/10/31/two-days-before-the-2004-united-states-presidential-elections-president-george-w-bush-and-challenger-john-kerry-tour-the-swing-states-of.md) _Context: 2004 U.S. presidential candidate, Florida_
+2. [ U.S. presidential election: The BBC reports that it has obtained a document from George W. Bush's Florida campaign headquarters containing a list of 1,886 names and addresses of voters in largely African-American and Democratic areas of Jacksonville, Florida. Democratic Party officials allege that the document is a "caging list" that the Bush campaign intends to use to issue mass challenges to African-American voters, in violation of federal law. ](/news/2004/10/27/u-s-presidential-election-the-bbc-reports-that-it-has-obtained-a-document-from-george-w-bush-s-florida-campaign-headquarters-containing.md) _Context: 2004 U.S. presidential candidate, Florida_
+3. [ Early voting begins in Florida and ten other US states for the 2004 U.S. presidential election, which officially takes place November 2. ](/news/2004/10/18/early-voting-begins-in-florida-and-ten-other-us-states-for-the-2004-u-s-presidential-election-which-officially-takes-place-november-2.md) _Context: 2004 U.S. presidential candidate, Florida_
+4. [ U.S. presidential election : An advertisement for John Kerry placed in a newspaper in Gulfport, Florida by a local Democratic Party club gets negative national publicity, as it suggests shooting United States Secretary of Defense Donald Rumsfeld. The ad was placed by the Saint Petersburg Democratic Club of Florida, and has been condemned by both Republicans and Democrats, including Kerry's campaign. ](/news/2004/04/14/u-s-presidential-election-an-advertisement-for-john-kerry-placed-in-a-newspaper-in-gulfport-florida-by-a-local-democratic-party-club-ge.md) _Context: 2004 U.S. presidential candidate, Florida_
+5. [ U.S. presidential election, 2004: Senator Bob Graham of Florida announces his candidacy for the Democratic Party nomination of President.](/news/2003/02/27/u-s-presidential-election-2004-senator-bob-graham-of-florida-announces-his-candidacy-for-the-democratic-party-nomination-of-president.md) _Context: 2004 U.S. presidential candidate, Florida_
+6. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km/h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md) _Context: Florida_
+7. [Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. ](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.md) _Context: Florida_
+8. [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md) _Context: Florida_
+9. [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md) _Context: Florida_
+10. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: Florida_

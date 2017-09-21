@@ -8,6 +8,7 @@ Pakistani Taliban militants announced on Tuesday an indefinite ceasefire in the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE51M42O20090224)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090224&t=2&i=8392066&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-24T213110Z_01_BTRE51M1P5I00_RTROPTP_0_PAKISTAN-SWAT)
 
 ### Related:
 

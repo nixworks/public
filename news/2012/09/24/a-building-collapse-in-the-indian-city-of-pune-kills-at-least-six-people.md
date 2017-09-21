@@ -8,6 +8,7 @@ At least six people are killed after a building collapses in Pune city in the we
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-19698426)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

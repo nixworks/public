@@ -10,6 +10,7 @@ RUPERT MURDOCH has thrown his financial weight behind the Republican party, dona
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11014504)
 2. [Channel 4](http://www.channel4.com/news/articles/politics/rupert+murdoch+donates+1m+to+the+republicans/3747077)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0818/1224277072265.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The by-election is being contested by Singapore Democratic Party chief Dr Chee S
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/singapore/in-pictures-polls-open/2764394.html)
 2. [The Straits Times](http://www.straitstimes.com/politics/voting-kicks-off-for-bukit-batok-by-election)
+2. [Cover Image](http://www.channelnewsasia.com/image/2764408/1462590167000/large16x9/640/360/polling-day-2.jpg)
 
 ### Related:
 

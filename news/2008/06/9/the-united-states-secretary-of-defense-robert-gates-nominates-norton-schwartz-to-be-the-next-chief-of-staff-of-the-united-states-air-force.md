@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTT](http://www.rttnews.com/Content/PoliticalNews.aspx?Node=B1&Id=626387)
+1. [Cover Image](http://www.rttnews.com/images/RTTNews_Small_Logo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An explosive, fast-moving wildfire in California&#039;s Sierra Nevada mountains 
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-09-13/california-wildfire-destroys-homes/6771338)
+1. [Cover Image](http://www.abc.net.au/news/image/6771336-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2011-09-20/himalayan-quake-ground-zero/2907444/?site=melbourne)
+1. [Cover Image](http://www.abc.net.au/news/image/2907456-1x1-700x700.jpg)
 
 ### Related:
 

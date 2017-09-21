@@ -15,6 +15,7 @@ His gamble paid off, and now Erdogan is in a position to cement his presidential
 6. [Reuters](http://www.reuters.com/article/2015/11/01/us-turkey-election-davutoglu-speech-idUSKCN0SQ2GH20151101)
 7. [Wall Street Journal](http://www.wsj.com/articles/angry-kurds-police-clash-as-vote-bolsters-turkish-president-1446427280)
 8. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkey-votes-in-election-viewed-as-referendum-on-erdogan/2015/11/01/81cc0ab8-8005-11e5-b575-d8dcfedb4ea1_story.html)
+8. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BCA5/production/_86439284_86439280.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Ugandan soldier kills seven people, including three children, in a shooting sp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-36553127)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CCCE/production/_90003425_gettyimages-107717139.jpg)
 
 ### Related:
 

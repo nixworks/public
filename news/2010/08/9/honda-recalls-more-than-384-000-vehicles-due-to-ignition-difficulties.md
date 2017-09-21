@@ -12,6 +12,7 @@ Japanese car maker Honda is recalling more than 384,000 vehicles in the US becau
 3. [Los Angeles Times](http://latimesblogs.latimes.com/money_co/2010/08/honda-recall-accord-.html)
 4. [The Age](http://www.theage.com.au/business/world-business/honda-recalls-almost-400000-cars-20100810-11uh5.html)
 5. [The Times of India](http://timesofindia.indiatimes.com/business/international-business/Honda-Motor-Co-recalling-nearly-400K-vehicles-/articleshow/6283808.cms)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ JERUSALEM (AP) — Syria fired missiles at Israeli warplanes on a mission to des
 
 1. [AP](http://bigstory.ap.org/article/b0005340c957486e88144994668c34d8/syrian-missiles-fired-israeli-jets-struck-syria)
 2. [CNN](http://www.cnn.com/2017/03/17/middleeast/israel-jets-syria-strikes/index.html)
+2. [Cover Image](http://binaryapi.ap.org/d5d9012b70014f9fa8a6dbaf5ad7c03b/460x.jpg)
 
 ### Related:
 

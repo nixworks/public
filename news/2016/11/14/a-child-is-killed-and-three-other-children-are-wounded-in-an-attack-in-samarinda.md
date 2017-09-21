@@ -8,6 +8,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### Source:
 
 1. [ABC](http://abcnews.go.com/International/wireStory/explosion-church-wounds-central-indonesia-43501268)
+1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

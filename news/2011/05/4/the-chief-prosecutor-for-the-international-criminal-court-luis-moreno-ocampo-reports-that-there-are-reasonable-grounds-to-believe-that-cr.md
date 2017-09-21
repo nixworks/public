@@ -10,6 +10,7 @@ The chief prosecutor for the International Criminal Court said in a report Wedne
 1. [CNN](http://www.cnn.com/2011/WORLD/africa/05/04/libya.war/index.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8493132/Muammar-Gaddafi-facing-war-crimes-arrest-warrant.html)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8493150/Libya-aid-ship-cuts-short-mission-in-Misurata-after-coming-under-fire.html)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/05/04/libya.war/tzvids.libya.rebels.gi.jpg)
 
 ### Related:
 

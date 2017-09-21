@@ -8,6 +8,7 @@ One person dies and four others are injured in a clashes between Papua New Guine
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-11-27/clash-between-png-police-and-military-leaves-one-dead/6981252)
+1. [Cover Image](http://www.abc.net.au/news/image/6982248-1x1-700x700.jpg)
 
 ### Related:
 

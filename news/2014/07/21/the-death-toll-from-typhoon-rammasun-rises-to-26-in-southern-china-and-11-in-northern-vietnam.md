@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/world/typhoon-rammasun-kills-26-in-china-11-in-vietnam-1.1923398)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1924337.1405970331!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

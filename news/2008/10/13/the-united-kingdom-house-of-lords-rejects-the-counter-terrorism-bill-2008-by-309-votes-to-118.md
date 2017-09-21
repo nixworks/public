@@ -8,6 +8,7 @@ The House of Lords firmly rejected a government proposal to tighten anti-terrori
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/topNews/idUKTRE49C6LH20081013)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081013&t=2&i=6362667&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-10-13T181852Z_01_BTRE49C1EVM00_RTROPTP_0_UK-BRITAIN-DETENTION-BLOCK)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The only Guantanamo detainee tried in a US civilian court is given a life senten
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/201112519256810938.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12279533)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/12/20101012234450712360_20.jpg)
 
 ### Related:
 

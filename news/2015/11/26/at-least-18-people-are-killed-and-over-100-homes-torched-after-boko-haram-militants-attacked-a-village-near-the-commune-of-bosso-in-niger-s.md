@@ -8,6 +8,7 @@ Eighteen people were killed and 100 homes torched in an attack in the dead of ni
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/18-killed-boko-haram-attack-southeast-niger-134025219.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/yuhBGqIvGzdUgTYahM5GPw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8181138-1-1-0.jpg)
 
 ### Related:
 

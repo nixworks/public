@@ -8,6 +8,7 @@ Mourners trickled into a palatial chapel in the heart of Mexican drug traffickin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE5BJ1JW20091220)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

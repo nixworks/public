@@ -9,6 +9,7 @@
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1306277/Victims-Mexican-drug-cartel-shot-dead-refusing-pay-ransoms-survivor-claims.html?ito=feeds-newsxml)
 2. [Reuters](http://www.reuters.com/article/idUSTRE67O2NF20100826)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100826&t=2&i=189312941&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-26T023934Z_01_BTRE67P07E100_RTROPTP_0_MEXICO-DRUGS)
 
 ### Related:
 

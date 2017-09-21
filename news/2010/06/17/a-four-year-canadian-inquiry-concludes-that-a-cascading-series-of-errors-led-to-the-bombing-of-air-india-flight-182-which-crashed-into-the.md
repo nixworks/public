@@ -9,6 +9,7 @@ A &quot;cascading series of errors&quot; led to the 1985 bombing of an Air India
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010617155851683807.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10344125.stm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

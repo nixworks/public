@@ -8,3 +8,4 @@ Singer Annie Lennox is recognised in the New Year Honours, along with actors Dav
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12090365)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

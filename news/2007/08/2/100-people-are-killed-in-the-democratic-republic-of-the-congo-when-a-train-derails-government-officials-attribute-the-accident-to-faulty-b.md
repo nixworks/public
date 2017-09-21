@@ -8,6 +8,7 @@ About 100 people are dead after an overnight train accident in central Congo, go
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2007/08/02/congo-accident.html?ref=rss)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

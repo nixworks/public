@@ -8,6 +8,7 @@ Paris says its foreign policy will not be dictated by others after al-Qaeda dema
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/20101119142820209359.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/19/2010111915120507140_20.jpg)
 
 ### Related:
 

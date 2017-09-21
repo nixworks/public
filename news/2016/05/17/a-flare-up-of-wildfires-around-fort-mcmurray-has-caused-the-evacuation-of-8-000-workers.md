@@ -8,6 +8,7 @@ A massive wildfire around the oil sands hub of Fort McMurray, Canada forces the 
 ### Source:
 
 1. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2016-05-18/canadian-wildfire-shifts-north-focring-evacuation-of-8000-more/7423674)
+1. [Cover Image](http://www.abc.net.au/news/image/7424096-1x1-700x700.jpg)
 
 ### Related:
 

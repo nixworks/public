@@ -8,6 +8,7 @@ Katie Hopkins is to leave LBC with immediate effect, the radio station has confi
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/arts-entertainment/tv/news/kate-hopkins-lbc-radio-sacked-fired-manchester-attack-final-solution-daily-mail-muslims-racism-a7756776.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/26/10/gettyimages-489944884.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via R7 News](http://noticias.r7.com/economia/noticias/dilma-diz-que-aumento-da-gasolina-e-compensado-pela-conta-de-luz-mais-barata-20130205.html)
+1. [Cover Image](http://sc.r7.com/social-media/r7/r7/logo-opg.gif)
 
 ### Related:
 

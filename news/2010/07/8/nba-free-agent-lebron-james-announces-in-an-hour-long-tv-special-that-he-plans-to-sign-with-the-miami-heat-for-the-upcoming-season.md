@@ -9,6 +9,7 @@ NBA superstar LeBron James has announced he will play for Miami Heat next season
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/07/09/2949168.htm?site=sport&section=basketball)
 2. [USA Today](http://content.usatoday.com/communities/technologylive/post/2010/07/d-day-for-lebron-james-is-today/1)
+2. [Cover Image](http://www.abc.net.au/news/image/432394-1x1-700x700.jpg)
 
 ### Related:
 

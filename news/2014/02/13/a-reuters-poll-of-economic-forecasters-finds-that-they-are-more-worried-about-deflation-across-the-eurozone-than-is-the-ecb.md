@@ -8,6 +8,7 @@ The threat of deflation across the euro zone is more serious than the European C
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/13/us-economy-eurozone-poll-idUSBREA1C1DT20140213)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140213&t=2&i=838091052&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1C1APN00)
 
 ### Related:
 

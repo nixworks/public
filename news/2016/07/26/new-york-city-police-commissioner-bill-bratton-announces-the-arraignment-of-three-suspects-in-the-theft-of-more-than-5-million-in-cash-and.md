@@ -8,3 +8,4 @@ Three suspected burglars who stole millions of dollars from two New York banks w
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-new-york-burglary-idUSKCN1062HQ)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

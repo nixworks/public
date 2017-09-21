@@ -8,6 +8,7 @@ More than 60 people have died in Gujarat due to floods caused by incessant rains
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/india-news/more-than-60-died-in-gujarat-due-to-heavy-rains/article1-1362733.aspx)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2015/06/24/Incoming/Pictures/1362422_Wallpaper2.jpg)
 
 ### Related:
 

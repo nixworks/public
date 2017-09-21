@@ -9,6 +9,7 @@ The Islamic State&#039;s Sinai &quot;province&quot; used this banner to advertis
 
 1. [ARAnews](http://aranews.net/2015/11/egypt-police-kill-leading-isis-militant-in-cairo/)
 2. [The Long War Journal](http://www.longwarjournal.org/archives/2015/11/islamic-state-sinai-province-commander-killed-in-cairo-egyptian-government-says.php)
+2. [Cover Image](http://www.longwarjournal.org/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png)
 
 ### Related:
 

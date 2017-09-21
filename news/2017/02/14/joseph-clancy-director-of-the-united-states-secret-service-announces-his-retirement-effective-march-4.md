@@ -8,6 +8,7 @@ Clancy retires two years after returning to right the then-troubled agency
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/politics/2017/02/14/secret-service-director-joseph-clancy-leaving-agency/97893974/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

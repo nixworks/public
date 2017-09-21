@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE5990VM20091011)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091011&t=2&i=11907194&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-11T093830Z_01_BTRE59A0QS900_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

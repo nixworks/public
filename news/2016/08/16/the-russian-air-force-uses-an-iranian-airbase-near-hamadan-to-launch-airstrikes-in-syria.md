@@ -8,6 +8,7 @@ Russia says it has used a base in Iran to carry out air strikes in Syria, the fi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37093854)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E8A8/production/_90806595_mediaitem90806594.jpg)
 
 ### Related:
 

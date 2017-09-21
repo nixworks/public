@@ -8,6 +8,7 @@ Low-lying areas in the Hawaiian islands have been evacuated following a 7.7-eart
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/british-columbia/story/2012/10/27/bc-quake-reported.html)
+1. [Cover Image](https://i.cbc.ca/1.1496564.1380782927!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-bc-tsunami-hawaii2-ap.jpg)
 
 ### Related:
 

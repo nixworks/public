@@ -8,6 +8,7 @@ Water accumulated inside astronaut Luca Parmitano&rsquo;s helmet this morning du
 ### Source:
 
 1. [ABC News America](http://abcnews.go.com/Technology/spacewalk-aborted-water-leak-found-astronaut-helmet/story?id=19678504)
+1. [Cover Image](http://a.abcnews.com/images/Technology/HT_spacewalk_nasa_jef_130716_16x9_992.jpg)
 
 ### Related:
 

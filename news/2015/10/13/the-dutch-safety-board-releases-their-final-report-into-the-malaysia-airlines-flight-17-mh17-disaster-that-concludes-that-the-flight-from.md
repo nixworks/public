@@ -11,6 +11,7 @@ Dutch safety team&#39;s final report into the downed Malaysian airliner will not
 2. [Al Jazeera](http://www.aljazeera.com/indepth/features/2015/10/mh17-report-answer-questions-151012064226695.html)
 3. [BBC](http://www.bbc.com/news/world-europe-34511973)
 4. [Sky News](http://www.skynews.com.au/news/top-stories/2015/10/13/flight-mh17--investigators-to-publish-report.html)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/10/12/4a3020f15d884e8083e948d9a618d0d1_18.jpg)
 
 ### Related:
 

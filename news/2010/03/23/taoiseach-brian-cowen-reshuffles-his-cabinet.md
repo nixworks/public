@@ -19,6 +19,7 @@ The Taoiseach has promoted two TDs to senior positions and moved four ministers 
 10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0323/breaking67.html)
 11. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0323/breaking88.html)
 12. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5gwXfEFWDNBJ2il5dYesyTGg40YTA)
+12. [Cover Image](https://img.rasset.ie/0003209f-1600.jpg)
 
 ### Related:
 

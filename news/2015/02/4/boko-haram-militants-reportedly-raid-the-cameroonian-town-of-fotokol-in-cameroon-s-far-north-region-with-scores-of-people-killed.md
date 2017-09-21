@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-africa-31132068)
 2. [CNN](http://edition.cnn.com/2015/02/04/world/boko-haram-attack/index.html)
 3. [Voice of America](http://www.voanews.com/content/chad-says-forces-kill-200-boko-haram-in-nigeria/2628311.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80780000/jpg/_80780859_80779062.jpg)
 
 ### Related:
 

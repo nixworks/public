@@ -8,6 +8,7 @@ A firefighting helicopter crashed Thursday near an apartment complex and school 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/07/17/firefighting-helicopter-crashes-in-south-korea-killing-5/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/07/17/firefighting-helicopter-crashes-in-south-korea-killing-5/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449132951368.jpg?ve=1)
 
 ### Related:
 

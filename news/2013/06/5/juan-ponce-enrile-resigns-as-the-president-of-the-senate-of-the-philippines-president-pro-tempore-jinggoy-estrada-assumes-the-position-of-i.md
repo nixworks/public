@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/30685-enrile-resigns-senate-presidency)
+1. [Cover Image](http://static.rappler.com/images/1_DSC2984.jpg)
 
 ### Related:
 

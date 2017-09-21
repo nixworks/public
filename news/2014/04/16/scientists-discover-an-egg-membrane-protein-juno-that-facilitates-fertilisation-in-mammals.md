@@ -8,3 +8,4 @@ The moment of first contact between an egg and a sperm is controlled by a key mo
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/science/the-moment-of-conception-scientists-isolate-protein-that-governs-first-contact-between-egg-and-sperm-9265346.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/04/16/17/web-sperm-rex.jpg)

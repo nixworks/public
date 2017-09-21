@@ -8,6 +8,7 @@ A ferry boat has capsized in Myanmar&#39;s Ayeyarwaddy delta, killing 20 people 
 ### Source:
 
 1. [AP via ''The Telegraph](http://www.telegraph.co.uk/news/2017/04/08/ferry-capsizes-myanmar-killing-20-dozen-missing/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/04/08/85358505-9058-44cf-b39b-93e9449d95d5-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwdCbWRXIg48_r3bhCwNyiro.jpeg)
 
 ### Related:
 

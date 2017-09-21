@@ -8,6 +8,7 @@ Testing on beansprouts grown at a Lower Saxony farm is still proving to be incon
 ### Source:
 
 1. [Euronews](http://www.youtube.com/watch?v=ojG5UEMLbTE)
+1. [Cover Image](https://i.ytimg.com/vi/ojG5UEMLbTE/hqdefault.jpg)
 
 ### Related:
 

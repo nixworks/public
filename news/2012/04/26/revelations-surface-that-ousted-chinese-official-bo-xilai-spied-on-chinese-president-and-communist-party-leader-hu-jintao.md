@@ -8,6 +8,7 @@ Bo Xilai was toppled amid accusations that his wife arranged the killing of a Br
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/04/26/world/asia/bo-xilai-said-to-have-spied-on-top-china-officials.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/04/26/world/JP-CHINA-1/JP-CHINA-1-superJumbo.jpg)
 
 ### Related:
 

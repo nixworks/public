@@ -9,6 +9,7 @@ A fire and riot broke out Thursday at a prison in northern Mexico, killing at le
 
 1. [CNN](http://edition.cnn.com/2016/02/11/americas/mexico-monterrey-topo-chico-prison-riot/)
 2. [FOX News](http://www.foxnews.com/world/2016/02/11/fire-breaks-out-at-northern-mexico-prison-deaths-reported.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

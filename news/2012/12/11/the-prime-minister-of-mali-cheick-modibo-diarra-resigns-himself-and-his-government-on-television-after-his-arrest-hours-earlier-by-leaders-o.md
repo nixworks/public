@@ -10,6 +10,7 @@ Mali&#039;s prime minister Cheick Modibo Diarra has resigned hours after he was 
 1. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/mali/9736266/Mali-PM-Cheick-Modibo-Diarra-arrested-by-soldiers.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20674573)
 3. [Reuters](http://www.reuters.com/article/2012/12/11/us-mali-primeminister-idUSBRE8BA03V20121211)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02196/Mali-PM-Diarra_2196277k.jpg)
 
 ### Related:
 

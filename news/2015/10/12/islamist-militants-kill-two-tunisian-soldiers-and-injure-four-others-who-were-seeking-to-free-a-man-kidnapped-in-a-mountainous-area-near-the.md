@@ -9,6 +9,7 @@ Islamists militants killed two Tunisian soldiers who were seeking to free a man 
 
 1. [Azeri-Press Agency](http://en.apa.az/xeber_2_tunisian_soldiers_killed_in_armed_conf_233352.html)
 2. [Reuters](http://www.reuters.com/article/2015/10/12/us-tunisia-security-idUSKCN0S621420151012)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

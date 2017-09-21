@@ -8,6 +8,7 @@ Three men were found shot dead in a car in the mountains of Corsica on Tuesday, 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/9536224/Three-people-found-shot-dead-in-car-in-Corsica.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02336/Corsica_2336428k.jpg)
 
 ### Related:
 

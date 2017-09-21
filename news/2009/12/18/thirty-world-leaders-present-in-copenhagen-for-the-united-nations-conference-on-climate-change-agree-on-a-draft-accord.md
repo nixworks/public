@@ -11,6 +11,7 @@ Leaders and ministers from 28 countries including Australia have outlined a draf
 2. [Associated Press "China, India, South Africa vital for climate deal"](http://www.google.com/hostednews/ap/article/ALeqM5jonTQv-XfLSb-A_U63qtXofmqt2gD9COVQ700)
 3. [Forbes.com "Silver Lining In Copenhagen 'Fiasco'"](http://www.forbes.com/2009/12/22/copenhagen-climate-summit-fiasco-business-oxford-analytica.html)
 4. [The Sydney Morning Herald](http://www.smh.com.au/environment/climate-change/climate-draft-accord-agreed-20091218-l1jo.html)
+4. [Cover Image](http://www.smh.com.au/content/dam/images/l/1/9/1/image.related.thumbnail.320x214.l1jo.png/1261110725263.jpg)
 
 ### Related:
 

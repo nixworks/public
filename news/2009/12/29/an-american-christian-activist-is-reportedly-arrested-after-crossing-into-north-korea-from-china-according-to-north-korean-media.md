@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8433267.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE5BS02E20091229)
 3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/29/77/0401000000AEN20091229002900315F.HTML)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091229&t=2&i=38337211&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-29T220936Z_01_BTRE5BS08VX00_RTROPTP_0_KOREA-NORTH-CROSSING)
 
 ### Related:
 

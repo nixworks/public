@@ -8,6 +8,7 @@ Trading software may have overreacted to tweets about the French president’s c
 ### Source:
 
 1. [MIT Technology Review](https://www.technologyreview.com/s/602586/algorithms-probably-caused-a-flash-crash-of-the-british-pound/)
+1. [Cover Image](https://d267cvn3rvuq91.cloudfront.net/i/images/brexit_0.jpg?cx=0&cy=69&cw=1400&ch=787&sw=1200)
 
 ### Related:
 

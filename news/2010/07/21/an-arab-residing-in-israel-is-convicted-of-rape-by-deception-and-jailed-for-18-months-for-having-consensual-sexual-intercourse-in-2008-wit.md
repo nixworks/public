@@ -9,6 +9,7 @@ Man sentenced to 18 months in prison after telling an Israeli woman he was Jewis
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/201072191017847251.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/21/arab-guilty-rape-consensual-sex-jew)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -10,6 +10,7 @@ According to a newly released study, high concentrations of arsenic have been fo
 1. [News-medical.net](http://www.news-medical.net/?id=11945)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-22T142632Z_01_L21710269_RTRIDST_0_ODD-BRITAIN-GEORGE-DC.XML)
 3. [Scotsman](http://heritage.scotsman.com/news.cfm?id=1666932005)
+3. [Cover Image](http://www.news-medical.net/images/news-medical-logo-square-4.png)
 
 ### Related:
 

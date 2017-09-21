@@ -8,6 +8,7 @@ The Zoo announced on August 26 that the smaller of its newborn twin panda cubs h
 ### Source:
 
 1. [The Smithsonian Magazine](http://www.smithsonianmag.com/smithsonian-institution/one-panda-cub-has-died-180956417/?no-ist)
+1. [Cover Image](https://thumbs-media.smithsonianmag.com/filer/08/67/08672068-40cb-41cb-a1d7-d3a7fa4fc0d0/2019128559384195855e7kweb.jpg__1072x720_q85_crop.jpg)
 
 ### Related:
 

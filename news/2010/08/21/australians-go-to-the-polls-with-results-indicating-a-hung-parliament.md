@@ -11,6 +11,7 @@ First female PM fighting to keep power amid strong challenge from conservative c
 2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201082020384538801.html)
 3. [The Sunday Times WA](http://www.perthnow.com.au/news/liberal-ken-wyatt-takes-place-in-history-as-first-indigenous-mp/story-e6frg12c-1225908307066)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/australians-vote-in-cliffhanger-election-20100821-139eq.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

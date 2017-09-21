@@ -8,6 +8,7 @@ Biologists have described a new, extremely rare species of dwarf lemur that inha
 ### Source:
 
 1. [Sci-News.com](http://www.sci-news.com/biology/science-lavasoa-dwarf-lemur-new-lemur-species-madagascar-01266.html)
+1. [Cover Image](http://cdn.sci-news.com/images/2013/07/image_1266_3-Lavasoa-lemur.jpg)
 
 ### Related:
 

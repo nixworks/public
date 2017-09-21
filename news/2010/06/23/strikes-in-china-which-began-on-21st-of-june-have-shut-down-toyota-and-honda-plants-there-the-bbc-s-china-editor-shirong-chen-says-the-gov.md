@@ -8,3 +8,4 @@ Strikes have halted work at two Japanese-owned car assembly factories in China -
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10389762.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

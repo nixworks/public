@@ -8,6 +8,7 @@ Islamic extremists ISIL, who were reported on Sunday to have mined the ancient c
 ### Source:
 
 1. [euronews](http://www.euronews.com/2015/06/23/isil-claims-destruction-of-palmyra-has-begun/)
+1. [Cover Image](http://static.euronews.com/articles/308630/1000x563_308630.jpg)
 
 ### Related:
 

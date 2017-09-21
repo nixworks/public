@@ -9,6 +9,7 @@ The Age 404 Page
 
 1. [NZ Herald](http://www.nzherald.co.nz/index.cfm?c_id=1&ObjectID=10338707)
 2. [The Age](http://www.theage.com.au/articles/2005/08/01/1122748572210.html)
+2. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

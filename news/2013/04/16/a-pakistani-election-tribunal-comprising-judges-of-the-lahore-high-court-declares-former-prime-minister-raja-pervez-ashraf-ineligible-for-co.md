@@ -8,6 +8,7 @@ The tribunal comprising judges of the Lahore High Court upheld a Returning Offic
 ### Source:
 
 1. [PTI via FirstPost](http://www.firstpost.com/world/former-pak-pm-ashraf-declared-ineligible-for-contesting-polls-701794.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2013/04/RajaAshrafPTI380.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Residents emerged from their homes in a flood-stricken north Texas town on Monda
 
 1. [AP via ''The New York Times](http://www.nytimes.com/2007/06/19/us/19texas.html?ex=1339905600&en=330840b6acaa8362&ei=5088&partner=rssnyt&emc=rss)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSN1839257920070618?feedType=RSS)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070618&t=2&i=977892&w=&fh=545px&fw=&ll=&pl=&sq=&r=977892)
 
 ### Related:
 

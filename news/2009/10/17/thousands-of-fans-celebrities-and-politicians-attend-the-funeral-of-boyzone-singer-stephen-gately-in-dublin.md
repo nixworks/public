@@ -10,6 +10,7 @@ The funeral of Boyzone singer Stephen Gately has taken place.
 1. [ABC News](http://www.timesonline.co.uk/tol/news/world/ireland/article6878988.ece)
 2. [RTÉ](http://www.rte.ie/news/2009/1017/gatelys.html)
 3. [The Guardian](http://www.guardian.co.uk/music/2009/oct/17/stephen-gately-funeral-dublin-boyzone)
+3. [Cover Image](https://img.rasset.ie/0002ae6d-1600.jpg)
 
 ### Related:
 

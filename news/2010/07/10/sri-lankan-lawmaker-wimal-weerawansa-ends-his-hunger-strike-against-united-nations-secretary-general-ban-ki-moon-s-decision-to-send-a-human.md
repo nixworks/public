@@ -10,6 +10,7 @@ A Sri Lankan cabinet minister, on a hunger strike demanding scraping of a U.N. a
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jOTmB1auNe6cMPZgvwSQfQFNPeZA)
 2. [The Hindu](http://www.thehindu.com/news/international/article509641.ece)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/10/c_13393707.htm)
+3. [Cover Image](http://www.thehindu.com/migration_catalog/article16166766.ece/ALTERNATES/LANDSCAPE_615/TH11-SRI_LANKA_UN_PROTEST_)
 
 ### Related:
 

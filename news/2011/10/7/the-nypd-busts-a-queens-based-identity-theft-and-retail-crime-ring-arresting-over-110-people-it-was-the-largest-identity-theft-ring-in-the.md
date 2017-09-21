@@ -9,6 +9,7 @@ Police said on Friday they eavesdropped on thieves speaking Russian, Mandarin an
 
 1. [New York Daily News](http://www.nydailynews.com/news/ny_crime/2011/10/07/2011-10-07_largest_identity_theft_ring_in_us_history_busted_in_queens_111_indicted_in_13_mi.html)
 2. [Reuters](http://www.reuters.com/article/2011/10/07/us-crime-idtheft-idUSTRE7965TS20111007)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

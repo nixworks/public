@@ -8,6 +8,7 @@ Israel has again sealed off the Gaza Strip in response to rocket fire, one day a
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/11/25/2429473.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/206290-1x1-700x700.jpg)
 
 ### Related:
 

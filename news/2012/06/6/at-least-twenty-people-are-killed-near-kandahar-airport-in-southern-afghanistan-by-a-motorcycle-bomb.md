@@ -8,6 +8,7 @@ Afghan officials and villagers said 18 people, including women and children, wer
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/06/06/uk-afghanistan-bombing-idUKBRE85508D20120606)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

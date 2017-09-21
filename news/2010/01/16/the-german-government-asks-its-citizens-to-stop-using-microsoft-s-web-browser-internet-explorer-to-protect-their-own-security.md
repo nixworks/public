@@ -10,6 +10,7 @@ The German government has warned against using Internet Explorer after a securit
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8463516.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/technology/microsoft/7006671/German-government-warns-against-using-Microsoft-Explorer.html)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-technology/german-government-warns-against-ms-explorer-use-20100117-mdp4.html)
+3. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

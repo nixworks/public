@@ -8,6 +8,7 @@ Many people are feared dead after suspected Boko Haram Islamist gunmen attack th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-28374679)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76354000/jpg/_76354009_76354008.jpg)
 
 ### Related:
 

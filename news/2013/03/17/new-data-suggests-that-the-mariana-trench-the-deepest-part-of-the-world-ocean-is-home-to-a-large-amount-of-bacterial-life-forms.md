@@ -8,6 +8,7 @@ Microbes have been found surprisingly thriving in the deepest spot on Earth, the
 ### Source:
 
 1. [LiveScience](http://www.livescience.com/27954-microbes-mariana-trench.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzNy84ODEvb3JpZ2luYWwvb2NlYW4taW5zdHJ1bWVudC5qcGc=)
 
 ### Related:
 

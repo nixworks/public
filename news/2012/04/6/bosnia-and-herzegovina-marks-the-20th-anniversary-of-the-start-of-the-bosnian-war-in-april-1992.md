@@ -8,6 +8,7 @@ BOSNIA HAS marked 20 years since the start of a war that killed some 100,000 peo
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/world/2012/0407/1224314495830.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

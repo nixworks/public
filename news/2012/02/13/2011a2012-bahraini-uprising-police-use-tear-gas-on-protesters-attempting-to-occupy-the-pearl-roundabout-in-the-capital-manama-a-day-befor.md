@@ -8,6 +8,7 @@ Tear gas fired on protesters trying to occupy Pearl Roundabout before one-year a
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/20122131881317628.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/14/20122145134333734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Donald Trump names South Carolina Governor Nikki Haley as US ambassador to the U
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-38076114)
 2. [The Detroit News](http://www.detroitnews.com/story/news/politics/2016/11/23/trump-devos-education/94344918/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/5FB6/production/_92620542_18f43cac-f954-4ea2-b4bf-26e25f2958e1.jpg)
 
 ### Related:
 

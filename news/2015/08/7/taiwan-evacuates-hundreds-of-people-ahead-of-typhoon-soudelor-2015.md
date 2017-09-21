@@ -8,6 +8,7 @@ Taiwan evacuated hundreds of people from their homes on Friday as the strongest 
 ### Source:
 
 1. [Reuters via WA Today](http://www.watoday.com.au/world/taiwan-evacuates-hundreds-as-typhoon-soudelor-churns-towards-island-20150807-giufaj.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/g/i/u/f/9/j/image.related.socialLead.620x349.giufaj.png/1441942388755.jpg)
 
 ### Related:
 

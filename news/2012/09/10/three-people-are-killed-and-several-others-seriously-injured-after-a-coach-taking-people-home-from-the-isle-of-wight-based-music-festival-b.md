@@ -8,6 +8,7 @@ Three people die and others are seriously hurt as a Merseyside-based coach takin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-surrey-18976092)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62813000/jpg/_62813239_a3_helicopter_shot.jpg)
 
 ### Related:
 

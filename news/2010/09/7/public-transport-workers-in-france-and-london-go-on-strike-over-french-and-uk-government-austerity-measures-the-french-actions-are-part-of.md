@@ -9,6 +9,7 @@ More than one million protesters join rallies across France and a national strik
 
 1. [AP via ABC News America](http://abcnews.go.com/Business/wireStory?id=11572151)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11204528)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

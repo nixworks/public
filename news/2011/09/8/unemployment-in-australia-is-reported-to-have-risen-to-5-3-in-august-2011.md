@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/australian-unemployment-rate-climbs-to-53-2011-09-07)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

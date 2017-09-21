@@ -8,6 +8,7 @@ A desperate search was under way last night for at least 15 Sri Lankan asylum se
 ### Source:
 
 1. [The Age](http://www.theage.com.au/national/lost-at-sea-frantic-bid-to-find-asylum-seekers-20091102-htgp.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/h/t/l/6/image.related.thumbnail.320x214.htgp.png/1257192555247.jpg)
 
 ### Related:
 

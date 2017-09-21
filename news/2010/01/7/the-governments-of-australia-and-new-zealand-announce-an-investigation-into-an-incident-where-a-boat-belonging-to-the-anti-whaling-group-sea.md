@@ -8,6 +8,7 @@ Australia joined New Zealand on Thursday in investigating a clash between an ant
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE60509820100107)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100107&t=2&i=42144330&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-07T120110Z_01_BTRE6060XE200_RTROPTP_0_HALING-AUSTRALIA)
 
 ### Related:
 

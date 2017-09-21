@@ -8,6 +8,7 @@ Toyota Motor Corp (7203.T) has recalled 3.37 million cars worldwide over possibl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-autos-toyota-recall-idUSKCN0ZF0CX)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160629&t=2&i=1143346230&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5S07J)
 
 ### Related:
 

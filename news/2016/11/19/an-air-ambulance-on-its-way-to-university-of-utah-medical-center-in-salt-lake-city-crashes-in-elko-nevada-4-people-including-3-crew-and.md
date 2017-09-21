@@ -8,6 +8,7 @@ Three crew members and a patient were killed when the plane, carrying a heart-di
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/4-killed-crash-air-ambulance-flight-northern-nevada-n686301)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_46/1803026/ap_16324654219019_b661a59d30b1209ad6b7ef6a58bed6ac.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

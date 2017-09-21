@@ -8,6 +8,7 @@ Labour will go it alone to form a government in the Welsh assembly, Carwyn Jones
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-13346303)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52634000/gif/_52634791_vlcsnap-233175.gif)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Miloš Zeman dismisses accusations of Islamophobia amid UN condemnation of count
 2. [Reuters](http://www.reuters.com/article/2015/10/22/us-europe-migrants-czech-un-idUSKCN0SG14W20151022)
 3. [The Guardian](http://www.theguardian.com/world/2015/oct/22/czech-republic-president-rejects-un-claims-refugees-rights-violations-migration)
 4. [Washington Post](https://www.washingtonpost.com/world/europe/the-latest-worried-police-open-slovene-austria-border/2015/10/22/83218f9e-7891-11e5-a5e2-40d6b2ad18dd_story.html)
+4. [Cover Image](https://i.guim.co.uk/img/media/e54ed7997bb5c81e2377d3eab3544734b6c4b9c1/81_271_4712_2828/master/4712.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=aa86345b9608e6befdd14661e173f2d1)
 
 ### Related:
 

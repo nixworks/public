@@ -9,6 +9,7 @@ Myanmar&#39;s new president will continue releasing political prisoners. The lat
 
 1. [Deutsche Welle,](http://www.dw.com/en/myanmars-new-president-htin-kyaw-to-continue-releasing-prisoners/a-19193761)
 2. [Reuters](http://news.trust.org/item/20160417051807-tpd0x)
+2. [Cover Image](http://www.dw.com/image/19151520_304.jpg)
 
 ### Related:
 

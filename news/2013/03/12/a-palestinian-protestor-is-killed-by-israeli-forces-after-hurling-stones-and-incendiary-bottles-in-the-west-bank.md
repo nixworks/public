@@ -9,6 +9,7 @@ Israeli troops shot to death a Palestinian man on Tuesday after he and others hu
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21768293)
 2. [Fox News](http://www.foxnews.com/world/2013/03/12/israeli-troops-shoot-to-death-palestinian-protester-in-west-bank-clashes/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

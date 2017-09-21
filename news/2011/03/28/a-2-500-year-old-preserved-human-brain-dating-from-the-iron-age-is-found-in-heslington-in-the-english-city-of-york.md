@@ -8,6 +8,7 @@ A 2,500-year-old human skull uncovered in England was less of a surprise than wh
 ### Source:
 
 1. [Live Science via Fox News](http://www.foxnews.com/scitech/2011/03/28/2500-year-old-preserved-human-brain-discovered/?test=faces)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2011/03/28/2500-year-old-preserved-human-brain-discovered/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422480855516.jpg?ve=1)
 
 ### Related:
 

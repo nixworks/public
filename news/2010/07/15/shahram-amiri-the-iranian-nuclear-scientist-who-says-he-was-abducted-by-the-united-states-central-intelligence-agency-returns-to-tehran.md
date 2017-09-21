@@ -14,6 +14,7 @@ Shahram Amiri, back in Tehran, vows to reveal details of alleged kidnapping whil
 5. [Press TV](http://www.presstv.ir/detail.aspx?id=134832)
 6. [Press TV](http://www.presstv.ir/detail.aspx?id=134854&sectionid=351020101)
 7. [Sky News](http://news.sky.com/skynews/Home/World-News/Sharam-Amiri-Iranian-Nuclear-Scientist-Who-Claims-He-Was-Kidnapped-By-CIA-In-US-Returns-To-Iran/Article/201007315665577?f=rss#none)
+7. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

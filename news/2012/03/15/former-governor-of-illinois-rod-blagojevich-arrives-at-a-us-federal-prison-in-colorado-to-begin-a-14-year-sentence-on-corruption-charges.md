@@ -8,6 +8,7 @@ Convicted former Illinois Gov. Rod Blagojevich surrendered at a Colorado prison 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/15/us-crime-blagojevich-idUSBRE82E13U20120315)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120315&t=2&i=582978694&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82E1HYE00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A rare intense tropical cyclone is forecast to dump two years of rain on one of 
 ### Source:
 
 1. [Sydney Morning Herald'' via ''WA Today](http://www.watoday.com.au/environment/weather/rare-tropical-cyclone-yemen-oman-expect-eight-years-of-rain-in-two-days-as-chapala-forms-in-arabian-sea-20151030-gkmyjl.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/g/k/m/y/o/7/image.related.articleLeadwide.620x349.gkmyjl.png/1446183923822.png)
 
 ### Related:
 

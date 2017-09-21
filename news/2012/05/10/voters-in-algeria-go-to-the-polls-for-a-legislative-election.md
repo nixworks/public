@@ -8,6 +8,7 @@ Algerian have voted in parliamentary elections billed by the authorities as hist
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18016899)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60138000/jpg/_60138445_014706525-1.jpg)
 
 ### Related:
 

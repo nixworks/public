@@ -15,6 +15,7 @@
 6. [Reuters](http://uk.reuters.com/article/topNews/idUKBKK11029420070927)
 7. [Reuters](http://www.reuters.com/article/asiaCrisis/idUSSP301270)
 8. [Times of India](http://timesofindia.indiatimes.com/World/9_killed_11_injured_as_Myanmar_soldiers_fire_at_protesters/articleshow/2409685.cms)
+8. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070927&t=2&i=1838479&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-27T141108Z_01_BKK110294_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

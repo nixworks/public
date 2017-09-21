@@ -8,6 +8,7 @@ The rock singer has pleaded guilty to offences including two of attempting to ra
 ### Source:
 
 1. [Wales Online](http://www.walesonline.co.uk/news/wales-news/ian-watkins-trial-lostprophets-singer-6343182)
+1. [Cover Image](http://i2.walesonline.co.uk/incoming/article6343692.ece/ALTERNATES/s1200/ian-watkins.jpg)
 
 ### Related:
 

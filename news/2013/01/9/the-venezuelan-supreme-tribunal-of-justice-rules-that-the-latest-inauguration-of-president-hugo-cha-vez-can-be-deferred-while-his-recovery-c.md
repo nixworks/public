@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez remained on his sickbed in Cuba on Thursday whi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/10/us-venezuela-chavez-idUSBRE9080WP20130110)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130110&t=2&i=692682939&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9081BYT00)
 
 ### Related:
 

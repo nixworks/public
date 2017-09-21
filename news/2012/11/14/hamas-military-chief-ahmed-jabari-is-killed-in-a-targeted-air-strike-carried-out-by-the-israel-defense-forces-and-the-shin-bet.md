@@ -8,6 +8,7 @@ As part of Israeli operation against terrorists, Hamas military chief Jabari kil
 ### Source:
 
 1. [YNetnews](http://www.ynetnews.com/articles/0,7340,L-4305343,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer3/2012/11/14/4269441/1_t.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Age 404 Page
 ### Source:
 
 1. [AP via The Melbourne Age](http://www.theage.com.au/news/World/Colombia-police-nab-suspected-drug-chief/2007/01/16/1168709741547.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Three people arrested in Brussels in connection with the November Paris attacks 
 ### Source:
 
 1. [AFP/Reuters via ABC News](http://www.abc.net.au/news/2016-04-13/belgium-releases-paris-attacks-suspects-a-day-after-arrest/7324670)
+1. [Cover Image](http://www.abc.net.au/news/image/7321548-1x1-700x700.jpg)
 
 ### Related:
 

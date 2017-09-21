@@ -8,6 +8,7 @@
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.co.uk/vatican-police-bust-gay-sex-party-cardinals-apartment-1628975)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1606905/good-friday-pope-francis.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tunisian police shot dead an Islamist militant on Tuesday in a suburb on the out
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/tunisia/10222324/Tunisia-militant-killed-by-police-in-raid.html)
 2. [Reuters](http://www.reuters.com/article/2013/08/06/us-tunisia-crisis-militant-idUSBRE9750ZJ20130806)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

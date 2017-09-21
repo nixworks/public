@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/US-expects-12-trillion-budget/story.aspx?guid=%7B53217752%2D6CF9%2D4AEB%2D89D5%2D99EA412DA5FF%7D)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

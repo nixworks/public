@@ -9,6 +9,7 @@
 
 1. [Associated Press](http://www.phillyburbs.com/pb-dyn/news/88-09012006-706373.html)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/09/01/AR2006090100206.html?nav=rss_email/components)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

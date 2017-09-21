@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Scoop, New Zealand](http://www.scoop.co.nz/stories/WO0602/S00014.htm)
+1. [Cover Image](http://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg)

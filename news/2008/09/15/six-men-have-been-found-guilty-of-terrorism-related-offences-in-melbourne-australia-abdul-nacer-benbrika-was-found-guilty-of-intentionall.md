@@ -8,6 +8,7 @@ Six men have been found guilty of forming a Melbourne-based terrorist cell.
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/15/2364753.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

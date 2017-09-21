@@ -8,6 +8,7 @@ A pilot and four passengers die as a result of Victoria&#039;s worst civil aviat
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2017-02-21/essendon-airport-emergency/8288964)
+1. [Cover Image](http://www.abc.net.au/news/image/8288988-1x1-700x700.jpg)
 
 ### Related:
 

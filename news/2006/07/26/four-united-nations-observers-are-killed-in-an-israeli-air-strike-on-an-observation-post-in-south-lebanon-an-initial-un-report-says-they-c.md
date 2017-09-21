@@ -14,6 +14,7 @@
 5. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5218926.stm)
 6. [Sky](http://www.sky.com/skynews/article/0,,30000-13534675,00.html)
 7. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3281480,00.html)
+7. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

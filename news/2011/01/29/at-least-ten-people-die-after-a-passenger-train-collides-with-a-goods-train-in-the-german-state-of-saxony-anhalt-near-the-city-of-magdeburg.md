@@ -9,6 +9,7 @@ Head-on collision between passenger and goods trains kills at least eight people
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201113051516217123.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12082035)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/30/20111305202971621_20.jpg)
 
 ### Related:
 

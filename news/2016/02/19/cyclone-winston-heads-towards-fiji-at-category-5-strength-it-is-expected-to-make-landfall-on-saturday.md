@@ -8,6 +8,7 @@ Hundreds of evacuation centres are activated as a powerful category five cyclone
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-02-20/category-five-cyclone-winston-bears-down-on-fiji/7186080)
+1. [Cover Image](http://www.abc.net.au/news/image/7186736-1x1-700x700.jpg)
 
 ### Related:
 

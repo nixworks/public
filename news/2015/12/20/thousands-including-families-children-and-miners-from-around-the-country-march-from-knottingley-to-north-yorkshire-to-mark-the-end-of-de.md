@@ -9,6 +9,7 @@ More than three thousand people united in a march to mark the closure of Kelling
 
 1. [BBC](http://www.bbc.com/news/uk-england-35144942)
 2. [The Independent](http://www.independent.co.uk/news/uk/home-news/kellingley-colliery-miners-march-in-final-farewell-to-the-last-coal-mine-and-british-mining-a6780301.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/12/20/09/Kellingley-miners-march-closure-mine-december-tears.jpg)
 
 ### Related:
 

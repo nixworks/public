@@ -8,6 +8,7 @@ Members of the three largest UK parties are being told to vote against a motion 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15382019)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56174000/jpg/_56174361_009346544-1.jpg)
 
 ### Related:
 

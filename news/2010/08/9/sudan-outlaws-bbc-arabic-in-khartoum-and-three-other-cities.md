@@ -10,6 +10,7 @@ Sudan halts BBC Arabic broadcasts on FM radio stations in four northern cities, 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10912871)
 2. [News24](http://www.news24.com/Africa/News/Sudan-suspends-BBC-broadcasts-20100808)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE6771TP20100808)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

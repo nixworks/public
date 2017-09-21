@@ -8,6 +8,7 @@ Planet Ark Stories and Ideas
 ### Source:
 
 1. [Planetark.org](http://www.planetark.org/dailynewsstory.cfm/newsid/21510/newsDate/15-Jul-2003/story.htm)
+1. [Cover Image](http://planetark.org/images/default_image.jpg)
 
 ### Related:
 

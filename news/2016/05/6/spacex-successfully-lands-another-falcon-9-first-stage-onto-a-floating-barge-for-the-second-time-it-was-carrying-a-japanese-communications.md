@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wired](http://www.wired.com/2016/05/spacex-landed-freaking-rocket-robot-boat-dark/)
+1. [Cover Image](https://www.wired.com/wp-content/uploads/2016/05/Chv_7nDU4AUDQjs.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Labour MEP Proinsias De Rossa is to step down from the European Parliament next 
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/0116/derossap.html)
+1. [Cover Image](https://img.rasset.ie/00035d44-1600.jpg)
 
 ### Related:
 

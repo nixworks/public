@@ -8,6 +8,7 @@ A peaceful day of remembrance of Michael Brown on anniversary of his killing tur
 ### Source:
 
 1. [The St Louis Post-Dispatch](http://www.stltoday.com/news/local/metro/person-shot-during-protests-late-sunday-in-ferguson/article_baaf86fd-2de0-53a7-b840-1941159aa5c7.html)
+1. [Cover Image](http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/8c/68c3bb0b-f8b9-5082-a556-c49a1acd5a68/55c83aabe92eb.image.jpg?crop=1152%2C864%2C72%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize)
 
 ### Related:
 

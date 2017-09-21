@@ -9,6 +9,7 @@ Security troops using tanks attack the towns of Rastan and Talbisa, north of the
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201152818244563547.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13588924)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53053000/jpg/_53053665_hi012098382.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Wednesday’s protests in Caracas came the day after Maduro said the opposition-
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/may/18/venezuela-police-fire-teargas-protesters-crisis)
+1. [Cover Image](https://i.guim.co.uk/img/media/4826fa12d8660370c7571f5d1761343dd952c86c/0_323_4928_2957/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9054276619bc47f1a4334539e7938d96)
 
 ### Related:
 

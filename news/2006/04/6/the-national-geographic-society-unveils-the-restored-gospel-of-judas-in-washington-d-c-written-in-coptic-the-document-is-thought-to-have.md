@@ -8,6 +8,7 @@ Researchers say they have discovered the only known copy of the Gospel of Judas,
 ### Source:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=5327692)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

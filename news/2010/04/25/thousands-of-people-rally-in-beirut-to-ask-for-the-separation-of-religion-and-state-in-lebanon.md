@@ -8,6 +8,7 @@ Thousands of demonstrators demand an end to the religious-based political system
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/2010425172547763119.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

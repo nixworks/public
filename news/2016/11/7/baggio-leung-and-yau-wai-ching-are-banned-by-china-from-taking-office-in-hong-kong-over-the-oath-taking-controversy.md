@@ -8,6 +8,7 @@ The rare intervention by Beijing could spark more social unrest.
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-07/china-bars-independence-supporters-from-hong-kong-legislature-iv7fq7zi)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivry7lCd.Ppo/v0/1200x800.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Little more than two weeks after Italian scientists warned that climate change h
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/heavy-rain-floods-northern-italy-161125092401356.html)
 2. [EuroNews](http://www.euronews.com/2016/11/24/torrential-rains-cause-widespread-flooding-in-northern-italy)
+2. [Cover Image](http://static.euronews.com/articles/350591/1000x563_350591.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ As Yemeni Houthi fighters and army troops waged gun and mortar battles near the 
 
 1. [AP](http://bigstory.ap.org/article/81fe934743c6474b9d2d671ef4ec8cd4/houthis-military-battle-near-yemens-presidential-palace)
 2. [RT](http://rt.com/news/224035-yemen-attack-houthis-media/)
+2. [Cover Image](https://img.rt.com/files/news/36/b2/30/00/yemen.si.jpg)
 
 ### Related:
 

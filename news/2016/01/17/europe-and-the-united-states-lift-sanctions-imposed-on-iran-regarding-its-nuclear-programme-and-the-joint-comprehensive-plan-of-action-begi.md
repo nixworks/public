@@ -8,6 +8,7 @@ International sanctions on Iran are lifted after its compliance with obligations
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35335078)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/14645/production/_87752538_87752537.jpg)
 
 ### Related:
 

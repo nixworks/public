@@ -8,6 +8,7 @@ The social media giant has deactivated the accounts over the last six months
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/twitter-announces-it-has-suspended-235000-terror-linked-accounts/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/02/05/9d4041f7-b054-43ce-950d-dd333f6f1151/isistwitter.jpg)
 
 ### Related:
 

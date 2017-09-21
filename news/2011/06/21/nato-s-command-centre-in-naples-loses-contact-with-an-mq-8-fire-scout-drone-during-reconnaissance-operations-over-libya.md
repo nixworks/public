@@ -8,6 +8,7 @@ Nato says it has lost an unmanned helicopter drone over Libya, as state TV shows
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13858200)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53548000/jpg/_53548777_jex_1082948_de27.jpg)
 
 ### Related:
 

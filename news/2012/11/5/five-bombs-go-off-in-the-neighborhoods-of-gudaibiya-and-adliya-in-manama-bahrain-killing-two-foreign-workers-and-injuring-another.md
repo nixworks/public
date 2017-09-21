@@ -8,6 +8,7 @@ Two foreign workers have been killed and a third person seriously injured by bom
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20203602)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63927000/jpg/_63927813_63927812.jpg)
 
 ### Related:
 

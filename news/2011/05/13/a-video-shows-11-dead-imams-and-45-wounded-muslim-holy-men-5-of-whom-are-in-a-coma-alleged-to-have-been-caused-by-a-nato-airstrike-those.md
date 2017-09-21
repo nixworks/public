@@ -9,6 +9,7 @@ The Libyan leader responds to claims by the Italian foreign minister in an audio
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011513154514897122.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/may/13/libya-accuses-nato-bombing-imams)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/16/201121682937530580_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Business Week](http://www.businessweek.com/ap/2013-08-18/lawyer-norwegian-imprisoned-in-congo-has-died)
 2. [NRK](http://www.nrk.no/nyheter/verden/1.11188832)
+2. [Cover Image](https://gfx.nrk.no/QOohQetqctyFkJXV9d50PA2wawRhArjoyCkf04d5KIcg)
 
 ### Related:
 

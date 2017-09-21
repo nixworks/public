@@ -9,6 +9,7 @@ The Chinese premier Wen Jiabao expressed concern on Friday about China’s $1 tr
 
 1. [New York Times](http://www.nytimes.com/2009/03/14/business/worldbusiness/14china.html?_r=1&hp)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-03/13/content_11004933.htm)
+2. [Cover Image](https://static01.nyt.com/images/2009/03/13/world/13china.ms.75.jpg)
 
 ### Related:
 

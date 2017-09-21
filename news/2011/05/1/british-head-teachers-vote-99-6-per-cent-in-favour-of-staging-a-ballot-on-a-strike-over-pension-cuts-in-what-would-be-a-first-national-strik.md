@@ -8,6 +8,7 @@ Head teachers vote overwhelmingly in favour of staging a ballot on whether to st
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-13252220)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

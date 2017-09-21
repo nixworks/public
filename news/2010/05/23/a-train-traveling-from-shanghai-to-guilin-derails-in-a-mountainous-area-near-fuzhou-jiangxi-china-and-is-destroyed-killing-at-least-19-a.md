@@ -11,6 +11,7 @@ A train hits landslide debris and derails in a mountainous area of south-east Ch
 2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10143258.stm)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE64M05Q20100523?feedType=RSS&feedName=worldNews)
 4. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-05/23/c_13310970.htm)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

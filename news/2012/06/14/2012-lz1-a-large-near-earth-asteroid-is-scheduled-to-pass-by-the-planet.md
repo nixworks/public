@@ -8,6 +8,7 @@ As big as a city block, the newfound space rock 2012 LZ1 will pass close to our 
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2012/06/120614-asteroid-earth-planet-close-watch-online-space-science/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/photos/000/549/54964.ngsversion.1421961304231.adapt.1900.1.jpg)
 
 ### Related:
 

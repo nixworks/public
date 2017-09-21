@@ -8,6 +8,7 @@ The UK government must consult MPs before triggering Article 50 to leave the EU,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-37857785)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/992D/production/_92231293_mediaitem92231288.jpg)
 
 ### Related:
 

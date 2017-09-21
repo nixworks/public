@@ -8,6 +8,7 @@ Syria is to be reported to the UN Security Council over its alleged covert nucle
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13717874)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52945000/jpg/_52945219_44600348.jpg)
 
 ### Related:
 

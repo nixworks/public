@@ -8,6 +8,7 @@ Archaeologists say they have found tombs that are more than 1,000 years old in a
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-11-27/four-pre-inca-tombs-found-in-peru/6980744)
+1. [Cover Image](http://www.abc.net.au/news/image/6980864-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Reflecting confidence in the budget deal, House Speaker John Boehner lets loose 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/la-na-congress-budget-20131212,0,3360695.story#axzz2n0z8xNrL)
+1. [Cover Image](http://www.trbimg.com/img-52a9d82e/turbine/la-na-congress-budget-20131212)
 
 ### Related:
 

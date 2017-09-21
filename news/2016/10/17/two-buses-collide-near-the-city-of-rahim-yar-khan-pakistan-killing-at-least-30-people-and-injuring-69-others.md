@@ -8,6 +8,7 @@ At least 30 people were killed when two buses collided in a head-on crash in Pak
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/update/2016-10-17/at-least-30-killed-in-head-on-bus-crash-in-pakistan/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/1121814/img.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Protests against the shootings of two black men by police officers shut down mai
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-police-protests-idUSKCN0ZQ00O)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160710&t=2&i=1144851460&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC690TX)
 
 ### Related:
 

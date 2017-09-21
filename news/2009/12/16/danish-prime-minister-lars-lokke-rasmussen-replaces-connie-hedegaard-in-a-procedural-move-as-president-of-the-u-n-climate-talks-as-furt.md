@@ -10,6 +10,7 @@ Police and protesters clash as Copenhagen climate talks enter crucial final phas
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/20091216124614265804.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/science/nature/8415899.stm)
 3. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6958882.ece)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Businessman Denis O&#39;Brien has been awarded €150,000 by a jury at the High 
 
 1. [RTÉ News](http://www.rte.ie/news/2013/0214/367770-defamation-denis-obrien/)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0214/breaking46.html)
+2. [Cover Image](https://img.rasset.ie/00070059-1600.jpg)
 
 ### Related:
 

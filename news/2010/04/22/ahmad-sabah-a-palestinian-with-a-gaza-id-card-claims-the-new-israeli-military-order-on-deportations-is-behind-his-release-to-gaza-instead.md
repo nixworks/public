@@ -13,6 +13,7 @@ Israeli move raises fears of more Palestinians being expelled from Israel and We
 4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8637986.stm)
 5. [France24](http://www.france24.com/en/20100422-rockets-jordan-warehouse-eilat-aqaba-red-sea)
 6. [RTÉ](http://www.rte.ie/news/2010/0422/mideast.html)
+6. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

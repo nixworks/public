@@ -9,6 +9,7 @@ Harmony Gold says rescue teams have been deployed to rescue some 486 workers aft
 
 1. [Globe and Mail](http://www.theglobeandmail.com/news/world/fire-at-south-africa-gold-mine-leaves-200-unaccounted-for/article23140549/)
 2. [News24](http://m.news24.com/fin24/Companies/Mining/Fire-breaks-out-at-Harmony-Gold-mine-20150222)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2966/e1edbc43ab5f449199124e6fc1055c18.png)
 
 ### Related:
 

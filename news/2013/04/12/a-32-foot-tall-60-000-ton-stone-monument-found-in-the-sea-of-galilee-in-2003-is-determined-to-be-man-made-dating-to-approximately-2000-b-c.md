@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-mystery-monument-found-on-the-sea-floor-20130412,0,2957527.story)
+1. [Cover Image](http://www.trbimg.com/img-51686678/turbine/la-sci-sn-mystery-monument-found-on-the-sea-fl-001/575/575x503)
 
 ### Related:
 

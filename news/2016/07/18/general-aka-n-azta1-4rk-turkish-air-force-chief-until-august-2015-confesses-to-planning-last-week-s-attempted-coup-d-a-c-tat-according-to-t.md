@@ -8,6 +8,7 @@ Gen. Akin Ozturk, former chief of the Turkish air force, has confessed to planni
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/07/18/Former-Turkish-air-force-chief-confesses-to-planning-coup-state-run-media-reports/3341468821139/?spt=hts&or=5)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3341468821139/2016/7/73dff0defc9c5bdaa29d1a20eac2bdba/v1.5/Former-Turkish-air-force-chief-confesses-to-planning-coup-state-run-media-reports.jpg)
 
 ### Related:
 

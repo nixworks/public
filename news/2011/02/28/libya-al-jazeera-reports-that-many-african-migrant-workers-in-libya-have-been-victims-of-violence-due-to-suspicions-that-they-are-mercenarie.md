@@ -19,6 +19,7 @@ Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hi
 10. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Bahrain-protesters-block-Parliament/articleshow/7593904.cms)
 11. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/britain-working-on-plans-for-a-no-fly-zone-over-libya/1)
 12. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/28/AR2011022802797.html?hpid=topnews)
+12. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/28/20112287143521360_20.jpg)
 
 ### Related:
 

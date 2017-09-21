@@ -11,6 +11,7 @@ ISIS claimed responsibility for an attack on police officers on the Champs-Élys
 2. [BBC](http://www.bbc.com/news/world-europe-39662315)
 3. [Le Parisien](http://www.leparisien.fr/faits-divers/attentat-sur-les-champs-elysees-questions-autour-de-la-revendication-de-daech-21-04-2017-6873153.php)
 4. [The New York Times](https://www.nytimes.com/2017/04/20/world/europe/paris-champs-elysees-shooting.html?hp&_r=0)
+4. [Cover Image](https://s.yimg.com/bt/api/res/1.2/SJWPNW0PRDc1jF0QC_tELQ--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://media.zenfs.com/en-US/video/video.abcnewsplus.com/05bc81dac836a055cb4ab10e7df593b8.cf.png)
 
 ### Related:
 

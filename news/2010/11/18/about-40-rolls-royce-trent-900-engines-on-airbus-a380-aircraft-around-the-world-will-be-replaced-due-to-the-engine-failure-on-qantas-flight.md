@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/travel/news/global-airbus-a380-fleet-needs-to-swap-40-engines/story-e6frfq80-1225955490919?from=public_rss)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/cb76aaa61160537e62148685c7fc619c)
 
 ### Related:
 

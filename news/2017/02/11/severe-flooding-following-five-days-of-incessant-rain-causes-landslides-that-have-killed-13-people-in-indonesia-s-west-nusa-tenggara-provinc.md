@@ -8,6 +8,7 @@ JAKARTA, Indonesia (AP) — Up to 40,000 people were caught in severe flooding f
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/c132a0979c84430c9735e19ca3ba2e7a/13-dead-thousands-caught-flooding-central-indonesia)
+1. [Cover Image](http://binaryapi.ap.org/3a790f9031454fbdb126047fb8dfc704/460x.jpg)
 
 ### Related:
 

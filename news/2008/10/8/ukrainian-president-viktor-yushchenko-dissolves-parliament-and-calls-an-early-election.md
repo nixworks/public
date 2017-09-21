@@ -8,6 +8,7 @@ Ukrainian President Viktor Yushchenko on Wednesday abandoned the search for a co
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4979YT20081008)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081008&t=2&i=6307702&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-10-08T200558Z_01_BTRE4971JU500_RTROPTP_0_UKRAINE-COALITION)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/156385-erap-estrada-hospitalized)
+1. [Cover Image](https://assets.rappler.com/397D79B0F22A42E6999126032503804D/img/D9198DE2B78D47ABB8138AE9D040CB4C/erap-estrada-disqualification-case-sc-20150121-002.jpg)
 
 ### Related:
 

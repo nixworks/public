@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/11/15/us-myanmar-election-idUSKCN0T40BN20151115#p3QQxFZgSrptsjVQ.97)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/11/15/Myanmars-president-vows-smooth-transition-after-election-defeat/6711447641303/?spt=hs&or=tn_int)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/6711447641303/2015/1/43476be34eab0766e6009fa72913a68e/v1.5/Myanmars-president-vows-smooth-transition-after-election-defeat.jpg)
 
 ### Related:
 

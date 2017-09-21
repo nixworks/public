@@ -9,6 +9,7 @@ West Bank shooting: One man dead, two women suffer from shock after gunmen trave
 
 1. [RTÉ](http://www.rte.ie/news/2005/1216/mideast.html)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3185360,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

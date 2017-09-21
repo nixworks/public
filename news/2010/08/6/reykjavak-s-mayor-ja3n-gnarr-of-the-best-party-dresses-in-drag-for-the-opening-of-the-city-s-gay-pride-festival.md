@@ -9,6 +9,7 @@ Reykjavik&#039;s comedian-turned-politician mayor, Jon Gnarr, opened the Iceland
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10896818)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/iceland/7931421/Reykjavik-mayor-attends-gay-pride-in-drag.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01692/Jon-Gnarr_1692811a.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Protesters take to the streets, clashing with police after eight Shia activists 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116228219100399.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13872206)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/jun/22/bahraini-activists-jailed-life)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/16/2011616113651777734_20.jpg)
 
 ### Related:
 

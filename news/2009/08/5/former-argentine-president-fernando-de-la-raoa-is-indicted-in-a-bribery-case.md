@@ -8,6 +8,7 @@ The Argentine Federal Appeals court has confirmed the indictment of ex-president
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/05/former-argentine-president-de-la-ra-indicted-in-bribes-case)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19723/200x200/263dec87d384e37485c8b99d9d52448c.jpg)
 
 ### Related:
 

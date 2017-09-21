@@ -8,6 +8,7 @@ More than two million people have been affected by floods in India as torrential
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-15070815)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-south-asia-15070815A/playlist.sxml)
 
 ### Related:
 

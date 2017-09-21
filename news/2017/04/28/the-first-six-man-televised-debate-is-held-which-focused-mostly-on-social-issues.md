@@ -9,6 +9,7 @@ Iran state TV broadcasts live the first debate among the six candidates of the 1
 
 1. [PressTV](http://www.presstv.com/Detail/2017/04/28/519772/Iran-presidential-election-debate)
 2. [Radio Free Europe](http://www.rferl.org/a/iran-first-presidential-debate/28456950.html)
+2. [Cover Image](http://cdn.presstv.com/photo/20170428/b05a57f0-db79-4b03-81b4-1d72b6e57709.jpg)
 
 ### Related:
 

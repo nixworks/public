@@ -8,6 +8,7 @@ At least seven dead and dozens injured as three explosions target security force
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201129124643685401.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/9/201129132935611833_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Chinese police raid a Tibetan Buddhist monastery in western China, killing two p
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13174810)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110423/news_20110423_56_750541.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

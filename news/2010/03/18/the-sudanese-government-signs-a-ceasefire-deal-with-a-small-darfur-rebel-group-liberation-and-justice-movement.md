@@ -8,6 +8,7 @@ Khartoum reaches truce agreement with smaller group after talks with Jem stalled
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/2010318105359811221.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

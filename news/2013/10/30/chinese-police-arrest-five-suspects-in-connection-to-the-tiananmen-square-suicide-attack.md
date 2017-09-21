@@ -9,6 +9,7 @@ Police say they found machetes and flag with &#x27;extreme religious content&#x2
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/10414264/China-captures-five-suspects-over-Tiananmen-Square-terror-attack.html)
 2. [The Guardian](http://www.theguardian.com/world/2013/oct/30/tiananmen-square-crash-five-held-beijing)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/10/30/1383137037021/Tiananmen-Square-008.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0b45572b8c4dacac1e832322e206cfce)
 
 ### Related:
 

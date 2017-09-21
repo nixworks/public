@@ -8,6 +8,7 @@ Chinese troops will be positioned in Pakistan to protect the 3,000-km-long China
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/india-news/chinese-troops-will-be-positioned-in-pakistan-security-agencies-to-government-1286550)
+1. [Cover Image](http://i.ndtvimg.com/i/2016-03/chinese-army_650x400_61457802144.jpg)
 
 ### Related:
 

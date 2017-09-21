@@ -8,6 +8,7 @@ Afghan President Hamid Karzai renewed a call for talks with Taliban insurgents o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSISL13902320070909?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1679353&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T100231Z_01_ISL139023_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

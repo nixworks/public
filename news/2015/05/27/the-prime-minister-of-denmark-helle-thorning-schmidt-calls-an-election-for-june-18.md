@@ -8,6 +8,7 @@ COPENHAGEN (REUTERS) - Danish Prime Minister Helle Thorning-Schmidt on Wednesday
 ### Source:
 
 1. [Reuters via ''Straits Times](http://www.straitstimes.com/news/world/europe/story/danish-pm-calls-general-election-june-18-20150527)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/05/27/jdpmden27e_2x.jpg?itok=8u8tjKG5)
 
 ### Related:
 

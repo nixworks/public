@@ -8,6 +8,7 @@ Twin roadside bombs exploded in the Iraqi city of Baquba on Wednesday, killing 1
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/14/us-iraq-violence-bombing-idUSBRE97D16B20130814)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

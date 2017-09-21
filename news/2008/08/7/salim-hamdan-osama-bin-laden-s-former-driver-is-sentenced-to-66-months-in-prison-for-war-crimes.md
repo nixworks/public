@@ -8,6 +8,7 @@ Salim Ahmed Hamdan, the first detainee convicted after a war crimes trial in Gua
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/08/08/washington/08gitmo.html)
+1. [Cover Image](https://static01.nyt.com/images/2006/06/30/us/30hamdan75.jpg)
 
 ### Related:
 

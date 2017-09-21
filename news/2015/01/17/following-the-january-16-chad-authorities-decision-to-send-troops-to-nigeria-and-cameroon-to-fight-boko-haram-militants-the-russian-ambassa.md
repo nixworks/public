@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''The Economic Times](http://economictimes.indiatimes.com/news/international/world-news/thousands-rally-in-chad-capital-to-support-army-move-against-boko-haram/articleshow/45923647.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-45923702,width-672,resizemode-4,imglength-203709/news/international/world-news/thousands-rally-in-chad-capital-to-support-army-move-against-boko-haram.jpg)
 
 ### Related:
 

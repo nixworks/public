@@ -8,6 +8,7 @@ Rome -- The Vatican establishes full relations with Myanmar for the first time a
 ### Source:
 
 1. [National Catholic Reporter](https://www.ncronline.org/news/vatican/vatican-myanmar-establish-full-relations-after-francis-suu-kyi-meeting-thursday)
+1. [Cover Image](https://www.ncronline.org/sites/default/files/styles/facebook_ratio/public/stories/images/FrancisSuuKyi2.jpg?itok=-A6lFCYw)
 
 ### Related:
 

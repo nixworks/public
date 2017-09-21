@@ -10,6 +10,7 @@ Pyongyang wants new investigation into deadly sinking of South Korean frigate.
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107165529165148.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10471853.stm)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/07/01/76/0302000000AEN20100701005200315F.HTML)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

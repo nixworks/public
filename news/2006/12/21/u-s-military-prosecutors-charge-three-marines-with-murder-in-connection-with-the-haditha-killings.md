@@ -8,6 +8,7 @@ Four U.S. marines, including a squad leader, were charged with murder Thursday i
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/12/21/charges-haditha.html)
+1. [Cover Image](https://i.cbc.ca/1.2318153.1383280244!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-marine-cp-2038450.jpg)
 
 ### Related:
 

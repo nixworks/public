@@ -8,6 +8,7 @@ All eyes turned to Berkeley after a day of large-scale protests, and relative pe
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-berkeley-protests-20170827-story.html)
+1. [Cover Image](http://www.trbimg.com/img-59a34a7c/turbine/la-me-ln-berkeley-protests-20170827)
 
 ### Related:
 

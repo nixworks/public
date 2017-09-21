@@ -9,6 +9,7 @@ Secular-Islamist coalition government of prime minister-elect Habib Essid receiv
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/02/tunisia-approves-coalition-government-150205123748042.html)
 2. [Deutsche Welle](http://www.dw.de/tunisia-mps-ok-post-revolution-government-led-by-nidaa-tounes-party/a-18236336)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/2/1/6bb3e480acee4a2fbc93c149342ff6da_18.jpg)
 
 ### Related:
 

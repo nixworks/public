@@ -9,6 +9,7 @@
 
 1. [AFP via Yahoo](http://au.news.yahoo.com/world/a/24344513/hong-kong-democracy-poll-closes-with-nearly-800-000-votes-organisers/)
 2. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201406290016.aspx)
+2. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20140629/2014062900161.jpg)
 
 ### Related:
 

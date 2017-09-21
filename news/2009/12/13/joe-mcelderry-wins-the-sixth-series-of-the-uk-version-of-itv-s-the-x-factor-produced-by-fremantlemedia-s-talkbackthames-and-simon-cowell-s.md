@@ -11,6 +11,7 @@
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/20091213131421866166.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8410558.stm)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=113625&sectionid=351020101)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

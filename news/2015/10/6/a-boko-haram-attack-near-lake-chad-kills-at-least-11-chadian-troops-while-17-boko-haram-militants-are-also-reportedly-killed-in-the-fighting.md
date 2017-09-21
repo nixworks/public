@@ -8,6 +8,7 @@ N&#x27;Djamena (AFP) - Boko Haram Islamists attacked Chadian soldiers on Tuesday
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/11-chadian-soldiers-killed-boko-haram-attack-security-093058479.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/4I0PzifJdWT.QIDB4SMggQ--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/aa09514202378228a664e568d177b9efb14f6389.jpg)
 
 ### Related:
 

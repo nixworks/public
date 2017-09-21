@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/12/02/us-myanmar-politics-idUSKBN0TL08Q20151202#aERgAwJQPOGZASKS.97)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151202&t=2&i=1099174516&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB103L)
 
 ### Related:
 

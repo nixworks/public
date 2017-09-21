@@ -8,6 +8,7 @@ AT least 15 members of a wedding party, including three children, have been kill
 ### Source:
 
 1. [AAP via ''News Limited](http://www.news.com.au/world/breaking-news/fifteen-killed-in-india-bus-crash/story-e6frfkui-1227572792678?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Eleven German MPs of Turkish origin are under police protection after declaring 
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/06/12/11-German-MPs-under-police-protection-over-genocide-squabble-with-Turkey/5841465775367/?spt=hs&or=tn_int)
 2. [UPI²](http://www.upi.com/Top_News/World-News/2016/06/09/Turkey-plans-retaliatory-measures-for-German-genocide-resolution-Erdogan-says/8101465480660/?st_rec=5841465775367)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/5841465775367/2016/1/15fbb7978b968285d1a5cfca5909b525/v1.5/11-German-MPs-under-police-protection-in-genocide-squabble-with-Turkey.jpg)
 
 ### Related:
 

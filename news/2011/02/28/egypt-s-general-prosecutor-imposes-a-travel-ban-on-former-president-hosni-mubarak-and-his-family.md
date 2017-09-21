@@ -8,6 +8,7 @@ Prosecutor also orders financial assets of former president and his family insid
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011228111333371538.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/14/2011214153126911436_20.jpg)
 
 ### Related:
 

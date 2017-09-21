@@ -8,6 +8,7 @@ The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot;
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-27274460)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74631000/jpg/_74631587_herald.jpg)
 
 ### Related:
 

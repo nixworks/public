@@ -9,6 +9,7 @@ The 1,600 Dutch soldiers in Afghanistan will probably leave this year, Prime Min
 
 1. [CBC](http://www.cbc.ca/world/story/2010/02/21/afghan-dutch-marjan.html)
 2. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5hI-lTRcT28jDu7xJ3phsBQSrWmyQ)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

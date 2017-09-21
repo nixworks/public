@@ -8,6 +8,7 @@ At least 11 people have been killed and five are missing in heavy rains triggere
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2008/08/29/2350617.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

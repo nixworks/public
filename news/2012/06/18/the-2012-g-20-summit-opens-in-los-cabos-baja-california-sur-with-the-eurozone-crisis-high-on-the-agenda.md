@@ -8,6 +8,7 @@ World leaders meeting at a G20 summit in Mexico urge Europe to take all necessar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18496985)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60992000/jpg/_60992680_015096226-1.jpg)
 
 ### Related:
 

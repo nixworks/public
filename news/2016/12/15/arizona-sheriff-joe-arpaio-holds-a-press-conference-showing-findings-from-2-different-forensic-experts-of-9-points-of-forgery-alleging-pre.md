@@ -9,6 +9,7 @@ Arpaio and his aides announced that a five-year investigation had &quot;proved&q
 
 1. [Newsmax](http://www.newsmax.com/Newsfront/joe-arpaio-barack-obama-birth-certificate/2016/12/15/id/764243/)
 2. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/12/15/sheriff-joe-arpaio-probe-proves-obama-birth-certificate-fake/95500958/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

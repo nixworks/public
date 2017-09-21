@@ -8,6 +8,7 @@ Europe’s new Columbus science module became a permanent part of the Internatio
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/02/11/science/space/11cnd-shuttle.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

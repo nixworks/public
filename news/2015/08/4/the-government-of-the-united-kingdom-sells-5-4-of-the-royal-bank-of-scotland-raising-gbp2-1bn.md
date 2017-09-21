@@ -8,6 +8,7 @@ The Government has sold a 5.4% stake in Royal Bank of Scotland for £2.1bn, but 
 ### Source:
 
 1. [ITV](http://www.itv.com/news/update/2015-08-04/government-sells-5-4-stake-in-rbs-for-2-1bn/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/732282/img.jpg)
 
 ### Related:
 

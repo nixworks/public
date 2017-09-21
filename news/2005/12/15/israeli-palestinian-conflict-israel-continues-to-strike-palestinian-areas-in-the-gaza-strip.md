@@ -8,6 +8,7 @@ Palestinians in the West Bank have been voting in the final round of local elect
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2005/1215/mideast.html)
+1. [Cover Image](https://img.rasset.ie/000040b0-1600.jpg)
 
 ### Related:
 

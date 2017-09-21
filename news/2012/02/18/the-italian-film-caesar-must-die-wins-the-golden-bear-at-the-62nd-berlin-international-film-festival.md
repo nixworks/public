@@ -8,6 +8,7 @@ The Italian docudrama shows the staging of Shakespeare’s Julius Ceasar in a ma
 ### Source:
 
 1. [The Hollywood Reporter](http://www.hollywoodreporter.com/news/berlin-film-festival-winners-caesar-must-die-292587)
+1. [Cover Image](http://cdn5.thr.com/sites/default/files/2012/02/caesar.jpg)
 
 ### Related:
 

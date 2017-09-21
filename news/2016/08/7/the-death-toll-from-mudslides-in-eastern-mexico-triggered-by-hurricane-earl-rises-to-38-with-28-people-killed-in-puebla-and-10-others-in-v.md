@@ -8,6 +8,7 @@ Mudslides triggered by intense rainfall in eastern Mexico killed 40 people at th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-storm-earl-idUSKCN10I0TS?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160808&t=2&i=1148822089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC771AT)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Paul Beatty&#039;s The Sellout, a stinging satire of race and class in the Unite
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2016-10-26/man-booker-prize-paul-beatty-wins-for-the-sellout/7965662)
+1. [Cover Image](http://www.abc.net.au/news/image/7965774-1x1-700x700.jpg)
 
 ### Related:
 

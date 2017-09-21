@@ -9,6 +9,7 @@ The majority of wildfires in France, Italy and Spain have been extinguished or b
 
 1. [RTÉ](http://www.rte.ie/news/2009/0727/weather.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6728864.ece)
+2. [Cover Image](https://img.rasset.ie/00027803-1600.jpg)
 
 ### Related:
 

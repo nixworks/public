@@ -8,6 +8,7 @@ A suicide bomber blew himself up among worshippers streaming toward a Shiite Mus
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29033836/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/ap/d14c6ea3-3b88-4d39-b1a2-70d9c64da600.standard.jpg)
 
 ### Related:
 

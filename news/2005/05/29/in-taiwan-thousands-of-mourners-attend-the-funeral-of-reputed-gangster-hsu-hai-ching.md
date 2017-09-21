@@ -10,6 +10,7 @@ About 10,000 black-clad gangsters, friends and family took part in the funeral o
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4592285.stm)
 2. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2005/05/30/2003257192)
 3. [TaiwanNews](http://www.etaiwannews.com/Taiwan/Society/2005/05/30/1117415669.htm)
+3. [Cover Image](http://www.taipeitimes.com/images/2005/05/30/thumbs/20050529200443.jpeg)
 
 ### Related:
 

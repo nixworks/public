@@ -11,6 +11,7 @@ Xi Jinping is confirmed as the man to lead China for the next decade, as reformi
 2. [BBC](http://www.bbc.co.uk/news/world-asia-china-20322288)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-china-20322288#)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-china-20338556)
+4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64151000/jpg/_64151694_016505572-1.jpg)
 
 ### Related:
 
@@ -23,4 +24,4 @@ Xi Jinping is confirmed as the man to lead China for the next decade, as reformi
 7. [ General Secretary Hu Jintao of the Communist Party in the People's Republic of China and Nationalist Party Chairman Wu Poh-hsiung in Taiwan meet in Beijing to discuss cross-Strait relations. ](/news/2009/05/26/general-secretary-hu-jintao-of-the-communist-party-in-the-people-s-republic-of-china-and-nationalist-party-chairman-wu-poh-hsiung-in-taiwan.md) _Context: China, Communist Party general secretary_
 8. [ Chinese Communist Party General Secretary Zhao Ziyang's secret memoirs about the 1989 protests in Tiananmen Square are published. ](/news/2009/05/14/chinese-communist-party-general-secretary-zhao-ziyang-s-secret-memoirs-about-the-1989-protests-in-tiananmen-square-are-published.md) _Context: China, Communist Party general secretary_
 9. [ The 17th National Congress of the Communist Party of China opens in Beijing, China, marking the beginning of a 7-day conclave of China's top leadership. General Secretary Hu Jintao delivers the work report for the past five years, and sets the party's direction in the coming five years. Hu also said in the keynote speech that the Communist Party has "fallen short of the people's expectations". ](/news/2007/10/15/the-17th-national-congress-of-the-communist-party-of-china-opens-in-beijing-china-marking-the-beginning-of-a-7-day-conclave-of-china-s-to.md) _Context: China, Communist Party general secretary_
-10. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: China_
+10. [ The former General Secretary of the Communist Party of China, Jiang Zemin, resigns from his last official post, the Chairman of the Central Military Commission, and is replaced by Hu Jintao. ](/news/2004/09/19/the-former-general-secretary-of-the-communist-party-of-china-jiang-zemin-resigns-from-his-last-official-post-the-chairman-of-the-central.md) _Context: Chairman of the Central Military Commission, Communist Party general secretary_

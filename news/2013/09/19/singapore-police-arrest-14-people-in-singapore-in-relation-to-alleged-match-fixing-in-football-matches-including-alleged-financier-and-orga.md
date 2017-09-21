@@ -8,6 +8,7 @@ Authorities in Singapore have arrested 14 members of a crime syndicate accused o
 ### Source:
 
 1. [The Age](http://www.theage.com.au/world/matchfixing-scandal-police-arrest-14-in-singapore-20130919-2u0qd.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/2/t/v/h/l/image.related.articleLeadwide.620x349.2u0qd.png/1379560501190.jpg)
 
 ### Related:
 

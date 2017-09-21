@@ -9,3 +9,4 @@ Official website of The Church of Jesus Christ of Latter-day Saints (Mormons). F
 
 1. [177th Annual General Conference](http://www.byu.tv)
 2. [the Church of Jesus Christ of Latter-day Saints (LDS](http://www.lds.org)
+2. [Cover Image](http://www.lds.org/bc/content/ldsorg/content/images/facebook/lds_Fb_defaultThm.jpg)

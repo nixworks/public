@@ -9,6 +9,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 1. [ABCNEWS](http://abcnews.go.com/International/wireStory/pro-russia-candidate-favorite-moldova-presidential-runoff-43501034)
 2. [Voice of America](http://www.voanews.com/a/moldova-election-results/3594270.html)
+2. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

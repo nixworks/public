@@ -8,6 +8,7 @@ The first votes were cast in Ireland&rsquo;s referendum on the European Union&rs
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/economics/9295513/Ireland-casts-first-votes-on-EU-referendum.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02074/endakenny_2074918a.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Doctors Without Borders held memorials around the globe.
 2. [DW Akademie](http://www.dw.com/en/doctors-without-borders-demands-justice-over-kunduz-airstrike/a-18824819)
 3. [The Hill](http://thehill.com/policy/defense/258970-doctors-without-borders-marks-month-since-hospital-bombing-by-us)
 4. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/us-airstrikes-in-kunduz-destroyed-more-than-a-hospital/2015/11/04/99ef78ff-468a-4113-ae05-086c3450f065_story.html?wpmm=1&wpisrc=nl_evening)
+4. [Cover Image](http://thehill.com/sites/default/files/article_images/doctorswithoutbordersprotest_110315getty.jpg)
 
 ### Related:
 

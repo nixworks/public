@@ -8,3 +8,4 @@ Micah Ferebee was being pushed in a stroller by his father on Westerville Road w
 ### Source:
 
 1. [WBNS-10TV](http://www.10tv.com/content/stories/2016/06/06/columbus-ohio-new-details-emerge-about-driver-in-crash-that-killed-7-month-old.html)
+1. [Cover Image](http://www.10tv.com/sites/10tv.com/files/archive/2016/06/06/westervilleroadcrash.jpg)

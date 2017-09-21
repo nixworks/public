@@ -8,6 +8,7 @@ A bomb threat for London has been issued by Irish dissidents - in what officials
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13412871)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52745000/jpg/_52745001_011992122-1.jpg)
 
 ### Related:
 

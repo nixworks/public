@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Yahoo](http://news.yahoo.com/blogs/dallas/tornadoes-cause-massive-damage-across-dallas-fort-worth-184640541.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The number of people killed in twin earthquakes in Iran at the weekend has risen
 ### Source:
 
 1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/iran-raises-earthquake-death-toll-to-306-20120813-244gr.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

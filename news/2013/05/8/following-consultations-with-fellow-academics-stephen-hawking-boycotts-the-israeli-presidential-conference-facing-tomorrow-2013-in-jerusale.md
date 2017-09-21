@@ -8,6 +8,7 @@ Prof Stephen Hawking has pulled out of a high-profile Israeli conference, in sup
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22446054)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67472000/jpg/_67472973_67472972.jpg)
 
 ### Related:
 

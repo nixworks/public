@@ -13,6 +13,7 @@ Georgian Army units appeared in Gori for the first time since they retreated und
 4. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080823.wgeorrussia0823/BNStory/International)
 5. [The Independent](http://www.independent.co.uk/news/world/europe/russia-troops-still-in-georgia-after-pullout-906704.html)
 6. [The New York Times](http://www.nytimes.com/2008/08/24/world/europe/24georgia.html)
+6. [Cover Image](https://static01.nyt.com/images/2008/08/23/world/gori1.75.jpg)
 
 ### Related:
 

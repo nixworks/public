@@ -8,6 +8,7 @@ Many people are said to have been injured after a blast on a local train in Kolk
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/india-news/low-intensity-blast-on-local-train-in-kolkata-many-feared-injured/article1-1346250.aspx)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2015/05/12/Incoming/Pictures/1346251_Wallpaper2.jpg)
 
 ### Related:
 

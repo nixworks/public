@@ -15,6 +15,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 6. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/VBOL-6CJGLH?OpenDocument)
 7. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L19710494.htm)
 8. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8550461)
+8. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

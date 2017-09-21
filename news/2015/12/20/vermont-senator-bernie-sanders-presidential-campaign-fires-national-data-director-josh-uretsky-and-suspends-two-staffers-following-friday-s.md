@@ -9,6 +9,7 @@ The Sanders campaign says they &quot;are still assessing the situation.&quot;
 
 1. [Bloomberg](http://www.bloomberg.com/politics/articles/2015-12-20/bill-clinton-to-hit-the-campaign-trail-in-january)
 2. [NBC News](http://www.nbcnews.com/politics/2016-election/sanders-campaign-suspends-two-more-staffers-over-clinton-data-breach-n483411)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_51/1346111/151218-bernie-sanders-mn-1230_7118496d3322c38a53b3eef5cf000daf.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

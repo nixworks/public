@@ -10,6 +10,7 @@ Pollard has been serving a life sentence in a US prison since 1987.
 1. [AP](http://bigstory.ap.org/article/39e8e3dad0154301b64f66f57b3b8439/freedom-nears-american-convicted-spying-israel)
 2. [CNN](http://www.cnn.com/2015/11/19/us/jonathan-pollard-israel-spy-release/index.html)
 3. [The Jerusalem Post](http://www.jpost.com/Diaspora/Jonathan-Pollard-to-be-released-November-20-410419)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=275588)
 
 ### Related:
 

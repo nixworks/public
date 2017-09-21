@@ -8,6 +8,7 @@ A bomb attack on a packed market in northeastern Nigeria bearing the hallmarks o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/11/us-nigeria-violence-idUSKCN0QG1QI20150811)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Ten Houthis given death penalty and five others jailed over deadly clashes.
 
 1. [Al Bawaba](http://www.albawaba.com/en/countries/Yemen/255680)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/10/2009102085558493901.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

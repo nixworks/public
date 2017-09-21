@@ -11,6 +11,7 @@ The Israeli foreign ministry on Sunday rejected as &quot;ludicrous&quot; suggest
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/gaza-flotilla-organizers-israel-is-pressuring-greece-to-halt-ships-departure-1.369851)
 3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=226736)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-06/27/c_13952661.htm)
+4. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/06/26/israel.gaza.flotilla/tzvids.ship.afp.gi.jpg)
 
 ### Related:
 

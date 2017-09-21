@@ -9,6 +9,7 @@
 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110318/ap_on_bi_ge/as_japan_earthquake)
 2. [Reuters](http://www.reuters.com/article/2011/03/18/japan-idUSL3E7EH2SM20110318)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

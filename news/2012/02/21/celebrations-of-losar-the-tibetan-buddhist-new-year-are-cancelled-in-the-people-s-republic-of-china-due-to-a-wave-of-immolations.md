@@ -8,6 +8,7 @@ For Tibetan Buddhists, tomorrow is Losar, the start of the year 2139; an occasio
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/tibet/9095889/As-Tibet-marks-new-year-self-immolations-mean-there-will-be-no-celebrations.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02145/tib_2145748a.jpg)
 
 ### Related:
 

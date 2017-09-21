@@ -8,6 +8,7 @@ Police are urgently reviewing the cases of thousands of suspects after a court r
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13957873)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53754000/jpg/_53754510_005338169-1.jpg)
 
 ### Related:
 

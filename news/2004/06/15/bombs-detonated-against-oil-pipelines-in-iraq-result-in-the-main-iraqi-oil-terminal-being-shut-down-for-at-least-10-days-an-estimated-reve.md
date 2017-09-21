@@ -9,6 +9,7 @@ A set of oil pipelines near the Persian Gulf was bombed, forcing the shutdown of
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3809587.stm)
 2. [NYT](http://www.nytimes.com/2004/06/15/international/middleeast/15CND-IRAQ.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

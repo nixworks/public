@@ -8,3 +8,4 @@ Xerox Corp (XRX.N) will split into two companies, one holding its legacy printer
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-xerox-icahn-idUSKCN0V71B2)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160129&t=2&i=1113361952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0S0N9)

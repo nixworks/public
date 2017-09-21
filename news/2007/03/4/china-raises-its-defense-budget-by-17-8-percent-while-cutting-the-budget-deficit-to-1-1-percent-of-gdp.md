@@ -9,6 +9,7 @@ China plans to cut its 2007budget deficit to 245 billion yuan, or 1.1 percent of
 
 1. [People's Daily](http://english.people.com.cn/200703/04/eng20070304_354130.html)
 2. [Reuters](http://www.reuters.com/article/bondsNews/idUSPEK27045720070304)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

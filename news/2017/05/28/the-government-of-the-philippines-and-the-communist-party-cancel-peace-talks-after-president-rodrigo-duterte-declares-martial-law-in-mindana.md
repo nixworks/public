@@ -8,6 +8,7 @@
 ### Source:
 
 1. [teleSur](http://www.telesurtv.net/english/news/Duterte-Govt-Cancels-Peace-Talks-With-Leftists-Attacks-Communist-Fighters-and-Peasants-20170527-0020.html)
+1. [Cover Image](http://www.telesurtv.net/__export/1495923181565/sites/telesur/img/news/2017/05/27/npa_phils.jpg_1810791533.jpg)
 
 ### Related:
 

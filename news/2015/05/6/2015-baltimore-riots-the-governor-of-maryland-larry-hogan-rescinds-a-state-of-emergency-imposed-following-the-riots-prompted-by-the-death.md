@@ -8,6 +8,7 @@ Gov. Larry Hogan on Wednesday officially lifted the state of emergency he put on
 ### Source:
 
 1. [ (''Baltimore Sun](http://www.baltimoresun.com/news/maryland/politics/blog/bs-md-emergency-lifted-20150506-story.html)
+1. [Cover Image](http://www.trbimg.com/img-554a4053/turbine/bs-md-emergency-lifted-20150506)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Police beef up airport presence in anticipation of pro-Palestinians&#8217; arriv
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201241545637130915.html)
 2. [The Times of Israel](http://www.timesofisrael.com/israel-to-flytilla-protest-real-problems-like-syria-iran/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/04/F110708MP02.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The co-creator of Superman had sold his rights to the character 70 years ago for
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2008/03/29/business/media/29comics.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/03/29/business/29comics-inline-75.jpg)
 
 ### Related:
 

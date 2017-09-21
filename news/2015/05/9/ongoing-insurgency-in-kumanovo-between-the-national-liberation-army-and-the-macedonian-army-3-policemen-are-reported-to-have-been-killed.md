@@ -9,6 +9,7 @@ Smoke, explosions and gunfire filled the streets of Kumanovo Saturday as Macedon
 
 1. [CNN/N1INFO](http://ba.n1info.com/a41123/Svijet/Regija/Napad-na-policajce-u-Makedoniji.html)
 2. [International Business Times](http://www.ibtimes.com/macedonia-terror-operation-police-fighting-street-street-foreign-group-1915510)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/05/09/macedonia-terror-operation_0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A branch of Wal-Mart is being investigated after an announcement was made via th
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7464898/Walmart-announcement-tells-all-black-people-to-leave-store.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01475/walmart_1475213a.jpg)
 
 ### Related:
 

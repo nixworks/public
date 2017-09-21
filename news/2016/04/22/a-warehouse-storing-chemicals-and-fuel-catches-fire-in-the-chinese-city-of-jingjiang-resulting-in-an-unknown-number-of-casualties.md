@@ -8,6 +8,7 @@ A warehouse storing chemicals and fuel exploded and caught fire in the eastern C
 ### Source:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/chemical-blast-rocks/2722022.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/2722042/1461303038000/large16x9/640/360/chemical-explosion.jpg)
 
 ### Related:
 

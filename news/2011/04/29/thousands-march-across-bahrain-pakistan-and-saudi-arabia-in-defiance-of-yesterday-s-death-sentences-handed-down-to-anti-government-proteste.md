@@ -8,6 +8,7 @@ Thousands denounce death sentences for anti-government protesters, and solidarit
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011429194938853377.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/29/2011429195649408572_20.jpg)
 
 ### Related:
 

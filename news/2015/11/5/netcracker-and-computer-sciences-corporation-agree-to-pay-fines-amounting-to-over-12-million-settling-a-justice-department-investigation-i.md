@@ -8,6 +8,7 @@ By Patrick Malone, Center for Public IntegrityThe Pentagon was tipped off in 201
 ### Source:
 
 1. [The Daily Beast](http://www.thedailybeast.com/articles/2015/11/04/pentagon-farmed-out-its-coding-to-russia.html#)
+1. [Cover Image](http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/04/pentagon-farmed-out-its-coding-to-russia/jcr:content/image.img.2000.jpg/1446668987375.cached.jpg)
 
 ### Related:
 

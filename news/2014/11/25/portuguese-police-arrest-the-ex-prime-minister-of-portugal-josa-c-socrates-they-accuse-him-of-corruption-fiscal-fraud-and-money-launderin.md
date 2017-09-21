@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/video/multimedia/100000003250300/portugals-ex-pm-socrates-arrested-in-corruption-probe.html)
+1. [Cover Image]({{ og_image }})
 
 ### Related:
 

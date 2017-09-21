@@ -8,3 +8,4 @@ The demonstration grew by the minute into an extraordinary expression of anger a
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/12/21/world/middleeast/violence-enters-5th-day-as-egyptian-general-blames-protesters.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/12/21/world/EGYPT/EGYPT-thumbStandard.jpg)

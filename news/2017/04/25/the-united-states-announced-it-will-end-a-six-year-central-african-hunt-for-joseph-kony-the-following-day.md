@@ -8,6 +8,7 @@ One of Africas longest-surviving rebel groups, the LRA has terrorised parts of c
 ### Source:
 
 1. [AFP via ''Pulse.ng](http://pulse.ng/world/joseph-kony-us-troops-end-hunt-for-lra-warlord-after-6-years-id6579489.html)
+1. [Cover Image](https://static.pulse.ng/img/news/crop6579485/84717429-cfacebook_photo-w1200-h630/846cfbc4fd859c1bf5e0c61fa5104c4fcffd8d01.jpg)
 
 ### Related:
 

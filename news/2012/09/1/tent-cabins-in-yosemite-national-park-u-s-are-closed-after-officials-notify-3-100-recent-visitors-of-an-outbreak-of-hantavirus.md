@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-hantavirus-yosemite-20120901,0,3596526.story)
+1. [Cover Image](http://www.latimes.com/media/photo/2012-08/72049933.jpg)
 
 ### Related:
 

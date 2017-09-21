@@ -8,6 +8,7 @@ Thousands of head teachers in England and Wales have voted in favour of strike a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-15655434)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56614000/jpg/_56614658_pensions30junegettyimages.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Italian court has cleared 16 senior police officers accused of orchestrating 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/3457851/Italian-court-sparks-outrage-by-clearing-16-senior-policemen-in-G8-Genoa-Case.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01114/Mark_Covell_1114051a.gif)
 
 ### Related:
 

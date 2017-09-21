@@ -8,6 +8,7 @@ The so-called &#034;underwear bomber&#034; has pleaded guilty to trying to blow 
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/underwear-bomber-pleads-guilty-to-attempted-murder-of-289-plane-passengers-20111013-1llr0.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/l/l/r/c/image.related.articleLeadwide.620x349.1llr0.png/1318460639920.jpg)
 
 ### Related:
 

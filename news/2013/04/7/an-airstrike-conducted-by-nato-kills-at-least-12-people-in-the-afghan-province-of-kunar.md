@@ -8,6 +8,7 @@ Eleven children are reported to have been among those killed in a Nato air strik
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22058455)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66790000/gif/_66790643_afghan_kunar_0413.gif)
 
 ### Related:
 

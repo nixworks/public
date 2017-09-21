@@ -9,6 +9,7 @@ Thousands of students and lecturers are arriving in London for a rally against p
 
 1. [BBC](http://www.bbc.co.uk/news/education-11719929)
 2. [The Guardian](http://www.guardian.co.uk/education/2010/nov/10/student-fees-protest-conservative-hq)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

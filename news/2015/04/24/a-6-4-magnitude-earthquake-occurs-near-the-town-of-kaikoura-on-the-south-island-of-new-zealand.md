@@ -8,6 +8,7 @@ A strong earthquake centered just off Kaikoura has caused problems with the Spar
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11438112)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/png/201517/seis_1024x768.png)
 
 ### Related:
 

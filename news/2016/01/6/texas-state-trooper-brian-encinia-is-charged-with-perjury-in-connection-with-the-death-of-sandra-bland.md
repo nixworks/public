@@ -8,6 +8,7 @@ A Texas state trooper who arrested Sandra Bland after a contentious traffic stop
 ### Source:
 
 1. [AP via Fox 32](http://www.fox32chicago.com/news/local/69787642-story)
+1. [Cover Image](http://static.lakana.com/media.fox32chicago.com/photo/2015/08/25/8458195_G_1440549066206_123062_ver1.0_640_360.jpg)
 
 ### Related:
 

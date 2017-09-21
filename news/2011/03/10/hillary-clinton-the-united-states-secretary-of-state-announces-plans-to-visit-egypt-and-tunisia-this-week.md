@@ -8,6 +8,7 @@ Secretary of State Hillary Clinton is set to travel to Egypt and Tunisia next we
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/10/us-mideast-clinton-idUSTRE7294EA20110310?feedType=RSS&feedName=politicsNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110310&t=2&i=358270754&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-10T155440Z_01_BTRE729187700_RTROPTP_0_USA)
 
 ### Related:
 

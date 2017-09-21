@@ -9,6 +9,7 @@ Israel was not at fault for the death of US activist Rachel Corrie, killed in Ga
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19391814)
 2. [The Times of Israel](http://www.timesofisrael.com/rachel-corries-death-ruled-accidental-by-haifa-high-court/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62518000/jpg/_62518477_62518476.jpg)
 
 ### Related:
 

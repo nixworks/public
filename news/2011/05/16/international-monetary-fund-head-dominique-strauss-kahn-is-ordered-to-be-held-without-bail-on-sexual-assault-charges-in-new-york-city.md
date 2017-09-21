@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13408002)
 2. [Bloomberg](http://www.bloomberg.com/news/2011-05-16/imf-chief-strauss-kahn-ordered-held-without-bail-on-sex-assault-accusation.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52737000/jpg/_52737620_011991121-1.jpg)
 
 ### Related:
 

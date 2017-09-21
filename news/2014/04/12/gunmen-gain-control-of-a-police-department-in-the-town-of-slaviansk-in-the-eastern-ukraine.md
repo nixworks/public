@@ -8,6 +8,7 @@ Ukraine appealed to Russia to halt &quot;provocative actions&quot; in its easter
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/12/us-ukraine-crisis-police-idUSBREA3B04O20140412)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140412&t=2&i=883993599&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3B0VNU00)
 
 ### Related:
 

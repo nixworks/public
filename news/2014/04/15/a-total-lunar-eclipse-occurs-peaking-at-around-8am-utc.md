@@ -8,3 +8,4 @@ The moon took on an eerie blood-red hue early Tuesday during the first total lun
 ### Source:
 
 1. [space.com via Fox News](http://www.foxnews.com/science/2014/04/15/under-blood-moon-1st-total-lunar-eclipse-2014-wows-stargazers-photos/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2014/04/15/under-blood-moon-1st-total-lunar-eclipse-2014-wows-stargazers-photos/_jcr_content/par/featured-media/media-3.img.jpg/0/0/1445412896473.jpg?ve=1)

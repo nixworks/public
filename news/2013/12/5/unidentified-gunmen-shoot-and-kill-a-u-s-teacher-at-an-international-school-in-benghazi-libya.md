@@ -8,6 +8,7 @@ Shooting comes 15 months after an attack on US consulate that killed the ambassa
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/12/us-teacher-gunned-down-benghazi-2013125124853392209.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/5/2013125145232854734_20.jpg)
 
 ### Related:
 

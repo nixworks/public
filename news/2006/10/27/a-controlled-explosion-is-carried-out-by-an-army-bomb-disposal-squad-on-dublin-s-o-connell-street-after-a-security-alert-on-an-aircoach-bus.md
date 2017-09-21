@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2006/1027/dublin.html?rss)
+1. [Cover Image](https://img.rasset.ie/0000507e-1600.jpg)
 
 ### Related:
 

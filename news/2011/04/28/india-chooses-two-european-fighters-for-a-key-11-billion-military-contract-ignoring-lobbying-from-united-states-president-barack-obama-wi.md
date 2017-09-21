@@ -8,6 +8,7 @@ India shortlists two European fighter jets and rules out two US rivals for a key
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13233177)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

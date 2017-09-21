@@ -8,6 +8,7 @@ The Pentagon confirmed on Friday that Ahmed Abdi Godane, a leader of the al Shab
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/05/us-somalia-usa-islamist-idUSKBN0H01OO20140905)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140905&t=2&i=970421316&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA8411M)
 
 ### Related:
 

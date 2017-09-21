@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/20091113133153733615.html)
 2. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLD714190._CH_.2400)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090821&t=2&i=11320429&w=&fh=545px&fw=&ll=&pl=&sq=&r=YE-Saada-60)
 
 ### Related:
 

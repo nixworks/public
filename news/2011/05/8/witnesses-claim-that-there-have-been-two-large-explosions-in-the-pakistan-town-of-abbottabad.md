@@ -8,6 +8,7 @@ The U.S. wants access to Osama bin Laden&#39;s three widows and any intelligence
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42948702/ns/world_news-south_and_central_asia/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110509-osama-wife-hmed-2a.standard.jpg)
 
 ### Related:
 

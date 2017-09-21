@@ -8,6 +8,7 @@
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/SouthAfrica/News/De-Klerk-returns-home-for-Mandela-20130629)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2075/b8bd58044814446b86520d667b7df7a8.jpg)
 
 ### Related:
 

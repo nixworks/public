@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/10787281/Ukraine-helicopter-hit-by-grenade-taking-off.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02892/ukriane-chopper_2892770k.jpg)
 
 ### Related:
 

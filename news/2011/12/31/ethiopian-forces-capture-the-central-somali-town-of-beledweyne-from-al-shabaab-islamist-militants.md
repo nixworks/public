@@ -8,6 +8,7 @@ Ethiopian forces capture the central Somali town of Beledweyne from Islamist mil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16372453)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56416000/jpg/_56416580_013178632-1.jpg)
 
 ### Related:
 

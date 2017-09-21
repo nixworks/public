@@ -8,6 +8,7 @@ Israeli Prime Minister Ehud Olmert and Palestinian leader Mahmoud Abbas will att
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/13431582/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060620/060620_abbas_hmed_330a.standard.jpg)
 
 ### Related:
 

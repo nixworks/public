@@ -8,6 +8,7 @@ MANILA &ndash; Former President and Congresswoman Gloria Macapagal Arroyo is now
 ### Source:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/10/04/12/arroyo-arrested-plunder-stays-vmmc)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/july27_arroyo.jpg)
 
 ### Related:
 

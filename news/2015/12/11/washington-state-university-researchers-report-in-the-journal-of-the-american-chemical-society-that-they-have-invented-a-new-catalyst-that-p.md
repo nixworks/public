@@ -9,6 +9,7 @@ A newly invented catalyst promises to enable the production of bio-based chemica
 
 1. [Phys.org](http://phys.org/news/2015-12-catalyst-paves-bio-based-plastics-chemicals.html)
 2. [UPI](http://www.upi.com/Science_News/2015/12/11/New-catalyst-to-make-eco-fiendly-bio-based-plastics-possible/2051449871130/?spt=hs&or=sn)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/2051449871130/2015/1/14498728945062/v2.1/New-catalyst-to-make-eco-fiendly-bio-based-plastics-possible.jpg)
 
 ### Related:
 

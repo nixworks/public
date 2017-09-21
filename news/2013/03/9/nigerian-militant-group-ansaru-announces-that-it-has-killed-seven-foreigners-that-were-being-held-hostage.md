@@ -10,6 +10,7 @@ Diplomats investigate claims by Nigerian militant group Ansaru that it has kille
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21726993)
 2. [Reuters](http://www.reuters.com/article/2013/03/09/us-nigeria-hostages-idUSBRE9280BO20130309)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/9919656/Nigerian-militants-kill-seven-hostages-including-Briton.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66296000/jpg/_66296732_66296731.jpg)
 
 ### Related:
 

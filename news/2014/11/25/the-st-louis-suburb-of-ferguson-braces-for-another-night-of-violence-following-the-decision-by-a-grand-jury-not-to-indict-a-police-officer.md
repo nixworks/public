@@ -8,6 +8,7 @@ Missouri&#039;s governor ordered hundreds more state militia into a St. Louis su
 ### Source:
 
 1. [AP via First Post](http://www.firstpost.com/world/ferguson-braces-for-more-protests-after-a-violent-night-2200-national-troops-sent-in-1821999.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2014/11/Michael-Brown-protest-AP1.jpg)
 
 ### Related:
 

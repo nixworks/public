@@ -9,6 +9,7 @@ Three South Koreans, including a medical doctor, are being investigated after al
 
 1. [Press TV](http://www.presstv.ir/detail/147759.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/southkorea/8080527/South-Koreans-investigated-for-trying-to-defect-to-North.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01745/korea_1745133a.jpg)
 
 ### Related:
 

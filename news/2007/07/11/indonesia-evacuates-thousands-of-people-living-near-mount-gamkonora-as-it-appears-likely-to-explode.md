@@ -8,6 +8,7 @@ An official in Indonesia says Mount Gamkonora, in the east of the country, has s
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/11/1976015.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2501144-1x1-700x700.jpg)
 
 ### Related:
 

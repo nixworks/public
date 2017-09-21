@@ -12,6 +12,7 @@ A VIOLENT Atlantic hurricane shaping up to be one of the most powerful on record
 3. [Daily Mail](http://www.dailymail.co.uk/news/article-3258281/UK-braced-storms-Hurricane-Joaquin-makes-dramatic-turn-away-heads-Britain.html#ixzz3nVEARTJ2)
 4. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/030837.shtml?)
 5. [WCVB5 Boston](http://www.wcvb.com/weather/joaquin-strengthens-becoming-an-extremely-dangerous-category-4-storm/35599732)
+5. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/153/590x/Hurricane-Joaquin-Britain-609309.jpg)
 
 ### Related:
 

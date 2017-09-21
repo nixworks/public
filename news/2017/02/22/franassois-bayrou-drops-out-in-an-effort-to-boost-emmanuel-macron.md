@@ -8,6 +8,7 @@ Self-described outsider and centrist take surprise step of joining forces as vet
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/22/french-elections-centrist-bayrou-offers-alliance-with-macron)
+1. [Cover Image](https://i.guim.co.uk/img/media/b0a2b480e528fb5d877df031550f9a386ba41d58/0_99_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=933c1e8bf2c6592958dd8d010738f975)
 
 ### Related:
 

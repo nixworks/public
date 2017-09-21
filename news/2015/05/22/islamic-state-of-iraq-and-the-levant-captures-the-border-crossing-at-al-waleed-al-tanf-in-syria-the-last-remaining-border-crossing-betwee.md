@@ -8,6 +8,7 @@ Islamic State militants reportedly seize the last Syrian government-controlled b
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-32840508)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83158000/jpg/_83158680_islamicstate.jpg)
 
 ### Related:
 

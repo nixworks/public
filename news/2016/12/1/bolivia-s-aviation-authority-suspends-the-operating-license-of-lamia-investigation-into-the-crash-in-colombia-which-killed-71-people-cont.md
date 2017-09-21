@@ -8,6 +8,7 @@ Bolivia suspends the operating licence of LaMia, the airline whose plane crashed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38173708)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CF97/production/_92734135_mediaitem92734134.jpg)
 
 ### Related:
 

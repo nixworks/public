@@ -12,6 +12,7 @@ U2 lead singer Bono had emergency surgery on his back in a Munich hospital today
 3. [CNN](http://edition.cnn.com/2010/SHOWBIZ/Music/05/21/bono.back.surgery/)
 4. [TIME](http://newsfeed.time.com/2010/05/21/bonos-back-surgery-the-impact-on-u2s-360-tour/)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0521/breaking58.html)
+5. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Nawaz Sharif, the exiled former prime minister of Pakistan, boarded a flight fro
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/10/2028076.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6985205.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6986368.stm)
+3. [Cover Image](http://www.abc.net.au/news/image/489084-1x1-700x700.jpg)
 
 ### Related:
 

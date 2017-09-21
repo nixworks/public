@@ -11,6 +11,7 @@
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/187436/us-resumes-ties-with-indonesian-special-forces)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-indonesia-resume-military-ties-20100722-10mpu.html)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/22/AR2010072201449.html)
+4. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

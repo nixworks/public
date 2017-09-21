@@ -8,6 +8,7 @@ An Australian Muslim cleric has reportedly called for the beheading of the Dutch
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/aust-muslim-calls-for-beheading-report-20100903-14unw.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

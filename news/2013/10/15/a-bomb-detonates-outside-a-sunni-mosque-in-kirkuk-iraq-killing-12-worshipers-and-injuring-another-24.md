@@ -8,6 +8,7 @@ Bomb targets crowd of Sunni worshippers coming out of a mosque in northern Iraq
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/world/middle-east/at-least-12-dead-in-iraq-bomb-attack-1.1561427)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1561426&origw=960)
 
 ### Related:
 

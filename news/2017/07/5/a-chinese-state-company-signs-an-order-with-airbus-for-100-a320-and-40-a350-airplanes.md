@@ -8,6 +8,7 @@ Airbus (AIR.PA) has signed an agreement to sell 140 aircraft to China, it said o
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-airbus-china-idUSKBN19Q1A1)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170705&t=2&i=1191717409&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED640ST)
 
 ### Related:
 

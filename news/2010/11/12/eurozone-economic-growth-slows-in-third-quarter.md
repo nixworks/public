@@ -8,6 +8,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### Source:
 
 1. [Hurriyet Daily](http://www.hurriyetdailynews.com/n.php?n=eurozone-economic-growth-slows-in-third-quarter-2010-11-12)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Air Force targets vehicle in central Strip belonging to terrorist who was planni
 
 1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010%5C10%5C08%5Cstory_8-10-2010_pg4_9)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3966095,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

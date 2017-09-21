@@ -8,6 +8,7 @@ Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/france-vaccinations-compulsory-632060)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2017/07/05/edourad-philippe-vaccines.jpg)
 
 ### Related:
 

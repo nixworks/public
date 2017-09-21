@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-33171549)
 2. [U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/06/18/left-right-are-neck-and-neck-as-danes-vote-in-elections)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/AC4E/production/_83701144_83701143.jpg)
 
 ### Related:
 

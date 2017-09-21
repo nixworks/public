@@ -1,7 +1,7 @@
 ## [2003-11-5](/news/2003/11/5/index.md)
 
 ### [ United States - Politics: Democratic intel memo by staff disturbs the US Senate. Senator Zell Miller (D-GA) states ""heads should roll"" over the memo of the Senate Select Committee on Intelligence that outlines a strategy to politicize intelligence data.](/news/2003/11/5/united-states-a-politics-democratic-intel-memo-by-staff-disturbs-the-us-senate-senator-zell-miller-d-ga-states-heads-should-roll.md)
-_Context: Democratic Party, Senate Select Committee on Intelligence, United States Senate, Zell Miller, political organisation_
+_Context: Democratic, Senate Select Committee on Intelligence, United States Senate, Zell Miller, political organisation_
 
 ### [ After 26 years, and at a distance from Earth of over 8 billion miles, Voyager 1 exits the solar system. It is expected to keep on transmitting into the 2020s.](/news/2003/11/5/after-26-years-and-at-a-distance-from-earth-of-over-8-billion-miles-voyager-1-exits-the-solar-system-it-is-expected-to-keep-on-transmitt.md)
 _Context: Earth, Voyager 1_

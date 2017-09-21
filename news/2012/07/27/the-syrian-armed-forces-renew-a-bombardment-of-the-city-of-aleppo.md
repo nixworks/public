@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012727111921493143.html)
 2. [Albawaba](http://www.albawaba.com/news/clashes-continue-syrian-mp-defects-435755)
 3. [Reuters](http://www.reuters.com/article/2012/07/27/us-syria-crisis-idUSBRE8610SH20120727)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/25/2012725141328407734_20.jpg)
 
 ### Related:
 

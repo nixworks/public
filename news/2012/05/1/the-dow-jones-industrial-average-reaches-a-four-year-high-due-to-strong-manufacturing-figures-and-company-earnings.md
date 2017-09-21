@@ -8,6 +8,7 @@ U.S. stocks rose solidly Tuesday as investors welcomed a rise in U.S. manufactur
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/05/01/markets/stocks/index.htm?hpt=hp_t3)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/05/01/markets/stocks/chart_ws_index_dow_201251161848.01.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ GENEVA (AP) — Eritrea&#039;s &quot;systematic, widespread&quot; human rights a
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/c1f8c2078baf4e7c9777a85bd8db5c3f/refer-eritreas-human-rights-crimes-icc-un-group-says)
+1. [Cover Image](http://binaryapi.ap.org/802d8b3f3778476d8a66167d60bbac42/460x.jpg)
 
 ### Related:
 

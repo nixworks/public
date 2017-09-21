@@ -8,6 +8,7 @@ A strong earthquake that hit a sparsely populated, mountainous area of western C
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/11/23/magnitude-5-earthquake-kills-at-least-4-injures-dozens-in-western-china/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/11/23/magnitude-5-earthquake-kills-at-least-4-injures-dozens-in-western-china/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449673640449.jpg?ve=1)
 
 ### Related:
 

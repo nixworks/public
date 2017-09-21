@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-10-14/typhoon-vongfong-kills-one-person2c-injures-93/5811660)
+1. [Cover Image](http://www.abc.net.au/news/image/5811794-1x1-700x700.jpg)
 
 ### Related:
 

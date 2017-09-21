@@ -9,6 +9,7 @@ North Korea warns that US-South Korean plans for military maneuvers put peninsul
 
 1. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?ID=196894&R=R1)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/North-Korea-warns-that-region-is-on-the-brink-of-war/articleshow/6996315.cms)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=154013)
 
 ### Related:
 

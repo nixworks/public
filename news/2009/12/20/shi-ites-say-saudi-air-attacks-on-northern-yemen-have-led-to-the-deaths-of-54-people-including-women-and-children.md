@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE5BJ1NO20091220)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091220&t=2&i=34255893&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-20T203924Z_01_BTRE5BJ1LDS00_RTROPTP_0_YEMEN)
 
 ### Related:
 

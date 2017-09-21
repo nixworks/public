@@ -8,6 +8,7 @@ The arrest of several army officers in Guinea is not linked to the forthcoming e
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10312755.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

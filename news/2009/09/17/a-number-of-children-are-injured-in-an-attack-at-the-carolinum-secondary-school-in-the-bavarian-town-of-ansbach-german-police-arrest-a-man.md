@@ -9,6 +9,7 @@ An 18-year-old student armed with an axe has been arrested in Germany after thro
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8260427.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0917/germany.html)
+2. [Cover Image](https://img.rasset.ie/00029a0b-1600.jpg)
 
 ### Related:
 

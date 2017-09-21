@@ -8,6 +8,7 @@ Former media mogul Conrad Black has been released from prison in Miami after ser
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17959389)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60051000/jpg/_60051040_60051039.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japan’s foreign minister of barely six months, Seiji Maehara, may have earned 
 ### Source:
 
 1. [Wall Street Journal](http://blogs.wsj.com/japanrealtime/2011/03/06/the-2429-donation-that-brought-down-japans-foreign-minister/)
+1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

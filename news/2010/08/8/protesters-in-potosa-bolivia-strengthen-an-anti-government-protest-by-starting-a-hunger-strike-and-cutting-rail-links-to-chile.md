@@ -10,6 +10,7 @@ Protesters who have been holding a Bolivian city hostage for 10 days have now cu
 1. [ABC News](http://www.abc.net.au/news/stories/2010/08/09/2977080.htm)
 2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jHAaBtISHk-SqED6EyWQByyVWi5Q)
 3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=362205&CategoryId=14919)
+3. [Cover Image](http://www.abc.net.au/news/image/938042-1x1-700x700.jpg)
 
 ### Related:
 

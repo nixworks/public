@@ -11,6 +11,7 @@ Canadian Soldiers And Afghan Interpreter Die In Roadside Bombing In Kandahar
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8566109.stm)
 3. [CBS](http://www.cbsnews.com/stories/2007/07/04/terror/main3015715.shtml)
 4. [CNN](http://news.blogs.cnn.com/2010/03/13/blast-kills-6-in-afghanistan/?hpt=T2)
+4. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2007/07/04/d91c9501-a642-11e2-a3f0-029118418759/image3015725x.jpg)
 
 ### Related:
 

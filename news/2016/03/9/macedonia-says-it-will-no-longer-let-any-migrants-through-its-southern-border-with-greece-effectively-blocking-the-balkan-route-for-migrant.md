@@ -8,6 +8,7 @@ Macedonia says it will no longer let any migrants cross its border with Greece, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35763101)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5CB8/production/_88663732_88663731.jpg)
 
 ### Related:
 

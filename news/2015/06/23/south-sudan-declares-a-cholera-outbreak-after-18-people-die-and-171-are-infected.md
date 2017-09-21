@@ -9,6 +9,7 @@
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/south-sudan-government-declares-cholera-outbreak-150623133126668.html)
 2. [REUTERS](http://www.reuters.com/article/2015/06/23/us-southsudan-cholera-idUSKBN0P31GU20150623)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/23/8501ed7e89f6442492b6d7a77d3a92e9_18.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 50 people were injured and 35 arrested as Venezuelan university studen
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/11/06/2083539.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

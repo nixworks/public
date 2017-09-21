@@ -13,6 +13,7 @@ Bahrain has recalled its ambassador from Syria for consultation Foreign Minister
 4. [Huffington Post](http://www.huffingtonpost.com/2011/08/08/syria-ministry-of-defense-hacked-anonymous_n_920733.html)
 5. [Syrian Arab News Agency](http://www.sana.sy/eng/337/2011/08/08/362679.htm)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4105840,00.html)
+6. [Cover Image](http://static.gulfnews.com/media/img/gulfnews_logo.png?v=1)
 
 ### Related:
 

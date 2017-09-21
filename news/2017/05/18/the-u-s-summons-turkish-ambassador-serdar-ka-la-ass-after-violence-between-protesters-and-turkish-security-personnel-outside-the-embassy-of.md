@@ -8,6 +8,7 @@ The meeting comes as senators call for the Turkish ambassador to be expelled ove
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-39969965)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/18401/production/_96092399_gettyimages-683954402.jpg)
 
 ### Related:
 

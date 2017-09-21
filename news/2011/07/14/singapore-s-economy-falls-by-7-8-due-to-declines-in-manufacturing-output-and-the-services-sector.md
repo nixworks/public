@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/singapore-economy-shrinks-78-more-than-expected-2011-07-13?siteid=rss)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

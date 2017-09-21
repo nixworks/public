@@ -9,6 +9,7 @@
 
 1. [New York](http://nymag.com/daily/intelligencer/2016/06/george-will-leaves-gop-over-trump.html)
 2. [Politico](http://www.politico.com/story/2016/06/george-will-leaves-gop-224801)
+2. [Cover Image](http://pixel.nymag.com/imgs/daily/intelligencer/2016/04/21/21-george-will.w1200.h630.jpg)
 
 ### Related:
 

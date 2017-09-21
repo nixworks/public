@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/31/houston-fire-five-alarm-injured-firefighters-hotel/2377651/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

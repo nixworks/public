@@ -8,6 +8,7 @@ Hairdresser turned tycoon and Birmingham City club owner Carson Yeung was releas
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2011/06/30/uk-soccer-england-birmingham-yeung-idUKTRE75T0TE20110630)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110630&t=2&i=449382653&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-30T053011Z_01_BTRE75T0FAE00_RTROPTP_0_SOCCER-ENGLAND-BIRMINGHAM-YEUNG)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The U.S. Air Force deployed B-52 bombers to Qatar on Saturday to join the fight 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-usa-bombers-idUSKCN0X60F1)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160409&t=2&i=1131525544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC380EU)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Actress Luise Rainer, who became the first winner of consecutive Oscars in the 1
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-30631088)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79980000/jpg/_79980340_135867881.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 100 people are dead or missing in North Korea due to floods and landsl
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/13925878/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

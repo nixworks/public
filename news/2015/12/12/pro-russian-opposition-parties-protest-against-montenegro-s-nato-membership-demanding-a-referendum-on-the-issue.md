@@ -8,6 +8,7 @@ Several thousand supporters of pro-Russian opposition parties protested Saturday
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/thousands-rally-against-montenegros-nato-membership-223202533.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/GEDeYOsrIlPAaM7Nge9sPw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/8da2be926d4902b08d5bd35773e8e711a1b5c2ba.jpg)
 
 ### Related:
 

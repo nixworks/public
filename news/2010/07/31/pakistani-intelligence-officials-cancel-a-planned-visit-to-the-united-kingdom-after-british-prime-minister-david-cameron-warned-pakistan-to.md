@@ -8,6 +8,7 @@ Pakistan says it expects &quot;fruitful&quot; talks between its president and Da
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10829159)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

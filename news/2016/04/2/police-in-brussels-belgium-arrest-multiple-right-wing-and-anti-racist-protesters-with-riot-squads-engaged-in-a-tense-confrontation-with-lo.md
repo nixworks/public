@@ -8,6 +8,7 @@ Belgian police made a series of arrests of right-wing and anti-racist protesters
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-belgium-blast-protests-idUSKCN0WZ0MJ)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160402&t=2&i=1129709842&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC310DK)
 
 ### Related:
 

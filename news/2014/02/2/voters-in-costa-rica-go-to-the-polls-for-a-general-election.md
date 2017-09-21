@@ -8,6 +8,7 @@ On Feb. 2, Costa Ricans will head to the polls to elect a new president and memb
 ### Source:
 
 1. [TicoTimes](http://www.ticotimes.net/2014/01/31/6-things-you-should-know-about-sundays-elections-in-costa-rica)
+1. [Cover Image](http://www.ticotimes.net/wp-content/uploads/2014/01/140130partyflags-1000x647.jpg)
 
 ### Related:
 

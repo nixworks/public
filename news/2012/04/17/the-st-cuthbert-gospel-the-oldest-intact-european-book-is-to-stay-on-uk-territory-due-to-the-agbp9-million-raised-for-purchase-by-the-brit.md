@@ -8,6 +8,7 @@ The British Library raises £9m to buy the 7th Century St Cuthbert Gospel - the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17732310)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54072000/jpg/_54072397_012449954-1.jpg)
 
 ### Related:
 

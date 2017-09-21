@@ -8,6 +8,7 @@ Security forces claim to have recovered land mines and other weapons from the mi
 ### Source:
 
 1. [Dawn](http://www.dawn.com/news/1299411/five-suspected-militants-killed-in-balochistans-sibi)
+1. [Cover Image](http://i.dawn.com/medium/2016/11/583da583ccf76.jpg)
 
 ### Related:
 

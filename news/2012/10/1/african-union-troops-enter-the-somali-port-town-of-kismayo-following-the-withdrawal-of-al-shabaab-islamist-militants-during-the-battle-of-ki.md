@@ -8,6 +8,7 @@ Somali government and African Union troops enter the port city of Kismayo, a for
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19785316)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63224000/jpg/_63224982_63224981.jpg)
 
 ### Related:
 

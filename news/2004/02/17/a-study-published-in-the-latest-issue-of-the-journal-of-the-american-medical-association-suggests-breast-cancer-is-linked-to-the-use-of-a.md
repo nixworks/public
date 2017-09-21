@@ -9,6 +9,7 @@ Study of thousands of American women finds that frequent use of antibiotics is l
 
 1. [NYT](http://www.nytimes.com/2004/02/17/health/17CANC.html)
 2. [Tucson Citizen](http://www.tucsoncitizen.com/index.php?page=national&story_id=021703a1_antibiotics)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

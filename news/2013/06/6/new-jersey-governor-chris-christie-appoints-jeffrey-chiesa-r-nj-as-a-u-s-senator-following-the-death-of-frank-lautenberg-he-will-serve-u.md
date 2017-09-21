@@ -8,6 +8,7 @@ New Jersey Gov. Chris Christie announced Thursday he will appoint the state&rsqu
 ### Source:
 
 1. [NBC News](http://firstread.nbcnews.com/_news/2013/06/06/18803535-christie-selects-new-jersey-ag-to-fill-senate-vacancy?lite)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/f_chrste_ltnbrgsus_130606.vmodv4.jpg)
 
 ### Related:
 

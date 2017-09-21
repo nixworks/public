@@ -8,6 +8,7 @@ The head of the Pakistani Taliban has removed his deputy commander, the militant
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17256129)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58876000/jpg/_58876131_58876049.jpg)
 
 ### Related:
 

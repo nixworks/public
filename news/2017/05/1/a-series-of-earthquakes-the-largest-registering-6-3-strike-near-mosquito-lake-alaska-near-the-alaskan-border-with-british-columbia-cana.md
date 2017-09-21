@@ -9,6 +9,7 @@ A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Al
 
 1. [CBC News](http://www.cbc.ca/news/canada/north/earthquake-yukon-alaska-1.4093105)
 2. [USA Today](https://www.usatoday.com/story/news/nation/2017/05/01/earthquake-rattles-canada-alaska/101152126/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

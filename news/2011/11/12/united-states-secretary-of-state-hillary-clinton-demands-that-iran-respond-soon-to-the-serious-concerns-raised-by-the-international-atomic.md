@@ -9,6 +9,7 @@ Secretary of State says Iran must &quot;answer the serious questions&quot; raise
 
 1. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=245304)
 2. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=245278)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=178072)
 
 ### Related:
 

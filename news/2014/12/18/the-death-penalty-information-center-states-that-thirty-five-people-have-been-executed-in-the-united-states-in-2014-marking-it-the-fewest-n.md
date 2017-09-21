@@ -8,6 +8,7 @@ Driven in part by continuing legal disputes related to lethal injection drugs an
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/12/17/executions-death-sentences-declining/20557375/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

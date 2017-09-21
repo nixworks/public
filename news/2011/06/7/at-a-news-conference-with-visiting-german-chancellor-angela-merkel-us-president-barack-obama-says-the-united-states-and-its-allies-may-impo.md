@@ -8,6 +8,7 @@ President Barack Obama said on Tuesday the United States and its allies may slap
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/07/us-nuclear-iran-usa-idUSTRE7564ZN20110607)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110607&t=2&i=430680515&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-07T172436Z_01_BTRE7561CD400_RTROPTP_0_USA-GERMANY)
 
 ### Related:
 

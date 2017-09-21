@@ -9,6 +9,7 @@ Carney will be replaced by his deputy, longtime Obama aide Josh Earnest.
 
 1. [AFP via Y!7 News](https://au.news.yahoo.com/world/a/23996951/us-veterans-affairs-secretary-resigns-amid-scandal/)
 2. [The Hill](http://thehill.com/blogs/blog-briefing-room/news/207763-carney-resigns-as-white-house-spokesman)
+2. [Cover Image](http://thehill.com/sites/default/files/blogs/carneyjay_041414getty_1.jpg)
 
 ### Related:
 

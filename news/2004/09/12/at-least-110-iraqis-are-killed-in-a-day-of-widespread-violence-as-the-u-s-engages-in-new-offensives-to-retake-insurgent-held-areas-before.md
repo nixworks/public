@@ -1,0 +1,24 @@
+### [2004-09-12](/news/2004/09/12/index.md)
+
+#  At least 110 Iraqis are killed in a day of widespread violence, as the U.S. engages in new offensives to retake insurgent-held areas before the January elections. An al-Arabiya journalist is killed during a live broadcast when attack helicopters fire at a crowd gathered around a burning Bradley vehicle in Baghdad. Helicopters and tanks fire on residential areas in rebel-occupied Ramadi. More fighting takes place in Tal Afar and Hilla. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3648786.stm)
+2. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6212585)
+
+### Related:
+
+1. [A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin-blasts-in-baghdad-s-kadhimiya-neighborhood.md) _Context: Baghdad, Hilla, Iraq_
+2. [A car bomb explodes in the southern Iraqi city of Hilla, killing at least 21 police officers and injuring 65; in northern Iraq and in Baghdad, four people are killed in other attacks. ](/news/2011/05/5/a-car-bomb-explodes-in-the-southern-iraqi-city-of-hilla-killing-at-least-21-police-officers-and-injuring-65-in-northern-iraq-and-in-baghda.md) _Context: Baghdad, Hilla, Iraq_
+3. [ Bomb attacks in the Iraqi cities of Baghdad and Hilla leave 23 dead. ](/news/2009/12/24/bomb-attacks-in-the-iraqi-cities-of-baghdad-and-hilla-leave-23-dead.md) _Context: Baghdad, Hilla, Iraq_
+4. [ Iraq War: United States and Iraqi forces backed by attack helicopters fight gunmen in Baghdad in the heaviest fighting since the launch of a security crackdown in February 2007. ](/news/2007/04/10/iraq-war-united-states-and-iraqi-forces-backed-by-attack-helicopters-fight-gunmen-in-baghdad-in-the-heaviest-fighting-since-the-launch-of.md) _Context: Baghdad, Iraq, helicopters_
+5. [ Multiple bomb attacks across Baghdad, Iraq kill at least 40 people while 12 more die after bomb explodes near an army recruiting office in Hilla. ](/news/2006/08/30/multiple-bomb-attacks-across-baghdad-iraq-kill-at-least-40-people-while-12-more-die-after-bomb-explodes-near-an-army-recruiting-office-in.md) _Context: Baghdad, Hilla, Iraq_
+6. [ US Secretary of State Condoleezza Rice visits Iraq and calls for patience in the political struggle against the insurgency. Meanwhile, the bodies of 34 people are found at locations in Baghdad, Iskandariya, and Ramadi, all apparently having been executed. ](/news/2005/05/15/us-secretary-of-state-condoleezza-rice-visits-iraq-and-calls-for-patience-in-the-political-struggle-against-the-insurgency-meanwhile-the.md) _Context: Baghdad, Iraq, Ramadi_
+7. [ A suicide car bomb explodes in the Iraqi town of Hilla, 60 kilometres south of Baghdad. 125 people are killed and many injured.](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-of-hilla-60-kilometres-south-of-baghdad-125-people-are-killed-and-many-injured.md) _Context: Baghdad, Hilla, Iraq_
+8. [ Two U.S. soldiers are killed and three wounded when a roadside bomb in Baghdad detonates. Four Iraqi National Guard are killed in an attack on a checkpoint in nearby Baghdadi. Six Iraqis are killed in a blast near a police station in Ramadi. The Iraqi Red Crescent establishes a relief center in Fallujah, while the International Red Cross says the city remains under siege and workers are unable to freely administer aid. ](/news/2004/11/29/two-u-s-soldiers-are-killed-and-three-wounded-when-a-roadside-bomb-in-baghdad-detonates-four-iraqi-national-guard-are-killed-in-an-attack.md) _Context: Baghdad, Iraq, Ramadi_
+9. [ Conflict in Iraq: A roadside bomb kills a U.S. soldier and wounds five others in western Baghdad. Hospital officials say five civilians are killed from U.S. snipers in the western city of Ramadi. In Kirkuk, a roadside bomb kills an Iraqi civilian. An Estonian soldier is killed and five wounded in a bomb blast in Baghdad. A mortar lands on an Iraqi National Guard checkpoint north of Baghdad, killing an Iraqi civilian. In Mosul, a car bomb kills a tribal leader and two civilians. ](/news/2004/10/25/conflict-in-iraq-a-roadside-bomb-kills-a-u-s-soldier-and-wounds-five-others-in-western-baghdad-hospital-officials-say-five-civilians-are.md) _Context: Baghdad, Iraq, Ramadi_
+10. [ Conflict in Iraq: A rocket attack in southern Baghdad kills two US soldiers and injures five others, while in the northern city of Mosul a suicide car bomb detonated near a U.S. military convoy kills a U.S. soldier and two Iraqis and injures 27 others. ](/news/2004/10/11/conflict-in-iraq-a-rocket-attack-in-southern-baghdad-kills-two-us-soldiers-and-injures-five-others-while-in-the-northern-city-of-mosul-a.md) _Context: Baghdad, Iraq, rebel-held_

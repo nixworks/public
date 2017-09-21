@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-27165844)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74454000/jpg/_74454643_74454642.jpg)
 
 ### Related:
 

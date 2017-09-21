@@ -8,6 +8,7 @@ Felipe&#x27;s coronation on Thursday, following King Juan Carlos&#x27;s recent a
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/jun/18/spain-crown-prince-felipe-on-brink-of-becoming-king)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2014/6/18/1403103406733/Prince-Felipe-of-Spain-Ma-009.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=34b5182dfdd71a67c64fd73bf3c8f8cd)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The 95-year-old royal will stop carrying out public engagements in autumn, Bucki
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-39802636)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13F87/production/_95899718_mediaitem95899716.jpg)
 
 ### Related:
 

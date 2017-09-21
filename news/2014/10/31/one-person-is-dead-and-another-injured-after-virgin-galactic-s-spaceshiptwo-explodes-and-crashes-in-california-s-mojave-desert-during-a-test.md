@@ -10,6 +10,7 @@
 1. [ABC News](http://abcnews.go.com/Technology/dead-injured-virgin-galactic-spacecraft-crash/story?id=26608625)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-29857182)
 3. [The Bakersfield Californian](http://www.bakersfieldcalifornian.com/local/x1143260271/SpaceShipTwo-experiences-in-flight-anomaly)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78679000/png/_78679926_explosion.png)
 
 ### Related:
 

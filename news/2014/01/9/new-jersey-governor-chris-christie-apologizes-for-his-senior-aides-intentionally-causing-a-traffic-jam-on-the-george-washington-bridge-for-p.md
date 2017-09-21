@@ -8,6 +8,7 @@ New Jersey Governor Chris Christie on Thursday fired a top aide who apparently h
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/09/us-usa-newjersey-bridge-christie-idUSBREA080MB20140109)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140109&t=2&i=828155646&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA081ESW00)
 
 ### Related:
 

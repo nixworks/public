@@ -8,6 +8,7 @@ U.S. hospitals should brace for a surge in &quot;ransomware&quot; attacks by cyb
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-cyber-ransomware-idUSKCN0WY5L5)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160401&t=2&i=1129548969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC303AB)
 
 ### Related:
 

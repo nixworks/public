@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rolling Stone](http://www.rollingstone.com/politics/news/another-runaway-general-army-deploys-psy-ops-on-u-s-senators-20110223)
+1. [Cover Image](http://img.wennermedia.com/social/rs-19083-rectangle.jpg)
 
 ### Related:
 

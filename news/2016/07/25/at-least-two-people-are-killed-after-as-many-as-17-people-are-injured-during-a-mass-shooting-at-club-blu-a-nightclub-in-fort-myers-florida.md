@@ -9,6 +9,7 @@ Two people are killed and up to 16 injured in a shooting at a nightclub in the c
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-36882456#)
 2. [News-Press](http://www.news-press.com/story/news/2016/07/25/two-dead-up-16-injured-after-shooting-fort-myers-nightclub/87518214/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3624/production/_90506831_034216592-1.jpg)
 
 ### Related:
 

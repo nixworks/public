@@ -9,6 +9,7 @@ Two Palestinians armed with a gun and meat cleavers kill four worshippers at a J
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-30092720)
 2. [The Guardian](http://www.theguardian.com/world/2014/nov/18/deadly-attack-in-jerusalem-synagogue)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79102000/jpg/_79102286_79092541.jpg)
 
 ### Related:
 

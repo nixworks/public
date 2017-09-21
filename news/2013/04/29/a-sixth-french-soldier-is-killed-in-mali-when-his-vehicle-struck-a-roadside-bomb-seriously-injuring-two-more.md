@@ -8,6 +8,7 @@ A French soldier with the force that intervened in Mali has been killed by a roa
 ### Source:
 
 1. [BBC news](http://www.bbc.co.uk/news/business-22346762/)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67313000/jpg/_67313242_67313239.jpg)
 
 ### Related:
 

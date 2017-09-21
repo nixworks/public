@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/12/03/uk-congo-democratic-idUKBRE8B20OW20121203)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121203&t=2&i=680755349&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B21H8300)
 
 ### Related:
 

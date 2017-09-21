@@ -9,6 +9,7 @@ The first Polish case of H5 bird flu has been found in two swans found dead on t
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4777832.stm)
 2. [News-Medical Net](http://www.news-medical.net/?id=16348)
+2. [Cover Image](http://www.news-medical.net/image.axd?picture=2014%2f7%2fpigeons-620x480.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@ The first Polish case of H5 bird flu has been found in two swans found dead on t
 7. [ The British Community Reference Laboratory for Avian Influenza in Weybridge confirms that swans found near Orahovica, Croatia, were infected by the H5N1 flu strain. ](/news/2005/10/26/the-british-community-reference-laboratory-for-avian-influenza-in-weybridge-confirms-that-swans-found-near-orahovica-croatia-were-infecte.md) _Context: bird flu, swan_
 8. [ The first case of avian influenza (bird flu) has been discovered in the United Kingdom from a South American parrot. Tests are being carried out on the parrot, which died in quarantine, to determine whether it had the H5N1 strain of the virus. ](/news/2005/10/22/the-first-case-of-avian-influenza-bird-flu-has-been-discovered-in-the-united-kingdom-from-a-south-american-parrot-tests-are-being-carrie.md) _Context: Avian flu virus, bird flu_
 9. [ The presence of the dangerous H5N1 avian influenza virus is confirmed in dead birds found in Turkey, marking the first cases of the disease in Europe. ](/news/2005/10/13/the-presence-of-the-dangerous-h5n1-avian-influenza-virus-is-confirmed-in-dead-birds-found-in-turkey-marking-the-first-cases-of-the-disease.md) _Context: Avian flu virus, bird flu_
-10. [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md) _Context: Polish_
+10. [ Health officials in Thailand report that they have identified a likely case of human to human transmission of the H5N1 strain of avian influenza, although the World Health Organization says the transmission occurred only after prolonged contact between individuals. A more easily transmitted virus could potentially cause a worldwide flu pandemic on the level of the 1918 Spanish flu. ](/news/2004/09/28/health-officials-in-thailand-report-that-they-have-identified-a-likely-case-of-human-to-human-transmission-of-the-h5n1-strain-of-avian-infl.md) _Context: Avian flu virus, bird flu_

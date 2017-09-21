@@ -8,6 +8,7 @@ Detainees held by the Syrian Government are dying on an extermination scale, a U
 ### Source:
 
 1. [Wires via ABC News Australia](http://www.abc.net.au/news/2016-02-09/mass-deaths-in-syrian-jails-amount-to-crime-of-extermination/7150842)
+1. [Cover Image](http://www.abc.net.au/news/image/7150880-1x1-700x700.jpg)
 
 ### Related:
 

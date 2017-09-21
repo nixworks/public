@@ -11,6 +11,7 @@ Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian 
 2. [AAP via ''The Daily Telegraph](http://www.dailytelegraph.com.au/news/breaking-news/us-slaps-sanctions-on-syrian-oil/story-e6freuz9-1226447992318)
 3. [ABC](http://abcnews.go.com/International/wireStory/syrian-army-shells-town-rebels-seize-tv-crew-16984191#.UCaL-aFgKWY)
 4. [AP via Boston.com](http://www.boston.com/news/world/middle-east/2012/08/12/syria-reporter-for-state-news-agency-assassinated/0nUr9TaR3IIhfrUtWMjn9I/story.html)
+4. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/a/a/aap_4383_120806_Syria_800x600.jpg)
 
 ### Related:
 

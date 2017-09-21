@@ -10,6 +10,7 @@ A drunken man driving a tractor has killed 11 and injured many more in a rampage
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10837287)
 2. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFTOE67107I20100802)
 3. [The Hindu](http://www.thehindu.com/news/international/article548063.ece)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48571000/jpg/_48571276_009910841-1.jpg)
 
 ### Related:
 

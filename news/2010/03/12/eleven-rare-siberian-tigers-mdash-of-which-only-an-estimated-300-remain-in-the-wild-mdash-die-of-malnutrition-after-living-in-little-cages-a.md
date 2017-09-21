@@ -12,6 +12,7 @@ Eleven rare Siberian tigers kept in small cages and fed only chicken bones have 
 3. [The Guardian](http://www.guardian.co.uk/world/2010/mar/12/siberian-tigers-die-chinese-zoo)
 4. [The Sydney Morning Herald](http://www.smh.com.au/environment/conservation/tiger-tragedy-11-starve-to-death-at-zoo-20100312-q3rj.html)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7060473.ece)
+5. [Cover Image](http://www.smh.com.au/content/dam/images/q/3/s/9/image.related.articleLeadwide.620x349.q3rj.png/1268374599543.jpg)
 
 ### Related:
 

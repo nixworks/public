@@ -8,6 +8,7 @@ CAIRO -- Tunisia’s Islamist prime minister stepped down Thursday, upholding a 
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-tunisian-government-steps-down-20140109,0,2884751.story#axzz2pwkzhjul)
+1. [Cover Image](http://www.trbimg.com/img-52cefe41/turbine/la-fg-wn-tunisian-government-steps-down-20140109)
 
 ### Related:
 

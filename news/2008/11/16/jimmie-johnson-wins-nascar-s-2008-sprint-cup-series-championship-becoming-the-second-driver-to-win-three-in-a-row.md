@@ -8,6 +8,7 @@ Jimmie Johnson locked up his third consecutive championship with a solid 15th-pl
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/11/17/sports/othersports/17nascar.html?ref=othersports)
+1. [Cover Image](https://static01.nyt.com/images/2008/11/17/sports/17nascar.751.jpg)
 
 ### Related:
 

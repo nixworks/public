@@ -10,6 +10,7 @@ Turkey begins operations against PKK Kurdish rebels at home and in Iraq, a day a
 1. [BBC](http://www.bbc.com/news/world-europe-35799998)
 2. [Fox  News](http://www.foxnews.com/world/2016/03/14/kurdish-militants-blamed-for-turkey-bombing-that-killed-at-least-37.html)
 3. [News.com.au](http://www.news.com.au/travel/travel-updates/incidents/27-dead-as-explosion-rocks-turkey/news-story/9bc111dee645f531a86a05b87335ef66)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10FDB/production/_88759596_88759595.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A controversial referendum on whether to build a new nuclear power plant in Bulg
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21217882)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65532000/jpg/_65532367_65532366.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Malawian authorities have blocked a mass funeral for seven people killed during 
 ### Source:
 
 1. [News 24](http://www.news24.com/Africa/News/Malawi-blocks-mass-funeral-for-riot-victims-20110722-2)
+1. [Cover Image](http://graph.facebook.com/10227041841/picture)

@@ -8,6 +8,7 @@ Three Turkish ministers resign over a corruption inquiry that has hit the govern
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25514579)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71951000/jpg/_71951653_x1esoayz.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-middle-east-35178684)
 2. [Irish Independent](http://www.independent.ie/world-news/syrian-rebel-leader-zahran-allouch-killed-in-air-strike-near-damascus-34314423.html)
 3. [The News Hub](https://www.the-newshub.com/international/key-syrian-islamist-leader-killed-in-russian-airstrike)
+3. [Cover Image](http://www.independent.ie/world-news/article34314422.ece/ALTERNATES/h342/PANews_P-515b3d09-aec6-41da-b802-9ec9f9129bad_I1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Republican presidential candidates gang up on rival Ron Paul as a poll gives him
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16349672)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57597000/jpg/_57597961_013574680-1.jpg)
 
 ### Related:
 

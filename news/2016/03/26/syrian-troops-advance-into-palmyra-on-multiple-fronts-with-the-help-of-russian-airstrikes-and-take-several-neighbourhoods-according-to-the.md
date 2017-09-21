@@ -8,6 +8,7 @@ Syrian government forces backed by Russian air strikes seize several neighbourho
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35903375)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15E4B/production/_88957698_354185cd-e8b7-42c4-9083-169d8ba494fd.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ An earthquake measuring 6.9 hits Ecuador, about 170km (105 miles) south-east of 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10954788)
 2. [Euronews](http://www.euronews.net/newswires/416695-magnitude-6-point-9-quake-rocks-ecuador-usgs/)
 3. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010zwa5.php)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Space.com: Exploding stars further confirm a mysterious dark energy force that a
 1. [MSNBC](http://msnbc.msn.com/id/4327735/)
 2. [Mercury News](http://www.mercurynews.com/mld/mercurynews/news/breaking_news/8003724.htm)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A58912-2004Feb20.html)
+3. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/020420/040220_darkenergy_hmed12p.standard.jpg)
 
 ### Related:
 

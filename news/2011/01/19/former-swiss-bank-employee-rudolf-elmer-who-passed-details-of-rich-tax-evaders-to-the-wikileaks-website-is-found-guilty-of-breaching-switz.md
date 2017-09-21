@@ -10,6 +10,7 @@ Swiss police re-arrest ex-banker Rudolf Elmer over the passing of data to WikiLe
 1. [BBC](http://www.bbc.co.uk/news/business-12231036)
 2. [BBC](http://www.bbc.co.uk/news/business-12234139)
 3. [IOL](http://www.iol.co.za/news/world/banker-detained-for-helping-wikileaks-1.1014304)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

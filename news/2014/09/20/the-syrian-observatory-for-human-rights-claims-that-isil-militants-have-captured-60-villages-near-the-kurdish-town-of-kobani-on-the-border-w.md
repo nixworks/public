@@ -9,6 +9,7 @@ Julie Bishop stresses the need to defeat IS militants, as villages near the Syri
 
 1. [ABC Australia](http://www.abc.net.au/news/2014-09-20/is-seize-60-villages-near-turkish-border/5757652)
 2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_TURKEY_HOSTAGES_FREED?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Cover Image](http://www.abc.net.au/news/image/5757848-1x1-700x700.jpg)
 
 ### Related:
 

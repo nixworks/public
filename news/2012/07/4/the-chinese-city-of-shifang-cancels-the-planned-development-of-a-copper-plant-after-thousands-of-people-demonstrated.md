@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/07/04/china-copper-plant-pollution.html)
+1. [Cover Image](https://i.cbc.ca/1.1910301.1380869589!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-china-copper-rtr34kd7.jpg)
 
 ### Related:
 

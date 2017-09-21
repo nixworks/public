@@ -11,6 +11,7 @@ A West Point graduate from Lubbock died after he was stabbed while on a trip to 
 2. [AP via WWTV](http://www.9and10news.com/story/31413844/biden-arrives-in-israel-amid-rash-in-palestinian-attacks)
 3. [CNN](http://www.cnn.com/2016/03/08/middleeast/israel-violence/)
 4. [Houston Chronicle](http://www.chron.com/news/houston-texas/article/Texas-man-killed-in-Tel-Aviv-mass-stabbing-6878717.php)
+4. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

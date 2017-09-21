@@ -8,6 +8,7 @@ Florida man George Zimmerman, acquitted of murder after shooting an unarmed blac
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-24995459)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71191000/jpg/_71191598_zimmerman.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11508493)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-10/10/c_13549368.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

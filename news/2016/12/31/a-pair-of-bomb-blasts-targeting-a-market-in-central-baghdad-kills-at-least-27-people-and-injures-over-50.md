@@ -9,6 +9,7 @@ Two suicide bombers ripped through a busy market area in central Baghdad Saturda
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_IRAQ?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2016/12/31/double-suicide-bombing-baghdad-markets-kills-27/)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/31/baghdad1-xlarge_trans_NvBQzQNjv4Bq5atK_0dc4WOh43gNNcRgED3n6GieILwefy3U8seNFmA.jpg)
 
 ### Related:
 

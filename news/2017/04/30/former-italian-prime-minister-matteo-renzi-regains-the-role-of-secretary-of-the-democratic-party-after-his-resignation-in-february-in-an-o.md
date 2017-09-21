@@ -8,6 +8,7 @@ Italians voted yesterday overwhelmingly to elect Matteo Renzi as the new head of
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/30/italys-renzi-set-political-comeback-party-election/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/04/30/TELEMMGLPICT000127355340-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg)
 
 ### Related:
 

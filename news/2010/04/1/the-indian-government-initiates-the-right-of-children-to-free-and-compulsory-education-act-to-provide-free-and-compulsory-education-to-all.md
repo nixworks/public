@@ -12,6 +12,7 @@ Programme to extend free schooling to 10 million children at a cost of $38bn.
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=122226&sectionid=351020402)
 4. [The Hindu](http://beta.thehindu.com/news/national/article337111.ece?homepage=true)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7085141.ece)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 30 people were injured and dozens of buildings damaged when a tornado 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-oklahoma-tornado-idUSKBN1AN03G)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

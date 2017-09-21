@@ -11,6 +11,7 @@ Two Americans were among the 152 people killed when a jetliner slammed into wood
 2. [Reuters](http://www.reuters.com/article/idUSTRE66R0SE20100728)
 3. [Voice of America](http://www1.voanews.com/english/news/Pakistan-Plane-Crash-2010Jul28-99445839.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/28/c_13418900.htm)
+4. [Cover Image](https://static01.nyt.com/images/2010/07/29/world/29pstanspan-cnd/29pstanspan-cnd-thumbStandard.jpg)
 
 ### Related:
 

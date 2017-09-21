@@ -8,6 +8,7 @@ Sir Richard Branson has unveiled the world&#039;s first commercial spacecraft an
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/travel/travelnews/6761213/Richard-Branson-unveils-Virgin-Galactics-spaceship-Enterprise.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01539/space4_1539411a.jpg)
 
 ### Related:
 

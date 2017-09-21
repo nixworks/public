@@ -11,6 +11,7 @@ Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers o
 2. [Milwaukee Journal Sentinel](http://www.jsonline.com/news/statepolitics/117703358.html)
 3. [New York Times](http://www.nytimes.com/aponline/2011/03/09/us/AP-US-Wisconsin-Budget-Unions.html?_r=1&emc=na)
 4. [WIFR](http://www.wifr.com/home/headlines/Wis_GOP_Bypasses_Dems_on_Collective_Bargaining_117700838.html)
+4. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110310-madison-hmed-10a.standard.jpg)
 
 ### Related:
 

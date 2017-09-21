@@ -12,6 +12,7 @@
 3. [Civil.ge](http://www.civil.ge/eng/article.php?id=23479)
 4. [Interfax](http://www.interfax.ru/news.asp?id=190905)
 5. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE74K1Z620110521?pageNumber=1&virtualBrandChannel=0)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52882000/jpg/_52882449_012031649-1.jpg)
 
 ### Related:
 

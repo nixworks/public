@@ -8,6 +8,7 @@ Indian police raid 11 locations in connection with alleged financial irregularit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11872202)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

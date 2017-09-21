@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Guam Daily Post](http://www.postguam.com/news/democratic-caucus-to-be-held-at-agana-shopping-center/article_4872fffc-10fa-11e6-9af4-83fe91579d30.html)
+1. [Cover Image](https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/58/958674ba-10fd-11e6-86af-43aef5cb35e4/57284f192474b.preview.jpg?resize=487%2C630)
 
 ### Related:
 

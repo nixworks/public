@@ -8,6 +8,7 @@ In light of the UN report to be submitted next week, IDF advocate general opens 
 ### Source:
 
 1. [YNet](http://www.ynetnews.com/articles/0,7340,L-4667770,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/06/11/6105918/54981927941698640360no.jpg)
 
 ### Related:
 

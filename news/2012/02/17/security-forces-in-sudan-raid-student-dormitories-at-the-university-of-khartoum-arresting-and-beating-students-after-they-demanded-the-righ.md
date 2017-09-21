@@ -8,6 +8,7 @@ Raid at Khartoum university leads to arrest of 350 students who previously stage
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/02/2012217133110494746.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/17/201221714334384734_20.jpg)
 
 ### Related:
 

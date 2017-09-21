@@ -8,6 +8,7 @@ Hundreds of people demonstrate after Nato-led raid in the eastern province of Ja
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201051473815983930.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

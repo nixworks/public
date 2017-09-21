@@ -11,6 +11,7 @@ Aaron Swartz, a celebrated internet freedom activist and early developer of the 
 2. [Business Insider](http://www.businessinsider.com/statement-family-aaron-swartz-2013-1)
 3. [Time](http://business.time.com/2013/01/13/tech-prodigy-and-internet-activist-aaron-swartz-commits-suicide/)
 4. [WSJ](http://online.wsj.com/news/articles/SB10001424127887324581504578238692048200404)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65244000/jpg/_65244526_65244525.jpg)
 
 ### Related:
 

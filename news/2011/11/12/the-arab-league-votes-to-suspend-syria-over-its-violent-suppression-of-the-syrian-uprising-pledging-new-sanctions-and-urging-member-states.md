@@ -11,6 +11,7 @@ In a surprisingly sharp move, the Arab League voted Saturday to suspend Syria ov
 2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFL5E7MC16S20111112)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=245351)
 4. [The Washington Post](http://www.washingtonpost.com/world/syria-suspended-from-arab-league/2011/11/12/gIQAvqGxEN_story.html)
+4. [Cover Image](http://i.ndtvimg.com/mt/2011-11/Arab_League_suspends_Syria_295x200.jpg)
 
 ### Related:
 

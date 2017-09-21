@@ -8,6 +8,7 @@ A Ukrainian cargo plane crashed in the Sahara desert early on Saturday, killing 
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/ukraine-plane-7-board-crashes-sahara-algeria-agency-100719360.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/5pwPucasJT2iLur5qnIzlA--/aD05Nzc7dz0xMzgyO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ed635e52d22056450983ec9981c7e6d19b312a3a.jpg)
 
 ### Related:
 

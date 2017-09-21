@@ -12,6 +12,7 @@ The Winter Olympic Games opening ceremony has been launched in a flurry of ticke
 3. [The Los Angeles Times](http://www.latimes.com/sports/nationworld/wire/sns-ap-oly-luger-dies,0,7579653.story)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/olympics-opening-remembers-luge-death-20100213-ny5b.html)
 5. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/article7025669.ece)
+5. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The&#x20;supreme&#x20;leader&#x20;of&#x20;Egypt&#x27;s&#x20;Muslim&#x20;Brotherh
 ### Source:
 
 1. [Wires via France 24](http://www.france24.com/en/20130704-egypt-arrests-supreme-leader-badie-muslim-brotherhood)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/mohamed-badie-freres-musulmans-m.jpg)
 
 ### Related:
 

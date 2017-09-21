@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Variety](http://variety.com/2014/film/news/box-office-frozen-crosses-1-billion-worldwide-1201124818/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/12/frozen3.jpg?w=1000&amp;h=562&amp;crop=1)
 
 ### Related:
 

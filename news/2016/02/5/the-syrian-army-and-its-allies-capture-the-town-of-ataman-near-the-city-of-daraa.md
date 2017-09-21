@@ -9,6 +9,7 @@ Some 15,000 Syrians are massed at the Turkish border after fleeing a government 
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35503343#)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-deraa-idUSKCN0VE0JV?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C1A4/production/_88127594_9d208cbf-da73-46f4-9c1c-78ad72ed344e.jpg)
 
 ### Related:
 

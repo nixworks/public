@@ -8,6 +8,7 @@ All six crew members aboard a B-52 bomber that crashed off Guam were killed, the
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/25777752/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photo/_new/080721-guam-hlrg-115a.standard.jpg)
 
 ### Related:
 

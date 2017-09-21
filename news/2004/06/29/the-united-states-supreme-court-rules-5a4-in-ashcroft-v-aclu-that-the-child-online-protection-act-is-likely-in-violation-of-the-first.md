@@ -8,6 +8,7 @@ The Supreme Court ruled Tuesday that a law meant to punish pornographers who ped
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/5324463/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/040629/nn_pwms_scotus_040629.standard.jpg)
 
 ### Related:
 

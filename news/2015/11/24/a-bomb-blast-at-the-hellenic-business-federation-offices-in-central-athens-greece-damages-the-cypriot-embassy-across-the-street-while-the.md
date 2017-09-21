@@ -8,6 +8,7 @@ A bomb exploded outside the offices of a Greek business federation in central At
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/24/us-eurozone-greece-blast-idUSKBN0TD06T20151124)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151124&t=2&i=1097393590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAN0UU)
 
 ### Related:
 

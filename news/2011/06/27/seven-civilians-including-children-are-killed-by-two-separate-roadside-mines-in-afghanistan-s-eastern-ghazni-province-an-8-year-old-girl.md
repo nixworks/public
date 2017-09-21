@@ -9,6 +9,7 @@ Afghanistan says the Pakistani military is behind recent deadly rocket attacks, 
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/afghanistan.pakistan.rockets/index.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/afghanistan.violence/index.html)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/27/afghanistan.pakistan.rockets/tzvids.pakistan.rockets.jpg)
 
 ### Related:
 

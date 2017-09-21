@@ -10,6 +10,7 @@ Murray faces up to four years if convicted.
 1. [FOX](http://www.foxnews.com/entertainment/2010/02/08/doctor-charged-manslaughter-michael-jackson-death-case/)
 2. [WSJ](http://online.wsj.com/article/SB10001424052748703630404575053351725582526.html?KEYWORDS=michael+jackson)
 3. [Washingtonpost](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/08/AR2010020803617.html)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2010/02/08/doctor-charged-manslaughter-michael-jackson-death-case/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1460391374944.jpg?ve=1)
 
 ### Related:
 

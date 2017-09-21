@@ -10,6 +10,7 @@ Ibon Gogeascoechea, the leader of armed Basque separatists ETA, was caught on Su
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8541422.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7336794/ETA-leader-Ibon-Gogeascoechea-arrested-in-northern-France.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/feb/28/suspected-eta-leader-arrested-france)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01587/eta_1587482a.jpg)
 
 ### Related:
 

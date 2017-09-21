@@ -26,6 +26,7 @@ The first of C-17 planes carrying humanitarian supplies has arrived in Tbilisi, 
 17. [Sky News](http://news.sky.com/skynews/Home/video/Russia-Georgia-South-ossetia-conflict-tanks-back-in-Gori/Video/200808215077117?lpos=video_1&lid=VIDEO_15077117_Russia%2BGeorgia%2BSouth%2Bossetia%2Bconflict%253A%2Btanks%2Bback%2Bin%2BGori%2B)
 18. [The Guardian](http://www.guardian.co.uk/world/2008/aug/13/georgia.russia3)
 19. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4525079.ece)
+19. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

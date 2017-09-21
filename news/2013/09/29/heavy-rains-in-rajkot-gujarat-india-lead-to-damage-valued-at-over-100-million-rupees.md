@@ -8,6 +8,7 @@ The city has incurred an estimated loss of Rs 10 crore due to damage caused to r
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/rajkot/Rajkot-incurs-Rs-10cr-loss-due-to-rains/articleshow/23222953.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

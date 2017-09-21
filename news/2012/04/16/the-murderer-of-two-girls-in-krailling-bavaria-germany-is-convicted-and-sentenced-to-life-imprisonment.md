@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Süddeutsche Zeitung](http://www.sueddeutsche.de/muenchen/urteil-im-krailling-prozess-lebenslang-fuer-alle-1.1334216)
+1. [Cover Image](http://polpix.sueddeutsche.com/bild/1.1334221.1355366383/940x528/urteil-kraillingprozess.jpg)
 
 ### Related:
 

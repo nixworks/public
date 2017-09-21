@@ -8,6 +8,7 @@ Thailand faces more hardship from unseasonable floods that have killed 40 people
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/the-worst-isnt-over-more-rain-expected-as-thailand-flood-death-toll-rises-to-40-20170115-gtrscz.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/t/r/s/f/p/image.related.articleLeadwide.620x349.gtrscz.png/1484455680230.jpg)
 
 ### Related:
 

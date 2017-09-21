@@ -9,6 +9,7 @@ President Yahya Jammeh is meant to hand over power to Adama Barrow on Thursday.
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/gambia-ministers-resign-jammeh-government-170117081811506.html)
 2. [BBC](http://www.bbc.com/news/world-africa-38652939)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5D91/production/_93635932_33788cc7-318a-415f-ab7b-c48fb792a0dc.jpg)
 
 ### Related:
 

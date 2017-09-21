@@ -8,6 +8,7 @@ At least eight people were killed on Saturday in a stampede in a soccer stadium 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-soccer-senegal-stampede-idUSKBN1A00SQ?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

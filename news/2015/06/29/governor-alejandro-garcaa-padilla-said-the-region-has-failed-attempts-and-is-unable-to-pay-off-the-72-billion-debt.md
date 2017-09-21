@@ -8,6 +8,7 @@ MIAMI - Puerto Rico is just days away from a historic economic collapse after th
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/money/2015/06/29/puerto-rico-debt-crisis-default/29458475/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The satellite, funded by India, will help South Asian nations boost their commun
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-39814455)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F187/production/_95913816_7e275de4-1936-4d87-8413-cc6330dcc72d.jpg)
 
 ### Related:
 

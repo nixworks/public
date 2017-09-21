@@ -8,6 +8,7 @@ Sky sources say the 27-year-old man, who was carrying a rucksack containing kniv
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/armed-police-close-road-on-whitehall-near-government-departments-10853114)
+1. [Cover Image](http://e3.365dm.com/17/04/1600x900/d25552d6da6f2d62ff307c334ef97bcfd1a356929f357cb82b35f6bdd353c7ad_3939801.jpg?20170427160302)
 
 ### Related:
 

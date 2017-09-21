@@ -8,6 +8,7 @@ Staples Inc., the big office supply retailer trying to reinvent itself in the fa
 ### Source:
 
 1. [Boston Globe](https://www.bostonglobe.com/business/2014/03/07/staples-close-north-america-stores/LpoUGvzIm5uFAmFNFpm7jM/story.html)
+1. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2014/03/06/BostonGlobe.com/Business/Images/477001157.jpg)
 
 ### Related:
 

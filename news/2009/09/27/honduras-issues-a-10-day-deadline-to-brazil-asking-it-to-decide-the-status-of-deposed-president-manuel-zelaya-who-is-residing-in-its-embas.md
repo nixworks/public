@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/09/27/honduras.presidemt/)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58Q0A320090927)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090927&t=2&i=11739817&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-27T155413Z_01_BTRE58Q0G5Y00_RTROPTP_0_HONDURAS)
 
 ### Related:
 

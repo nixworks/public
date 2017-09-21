@@ -13,6 +13,7 @@ The Sinn FÃ©in leader, Gerry Adams, has categorically denied that Sinn FÃ©in was
 4. [RTÉ](http://www.rte.ie/news/2005/0218/cork.html)
 5. [RTÉ](http://www.rte.ie/news/2005/0218/corkreax.html)
 6. [Sky News](http://www.sky.com/skynews/article/0,,30000-13300915,00.html)
+6. [Cover Image](https://img.rasset.ie/00001ab4-1600.jpg)
 
 ### Related:
 

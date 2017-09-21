@@ -11,3 +11,4 @@ Over 30 inmates have escaped from a prison in Yemen after a bomb was thrown at t
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100401-261979/30-prisoners-escape-after-bomb-blast-at-south-Yemen-jail)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE63019520100401?feedType=RSS&feedName=worldNews)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/yemen/7544059/Prisoners-escape-after-Yemen-bomb-blast.html)
+4. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)

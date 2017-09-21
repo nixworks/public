@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/20105315544388219.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8658418.stm)
 3. [Bangkok Post](http://www.bangkokpost.com/news/local/36750/pm-proposes-nov-14-poll-date)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

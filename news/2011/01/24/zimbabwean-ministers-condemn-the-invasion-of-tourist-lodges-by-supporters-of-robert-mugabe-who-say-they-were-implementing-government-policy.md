@@ -9,6 +9,7 @@ Ministers condemn the invasion of several tourist lodges in Zimbabwe by people s
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j43XqblNNChd_nwKRHsdvTCEt_1w?docId=CNG.9a79e4aeedb90b1da50fbb4803a72bc7.1a1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12265352)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

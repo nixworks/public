@@ -8,6 +8,7 @@ Paris police shoot dead a man carrying a meat cleaver exactly a year after the C
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35250344)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5E63/production/_87536142_030811526-1.jpg)
 
 ### Related:
 

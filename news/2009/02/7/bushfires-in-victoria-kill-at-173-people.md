@@ -10,6 +10,7 @@ More than 100,000 Victorians may be without power as scores of fires across the 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/02/07/2485199.htm)
 2. [ABC News Australia](http://www.abc.net.au/news/stories/2009/02/08/2485378.htm)
 3. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,25062609-5018723,00.html)
+3. [Cover Image](http://www.abc.net.au/news/image/287006-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The UN refugee agency is to start an emergency airlift of tents to the West Afri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11616789)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-africa-11616789A/playlist.sxml)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Denis Voronenkov, a former Russian parliamentarian who fled to Ukraine and harsh
 ### Source:
 
 1. [The Moscow Times](https://themoscowtimes.com/news/breaking-former-russian-parliamentarian-and-putin-critic-shot-dead-in-kiev-57513)
+1. [Cover Image](https://themoscowtimes.com/static/uploads/share/57513.png)
 
 ### Related:
 

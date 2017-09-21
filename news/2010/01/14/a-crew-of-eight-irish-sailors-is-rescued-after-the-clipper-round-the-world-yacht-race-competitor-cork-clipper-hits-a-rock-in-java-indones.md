@@ -10,6 +10,7 @@ Eight Irish people were among crew rescued from a sinking racing yacht after it 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8458615.stm)
 2. [Ireland Online](http://breakingnews.iol.ie/news/ireland/eight-rescued-from-sinking-yacht-441880.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0114/yacht.html)
+3. [Cover Image](https://img.rasset.ie/0002e9f1-1600.jpg)
 
 ### Related:
 

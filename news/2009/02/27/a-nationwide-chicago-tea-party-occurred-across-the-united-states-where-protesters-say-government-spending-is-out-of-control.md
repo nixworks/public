@@ -8,6 +8,7 @@ Fox 32 Chicago News, breaking news, local headlines, weather, sports traffic and
 ### Source:
 
 1. [Fox Chicago News](http://www.myfoxchicago.com/dpp/news/TeaParty)
+1. [Cover Image](http://static.lakana.com/lakana-fox-global/theme/images/wfld/placeholder-4x3.jpg)
 
 ### Related:
 

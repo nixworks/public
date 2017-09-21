@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10975606)
 2. [Voice of America](http://www1.voanews.com/english/news/asia/Gunmen-Kill-10-in-Pakistan-Bus-Attack-100681449.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

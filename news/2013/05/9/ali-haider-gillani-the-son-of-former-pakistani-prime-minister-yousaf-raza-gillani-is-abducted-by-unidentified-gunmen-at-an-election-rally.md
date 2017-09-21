@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22462410)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67497000/jpg/_67497525_ali_hyder_gillani640.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Seven people have been killed in a bus crash in central France.
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0523/france.html)
+1. [Cover Image](https://img.rasset.ie/00017ea3-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Same-sex marriage in England and Wales is a step closer to becoming law after th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-23320624)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67702000/jpg/_67702082_gaymarriagepic.jpg)
 
 ### Related:
 

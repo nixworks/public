@@ -9,6 +9,7 @@ Security Council votes unanimously to impose a travel ban and assets freeze on i
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7497614.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201133010262614616.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/30/201133011268745738_20.jpg)
 
 ### Related:
 

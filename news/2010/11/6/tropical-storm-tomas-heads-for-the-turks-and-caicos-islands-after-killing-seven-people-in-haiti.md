@@ -8,6 +8,7 @@ Hurricane Tomas was aiming for the British territory of the Turks and Caicos Isl
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/8114379/Hurricane-Tomas-kills-seven-in-Haiti.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01755/haiti_1755338a.jpg)
 
 ### Related:
 

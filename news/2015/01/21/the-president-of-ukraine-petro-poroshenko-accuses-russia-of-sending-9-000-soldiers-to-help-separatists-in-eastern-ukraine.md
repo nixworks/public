@@ -8,6 +8,7 @@ Ukrainian President Petro Poroshenko accused Russia on Wednesday of sending 9,00
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/22/us-ukraine-crisis-davos-poroshenko-idUSKBN0KU1TX20150122)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150121&t=2&i=1018589912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0K13M)
 
 ### Related:
 

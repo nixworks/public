@@ -8,6 +8,7 @@ President Francois Hollande warns of consequences if the allegations about abuse
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2015/04/30/403285926/france-investigates-claims-its-soldiers-abused-children-in-africa)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

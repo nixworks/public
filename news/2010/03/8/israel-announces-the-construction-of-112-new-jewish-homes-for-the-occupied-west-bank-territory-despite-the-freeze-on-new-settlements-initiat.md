@@ -9,6 +9,7 @@ Israel has approved the construction of 112 new Jewish homes in the occupied Wes
 
 1. [Arabnews](http://arabnews.com/middleeast/article27582.ece)
 2. [RTÉ](http://www.rte.ie/news/2010/0308/mideast.html)
+2. [Cover Image](https://img.rasset.ie/00025479-1600.jpg)
 
 ### Related:
 

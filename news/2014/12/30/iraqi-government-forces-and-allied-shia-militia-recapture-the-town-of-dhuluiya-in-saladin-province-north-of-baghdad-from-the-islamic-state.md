@@ -8,6 +8,7 @@ Iraqi government forces have retaken the town of Dhuluiya from Islamic State, so
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-30632134)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79985000/jpg/_79985281_79985280.jpg)
 
 ### Related:
 

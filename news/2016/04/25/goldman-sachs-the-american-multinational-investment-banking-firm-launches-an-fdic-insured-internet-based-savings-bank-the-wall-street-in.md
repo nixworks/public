@@ -9,6 +9,7 @@ Goldman Sachs has traditionally functioned like a run-of-the-mill investment ban
 
 1. [GS Bank website](https://www.gsbank.com/en.html)
 2. [TechCrunch](http://techcrunch.com/2016/04/25/goldman-sachs-launches-gs-bank-an-internet-bank-with-a-1-minimum-deposit/)
+2. [Cover Image](https://tctechcrunch2011.files.wordpress.com/2016/04/50ab98fb9e814b0b8842715389fa75fc.jpeg?w=764&amp;h=400&amp;crop=1)
 
 ### Related:
 

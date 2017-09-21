@@ -9,6 +9,7 @@ Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in
 
 1. [NDTV](http://www.ndtv.com/india-news/2-amarnath-yatra-pilgrims-killed-in-terror-attack-in-jammu-and-kashmirs-anantnag-1723037)
 2. [The Indian Express](http://indianexpress.com/article/india/two-amarnath-pilgrims-killed-four-injured-in-terror-attack-in-anantnag-kashmir/)
+2. [Cover Image](https://i.ndtvimg.com/i/2017-07/amarnath-yatra-attack-pti_650x400_51499709862.jpg)
 
 ### Related:
 

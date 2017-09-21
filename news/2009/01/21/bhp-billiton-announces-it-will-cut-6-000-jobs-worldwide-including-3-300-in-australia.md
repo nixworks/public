@@ -8,6 +8,7 @@ Mining giant BHP Billiton will slash 3,300 Australian jobs by June this year and
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/01/21/2470985.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/189136-1x1-700x700.jpg)
 
 ### Related:
 

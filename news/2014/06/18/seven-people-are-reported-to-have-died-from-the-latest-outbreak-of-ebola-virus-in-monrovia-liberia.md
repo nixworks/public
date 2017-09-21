@@ -8,6 +8,7 @@ Seven people are reported dead from the Ebola virus in Monrovia, the first death
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27888363#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75412000/jpg/_75412281_afp.jpg)
 
 ### Related:
 

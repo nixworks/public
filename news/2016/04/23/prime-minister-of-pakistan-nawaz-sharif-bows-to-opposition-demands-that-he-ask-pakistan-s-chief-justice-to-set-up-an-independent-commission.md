@@ -9,6 +9,7 @@ Ministers agree to propose joint list of tax havens and approve plan to automati
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/pakistani-premier-sharif-says-will-resign-if-independent-commission-inquiry-finds-wrongdoing/27692007.html)
 2. [The Guardian](http://www.theguardian.com/world/2016/apr/23/tax-avoidance-eu-finance-ministers-approve-measures-netherlands)
+2. [Cover Image](https://i.guim.co.uk/img/media/40a2ae779d2450ed44f1c322ba1aa8d7d695f4ba/0_482_4962_2977/4962.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0506fcd3c9c2c47c01bc5273506d1ed3)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least one person has died in Bangkok after a bomb was thrown into a compound 
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2008/11/20/2425058.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/212768-1x1-700x700.jpg)
 
 ### Related:
 

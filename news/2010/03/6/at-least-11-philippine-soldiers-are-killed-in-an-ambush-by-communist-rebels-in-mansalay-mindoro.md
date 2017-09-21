@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201036103350497843.html)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20100306-257013/11-soldiers-dead-in-NPA-ambush-in-Oriental-Mindoro)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

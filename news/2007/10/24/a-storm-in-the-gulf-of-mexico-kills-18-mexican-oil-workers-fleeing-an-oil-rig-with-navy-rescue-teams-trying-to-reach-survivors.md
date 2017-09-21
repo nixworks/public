@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7061308.stm)
 2. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSN24445153)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

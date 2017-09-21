@@ -13,6 +13,7 @@ Police clear protesters from central Madrid, after nationwide protests by the &q
 4. [Reuters](http://uk.reuters.com/article/2012/05/12/uk-greece-ecb-idUKBRE84B08S20120512)
 5. [Sky News Australia](http://www.skynews.com.au/businessnews/article.aspx?id=749422&vId=)
 6. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304070304577400872115209702.html)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60201000/jpg/_60201372_60201371.jpg)
 
 ### Related:
 

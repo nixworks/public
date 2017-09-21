@@ -8,6 +8,7 @@ Japan agrees to write off more than $3.7bn (£2.29bn) of debt to Burma as its pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17797910)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59782000/jpg/_59782904_014562705-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The last person to have fought in World War I has been farewelled at a naval fun
 ### Source:
 
 1. [Melbourne Age](http://www.theage.com.au/wa-news/worlds-last-wwi-combat-veteran-farewelled-20110520-1ew29.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/1/b/f/t/f/image.related.articleLeadwide.620x349.1ew29.png/1305865386690.jpg)
 
 ### Related:
 

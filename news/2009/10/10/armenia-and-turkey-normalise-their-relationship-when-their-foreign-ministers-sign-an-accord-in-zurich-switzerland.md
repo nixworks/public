@@ -10,6 +10,7 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/20091010181935891322.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8299712.stm)
 3. [The Sofia Echo](http://www.sofiaecho.com/2009/10/10/626014_turkey-armenia-sign-deal-on-normalising-relations)
+3. [Cover Image](http://www.capital.bg/i/quarterly_share.jpg)
 
 ### Related:
 

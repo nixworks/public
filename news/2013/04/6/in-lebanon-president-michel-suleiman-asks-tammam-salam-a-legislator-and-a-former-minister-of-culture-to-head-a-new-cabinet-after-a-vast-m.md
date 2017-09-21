@@ -8,6 +8,7 @@ Tammam Salam was officially named the new prime minister of Lebanon on Saturday 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/07/world/middleeast/tamam-salam-asked-to-form-a-government-in-lebanon.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/07/world/sub-lebanon/sub-lebanon-videoLarge-v2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Officials in Iraq say at least 26 people have been killed by a suicide bomber wh
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2013/08/23/iraqi-officials-at-least-26-people-killed-as-suicide-bomber-attacks-park-in/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

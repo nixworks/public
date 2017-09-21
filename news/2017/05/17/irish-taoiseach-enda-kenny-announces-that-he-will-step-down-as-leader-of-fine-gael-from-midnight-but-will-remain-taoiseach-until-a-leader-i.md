@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/politics/enda-kenny-announces-resignation-as-fine-gael-leader-1.3086114)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.3086481&origw=1440)
 
 ### Related:
 

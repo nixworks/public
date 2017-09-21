@@ -8,6 +8,7 @@ Around 60 people have been killed in sectarian clashes in Central African Republ
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/09/us-centralafrica-clashes-idUSBRE9980R620131009)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

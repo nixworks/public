@@ -8,6 +8,7 @@ Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a c
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/zambia-readies-presidential-vote-181304492.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/RS78zgQn4iNbM2qVEmwyqw--/aD0zNTg7dz01MzY7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8077935-1-1-0.jpg)
 
 ### Related:
 

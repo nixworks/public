@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/world/33691-eighteen-killed-after-truck-smashes-into-bus-in-moscow-region)
+1. [Cover Image](http://static.rappler.com/images/moscow-car-crsah-20130713.jpg)
 
 ### Related:
 

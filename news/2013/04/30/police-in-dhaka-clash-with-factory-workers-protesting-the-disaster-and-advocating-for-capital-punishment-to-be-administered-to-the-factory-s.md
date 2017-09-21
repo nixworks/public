@@ -8,6 +8,7 @@ Bangladeshi police use batons to disperse hundreds of angry factory workers call
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22357355)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67329000/jpg/_67329231_67329230.jpg)
 
 ### Related:
 

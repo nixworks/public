@@ -8,6 +8,7 @@ Chad had tried to violate its agreement with the World Bank to dedicate most of 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2006/04/27/world/africa/27chad.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -13,7 +13,7 @@ _Context: Kurmanbek Bakiyev, President, Prime Minister, Supreme Council, constit
 _Context: Borneo's, Indonesia, Java, Kumai, ferry ''Senopati Nusantara''_
 
 ### [ Former U.S. President Gerald Ford's funeral is held at the United States Capitol. ](/news/2006/12/30/former-u-s-president-gerald-ford-s-funeral-is-held-at-the-united-states-capitol.md)
-_Context: Gerald Ford, President, United States Capitol, buried_
+_Context: Gerald Ford, U.S. President, United States Capitol, buried_
 
 ### [ The coat of arms of Nepal is changed as a gesture of reconciliation after the Nepalese Civil War. ](/news/2006/12/30/the-coat-of-arms-of-nepal-is-changed-as-a-gesture-of-reconciliation-after-the-nepalese-civil-war.md)
 _Context: Nepalese Civil War, coat of arms of Nepal_

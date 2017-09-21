@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Moscow Times](http://www.moscowtimes.ru/stories/2006/04/20/047.html)
+1. [Cover Image](http://moscowtimes.org/img/logo-big.png)
 
 ### Related:
 

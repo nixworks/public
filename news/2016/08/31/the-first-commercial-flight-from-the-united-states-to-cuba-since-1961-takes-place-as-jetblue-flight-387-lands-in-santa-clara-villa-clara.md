@@ -8,6 +8,7 @@ The flight from Fort Lauderdale to Santa Clara in central Cuba on Wednesday morn
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2016/08/31/first-united-states-commercial-flight-cuba/89595932/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

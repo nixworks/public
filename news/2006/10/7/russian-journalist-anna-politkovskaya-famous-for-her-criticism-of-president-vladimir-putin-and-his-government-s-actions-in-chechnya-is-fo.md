@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/5416218.stm)
 2. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=11600925)
+2. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)
 
 ### Related:
 

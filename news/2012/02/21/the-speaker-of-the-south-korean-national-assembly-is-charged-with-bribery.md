@@ -8,6 +8,7 @@ SEOUL, Feb. 21 (Yonhap) -- National Assembly Speaker Park Hee-tae was indicted w
 ### Source:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/national/2012/02/21/88/0301000000AEN20120221007600315F.HTML)
+1. [Cover Image]({YNA_TAG_RELATION_IMAGE})
 
 ### Related:
 

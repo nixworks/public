@@ -8,6 +8,7 @@ An overwhelming percentage of the attacks on American companies and government a
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/19/technology/chinas-army-is-seen-as-tied-to-hacking-against-us.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/02/19/business/Hack/Hack-videoLarge.jpg)
 
 ### Related:
 

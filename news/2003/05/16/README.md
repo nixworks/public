@@ -10,7 +10,7 @@ _Context: Casablanca, Casablanca Attacks, Terrorist incidents_
 _Context: Americas, Astronomers, GMT, lunar eclipse_
 
 ### [ "The Guardian" reports that the Republican Party of Texas had the help of the United States Department of Homeland Security to track down several Democratic Party state legislators who had fled the state to prevent the state's House of Representatives from meeting with a quorum.](/news/2003/05/16/the-guardian-reports-that-the-republican-party-of-texas-had-the-help-of-the-united-states-department-of-homeland-security-to-track-down-s.md)
-_Context: Democratic Party, Republican, Texas, The Guardian, United States Homeland Security, quorum_
+_Context: Democratic, Republican, Texas, The Guardian, United States Homeland Security, quorum_
 
 ### [ Three time defending NBA champions Los Angeles Lakers get eliminated from the 2002-2003 playoffs, losing 110-82 to the San Antonio Spurs in Los Angeles in Game 6 of their series.](/news/2003/05/16/three-time-defending-nba-champions-los-angeles-lakers-get-eliminated-from-the-2002a2003-playoffs-losing-110a82-to-the-san-antonio-spur.md)
 _Context: Los Angeles Lakers, Los Angeles, California, NBA's, San Antonio Spurs_

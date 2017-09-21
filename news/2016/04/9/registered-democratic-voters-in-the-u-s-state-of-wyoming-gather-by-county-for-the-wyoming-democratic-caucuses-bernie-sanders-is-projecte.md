@@ -9,6 +9,7 @@ CHEYENNE &ndash; Local Democrats are preparing for a possible record turnout dur
 
 1. [The Hill](http://thehill.com/blogs/ballot-box/dem-primaries/275729-sanders-extends-win-streak-with-wyoming-victory)
 2. [Wyoming Tribune](http://www.wyomingnews.com/news/wyoming-democrats-gear-up-for-county-caucuses/article_c8466fce-fd4b-11e5-9519-ff2ac0e11123.html)
+2. [Cover Image](http://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/2b/92b3c27c-bc13-11e5-95f2-73afe30fce46/5699d8171acc2.image.jpg?resize=800%2C513)
 
 ### Related:
 

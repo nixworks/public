@@ -9,6 +9,7 @@ Australian Neil Robertson has won the world snooker championship title at Sheffi
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/snooker/8658510.stm)
 2. [The Sydney Morning Herald](http://www.smh.com.au/sport/robertson-wins-world-snooker-title-20100504-u46s.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/u/4/p/a/image.related.articleLeadwide.620x349.u46s.png/1272936762170.jpg)
 
 ### Related:
 

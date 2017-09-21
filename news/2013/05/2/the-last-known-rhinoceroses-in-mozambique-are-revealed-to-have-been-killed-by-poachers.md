@@ -8,6 +8,7 @@ The last known rhinoceroses in Mozambique have been wiped out by poachers appare
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/mozambique/10028738/Last-rhinos-in-Mozambique-killed-by-poachers.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02550/rhino_2550930k.jpg)
 
 ### Related:
 

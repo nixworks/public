@@ -8,6 +8,7 @@ EDMONTON, Alberta (AP) — The majority of Canada&#039;s oil sands industry has 
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/60529865cc7e4abbbfae835238af582e/alberta-officials-say-oil-sands-city-saved-fires-worst)
+1. [Cover Image](http://binaryapi.ap.org/ac002a9ea3c34ac09740693f379f805d/460x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/26/us-japan-economy-boj-idUSBRE94P02B20130526)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130526&t=2&i=735311103&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94P0IJV00)
 
 ### Related:
 

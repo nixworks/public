@@ -8,6 +8,7 @@ In a highly unusual moment of a Western politician attacking a critical Arab all
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/germany/12035838/German-vice-chancellor-accuses-Saudi-Arabia-of-funding-Islamic-extremism-in-the-West.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03519/Sigmar-Gabriel_3519324k.jpg)
 
 ### Related:
 
@@ -18,6 +19,6 @@ In a highly unusual moment of a Western politician attacking a critical Arab all
 5. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
 6. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
 7. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
-8. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
-9. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Germany_
-10. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: Saudi Arabia_
+8. [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md) _Context: Saudi Arabia_
+9. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
+10. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Germany_

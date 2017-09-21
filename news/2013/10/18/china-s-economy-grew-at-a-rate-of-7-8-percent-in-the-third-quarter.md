@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/18/us-china-economy-gdp-idUSBRE99H02T20131018)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131018&t=2&i=804015608&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99H0H7H00)
 
 ### Related:
 

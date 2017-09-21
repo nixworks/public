@@ -8,6 +8,7 @@ A suicide bomber hit a Pakistani security checkpoint Thursday at the main border
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32582046/ns/world_news-south_and_central_asia/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090827-bomblast-hmed-2p.standard.jpg)
 
 ### Related:
 

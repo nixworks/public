@@ -9,6 +9,7 @@ The United Nations Security Council unanimously adopted a resolution on Friday a
 
 1. [The Hindustan Times](http://www.hindustantimes.com/world-news/un-unanimously-adopts-resolution-on-syria-chemical-weapons/article1-1377689.aspx)
 2. [VOA](http://www.voanews.com/content/un-unanimously-approves-syria-chemical-weapons-resolution-/2905442.html)
+2. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2013/08/23/Incoming/Pictures/1111730_Wallpaper2.jpg)
 
 ### Related:
 

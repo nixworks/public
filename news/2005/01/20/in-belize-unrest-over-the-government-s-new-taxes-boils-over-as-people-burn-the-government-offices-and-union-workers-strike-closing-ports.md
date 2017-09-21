@@ -12,6 +12,7 @@
 3. [Belize channel 7](http://www.7newsbelize.com/)
 4. [Belizean](http://www.belizean.com/mt-static/archives/2005/01/civil_unrest_in.html)
 5. [Belizetimes](http://www.belizetimes.bz/news/story/3933.shtml)
+5. [Cover Image](http://new.channel5belize.com.php56-10.dfw3-1.websitetestlink.com/wp-content/uploads/2014/06/Ch5_horz2.png)
 
 ### Related:
 

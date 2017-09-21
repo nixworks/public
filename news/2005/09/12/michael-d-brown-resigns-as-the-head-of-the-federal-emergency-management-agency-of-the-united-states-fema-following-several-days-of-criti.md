@@ -8,6 +8,7 @@ President Bush has tapped a federal official with three decades of firefighting 
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/id/9315184/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/050912/050912_paulison_vmed.standard.jpg)
 
 ### Related:
 

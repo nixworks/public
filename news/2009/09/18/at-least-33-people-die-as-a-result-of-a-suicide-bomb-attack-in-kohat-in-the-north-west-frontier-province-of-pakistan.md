@@ -11,6 +11,7 @@ At least 33 people have been killed in a suspected suicide bomb attack in northw
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8262199.stm)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20090919174408965C367874)
 4. [RTÉ](http://www.rte.ie/news/2009/0918/pakistan.html)
+4. [Cover Image](https://img.rasset.ie/00029af4-1600.jpg)
 
 ### Related:
 

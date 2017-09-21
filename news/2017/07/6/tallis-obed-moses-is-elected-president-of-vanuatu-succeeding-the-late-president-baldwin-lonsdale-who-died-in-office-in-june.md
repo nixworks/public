@@ -8,6 +8,7 @@ There was applause and a sense of relief in Vanuatu&#39;s parliament today as Ta
 ### Source:
 
 1. [RNZI](http://www.radionz.co.nz/international/pacific-news/334564/tallis-obed-moses-named-as-new-vanuatu-president)
+1. [Cover Image](http://www.radionz.co.nz/assets/news_crops/37393/eight_col_van_pres1.jpg?1499306532)
 
 ### Related:
 

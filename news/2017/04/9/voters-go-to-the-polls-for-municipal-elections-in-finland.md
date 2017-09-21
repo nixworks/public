@@ -9,6 +9,7 @@ Finland&amp;#039;s municipal elections are underway, as today Sunday, April 9 is
 
 1. [Finnish Ministry of Justice](http://www.vaalit.fi/en/index/onelections/municipalelections.html)
 2. [Yle News](http://yle.fi/uutiset/osasto/news/polls_open_to_voters_in_finlands_municipal_election/9555748)
+2. [Cover Image](http://img.yle.fi/uutiset/kotimaa/article9535860.ece/ALTERNATES/w940h529/LKS%2029.3.2017%20kuntavaalit%20vaalit%20vaalimainos%20ennakko%C3%A4%C3%A4nestys)
 
 ### Related:
 

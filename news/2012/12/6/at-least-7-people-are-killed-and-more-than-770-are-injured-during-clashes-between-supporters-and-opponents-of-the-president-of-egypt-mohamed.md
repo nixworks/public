@@ -9,6 +9,7 @@ At least four people killed and 300 others injured as supporters and opponents o
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121260463605399.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20622233)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/6/201212613243304734_20.jpg)
 
 ### Related:
 

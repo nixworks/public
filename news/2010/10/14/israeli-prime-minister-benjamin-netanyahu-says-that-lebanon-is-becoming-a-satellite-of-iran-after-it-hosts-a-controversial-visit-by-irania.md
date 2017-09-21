@@ -9,6 +9,7 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i4YrAou3PhhX5D0pYtCDmDnVV3Kw?docId=CNG.ec7f9d91f9219fe198c74432d20146a9.4b1)
 2. [Arutz Sheva](http://www.israelnationalnews.com/News/News.aspx/140083)
+2. [Cover Image](http://f.a7.org/pictures/245/245746.jpg)
 
 ### Related:
 

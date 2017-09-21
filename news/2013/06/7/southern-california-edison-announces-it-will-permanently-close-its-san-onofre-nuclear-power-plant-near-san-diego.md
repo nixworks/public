@@ -8,6 +8,7 @@ Southern California Edison is shutting the remaining two reactors at San Onofre,
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Environment/2013/0607/California-nuclear-plant-to-shut-a-case-of-unforgiving-nuclear-economics)
+1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
 ### Related:
 

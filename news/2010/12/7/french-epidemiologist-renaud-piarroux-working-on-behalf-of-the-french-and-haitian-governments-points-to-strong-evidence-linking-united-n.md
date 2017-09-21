@@ -9,6 +9,7 @@ A new report by French disease expert ties UN troops to the cholera outbreak, co
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/2010127193223772271.html)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611554.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/21/201011211868178876_20.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Hundreds of Chinese migrant workers clash with police for a third consecutive ni
 3. [China Daily](http://www.chinadaily.com.cn/cndy/2011-06/13/content_12679447.htm)
 4. [Reuters](http://www.reuters.com/article/2011/06/13/us-china-labour-unrest-idUSTRE75C0KM20110613)
 5. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jBOAsw4XxYXQ4jVlyITeHQgWhoLw)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53376000/jpg/_53376566_012210411-1.jpg)
 
 ### Related:
 

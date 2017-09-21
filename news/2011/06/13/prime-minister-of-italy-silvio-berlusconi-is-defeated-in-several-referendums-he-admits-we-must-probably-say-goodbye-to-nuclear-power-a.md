@@ -9,6 +9,7 @@ Italian Prime Minister Silvio Berlusconi accepts the rejection of his nuclear po
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13741105)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/jun/13/berlusconi-nuclear-power)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53357000/jpg/_53357547_012190697-1.jpg)
 
 ### Related:
 

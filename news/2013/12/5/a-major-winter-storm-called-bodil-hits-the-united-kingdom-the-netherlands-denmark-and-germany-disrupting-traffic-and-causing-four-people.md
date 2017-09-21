@@ -9,6 +9,7 @@ Hurricane-force winds and tidal surges kill at least seven people in northern Eu
 
 1. [AFP via France 24](http://www.france24.com/en/20131205-european-storm-turns-deadly-threatens-huge-tidal-surge)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-25243460)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71574000/jpg/_71574758_stormhelsingreut.jpg)
 
 ### Related:
 

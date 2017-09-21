@@ -9,6 +9,7 @@ Six people were injured on Sunday after a car mounted a pavement outside a sport
 
 1. [CNN](http://edition.cnn.com/2017/06/25/europe/newcastle-car-accident-eid/index.html)
 2. [The New York Times](https://www.nytimes.com/reuters/2017/06/25/world/europe/25reuters-britain-newcastle.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President Poroshenko says Ukrainian forces have restored control over Maryinka, 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33022807)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83457000/jpg/_83457670_83457666.jpg)
 
 ### Related:
 

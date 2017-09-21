@@ -9,6 +9,7 @@ The University of California sued the Trump administration Friday for rescinding
 
 1. [Los Angeles Times](http://www.latimes.com/local/education/la-essential-education-updates-southern-uc-sues-the-trump-administration-for-1504896004-htmlstory.html)
 2. [Politico](http://www.politico.com/story/2017/09/08/university-of-california-sues-daca-242498)
+2. [Cover Image](http://www.trbimg.com/img-59b2e8c4/turbine/la-essential-education-updates-southern-uc-sues-the-trump-administration-for-1504896004)
 
 ### Related:
 

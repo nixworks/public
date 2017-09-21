@@ -9,6 +9,7 @@
 
 1. [Jutarnji List](http://www.jutarnji.hr/dogadjaji_dana/clanak/art-2008,2,6,,107702.jl)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L06331252.htm)
+2. [Cover Image](http://www.jutarnji.hr/migration_catalog/Image_Archive/brod.wide.1/2566547/ALTERNATES/LANDSCAPE_1180/brod.wide.1)
 
 ### Related:
 

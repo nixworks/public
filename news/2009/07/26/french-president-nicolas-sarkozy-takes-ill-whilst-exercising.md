@@ -8,6 +8,7 @@ French President Nicolas Sarkozy was rushed to hospital after falling ill while 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0726/sarkozyn.html)
+1. [Cover Image](https://img.rasset.ie/0002784a-1600.jpg)
 
 ### Related:
 

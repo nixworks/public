@@ -8,3 +8,4 @@ Scientists using underwater robots have discovered remnants of the Pink Terraces
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=10703655)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20116/terrace_1024x76826367.jpg)

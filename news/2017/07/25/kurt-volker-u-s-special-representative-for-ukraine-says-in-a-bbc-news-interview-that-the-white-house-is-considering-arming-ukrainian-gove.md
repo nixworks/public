@@ -8,6 +8,7 @@ Washington is reviewing whether to arm those fighting Russian-backed rebels, say
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-40712385)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1285A/production/_97066857_aabe1ece-e9c6-4ac3-b993-eecda15218c4.jpg)
 
 ### Related:
 

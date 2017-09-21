@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10599073)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/200939/australia_map_300x200.jpg)
 
 ### Related:
 

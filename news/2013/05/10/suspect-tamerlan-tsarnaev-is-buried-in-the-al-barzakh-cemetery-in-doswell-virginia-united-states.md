@@ -9,6 +9,7 @@ Boston Marathon bombing suspect Tamerlan Tsarnaev has been buried in a Muslim ce
 
 1. [ABC News](http://abcnews.go.com/Blotter/mounting-evidence-boston-bombers-involved-2011-triple-murder/story?id=19151271)
 2. [Reuters via News24](http://www.news24.com/news24/World/News/Boston-bomb-suspect-buried-in-Virginia-20130510)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2382/6e9e8c2209ed4ad0a7836e9154832fba.jpg)
 
 ### Related:
 

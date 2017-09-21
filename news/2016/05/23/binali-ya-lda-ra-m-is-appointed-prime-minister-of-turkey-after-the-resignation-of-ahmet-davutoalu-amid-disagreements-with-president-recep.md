@@ -10,6 +10,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 1. [ABC New](http://abcnews.go.com/International/wireStory/erdogan-ally-set-appointed-turkeys-prime-minister-39285468)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-36352526)
 3. [VOA](http://www.voanews.com/content/turkey-prime-minister/3340876.html)
+3. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

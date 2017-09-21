@@ -8,6 +8,7 @@ ISIS and its sympathizers have killed more than 500 people in attacks around the
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/storyline/isis-terror/isis-trail-death-n475861)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_47/1307786/151118-isis-propaganda-victory-over-al-qaeda-yh-1115a_97488d8474eaebd0d68799081cbf89b6.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

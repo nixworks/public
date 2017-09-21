@@ -8,6 +8,7 @@ A U.S. Army corporal was sentenced to 90 days of hard labor and a bad conduct di
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE7050X520110106)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

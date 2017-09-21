@@ -8,6 +8,7 @@ Up to 2,000 members of An Garda Síochána have taken part in a demonstration ag
 ### Source:
 
 1. [RT�](http://www.rte.ie/news/2009/0225/pension.html)
+1. [Cover Image](https://img.rasset.ie/000219e7-1600.jpg)
 
 ### Related:
 

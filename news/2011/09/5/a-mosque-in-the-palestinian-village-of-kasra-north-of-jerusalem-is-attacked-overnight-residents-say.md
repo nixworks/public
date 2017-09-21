@@ -8,6 +8,7 @@ Israeli police investigate a fire and graffiti attack on a mosque in the Palesti
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14786172)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55159000/jpg/_55159936_012817662-1.jpg)
 
 ### Related:
 

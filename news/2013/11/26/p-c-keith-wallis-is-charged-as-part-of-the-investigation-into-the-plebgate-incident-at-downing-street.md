@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-25101706#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70511000/jpg/_70511482_d260fa06-4754-48ec-8953-8ecbe2d5b8f6.jpg)
 
 ### Related:
 

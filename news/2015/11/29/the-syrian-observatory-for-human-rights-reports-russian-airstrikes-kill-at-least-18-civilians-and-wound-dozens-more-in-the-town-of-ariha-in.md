@@ -9,6 +9,7 @@ Several areas of the town were hit and rescue operations are under way with seve
 
 1. [AFP via ''The Express Tribune](http://tribune.com.pk/story/1000636/at-least-18-civilians-killed-in-syria-airstrikes-monitor/)
 2. [Reuters](http://www.reuters.com/article/2015/11/29/us-mideast-crisis-syria-ariha-idUSKBN0TI07K20151129#X8PpXhvjaS6Cv1CE.97)
+2. [Cover Image](https://c.tribune.com.pk/2015/11/1000636-syriaairstrikesAFP-1448797601-513-640x480.jpg)
 
 ### Related:
 

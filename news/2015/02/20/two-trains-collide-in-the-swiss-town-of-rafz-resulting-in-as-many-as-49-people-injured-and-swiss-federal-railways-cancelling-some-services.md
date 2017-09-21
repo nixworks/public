@@ -8,6 +8,7 @@ Two passenger trains collided in Switzerland on Friday, injuring at least five p
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/02/20/uk-swiss-train-idUKKBN0LO0FD20150220)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150220&t=2&i=1026558959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1J0H7)
 
 ### Related:
 

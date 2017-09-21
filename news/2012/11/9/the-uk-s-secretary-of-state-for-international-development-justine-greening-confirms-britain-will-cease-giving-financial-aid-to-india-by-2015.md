@@ -8,6 +8,7 @@ The UK is to cease giving direct financial support to India by 2015 in recogniti
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20265583)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58806000/jpg/_58806525_boy_afp464.jpg)
 
 ### Related:
 

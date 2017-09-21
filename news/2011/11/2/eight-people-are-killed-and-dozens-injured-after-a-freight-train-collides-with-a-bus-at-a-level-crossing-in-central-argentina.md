@@ -8,6 +8,7 @@ Six girls aged between 10 and 12 are among eight people killed in a level crossi
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/argentina-level-crossing-crash-kills-8-20111103-1mw9z.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

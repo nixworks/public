@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/06/us-google-china-idUSTRE7550CV20110606)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110606&t=2&i=429734122&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-06T114228Z_01_BTRE7550FRU00_RTROPTP_0_GOOGLE)
 
 ### Related:
 

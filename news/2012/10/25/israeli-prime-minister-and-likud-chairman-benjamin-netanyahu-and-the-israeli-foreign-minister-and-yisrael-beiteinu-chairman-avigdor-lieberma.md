@@ -10,6 +10,7 @@ PM cites Iran, rising cost of living among challenges to be faced &#8216;with st
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20090316)
 2. [The Jewish Press](http://www.jewishpress.com/news/breaking-news/likud-and-yisrael-beiteinu-join-forces/2012/10/25/)
 3. [The Times of Israel](http://www.timesofisrael.com/netanyahu-announces-merger-with-israel-beytenu-promises-to-lead-with-strength/)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/10/F121025MA31.jpg)
 
 ### Related:
 

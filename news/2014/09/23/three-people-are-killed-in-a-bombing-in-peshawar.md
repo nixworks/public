@@ -8,6 +8,7 @@ Shahidullah Shahid says the attack, that killed four people, was in response to 
 ### Source:
 
 1. [Pakistan Tribune](http://tribune.com.pk/story/766010/3-killed-in-peshawar-bomb-explosion/)
+1. [Cover Image](https://c.tribune.com.pk/2014/09/766010-image-1411459392-257-640x480.jpg)
 
 ### Related:
 

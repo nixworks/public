@@ -8,6 +8,7 @@ Marriott and Starwood officially merged into one company this morning.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/travel/roadwarriorvoices/2016/09/23/marriott-starwood-merger-complete-and-loyal-customers-get-reciprocal-benefits/90885318/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

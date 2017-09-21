@@ -8,6 +8,7 @@ Liberty Global announces &pound;3.5bn deal to buy London-listed cable provider a
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/telecoms/11999530/Liberty-Global-snaps-up-Cable-and-Wireless-in-3.6bn-deal.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02482/santiago-sky_2482606k.jpg)
 
 ### Related:
 

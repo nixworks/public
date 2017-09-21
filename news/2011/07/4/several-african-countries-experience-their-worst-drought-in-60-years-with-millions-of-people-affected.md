@@ -8,6 +8,7 @@ The rains have failed for the last two years while crops and livestock have died
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14020452)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-africa-14020452A/playlist.sxml)
 
 ### Related:
 

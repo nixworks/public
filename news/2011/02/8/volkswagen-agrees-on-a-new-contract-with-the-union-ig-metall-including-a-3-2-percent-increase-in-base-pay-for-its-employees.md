@@ -8,6 +8,7 @@ The deal ensures workers a larger share of soaring profits in the German auto in
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2011/02/09/business/global/09vw.html?ref=business)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

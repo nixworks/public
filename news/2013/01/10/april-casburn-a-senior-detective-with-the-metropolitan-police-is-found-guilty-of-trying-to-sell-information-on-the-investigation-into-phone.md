@@ -8,6 +8,7 @@ A senior Metropolitan Police detective is found guilty of trying to sell informa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20976214)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65164000/jpg/_65164233_ggi747b8.jpg)
 
 ### Related:
 

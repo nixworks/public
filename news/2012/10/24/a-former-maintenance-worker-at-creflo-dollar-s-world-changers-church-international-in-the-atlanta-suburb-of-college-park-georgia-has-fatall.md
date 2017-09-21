@@ -8,6 +8,7 @@ ATLANTA (Reuters) - A former employee at a suburban Atlanta megachurch was taken
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-usa-shooting-georgiabre89n144-20121024,0,497801.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

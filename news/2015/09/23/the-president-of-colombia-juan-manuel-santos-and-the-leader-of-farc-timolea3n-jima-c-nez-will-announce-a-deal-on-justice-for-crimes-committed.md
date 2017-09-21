@@ -8,6 +8,7 @@ Colombian President Juan Manuel Santos and Farc rebel leader Timochenko agree to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34338208)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B523/production/_85717364_85717363.jpg)
 
 ### Related:
 

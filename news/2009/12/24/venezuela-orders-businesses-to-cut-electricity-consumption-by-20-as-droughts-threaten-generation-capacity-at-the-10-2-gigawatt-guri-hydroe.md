@@ -9,6 +9,7 @@ Venezuela has imposed sweeping power cuts on industry and businesses in order to
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/8427802.stm)
 2. [Merco Press](http://en.mercopress.com/2009/12/24/venezuela)
+2. [Cover Image](http://en.mercopress.com/imgs.php/noticias/23060/200x200/052fbb0a944f7308f1a08533ae1831f2.jpg)
 
 ### Related:
 

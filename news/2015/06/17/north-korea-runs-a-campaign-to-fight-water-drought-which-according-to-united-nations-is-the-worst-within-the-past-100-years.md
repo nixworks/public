@@ -8,6 +8,7 @@ North Korea has been hit by whatit describes as its worst drought in a century, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/17/northkorea-drought-idUSL3N0Z241120150617)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

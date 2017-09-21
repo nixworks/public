@@ -9,6 +9,7 @@ A prominent pro-democracy activist in Bahrain has been detained for seven days a
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242414493725665.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17824795)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59829000/jpg/_59829390_59825891.jpg)
 
 ### Related:
 

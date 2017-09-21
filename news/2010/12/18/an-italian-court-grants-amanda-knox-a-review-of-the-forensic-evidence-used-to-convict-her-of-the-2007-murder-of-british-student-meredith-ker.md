@@ -8,6 +8,7 @@ Amanda Knox has been granted a review of the forensic evidence used to convict h
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12025862)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

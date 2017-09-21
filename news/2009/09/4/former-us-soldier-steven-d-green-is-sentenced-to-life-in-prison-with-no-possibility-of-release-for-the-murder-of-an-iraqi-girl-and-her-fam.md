@@ -8,6 +8,7 @@ Ex-soldier receives five life terms for rape and killing of Iraqi family members
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/09/200994205130278106.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

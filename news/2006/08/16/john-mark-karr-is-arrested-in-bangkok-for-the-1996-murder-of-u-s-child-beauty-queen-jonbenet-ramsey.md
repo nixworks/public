@@ -10,6 +10,7 @@ An American expatriate school teacher told the public Thursday he was with JonBe
 1. [Denver Post](http://www.denverpost.com/news/ci_4190797)
 2. [MSNBC](http://www.msnbc.msn.com/id/14379566/)
 3. [USA Today](http://www.usatoday.com/news/nation/2006-08-16-ramsey_x.htm?csp=34)
+3. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/060817/060817_karr_hmed_1250a.standard.jpg)
 
 ### Related:
 

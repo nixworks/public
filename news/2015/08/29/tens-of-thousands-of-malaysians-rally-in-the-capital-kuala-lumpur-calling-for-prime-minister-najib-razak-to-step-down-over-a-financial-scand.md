@@ -8,6 +8,7 @@ Tens of thousands of Malaysians protest in Kuala Lumpur, calling for PM Najib Ra
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-34093338)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BF4F/production/_85257984_hi028758837.jpg)
 
 ### Related:
 

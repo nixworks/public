@@ -8,6 +8,7 @@ Space.com: A new study pins down how long it takes Earth&#39;s magnetic field to
 ### Source:
 
 1. [MSN](http://msnbc.msn.com/id/4687974/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

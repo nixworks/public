@@ -8,6 +8,7 @@
 ### Source:
 
 1. [French language article](http://www.7sur7.be/7s7/fr/1755/Tour-de-France/article/detail/1125702/2010/06/27/Tour-de-France-un-accident-d-helicoptere-fait-4-morts.dhtml)
+1. [Cover Image](http://static0.7sur7.be/static/photo/2010/14/13/0/20100627174935/media_xll_3768930.jpg)
 
 ### Related:
 

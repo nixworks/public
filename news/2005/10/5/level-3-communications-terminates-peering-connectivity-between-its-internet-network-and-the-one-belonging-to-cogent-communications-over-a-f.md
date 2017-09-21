@@ -8,6 +8,7 @@ A contract dispute between Level 3 and Cogent leaves some customers cut off from
 ### Source:
 
 1. [PC World](http://www.pcworld.com/news/article/0,aid,122893,00.asp)
+1. [Cover Image](http://csmb.staticworld.net/images/furniture/pcworld/NoPrimaryImage.png)
 
 ### Related:
 

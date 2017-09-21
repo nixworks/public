@@ -8,6 +8,7 @@ At least three people were reportedly killed at the Berrien County Courthouse in
 ### Source:
 
 1. [Washington Examiner](http://www.washingtonexaminer.com/report-three-dead-in-michigan-including-a-shooter/article/2596157)
+1. [Cover Image](http://cdn.washingtonexaminer.biz/cache/r960-cfe03eb235d617232dc8744e0d9fb2b6.jpg?v=2017.03.18.01)
 
 ### Related:
 

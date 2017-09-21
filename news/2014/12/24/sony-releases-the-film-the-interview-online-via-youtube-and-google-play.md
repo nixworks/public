@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/24/us-northkorea-cybersecurity-youtube-idUSKBN0K210520141224)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141224&t=2&i=1005273696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABN0GN)
 
 ### Related:
 

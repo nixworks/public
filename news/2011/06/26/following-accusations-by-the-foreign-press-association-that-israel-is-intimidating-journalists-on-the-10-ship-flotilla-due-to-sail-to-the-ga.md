@@ -11,6 +11,7 @@ Israeli troops begin to dismantle part of the West Bank barrier near Bilin, for 
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13920483)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/jun/26/israel-accused-gaza-flotilla-journalists)
 4. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=226816)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

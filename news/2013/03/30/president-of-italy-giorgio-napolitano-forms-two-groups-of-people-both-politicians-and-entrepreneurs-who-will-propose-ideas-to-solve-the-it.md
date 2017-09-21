@@ -8,6 +8,7 @@ Italian President Giorgio Napolitano says he will ask a select group of people t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21981679)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66678000/jpg/_66678499_66678498.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The new president is to take office on April 1.
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-03-15/myanmar-elects-htin-kyaw-as-first-civilian-leader-in-decades/7248728)
 2. [Indian Express](http://indianexpress.com/article/world/world-news/myanmar-parliament-to-select-countrys-president-on-tuesday/)
+2. [Cover Image](http://images.indianexpress.com/2016/03/myanmar-feature.jpg?w=480)
 
 ### Related:
 

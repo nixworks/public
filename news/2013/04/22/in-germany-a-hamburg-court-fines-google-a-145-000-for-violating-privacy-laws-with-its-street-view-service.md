@@ -8,6 +8,7 @@ Google has been fined €145,000 by a German privacy regulator for the systemati
 ### Source:
 
 1. [RT](http://rt.com/news/personal-privacy-google-data-226/)
+1. [Cover Image](https://img.rt.com/files/news/1e/d1/20/00/000_dv1405392.si.jpg)
 
 ### Related:
 

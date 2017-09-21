@@ -11,6 +11,7 @@ North Korean leader Kim Jong-il has arrived in Harbin, the capital of the Chines
 2. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2010/08/30/2010083000426.html)
 3. [UK Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5jUK5kwp3YcahFWc0UdI2UcDjwiGw)
 4. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/30/c_13469940.htm)
+4. [Cover Image](http://english.chosun.com/site/data/img_dir/2010/08/30/2010083000422_0.jpg)
 
 ### Related:
 

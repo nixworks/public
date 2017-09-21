@@ -8,6 +8,7 @@ A major highway in Mozambique splits as floods kill 73 people and displace tens 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30821256)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80259000/jpg/_80259857_malawi.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The United States has tentatively approved flights on eight U.S. airlines to Hav
 
 1. [Reuters](http://www.reuters.com/article/us-usa-cuba-idUSKCN0ZN1EF)
 2. [US DOT](https://www.transportation.gov/briefing-room/us-transportation-secretary-foxx-proposes-us-airlines-and-cities-new-scheduled-service)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160707&t=2&i=1144493595&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC660T3)
 
 ### Related:
 

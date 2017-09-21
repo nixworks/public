@@ -8,6 +8,7 @@ European Union leaders agreed on Thursday to extend economic sanctions against R
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-eu-sanctions-idUSKBN144289)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161215&t=2&i=1165633070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBE1C5)
 
 ### Related:
 

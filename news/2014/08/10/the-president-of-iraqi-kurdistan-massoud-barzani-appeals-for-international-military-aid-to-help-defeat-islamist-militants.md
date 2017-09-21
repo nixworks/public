@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28730618)
 2. [New York Times](http://www.nytimes.com/2014/08/11/world/middleeast/iraq.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76857000/jpg/_76857253_76857251.jpg)
 
 ### Related:
 

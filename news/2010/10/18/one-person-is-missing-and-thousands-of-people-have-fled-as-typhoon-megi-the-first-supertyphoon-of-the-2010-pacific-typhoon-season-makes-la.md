@@ -10,6 +10,7 @@ A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_TYPHOON?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11562238)
 3. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2010-10-17/one-person-missing-as-supertyphoon-megi-approaches-philippines.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

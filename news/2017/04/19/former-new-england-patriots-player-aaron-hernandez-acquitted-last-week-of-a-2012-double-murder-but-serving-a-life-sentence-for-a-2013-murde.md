@@ -8,6 +8,7 @@ Aaron Hernandez, the former New England Patriots star who was convicted of murde
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/04/19/aaron-hernandez-former-nfl-player-found-dead-in-prison-cell-officials-say.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/04/19/0/0/694940094001_5403153564001_5403142539001-vs.jpg?ve=1)
 
 ### Related:
 

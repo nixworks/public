@@ -9,6 +9,7 @@ Hong Kong police began to clear a small pro-democracy protest site in Causeway B
 
 1. [BBC](http://www.bbc.com/news/world-asia-30474687)
 2. [Wall Street Journal](http://www.wsj.com/articles/hong-kong-police-clear-last-protest-site-1418616478?tesla=y)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-GA081_hk1_G_20141214225655.jpg)
 
 ### Related:
 

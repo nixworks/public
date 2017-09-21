@@ -8,3 +8,4 @@ Turkish officials say that at least eight people have been killed by heavy flood
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34043346)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/162CA/production/_85162809_turkeyartvin4640815.jpg)

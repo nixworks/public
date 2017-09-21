@@ -8,6 +8,7 @@ Mauritius voters rejected plans to grant more powers to the president by handing
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSKBN0JP0PU20141211?irpc=932)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141211&t=2&i=998502137&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABA0B6)
 
 ### Related:
 

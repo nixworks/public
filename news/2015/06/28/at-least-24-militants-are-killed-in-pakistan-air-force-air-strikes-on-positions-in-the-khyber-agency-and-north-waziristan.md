@@ -8,6 +8,7 @@ In the country’s Khyber Agency and North Waziristan tribal regions
 ### Source:
 
 1. [IANS via ''the Hindu](http://www.thehindu.com/news/international/pakistan-air-strikes/article7363970.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

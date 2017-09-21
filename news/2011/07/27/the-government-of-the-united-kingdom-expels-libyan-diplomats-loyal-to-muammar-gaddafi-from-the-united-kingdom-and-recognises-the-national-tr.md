@@ -8,6 +8,7 @@ With the cost of intervention rising, a ‘kitchen sink’ of ideas is on the ta
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/as-libya-settles-into-stalemate-the-west-grasps-for-a-way-out/article2112337/)
+1. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
 
 ### Related:
 

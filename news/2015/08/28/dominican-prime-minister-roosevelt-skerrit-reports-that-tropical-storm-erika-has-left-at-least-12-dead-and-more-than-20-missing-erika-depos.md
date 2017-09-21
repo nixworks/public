@@ -10,6 +10,7 @@ TAMPAMeteorologists may have remained divided Friday evening on the fate of Trop
 1. [CNN](http://www.cnn.com/2015/08/28/us/tropical-weather-erika/)
 2. [The Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article32615610.html)
 3. [The Tampa Bay Times](http://www.tampabay.com/news/weather/hurricanes/forecast-track-for-tropical-storm-erika-moves-westward-into-florida-but/2243159)
+3. [Cover Image](http://www.tampabay.com/resources/images/dti/rendered/2015/08/AP_XFT106_DOMINICAN_REPUBLI_15785886_8col.jpg)
 
 ### Related:
 

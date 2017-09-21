@@ -8,6 +8,7 @@ Barclays boss Bob Diamond says he will not resign and blames a &quot;small numbe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18638357)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61242000/jpg/_61242563_010990358-1.jpg)
 
 ### Related:
 

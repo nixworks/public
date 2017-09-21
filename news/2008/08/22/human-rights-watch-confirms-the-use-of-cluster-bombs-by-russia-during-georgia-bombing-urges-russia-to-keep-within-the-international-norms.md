@@ -18,6 +18,7 @@
 9. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27561&pg=1&im=main&ct=0&wth=)
 10. [Sky News](http://news.sky.com/skynews/Home/World-News/South-Ossetia-Crisis-Russian-Troops-Appear-To-Be-Withdrawing-From-Georgian-Town-Of-Gori/Article/200808415084801?lpos=World%2BNews_0&lid=ARTICLE_15084801_South%2BOssetia%2BCrisis%253A%2BRussian%2BTroops%2BAppear%2BTo%2BBe%2BWithdrawing%2BFrom%2BGeorgian%2BTown%2BOf%2BGori)
 11. [The Independent](http://www.independent.co.uk/news/world/europe/georgian-official-russian-troops-leaving-gori-906071.html)
+11. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20080822&t=2&i=5700803&w=&fh=545px&fw=&ll=&pl=&sq=&r=GERefugee238)
 
 ### Related:
 

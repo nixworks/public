@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/07/200973045116233738.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/americas/07/30/haiti.boat.capsized/index.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

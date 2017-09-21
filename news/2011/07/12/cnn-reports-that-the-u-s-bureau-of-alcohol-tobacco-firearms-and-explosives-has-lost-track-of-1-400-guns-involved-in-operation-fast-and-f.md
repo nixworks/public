@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/POLITICS/07/12/atf.guns/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/POLITICS/07/12/atf.guns/tzvids.cartel.guns.gi.jpg)
 
 ### Related:
 

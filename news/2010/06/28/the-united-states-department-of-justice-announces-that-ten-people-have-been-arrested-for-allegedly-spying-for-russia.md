@@ -13,6 +13,7 @@ Ten people in the US are held and charged with spying for Russia, but Moscow say
 4. [New York Times](http://www.nytimes.com/2010/06/29/world/europe/29spy.html)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/jun/29/fbi-breaks-up-alleged-russian-spy-ring-deep-cover)
 6. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/06/10-russian-agents-in-us-accused-of-spying/1)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

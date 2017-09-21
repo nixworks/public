@@ -11,6 +11,7 @@ Pope Benedict XVI sends his first much-anticipated Twitter message using the han
 2. [The Australian](http://www.theaustralian.com.au/news/world/mockery-outweighs-piety-after-popes-twitter-debut/story-e6frg6so-1226535898504)
 3. [The Guardian](http://www.guardian.co.uk/world/video/2012/dec/12/pope-benedict-twitter-debut-video)
 4. [The New York Times](http://www.nytimes.com/2012/12/13/world/europe/the-pope-now-on-twitter-posts-his-first-message.html)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64714000/jpg/_64714062_64714061.jpg)
 
 ### Related:
 

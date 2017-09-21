@@ -9,6 +9,7 @@ Afghan security forces have retaken a district in the north of the country, kill
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-taliban-northern-idUSKCN0UO0BZ20160110)
 2. [The Gulf Today](http://gulftoday.ae/portal/b2a64cd0-6510-416a-8977-1a6dca76e257.aspx)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160110&t=2&i=1108379034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0905T)
 
 ### Related:
 

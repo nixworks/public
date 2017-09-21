@@ -8,6 +8,7 @@ A French court sentences two former Rwandan mayors to life in prison for their r
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36732357)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1471D/production/_90314738_mediaitem90314737.jpg)
 
 ### Related:
 

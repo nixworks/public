@@ -8,6 +8,7 @@ At least 36 people die in a stampede as millions of pilgrims gather for the worl
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2013-02-10/tens-of-millions-bathe-at-ganges-festival/4510894)
+1. [Cover Image](http://www.abc.net.au/news/image/4510912-1x1-700x700.jpg)
 
 ### Related:
 

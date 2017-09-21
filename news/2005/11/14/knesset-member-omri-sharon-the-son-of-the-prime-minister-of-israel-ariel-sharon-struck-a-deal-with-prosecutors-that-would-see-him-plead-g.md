@@ -8,6 +8,7 @@ MK Omri Sharon, the prime minister&#39;s son, pleads guilty to charges of illega
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3169230,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

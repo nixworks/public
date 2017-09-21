@@ -8,6 +8,7 @@ The Booker International Prize judging panel was &quot;animated by disagreement&
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13956612)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53752000/jpg/_53752180_roth1_464reuters.jpg)
 
 ### Related:
 

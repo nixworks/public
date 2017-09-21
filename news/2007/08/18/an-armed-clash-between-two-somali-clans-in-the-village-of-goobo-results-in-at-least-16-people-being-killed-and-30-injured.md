@@ -8,3 +8,4 @@ At least 16 people have been killed and 30 others wounded in a fierce gun battle
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/19/2008837.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

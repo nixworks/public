@@ -10,6 +10,7 @@ Hungary accuses Croatia of &quot;human smuggling&quot; as its neighbour refuses 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34302285)
 2. [Sky News](http://news.sky.com/story/1555206/hungary-confiscates-croatian-migrant-train)
 3. [Washington Post](http://www.washingtonpost.com/world/17000-asylum-seekers-stranded-in-croatia-with-nowhere-to-go/2015/09/19/ad6aae52-5c94-11e5-8475-781cc9851652_story.html)
+3. [Cover Image](http://e3.365dm.com/16/07/1600x900/gettyimages-489063458-1_3510599.jpg?20160704115836)
 
 ### Related:
 

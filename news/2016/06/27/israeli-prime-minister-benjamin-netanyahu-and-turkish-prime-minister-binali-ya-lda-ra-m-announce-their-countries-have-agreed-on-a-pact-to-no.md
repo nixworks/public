@@ -10,6 +10,7 @@ After six years of estrangement over a deadly clash in the waters outside of Gaz
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2016/0627/After-a-six-year-chill-Turkey-and-Israel-agree-to-normalize-relations)
 2. [Los Angeles Times](http://www.latimes.com/la-fg-israel-turkey-20160627-snap-story.html)
 3. [The Times of Israel](http://www.timesofisrael.com/after-years-of-chilly-ties-israel-and-turkey-announce-normalization/)
+3. [Cover Image](http://www.trbimg.com/img-577182b4/turbine/la-fg-israel-turkey-20160627-snap)
 
 ### Related:
 

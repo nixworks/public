@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=topNews&storyID=2005-07-20T111815Z_01_N20421604_RTRIDST_0_NEWS-BIRDFLU-INDONESIA-DC.XML)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

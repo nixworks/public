@@ -8,6 +8,7 @@ Islamabad: For the first time, Pakistan and Russia have signed an energy deal wo
 ### Source:
 
 1. [Jagran](http://post.jagran.com/pakistan-russia-sign-usd-17billion-energy-deal-1419325505)
+1. [Cover Image](http://images.jagran.com/pak-Russia.jpgB.jpg)
 
 ### Related:
 

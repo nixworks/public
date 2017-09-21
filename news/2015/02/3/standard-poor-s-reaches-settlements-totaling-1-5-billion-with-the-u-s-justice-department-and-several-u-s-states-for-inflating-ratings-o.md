@@ -8,6 +8,7 @@ Standard &amp; Poor’s $1.5 billion settlement today will let the world’s big
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-02-03/s-p-ends-legal-woes-with-1-5-billion-penalty-with-u-s-states)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNYQOC81TUXg/v1/1200x800.jpg)
 
 ### Related:
 

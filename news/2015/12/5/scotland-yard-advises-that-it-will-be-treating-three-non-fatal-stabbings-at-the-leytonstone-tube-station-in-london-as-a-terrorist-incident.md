@@ -8,6 +8,7 @@ A stabbing at a Tube station in east London, in which one man suffered serious i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-35018789?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12A76/production/_87060467_tube.png)
 
 ### Related:
 

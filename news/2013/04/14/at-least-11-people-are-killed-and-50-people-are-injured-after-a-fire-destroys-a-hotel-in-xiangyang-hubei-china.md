@@ -9,6 +9,7 @@ At least 11 killed and 50 others injured after blaze that started in internet ca
 
 1. [AP via ''The Times of India](http://timesofindia.indiatimes.com/world/china/Hotel-fire-in-China-kills-at-least-11-injures-50/articleshow/19540348.cms)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/201341413382923852.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/14/201341413484884734_20.jpg)
 
 ### Related:
 

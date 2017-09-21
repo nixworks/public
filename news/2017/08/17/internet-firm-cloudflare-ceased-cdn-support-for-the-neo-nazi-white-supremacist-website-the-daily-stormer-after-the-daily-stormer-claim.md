@@ -9,6 +9,7 @@ Cloudflare said claims that it secretly supported The Daily Stormer site were th
 
 1. [CNN Money](http://money.cnn.com/2017/08/17/technology/business/cloudflare-drops-daily-stormer/index.html)
 2. [Cloudflare's Official Blog](https://blog.cloudflare.com/why-we-terminated-daily-stormer/)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170224075737-cloudflare-logo-780x439.jpg)
 
 ### Related:
 

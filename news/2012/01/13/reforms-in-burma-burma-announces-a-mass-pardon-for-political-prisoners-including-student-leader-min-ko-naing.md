@@ -8,6 +8,7 @@ Burma frees many of its most prominent political prisoners in another major step
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16540871)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57874000/jpg/_57874760_57874759.jpg)
 
 ### Related:
 

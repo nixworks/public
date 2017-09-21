@@ -8,6 +8,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/environment/flood.asp?id=100346&callid=1)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

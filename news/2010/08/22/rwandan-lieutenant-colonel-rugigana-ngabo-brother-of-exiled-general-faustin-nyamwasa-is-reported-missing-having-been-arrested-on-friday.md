@@ -8,6 +8,7 @@ The brother of an exiled Rwandan general has disappeared after being arrested on
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11053446)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48707000/jpg/_48707058_009953467-1.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [KSL-NBC](http://www.ksl.com/?nid=148&sid=888784)
 4. [KUTV-CBS](http://kutv.com/topstories/local_story_043212315.html)
 5. [Salt Lake Tribune](http://www.sltrib.com/ci_5215006)
+5. [Cover Image](http://img.ksl.com/slc/79/7992/799298.jpg?filter=ksl/responsive_story_lg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/07/halle-berry-alleged-stalker-terrorized-me-and-my-family.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef014e600a998d970c-120pi)
 
 ### Related:
 

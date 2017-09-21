@@ -9,6 +9,7 @@ The measure passed by an overwhelming margin at the denomination&#x27;s national
 
 1. [General Convention](http://www.generalconvention.org/gc/2015-resolutions/A054/current_english_text)
 2. [NBC News](http://www.nbcnews.com/news/us-news/episcopalians-vote-allow-gay-marriage-churches-n385491)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_27/1103746/150701-gay-bride-2059_48f91ebf2f9e5614b0d63fc61d79aebb.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

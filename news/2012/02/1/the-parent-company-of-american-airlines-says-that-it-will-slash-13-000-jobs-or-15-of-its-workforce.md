@@ -8,6 +8,7 @@ The loss-making parent company of American Airlines says it will shed 13,000 job
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16847278)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54162000/jpg/_54162755_002917445-1.jpg)
 
 ### Related:
 

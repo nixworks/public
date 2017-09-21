@@ -9,6 +9,7 @@ A deal to end the unrest in Yemen appears to be unravelling after President Ali 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011519455413402.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13253771)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52435000/jpg/_52435466_011870794-1.jpg)
 
 ### Related:
 

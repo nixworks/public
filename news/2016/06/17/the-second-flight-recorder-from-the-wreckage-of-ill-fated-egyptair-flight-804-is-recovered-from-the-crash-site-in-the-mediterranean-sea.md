@@ -8,6 +8,7 @@ The second flight data recorder belonging to ill-fated EgyptAir flight MS804 has
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/world/second-black-box/2881610.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/2878346/1466077239000/large16x9/640/360/egyptair-search-team.jpg)
 
 ### Related:
 

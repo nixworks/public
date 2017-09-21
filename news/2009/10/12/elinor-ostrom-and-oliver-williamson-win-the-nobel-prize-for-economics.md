@@ -9,6 +9,7 @@ Elinor Ostrom and Oliver Williamson of the United States won the 2009 Nobel Econ
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aYjImnfwh0SE)
 2. [The Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/et-cetera/US-duo-wins-Nobel-Economics-Prize-first-woman-lauded/articleshow/5116166.cms)
+2. [Cover Image](http://img.etimg.com/photo/6325547.cms)
 
 ### Related:
 

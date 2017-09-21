@@ -8,6 +8,7 @@ US and Amnesty call for transparency and probe into Urumqi unrest one year on.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107345520361243.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

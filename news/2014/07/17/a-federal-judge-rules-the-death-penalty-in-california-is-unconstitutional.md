@@ -8,6 +8,7 @@ A federal judge in Orange County ruled Wednesday that California’s death penal
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-california-death-penalty-ruled-unconstitutional-20140716-story.html)
+1. [Cover Image](http://www.trbimg.com/img-53c6d6ec/turbine/la-me-ln-california-death-penalty-ruled-unconstitutional-20140716)
 
 ### Related:
 

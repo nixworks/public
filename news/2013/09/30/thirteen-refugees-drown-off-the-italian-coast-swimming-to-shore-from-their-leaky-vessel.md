@@ -8,6 +8,7 @@ UNHCR chief shocked at the news of a boat tragedy off the Italian island of Lamp
 ### Source:
 
 1. [U.N. High Commission for Refugees](http://www.unhcr.org/524d4ab36.html)
+1. [Cover Image](http://www.unhcr.org/thumb1/524d5da56.jpg)
 
 ### Related:
 

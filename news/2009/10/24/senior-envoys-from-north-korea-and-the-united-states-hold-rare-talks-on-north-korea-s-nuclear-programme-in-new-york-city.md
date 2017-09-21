@@ -9,6 +9,7 @@
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1013557/1/.html)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE59N1QY20091024)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091024&t=2&i=12068328&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-24T193043Z_01_BTRE59N1I7Z00_RTROPTP_0_USA)
 
 ### Related:
 

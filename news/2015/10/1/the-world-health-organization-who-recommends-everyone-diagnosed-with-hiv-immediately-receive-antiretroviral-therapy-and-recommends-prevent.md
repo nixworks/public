@@ -10,6 +10,7 @@ In new guidelines published today, the World Health Organization recommended tha
 1. [The Verge](http://www.theverge.com/2015/9/30/9423119/who-hiv-antiretroviral-treatment)
 2. [Time](http://time.com/4056153/hiv-treatment-aids-who-world-health-organization/)
 3. [WHO](http://www.who.int/mediacentre/news/releases/2015/hiv-treat-all-recommendation/en/)
+3. [Cover Image](https://cdn0.vox-cdn.com/thumbor/fPT3knLqZ6GQZPv6rD2tMbEAff4=/0x380:4000x2630/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47297746/who.0.0.JPG)
 
 ### Related:
 

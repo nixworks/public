@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Nobelprize.org](http://nobelprize.org/nobel_prizes/medicine/laureates/2007/index.html)
+1. [Cover Image](http://www.nobelprize.org/nobel_prizes/medicine/laureates/2007/smithies_postcard.jpg)
 
 ### Related:
 

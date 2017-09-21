@@ -8,6 +8,7 @@ Confirmed cases of Zika virus in Singapore rose to 82 on Tuesday, as the United 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-health-zika-singapore-idUSKCN1150HM)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160830&t=2&i=1151545610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7T0C0)
 
 ### Related:
 

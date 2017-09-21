@@ -8,6 +8,7 @@ The Egyptian parliament is drafting a law banning women from wearing the niqab v
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/egypt-drafts-bill-to-ban-niqab-veil-in-public-places-a6920701.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/25/10/burka.jpg)
 
 ### Related:
 

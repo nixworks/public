@@ -10,6 +10,7 @@
 1. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3282784/Iran-leader-endorses-nuclear-deal-despite-ambiguities.html)
 2. [Mehr News Agency](http://en.mehrnews.com/news/111282/Leader-issues-important-orders-to-Rouhani-on-JCPOA)
 3. [Reuters](http://www.reuters.com/article/2015/10/21/us-iran-nuclear-khamenei-idUSKCN0SF18720151021)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151021&t=2&i=1088619374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9K0JL)
 
 ### Related:
 

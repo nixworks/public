@@ -9,6 +9,7 @@ Cuban state television airs footage and stills of Venezuelan President Hugo Chav
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13953810)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1639692)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53749000/jpg/_53749935_53749934.jpg)
 
 ### Related:
 

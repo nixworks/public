@@ -15,6 +15,7 @@ Pope Benedict XVI has begun a four-day trip to Portugal, during which he is like
 6. [RTÉ](http://www.rte.ie/news/2010/0511/abuse.html)
 7. [RTÉ](http://www.rte.ie/news/2010/0511/pope_portugal.html)
 8. [The Guardian](http://www.guardian.co.uk/world/2010/may/11/pope-benedict-child-abuse-portugal)
+8. [Cover Image](https://img.rasset.ie/00034710-1600.jpg)
 
 ### Related:
 

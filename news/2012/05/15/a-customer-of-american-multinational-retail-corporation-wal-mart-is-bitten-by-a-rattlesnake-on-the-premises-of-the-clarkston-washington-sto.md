@@ -8,6 +8,7 @@ A Wal-Mart customer is recovering after he was bitten by a rattlesnake while sho
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18067653)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60236000/jpg/_60236561_60236560.jpg)
 
 ### Related:
 

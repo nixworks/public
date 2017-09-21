@@ -8,6 +8,7 @@ Three South Korean workers have died after apparently inhaling toxic gas at a co
 ### Source:
 
 1. [AP via FOX News](http://www.foxnews.com/world/2014/12/26/3-s-korean-workers-die-after-apparently-inhaling-toxic-gas-at-nuclear-plant/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

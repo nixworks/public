@@ -8,6 +8,7 @@ A woman suicide bomber blew herself up and killed 27 others at a market in north
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nigeria-security-idUSKCN1AV25K)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Supreme Court said that federal district judges are free to disagree with se
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2007/12/11/washington/11scotus.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

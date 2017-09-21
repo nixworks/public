@@ -9,6 +9,7 @@ The dead and injured were shifted to Civil Hospital Jacobabad, where an emergenc
 
 1. [Dawn](http://www.dawn.com/news/1215087)
 2. [Samaa News](http://www.samaa.tv/pakistan/2015/10/five-killed-in-jacobabad-blast/)
+2. [Cover Image](http://i.dawn.com/medium/2015/10/562a85f483ee1.jpg)
 
 ### Related:
 

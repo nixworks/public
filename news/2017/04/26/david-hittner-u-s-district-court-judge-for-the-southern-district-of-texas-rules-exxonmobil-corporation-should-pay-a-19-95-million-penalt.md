@@ -8,6 +8,7 @@ A federal judge ruled on Wednesday that ExxonMobil Corp should pay a $19.95 mill
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-refinery-pollution-exxon-penalty-idUSKBN17T08H)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170427&t=2&i=1182234601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3Q049)
 
 ### Related:
 

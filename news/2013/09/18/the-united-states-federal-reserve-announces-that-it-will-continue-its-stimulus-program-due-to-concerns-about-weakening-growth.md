@@ -8,6 +8,7 @@ The Federal Reserve has left its $US85 billion ($91 billion) a month stimulus pr
 ### Source:
 
 1. [The Age](http://www.theage.com.au/business/markets/us-federal-reserve-holds-off-on-tapering-20130919-2u087.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/2/u/0/8/9/image.related.articleLeadwide.620x349.2u087.png/1379539733287.jpg)
 
 ### Related:
 

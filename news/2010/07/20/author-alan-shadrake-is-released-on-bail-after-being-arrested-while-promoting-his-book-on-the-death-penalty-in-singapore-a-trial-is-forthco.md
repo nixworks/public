@@ -8,6 +8,7 @@ Writer of book on death penalty out on bail ahead of trial for alleged defamatio
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107205453162505.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

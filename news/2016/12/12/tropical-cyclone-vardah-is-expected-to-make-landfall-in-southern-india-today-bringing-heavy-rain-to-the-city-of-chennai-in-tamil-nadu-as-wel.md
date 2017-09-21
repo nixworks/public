@@ -9,6 +9,7 @@ A cyclone barrels into the south-east coast of India, killing at least four peop
 
 1. [CNN](http://edition.cnn.com/2016/12/11/asia/tropical-cyclone-vardah/index.html)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-12-13/cyclone-vardah-hits-india-coast-killing-four/8114242)
+2. [Cover Image](http://www.abc.net.au/news/image/8114266-1x1-700x700.jpg)
 
 ### Related:
 

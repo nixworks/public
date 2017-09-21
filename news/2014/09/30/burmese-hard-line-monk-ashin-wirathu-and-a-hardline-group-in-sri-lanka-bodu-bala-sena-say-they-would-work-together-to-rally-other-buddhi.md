@@ -8,6 +8,7 @@ A hard-line Buddhist monk from Myanmar known for his anti-Muslim stance said his
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/09/29/hard-line-buddhist-groups-from-myanmar-sri-lanka-to-join-to-protect-buddhists/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/09/29/hard-line-buddhist-groups-from-myanmar-sri-lanka-to-join-to-protect-buddhists/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449533726618.jpg?ve=1)
 
 ### Related:
 

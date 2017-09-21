@@ -8,6 +8,7 @@ Voters are heading to the polls to elect the first police and crime commissioner
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20331720)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64165000/jpg/_64165510_64165509.jpg)
 
 ### Related:
 
@@ -17,3 +18,4 @@ Voters are heading to the polls to elect the first police and crime commissioner
 4. [British Conservative MP Louise Mensch announces she will leave the House of Commons, triggering a by-election in her constituency. ](/news/2012/08/6/british-conservative-mp-louise-mensch-announces-she-will-leave-the-house-of-commons-triggering-a-by-election-in-her-constituency.md) _Context: Corby_
 5. [Four men feature in the first Crown Court criminal trial to be held without a jury in England and Wales for more than 350 years. ](/news/2010/01/12/four-men-feature-in-the-first-crown-court-criminal-trial-to-be-held-without-a-jury-in-england-and-wales-for-more-than-350-years.md) _Context: England and Wales_
 6. [ Lesbians are granted equal birth rights in England and Wales. ](/news/2009/08/31/lesbians-are-granted-equal-birth-rights-in-england-and-wales.md) _Context: England and Wales_
+7. [ Attempts to totally outlaw parents spanking children in England and Wales fail as a majority of 424 to 75 members of parliament vote against the ban. ](/news/2004/11/2/attempts-to-totally-outlaw-parents-spanking-children-in-england-and-wales-fail-as-a-majority-of-424-to-75-members-of-parliament-vote-agains.md) _Context: England and Wales_

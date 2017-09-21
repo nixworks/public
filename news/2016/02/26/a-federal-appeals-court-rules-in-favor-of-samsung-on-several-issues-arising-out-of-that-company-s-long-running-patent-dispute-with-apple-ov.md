@@ -8,6 +8,7 @@ A U.S. appeals court on Friday overturned a $120 million jury verdict against Sa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/apple-samsung-elec-appeal-idUSKCN0VZ27R)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120670419&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1P19I)
 
 ### Related:
 

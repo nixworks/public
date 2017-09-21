@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13009558)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 
@@ -18,6 +19,6 @@
 5. [Authorities shoot dead at least 2 people for protesting on a highway near Srinagar in Kashmir. ](/news/2010/08/3/authorities-shoot-dead-at-least-2-people-for-protesting-on-a-highway-near-srinagar-in-kashmir.md) _Context: Kashmir, Srinagar_
 6. [A curfew is imposed in Srinagar, Kashmir, after protests over the death of a 15-year-old boy during a demonstration. ](/news/2010/02/4/a-curfew-is-imposed-in-srinagar-kashmir-after-protests-over-the-death-of-a-15-year-old-boy-during-a-demonstration.md) _Context: Kashmir, Srinagar_
 7. [ India's government locks down Srinagar, Kashmir, to prevent anti-election protests. ](/news/2009/04/29/india-s-government-locks-down-srinagar-kashmir-to-prevent-anti-election-protests.md) _Context: Kashmir, Srinagar_
-8. [Six people are killed in clashes between protesters and police near Srinagar in the disputed region of Kashmir Valley, during a by-election for a vacant seat in the Indian Lok Sabha. ](/news/2017/04/9/six-people-are-killed-in-clashes-between-protesters-and-police-near-srinagar-in-the-disputed-region-of-kashmir-valley-during-a-by-election.md) _Context: Srinagar_
-9. [Six people are killed and two are missing after the Jhelum River in Kashmir overflows following heavy rain and snowfall. ](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.md) _Context: Kashmir_
-10. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: mosque_
+8. [ Indian policemen and soldiers of the Indian Army recover 300&nbsp;kg of RDX from a grocery store near the southern Kashmir town of Anantnag, 55&nbsp;km from Srinagar. This is the biggest ever explosive haul in the state of Jammu and Kashmir. ](/news/2004/11/20/indian-policemen-and-soldiers-of-the-indian-army-recover-300-nbsp-kg-of-rdx-from-a-grocery-store-near-the-southern-kashmir-town-of-anantnag.md) _Context: Kashmir, Srinagar_
+9. [ At least 19 people are killed in an explosion&mdash;suspected to be a suicide bombing&mdash;at a Shia mosque in the Pakistani city of Sialkot (located near the border of Indian-controlled Kashmir). The attack follows the killing of a leading Sunni cleric. ](/news/2004/10/1/at-least-19-people-are-killed-in-an-explosion-mdash-suspected-to-be-a-suicide-bombing-mdash-at-a-shia-mosque-in-the-pakistani-city-of-sialk.md) _Context: Kashmir, mosque_
+10. [Six people are killed in clashes between protesters and police near Srinagar in the disputed region of Kashmir Valley, during a by-election for a vacant seat in the Indian Lok Sabha. ](/news/2017/04/9/six-people-are-killed-in-clashes-between-protesters-and-police-near-srinagar-in-the-disputed-region-of-kashmir-valley-during-a-by-election.md) _Context: Srinagar_

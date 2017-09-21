@@ -8,6 +8,7 @@ The fire is spreading across the floors. The building is a powerloom factory as 
 ### Source:
 
 1. [IBN Live](http://www.ibnlive.com/news/india/4-floor-building-near-mumbai-catches-fire-many-feared-trapped-1228599.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2016/04/bhiwandi-fire_11am2.jpg)
 
 ### Related:
 

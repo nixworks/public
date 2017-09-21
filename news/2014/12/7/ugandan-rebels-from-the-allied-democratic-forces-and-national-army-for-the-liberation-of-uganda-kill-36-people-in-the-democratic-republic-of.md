@@ -8,6 +8,7 @@ Ugandan rebels wielding machetes and axes kill 36 people in eastern Democratic R
 ### Source:
 
 1. [Reuters/AFP via ABC News](http://www.abc.net.au/news/2014-12-08/ugandan-rebels-kill-36-in-attack-on-village-in-drc/5950254)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

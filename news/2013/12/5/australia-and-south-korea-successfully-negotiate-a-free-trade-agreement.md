@@ -8,6 +8,7 @@ THE coalition government has secured a free trade deal with South Korea, the fir
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/national/breaking-news/australia-seals-fta-with-south-korea/story-e6frfku9-1226776077019)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

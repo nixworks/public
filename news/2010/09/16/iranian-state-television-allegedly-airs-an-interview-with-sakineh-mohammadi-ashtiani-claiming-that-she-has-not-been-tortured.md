@@ -9,6 +9,7 @@ Iranian TV airs what it says is an interview with Sakineh Mohammadi Ashtiani, wh
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11326583)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/09/16/iran.stoning.lashing/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

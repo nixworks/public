@@ -10,6 +10,7 @@ A U.S. F-16 fighter jet was feared to have crashed on Monday during a training e
 1. [Business Insider](http://www.businessinsider.com/report-us-f-16-goes-down-off-italian-coast-2013-1)
 2. [MSN News](http://news.msn.com/us/us-fighter-jet-may-have-crashed-in-adriatic-sea)
 3. [Reuters](http://www.reuters.com/article/2013/01/29/us-fighter-crash-idUSBRE90R11Z20130129)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130128&t=2&i=698606724&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90R1QTS00)
 
 ### Related:
 

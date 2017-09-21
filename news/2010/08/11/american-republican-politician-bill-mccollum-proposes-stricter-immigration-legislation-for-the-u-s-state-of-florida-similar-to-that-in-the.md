@@ -9,6 +9,7 @@ Florida Attorney General Bill McCollum proposes tough new immigration legislatio
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10944125)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/florida-arizona-illlegal-immigration-laws)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

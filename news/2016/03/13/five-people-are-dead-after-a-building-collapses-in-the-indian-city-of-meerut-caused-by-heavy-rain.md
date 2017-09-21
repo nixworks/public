@@ -8,6 +8,7 @@
 ### Source:
 
 1. [India Today](http://indiatoday.intoday.in/story/two-storey-building-collapses-in-meerut-5-dead/1/618825.html)
+1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/meerut-story_647_031316111512.jpg)
 
 ### Related:
 

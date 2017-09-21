@@ -9,6 +9,7 @@ A massive wildfire has swept through a residential area of Colorado&#039;s secon
 
 1. [AFP via ''The Age](http://www.theage.com.au/world/thousands-flee-as-wildfire-bursts-into-colorado-city-20120628-213d7.html)
 2. [MSNBC](http://today.msnbc.msn.com/id/47994188/ns/weather/#.T-zY1vWWiPU)
+2. [Cover Image](http://www.theage.com.au/content/dam/images/2/1/3/g/k/image.related.articleLeadwide.620x349.213d7.png/1340840105133.jpg)
 
 ### Related:
 

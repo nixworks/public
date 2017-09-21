@@ -8,6 +8,7 @@ A panel of advisers urged President Obama to change the way the National Securit
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/12/19/us/politics/report-on-nsa-surveillance-tactics.html?hpw&rref=politics&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/12/19/us/JP-NSA/JP-NSA-videoSixteenByNine1050.jpg)
 
 ### Related:
 

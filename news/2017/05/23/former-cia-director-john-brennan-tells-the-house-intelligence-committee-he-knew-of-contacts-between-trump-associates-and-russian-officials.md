@@ -8,6 +8,7 @@ Director of National Intelligence Dan Coats on Tuesday refused to address — bu
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/coats-won-t-say-whether-trump-asked-him-push-back-n763551)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_21/2009801/170523-john-brennan-testify-ew-1151a_735112f9cd3b23f212e49523f21bf898.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

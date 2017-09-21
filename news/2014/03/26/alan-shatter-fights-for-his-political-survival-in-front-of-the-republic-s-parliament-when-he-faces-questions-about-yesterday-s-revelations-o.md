@@ -12,6 +12,7 @@ Alan Shatter to be questioned in parliament over claims of bugging in police sta
 3. [The Guardian](http://www.theguardian.com/world/2014/mar/26/ireland-justice-minister-alan-shatter-garda-bugging-scandal)
 4. [The Journal](http://www.thejournal.ie/gardagate-liveblog-1381710-Mar2014/)
 5. [The Journal](http://www.thejournal.ie/leo-varadkar-gardagate-1382532-Mar2014/)
+5. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/3/26/1395826328954/Alan-Shatter-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=507cdcdc7b029f551118f0acecb71310)
 
 ### Related:
 

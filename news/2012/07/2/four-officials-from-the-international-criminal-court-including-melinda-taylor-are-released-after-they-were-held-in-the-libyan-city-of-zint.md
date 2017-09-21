@@ -8,6 +8,7 @@ Four staff members from the International Criminal Court held in Libya for four 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18671454)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61316000/jpg/_61316915_015233547-1.jpg)
 
 ### Related:
 

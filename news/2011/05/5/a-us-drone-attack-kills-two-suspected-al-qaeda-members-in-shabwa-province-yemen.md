@@ -8,6 +8,7 @@ Two men suspected of being al-Qaeda militants were killed in Yemen by a missile 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8494943/US-drone-attack-kills-al-Qaeda-members-in-Yemen.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01874/droneget_1874997a.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ France 2&rsquo;s Philippe Verdier pooh-poohed global warming ahead of UN summit 
 
 1. [Irish Times](http://www.irishtimes.com/news/world/europe/french-weatherman-sacked-over-climate-change-book-1.2414582)
 2. [The Guardian](http://www.theguardian.com/world/2015/nov/02/french-weatherman-fired-for-promoting-book-sceptical-of-climate-change)
+2. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2414580&origw=1440)
 
 ### Related:
 

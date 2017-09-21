@@ -10,6 +10,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 1. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=inter-korean-talks-break-down-as-seoul-seeks-apology-2010-09-30)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/30/c_13537459.htm)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/09/30/6/0301000000AEN20100930006200315F.HTML)
+3. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Spanish film-maker Agusti Vila wins the main prize at the Karlovy Vary festival 
 2. [CBC News](http://www.cbc.ca/arts/film/story/2010/07/11/karlovy-awards.html?ref=rss)
 3. [People's Daily](http://english.peopledaily.com.cn/90001/90783/91324/7061154.html)
 4. [The Independent](http://www.independent.co.uk/arts-entertainment/films/spanish-director-vila-wins-at-czech-film-festival-2024627.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

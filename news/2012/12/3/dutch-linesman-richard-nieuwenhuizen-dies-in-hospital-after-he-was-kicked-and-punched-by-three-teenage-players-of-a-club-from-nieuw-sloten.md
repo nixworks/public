@@ -9,6 +9,7 @@ A Dutch man has died after being kicked and punched by three teenage football pl
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20583970)
 2. [The Telegraph](http://www.telegraph.co.uk/sport/football/teams/holland/9720726/Dutch-linesman-Richard-Nieuwenhuizen-killed-by-youth-players-had-been-officiating-his-sons-match.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64540000/jpg/_64540361_64540360.jpg)
 
 ### Related:
 

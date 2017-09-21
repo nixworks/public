@@ -9,6 +9,7 @@ New non-Jewish citizens will be obligated to pledge allegiance to &#39;Jewish, d
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010101013028364300.html)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3967149,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

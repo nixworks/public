@@ -8,6 +8,7 @@ A gunman on a motorbike opened fire on three French paratroopers at a bank machi
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/03/15/france-soldiers-shot.html)
+1. [Cover Image](https://i.cbc.ca/1.1481542.1379030004!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-world-tolouse-map-852.jpg)
 
 ### Related:
 

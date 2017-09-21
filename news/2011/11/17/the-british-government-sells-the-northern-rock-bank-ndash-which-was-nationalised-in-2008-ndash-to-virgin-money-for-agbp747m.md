@@ -8,6 +8,7 @@ Northern Rock bank, nationalised at the height of the credit crunch, is being so
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15769886)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56764000/jpg/_56764377_013352675-1.jpg)
 
 ### Related:
 

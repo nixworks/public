@@ -12,6 +12,7 @@ The Socialist party trounced a center-right government crippled by corruption sc
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/8289674.stm)
 4. [CBC](http://www.cbc.ca/world/story/2009/10/04/greece-election.html)
 5. [NY Times](http://www.nytimes.com/2009/10/05/world/europe/05greece.html?_r=1&ref=world)
+5. [Cover Image](https://static01.nyt.com/images/2009/10/04/world/cp_04greece-75.jpg)
 
 ### Related:
 

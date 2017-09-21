@@ -8,6 +8,7 @@ Death toll goes up to 30 with discovery of three more bodies two months after cr
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/2012322171555909359.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/31/2012131172237893621_20.jpg)
 
 ### Related:
 

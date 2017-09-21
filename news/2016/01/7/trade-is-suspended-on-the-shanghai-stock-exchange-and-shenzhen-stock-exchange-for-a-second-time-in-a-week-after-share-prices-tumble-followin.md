@@ -10,6 +10,7 @@
 1. [Business Insider](http://www.businessinsider.com.au/chinas-currency-rout-is-rocking-markets-again-2016-1?wt=2)
 2. [Fox Business](http://www.foxbusiness.com/markets/2016/01/07/us-equity-futures-tumble/?intcmp=hplnws)
 3. [Reuters](http://www.reuters.com/article/china-csrc-rules-idUSB9N14P03320160107)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/markets/2016/01/07/us-equity-futures-tumble/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1452200734125.jpg?ve=1)
 
 ### Related:
 

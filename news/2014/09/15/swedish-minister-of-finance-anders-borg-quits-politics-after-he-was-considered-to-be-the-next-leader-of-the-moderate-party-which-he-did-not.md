@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/swedish-finance-minister-anders-borg-quits-politics-1410792108)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-EN654_swborg_G_20140915102651.jpg)
 
 ### Related:
 

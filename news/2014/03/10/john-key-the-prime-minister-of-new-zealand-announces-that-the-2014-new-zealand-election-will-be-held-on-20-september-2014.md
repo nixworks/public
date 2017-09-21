@@ -8,6 +8,7 @@ New Zealand will go to the polls on September 20. - New Zealand Herald
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11217195)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201411/election_1024x768.jpg)
 
 ### Related:
 

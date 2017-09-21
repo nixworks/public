@@ -9,6 +9,7 @@ Fighting in Ukraine took an explosive turn Sunday night when residents of Donets
 
 1. [ABC News](http://abcnews.go.com/International/watch-explosion-ukrainian-chemical-factory/story?id=28830090)
 2. [Reuters](http://www.reuters.com/article/2015/02/09/us-ukraine-crisis-deathtoll-idUSKBN0LD0MJ20150209?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://a.abcnews.com/images/International/ht_ukraine_explosion_js_150209_16x9_992.jpg)
 
 ### Related:
 

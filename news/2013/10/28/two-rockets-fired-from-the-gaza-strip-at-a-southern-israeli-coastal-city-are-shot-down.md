@@ -9,6 +9,7 @@
 
 1. [Reuters](http://uk.reuters.com/article/2013/10/28/uk-palestinians-israel-violence-idUKBRE99R05U20131028)
 2. [The Guardian](http://www.theguardian.com/world/2013/oct/28/israel-shoots-down-rocket-gaza-strip)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131028&t=2&i=806711691&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99R0OV100)
 
 ### Related:
 

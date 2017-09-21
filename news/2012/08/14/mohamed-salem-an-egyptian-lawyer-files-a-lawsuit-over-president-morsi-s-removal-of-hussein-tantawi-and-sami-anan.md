@@ -8,6 +8,7 @@ An Egyptian court is to hear thefirst legal challenge to a decree issued by Isla
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/08/14/egypt-mursi-challenge-idUSL6E8JE9D220120814)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

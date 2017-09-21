@@ -9,6 +9,7 @@ A former nuclear scientist in the US is jailed for five years for trying to pass
 
 1. [AP](http://bigstory.ap.org/article/8b54704b35c44359b4e5b2476d7e1dab/ex-los-alamos-scientist-be-sentenced-nuke-spy-sting)
 2. [AP](http://www.bbc.com/news/world-us-canada-31033686)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80636000/jpg/_80636778_80636777.jpg)
 
 ### Related:
 

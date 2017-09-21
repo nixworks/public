@@ -12,6 +12,7 @@ Minister for Justice Alan Shatter has sought to reassure victims of sexual abuse
 3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/gardai-are-quizzed-in-rapetape-controversy-15138705.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/apr/06/ireland-police-protesters-recording)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0406/breaking18.html)
+5. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [Associated Press](http://hosted2.ap.org/APDEFAULT/89ae8247abe8493fae24405546e9a1aa/Article_2011-03-02-Germany%20Shooting%20Obama/id-f6193d939ebd4804bcaed150ab960c7b)
 3. [Sky News](http://news.sky.com/skynews/Article/201009115944217)
 4. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/03/2-dead-in-attack-in-germany-on-bus-carrying-us-soldiers/1)
+4. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2011/03/02/ Frankfurtx-wide-community.jpg)
 
 ### Related:
 

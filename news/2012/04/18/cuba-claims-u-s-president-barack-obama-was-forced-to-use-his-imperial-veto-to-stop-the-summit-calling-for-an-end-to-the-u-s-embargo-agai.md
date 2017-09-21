@@ -8,6 +8,7 @@ Cuba hails a Latin American &quot;rebellion&quot; against US dominance at the Su
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17762436)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59670000/jpg/_59670984_summit.jpg)
 
 ### Related:
 

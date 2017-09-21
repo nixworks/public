@@ -8,6 +8,7 @@ North Korea called on its people to rally behind new leader Kim Jong-un and prot
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/8986939/North-Korea-tells-its-people-to-protect-Kim-Jong-un-as-human-shields-in-New-Year-message.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02097/Kim-Jong-Un_2097246a.jpg)
 
 ### Related:
 

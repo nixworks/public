@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iXZamubV1WaX-qkXEaXuhpnxC7ug)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11048475)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/21/c_13455234.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

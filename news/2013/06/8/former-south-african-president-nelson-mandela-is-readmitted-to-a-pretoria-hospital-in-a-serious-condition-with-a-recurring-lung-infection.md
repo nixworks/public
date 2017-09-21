@@ -9,6 +9,7 @@ The presidency says former leader Nelson Mandela has been taken to a hospital be
 
 1. [AP via News24](http://www.news24.com/news24/SouthAfrica/News/Mandela-taken-to-hospital-20130608)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22824988)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1795/d4e14820ad0a44108ce7030091b45a55.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 20 people killed by gunmen who opened fire at wedding guests in norther
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/07/afghanistan-wedding-attack-150727052304371.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/7/1/2013711029717734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The price of oil reaches its highest level since June due to tensions in Iran, p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17094275)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58594000/jpg/_58594535_139032084.jpg)
 
 ### Related:
 

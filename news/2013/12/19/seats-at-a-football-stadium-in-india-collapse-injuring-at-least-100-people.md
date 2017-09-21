@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/video-stand-collapse-india-soccer-game-2013-12)
+1. [Cover Image](http://static5.businessinsider.com/image/52b31f956bb3f73409f15452-1190-625/scary-video-shows-stand-filled-with-fans-collapsing-at-a-soccer-game-in-india.jpg)
 
 ### Related:
 

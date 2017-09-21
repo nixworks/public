@@ -8,6 +8,7 @@ House of Representatives votes overwhelmingly to ban mass collection of American
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/us-news/2015/may/13/nsa-surveillance-congress-usa-freedom-act)
+1. [Cover Image](https://i.guim.co.uk/img/media/c486d204febfd3e6c9b77e6082f283fe51037073/0_0_3500_2101/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5d50c7a61740ab5fc06f9b2529423a96)
 
 ### Related:
 

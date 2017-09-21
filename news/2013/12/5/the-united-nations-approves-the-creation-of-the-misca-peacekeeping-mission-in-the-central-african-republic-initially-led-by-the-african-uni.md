@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/05/us-centralafrican-fighting-idUSBRE9B405F20131205)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131205&t=2&i=817805818&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9B4130300)
 
 ### Related:
 

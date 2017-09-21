@@ -12,6 +12,7 @@
 3. [SVD](http://www.svd.se/dynamiskt/inrikes/did_6951586.asp)
 4. [TV4.se](http://tv4.se/visa/?ID=304771)
 5. [dn.se](http://www.dn.se/DNet/jsp/polopoly.jsp?d=1042&a=236848&previousRenderType=1)
+5. [Cover Image](http://gfx.aftonbladet-cdn.se/image/15461432/300/widescreen/2e20a9fe63d65/ie9.jpg)
 
 ### Related:
 

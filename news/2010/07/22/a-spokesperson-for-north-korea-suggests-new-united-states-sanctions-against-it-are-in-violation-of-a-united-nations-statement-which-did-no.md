@@ -9,6 +9,7 @@ New US sanctions against N.Korea will violate a UN statement issued after the si
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/201072245318873846.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-sanctions-violationof-un-statement-20100722-10m8w.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

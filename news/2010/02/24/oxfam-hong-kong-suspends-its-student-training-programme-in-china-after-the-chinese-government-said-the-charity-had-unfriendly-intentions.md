@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8533752.stm)
 2. [My Sin Chew](http://www.mysinchew.com/node/35540)
 3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20100224&56&649275)
+3. [Cover Image](http://www.mysinchew.com/sites/all/themes/mysinchewv2/img/mysinchew_logo_fbv1.jpg)
 
 ### Related:
 

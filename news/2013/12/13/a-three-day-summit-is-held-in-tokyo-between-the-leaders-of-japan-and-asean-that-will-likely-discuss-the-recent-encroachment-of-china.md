@@ -8,6 +8,7 @@ Japan and SE Asian leaders pledge to work together to ensure &quot;freedom of ov
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25345156)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71739000/jpg/_71739583_71739582.jpg)
 
 ### Related:
 

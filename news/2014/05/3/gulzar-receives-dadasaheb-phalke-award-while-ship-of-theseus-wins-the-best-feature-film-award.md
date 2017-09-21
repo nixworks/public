@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Variety](http://variety.com/2014/film/news/ship-of-theseus-wins-indias-national-film-award-1201158125/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/11/ship_of_theseus_movie.jpg?w=1000&amp;h=750&amp;crop=1)
 
 ### Related:
 

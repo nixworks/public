@@ -8,6 +8,7 @@ Twin car bombs kill six in southern Iraq, hours after attacks in Baghdad leave e
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10857251)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

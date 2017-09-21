@@ -8,6 +8,7 @@ Niels Högel was convicted of killing two patients. An investigation has found a
 ### Source:
 
 1. [New York Times](https://www.nytimes.com/2017/08/28/world/europe/niels-hogel-german-nurse-killed-at-least-86-patients-officials-say.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/08/29/world/29Germany/29Germany-facebookJumbo.jpg)
 
 ### Related:
 

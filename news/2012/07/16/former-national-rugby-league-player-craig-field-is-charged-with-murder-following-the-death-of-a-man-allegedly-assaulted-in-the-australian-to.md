@@ -8,6 +8,7 @@ Former NRL player Craig Field has been charged with murder after a man he allege
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/rugby-league/league-news/former-nrl-star-craig-field-charged-with-murder-20120716-224s4.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/5/0/s/image.related.thumbnail.320x214.224s4.png/1342478651460.jpg)
 
 ### Related:
 

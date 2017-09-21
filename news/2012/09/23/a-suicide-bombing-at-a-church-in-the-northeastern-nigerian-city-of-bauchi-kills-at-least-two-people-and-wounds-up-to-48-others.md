@@ -8,6 +8,7 @@ A suicide bomber in northern Nigeria attacks a Catholic church, killing at least
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19691781)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63066000/jpg/_63066784_016061236.jpg)
 
 ### Related:
 

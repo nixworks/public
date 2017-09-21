@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NOS](http://nos.nl/artikel/155117-man-verstoort-nationale-herdenking-op-dam.html)
+1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)
 
 ### Related:
 

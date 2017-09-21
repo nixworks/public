@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11608551)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/21/haiti.cholera/?hpt=T2)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

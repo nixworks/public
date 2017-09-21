@@ -9,6 +9,7 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 
 1. [The Guardian](http://www.guardian.co.uk/society/blog/2011/mar/26/march-for-the-alternative-live-blog-updates?CMP=twt_gu)
 2. [The Telegraph](http://www.telegraph.co.uk/news/politics/8407260/TUC-protest-march-live.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01857/march_1857650a.jpg)
 
 ### Related:
 

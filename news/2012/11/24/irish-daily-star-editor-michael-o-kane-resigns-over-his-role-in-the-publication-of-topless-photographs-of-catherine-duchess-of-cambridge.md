@@ -8,6 +8,7 @@ The editor of the Irish Daily Star newspaper resigns over the controversial publ
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-20476767)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64357000/jpg/_64357897_64357896.jpg)
 
 ### Related:
 

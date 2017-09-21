@@ -8,6 +8,7 @@ Gunmen reportedly dressed as soldiers indiscriminately open fire on customers in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20512754)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64414000/gif/_64414009_nigeria_jos_0710.gif)
 
 ### Related:
 

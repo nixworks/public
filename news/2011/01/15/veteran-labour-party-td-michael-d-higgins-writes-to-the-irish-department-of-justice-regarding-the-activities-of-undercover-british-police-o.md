@@ -9,6 +9,7 @@ A BRITISH undercover police officer who infiltrated protest movements across Eur
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2011/jan/14/third-undercover-police-spy-cardiff?intcmp=239)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0115/1224287577245.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

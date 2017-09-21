@@ -8,6 +8,7 @@ The Welsh government will be granted limited powers to borrow money, if it can f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-20049205)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61552000/jpg/_61552629_003786117-1.jpg)
 
 ### Related:
 

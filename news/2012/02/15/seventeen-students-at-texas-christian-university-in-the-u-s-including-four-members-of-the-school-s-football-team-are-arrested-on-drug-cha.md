@@ -8,6 +8,7 @@ Four TCU football players were arrested in a drug sweep on and around campus on 
 ### Source:
 
 1. [ESPN](http://espn.go.com/dallas/ncf/story/_/id/7577881/tcu-horned-frogs-football-players-arrested-drug-sweep)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F2628.png)
 
 ### Related:
 

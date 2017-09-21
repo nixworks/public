@@ -9,6 +9,7 @@ Iraqi Prime Minister Haider al-Abadi has announced the start of an offensive aim
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-start-idUSKBN12G0Z1?il=0)
 2. [Reuters²](http://www.reuters.com/article/us-mideast-crisis-mosul-factbox-idUSKBN12G10K?il=0)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161016&t=2&i=1157677441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9F0OL)
 
 ### Related:
 

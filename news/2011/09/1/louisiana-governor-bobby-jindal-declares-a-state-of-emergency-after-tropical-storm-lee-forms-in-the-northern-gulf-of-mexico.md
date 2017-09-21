@@ -8,6 +8,7 @@ Oil companies evacuated workers from offshore wells, New Orleans prepared for po
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/US/09/01/tropical.weather.gulf/)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/09/01/tropical.weather.gulf/tzvids.gulf.storm.tracker.cnn.jpg)
 
 ### Related:
 

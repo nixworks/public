@@ -8,6 +8,7 @@ The details of the copyright case that placed the song &quot;Happy Birthday&quot
 ### Source:
 
 1. [UPI](http://www.upi.com/Odd_News/2016/02/09/Warner-Music-to-pay-back-licensing-fees-for-Happy-Birthday-copyright/8481455050574/?spt=rln&or=1)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/8481455050574/2016/1/41046f5c23f3f61a6cfe18c773cb449c/v1.5/Warner-Music-to-pay-back-licensing-fees-for-Happy-Birthday-copyright.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ohio residents removed piles of waterlogged carpet, couches and upended refriger
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/20436737/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Video/070827/tdy_tibbles_storm_070827.standard.jpg)
 
 ### Related:
 

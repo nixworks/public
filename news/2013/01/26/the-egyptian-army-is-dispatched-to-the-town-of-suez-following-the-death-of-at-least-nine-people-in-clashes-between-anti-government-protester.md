@@ -12,6 +12,7 @@ At least 32 people were killed on Saturday when Egyptians rampaged in protest at
 3. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=301013)
 4. [Reuters](http://www.reuters.com/article/2013/01/26/us-egypt-anniversary-clashes-idUSBRE90P01Q20130126)
 5. [Reuters](http://www.reuters.com/article/2013/01/26/us-egypt-anniversary-idUSBRE90N1E620130126)
+5. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130126&t=2&i=698066968&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90P1J7J00)
 
 ### Related:
 

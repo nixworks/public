@@ -12,6 +12,7 @@ The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 3. [Bangkok Post](http://www.bangkokpost.com/breakingnews/151857/ransom-demanded-for-missing-ship)
 4. [RIA Novosti](http://en.rian.ru/world/20090815/155818361.html)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6797522.ece)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

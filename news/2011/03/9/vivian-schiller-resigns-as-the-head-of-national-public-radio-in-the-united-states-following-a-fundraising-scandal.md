@@ -8,6 +8,7 @@ Republicans said Wednesday that the resignation of NPR&#8217;s top executive in 
 ### Source:
 
 1. [Washington Times](http://www.washingtontimes.com/news/2011/mar/9/npr-chief-ousted-after-video-released/#)
+1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2011/03/09/NPR_Tea_Party_Critici_Lea.jpg)
 
 ### Related:
 

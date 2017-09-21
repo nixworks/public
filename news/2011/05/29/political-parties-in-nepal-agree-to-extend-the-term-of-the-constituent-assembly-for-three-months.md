@@ -8,6 +8,7 @@ Political parties reach last-minute deal, saving the Assembly and averting a pol
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/05/201152904853548725.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/29/20115291743289734_20.jpg)
 
 ### Related:
 

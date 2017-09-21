@@ -10,6 +10,7 @@ Nasrin Sotoudeh, a female human rights lawyer, has been sentenced to 11 years in
 1. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/01/iran-activist-lawyer-human-rights-nasrin-sotoudeh.html)
 2. [Reuters](http://ca.reuters.com/article/topNews/idCATRE70934Q20110110)
 3. [The New York Times](http://www.nytimes.com/2011/01/11/world/middleeast/11tehran.html?_r=1)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

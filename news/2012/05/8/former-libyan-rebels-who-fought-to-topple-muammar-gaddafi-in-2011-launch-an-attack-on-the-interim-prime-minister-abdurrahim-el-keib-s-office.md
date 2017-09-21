@@ -8,6 +8,7 @@ The office of Libyan PM Abdurrahim al-Keib is attacked by ex-rebels demanding co
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17995427)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60095000/jpg/_60095354_014598019-1.jpg)
 
 ### Related:
 

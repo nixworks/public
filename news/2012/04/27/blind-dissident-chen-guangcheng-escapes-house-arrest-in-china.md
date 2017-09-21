@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://blogs.wsj.com/chinarealtime/2012/04/27/where-is-chen-guangcheng/)
+1. [Cover Image](http://si.wsj.net/public/resources/images/AG-AC629_cohen_G_20111102122739.jpg)
 
 ### Related:
 

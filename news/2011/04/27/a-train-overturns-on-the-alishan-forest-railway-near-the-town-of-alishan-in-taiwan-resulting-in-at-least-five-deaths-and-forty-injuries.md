@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/world/story/2011/04/27/taiwan-train-overturn.html?ref=rss)
+1. [Cover Image](https://i.cbc.ca/1.2024451.1381636924!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-taiwan-train-852-0057120.jpg)
 
 ### Related:
 

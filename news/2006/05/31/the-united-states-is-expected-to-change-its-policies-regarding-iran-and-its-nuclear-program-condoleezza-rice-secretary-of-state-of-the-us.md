@@ -9,6 +9,7 @@ Iran&#39;s top leader, Ayatollah Ali Khamenei, warned Sunday that energy supplie
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/05/31/us.iran/index.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/13048821/)
+2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/060604/060604_khamenei_iran_hlrg_8a.standard.jpg)
 
 ### Related:
 

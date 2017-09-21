@@ -8,6 +8,7 @@ Australia and Timor-Leste resolve their bitter and long-running dispute over mar
 ### Source:
 
 1. [ABC.net.au](http://www.abc.net.au/news/2017-09-02/timor-leste-maritime-boundary-with-australia-agreement/8866776)
+1. [Cover Image](http://www.abc.net.au/news/image/753798-1x1-700x700.jpg)
 
 ### Related:
 

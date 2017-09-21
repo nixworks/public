@@ -13,6 +13,7 @@ Presidential election results from the 2016 Oregon Democratic Primary and Oregon
 4. [CNN](http://edition.cnn.com/election/primaries/states/ky/Dem)
 5. [Courier-Journal](http://www.courier-journal.com/story/news/politics/elections/kentucky/2016/05/17/kentucky-democrats-pick-between-hillary-clinton-bernie-sanders/84276650/)
 6. [NBC News](http://www.nbcnews.com/politics/2016-election/primaries/OR)
+6. [Cover Image](http://nodeassets.nbcnews.com/cdnassets/projects/decision-2016/og-OR2.jpg)
 
 ### Related:
 

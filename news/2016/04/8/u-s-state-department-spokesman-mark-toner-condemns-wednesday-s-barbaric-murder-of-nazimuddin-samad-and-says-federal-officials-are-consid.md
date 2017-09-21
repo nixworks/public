@@ -8,6 +8,7 @@ The U.S. State Department said federal officials are considering granting refuge
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/04/08/US-considers-refuge-for-Bangladeshi-bloggers-in-imminent-danger/9181460123634/?spt=hts&or=7)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/9181460123634/2016/1/14601292417332/v2.1/US-considers-refuge-for-Bangladeshi-bloggers-in-imminent-danger.jpg)
 
 ### Related:
 

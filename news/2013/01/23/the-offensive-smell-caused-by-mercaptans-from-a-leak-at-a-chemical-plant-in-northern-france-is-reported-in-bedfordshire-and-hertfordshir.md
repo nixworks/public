@@ -8,6 +8,7 @@ Police in Bedfordshire and Hertfordshire say they have had calls reporting the s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-21160725)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60986000/jpg/_60986237_tv000238662_bbc_nose_624.jpg)
 
 ### Related:
 

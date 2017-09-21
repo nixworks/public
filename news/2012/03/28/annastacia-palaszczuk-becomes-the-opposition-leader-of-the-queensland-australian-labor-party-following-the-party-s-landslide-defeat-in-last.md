@@ -8,6 +8,7 @@ Second generation Labor MP and new party leader Annastacia Palaszczuk has set he
 ### Source:
 
 1. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/state-election-2012/palaszczuk-paves-way-for-new-queensland-labor-20120328-1vyhg.html)
+1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/1/d/6/8/u/image.related.articleLeadwide.620x349.1vyhg.png/1332954000000.jpg)
 
 ### Related:
 

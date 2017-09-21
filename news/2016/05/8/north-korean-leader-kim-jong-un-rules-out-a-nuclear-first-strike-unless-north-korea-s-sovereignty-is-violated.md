@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/05/08/477238825/kim-jong-un-says-north-korea-wont-use-nukes-unless-its-sovereignty-is-violated)
+1. [Cover Image](https://media.npr.org/assets/img/2016/05/08/gettyimages-529025002_wide-a23469b71b347f8b2348c9385e79add0a8fc431a.jpg?s=1400)
 
 ### Related:
 

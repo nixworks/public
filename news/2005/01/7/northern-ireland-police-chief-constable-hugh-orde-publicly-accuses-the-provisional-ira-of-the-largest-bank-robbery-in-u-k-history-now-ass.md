@@ -9,6 +9,7 @@ The Taoiseach has said the attribution of last month&#39;s robbery at the Northe
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4154657.stm)
 2. [RTÉ](http://www.rte.ie/news/2005/0107/belfast.html)
+2. [Cover Image](https://img.rasset.ie/000038d6-1600.jpg)
 
 ### Related:
 

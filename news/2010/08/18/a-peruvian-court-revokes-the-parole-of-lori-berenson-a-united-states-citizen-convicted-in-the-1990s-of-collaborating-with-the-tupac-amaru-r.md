@@ -10,6 +10,7 @@ Lori Berenson, imprisoned on charges of aiding rebels in Peru, was released on p
 1. [AP via ''The Age](http://news.theage.com.au/breaking-news-world/peru-revokes-parole-for-us-terrorist-20100819-12fe1.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11018049)
 3. [The New York Times](http://www.nytimes.com/2010/08/19/world/europe/19berenson.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

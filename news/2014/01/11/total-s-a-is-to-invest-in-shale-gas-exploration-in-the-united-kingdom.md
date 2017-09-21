@@ -8,6 +8,7 @@ Total set to announce deal to join US-led exploration project in Gainsborough Tr
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/environment/2014/jan/11/french-total-uk-shale-gas-exploration)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/11/1389441547672/Fracking-protesters-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=edb279b9037c2c9e44cc61af94da04d9)
 
 ### Related:
 

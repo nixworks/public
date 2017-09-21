@@ -10,6 +10,7 @@ A quantity of explosive found in Dublin this morning was brought into the countr
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8441891.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0105/dorset.html)
 3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/irish-government-furious-after-slovakian-agents-plant-explosives-on-passenger-14623606.html)
+3. [Cover Image](https://img.rasset.ie/0002e25a-1600.jpg)
 
 ### Related:
 

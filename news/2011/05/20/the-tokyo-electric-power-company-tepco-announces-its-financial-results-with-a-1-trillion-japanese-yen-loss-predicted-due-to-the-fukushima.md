@@ -9,6 +9,7 @@ Tokyo Electric Power Co is likely to book about a 1 trillion yen ($12.3 billion)
 
 1. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110520/ap_on_bi_ge/as_japan_earthquake_tepco)
 2. [Reuters](http://www.reuters.com/article/2011/05/19/tepco-idUSTKV00646420110519)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Operators of a quake-crippled nuclear plant in Japan said they would try again o
 3. [Reuters via ''Edmonton Examiner](http://www.edmontonexaminer.com/ArticleDisplay.aspx?e=3026628)
 4. [Reuters](http://www.reuters.com/article/2011/03/16/us-japan-quake-idUSTRE72A0SS20110316?feedType=RSS&feedName=topNews)
 5. [Voice of America](http://www.voanews.com/english/news/US-Nuclear-Chief-Says-Japan-Should-Expand-Evacuation-Zone-Around-Damaged-Plant-118124794.html)
+5. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110316&t=2&i=364438839&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-16T233722Z_01_BTRE72F1TMD00_RTROPTP_0_JAPAN-QUAKE)
 
 ### Related:
 

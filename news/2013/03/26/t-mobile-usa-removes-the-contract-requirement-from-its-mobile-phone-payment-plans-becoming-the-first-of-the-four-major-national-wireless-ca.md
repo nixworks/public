@@ -8,6 +8,7 @@ The American mobile carrier, which has struggled against rivals like AT&T and Ve
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/03/27/technology/t-mobile-unveils-aggressive-phone-pricing-with-no-contracts.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/03/27/business/PHONE/PHONE-videoLarge.jpg)
 
 ### Related:
 

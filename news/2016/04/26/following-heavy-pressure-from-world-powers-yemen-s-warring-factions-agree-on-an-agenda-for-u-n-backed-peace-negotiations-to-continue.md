@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-talks-idUSKCN0XN24F)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160426&t=2&i=1134586073&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3P1AM)
 
 ### Related:
 

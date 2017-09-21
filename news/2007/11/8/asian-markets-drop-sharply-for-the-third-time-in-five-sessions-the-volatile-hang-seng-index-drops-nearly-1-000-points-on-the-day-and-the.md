@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/story.aspx?guid=%7B103E9DF7-305D-4FB2-B6E2-9239FBE74412%7D&link=http://www.247wallst.com/2007/11/asia-markets--5.html)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

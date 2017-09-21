@@ -8,6 +8,7 @@ Restaurant Brands International said it would expand Popeyes in the U.S. and glo
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/money/2017/02/21/burger-king-popeyes-tim-hortons/98189186/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

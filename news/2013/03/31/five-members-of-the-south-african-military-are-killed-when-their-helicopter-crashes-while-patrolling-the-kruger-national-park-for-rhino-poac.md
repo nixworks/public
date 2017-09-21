@@ -8,6 +8,7 @@ Five members of the South African military are killed in a helicopter crash as i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21986456)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66684000/jpg/_66684565_vuhba3ni.jpg)
 
 ### Related:
 

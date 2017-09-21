@@ -8,6 +8,7 @@ Shareholders of Washington Mutual Inc are &quot;highly unlikely&quot; to recover
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A050B20101101)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

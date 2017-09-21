@@ -11,6 +11,7 @@ U.S. football star Michael Vick publicly apologized on Monday after pleading gui
 2. [Newsday.com](http://www.newsday.com/sports/football/ny-spvick285349181aug28,0,569200.story)
 3. [Reuters](http://www.reuters.com/article/newsOne/idUSN2745516320070827)
 4. [USA Today transcript of apology](http://www.usatoday.com/sports/football/2007-08-27-2672656486_x.htm)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

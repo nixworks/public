@@ -9,6 +9,7 @@ An Afghan governor pleaded Monday with the Taliban to extend a deadline for the 
 
 1. [AP via The China Post](http://www.chinapost.com.tw/news/2007/07/30/116526/Afghan-official.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6923008.stm)
+2. [Cover Image](http://www.chinapost.com.tw)
 
 ### Related:
 

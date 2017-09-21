@@ -8,6 +8,7 @@ Gunmen in Nigeria storm an oil barge off the coast, killing two sailors and kidn
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19127704)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62036000/jpg/_62036326_pipelineafp.jpg)
 
 ### Related:
 

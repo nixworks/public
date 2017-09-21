@@ -8,6 +8,7 @@ China will allow online sales of prescription drugs as early as this month, a po
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/09/us-china-pharmaceuticals-idUSKBN0KI0Y220150109)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150109&t=2&i=1014971661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB080GK)
 
 ### Related:
 

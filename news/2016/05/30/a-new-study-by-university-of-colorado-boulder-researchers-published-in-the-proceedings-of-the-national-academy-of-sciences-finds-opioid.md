@@ -8,6 +8,7 @@ A new University of Colorado Boulder-led study shows painkillers paradoxically p
 ### Source:
 
 1. [EurekAlert!](http://www.eurekalert.org/pub_releases/2016-05/uoca-npp052416.php)
+1. [Cover Image](https://www.eurekalert.org/multimedia/pub/web/116275_web.jpg)
 
 ### Related:
 

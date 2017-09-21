@@ -8,6 +8,7 @@ The Faroe Islands could become the final Nordic territory to recognize same-sex 
 ### Source:
 
 1. [The Local](http://www.thelocal.dk/20150902/faroe-islands-eyes-gay-unions-as-government-loses-election)
+1. [Cover Image](https://www.thelocal.dk/userdata/images/article/c910614556005d48372e1b33c04987f787fd3c9469f5ac39f3908f7299898162.jpg)
 
 ### Related:
 

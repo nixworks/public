@@ -8,6 +8,7 @@ US newspaper says the move is aimed at preventing suspected fighters from consol
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011695741630402.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/9/20116952748762734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A state of emergency has been declared in the Nelson region due to heavy floodin
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10773147)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201151/007--_1024x768.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7143219.stm)
 2. [ESPN](http://sports.espn.go.com/mlb/news/story?id=3153509)
 3. [MLB](http://mlb.mlb.com/mlb/news/mitchell/index.jsp)
+3. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Ftb.png)
 
 ### Related:
 

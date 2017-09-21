@@ -8,6 +8,7 @@ A bomb has exploded under a van in east Belfast, seriously injuring a prison off
 ### Source:
 
 1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/northern-ireland/belfast-bomb-further-attacks-highly-likely-as-dissidents-want-to-mark-easter-rising-centenary-by-killing-security-forces-live-updates-34510925.html)
+1. [Cover Image](http://www.belfasttelegraph.co.uk/incoming/article34511622.ece/ALTERNATES/h342/912JP1bomb7114jpg.jpg)
 
 ### Related:
 

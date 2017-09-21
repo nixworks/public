@@ -8,6 +8,7 @@ BAGHDAD (AP) — Five weeks after a military operation began, a senior Iraqi com
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/701e5c697003431bb8d82c83e9828e3d/iraqi-commander-fallujah-fully-liberated)
+1. [Cover Image](http://binaryapi.ap.org/01fe79e44efc43b7826717e8b51b178b/460x.jpg)
 
 ### Related:
 

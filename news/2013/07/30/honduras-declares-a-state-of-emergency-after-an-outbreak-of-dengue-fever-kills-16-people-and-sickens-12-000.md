@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CTV News](http://www.ctvnews.ca/health/honduras-declares-state-of-emergency-after-dengue-fever-outbreak-kills-16-1.1391495)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.839105.1474920013!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

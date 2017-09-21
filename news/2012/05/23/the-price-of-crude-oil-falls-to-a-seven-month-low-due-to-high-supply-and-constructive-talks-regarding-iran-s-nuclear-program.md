@@ -8,6 +8,7 @@ Oil prices fell below $90 a barrel for the first time since November; the euro f
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/05/23/investing/oil-prices/index.htm?hpt=hp_t3)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/05/23/investing/oil-prices/chart_ws_commodity_energy_oil_2012523132121.01.png)
 
 ### Related:
 

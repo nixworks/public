@@ -9,6 +9,7 @@ A massive tornado rips through neighbourhoods near Oklahoma City, on the second 
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22592695#)
 2. [CNN](http://edition.cnn.com/2013/05/19/us/severe-weather/index.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67699000/jpg/_67699839_67699838.jpg)
 
 ### Related:
 

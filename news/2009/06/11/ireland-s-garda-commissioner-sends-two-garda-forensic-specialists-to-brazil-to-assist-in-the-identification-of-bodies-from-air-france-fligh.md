@@ -8,6 +8,7 @@ Two garda forensic specialists will be assisting in the identification of bodies
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0611/airfrance.html)
+1. [Cover Image](https://img.rasset.ie/000170b3-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A knifeman sets fire to a train in eastern Switzerland, leaving six people in ho
 ### Source:
 
 1. [BBC News Online](http://www.bbc.co.uk/news/world-europe-37072847)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FE5E/production/_90781156_mediaitem90781155.jpg)
 
 ### Related:
 

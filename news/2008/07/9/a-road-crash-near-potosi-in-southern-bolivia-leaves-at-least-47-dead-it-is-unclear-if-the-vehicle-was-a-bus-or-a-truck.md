@@ -9,6 +9,7 @@ At least 47 people, including 12 children, have been killed in Bolivia after a b
 
 1. [ABC News](http://www.abc.net.au/news/stories/2008/07/09/2298988.htm?section=justin)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/americas/7496809.stm)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

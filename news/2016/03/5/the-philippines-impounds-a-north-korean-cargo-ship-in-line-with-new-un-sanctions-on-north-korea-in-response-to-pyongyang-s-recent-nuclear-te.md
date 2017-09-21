@@ -8,6 +8,7 @@ MANILA (AFP) - The Philippines said on Saturday (March 5) it had impounded a Nor
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/se-asia/the-philippines-impounds-north-korean-ship-in-response-to-new-un-sanctions)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/03/05/pixone.jpg?itok=FUZEawJB)
 
 ### Related:
 

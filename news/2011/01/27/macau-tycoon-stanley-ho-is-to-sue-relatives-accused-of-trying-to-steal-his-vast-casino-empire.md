@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gO5xiMEXysr22hNqrZPIlOGTt_5g?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.711)
 2. [Macau News](http://www.macaunews.com.mo/index.php?option=com_content&task=view&id=1181&Itemid=45)
 3. [Reuters](http://www.reuters.com/article/idUSTRE70Q3ED20110127)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110127&t=2&i=318916004&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-27T131639Z_01_BTRE70Q0ZNW00_RTROPTP_0_MACAU-HO)
 
 ### Related:
 

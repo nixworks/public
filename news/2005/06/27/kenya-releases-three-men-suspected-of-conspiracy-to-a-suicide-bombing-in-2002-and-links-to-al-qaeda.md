@@ -9,6 +9,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4625675.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8898799&section=news)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

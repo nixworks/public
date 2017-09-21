@@ -9,6 +9,7 @@ The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 year
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-33984006)
 2. [Reuters](http://www.reuters.com/article/2015/08/18/us-mideast-crisis-archaeology-idUSKCN0QN24K20150818)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13867/production/_85057997_paltwo.jpg)
 
 ### Related:
 

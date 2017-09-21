@@ -8,6 +8,7 @@ European Athletics
 ### Source:
 
 1. [Official website](http://www.european-athletics.org/)
+1. [Cover Image](http://www.european-athletics.org/imgml/design/logo.jpg)
 
 ### Related:
 

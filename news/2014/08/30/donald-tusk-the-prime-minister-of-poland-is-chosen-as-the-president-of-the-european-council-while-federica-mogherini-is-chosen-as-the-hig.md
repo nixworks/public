@@ -9,6 +9,7 @@ Poland&amp;#39;s prime minister Donald Tusk has been chosen by European Union le
 
 1. [France 24](http://www.france24.com/en/breaking/20140830-european-union-appoints-polands-donald-tusk-council-president-italys-federica-mogherini-foreign-poli/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20140830_1945&ns_linkname=20140830_breaking_news&ns_fee=0&f24_member_id=1080960490882)
 2. [ITV](http://www.itv.com/news/update/2014-08-30/polish-pm-donald-tusk-chosen-as-new-eu-council-head/)
+2. [Cover Image](http://news-assets.sn.itv.com/image/file/461054/img.jpg)
 
 ### Related:
 

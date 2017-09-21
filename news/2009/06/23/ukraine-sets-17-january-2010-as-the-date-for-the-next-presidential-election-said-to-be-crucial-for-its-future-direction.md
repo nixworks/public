@@ -9,6 +9,7 @@ Ukraine has set 17 January as the date for a presidential election crucial for i
 
 1. [RTÉ](http://www.rte.ie/news/2009/0623/ukraine.html)
 2. [The Moscow Times](http://www.themoscowtimes.com/article/1010/42/379002.htm)
+2. [Cover Image](https://img.rasset.ie/00026449-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Bush administration said it would consider dipping into the $700 billion res
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Stock-futures-slump-after-Senate/story.aspx?guid=%7BB03CCE21%2D6EA0%2D4565%2D87FA%2D5CEA0612B740%7D)
 2. [New York Times](http://www.nytimes.com/2008/12/13/business/13auto.html)
+2. [Cover Image](https://static01.nyt.com/images/2008/12/13/business/13auto.75.jpg)
 
 ### Related:
 

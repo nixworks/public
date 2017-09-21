@@ -8,6 +8,7 @@ Boy among several people wounded when police opened fire as thousands joined fun
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201241454230727719.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/14//201241453323517734_20.jpg)
 
 ### Related:
 

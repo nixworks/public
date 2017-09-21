@@ -9,6 +9,7 @@ New regulations come into force in China that require managers of mines to accom
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11490728)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101007/news_20101007_56_703375.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

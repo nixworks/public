@@ -10,6 +10,7 @@ Attack on L&#039;Etoile du Sud hotel in resort popular with Westerners claimed b
 1. [CNN](http://edition.cnn.com/2016/03/13/africa/ivory-coast-attack/index.html?eref=edition)
 2. [Daily Nation](http://www.nation.co.ke/news/africa/Al-Qaeda-affiliate-claims-Ivory-Coast-attack/-/1066/3115890/-/yht1kxz/-/index.html)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/cotedivoire/12192667/Ivory-Coast-hotel-shooting-Gunmen-open-fire-and-kill-11-in-beach-resort-Grand-Bassam-latest.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03593/Security-forces-ev_3593898k.jpg)
 
 ### Related:
 

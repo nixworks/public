@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Asian Correspondent](http://asiancorrespondent.com/134220/pakistan-lodges-protest-with-india-over-ceasefire-violation/)
+1. [Cover Image](https://cdn.asiancorrespondent.com/wp-content/uploads/2013/01/IndiaSoldierKashmirBorder2.jpg)
 
 ### Related:
 

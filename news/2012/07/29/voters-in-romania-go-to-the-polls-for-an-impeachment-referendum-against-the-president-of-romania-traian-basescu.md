@@ -8,6 +8,7 @@ Turnout of less than 50% means Romanian President Traian Basescu survives a stro
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19034173)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61891000/jpg/_61891680_015453202.jpg)
 
 ### Related:
 

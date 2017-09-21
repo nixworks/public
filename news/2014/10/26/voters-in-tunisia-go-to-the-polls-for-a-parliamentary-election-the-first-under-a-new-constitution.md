@@ -8,6 +8,7 @@ Tunisia votes in the first election to be held under its new constitution, which
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-29771109)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78538000/jpg/_78538942_78538938.jpg)
 
 ### Related:
 

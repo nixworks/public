@@ -8,6 +8,7 @@ A Nigerian man who admitted trying to bomb a US-bound flight on Christmas Day 20
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17065130)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55823000/jpg/_55823809_013077113-2.jpg)
 
 ### Related:
 

@@ -15,6 +15,7 @@ Municipality endorses mayor&#39;s plan to raze 22 homes in east Jerusalem before
 6. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/world/mayor-approves-albustan-demolition-14850553.html)
 7. [The Sydney Morning Herald](http://www.smh.com.au/world/allfemale-ship-heads-for-gaza-blockade-20100620-yp8g.html)
 8. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3908541,00.html)
+8. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

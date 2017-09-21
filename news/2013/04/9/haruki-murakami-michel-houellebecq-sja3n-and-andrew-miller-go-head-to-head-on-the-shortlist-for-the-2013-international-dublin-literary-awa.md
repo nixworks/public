@@ -9,6 +9,7 @@ A shortlist of ten authors including Haruki Murakami and past winners Michel Hou
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22081548)
 2. [The Guardian](http://www.guardian.co.uk/books/2013/apr/09/murakami-houllebecq-2013-impac-award-shortlist)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66825000/jpg/_66825514_authors.jpg)
 
 ### Related:
 

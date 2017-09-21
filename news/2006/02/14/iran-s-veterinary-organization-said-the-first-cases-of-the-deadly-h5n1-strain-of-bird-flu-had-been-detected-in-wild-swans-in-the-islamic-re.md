@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-02-14T150810Z_01_OLI444217_RTRUKOC_0_US-BIRDFLU-IRAN.xml)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

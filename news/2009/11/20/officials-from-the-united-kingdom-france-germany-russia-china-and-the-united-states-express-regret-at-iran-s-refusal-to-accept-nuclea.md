@@ -8,6 +8,7 @@ Senior officials from six world powers expressed disappointment Friday that Iran
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5AJ2MO20091120)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091120&t=2&i=15264269&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-20T153612Z_01_BTRE5AJ17CN00_RTROPTP_0_NUCLEAR-IRAN-OFFER)
 
 ### Related:
 

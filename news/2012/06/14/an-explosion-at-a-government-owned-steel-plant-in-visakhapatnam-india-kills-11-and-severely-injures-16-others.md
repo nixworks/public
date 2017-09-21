@@ -8,6 +8,7 @@ A massive explosion at a government-owned steel plant in the southern Indian sta
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-18437238)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60892000/jpg/_60892342_60891400.jpg)
 
 ### Related:
 

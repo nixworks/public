@@ -8,6 +8,7 @@ Twenty-five bodies have been recovered after a Bangladeshi ferry sank in a deep 
 ### Source:
 
 1. [AAP via SBS Australia](http://www.sbs.com.au/news/article/2014/05/16/bangladesh-ferry-carrying-hundreds-sinks)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/1/6/16May_Bangladesh_800x600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [KTSM Channel 9](http://www.ktsm.com/news/chihuahua-state-police-commander-killed-juarez)
 2. [The Huffington Post](http://www.huffingtonpost.com/2012/08/12/edgar-morales-perez-dead_n_1770703.html?utm_hp_ref=world)
+2. [Cover Image](http://static.lakana.com/nxsglobal/elpasoproud/theme/images/elpasoproud_placeholder.png)
 
 ### Related:
 

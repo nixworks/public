@@ -8,6 +8,7 @@ The Philippines Government says a deal to expand intelligence sharing with Indon
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/13/1978432.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081733121585238.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10995111)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

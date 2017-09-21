@@ -10,6 +10,7 @@ By Michael Flaherty and Caroline Humer(Reuters)...
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-10-29/philidor-said-to-modify-prescriptions-to-boost-valeant-sales)
 2. [New York Times](http://www.nytimes.com/2015/10/31/business/valeant-pharmaceuticals-philidor.html?ref=business)
 3. [Reuters via Business Insider](http://www.businessinsider.com/r-cvs-express-scripts-drop-valeants-philidor-stock-dives-2015-10)
+3. [Cover Image](http://static3.businessinsider.com/image/55d5591d5afbd3b1788b456b-1190-625/cvs-express-scripts-drop-valeants-philidor-stock-dives.jpg)
 
 ### Related:
 

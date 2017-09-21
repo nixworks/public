@@ -8,6 +8,7 @@ European countries asked Kenyan ambassadors to explain why Kenya refused to arre
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11156184)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
@@ -20,4 +21,4 @@ European countries asked Kenyan ambassadors to explain why Kenya refused to arre
 7. [Sudanese President Omar al-Bashir retracts an earlier remark and says there will be no return to civil war with the south if the referendum on South Sudanese self-determination results in a vote for independence.](/news/2010/10/21/sudanese-president-omar-al-bashir-retracts-an-earlier-remark-and-says-there-will-be-no-return-to-civil-war-with-the-south-if-the-referendum.md) _Context: Omar al-Bashir, Sudan, Sudanese President_
 8. [Sudanese President Omar al-Bashir accuses authorities in Southern Sudan of breaching a peace deal and warns of a possible new conflict if issues are not resolved before the independence referendum. ](/news/2010/10/10/sudanese-president-omar-al-bashir-accuses-authorities-in-southern-sudan-of-breaching-a-peace-deal-and-warns-of-a-possible-new-conflict-if-is.md) _Context: Omar al-Bashir, Sudan, Sudanese President_
 9. [ In Nairobi, Kenya, a peace treaty is signed between warring factions in the Sudanese civil war, which has claimed over 1.5 million lives in more than 20 years. ](/news/2005/01/9/in-nairobi-kenya-a-peace-treaty-is-signed-between-warring-factions-in-the-sudanese-civil-war-which-has-claimed-over-1-5-million-lives-in.md) _Context: Kenya, Nairobi, Sudan_
-10. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya, Nairobi_
+10. [ Sudanese Civil War: At a special session of the United Nations Security Council in Nairobi, Kenya, the government of Sudan and southern rebels sign an agreement which states that both sides will commit themselves to ending the 21-year conflict by December 31. The Council then unanimously passes a resolution which promises substantial aid to the country after the wars in the south and in the region of Darfur come to an end. ](/news/2004/11/19/sudanese-civil-war-at-a-special-session-of-the-united-nations-security-council-in-nairobi-kenya-the-government-of-sudan-and-southern-reb.md) _Context: Kenya, Nairobi, Sudan_

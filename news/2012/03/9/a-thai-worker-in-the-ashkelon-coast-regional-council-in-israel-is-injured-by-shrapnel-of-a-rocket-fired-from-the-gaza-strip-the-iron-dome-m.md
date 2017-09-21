@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4200738,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer2/13062011/3792937/raketa1_f.jpg)
 
 ### Related:
 

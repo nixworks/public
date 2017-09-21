@@ -8,6 +8,7 @@ Kenyan soldiers shot dead six suspected members of a separatist group after they
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/02/us-kenya-security-idUSKBN0IM0B520141102)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

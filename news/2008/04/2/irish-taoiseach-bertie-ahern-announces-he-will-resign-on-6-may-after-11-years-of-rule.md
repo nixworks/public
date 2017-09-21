@@ -8,6 +8,7 @@ Taoiseach Bertie Ahern has announced that he will tender his resignation to Pres
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0402/ahernb.html)
+1. [Cover Image](https://img.rasset.ie/000165ea-1600.jpg)
 
 ### Related:
 

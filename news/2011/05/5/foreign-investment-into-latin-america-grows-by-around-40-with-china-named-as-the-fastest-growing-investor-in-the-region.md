@@ -9,6 +9,7 @@ Foreign investment in Latin America grew by about 40% in 2010, with China the fa
 
 1. [BBC](http://www.bbc.co.uk/news/business-13294360)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90883/7370858.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52545000/jpg/_52545960_aluminiumplantinbrazil.jpg)
 
 ### Related:
 

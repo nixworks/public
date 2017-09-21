@@ -9,6 +9,7 @@ Eight people are killed by am explosion blast in the Syrian capital Damascus, an
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24835012)
 2. [Reuters](http://www.reuters.com/article/2013/11/06/syria-crisis-bomb-idUSL5N0IR32820131106)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70945000/jpg/_70945212_d6kf31ss.jpg)
 
 ### Related:
 

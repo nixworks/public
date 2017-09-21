@@ -8,6 +8,7 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/europe/08/01/italy.boat.bodies/index.html?eref=edition)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/08/01/italy.boat.bodies/tzvids.refugees.libya.gi.jpg)
 
 ### Related:
 

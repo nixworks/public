@@ -9,6 +9,7 @@ The lifting of sanctions is on the horizon, but also parliamentary elections in 
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/middle_east/registration-starts-for-iran-parliamentary-election/2015/12/19/f368f9b8-a659-11e5-8318-bd8caed8c588_story.html)
 2. [Deutsche Welle](http://www.dw.com/en/upcoming-iran-elections-after-nuclear-deal-may-have-consequences-for-years-to-come/a-18926340)
+2. [Cover Image](http://www.dw.com/image/18917121_304.jpg)
 
 ### Related:
 

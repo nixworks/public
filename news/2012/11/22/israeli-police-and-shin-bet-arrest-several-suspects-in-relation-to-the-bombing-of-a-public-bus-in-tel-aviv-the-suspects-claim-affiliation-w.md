@@ -8,6 +8,7 @@ Israel Security Agency reveals suspects arrested hours after the terror attack t
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=293140)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=207942)
 
 ### Related:
 

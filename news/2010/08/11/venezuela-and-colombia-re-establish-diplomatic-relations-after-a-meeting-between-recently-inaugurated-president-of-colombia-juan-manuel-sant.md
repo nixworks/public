@@ -11,6 +11,7 @@ The leaders of Colombia and Venezuela met in an effort to repair relations that 
 2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/41923)
 3. [The New York Times](http://www.nytimes.com/2010/08/11/world/americas/11venez.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13441557.htm)
+4. [Cover Image](https://static01.nyt.com/images/2010/08/11/world/VENEZ/VENEZ-thumbStandard.jpg)
 
 ### Related:
 

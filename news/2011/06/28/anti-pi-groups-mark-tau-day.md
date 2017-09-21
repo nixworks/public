@@ -8,6 +8,7 @@ A movement to replace the mathematical constant pi with tau - a constant twice a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-13906169)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53678000/jpg/_53678828_c0060532-various_aspect_of_.jpg)
 
 ### Related:
 

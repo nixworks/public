@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-32850671)
 2. [Sydney Morning Herald](http://www.smh.com.au/entertainment/tv-and-radio/why-sbs-paid-for-guy-sebastian-to-be-in-eurovision-final-20150522-gh6wnl.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/3/w/h/8/t/image.related.articleLeadwide.620x349.gh6wnl.png/1432518683350.jpg)
 
 ### Related:
 

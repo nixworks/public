@@ -8,6 +8,7 @@ The government urges the insurance industry to deal with flood-related claims as
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26222220#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73038000/jpg/_73038574_73038573.jpg)
 
 ### Related:
 

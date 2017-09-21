@@ -8,6 +8,7 @@ A second fire broke out shortly after 4 a.m., but authorities don&#039;t think t
 ### Source:
 
 1. [The Hollywood Reporter](http://www.hollywoodreporter.com/news/massive-downtown-la-fire-shuts-754803)
+1. [Cover Image](http://cdn3.thr.com/sites/default/files/2014/12/los_angeles_apartment_fire.jpg)
 
 ### Related:
 

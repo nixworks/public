@@ -8,6 +8,7 @@ Somali Interior Minister Abdi Shakur Sheikh Hassan is killed in a suicide attack
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13730603)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53357000/jpg/_53357292_012190280-1.jpg)
 
 ### Related:
 

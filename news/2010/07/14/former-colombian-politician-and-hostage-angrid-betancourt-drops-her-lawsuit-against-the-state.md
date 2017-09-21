@@ -8,6 +8,7 @@ Former Colombian hostage Ingrid Betancourt drops her widely criticised claim for
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/10630859)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

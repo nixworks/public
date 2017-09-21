@@ -8,6 +8,7 @@ Man dies as winds gusting over 100mph lash parts of the UK in what the assistant
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26153889)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72939000/jpg/_72939698_021050691-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former Icelandic PM Geir Haarde is cleared of the main charge of negligence over
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17817174)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58872000/jpg/_58872402_010160325-1.jpg)
 
 ### Related:
 

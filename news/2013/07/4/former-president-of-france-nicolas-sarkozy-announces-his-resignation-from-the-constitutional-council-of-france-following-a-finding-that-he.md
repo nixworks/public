@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Local](http://www.thelocal.fr/20130704/sarkozy-quits-frances-highest-court-over-expenses)
+1. [Cover Image](https://www.thelocal.fr/userdata/images/article/98cc39200ccfc45fb06930d9f60bae84d0ae0d264aab9b263c8f498848d5ff0f.jpg)
 
 ### Related:
 

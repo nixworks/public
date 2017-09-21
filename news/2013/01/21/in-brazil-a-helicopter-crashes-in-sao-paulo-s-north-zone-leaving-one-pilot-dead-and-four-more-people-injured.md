@@ -8,6 +8,7 @@
 ### Source:
 
 1. [IG News](http://ultimosegundo.ig.com.br/brasil/sp/2013-01-21/helicoptero-cai-em-residencia-na-zona-norte-de-sao-paulo.html)
+1. [Cover Image](http://i0.statig.com.br/fb/ig.jpg)
 
 ### Related:
 

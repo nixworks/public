@@ -8,6 +8,7 @@ Dr. Vivek Murthy had his long-awaited Senate confirmation vote Monday evening
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/surgeon-general-nominee-finally-has-confirmation-vote/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/12/15/ae0a8e28-7c29-4f8f-b40e-16286d591ba4/ap322387725435.jpg)
 
 ### Related:
 

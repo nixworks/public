@@ -8,3 +8,4 @@ Nazi slogans and swastikas were drawn on some gravestones, about 40 were toppled
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Jewish-World/Jewish-Features/Two-British-13-year-olds-arrested-in-major-cemetery-desecration-360882)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=189403)

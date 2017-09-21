@@ -8,6 +8,7 @@ An autopsy performed on Michael Brown shows that the unarmed black teen who was 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/michael-brown-shooting/michael-brown-autopsy-shows-ferguson-teen-shot-least-6-times-n182816?cid=eml_nbn_20140817)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2014_34/622626/privateautopsy_0a27c936021fe645e368dde80d115aeb.nbcnews-fp-1200-800.png)
 
 ### Related:
 

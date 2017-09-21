@@ -8,6 +8,7 @@ Police say they have no information if man suspected of setting off blast in Cop
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/201091213221416941.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/10/2010910164743842734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The lawyer for Zimbabwe&#039;s main opposition leader Morgan Tsvangirai say poli
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/01/23/2145015.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

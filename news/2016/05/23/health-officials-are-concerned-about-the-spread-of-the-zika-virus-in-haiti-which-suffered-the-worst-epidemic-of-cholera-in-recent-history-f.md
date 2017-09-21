@@ -8,6 +8,7 @@ MIREBALAIS, Haiti (AP) — Berny Saint-Sauveur was moaning and incoherent when h
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/fa10763fec9d4326ae51dc09c3ea3b6f/concern-haiti-over-emerging-condition-linked-zika)
+1. [Cover Image](http://binaryapi.ap.org/6d5b2808d76140c69331c0dcedde9b72/460x.jpg)
 
 ### Related:
 

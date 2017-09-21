@@ -9,6 +9,7 @@ Brazil and Turkey reach deal with Iran over uranium stockpile, but details remai
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010516204621125495.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8685846.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

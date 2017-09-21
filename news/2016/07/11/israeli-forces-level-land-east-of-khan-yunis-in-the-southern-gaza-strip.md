@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Ma'an News](http://maannews.com/Content.aspx?id=772189)
+1. [Cover Image](http://www.maannews.com/Photos/371927C.jpg)
 
 ### Related:
 

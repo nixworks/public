@@ -8,6 +8,7 @@ North Korean leader Kim Jong Un said on Sunday that the isolated, nuclear-capabl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-kim-idUSKBN14L0RN?)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170101&t=2&i=1167265095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED000GW)
 
 ### Related:
 

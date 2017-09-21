@@ -8,6 +8,7 @@ A Baltimore police officer will be tried by a judge instead of a jury on charges
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-baltimore-police-idUSKCN0Y115C)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160510&t=2&i=1136649000&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4917R)
 
 ### Related:
 

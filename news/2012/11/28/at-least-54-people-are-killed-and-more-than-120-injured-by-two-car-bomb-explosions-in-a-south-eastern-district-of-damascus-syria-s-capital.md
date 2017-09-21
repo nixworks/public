@@ -9,6 +9,7 @@
 
 1. [AFP via MSN News](http://news.ph.msn.com/top-stories/blasts-kill-54-near-syrian-capital-warplane-downed-3)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20523039)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64441000/jpg/_64441034_mediaitem64426501.jpg)
 
 ### Related:
 

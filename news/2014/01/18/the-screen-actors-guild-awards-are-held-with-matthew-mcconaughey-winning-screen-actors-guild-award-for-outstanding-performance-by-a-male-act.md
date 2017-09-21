@@ -8,6 +8,7 @@ The awards season now turns on a delicate dance between &quot;American Hustle&qu
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-sag-awards-main-2014,0,1730501.story#axzz2qoKalMAw)
+1. [Cover Image](http://www.trbimg.com/img-52db4ed5/turbine/la-et-mn-sag-awards-main-2014)
 
 ### Related:
 

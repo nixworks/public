@@ -9,6 +9,7 @@ Rebels in Central African Republic said they had halted their advance on the cap
 
 1. [Deutsche Welle](http://www.voanews.com/content/central-african-republic-bozize-fires-defense-minister-army-chief/1576693.html)
 2. [Reuters](http://www.reuters.com/article/2013/01/02/us-car-rebels-talks-idUSBRE90105C20130102)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130102&t=2&i=690331458&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90114YN00)
 
 ### Related:
 

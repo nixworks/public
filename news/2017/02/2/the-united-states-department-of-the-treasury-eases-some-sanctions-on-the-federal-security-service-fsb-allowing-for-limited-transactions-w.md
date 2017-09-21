@@ -8,6 +8,7 @@ The U.S. Treasury Department on Thursday adjusted sanctions on Russian intellige
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-cyber-russia-idUSKBN15H244)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170202&t=2&i=1171193948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1118U)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/28/us-japan-nuclear-amano-idUSTRE72R4E320110328)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110328&t=2&i=373336648&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-28T160030Z_01_BTRE72R18CG00_RTROPTP_0_JAPAN-QUAKE-AMANO)
 
 ### Related:
 

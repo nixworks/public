@@ -8,6 +8,7 @@ Efforts to free two workers for aid agency Goal kidnapped in Darfur almost a mon
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0728/comminss.html)
+1. [Cover Image](https://img.rasset.ie/00026e09-1600.jpg)
 
 ### Related:
 

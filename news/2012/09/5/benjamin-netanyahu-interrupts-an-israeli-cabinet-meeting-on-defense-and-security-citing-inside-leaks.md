@@ -9,6 +9,7 @@
 
 1. [Reuters via Yahoo! News](http://news.yahoo.com/netanyahu-complaining-leaks-ends-iran-meeting-091047742.html?_esi=1)
 2. [Yedioth Ahronoth](http://www.ynetnews.com/articles/0,7340,L-4277461,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two Iranian terror suspects in the hands of police have reportedly confessed the
 ### Source:
 
 1. [Kenya Standard Media](http://www.standardmedia.co.ke/?articleID=2000061093&story_title=Iranians%E2%80%99-30-bomb-plot-on-Kenya)
+1. [Cover Image](http://www.standardmedia.co.ke/images/wednesday/Homethumb040712.jpg)
 
 ### Related:
 

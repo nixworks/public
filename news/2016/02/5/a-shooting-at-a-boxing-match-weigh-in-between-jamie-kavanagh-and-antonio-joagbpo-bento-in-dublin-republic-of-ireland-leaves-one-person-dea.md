@@ -8,6 +8,7 @@ A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35503937)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6949/production/_88135962_dublinbody.jpg)
 
 ### Related:
 

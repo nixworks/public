@@ -8,6 +8,7 @@ A court in India sentences 11 people to life in prison for their roles in a noto
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-36557036)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C3FA/production/_90007105_gettyimages-109497708.jpg)
 
 ### Related:
 

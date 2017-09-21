@@ -8,6 +8,7 @@ EU sources say Theresa May missed chance of swift start to Brexit negotiations, 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/politics/2017/mar/20/theresa-may-to-trigger-article-50-on-29-march)
+1. [Cover Image](https://i.guim.co.uk/img/media/3177368cb835cadca328291b5277ab537d2cca88/0_157_3700_2221/master/3700.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=738e23765f22d39c138a7b9974d05e41)
 
 ### Related:
 

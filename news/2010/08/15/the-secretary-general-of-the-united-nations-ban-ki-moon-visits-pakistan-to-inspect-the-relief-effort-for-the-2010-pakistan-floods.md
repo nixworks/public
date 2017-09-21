@@ -10,6 +10,7 @@ Ban Ki-moon describes as &quot;heart-wrenching&quot; the destruction he has witn
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081552627441712.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10981230)
 3. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/08/15/pakistan.floods/)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

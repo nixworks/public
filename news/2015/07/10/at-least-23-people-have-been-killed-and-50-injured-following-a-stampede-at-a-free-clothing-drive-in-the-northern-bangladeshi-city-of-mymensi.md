@@ -8,6 +8,7 @@ At least 23 people die and scores are injured in a stampede at a charity clothin
 ### Source:
 
 1. [ (BBC](http://www.bbc.com/news/world-asia-33473682)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67B/production/_84199036_84192460.jpg)
 
 ### Related:
 

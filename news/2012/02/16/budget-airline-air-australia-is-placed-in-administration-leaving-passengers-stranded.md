@@ -8,3 +8,4 @@ HUNDREDS of passengers have vented their fury at Air Australia after the airline
 ### Source:
 
 1. [News Limited](http://www.news.com.au/travel/news/budget-airline-air-australia-placed-in-administration/story-e6frfq80-1226273367460?from=public_rss)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/7427fcaf53bc0aadaa5870a32be9b3c2)

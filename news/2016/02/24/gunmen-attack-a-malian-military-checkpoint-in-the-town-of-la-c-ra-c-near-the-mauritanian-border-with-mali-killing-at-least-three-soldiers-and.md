@@ -8,6 +8,7 @@ Gunmen attacked a checkpoint southwest of the Malian town of Timbuktu overnight 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mali-attacks-idUSKCN0VX0TL)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

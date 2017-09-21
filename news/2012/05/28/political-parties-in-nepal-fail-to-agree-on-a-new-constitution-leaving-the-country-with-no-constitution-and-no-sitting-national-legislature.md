@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upiasia.com/Top-News/2012/05/28/Nepal-left-without-constitution-Assembly/UPI-26481338215910/)
+1. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

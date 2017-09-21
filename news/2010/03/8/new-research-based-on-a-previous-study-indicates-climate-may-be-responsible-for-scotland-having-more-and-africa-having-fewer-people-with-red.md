@@ -8,6 +8,7 @@ Scotland&rsquo;s notoriously bad weather appears to be behind why more of the co
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/scotland/7396657/Bad-weather-blamed-for-Scotland-having-more-people-with-ginger-hair.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01592/ewan_1592209a.jpg)
 
 ### Related:
 

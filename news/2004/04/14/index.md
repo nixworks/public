@@ -4,7 +4,7 @@
 _Context: 2004 South African legislative election, African National Congress, Thabo Mbeki, apartheid_
 
 ### [ U.S. presidential election : An advertisement for John Kerry placed in a newspaper in Gulfport, Florida by a local Democratic Party club gets negative national publicity, as it suggests shooting United States Secretary of Defense Donald Rumsfeld. The ad was placed by the Saint Petersburg Democratic Club of Florida, and has been condemned by both Republicans and Democrats, including Kerry's campaign. ](/news/2004/04/14/u-s-presidential-election-an-advertisement-for-john-kerry-placed-in-a-newspaper-in-gulfport-florida-by-a-local-democratic-party-club-ge.md)
-_Context: 2004 U.S. presidential candidate, Defense Secretary, Democratic Party, Donald Rumsfeld, Florida, Gulfport, Florida, John Kerry, Republican, Saint Petersburg Democratic Club_
+_Context: 2004 U.S. presidential candidate, Defense Secretary, Democratic, Donald Rumsfeld, Florida, Gulfport, Florida, John Kerry, Republican, Saint Petersburg Democratic Club_
 
 ### [ Palestinian Cabinet Minister Saeb Erekat rejects statements by President of the United States George W. Bush stating that Israel would be allowed to keep some West Bank Israeli population centers. ](/news/2004/04/14/palestinian-cabinet-minister-saeb-erekat-rejects-statements-by-president-of-the-united-states-george-w-bush-stating-that-israel-would-be-a.md)
 President Bush, in a significant shift in American policy, said the U.S. would not object if Israel retained some West Bank settlements under a future peace accord.

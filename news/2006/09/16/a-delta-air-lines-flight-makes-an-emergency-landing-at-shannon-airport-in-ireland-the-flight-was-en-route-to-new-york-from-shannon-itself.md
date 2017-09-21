@@ -8,6 +8,7 @@ A Delta Airlines aircraft with 276 passengers on board has made a precautionary 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2006/0916/shannon.html?rss)
+1. [Cover Image](https://img.rasset.ie/00003a45-1600.jpg)
 
 ### Related:
 

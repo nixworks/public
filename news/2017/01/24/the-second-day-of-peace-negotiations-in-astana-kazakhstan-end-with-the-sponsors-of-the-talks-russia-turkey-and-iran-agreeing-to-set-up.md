@@ -8,6 +8,7 @@ Russia, Turkey and Iran to set up trilateral commission to monitor breaches of c
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/24/syria-talks-astana-russia-turkey-iran-ceasefire)
+1. [Cover Image](https://i.guim.co.uk/img/media/b1f1edf4a09c88942df8e0f233be633ce2316dc3/0_126_3768_2261/master/3768.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=39aa05d162c06e3611574512d884a755)
 
 ### Related:
 

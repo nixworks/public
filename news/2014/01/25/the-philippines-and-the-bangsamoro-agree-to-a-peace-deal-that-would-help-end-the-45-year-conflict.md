@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/01/25/philippines-muslim-rebels-complete-peace-deal-to-end-decades-long-rebellion/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

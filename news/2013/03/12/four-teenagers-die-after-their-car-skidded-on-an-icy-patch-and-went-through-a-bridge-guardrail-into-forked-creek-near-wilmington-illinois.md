@@ -8,6 +8,7 @@ The mayor of a rural community in northern Illinois says residents are still com
 ### Source:
 
 1. [AP via ''Peoria Journal Star](http://www.pjstar.com/free/x1037521403/4-teens-die-when-car-plunges-into-northern-Illinois-creek)
+1. [Cover Image](http://www.pjstar.com/storyimage/IP/20130312/NEWS/303129861/AR/0/AR-303129861.jpg)
 
 ### Related:
 

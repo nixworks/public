@@ -9,6 +9,7 @@
 
 1. [CBC](http://www.cbc.ca/world/story/2006/08/21/congo-envoys.html)
 2. [Mail & Guardian](http://www.mg.co.za/articlePage.aspx?articleid=281525&area=/breaking_news/breaking_news__africa)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Syrian government forces recapture a large area south-east of Damascus from rebe
 2. [Ara News](http://aranews.net/2016/05/dozens-killed-as-internal-clashes-escalate-between-syrian-islamist-groups-near-damascus/)
 3. [BBC](http://www.bbc.com/news/world-middle-east-36333199)
 4. [Swiss Info](http://www.swissinfo.ch/eng/fighting-among-syrian-rebels-kills-more-than-50---british-monitor/42160550)
+4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12E70/production/_89742477_gettyimages-498787226.jpg)
 
 ### Related:
 

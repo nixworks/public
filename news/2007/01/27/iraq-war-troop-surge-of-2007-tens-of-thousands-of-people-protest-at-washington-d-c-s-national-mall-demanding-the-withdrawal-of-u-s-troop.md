@@ -10,6 +10,7 @@ Tens of thousands of protesters converged on the National Mall in Washington in 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6306665.stm)
 2. [The Age](http://www.theage.com.au/news/world/thousands-join-iraq-protest/2007/01/28/1169919197781.html)
 3. [The New York Times](http://www.nytimes.com/2007/01/28/washington/28protest.html?ref=us)
+3. [Cover Image](https://static01.nyt.com/images/2007/01/28/us/28protest.751.jpg)
 
 ### Related:
 

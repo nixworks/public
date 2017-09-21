@@ -10,6 +10,7 @@ Taliban insurgents overran a district in one of the northern Afghan provinces hi
 1. [AP via The Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3293022/Taliban-overrun-remote-northern-district-Afghanistan.html)
 2. [Military Times](http://www.militarytimes.com/story/military/2015/10/27/britain-keep-450-troops-afghanistan-through-2016/74672412/)
 3. [Reuters](http://www.reuters.com/article/2015/10/28/us-afghanistan-quake-idUSKCN0SM0JH20151028?feedType=RSS&feedName=topNews)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151028&t=2&i=1090376241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9R08E)
 
 ### Related:
 

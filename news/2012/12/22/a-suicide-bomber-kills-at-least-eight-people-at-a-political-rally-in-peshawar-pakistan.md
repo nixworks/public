@@ -8,6 +8,7 @@ A suicide bomber kills at least eight people, including a key provincial ministe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20824815)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64918000/jpg/_64918269_2truaex4.jpg)
 
 ### Related:
 

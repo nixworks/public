@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ Alice Munro has won the Giller Prize for her short story collection "Runaway". It is her second Giller. ](/news/2004/11/10/alice-munro-has-won-the-giller-prize-for-her-short-story-collection-runaway-it-is-her-second-giller.md) _Context: Giller Prize_

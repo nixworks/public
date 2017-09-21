@@ -8,6 +8,7 @@ At least three persons were killed and 15 others injured today when a blast hit 
 ### Source:
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/pti-stories/blast-in-train-kills-3-in-pakistan-114011700457_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

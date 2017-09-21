@@ -9,6 +9,7 @@ At least 18 people have been killed in Guatemala, including a dozen on a bus tha
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/stories/2010/09/05/3002923.htm)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/20109504110783907.html)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

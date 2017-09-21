@@ -8,6 +8,7 @@ aval warships, aircraft carriers and submarines from the U.S.
 ### Source:
 
 1. [Military Times](http://www.militarytimes.com/story/military/2015/10/17/india-us-and-japan-hold-naval-exercises-under-chinas-gaze/74120108/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/7c/5d/414ae3b14890b14d531525ddfd1d/635806727600545739-india-naval-exercisjpg)
 
 ### Related:
 

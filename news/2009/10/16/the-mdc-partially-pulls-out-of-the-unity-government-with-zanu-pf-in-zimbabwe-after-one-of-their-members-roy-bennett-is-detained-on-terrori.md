@@ -12,6 +12,7 @@
 3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSWEA5423)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-10/16/content_12248834.htm)
 5. [Zim Online](http://www.zimonline.co.za/Article.aspx?ArticleId=5249)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

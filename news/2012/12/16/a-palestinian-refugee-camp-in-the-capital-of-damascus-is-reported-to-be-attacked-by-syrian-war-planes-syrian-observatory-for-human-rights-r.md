@@ -9,6 +9,7 @@ A Palestinian refugee camp in the Syrian capital Damascus has been attacked, act
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57559467/islamist-rebels-take-over-syrian-infantry-base/)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20747485)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64794000/jpg/_64794120_syria.jpg)
 
 ### Related:
 

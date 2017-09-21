@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10902260)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5875352,00.html)
 3. [Voice of America](http://www1.voanews.com/english/news/10-Aid-Workers-Killed-in-Afghanistan-100182529.html)
+3. [Cover Image](http://playlists.bbc.co.uk/news/world-south-asia-10902260A/playlist.sxml)
 
 ### Related:
 

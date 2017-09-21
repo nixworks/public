@@ -9,6 +9,7 @@ US Secretary of State John Kerry says the Islamic State group has committed geno
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-35831711)
 2. [The New York Times](http://www.nytimes.com/2016/03/18/world/middleeast/hassan-aboud-an-isis-commander-dies-from-battlefield-wounds.html?_r=0)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/300E/production/_88820321_88820320.jpg)
 
 ### Related:
 

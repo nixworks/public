@@ -8,6 +8,7 @@ Scottish actor best known for his role as Malcolm Tucker in The Thick of It reve
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/tv-and-radio/2013/aug/04/peter-capaldi-doctor-who)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/8/4/1375643411952/Peter-Capaldi-010.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=368a53e7752d525f4bbf06c3b0962e7e)
 
 ### Related:
 

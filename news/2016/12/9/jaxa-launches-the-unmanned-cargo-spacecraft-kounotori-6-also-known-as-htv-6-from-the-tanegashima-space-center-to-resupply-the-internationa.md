@@ -8,6 +8,7 @@ A robotic Japanese cargo spacecraft began its four-day journey to the Internatio
 ### Source:
 
 1. [Space.com](http://www.space.com/34967-japan-launches-htv6-cargo-ship-space-station.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA2MC82NTkvb3JpZ2luYWwvamF4YS1odHYtNi1sYXVuY2guanBn)
 
 ### Related:
 

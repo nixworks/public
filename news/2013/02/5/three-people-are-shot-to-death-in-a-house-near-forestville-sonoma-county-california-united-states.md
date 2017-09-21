@@ -8,6 +8,7 @@
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/crime/article/3-found-slain-in-rural-Sonoma-County-home-4253933.php)
+1. [Cover Image](http://ww2.hdnux.com/photos/17/63/66/4144561/3/rawImage.jpg)
 
 ### Related:
 

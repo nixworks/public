@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Tagesschau](http://www.tagesschau.de/ausland/brasilien308.html)
+1. [Cover Image](http://www.tagesschau.de/multimedia/bilder/tagesschauapp104~_v-grossfrei16x9.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Cyclone Winston death toll hits 42, with reports entire villages have been wiped
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2016-02-24/cyclone-winston-entire-villages-wiped-out-on-fiji's-koro-island/7195842)
+1. [Cover Image](http://www.abc.net.au/news/image/7192868-1x1-700x700.jpg)
 
 ### Related:
 

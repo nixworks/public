@@ -8,6 +8,7 @@ At least three men are killed in the strike that targeted a car outside a refuge
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net//news/middleeast/2010/09/201092723256191228.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/28/201092812424273734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Bob Diamond is to become chief executive of Barclays, while HSBC chairman Stephe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11209416)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

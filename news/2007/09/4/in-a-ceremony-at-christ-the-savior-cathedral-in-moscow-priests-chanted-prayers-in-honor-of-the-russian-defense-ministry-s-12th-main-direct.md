@@ -8,3 +8,4 @@
 ### Source:
 
 1. [The Moscow Times](http://www.moscowtimes.ru/stories/2007/09/05/002.html)
+1. [Cover Image](http://moscowtimes.org/img/logo-big.png)

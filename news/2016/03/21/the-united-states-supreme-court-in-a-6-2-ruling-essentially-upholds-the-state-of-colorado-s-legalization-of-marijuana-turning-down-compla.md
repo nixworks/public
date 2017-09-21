@@ -10,6 +10,7 @@ WASHINGTON — The Supreme Court on Monday rejected a conservative challenge to 
 1. [NBC News](http://www.nbcnews.com/news/us-news/u-s-supreme-court-declines-referee-state-disputes-over-marijuana-n542551)
 2. [San Francisco Chronicle](http://www.sfgate.com/nation/article/Supreme-Court-rejects-challenge-to-Colorado-pot-6929460.php)
 3. [USA Today](http://www.usatoday.com/story/news/2015/12/16/feds-ask-supreme-court-stay-out-lawsuit-over-colorado-marijuana/77457652/)
+3. [Cover Image](http://ww1.hdnux.com/photos/44/51/22/9606304/3/rawImage.jpg)
 
 ### Related:
 

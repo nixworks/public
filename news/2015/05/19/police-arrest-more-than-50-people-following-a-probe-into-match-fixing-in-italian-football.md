@@ -8,6 +8,7 @@ Police arrest more than 50 people as part of an investigation into match-fixing 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32793892)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83085000/jpg/_83085780_62c0078a-9b51-4ae9-ae58-ac0da894710f.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Tonys live...
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/arts/culture/la-et-cm-tonys-2013-20130607,0,4926630.story)
+1. [Cover Image](http://www.trbimg.com/img-51b54092/turbine/la-et-cm-tonys-2013-20130607)
 
 ### Related:
 

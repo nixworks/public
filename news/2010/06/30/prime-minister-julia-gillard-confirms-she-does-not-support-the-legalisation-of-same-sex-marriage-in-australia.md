@@ -9,6 +9,7 @@ It seems unlikely the Christian lobby will lay out the red carpet and the intern
 
 1. [Ninemsn](http://news.ninemsn.com.au/national/1078473/gillard-does-not-support-gay-marriage)
 2. [The Sydney Morning Herald](http://www.smh.com.au/opinion/pm-tells-it-as-she-sees-it-on-the-god-issue-20100629-zjad.html)
+2. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

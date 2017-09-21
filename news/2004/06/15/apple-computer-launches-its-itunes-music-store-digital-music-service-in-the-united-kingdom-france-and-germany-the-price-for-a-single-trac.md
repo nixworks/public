@@ -9,6 +9,7 @@
 
 1. [Forbes](https://web.archive.org/web/20040618060815/http://www.forbes.com/business/healthcare/feeds/ap/2004/06/15/ap1414245.html)
 2. [The Register](http://www.theregister.com/2004/06/15/apple_itunes_europe/)
+2. [Cover Image](https://regmedia.co.uk/2013/02/05/default_image-2.png?x=1200&y=794)
 
 ### Related:
 

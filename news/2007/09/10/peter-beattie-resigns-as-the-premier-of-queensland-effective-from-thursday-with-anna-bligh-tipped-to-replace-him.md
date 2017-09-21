@@ -8,6 +8,7 @@ Peter Beattie has announced his retirement as Premier of Queensland, effective f
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/10/2028691.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/641926-1x1-700x700.jpg)
 
 ### Related:
 

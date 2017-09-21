@@ -8,6 +8,7 @@ Pope Benedict XVI faces a clamour for change as he heads to Germany for his firs
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/religion/8779609/Pope-visit-German-speaking-Catholics-want-reform-from-Rome.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02005/popeSUM_2005065a.jpg)
 
 ### Related:
 

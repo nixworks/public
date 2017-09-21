@@ -10,6 +10,7 @@ Forces fighting to oust the Libyan leader Col Muammar Gaddafi seize control of Z
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12591025)
 2. [CBC](http://www.cbc.ca/news/world/story/2011/02/27/libya.html)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/video/2011/02/27/VI2011022700657.html?hpid=topnews)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

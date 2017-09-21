@@ -8,6 +8,7 @@ During his first state visit to Lebanon, Iranian President Mahmoud Ahmadinejad s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11526143)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49482000/jpg/_49482931_ahmad.jpg)
 
 ### Related:
 

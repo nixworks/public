@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://www.espn.com/nba/story/_/id/19472840/turkish-government-issues-arrest-warrant-enes-kanter-oklahoma-city-thunder-newspaper-reports)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0109%2Fr169718_1296x729_16%2D9.jpg)
 
 ### Related:
 

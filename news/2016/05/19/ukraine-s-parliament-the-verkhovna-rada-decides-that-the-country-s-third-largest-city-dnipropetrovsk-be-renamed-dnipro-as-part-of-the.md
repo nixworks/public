@@ -9,6 +9,7 @@
 
 1. [Kyiv Post](https://www.kyivpost.com/article/content/ukraine-politics/verkhovna-rada-renames-dnipropetrovsk-as-dnipro-414096.html)
 2. [Radio Free Europe](http://www.rferl.org/content/ukraine-renames-dnipropetrovsk-dnipro/27745215.html)
+2. [Cover Image](https://www.kyivpost.com/wp-content/uploads/2016/05/19/p1aj4osc7m15u6ubv7hc5s666g4/original.jpg)
 
 ### Related:
 

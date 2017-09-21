@@ -8,6 +8,7 @@ The gunman suspected of killing 39 people in an Istanbul nightclub on New Year&#
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2017-02-12/suspected-istanbul-nightclub-attacker-formally-charged/8263154)
+1. [Cover Image](http://www.abc.net.au/news/image/8187310-1x1-700x700.jpg)
 
 ### Related:
 

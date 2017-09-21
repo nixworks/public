@@ -9,6 +9,7 @@ Whole Foods will pay $500,000 to resolve an investigation into whether it charge
 
 1. [CNN](http://money.cnn.com/2015/12/28/news/companies/whole-foods-nyc-overcharging-500000/)
 2. [NBC News](http://www.nbcnews.com/business/consumer/whole-foods-pay-500k-settle-overcharging-allegations-n-y-n487021)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_26/1090616/wholefoodsshleves_d20ddb118c9688cf8fd6d80bad0d322a.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

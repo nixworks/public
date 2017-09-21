@@ -8,6 +8,7 @@ The first named storm of winter - Storm Angus - is battering the south coast of 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-38042596)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11E0/production/_92567540_p04h2bq7.jpg)
 
 ### Related:
 

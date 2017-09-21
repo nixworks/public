@@ -11,6 +11,7 @@ At least four people die as a Russian plane overshoots the runway at a Moscow ai
 2. [RIA Novosti](http://en.ria.ru/russia/20121229/178480556/Two_Dead_as_Russian_Airliner_Overshoots.html)
 3. [RT](http://rt.com/news/moscow-plane-crash-video-095/)
 4. [Xinhua](http://news.xinhuanet.com/english/world/2012-12/30/c_132071451.htm)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65003000/jpg/_65003298_crush1.jpg)
 
 ### Related:
 

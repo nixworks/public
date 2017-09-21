@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/WN/story?id=8471429)
+1. [Cover Image](http://a.abcnews.com/images/WN/abc_Charlie_Diane2_090902_wmain.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [ Russia's defence minister Sergei Ivanov bars the country's defense ministry from contacting ABC News after the channel broadcast an interview with Chechen rebel Shamil Basayev ](/news/2005/07/31/russia-s-defence-minister-sergei-ivanov-bars-the-country-s-defense-ministry-from-contacting-abc-news-after-the-channel-broadcast-an-intervi.md) _Context: ABC_
 8. [ Grey's Anatomy debuts on ABC](/news/2005/03/27/grey-s-anatomy-debuts-on-abc.md) _Context: ABC_
 9. [CBS and NBC refuse to air an advertisement by the United Church of Christ citing the advocacy of accepting homosexuals is "too controversial". The advertisement was accepted by numerous other networks including Fox, ABC and TBS. ](/news/2004/12/1/cbs-and-nbc-refuse-to-air-an-advertisement-by-the-united-church-of-christ-citing-the-advocacy-of-accepting-homosexuals-is-too-controversial.md) _Context: ABC_
-10. [ U.S. newscast "Nightline" is taken off the air by several stations owned by the Sinclair Broadcast Group because of its planned airing of a list of U.S. soldiers killed in Iraq. Sinclair claims it is a political ploy, while network ABC says it is meant as "an expression of respect which simply seeks to honor those who have laid down their lives for this country.](/news/2004/04/30/u-s-newscast-nightline-is-taken-off-the-air-by-several-stations-owned-by-the-sinclair-broadcast-group-because-of-its-planned-airing-of-a.md) _Context: ABC_
+10. [ Conflict in Iraq: U.S. Secretary of State Colin Powell says, in an interview on the ABC television interview program "This Week," that the insurgency in Iraq is worsening, and that the aim of the insurgents is to disrupt the upcoming elections. ](/news/2004/09/26/conflict-in-iraq-u-s-secretary-of-state-colin-powell-says-in-an-interview-on-the-abc-television-interview-program-this-week-that-the.md) _Context: ABC_

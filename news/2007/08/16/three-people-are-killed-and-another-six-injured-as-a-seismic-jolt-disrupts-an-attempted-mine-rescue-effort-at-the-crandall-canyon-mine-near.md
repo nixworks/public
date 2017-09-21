@@ -8,6 +8,7 @@ Three rescue workers are dead and six others were injured during an attempt to r
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/08/17/us/17mine.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/08/16/us/17mine-2-75.jpg)
 
 ### Related:
 

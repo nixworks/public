@@ -8,6 +8,7 @@ A military judge denied a Guantanamo detainee’s attempt Thursday to remove his
 ### Source:
 
 1. [Military Times](http://www.militarytimes.com/story/military/2015/10/29/judge-wont-let-sept-11-suspect-fire-lawyer-case-advances/74819100/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/a3/87/630413a944848c51e236d4887f4e/635817341332011202-ap-456459787149jpg)
 
 ### Related:
 

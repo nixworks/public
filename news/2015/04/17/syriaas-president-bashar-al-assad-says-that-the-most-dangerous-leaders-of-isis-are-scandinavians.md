@@ -13,6 +13,7 @@ Up to 150,000 civilians are reportedly forced to flee their homes in the Iraqi c
 4. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/article18762294.html)
 5. [Reuters](http://in.reuters.com/article/2015/04/17/mideast-crisis-erbil-blast-idINL5N0XE3DF20150417)
 6. [The Local](http://www.thelocal.se/20150417/syria-says-scandinavian-isis-leaders-most-dangerous)
+6. [Cover Image](http://www.abc.net.au/news/image/6400894-1x1-700x700.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Radio Polonia](http://www.radio.com.pl/polonia/article.asp?tId=24246&j=2)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-06-22T162802Z_01_KNE259253_RTRUKOC_0_POLAND-PREMIER.xml)
 3. [Warsaw business Journal](http://www.wbj.pl/?command=article&id=27328)
+3. [Cover Image](http://wbj.pl/wp-content/uploads/2014/09/wbj.jpg)
 
 ### Related:
 

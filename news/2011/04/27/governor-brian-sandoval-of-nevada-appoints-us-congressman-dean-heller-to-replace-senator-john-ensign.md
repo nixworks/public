@@ -8,6 +8,7 @@ Republican Congressman Dean Heller is appointed to replace a Nevada senator who 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13214513)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52375000/gif/_52375146_dbfblizn.gif)
 
 ### Related:
 

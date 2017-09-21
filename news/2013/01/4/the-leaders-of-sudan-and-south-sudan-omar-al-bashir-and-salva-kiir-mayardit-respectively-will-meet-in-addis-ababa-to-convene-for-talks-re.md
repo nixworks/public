@@ -8,6 +8,7 @@ The leaders of Sudan and South Sudan reaffirm their commitment to setting up a b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20907337)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63066000/jpg/_63066956_bashirkiir.jpg)
 
 ### Related:
 

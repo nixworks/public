@@ -9,6 +9,7 @@ A US student who used a webcam to secretly film his room-mate in a gay encounter
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/2012521202341749871.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-18149395)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60385000/jpg/_60385452_60385451.jpg)
 
 ### Related:
 

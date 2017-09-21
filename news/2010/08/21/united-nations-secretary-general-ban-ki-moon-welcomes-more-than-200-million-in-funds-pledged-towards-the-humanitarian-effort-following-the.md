@@ -8,6 +8,7 @@ Another $200m pledged as UN officials warn full scale of disaster is only just e
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010820211818943597.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

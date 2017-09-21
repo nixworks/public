@@ -8,6 +8,7 @@ Jodrell Bank showered with cash for European Spallation Source and exoplanet-spo
 ### Source:
 
 1. [The Register](http://www.theregister.co.uk/2014/03/13/ska_gets_11_million_in_uk_funding/)
+1. [Cover Image](https://regmedia.co.uk/2011/07/11/square_kilometre_array_dishes_close_up.jpg?x=1200&y=794)
 
 ### Related:
 

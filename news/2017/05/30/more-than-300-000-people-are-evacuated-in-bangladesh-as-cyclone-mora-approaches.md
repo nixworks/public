@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Malaysia Sun](http://www.thesundaily.my/news/2017/05/30/nearly-300000-evacuated-cyclone-approaches-bangladesh)
+1. [Cover Image](http://www.thesundaily.my/sites/default/files/thesun/Catalogue/wire-665135_c2276044_17530_620.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iran&#39;s defeated presidential candidate Mir-Hossein Mousavi has urged his sup
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0614/iran.html)
+1. [Cover Image](https://img.rasset.ie/00025ded-1600.jpg)
 
 ### Related:
 

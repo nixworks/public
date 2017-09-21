@@ -10,6 +10,7 @@ Germany marks 20 years as a reunified nation, with tens of thousands attending f
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/germany-marks-reunification-celebrations-20101003-162k7.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/20101039320963774.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11461199)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

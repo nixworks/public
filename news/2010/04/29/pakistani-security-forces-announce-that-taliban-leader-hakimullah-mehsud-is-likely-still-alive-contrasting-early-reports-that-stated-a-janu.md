@@ -8,6 +8,7 @@ Pakistani Taliban leader Hakimullah Mahsud is alive, Pakistani security sources 
 ### Source:
 
 1. [LA Times](http://articles.latimes.com/2010/apr/29/world/la-fg-pakistan-mahsud-20100430)
+1. [Cover Image](http://www.latimes.com/media/photo/2010-04/53545017.jpg)
 
 ### Related:
 

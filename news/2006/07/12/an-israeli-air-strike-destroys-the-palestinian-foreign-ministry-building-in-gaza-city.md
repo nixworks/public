@@ -25,6 +25,7 @@ Senior wanted Palestinian terror suspect Muhammad Deif, commander of Hamas&#39; 
 16. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274212,00.html)
 17. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274258,00.html)
 18. [iAfrica](http://iafrica.com/news/specialreport/middleeast/677341.htm)
+18. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Virginia man who allegedly believed he was helping al Qaeda plan bombings at W
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69Q4O920101027)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20101027&t=2&i=235464486&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-27T202049Z_01_BTRE69Q1KIS00_RTROPTP_0_USA)
 
 ### Related:
 

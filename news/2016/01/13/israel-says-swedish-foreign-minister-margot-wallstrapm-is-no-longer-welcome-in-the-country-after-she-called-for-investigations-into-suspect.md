@@ -8,6 +8,7 @@ Following an accusation by Swedish Foreign Minister Margot Wallström alleging t
 ### Source:
 
 1. [Breaking Israel News](http://www.breakingisraelnews.com/58888/following-incendiary-remarks-israel-slams-doors-on-swedish-foreign-minister-margot-wallstrom-jerusalem/#Mbblh41FFgHLq7bb.97)
+1. [Cover Image](https://www.breakingisraelnews.com/wp-content/uploads/2015/12/Margot_Wallstrom_0c153_3275.jpg)
 
 ### Related:
 

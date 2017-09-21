@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-corruption-idUSKCN18E1YX)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170518&t=2&i=1185298728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED4H1SG)
 
 ### Related:
 

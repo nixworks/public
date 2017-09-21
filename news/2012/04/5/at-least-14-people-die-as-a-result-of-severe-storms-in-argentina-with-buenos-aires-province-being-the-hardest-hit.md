@@ -8,6 +8,7 @@ More than a dozen people are killed as trees are toppled and power lines downed 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17633113)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59524000/jpg/_59524042_car.jpg)
 
 ### Related:
 

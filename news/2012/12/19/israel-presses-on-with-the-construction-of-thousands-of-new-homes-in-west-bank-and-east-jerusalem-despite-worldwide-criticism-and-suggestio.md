@@ -8,6 +8,7 @@ Approval of more settler homes accelerate Palestinian plans to appeal to Interna
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/201212191395430251.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/19//2012121913623815621_20.jpg)
 
 ### Related:
 

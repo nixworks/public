@@ -8,6 +8,7 @@ Israeli bulldozing of Palestinian property comes week after US pushes peace talk
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010713232211445287.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

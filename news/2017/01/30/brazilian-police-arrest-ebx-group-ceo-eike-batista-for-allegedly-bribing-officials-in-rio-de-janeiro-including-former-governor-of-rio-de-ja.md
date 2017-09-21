@@ -8,6 +8,7 @@ The once-powerful tycoon is sent to a high security prison in Rio, accused of pa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38796393)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7AFE/production/_93868413_mediaitem93880572.jpg)
 
 ### Related:
 

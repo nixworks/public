@@ -9,6 +9,7 @@ An Indonesian volcano dormant for four centuries erupted for the second straight
 
 1. [AP via Fox News](http://www.foxnews.com/scitech/2010/08/30/indonesian-volcano-erupts-spewing-hot-ash/)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/30/indonesia.volcano.toll/#fbid=YIYm6U-LlVS&wom=false)
+2. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2010/08/30/indonesian-volcano-erupts-spewing-hot-ash/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1421859052986.jpg?ve=1)
 
 ### Related:
 

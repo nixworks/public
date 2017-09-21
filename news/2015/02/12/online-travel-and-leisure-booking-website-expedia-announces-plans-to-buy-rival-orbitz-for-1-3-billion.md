@@ -8,6 +8,7 @@ Expedia announced Thursday that it would buy rival online travel site Orbitz for
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Business/Latest-News-Wires/2015/0212/Expedia-to-buy-rival-Orbitz-for-1.33-billion-video)
+1. [Cover Image](http://images.csmonitor.com/csm/2015/02/0212plane.jpg?alias=standard_900x600)
 
 ### Related:
 

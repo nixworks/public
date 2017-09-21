@@ -8,6 +8,7 @@ New Zealand has refused entry to a boat load of Sri Lankan asylum seekers, sayin
 ### Source:
 
 1. [SBS](http://www.sbs.com.au/news/article/1569611/NZ-shuts-door-on-asylum-seekers)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/5/7/5790_asylum-seeker-boat-b-110614-aap.jpg)
 
 ### Related:
 

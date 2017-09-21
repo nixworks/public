@@ -10,6 +10,7 @@ Democratic Republic of Congo wants UN sanctions against top Rwandan generals for
 1. [Business Week](http://www.businessweek.com/news/2012-09-03/congo-wants-un-sanctions-on-rwandan-officials-backing-rebels)
 2. [Daily Monitor](http://www.monitor.co.ug/News/World/DR+Congo+wants+sanctions+against+Rwanda+generals/-/688340/1495170/-/trpb63/-/index.html)
 3. [Defence Web](http://www.defenceweb.co.za/index.php?option=com_content&view=article&id=27520:congo-asks-un-to-sanction-rwanda-officials-for-rebel-support&catid=56:diplomacy-a-peace&Itemid=111)
+3. [Cover Image](http://www.monitor.co.ug)
 
 ### Related:
 

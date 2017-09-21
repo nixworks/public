@@ -11,6 +11,7 @@ Chinese state media report that unlicensed welders accidentally started a fire i
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fgw-shanghai-fire-20101116,0,5669546.story)
 3. [MSNBC](http://www.msnbc.msn.com/id/40190224/ns/world_news-asiapacific/)
 4. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=454730&type=Metro)
+4. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-101115--shangahai-fire/ss-101115-shangahai-fire-01.standard.jpg)
 
 ### Related:
 

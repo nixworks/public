@@ -9,6 +9,7 @@ A widespread blackout hit at eight states in Brazil&#039;s northeast Friday expo
 
 1. [MercoPress](http://en.mercopress.com/2011/02/04/massive-blackout-in-brazil-exposes-vulnerability-of-energy-infrastructure)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB125798817743744475.html)
+2. [Cover Image](http://en.mercopress.com/imgs.php/noticias/30143/200x200/trafico-sao-paulo.jpg)
 
 ### Related:
 

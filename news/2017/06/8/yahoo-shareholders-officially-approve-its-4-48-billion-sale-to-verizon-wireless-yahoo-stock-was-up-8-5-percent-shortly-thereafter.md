@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/yahoo-verizon-sale-approved-2017-6)
+1. [Cover Image](http://static6.businessinsider.com/image/57d33247b0ef97b3088b4bf3-1190-625/its-official-yahoo-shareholders-approve-the-448-billion-sale-to-verizon.jpg)
 
 ### Related:
 

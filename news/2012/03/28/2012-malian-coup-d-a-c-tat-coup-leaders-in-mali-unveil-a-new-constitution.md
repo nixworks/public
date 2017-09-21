@@ -8,6 +8,7 @@ African delegation set to arrive to press for restoration of democracy, as thous
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/201232813426685119.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/28/2012328134041530734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ JPMorgan Tuesday reached a record $13 billion settlement with the U.S. governmen
 ### Source:
 
 1. [FOX Business](http://www.foxbusiness.com/industries/2013/11/19/jpm-settlement/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2013/11/19/jpm-settlement/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1453791106806.jpg?ve=1)
 
 ### Related:
 

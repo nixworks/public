@@ -9,6 +9,7 @@ Google Inc has become the latest online retailer to pull all products bearing th
 
 1. [ABC News](http://abcnews.go.com/US/charleston-shooting-suspect-dylann-roof-21-apprehended/story?id=31851054)
 2. [ITV News](http://www.itv.com/news/story/2015-06-18/charleston-church-shooting-suspect-arrested-in-north-carolina/)
+2. [Cover Image](http://news-assets.sn.itv.com/image/file/696845/mobile_article_img.jpg)
 
 ### Related:
 

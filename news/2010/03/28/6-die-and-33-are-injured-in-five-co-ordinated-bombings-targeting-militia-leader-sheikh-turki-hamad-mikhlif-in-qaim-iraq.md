@@ -13,6 +13,7 @@ Six people were killed and 15 others wounded in a roadside bomb attack in the Ir
 4. [The New York Times](http://www.nytimes.com/aponline/2010/03/28/world/AP-ML-Iraq.html?_r=1&ref=news)
 5. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/28/AR2010032800271.html)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/28/c_13227860.htm)
+6. [Cover Image](https://img.rasset.ie/00031320-1600.jpg)
 
 ### Related:
 

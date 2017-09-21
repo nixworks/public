@@ -9,6 +9,7 @@ Mayor Megan Barry pledged to repair the damage violence had done on TSU’s camp
 
 1. [Fox News](http://www.foxnews.com/us/2015/10/23/tennessee-state-university-shooting/)
 2. [The Tennessean](http://www.tennessean.com/story/news/crime/2015/10/23/3-shot-tsu-campus-one-critical-condition/74443452/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/tennessean.png)
 
 ### Related:
 

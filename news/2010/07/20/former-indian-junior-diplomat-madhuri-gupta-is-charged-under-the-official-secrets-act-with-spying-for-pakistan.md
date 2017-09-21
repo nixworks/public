@@ -10,6 +10,7 @@ A former Indian junior diplomat held three months ago on suspicion of spying for
 1. [Asian Age](http://www.asianage.com/india/diplomat-madhuri-chargsheeted-passing-information-isi-221)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10700475)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/Diplomat-Madhuri-Gupta-chargsheeted-for-passing-secret-info-to-ISI/articleshow/6191754.cms)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

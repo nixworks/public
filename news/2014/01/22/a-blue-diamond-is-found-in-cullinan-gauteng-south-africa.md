@@ -8,6 +8,7 @@ A 29.6-carat blue diamond is discovered in Cullinan mine in South Africa, which 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25838015)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72435000/jpg/_72435249_72435248.jpg)
 
 ### Related:
 

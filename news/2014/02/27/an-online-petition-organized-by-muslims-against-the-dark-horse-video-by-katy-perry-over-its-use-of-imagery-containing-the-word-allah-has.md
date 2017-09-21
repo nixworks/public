@@ -8,6 +8,7 @@ A petition called the video &quot;highly controversial&quot; and a &quot;portray
 ### Source:
 
 1. [The Rolling Stone](http://www.rollingstone.com/music/news/katy-perry-removes-islamic-symbol-from-dark-horse-clip-after-protest-20140227)
+1. [Cover Image](http://img.wennermedia.com/social/rs-14547-perry-1800-1393519156.jpg)
 
 ### Related:
 

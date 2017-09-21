@@ -8,6 +8,7 @@ North Korea has claimed the US &quot;crossed the red line&quot; in taking action
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/us-declared-war-blacklisting-kim-jong-un-10515230)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/d2ad555b563511de881e3af2f405c7dec22b6d29c6d0aea88b6b263278ebc578_3753263.jpg?20161116114740)
 
 ### Related:
 

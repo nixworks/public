@@ -8,6 +8,7 @@ MALI-VIOLENCE/ (URGENT):Mali declares 3-month state of emergency as Islamist vio
 ### Source:
 
 1. [Reuters](http://news.trust.org/item/20160720224135-8btxd)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/87f94227-73b7-435d-ad75-e8d57dcaa5c2/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

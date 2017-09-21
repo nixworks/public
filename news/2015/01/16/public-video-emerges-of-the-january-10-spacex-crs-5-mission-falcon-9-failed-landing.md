@@ -8,6 +8,7 @@ Video captured from the landing barge shows the Falcon 9 rocket narrowly missing
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/science/space/11352203/Dramatic-video-of-SpaceX-rockets-failed-landing-emerges.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03168/falcon-9_3168071a.jpg)
 
 ### Related:
 

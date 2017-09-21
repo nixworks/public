@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Washington Post via ''AP](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/07/AR2007070700376.html?hpid=sec-religion)
+1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

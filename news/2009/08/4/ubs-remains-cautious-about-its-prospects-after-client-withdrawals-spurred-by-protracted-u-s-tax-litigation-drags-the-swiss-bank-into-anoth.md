@@ -8,6 +8,7 @@ Swiss bank UBS UBSN.VX (UBS.N) posted another big loss in the second quarter as 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE5730Z220090804)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090804&t=2&i=11112083&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-04T104618Z_01_BTRE5730QWU00_RTROPTP_0_UBS)
 
 ### Related:
 

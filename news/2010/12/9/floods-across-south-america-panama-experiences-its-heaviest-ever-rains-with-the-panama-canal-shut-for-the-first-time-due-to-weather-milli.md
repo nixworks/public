@@ -8,6 +8,7 @@ Panama is latest of countries in region to be hit by floods this week after Colo
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/indepth/features/2010/12/20101291105624120.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/9/2010129111537138371_20.jpg)
 
 ### Related:
 

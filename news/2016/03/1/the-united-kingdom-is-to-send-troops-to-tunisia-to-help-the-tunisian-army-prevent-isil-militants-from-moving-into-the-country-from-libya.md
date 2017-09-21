@@ -8,6 +8,7 @@ Britain is to send troops to Tunisia to help prevent Islamic State fighters from
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-britain-tunisia-libya-idUKKCN0W33OY)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160301&t=2&i=1121444837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC201ZN)
 
 ### Related:
 

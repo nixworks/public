@@ -10,6 +10,7 @@ Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essen
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/qatar-emir-speaks-saudi-crown-prince-gulf-row-170908215922382.html)
 2. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/trump-urges-saudi-arabia-persian-gulf-arab-states-resolve-dispute-qatar-united-against-iran/28725438.html)
 3. [The Hill](http://thehill.com/homenews/administration/349902-trump-talks-to-heads-of-saudi-arabia-uae-qatar)
+3. [Cover Image](http://thehill.com/sites/default/files/trumpdonald_062317gn8_lead.jpg)
 
 ### Related:
 

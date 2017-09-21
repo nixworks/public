@@ -8,6 +8,7 @@ NORTH Korean leader Kim Jong-Un has led thousands of officials in a triumphant m
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/n-korea-marks-anniversary-of-kims-death/story-e6frfkui-1226537855959)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

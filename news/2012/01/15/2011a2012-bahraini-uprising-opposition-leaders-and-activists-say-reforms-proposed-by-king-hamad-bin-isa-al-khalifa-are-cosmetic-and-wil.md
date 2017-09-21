@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/20121159958662428.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/15/20121158183120734_20.jpg)
 
 ### Related:
 

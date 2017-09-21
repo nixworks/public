@@ -12,6 +12,7 @@ Libyan leader Moammar Gadhafi,speaking on Libyan state TV, says the protesters h
 3. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/23/live-blog-libya-feb-24)
 4. [Reuters via Channel 4 UK](http://www.channel4.com/news/libya-crisis-gaddafi-clings-to-power-uk-evacuations)
 5. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/fighting-breaks-out-30-miles-west-of-libyan-capital/1)
+5. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2011/02/24/LIbyax-wide-community.jpg)
 
 ### Related:
 

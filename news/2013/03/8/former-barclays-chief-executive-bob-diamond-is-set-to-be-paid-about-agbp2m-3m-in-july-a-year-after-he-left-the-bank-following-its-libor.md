@@ -8,6 +8,7 @@ Former chief executive Bob Diamond is set to be paid about $3m in July, a year a
 ### Source:
 
 1. [News24](http://www.news24.com/fin24/Companies/Financial-Services/3m-payout-for-ex-Barclays-boss-Diamond-20130308)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1977/04fa132394a9441dbbde598620f09144.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NASDAQ](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20061024%5cACQDJON200610241022DOWJONESDJONLINE000524.htm&)
+1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)
 
 ### Related:
 

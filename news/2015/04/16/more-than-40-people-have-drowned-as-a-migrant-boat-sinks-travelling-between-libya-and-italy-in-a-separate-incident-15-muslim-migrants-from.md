@@ -8,6 +8,7 @@ Italian police say they have arrested 15 Muslim migrants after they allegedly th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32337725)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82355000/jpg/_82355955_82355954.jpg)
 
 ### Related:
 

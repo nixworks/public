@@ -8,6 +8,7 @@ Thousands of Russians marched through Moscow to honor slain Kremlin critic Boris
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-nemtsov-idUSKCN0W00M4)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120777211&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1Q0C3)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jgbYYFM76LyXsUZpYU9QovK-UTvQ)
 2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2012-12-09-NKorea-Rocket%20Launch/id-72a54c399df54ecaa92547776795ce77)
 3. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/2012121051932763881.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/10//2012121053512465734_20.jpg)
 
 ### Related:
 

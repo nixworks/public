@@ -8,6 +8,7 @@ Canadian researchers have discovered a new class of stem cells they say could be
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/health/new-stem-cell-class-discovery-could-speed-up-research-1.2867063)
+1. [Cover Image](https://i.cbc.ca/1.2867077.1418223639!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/andras-nagy.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The attacks, mostly by the Taliban, added to a growing toll of militant violence
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/29/world/middleeast/more-killed-in-pakistan-in-bombings-ahead-of-election.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/29/world/PAKISTAN/PAKISTAN-videoLarge.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/05/26/us-nigeria-violence-bokoharam-idUSKBN0OB24220150526?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

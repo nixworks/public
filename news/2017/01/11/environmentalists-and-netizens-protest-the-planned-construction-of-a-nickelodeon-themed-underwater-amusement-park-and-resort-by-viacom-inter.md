@@ -9,6 +9,7 @@ Environmental groups say a large underwater theme park in Palawan would destroy 
 
 1. [CNN Philippines](http://cnnphilippines.com/regional/2017/01/11/Palawan-officials-No-application-for-Nickelodeon-underwater-theme-park-in-Coron.html)
 2. [CNNMoney](http://money.cnn.com/2017/01/11/news/nickelodeon-philippines-underwater-theme-park/)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170111125312-spongebob-squarepants-780x439.jpg)
 
 ### Related:
 

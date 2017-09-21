@@ -8,6 +8,7 @@ Yahoo Inc will sell as much as half of its 40 percent stake in Chinese e-commerc
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/05/21/uk-yahoo-alibaba-idUKBRE84K10T20120521)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20120521&t=2&i=609814314&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-05-21T183222Z_1_CBRE84K1FI900_RTROPTP_0_ALIBABA-TEMASEK)
 
 ### Related:
 

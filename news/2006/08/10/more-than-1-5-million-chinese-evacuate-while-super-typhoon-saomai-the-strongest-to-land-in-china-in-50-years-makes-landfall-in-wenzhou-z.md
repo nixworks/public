@@ -11,6 +11,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [Forbes](http://www.forbes.com/finance/feeds/afx/2006/08/10/afx2940385.html)
 3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4107584.html)
 4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=scienceNews&storyID=2006-08-10T102738Z_01_PEK119581_RTRUKOC_0_US-WEATHER-CHINA.xml&WTmodLoc=NewsHome-C3-scienceNews-3)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

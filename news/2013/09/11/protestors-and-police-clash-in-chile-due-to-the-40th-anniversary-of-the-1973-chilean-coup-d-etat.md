@@ -8,6 +8,7 @@ Dozens of people are arrested in the Chilean capital Santiago during protests ma
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-24049850)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69784000/jpg/_69784591_protest.jpg)
 
 ### Related:
 

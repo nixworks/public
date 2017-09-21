@@ -8,6 +8,7 @@ Coretta Scott King, who turned a life shattered by her husband&#8217;s assassina
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11110291/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060131/nn_bwms_king_060131.standard.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/06/16/iran.nuclear/index.html)
 3. [CNN](http://edition.cnn.com/2010/WORLD/meast/06/16/us.iran.sanctions/index.html?iref=NS1)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3906435,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

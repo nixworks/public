@@ -14,6 +14,7 @@ Israel has been forced to the defence of an alleged Mossad spy who has been arre
 5. [The Jerusalem Post](http://www.jpost.com/Israel/article.Aspx?id=178420)
 6. [Yahoo! News](http://news.yahoo.com/s/ap/20100614/ap_on_re_mi_ea/gaza_blockade)
 7. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904907,00.html)
+7. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01588/Mahmudal-Mabhuh_1588011a.jpg)
 
 ### Related:
 

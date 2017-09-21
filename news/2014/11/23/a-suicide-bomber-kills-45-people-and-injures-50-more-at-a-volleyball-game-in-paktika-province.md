@@ -8,6 +8,7 @@ A suicide bomber detonated his explosive vest in a crowd of spectators at a voll
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/23/us-afghanistan-blast-idUSKCN0J70LV20141123)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

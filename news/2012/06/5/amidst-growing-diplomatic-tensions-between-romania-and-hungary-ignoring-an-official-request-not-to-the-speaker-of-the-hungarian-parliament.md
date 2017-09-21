@@ -8,6 +8,7 @@ Hungary’s Speaker of Parliament Laszlo Kover said he insisted on his plan to v
 ### Source:
 
 1. [Politics.hu](http://www.politics.hu/20120605/kover-ignores-romanian-plea-to-postpone-visit-to-transylvania/)
+1. [Cover Image](http://www.politics.hu/wp-content/uploads/2011/11/Kover-laszlo-300x266.jpg)
 
 ### Related:
 

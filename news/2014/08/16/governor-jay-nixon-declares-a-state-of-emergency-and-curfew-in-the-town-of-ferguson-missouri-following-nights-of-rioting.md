@@ -8,6 +8,7 @@ Missouri Governor Jay Nixon declared a state of emergency and curfew in Ferguson
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/08/16/ferguson-missouri-michael-brown-rally-protests/14160469/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

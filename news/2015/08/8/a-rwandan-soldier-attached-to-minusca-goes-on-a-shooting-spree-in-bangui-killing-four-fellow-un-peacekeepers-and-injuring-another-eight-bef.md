@@ -8,6 +8,7 @@ Soldier kills himself after shooting spree in Bangui’s Rwandan battalion headq
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/aug/08/rwandan-peacekeeper-shoots-dead-soldiers-central-african-republic)
+1. [Cover Image](https://i.guim.co.uk/img/media/484718c40f7779840561548eb753a36b6cf78d1f/0_116_2876_1724/master/2876.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=71d3d7a2dec36cd71ce53e7cf7ba8742)
 
 ### Related:
 

@@ -10,3 +10,4 @@ A huge storm system in the center of the country will slowly spread eastward thr
 1. [Fox News](http://www.foxnews.com/us/2013/12/22/storms-in-southern-us-kill-2-in-mississippi-thousands-lose-power-damage)
 2. [Fox News](http://www.foxnews.com/weather/2013/12/19/from-snow-to-tornadoes-christmas-travel-in-jeopardy-for-millions)
 3. [NBC](http://www.today.com/video/today/53896129#53892699)
+3. [Cover Image](http://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/tdy_01ddr_wx_131222.jpg)

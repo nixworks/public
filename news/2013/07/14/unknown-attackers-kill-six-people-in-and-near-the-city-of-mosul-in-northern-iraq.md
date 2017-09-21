@@ -8,6 +8,7 @@ Dozens of people have been killed in a wave of explosions which tore through ove
 ### Source:
 
 1. [Press Association via ''Independent Ireland](http://www.independent.ie/world-news/attackers-kill-6-in-northern-iraq-29418850.html)
+1. [Cover Image](http://www.independent.ie/world-news/article29418848.ece/ALTERNATES/h342/PANews_N0185761373800960671A_I1.jpg)
 
 ### Related:
 

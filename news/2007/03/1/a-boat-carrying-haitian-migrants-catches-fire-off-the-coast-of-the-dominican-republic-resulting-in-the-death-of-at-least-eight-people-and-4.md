@@ -8,6 +8,7 @@ U.S. Coast Guard searches for 44 missing people from a vessel, which caught fire
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,255938,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A bomb attack on an election meeting in the southern Pakistani city of Karachi o
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.com/bomb-attack-karachi-election-meeting-kills-10-injures-25-ahead-elections-scheduled-may-11-1221329)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2013/04/27/karachi-blast.jpg)
 
 ### Related:
 

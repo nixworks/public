@@ -9,6 +9,7 @@ Two UN peacekeepers are killed and seven injured in a suicide attack on a UN pat
 
 1. [BBC](http://www.bbc.com/news/world-africa-28824381)
 2. [CNN](http://www.cnn.com/2014/08/16/world/africa/mali-un-attacks/index.html?hpt=wo_c2)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76990000/jpg/_76990610_023138719-1.jpg)
 
 ### Related:
 

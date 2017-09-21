@@ -8,6 +8,7 @@ The government says it is fining Honda $70 million for not reporting to safety r
 ### Source:
 
 1. [KNTV](http://www.nbcbayarea.com/news/national-international/Honda-Fined-Reporting-Death-Injury-Complaints-NHTSA-287942961.html?_osource=SocialFlowTwt_BAYBrand)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/autos-honda.jpg)
 
 ### Related:
 

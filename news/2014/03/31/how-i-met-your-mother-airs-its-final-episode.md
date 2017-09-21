@@ -8,3 +8,4 @@ CBS has set an earlier-than-expected series finale date for laffer &#8220;How I 
 ### Source:
 
 1. [Variety](http://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/11/how-i-met-your-mother-how-i-met-your-dad.jpg?w=1000&amp;h=750&amp;crop=1)

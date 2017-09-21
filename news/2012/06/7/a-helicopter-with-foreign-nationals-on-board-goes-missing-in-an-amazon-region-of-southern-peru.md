@@ -10,6 +10,7 @@ A helicopter with South Korean and Austrian nationals reportedly on board is mis
 1. [AFP via France24](http://www.france24.com/en/20120607-tourist-helicopter-missing-peru?ns_campaign=editorial&ns_source=RSS_public&ns_mchannel=RSS&ns_fee=0&ns_linkname=20120607_tourist_helicopter_missing_peru)
 2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/20126716586479743.html)
 3. [BBC](http://www.bbc.co.uk/news/world-latin-america-18354836)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60761000/gif/_60761283_peru_madre.gif)
 
 ### Related:
 

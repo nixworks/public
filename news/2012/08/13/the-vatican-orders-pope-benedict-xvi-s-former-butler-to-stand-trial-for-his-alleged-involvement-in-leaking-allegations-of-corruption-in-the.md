@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/08/13/us-pope-butler-trial-idUSBRE87C0EM20120813?feedType=RSS&feedName=topNews&rpc=71&google_editors_picks=true)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120813&t=2&i=642021404&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE87C19TK00)
 
 ### Related:
 

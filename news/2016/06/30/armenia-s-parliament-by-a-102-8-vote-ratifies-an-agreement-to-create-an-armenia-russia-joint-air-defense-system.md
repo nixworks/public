@@ -9,6 +9,7 @@
 
 1. [Armenpress](https://armenpress.am/eng/news/852784/armenian-lawmakers-ratify-agreement-on-forming-armenia-russia-joint-air-defense-system.html)
 2. [Reuters](http://www.reuters.com/article/us-armenia-russia-defence-idUSKCN0ZG2AS)
+2. [Cover Image](https://armenpress.am/static/news/b/2016/06/852784.jpg)
 
 ### Related:
 

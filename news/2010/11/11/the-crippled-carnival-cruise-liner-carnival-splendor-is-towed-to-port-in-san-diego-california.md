@@ -8,6 +8,7 @@ Three days after an engine fire shut down electricity and stranded the ship at s
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/11/12/us/12cruise.html?_r=1&partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2010/11/12/us/12cruise2_337-395/12cruise2_337-395-thumbStandard.jpg)
 
 ### Related:
 

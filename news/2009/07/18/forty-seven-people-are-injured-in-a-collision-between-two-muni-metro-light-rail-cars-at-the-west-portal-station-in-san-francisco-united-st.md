@@ -9,6 +9,7 @@
 
 1. [KGO-TV](http://abclocal.go.com/kgo/story?section=news/local/san_francisco&id=6922080)
 2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/18/MN3C18RJGG.DTL&tsp=1)
+2. [Cover Image](http://ww3.hdnux.com/photos/07/67/55/2063170/15/rawImage.jpg)
 
 ### Related:
 

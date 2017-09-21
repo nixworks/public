@@ -8,6 +8,7 @@ Former Chief Executive Donald Tsang Yam-kuen has been formally charged by the In
 ### Source:
 
 1. [ (''Hong Kong Free Press](https://www.hongkongfp.com/2015/10/05/breaking-donald-tsang-charged-with-misconduct-in-public-office-by-icac-reports/)
+1. [Cover Image](https://www.hongkongfp.com/wp-content/uploads/2015/10/850637572_58858_3685314350187810467.jpg)
 
 ### Related:
 

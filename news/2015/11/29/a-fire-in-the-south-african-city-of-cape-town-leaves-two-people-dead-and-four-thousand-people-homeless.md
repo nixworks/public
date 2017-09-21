@@ -8,6 +8,7 @@ At least two people were found dead and thousands of people lost their homes in 
 ### Source:
 
 1. [The Times Live](http://www.timeslive.co.za/local/2015/11/29/Two-dead-4-000-homeless-after-Cape-Town-fire)
+1. [Cover Image](http://www.timeslive.co.za/incoming/2014/02/05/lit-match-fire-flame/ALTERNATES/crop_630x432/Lit%20match%20fire%20flame)
 
 ### Related:
 

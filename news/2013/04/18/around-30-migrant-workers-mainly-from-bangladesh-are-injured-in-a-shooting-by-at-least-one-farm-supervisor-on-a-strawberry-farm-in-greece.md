@@ -8,6 +8,7 @@ About 30 migrant workers are injured in a shooting on a strawberry farm in Greec
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22198699)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67079000/jpg/_67079631_81bad84b-ac90-462c-bd7c-a99d72c6acdf.jpg)
 
 ### Related:
 

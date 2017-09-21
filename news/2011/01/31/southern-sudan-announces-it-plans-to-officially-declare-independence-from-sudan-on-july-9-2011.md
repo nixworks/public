@@ -9,6 +9,7 @@ Some 99% of South Sudanese have voted to secede from the north, according to the
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12317927)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Southern-Sudan-chooses-to-secede/articleshow/7393789.cms)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

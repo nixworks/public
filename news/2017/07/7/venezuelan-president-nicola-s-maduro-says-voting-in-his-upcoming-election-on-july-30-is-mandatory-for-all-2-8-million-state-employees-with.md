@@ -8,6 +8,7 @@ With many Venezuelans angry at the government and planning to sit out a July 30 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN19S229)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170707&t=2&i=1192065581&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED661D6)
 
 ### Related:
 

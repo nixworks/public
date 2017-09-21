@@ -8,6 +8,7 @@ Archaeologists use satellite imagery to discover what is believed to be a second
 ### Source:
 
 1. [AFP via ABC Australia](http://www.abc.net.au/news/2016-04-02/possible-second-viking-site-discovered-in-north-america/7294240)
+1. [Cover Image](http://www.abc.net.au/news/image/7294340-1x1-700x700.jpg)
 
 ### Related:
 

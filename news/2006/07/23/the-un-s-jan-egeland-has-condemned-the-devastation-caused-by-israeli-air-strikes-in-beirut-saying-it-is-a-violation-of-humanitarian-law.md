@@ -14,6 +14,7 @@
 5. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-07-23T135957Z_01_N21419375_RTRUKOC_0_US-MIDEAST-USA.xml)
 6. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1153291980307&pagename=JPost%2FJPArticle%2FShowFull)
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3279888,00.html)
+7. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

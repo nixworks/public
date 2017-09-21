@@ -8,6 +8,7 @@ Barry Bonds was charged Thursday with perjury and obstruction of justice, the cu
 ### Source:
 
 1. [AP via ESPN](http://sports.espn.go.com/mlb/news/story?id=3112487)
+1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fmlb%2Fplayers%2Ffull%2F1785.png)
 
 ### Related:
 

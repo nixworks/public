@@ -8,6 +8,7 @@ A father who lost his daughter in the Lockerbie bombing has travelled to Libya t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-south-scotland-11368387)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

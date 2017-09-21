@@ -10,6 +10,7 @@ The President of East Timor has called on Ireland to continue its support for th
 1. [Philippines News](http://news.ph.msn.com/regional/article.aspx?cp-documentid=3929685)
 2. [RTÉ](http://www.rte.ie/news/2010/0308/easttimor.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0308/1224265794964.html)
+3. [Cover Image](https://img.rasset.ie/00031480-1600.jpg)
 
 ### Related:
 

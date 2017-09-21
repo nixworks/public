@@ -8,6 +8,7 @@ Barry Bonds hit a solo shot in the first inning against the Florida Marlins to b
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/07/28/sports/baseball/28bonds.html?_r=1&ref=baseball&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/07/28/sports/28bonds.75.1.jpg)
 
 ### Related:
 

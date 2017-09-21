@@ -8,6 +8,7 @@ AT least 22 Hindu pilgrims were killed when a van they were travelling in fell i
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/indian-van-crash-kills-22-hindu-pilgrims/story-e6frfkui-1227396193191?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

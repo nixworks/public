@@ -9,6 +9,7 @@ World body accuses security forces loyal to incumbent president of attacking its
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111335926232774.html)
 2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE70C1YJ20110113?sp=true)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/13/2011113203330849738_20.jpg)
 
 ### Related:
 

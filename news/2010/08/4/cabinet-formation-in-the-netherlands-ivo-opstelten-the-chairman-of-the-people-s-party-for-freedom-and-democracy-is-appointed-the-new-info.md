@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NOS](http://nos.nl/artikel/176255-opstelten-begint-morgen-met-gesprekken.html)
+1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)
 
 ### Related:
 

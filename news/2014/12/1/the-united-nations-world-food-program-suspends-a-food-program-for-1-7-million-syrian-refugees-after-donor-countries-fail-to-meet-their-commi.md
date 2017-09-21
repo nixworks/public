@@ -8,6 +8,7 @@ The United Nations World Food Program on Monday suspended a food voucher program
 ### Source:
 
 1. [AP via CBC](http://www.cbc.ca/news/world/un-food-program-suspended-for-1-7-million-syrian-refugees-1.2856928)
+1. [Cover Image](https://i.cbc.ca/1.2856933.1417486817!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/mideast-syria.jpg)
 
 ### Related:
 

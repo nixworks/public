@@ -8,6 +8,7 @@ Greens senator Larissa Waters resigns from Parliament because of issues over her
 ### Source:
 
 1. [Australian Broadcasting Corp.](http://www.abc.net.au/news/2017-07-18/larissa-waters-greens-resigns-senate-over-citizenship-bungle/8720066)
+1. [Cover Image](http://www.abc.net.au/news/image/8720606-1x1-700x700.jpg)
 
 ### Related:
 

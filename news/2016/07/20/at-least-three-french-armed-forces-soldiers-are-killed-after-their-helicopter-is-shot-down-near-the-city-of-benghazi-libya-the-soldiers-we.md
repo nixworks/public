@@ -8,6 +8,7 @@ Three French soldiers have been killed in Libya after their helicopter was shot 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-36843186)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E975/production/_90456795_mediaitem90456794.jpg)
 
 ### Related:
 

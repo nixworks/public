@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/health/8553625.stm)
 2. [Boston Globe](http://www.boston.com/news/nation/washington/articles/2010/03/07/female_condoms_used_in_aids_fight/?rss_id=Boston+Globe+--+National+News)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/05/AR2010030504444.html?hpid=moreheadlines)
+3. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

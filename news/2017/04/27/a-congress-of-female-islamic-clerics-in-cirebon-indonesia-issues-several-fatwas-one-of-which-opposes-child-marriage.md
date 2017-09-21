@@ -8,6 +8,7 @@ Female Islamic clerics in Indonesia declared a series of fatwas Thursday, includ
 ### Source:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/female-muslim-clerics-in-indonesia-issue-rare-fatwas-8797872)
+1. [Cover Image](http://www.channelnewsasia.com/blob/8797870/ad49fcc994e0fd8fe1fe687edd7114ad/among-the-fatwas-issued-was-one-against-women-being-sexually-abused--and-one-against-environmental-destruction-in-a-country-that-struggles-every-year-with-huge-fires-that-are-started-illegally-and-dev-1493303390769-2-data.jpg)
 
 ### Related:
 

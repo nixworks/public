@@ -9,6 +9,7 @@ The opposition Social Democrats win control of the Czech senate in mid-term elec
 
 1. [AFP via France24](http://www.france24.com/en/20101023-czech-leftist-opposition-tops-senate-vote-may-slow-reforms)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11614494)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Storms that killed nine in Oklahoma and Arkansas moved Friday evening into Missi
 
 1. [ (AP via MSNBC](http://www.msnbc.msn.com/id/42600584)
 2. [KTUL](http://www.ktul.com/story/14450661/officials-at-least-two-hurt-one-missing-in-tornadoes)
+2. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110415-torandoAla-737p.standard.jpg)
 
 ### Related:
 

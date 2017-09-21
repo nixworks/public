@@ -11,6 +11,7 @@ A migrant boat capsizes off Turkey, killing at least 27 people who were trying t
 2. [ANSAmed](http://www.ansamed.info/ansamed/en/news/sections/generalnews/2016/02/08/migrants-at-least-33-dead-in-two-shipwrecks-in-aegean-sea_0673a290-c630-4e3d-a358-5526f73e154e.html?idPhoto=1)
 3. [BBC](http://www.bbc.com/news/world-europe-35523235)
 4. [Leadership](http://leadership.ng/news/499325/migrant-crisis-35-dead-off-turkey-two-boats-sink)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D3DC/production/_88163245_88163244.jpg)
 
 ### Related:
 

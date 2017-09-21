@@ -9,6 +9,7 @@ Grass root members of Spain’s Socialist party have elected a new leader. He is
 
 1. [Euronews](http://www.euronews.com/2014/07/13/pedro-sanchez-is-elected-leader-of-spain-s-socialists/)
 2. [Typically Spanish](http://www.typicallyspanish.com/news-spain/national/Pedro_S_nchez_first_speech_as_PSOE_General_Secretary.shtml)
+2. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

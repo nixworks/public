@@ -9,6 +9,7 @@ Pope Benedict makes history by taking part in a TV question-and-answer programme
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13167831)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/apr/22/pope-benedict-stumped-japanese-suffering)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52313000/jpg/_52313406_011814755-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Sri Lankan foreign minister has said that a UN panel on human rights will no
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/10405996.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Lanka-threatens-to-bar-visit-of-UN-rights-panel/articleshow/6086795.cms)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

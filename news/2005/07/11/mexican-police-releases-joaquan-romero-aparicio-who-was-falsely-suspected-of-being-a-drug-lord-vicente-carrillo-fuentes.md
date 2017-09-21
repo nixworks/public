@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [El Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=11176&tabla=miami)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-11T131501Z_01_N10409755_RTRIDST_0_ODD-CRIME-MEXICO-DC.XML)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

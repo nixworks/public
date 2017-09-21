@@ -8,6 +8,7 @@ A Toronto police marine unit rescues some 1,400 people from a commuter train tha
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/canada/toronto/story/2013/07/08/toronto-weather-heavy-rain.html)
+1. [Cover Image](https://i.cbc.ca/1.1386469.1378968575!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-toronto-train-rescue.jpg)
 
 ### Related:
 

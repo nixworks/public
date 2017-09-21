@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22351172)
 2. [United Press International](http://www.upiasia.com/Top-News/2013/04/30/Blast-kills-13-in-Damascus-suspected-chemical-attack-kills-2-in-Idlib/UPI-51161367322218/)
+2. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

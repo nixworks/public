@@ -8,6 +8,7 @@ A senior judge has ordered Wikipedia, the online encyclopedia, to disclose the i
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/technology/wikipedia/6710237/Wikipedia-ordered-by-judge-to-break-confidentiality-of-contributor.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

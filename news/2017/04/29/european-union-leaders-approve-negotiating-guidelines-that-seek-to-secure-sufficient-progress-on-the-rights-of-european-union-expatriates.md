@@ -8,6 +8,7 @@ European Union leaders endorsed a stiff set of divorce terms for Britain at a su
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-britain-eu-idUSKBN17U33V?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170429&t=2&i=1182610404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3S0D6)
 
 ### Related:
 

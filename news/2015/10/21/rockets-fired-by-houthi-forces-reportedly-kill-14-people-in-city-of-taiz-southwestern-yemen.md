@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/21/uk-yemen-security-idUKKCN0SF2VJ20151021)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151021&t=2&i=1088752416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9K1FG)
 
 ### Related:
 

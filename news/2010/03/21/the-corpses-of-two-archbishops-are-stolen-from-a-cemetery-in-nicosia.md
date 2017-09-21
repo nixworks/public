@@ -11,6 +11,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8578760.stm)
 3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100321-260028/Tombs-of-Cyprus-archbishops-raided)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE62K0BU20100321)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

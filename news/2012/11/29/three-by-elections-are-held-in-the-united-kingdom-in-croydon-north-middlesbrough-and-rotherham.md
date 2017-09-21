@@ -8,6 +8,7 @@ Voters go to the polls in by-elections in Croydon North, Middlesbrough and Rothe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20531130)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64445000/jpg/_64445282_64445281.jpg)
 
 ### Related:
 

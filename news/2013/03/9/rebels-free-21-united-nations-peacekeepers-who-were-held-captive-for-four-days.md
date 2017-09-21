@@ -9,6 +9,7 @@ A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this 
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/news/crime/article/Rebels-free-21-UN-captives-in-southern-Syria-4341245.php)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21725991)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66301000/jpg/_66301657_66301656.jpg)
 
 ### Related:
 

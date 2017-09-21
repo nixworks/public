@@ -8,6 +8,7 @@ New Prime Minister Theresa May has named Liz Truss&nbsp;as her new Lord Chancell
 ### Source:
 
 1. [The Lawyer](https://l2b.thelawyer.com/issues/l2b-online/new-justice-secretary-as-gove-sacked/)
+1. [Cover Image](https://s3-eu-central-1.amazonaws.com/centaur-wp/l2bthelawyer/prod/content/uploads/2013/08/19170600/london.jpg)
 
 ### Related:
 

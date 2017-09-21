@@ -9,6 +9,7 @@ North and South Korea agree to resume talks on reopening the joint Kaesong zone,
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23586026)
 2. [Sky News](http://news.sky.com/story/1125548/koreas-agree-to-talks-complex-may-re-open)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69152000/jpg/_69152117_69152116.jpg)
 
 ### Related:
 

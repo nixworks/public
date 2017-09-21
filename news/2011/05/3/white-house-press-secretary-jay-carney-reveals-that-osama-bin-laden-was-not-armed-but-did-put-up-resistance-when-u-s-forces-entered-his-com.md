@@ -17,6 +17,7 @@ The Pakistani government lashed out at the American raid that killed Osama bin L
 8. [The New York Times](http://www.nytimes.com/2011/05/04/world/asia/04pakistan.html)
 9. [VOA News](http://www.voanews.com/english/news/usa/US-Hamas-Leaders-Bin-Laden-Remarks-Outrageous--121187969.html)
 10. [VOA News](http://www.voanews.com/english/news/usa/US-Officials-Warn-Terrorism-Threat-Remains-Post-bin-Laden-121143409.html)
+10. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

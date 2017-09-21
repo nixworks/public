@@ -19,6 +19,7 @@ Freedom Flotilla changes course and slows down after Israeli navy ships flank it
 10. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3896685,00.html)
 11. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3896416,00.html)
 12. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3896796,00.html)
+12. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

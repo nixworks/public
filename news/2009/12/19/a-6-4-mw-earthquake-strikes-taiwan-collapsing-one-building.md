@@ -9,6 +9,7 @@ A strong earthquake rocked much of Taiwan on Saturday, geological officials said
 
 1. [Central News Agency](http://english.cna.com.tw/ReadNews/Eng_TopNews.aspx?ID=200912190032)
 2. [Reuters](http://www.reuters.com/article/idUSTRE5BI18Y20091219)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Israel approves the construction of hundreds of homes for Jewish settlers in the
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12725487)
 3. [JTA](http://www.jta.org/news/article/2011/03/13/3086373/assailant-kills-parents-3-children-in-settlement)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4041216,00.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

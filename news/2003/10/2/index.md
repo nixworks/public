@@ -1,7 +1,7 @@
 ## [2003-10-2](/news/2003/10/2/index.md)
 
 ### [ North Korea claims to "have already processed" 8,000 fuel rods from its Yongbyon nuclear reactor north of Pyongyang and is using the plutonium extracted during the process to make atomic bombs to boost its nuclear capabilities for nuclear deterrent force. Citing a "hostile policy" by the United States, Vice Foreign Minister Choe Su Hon states this is a means to safeguard the country's territory.](/news/2003/10/2/north-korea-claims-to-have-already-processed-8-000-fuel-rods-from-its-yongbyon-nuclear-reactor-north-of-pyongyang-and-is-using-the-pluton.md)
-_Context: Choe Su Hon, North Korea, Pyongyang, Yongbyon nuclear reactor, atomic bomb, fuel rod, nuclear deterrent, plutonium, processed_
+_Context: Choe Su-hon, North Korea, Pyongyang, Yongbyon nuclear reactor, atomic bomb, fuel rod, nuclear deterrent, plutonium, processed_
 
 ### [ Occupation of Iraq: The United Nations Security Council discusses a new United States draft resolution on Iraq, which would enhance the United Nations' role in Iraq. Secretary General Kofi Annan states draft did not go in the direction he recommended. A quicker transfer of sovereignty ""may change the dynamics on the ground, in terms of the security situation, and send a message"".](/news/2003/10/2/occupation-of-iraq-the-united-nations-security-council-discusses-a-new-united-states-draft-resolution-on-iraq-which-would-enhance-the-uni.md)
 _Context: Iraq, Kofi Annan, Occupation of Iraq, Secretary General, United Nations, United Nations Security Council, sovereignty_

@@ -8,6 +8,7 @@ The heaviest snow in decades in Japan has reportedly left at least seven people 
 ### Source:
 
 1. [Australia Network](http://www.abc.net.au/news/2014-02-09/an-three-dead2c-500-injured-as-heavy-snow-hits-japan/5247782)
+1. [Cover Image](http://www.abc.net.au/news/image/5247786-1x1-700x700.jpg)
 
 ### Related:
 

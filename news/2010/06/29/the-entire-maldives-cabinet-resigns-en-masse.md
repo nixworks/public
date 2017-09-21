@@ -8,6 +8,7 @@ President says ministers are no longer able to work with opposition-led parliame
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201062915490741700.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

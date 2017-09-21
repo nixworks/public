@@ -8,6 +8,7 @@ A storm forecast to be the worst in decades leaves floods, power cuts and downed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39585868)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/701F/production/_95630782_nz_auck_getty2.jpg)
 
 ### Related:
 

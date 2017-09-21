@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/09/13/education/chicago-teachers-strike-enters-third-day.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/09/13/us/STRIKE-1/STRIKE-1-superJumbo.jpg)
 
 ### Related:
 

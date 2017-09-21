@@ -9,6 +9,7 @@ A shallow magnitude 6.0 earthquake was reported Sunday morning three miles from 
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-earthquakesa-earthquake-61-quake-strikes-near-american-canyon-calif-ojffev-story.html)
 2. [MSN](http://news.msn.com/us/usgs-60-earthquake-shakes-northern-california)
+2. [Cover Image](http://www.trbimg.com/img-53f9f47f/turbine/la-me-earthquakesa-earthquake-61-quake-strikes-near-american-canyon-calif-ojffev)
 
 ### Related:
 

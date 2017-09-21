@@ -8,6 +8,7 @@ Marlborough bore the brunt of a rattling 6.6 quake, and a series of continuing a
 ### Source:
 
 1. [Fairfax NZ](http://www.stuff.co.nz/national/9051982/Earthquakes-rock-central-New-Zealand)
+1. [Cover Image](https://static2.stuff.co.nz/1376644168/487/9053487.jpg)
 
 ### Related:
 

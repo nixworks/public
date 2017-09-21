@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2007/US/08/08/nyc.weather/index.html)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSN0832202720070809?feedType=RSS)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070808&t=2&i=1268600&w=&fh=545px&fw=&ll=&pl=&sq=&r=1268600)
 
 ### Related:
 

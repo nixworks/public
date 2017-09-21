@@ -8,6 +8,7 @@ A regional parliament has lifted the immunity of the best known politician in th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-germany-election-afd-idUSKCN1B91F3?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170829&t=2&i=1199031633&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7S0TW)
 
 ### Related:
 

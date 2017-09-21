@@ -8,6 +8,7 @@ Gunmen killed 11 people and wounded 18 others in a church in southeastern Nigeri
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nigeria-security-idUSKBN1AM0SL?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

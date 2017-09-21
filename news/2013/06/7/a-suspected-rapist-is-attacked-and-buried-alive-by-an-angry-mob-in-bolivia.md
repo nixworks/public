@@ -8,6 +8,7 @@ A mob in a Bolivian town buried alive a teenager alongside the body of a woman t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/07/us-bolivia-mob-idUSBRE9561B420130607)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

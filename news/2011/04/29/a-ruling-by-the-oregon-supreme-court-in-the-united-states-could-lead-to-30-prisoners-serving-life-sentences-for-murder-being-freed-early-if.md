@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Oregon Live](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2011/04/30_killers_could_win_freedom_years_early_under_oregon_supreme_court_ruling.html)
+1. [Cover Image](http://image.oregonlive.com/home/olive-media/width620/img/pacific-northwest-news/photo/9530683-standard.jpg)
 
 ### Related:
 

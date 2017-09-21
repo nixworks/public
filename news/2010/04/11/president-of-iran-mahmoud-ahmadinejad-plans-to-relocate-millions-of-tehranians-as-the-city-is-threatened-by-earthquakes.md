@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/201041118011606548.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=123046&sectionid=3510212)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=123050&sectionid=351020104)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police in the Dominican Republic raided a mansion owned by one of the two nephew
 ### Source:
 
 1. [Fox News](http://latino.foxnews.com/latino/news/2015/11/13/dominican-police-raid-mansion-yacht-venezuelan-president-kin-find-280lb-cocaine/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/11/13/dominican-police-raid-mansion-yacht-venezuelan-president-kin-find-280lb-cocaine/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1480710951563.jpg?ve=1)
 
 ### Related:
 

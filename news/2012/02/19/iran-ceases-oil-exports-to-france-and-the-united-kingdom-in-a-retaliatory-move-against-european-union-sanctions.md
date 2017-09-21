@@ -8,6 +8,7 @@ Move follows EU decision to stop importing crude from Iran from July 1 over its 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201221913203691810.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/5/201215144146471734_20.jpg)
 
 ### Related:
 

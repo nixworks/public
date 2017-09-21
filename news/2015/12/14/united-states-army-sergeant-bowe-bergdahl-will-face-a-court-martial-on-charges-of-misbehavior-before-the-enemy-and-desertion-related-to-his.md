@@ -8,6 +8,7 @@ He could face life sentence if convicted of charges of misbehavior before enemy.
 ### Source:
 
 1. [AP via ABC News America](http://abcnews.go.com/Politics/bowe-bergdahl-face-general-court-martial/story?id=35761933)
+1. [Cover Image](http://a.abcnews.com/images/US/Gty_Bergdahl_mm_150917_16x9_992.jpg)
 
 ### Related:
 

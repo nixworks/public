@@ -8,6 +8,7 @@ At least 14 people are killed in a blast in the Russian city of Volgograd, in wh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25546477)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71994000/jpg/_71994062_71994061.jpg)
 
 ### Related:
 

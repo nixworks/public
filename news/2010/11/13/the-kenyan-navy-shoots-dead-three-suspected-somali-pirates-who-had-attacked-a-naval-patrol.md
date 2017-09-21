@@ -9,6 +9,7 @@ Kenyan navy officers on patrolin the India Ocean shot dead three suspected Somal
 
 1. [IOL](http://www.iol.co.za/news/africa/three-pirates-shot-dead-1.746958)
 2. [Reuters](http://www.reuters.com/article/idUSLDE6AC00T20101113)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

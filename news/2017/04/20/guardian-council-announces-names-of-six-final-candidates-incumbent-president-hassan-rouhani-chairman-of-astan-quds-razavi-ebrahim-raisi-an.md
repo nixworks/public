@@ -9,6 +9,7 @@ Six politicians given go-ahead to run in presidential election, which is likely 
 
 1. [Reuters](http://www.reuters.com/article/us-iran-election-candidates-idUSKBN17M2GN)
 2. [The Guardian](https://www.theguardian.com/world/2017/apr/20/iran-disqualifies-ahmadinejad-from-bid-to-regain-presidency)
+2. [Cover Image](https://i.guim.co.uk/img/media/bbedab6aea8b5a81d099f348d258a5bc4a402392/0_258_4000_2400/master/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7a9ce5329a471d4d1da3d3867faa4ef9)
 
 ### Related:
 

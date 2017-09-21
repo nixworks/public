@@ -9,6 +9,7 @@ US intelligence gathering has grown so much since 9/11 no-one knows its true cos
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010719147325889.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10681861)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

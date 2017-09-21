@@ -8,6 +8,7 @@ Polls have now closed in Mali in a presidential election run-off aimed at restor
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23653740)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69214000/jpg/_69214659_cisse_keita_reut.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Tens of thousands gathered Saturday night in Hong Kong to commemorate the 1989 T
 2. [Japan Today](http://www.japantoday.com/category/world/view/more-than-150000-in-hk-commemorate-tiananmen-massacre)
 3. [Times of India](http://timesofindia.indiatimes.com/world/china/Thousands-in-Hong-Kong-mark-Tiananmen-crackdown/articleshow/8726782.cms)
 4. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/hong-kong-remembers-tiananmen-as-beijing-cracks-down/2011/06/04/AG4UG0IH_story.html)
+4. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/04/china.tiananmen.vigil/tzvids.vigil.afp.gi.jpg)
 
 ### Related:
 

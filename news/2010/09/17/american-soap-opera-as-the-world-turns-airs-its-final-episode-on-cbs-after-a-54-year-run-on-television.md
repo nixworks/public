@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via MSNBC](http://today.msnbc.msn.com/id/39236405/ns/today-entertainment/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/ap/tv as the world turns-301786647_v2.standard.jpg)
 
 ### Related:
 

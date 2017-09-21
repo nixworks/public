@@ -9,6 +9,7 @@
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/europe/la-fg-germany-election-20100510,0,2814611.story)
 2. [The Australian](http://www.theaustralian.com.au/news/world/angela-merkel-takes-hit-in-state-election/story-e6frg6so-1225864745094)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

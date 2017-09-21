@@ -9,6 +9,7 @@ Palestinian Authority President Mahmoud Abbas said he will pursue a full United 
 
 1. [Bloomberg News via S.F. Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/09/16/bloomberg_articlesLRMQHR0YHQ0X.DTL)
 2. [CNN](http://www.cnn.com/2011/WORLD/meast/09/16/palestinian.authority.abbas.un/index.html?hpt=hp_t1)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/09/16/palestinian.authority.abbas.un/tzvids.mahmoud.abbas.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Robin Thicke has lost the &quot;Blurred Lines&quot; lawsuit he has been engaged 
 ### Source:
 
 1. [Rolling Stone](http://www.rollingstone.com/music/news/robin-thicke-and-pharrell-lose-blurred-lines-lawsuit-20150310)
+1. [Cover Image](http://img.wennermedia.com/social/rs-188579-RobinThicke_Pharell.jpg)
 
 ### Related:
 

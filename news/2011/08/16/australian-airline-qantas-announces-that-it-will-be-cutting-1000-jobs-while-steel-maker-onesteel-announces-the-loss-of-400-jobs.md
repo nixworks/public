@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/business/job-losses-due-to-patchwork-economy-swan/story-e6frfm1i-1226115936314?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

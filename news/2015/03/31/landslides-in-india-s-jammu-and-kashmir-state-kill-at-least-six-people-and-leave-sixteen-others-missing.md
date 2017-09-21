@@ -8,6 +8,7 @@ At least 15 people have died in landslides following floods in Indian-administer
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-32126716)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82021000/jpg/_82021542_82021436.jpg)
 
 ### Related:
 

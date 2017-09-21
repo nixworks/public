@@ -9,6 +9,7 @@ A series of attacks rocked Baghdad on Tuesday, killing at least 68 and wounding 
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11491483/)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/02/27/AR2006022701128_pf.html)
+2. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060228/060228_iraqboom_hmed_3a.standard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ FOREIGN Minister Bob Carr has confirmed Qantas will increase capacity to ensure 
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/fiji-police-consider-state-of-emergency/story-e6frfkyi-1226315386361)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/a1ca789b0fcdcea7894a708b9b25d820)
 
 ### Related:
 

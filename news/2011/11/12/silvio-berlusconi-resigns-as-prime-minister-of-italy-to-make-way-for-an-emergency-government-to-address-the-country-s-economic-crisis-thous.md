@@ -10,6 +10,7 @@ Silvio Berlusconi resigned on Saturday to make way for an emergency government I
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15708729)
 2. [Reuters](http://www.reuters.com/article/2011/11/12/us-italy-idUSTRE7AA2GC20111112?feedType=RSS&feedName=topNews)
 3. [The Independent](http://www.guardian.co.uk/world/2011/nov/12/silvio-berlusconi-resign-italy-eurozone)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111112&t=2&i=531449918&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7AB1SCU00)
 
 ### Related:
 

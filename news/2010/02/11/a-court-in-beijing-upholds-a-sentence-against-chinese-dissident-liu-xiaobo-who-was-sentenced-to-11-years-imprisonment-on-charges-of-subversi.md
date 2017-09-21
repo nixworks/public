@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102115328466434.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7022877.ece)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-02/11/c_13172103.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

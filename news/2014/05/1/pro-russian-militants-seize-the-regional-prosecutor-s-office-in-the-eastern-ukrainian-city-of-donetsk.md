@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-27243753)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-2617592/Preparing-war-Ukraine-puts-troops-combat-alert-Russian-invasion-weeks-inaction-against-pro-Kremlin-uprising.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74585000/jpg/_74585945_022103161.jpg)
 
 ### Related:
 

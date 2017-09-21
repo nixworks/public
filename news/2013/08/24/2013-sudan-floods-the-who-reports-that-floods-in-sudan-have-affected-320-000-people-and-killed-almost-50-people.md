@@ -8,6 +8,7 @@ World Health Organisation says 48 people killed this month after heavy rains des
 ### Source:
 
 1. [al Jazeera](http://www.aljazeera.com/news/africa/2013/08/2013823113149149635.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/23/2013823112743364734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Myanmar on Tuesday pledged to release thousands of prisoners a month before a So
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/10/07/us-myanmar-prisoners-release-idUSKCN0HW0IN20141007?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141007&t=2&i=981671269&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA960RM)
 
 ### Related:
 

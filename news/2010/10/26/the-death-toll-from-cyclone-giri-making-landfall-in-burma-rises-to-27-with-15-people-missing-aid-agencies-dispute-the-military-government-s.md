@@ -8,6 +8,7 @@ Residents face aftermath of powerful Cyclone Giri, as aid groups warn number of 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101026103633565494.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/27/20101027152612615436_20.jpg)
 
 ### Related:
 

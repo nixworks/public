@@ -8,6 +8,7 @@ Turning human skin cells into what appear to be embryonic stem cells without hav
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/11/21/science/21stem.html?ex=1353301200&en=c0030511edc97dbf&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

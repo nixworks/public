@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57603814/yemen-military-says-al-qaeda-attack-on-troops-has-left-at-least-38-dead/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/05/13/5d0a59a7-3598-11e3-8ce8-047d7b15b92e/yemen.army.4.JPG)
 
 ### Related:
 

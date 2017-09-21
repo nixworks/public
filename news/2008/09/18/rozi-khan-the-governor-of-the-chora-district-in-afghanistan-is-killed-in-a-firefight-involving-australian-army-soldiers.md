@@ -8,6 +8,7 @@ ADF confirms that district governor was killed in a firefight involving Australi
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/19/2369166.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/300530-1x1-700x700.jpg)
 
 ### Related:
 

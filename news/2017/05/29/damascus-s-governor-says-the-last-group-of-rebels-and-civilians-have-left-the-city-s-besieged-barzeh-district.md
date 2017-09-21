@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-barzeh-idUSKBN18P1L4?il=0)
+1. [Cover Image](//s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

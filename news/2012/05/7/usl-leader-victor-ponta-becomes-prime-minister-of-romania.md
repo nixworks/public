@@ -8,6 +8,7 @@ Romanian lawmakers on Monday approved a new left-leaning Cabinet that is expecte
 ### Source:
 
 1. [Yahoo](http://news.yahoo.com/romanias-left-leaning-government-approved-171303269.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

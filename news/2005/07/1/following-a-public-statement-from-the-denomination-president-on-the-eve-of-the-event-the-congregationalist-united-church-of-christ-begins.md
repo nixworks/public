@@ -13,6 +13,7 @@ The United Church of Christ - famous for setting precedent - considers backing s
 4. [UCC news blog](http://news.ucc.org/index.php?option=com_content&task=blogsection&id=7&Itemid=50)
 5. [UCC web page](http://www.ucc.org/synod/resolutions/)
 6. [Washington Times](http://washingtontimes.com/national/20050628-111048-5378r.htm)
+6. [Cover Image](https://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_900x600.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Demonstrators circle White House demanding Obama reject Keystone XL pipeline ove
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57319383/thousands-in-d.c-protest-pipeline/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/11/06/b65362af-a643-11e2-a3f0-029118418759/Pipeline_AP111106040269.jpg)
 
 ### Related:
 

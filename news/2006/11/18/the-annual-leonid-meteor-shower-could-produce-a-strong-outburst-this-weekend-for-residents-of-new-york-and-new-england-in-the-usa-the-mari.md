@@ -8,6 +8,7 @@ The annual Leonid meteor shower could produce a strong outburst this weekend for
 ### Source:
 
 1. [Space.com](http://www.space.com/spacewatch/061114_leonid_news.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMC80ODcvb3JpZ2luYWwvbGVvbmlkX2RhbmllbHNvbl8wMTExXzAyLmpwZw==)
 
 ### Related:
 

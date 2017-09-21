@@ -8,6 +8,7 @@ Pope Francis announces elevation months after approving Nobel prize winning nunâ
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/news/2016/mar/15/vatican-due-to-approve-mother-teresas-sainthood)
+1. [Cover Image](https://i.guim.co.uk/img/media/6a670c7fa93d33c97aea87480180ac777a85108b/0_82_2966_1779/master/2966.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=69c4deca957681c32552e0b32700e8c5)
 
 ### Related:
 

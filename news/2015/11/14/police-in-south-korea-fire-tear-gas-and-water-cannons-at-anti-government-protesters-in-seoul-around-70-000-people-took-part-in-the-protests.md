@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Asia-Pacific/2015/1114/Tens-of-thousands-anti-government-protesters-march-through-South-Korea-s-capital)
+1. [Cover Image](http://images.csmonitor.com/csm/2015/11/947833_1_1114-southkorea_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

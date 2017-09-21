@@ -8,6 +8,7 @@ The trial of former IMF chief Dominique Strauss-Kahn on charges of procuring wom
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31087035)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56957000/jpg/_56957145_012713033-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The US army private, Bradley Manning - accused of being behind the biggest leak 
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/manning-attorney-supporters-ahead-trial-19310252)
 2. [Channel 4 News](http://www.youtube.com/watch?v=LTKQZWXq23k)
+2. [Cover Image](https://i.ytimg.com/vi/LTKQZWXq23k/maxresdefault.jpg)
 
 ### Related:
 

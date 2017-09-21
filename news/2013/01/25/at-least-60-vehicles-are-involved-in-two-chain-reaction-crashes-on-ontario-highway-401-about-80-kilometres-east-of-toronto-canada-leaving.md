@@ -9,6 +9,7 @@ At least five people were injured, some critically, after dozens of vehicles wer
 
 1. [CTV News](http://toronto.ctvnews.ca/60-cars-involved-in-chain-reaction-crashes-on-highway-401-1.1129869)
 2. [National Post](http://news.nationalpost.com/2013/01/25/major-highway-401-crash-near-newcastle-may-involve-50-60-vehicles-reports/)
+2. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1129944.1359169866!/httpImage/image.jpeg_gen/derivatives/landscape_620/image.jpeg)
 
 ### Related:
 

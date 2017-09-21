@@ -8,6 +8,7 @@ WASHINGTON D.C. – North Korea today warned that Japan would &quot;not be exemp
 ### Source:
 
 1. [NK News](http://www.nknews.org/2013/03/north-korea-threatens-japan-with-preemptive-nuclear-strike/)
+1. [Cover Image](https://www.nknews.org/wp-content/uploads/2015/08/north-korean-propaganda-defend-sovreignty-final-victory.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Presbyterian Church (U.S.A.) has voted to change its constitution and allow 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/05/11/us/11presbyterian.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2011/05/11/us/11presbyterian-inline1/11presbyterian-inline1-thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Australian police say a man who plunged seven floors to his death from an apartm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13389207)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52736000/jpg/_52736840_group-plank.jpg)
 
 ### Related:
 

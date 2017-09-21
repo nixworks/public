@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP](http://www.mediainfo.com/eandp/news/article_display.jsp?vnu_content_id=2093737)
+1. [Cover Image](http://www.geneza.com/sites/geneza.com/files/logo-opengraph.png)
 
 ### Related:
 

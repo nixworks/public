@@ -8,6 +8,7 @@ The two suspects in the Boston Marathon bombings intended to attack New York Cit
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2013/04/25/boston-bombing-dzhokhar-tsarnaev.html)
+1. [Cover Image](https://i.cbc.ca/1.1558060.1379047611!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-tsarnaev-composite-852-0.jpg)
 
 ### Related:
 

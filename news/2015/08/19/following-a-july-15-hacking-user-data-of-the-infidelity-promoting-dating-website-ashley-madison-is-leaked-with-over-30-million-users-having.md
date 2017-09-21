@@ -8,6 +8,7 @@ Customer data stolen from Ashley Madison, a dating website for married people wh
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-33984017)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B077/production/_85057154_ashleymadisonreuters.jpg)
 
 ### Related:
 

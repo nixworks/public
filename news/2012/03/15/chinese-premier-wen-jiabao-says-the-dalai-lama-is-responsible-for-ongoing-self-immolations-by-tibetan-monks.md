@@ -8,6 +8,7 @@ Chinese premier Wen Jiabao on Wednesday expressed concern over self-immolation b
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/china/Dalai-behind-Tibet-suicides-says-Chinese-premier/articleshow/12271381.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/12280115.cms)
 
 ### Related:
 

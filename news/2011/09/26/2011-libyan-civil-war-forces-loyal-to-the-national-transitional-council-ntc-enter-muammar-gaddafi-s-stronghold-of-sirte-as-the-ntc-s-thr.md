@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15065463)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55594000/jpg/_55594128_55594127.jpg)
 
 ### Related:
 

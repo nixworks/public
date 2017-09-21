@@ -8,6 +8,7 @@ Aid agencies are reporting mass killings in the western Ivory Coast city of Duek
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/world/story/2011/04/02/ivory-coast.html)
+1. [Cover Image](https://i.cbc.ca/1.1960681.1381464057!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-ivory-coast-852-rtr2kppg.jpg)
 
 ### Related:
 

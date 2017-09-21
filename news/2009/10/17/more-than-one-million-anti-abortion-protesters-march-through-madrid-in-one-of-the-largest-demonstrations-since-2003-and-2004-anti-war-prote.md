@@ -9,6 +9,7 @@ Tens of thousands of anti-abortion campaigners protesting against a proposal to 
 
 1. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-43233220091017)
 2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26225813-12335,00.html)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091017&t=2&i=11983329&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2009-10-17T222321Z_01_NOOTR_RTRMDNC_0_India-432332-1)
 
 ### Related:
 

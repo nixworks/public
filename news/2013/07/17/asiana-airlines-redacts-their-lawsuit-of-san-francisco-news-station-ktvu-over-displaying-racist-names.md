@@ -8,6 +8,7 @@ The Bay Area station KTVU offered an apology for airing the bogus names of the c
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2013/07/17/202980701/asiana-decides-not-to-sue-san-francisco-station?ft=1&f=1001)
+1. [Cover Image](https://media.npr.org/assets/img/2013/07/17/214passengers2way_wide-eede98881238ae5a549e17f5a4b4a35f75d36973.jpg?s=1400)
 
 ### Related:
 

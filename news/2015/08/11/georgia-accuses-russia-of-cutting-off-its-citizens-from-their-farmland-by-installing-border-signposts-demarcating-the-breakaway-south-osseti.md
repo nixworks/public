@@ -8,6 +8,7 @@ Georgia Tuesday accused Russia of cutting off its citizens from their farmland b
 ### Source:
 
 1. [The Daily Star](https://www.dailystar.com.lb/News/World/2015/Aug-11/310689-georgia-warns-russia-against-escalation-near-breakaway-region.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/08/11/444251_635749289361310207_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

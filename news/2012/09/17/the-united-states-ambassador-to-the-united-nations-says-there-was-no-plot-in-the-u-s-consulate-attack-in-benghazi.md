@@ -10,6 +10,7 @@ The protest in Libya that killed U.S. Ambassador Chris Stevens and three other A
 1. [AP via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120917p2g00m0in075000c.html)
 2. [AP via ''Newsday](http://www.newsday.com/news/nation/u-s-ambassador-no-plot-in-libya-attack-1.4008878)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-19620529#)
+3. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

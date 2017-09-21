@@ -8,6 +8,7 @@ The five members of the Spice Girls reunite to launch Viva Forever!, a new West 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18576789)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61173000/jpg/_61173363_spicegirls2_ap.jpg)
 
 ### Related:
 

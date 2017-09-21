@@ -8,6 +8,7 @@ A suicide bomber killed 22 people and wounded 60 in a crowded election campaign 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/06/us-iraq-violence-idUSBRE93503U20130406)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

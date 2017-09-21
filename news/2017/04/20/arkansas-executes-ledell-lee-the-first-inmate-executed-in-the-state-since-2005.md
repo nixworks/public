@@ -8,6 +8,7 @@ Arkansas has executed an inmate for the first time in nearly a dozen years as pa
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/04/21/arkansas-prepares-to-carry-out-first-execution-since-2005.html)
+1. [Cover Image](//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/04/21/0/0/694940094001_5406268021001_5406215699001-vs.jpg?ve=1)
 
 ### Related:
 

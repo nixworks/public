@@ -9,6 +9,7 @@ Afghan police say a roadside bombing has killed the police chief of a southern p
 
 1. [AP via Yahoo! News](http://news.yahoo.com/bomb-kills-afghan-provincial-police-chief-054302631.html)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2012/12/10/15816388-senior-female-afghan-official-shot-dead)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

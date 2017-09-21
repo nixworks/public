@@ -8,6 +8,7 @@ North Korea holds its most important political event in decades, a rare party co
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36209843)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15843/production/_89613188_89613187.jpg)
 
 ### Related:
 

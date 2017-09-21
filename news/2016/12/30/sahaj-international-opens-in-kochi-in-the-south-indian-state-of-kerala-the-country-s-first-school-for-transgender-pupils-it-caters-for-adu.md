@@ -8,6 +8,7 @@ A school for transgender people opens in Kochi, to help school dropouts finish t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-38470192)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C632/production/_93183705_transgender.jpg)
 
 ### Related:
 

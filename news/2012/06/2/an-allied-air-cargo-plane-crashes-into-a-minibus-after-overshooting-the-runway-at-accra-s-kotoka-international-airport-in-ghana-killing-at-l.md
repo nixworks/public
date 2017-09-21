@@ -8,6 +8,7 @@ A cargo jet has crash into a minibus at Ghana&#039;s Accra airport after oversho
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/travel/destinations/africaandindianocean/ghana/9308449/Cargo-plane-crashes-during-takeoff-in-Ghana-killing-at-least-10.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02237/ghana-crash_2237934a.jpg)
 
 ### Related:
 

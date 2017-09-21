@@ -8,3 +8,4 @@ BBC Magazines has agreed to sell the Radio Times after 88 years of ownership to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14548951)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54631000/jpg/_54631183_radiotimes001.jpg)

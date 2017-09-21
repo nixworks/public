@@ -10,6 +10,7 @@ And then there were three - Theresa May heads the Tory leadership race, as Liam 
 1. [Reuters](http://in.reuters.com/article/britain-eu-wrapup-idINKCN0ZL1EM)
 2. [Reuters²](http://www.reuters.com/article/us-britain-eu-crabb-idUSKCN0ZL2GI)
 3. [Sky News](http://news.sky.com/story/1722116/may-wins-first-tory-vote-as-fox-and-crabb-out)
+3. [Cover Image](http://e3.365dm.com/16/07/1600x900/tory-leadership-results-online-results-0700-1_3738062.png?20160707051225)
 
 ### Related:
 

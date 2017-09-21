@@ -10,6 +10,7 @@ Police use tear gas against people demonstrating against indefinite detention.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/20098174920522755.html)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=429546)
 3. [The Times of India](http://timesofindia.indiatimes.com/NEWS/World/South-Asia/10000-defy-Malaysia-police-protest-detention-law/articleshow/4845112.cms)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

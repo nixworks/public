@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14524363)
 2. [PressTV](http://www.presstv.ir/detail/194001.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54602000/jpg/_54602962_012664232-1.jpg)
 
 ### Related:
 

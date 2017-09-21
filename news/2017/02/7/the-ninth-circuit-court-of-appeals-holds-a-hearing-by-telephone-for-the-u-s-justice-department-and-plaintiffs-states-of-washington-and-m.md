@@ -9,6 +9,7 @@ The U.S. Court of Appeals for the 9th Circuit asked the Justice Department and l
 
 1. [CBS News](http://www.cbsnews.com/news/appeals-court-travel-ban-trump-live-updates/)
 2. [The Washington Post](https://www.washingtonpost.com/world/national-security/opposition-to-trump-travel-ban-grows-as-key-court-decision-looms/2017/02/06/d766ec7c-ec74-11e6-9662-6eedf1627882_story.html)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/02/07/81b15d18-e61d-443c-9fe6-2d154406a4bc/9th-circuit-judges.jpg)
 
 ### Related:
 

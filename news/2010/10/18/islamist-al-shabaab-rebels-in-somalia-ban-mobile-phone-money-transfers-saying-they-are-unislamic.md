@@ -9,6 +9,7 @@ Somali Islamist group al-Shabab orders mobile phone companies to stop their popu
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gAgBYxaurc5zQnJG1tqcrF2ynTvw?docId=CNG.772c043fd8f0c880af1577d5741ee7d0.8b1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11566247)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

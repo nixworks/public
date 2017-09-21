@@ -9,6 +9,7 @@
 
 1. [Rappler](http://www.rappler.com/nation/137528-rise-drug-suspect-killings-duterte-presidency)
 2. [Rappler](http://www.rappler.com/nation/137550-duterte-death-penalty-hang-criminals)
+2. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/34FD77DDB78E4F1FA7549B15DD79B721/20160624-duterte-davao-01.jpg)
 
 ### Related:
 

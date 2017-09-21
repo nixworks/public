@@ -8,6 +8,7 @@ Egypt charges a businessman and two Israelis with recruiting spies for Israel, a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12043290)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Assault on lines linking Sanaa with al-Qaeda stronghold Marib trips national gri
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/06/power-line-assault-plunge-yemen-into-darkness-201461164559672523.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/6/11/201461171427863734_20.jpg)
 
 ### Related:
 

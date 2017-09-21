@@ -8,6 +8,7 @@ Secret files show ruling military building atomic weapons programme, defectors s
 ### Source:
 
 1. [AJE](http://english.aljazeera.net/news/asia-pacific/2010/06/2010642542469132.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

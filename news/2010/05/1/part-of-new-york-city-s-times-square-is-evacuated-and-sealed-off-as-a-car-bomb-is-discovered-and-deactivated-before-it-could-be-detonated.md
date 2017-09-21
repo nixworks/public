@@ -11,6 +11,7 @@ Bomb-making materials have been removed from a parked car in New York&#039;s Tim
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8656651.stm)
 3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100502-267664/NYs-Times-Square-evacuated-in-bomb-scare)
 4. [Sydney Morning Herald](http://www.smh.com.au/world/times-square-evacuated-in-bomb-scare-20100502-u0wb.html)
+4. [Cover Image](http://www.smh.com.au/content/dam/images/u/1/2/8/image.related.thumbnail.320x214.u0wb.png/1272782846257.jpg)
 
 ### Related:
 

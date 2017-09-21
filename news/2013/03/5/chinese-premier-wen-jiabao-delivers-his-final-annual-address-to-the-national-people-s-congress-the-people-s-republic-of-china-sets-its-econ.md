@@ -8,6 +8,7 @@ China targeted economic growth of 7.5 percent in 2013 and vowed an unwavering fi
 ### Source:
 
 1. [AFP via SBS World News](http://www.sbs.com.au/news/article/1743422/China-set-for-National-Peoples-Congress)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/1/8/1899_chinese-conference-130305-aap.jpg)
 
 ### Related:
 

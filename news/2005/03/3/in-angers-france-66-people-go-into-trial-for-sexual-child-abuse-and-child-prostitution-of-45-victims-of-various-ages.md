@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4313747.stm)
 2. [Guardian](http://www.guardian.co.uk/france/story/0,11882,1430022,00.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7800888)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

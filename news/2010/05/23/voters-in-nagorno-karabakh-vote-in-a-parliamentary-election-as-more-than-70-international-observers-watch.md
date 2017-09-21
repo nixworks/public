@@ -9,6 +9,7 @@ Breakaway Nagorno-Karabakhelects its new parliament on Sunday, one month after t
 
 1. [Reuters](http://www.reuters.com/article/idUSANT24066320100522?type=marketsNews)
 2. [Voice of Russia](http://english.ruvr.ru/2010/05/23/8314608.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

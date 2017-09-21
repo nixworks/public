@@ -8,6 +8,7 @@ An explosion and fire has occurred at a chemical warehouse in Shandong province 
 ### Source:
 
 1. [RT](http://www.rt.com/news/313116-china-chemical-plant-explosion/)
+1. [Cover Image](https://img.rt.com/files/2015.08/article/55d891e4c4618802428b45a8.jpg)
 
 ### Related:
 

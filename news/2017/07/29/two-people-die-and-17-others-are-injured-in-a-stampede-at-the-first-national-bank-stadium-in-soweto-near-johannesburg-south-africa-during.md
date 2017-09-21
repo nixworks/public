@@ -9,6 +9,7 @@ Officials are unsure about what caused the stampede
 
 1. [BBC](http://www.bbc.com/news/world-africa-40765349)
 2. [Mail and Guardian](https://mg.co.za/article/2017-07-29-soweto-derby-two-dead-in-fnb-stadium-stampede)
+2. [Cover Image](https://cdn.mg.co.za/crop/content/images/2015/12/03/ipadstadium000par3148289mgonline_landscape.jpg/1280x720/)
 
 ### Related:
 

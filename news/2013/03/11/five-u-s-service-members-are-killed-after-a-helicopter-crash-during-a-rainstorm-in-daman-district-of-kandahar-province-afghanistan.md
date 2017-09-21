@@ -9,6 +9,7 @@ Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopt
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21750666)
 2. [CNN](http://www.cnn.com/2013/03/11/world/asia/afghanistan-helicopter-crash)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66333000/jpg/_66333726_afghanhelicoptercrash.jpg)
 
 ### Related:
 

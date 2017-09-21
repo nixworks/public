@@ -8,6 +8,7 @@ A man involved in a paternity dispute opened fire Wednesday in front of a South 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/02/13/2-wounded-in-shooting-outside-south-carolina-courthouse/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

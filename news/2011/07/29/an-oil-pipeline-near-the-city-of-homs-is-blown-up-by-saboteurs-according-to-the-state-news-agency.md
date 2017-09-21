@@ -8,6 +8,7 @@ Syrian forces shot dead at least 20 civilians in attacks on pro-democracy demons
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/29/us-syria-deaths-idUSTRE76S75820110729?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110729&t=2&i=468972828&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-29T233121Z_01_BTRE76S1TCC00_RTROPTP_0_SYRIA)
 
 ### Related:
 

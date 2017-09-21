@@ -8,6 +8,7 @@ Germany&#39;s ZEW confidence index surged in June to the highest level for more 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0616/germany-business.html)
+1. [Cover Image](https://img.rasset.ie/00014235-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ CHINA: Five further sections of the Beijing metro, with a combined length of 69Â
 
 1. [Businessweek](http://www.businessweek.com/news/2012-12-30/beijing-opens-subways-to-ease-congestion-amid-urbanization-drive)
 2. [Railway Gazette](http://www.railwaygazette.com/news/single-view/view/beijing-adds-a-further-70-km-of-metro/archiv/2012/dezember.html)
+2. [Cover Image](http://www.railwaygazette.com/uploads/pics/tn_cn-beijing-metro-station_01.jpg)
 
 ### Related:
 

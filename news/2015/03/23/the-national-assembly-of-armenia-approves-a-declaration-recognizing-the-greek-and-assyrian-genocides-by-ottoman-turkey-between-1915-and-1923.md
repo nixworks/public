@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Armenpress](http://armenpress.am/eng/news/798768/adoption-of-declaration-to-certify-that-armenia-recognizes-greek-and-assyrian-genocide-eduard-sharmazanov.html)
+1. [Cover Image](https://armenpress.am/static/news/b/2015/03/798768.jpg)
 
 ### Related:
 

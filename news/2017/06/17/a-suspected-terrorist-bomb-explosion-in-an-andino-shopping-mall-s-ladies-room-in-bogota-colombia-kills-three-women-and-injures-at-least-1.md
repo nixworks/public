@@ -9,6 +9,7 @@ A bomb attack inside a shopping mall in one of the most exclusive areas of Colom
 
 1. [Colombia Reports](https://colombiareports.com/terrorist-attack-bogota-shopping-center-kills-1-injures-least-11-mayor/)
 2. [Reuters](http://www.reuters.com/article/us-colombia-blast-idUSKBN19900D)
+2. [Cover Image](https://colombiareports.com/wp-content/uploads/2017/06/andino.jpg)
 
 ### Related:
 

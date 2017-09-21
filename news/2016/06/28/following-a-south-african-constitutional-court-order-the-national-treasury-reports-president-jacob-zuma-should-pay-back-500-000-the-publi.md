@@ -9,6 +9,7 @@ Opposition says the sum was too low but was still a damning indictment of the pr
 
 1. [Business Standard](http://www.business-standard.com/article/pti-stories/zuma-should-pay-back-500-000-of-public-funds-sa-treasury-116062701099_1.html)
 2. [Gulf News](http://gulfnews.com/news/africa/south-africa/zuma-told-to-pay-back-500-000-in-public-funds-1.1853930)
+2. [Cover Image](http://static.gulfnews.com/media/img/gulfnews_logo.png?v=1)
 
 ### Related:
 

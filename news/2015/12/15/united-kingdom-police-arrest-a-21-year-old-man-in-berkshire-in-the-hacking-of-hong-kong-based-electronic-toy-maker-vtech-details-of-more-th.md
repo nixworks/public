@@ -9,6 +9,7 @@ A 21-year-old man is arrested in Berkshire, UK, as part of an investigation into
 
 1. [BBC](http://www.bbc.com/news/technology-35100735)
 2. [Digital Trends](http://www.digitaltrends.com/dt-daily/vtech-hacking-suspect-nabbed-by-uk-police-video-dt-daily/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16905/production/_86912429_gettyimages-92419721.jpg)
 
 ### Related:
 

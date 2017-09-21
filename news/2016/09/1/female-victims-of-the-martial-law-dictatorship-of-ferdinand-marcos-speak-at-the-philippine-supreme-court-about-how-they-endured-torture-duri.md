@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/144800-martial-law-victims-supreme-court-oral-arguments)
+1. [Cover Image](https://assets.rappler.com/0D89549AEDE140FFAEECE2381C8E6D9E/img/69EBACB819954DD78B66A2C0334694B7/sc-oral-arguments-marcos-burial-20160831-009.jpg)
 
 ### Related:
 

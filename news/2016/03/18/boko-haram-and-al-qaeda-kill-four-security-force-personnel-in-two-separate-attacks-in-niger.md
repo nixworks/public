@@ -8,6 +8,7 @@ Rival Islamist militant groups al-Qaeda in the Islamic Maghreb and Boko Haram st
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35842300)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1548/production/_87284450_gettyimages-474923712.jpg)
 
 ### Related:
 

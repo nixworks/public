@@ -8,6 +8,7 @@ A Google computer program trounced one of the world&#039;s top players on Wednes
 ### Source:
 
 1. [The New York Times'' via ''Melbourne Age](http://www.theage.com.au/technology/sci-tech/go-master-walloped-by-emotionless-challenger-a-google-computer-program-20160309-gnf2hl.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/g/n/f/2/q/m/image.related.articleLeadwide.620x349.gnf2hl.png/1457565046407.jpg)
 
 ### Related:
 

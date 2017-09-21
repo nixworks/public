@@ -8,6 +8,7 @@ Two of Hong Kong’s top lawmakers said a China-backed plan for the city’s fir
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-06-14/hundreds-gather-for-march-in-hong-kong-against-china-backed-poll)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

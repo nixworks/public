@@ -9,6 +9,7 @@ A small plane has crashed into the sea off Venezuela’s coast, leaving one pers
 
 1. [AP via ''Edmonton Journal](http://www.edmontonjournal.com/news/survive+plane+crash+Venezuela+killed+after+pilot+reported/7910988/story.html)
 2. [The Hindu](http://www.thehindu.com/news/international/5-survive-plane-crash-off-venezuela-1-killed/article4375028.ece)
+2. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

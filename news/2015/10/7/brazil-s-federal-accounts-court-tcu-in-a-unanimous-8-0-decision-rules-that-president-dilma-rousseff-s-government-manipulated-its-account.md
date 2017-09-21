@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/31d1b806ce4c4d37b443ee028f4fd7a4/brazil-court-discusses-alleged-govt-accounting-violations)
 2. [Reuters](http://www.reuters.com/article/2015/10/08/us-brazil-rousseff-idUSKCN0S124S20151008)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151008&t=2&i=1085366377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB960UJ)
 
 ### Related:
 

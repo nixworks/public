@@ -8,6 +8,7 @@ South&#x20;African&#x20;police&#x20;fired&#x20;rubber&#x20;bullets&#x20;and&#x20
 ### Source:
 
 1. [France24](http://www.france24.com/en/20170224-south-africa-anti-immigrant-protesters-clash-nigerian)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/southafrica-m.jpg)
 
 ### Related:
 

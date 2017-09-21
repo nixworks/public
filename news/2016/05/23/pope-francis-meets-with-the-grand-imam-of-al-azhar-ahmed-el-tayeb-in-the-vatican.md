@@ -10,6 +10,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 1. [ABC News](http://abcnews.go.com/Health/wireStory/pope-meets-al-azhar-imam-sign-renewed-relations-39301625)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/05/pope-historic-talks-grand-imam-al-azhar-160523124712606.html)
 3. [US News](http://www.usnews.com/news/world/articles/2016-05-23/pope-meets-with-al-azhar-imam-in-sign-of-renewed-relations)
+3. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

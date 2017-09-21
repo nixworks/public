@@ -8,6 +8,7 @@ The US returns to India three ancient sculptures that that been smuggled into th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-25740350)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72288000/jpg/_72288071_72288064.jpg)
 
 ### Related:
 

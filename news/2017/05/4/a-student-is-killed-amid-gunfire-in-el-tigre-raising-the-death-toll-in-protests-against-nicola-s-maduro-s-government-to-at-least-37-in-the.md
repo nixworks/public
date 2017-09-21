@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/death-toll-venezuela-protests-36-police-death-47205203)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_9522c005acdd4e91b77a1e28ba2c8c49_16x9_992.jpg)
 
 ### Related:
 

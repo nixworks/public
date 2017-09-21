@@ -9,6 +9,7 @@ People in Switzerland reject a plan to automatically expel foreigners who commit
 
 1. [AFP via ''The Guardian](http://www.theguardian.com/world/2016/feb/28/switzerland-votes-on-expelling-foreigners-for-minor-crimes)
 2. [BBC](http://www.bbc.com/news/world-europe-35680760)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0E4A/production/_88485630_031510361.jpg)
 
 ### Related:
 

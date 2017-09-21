@@ -8,6 +8,7 @@ CHINA-COAL/POLLUTION (URGENT):China sets national coal use target to tackle air 
 ### Source:
 
 1. [Reuters via Thomson-Reuters Trust](http://www.trust.org/item/20130912014254-ke550)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/224c556c-e8ea-49ee-a990-d9d00eecd983/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

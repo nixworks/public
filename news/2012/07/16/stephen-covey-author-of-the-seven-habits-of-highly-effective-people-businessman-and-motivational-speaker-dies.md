@@ -8,3 +8,4 @@ Stephen R. Covey, author of &quot;The Seven Habits of Highly Effective People&qu
 ### Source:
 
 1. [AP via Newsday](http://www.newsday.com/entertainment/books/stephen-r-covey-dead-after-bike-accident-the-seven-habits-of-highly-effective-people-author-was-79-1.3840997)
+1. [Cover Image](http://cdn.newsday.com/polopoly_fs/1.3841023.1342457306!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg)

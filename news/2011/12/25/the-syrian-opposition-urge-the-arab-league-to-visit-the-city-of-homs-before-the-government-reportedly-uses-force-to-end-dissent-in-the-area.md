@@ -8,6 +8,7 @@ Opposition fears government is trying to crush uprising before Arab League obser
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011122572730248889.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/26/2011122641753155580_20.jpg)
 
 ### Related:
 

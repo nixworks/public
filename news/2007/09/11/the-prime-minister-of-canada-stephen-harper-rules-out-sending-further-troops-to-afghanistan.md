@@ -8,6 +8,7 @@ Canadian Prime Minister Stephen Harper says his country will not be sending extr
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/11/2029944.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/666594-1x1-700x700.jpg)
 
 ### Related:
 

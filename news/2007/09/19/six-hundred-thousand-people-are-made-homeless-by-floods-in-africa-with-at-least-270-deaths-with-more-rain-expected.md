@@ -8,6 +8,7 @@ Flooded regions across Africa have been warned to expect further heavy rain afte
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/20/2038209.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/676034-1x1-700x700.jpg)
 
 ### Related:
 

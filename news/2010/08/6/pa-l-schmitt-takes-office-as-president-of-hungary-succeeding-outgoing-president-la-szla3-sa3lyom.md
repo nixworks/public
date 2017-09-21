@@ -8,3 +8,4 @@ Hungary&#8217;s outgoing President Laszlo Solyom on Thursday handed over his off
 ### Source:
 
 1. [Politics.hu](http://www.politics.hu/20100806/schmitt-takes-office-as-new-president-of-hungary)
+1. [Cover Image](http://www.politics.hu/wp-content/themes/politics/images/fbicon.png)

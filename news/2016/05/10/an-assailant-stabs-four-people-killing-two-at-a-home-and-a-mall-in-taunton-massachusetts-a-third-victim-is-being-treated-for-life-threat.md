@@ -9,6 +9,7 @@ At least three people died in a spree of violence at the Silver City Galleria ma
 
 1. [CNN](http://www.cnn.com/2016/05/10/us/massachusetts-mall-stabbings/)
 2. [The Boston Globe](https://www.bostonglobe.com/2016/05/10/four-people-stabbed-taunton-mall-and-home/ta69KuJxUpWTpGWWwk3KOL/story.html)
+2. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/05/11/BostonGlobe.com/ReceivedContent/Images/taunton1.jpg)
 
 ### Related:
 

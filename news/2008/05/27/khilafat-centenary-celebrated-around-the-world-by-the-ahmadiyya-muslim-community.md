@@ -8,6 +8,7 @@ Islam Ahmadiyya Khilafat Centenary celebration&#39;s clip on CNN. Islam Ahmadiyy
 ### Source:
 
 1. [CNN](http://www.youtube.com/watch?v=ja4w_C3Eo0s)
+1. [Cover Image](https://i.ytimg.com/vi/ja4w_C3Eo0s/hqdefault.jpg)
 
 ### Related:
 

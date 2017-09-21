@@ -8,6 +8,7 @@ CAIRO -- Leftist politician Hamdeen Sabahi has become the first candidate to ann
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-egypt-presidential-candidate-20140208,0,2668593.story)
+1. [Cover Image](http://www.trbimg.com/img-52f6a879/turbine/la-fg-wn-egypt-presidential-candidate-20140208)
 
 ### Related:
 

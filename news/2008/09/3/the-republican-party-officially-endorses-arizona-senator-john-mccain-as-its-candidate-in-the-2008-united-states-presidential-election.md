@@ -8,6 +8,7 @@ Gov. Sarah Palin of Alaska sought to wrest back the narrative of her life as she
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/04/us/politics/04repubday.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/09/04/us/palin.75755.jpg)
 
 ### Related:
 

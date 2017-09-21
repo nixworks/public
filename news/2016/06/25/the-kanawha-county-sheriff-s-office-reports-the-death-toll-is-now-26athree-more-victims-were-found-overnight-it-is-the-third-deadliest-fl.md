@@ -8,6 +8,7 @@ The worst flooding in 100 years partially inundates towns and the Greenbrier Res
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/2016/06/24/2-dead-floods-sweep-west-virginia/86329316/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

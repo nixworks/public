@@ -8,6 +8,7 @@ Biology, astronomy, chemistry, physics on FoxNews.com. In-depth natural science 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/science/index.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

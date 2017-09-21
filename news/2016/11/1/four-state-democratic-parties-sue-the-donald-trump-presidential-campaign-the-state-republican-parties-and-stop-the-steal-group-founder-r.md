@@ -9,6 +9,7 @@ This comes after the Democratic National Committee said their GOP counterparts v
 
 1. [AP via CBS News](http://www.cbsnews.com/news/democrats-accuse-gop-donald-trump-of-voter-intimidation-in-four-states/)
 2. [Reuters](http://www.reuters.com/article/us-usa-election-intimidation-idUSKBN12V28G)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/18/5b81029a-9e1d-47c4-8522-11fd2de4750d/ap883647922384.jpg)
 
 ### Related:
 

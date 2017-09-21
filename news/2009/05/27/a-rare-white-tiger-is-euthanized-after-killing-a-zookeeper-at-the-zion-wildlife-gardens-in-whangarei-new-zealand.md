@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8069462.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0527/newzealand.html)
+2. [Cover Image](https://img.rasset.ie/000251e0-1600.jpg)
 
 ### Related:
 

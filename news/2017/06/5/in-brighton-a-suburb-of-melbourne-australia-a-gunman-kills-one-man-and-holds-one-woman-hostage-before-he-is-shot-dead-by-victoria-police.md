@@ -9,6 +9,7 @@ Police say they are treating yesterday&#039;s shooting and hostage situation in 
 
 1. [Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-06-06/islamic-state-claims-responsibility-for-brighton-siege/8591540)
 2. [Herald Sun](http://www.heraldsun.com.au/news/law-order/emergency-crews-responding-to-explosion-in-brighton/news-story/432d22f46235bc4f810581d6cd5965d7)
+2. [Cover Image](http://www.abc.net.au/news/image/8592296-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Egyptian court on Sunday postponed delivering its verdict in the retrial of t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/02/us-egypt-jazeera-idUSKCN0Q708B20150802)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150802&t=2&i=1068850205&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7102Z)
 
 ### Related:
 

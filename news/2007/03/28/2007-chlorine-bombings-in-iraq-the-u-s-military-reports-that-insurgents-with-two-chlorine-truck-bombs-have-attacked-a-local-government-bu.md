@@ -9,6 +9,7 @@ Insurgents with two chlorine truck bombs attacked a local government building in
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6502111.stm)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSPAR84220420070328)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070328&t=2&i=533285&w=&fh=545px&fw=&ll=&pl=&sq=&r=533285)
 
 ### Related:
 

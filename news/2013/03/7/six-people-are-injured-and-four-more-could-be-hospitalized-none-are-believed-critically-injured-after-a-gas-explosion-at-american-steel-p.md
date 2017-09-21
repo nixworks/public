@@ -8,6 +8,7 @@ Gas ignited at the plant, according to fire official.
 ### Source:
 
 1. [St. Louis Post-Dispatch](http://www.stltoday.com/news/local/crime-and-courts/explosion-injures-at-american-steel-in-granite-city/article_d28d089c-c9d4-55d0-b2cd-284f48010468.html)
+1. [Cover Image](http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/71/171db437-327a-5b95-a041-b17b50a55e07/51392f2b3dc45.preview-1024.jpg?crop=903%2C677%2C60%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize)
 
 ### Related:
 

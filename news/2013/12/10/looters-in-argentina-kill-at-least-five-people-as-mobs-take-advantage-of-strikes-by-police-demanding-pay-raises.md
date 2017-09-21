@@ -8,3 +8,4 @@ BUENOS AIRES, Argentina (AP) — Outbreaks of looting have spread across Argenti
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/12/09/argentine-police-strikes/3938969/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

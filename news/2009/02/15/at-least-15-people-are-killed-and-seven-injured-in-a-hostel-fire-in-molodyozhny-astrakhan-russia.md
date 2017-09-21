@@ -8,6 +8,7 @@ At least 15 people died and seven were injured when a three-storey wooden hostel
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2009/02/16/2492045.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

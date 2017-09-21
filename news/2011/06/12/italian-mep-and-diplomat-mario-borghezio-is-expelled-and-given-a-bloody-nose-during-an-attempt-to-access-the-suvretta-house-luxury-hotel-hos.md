@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/mario-borghezio-bilderberg-2011-6)
+1. [Cover Image](http://static5.businessinsider.com/image/4df4b091cadcbb26300b0000-1190-625/an-italian-diplomat-was-violently-expelled-from-st-moritz-after-trying-to-sneak-into-the-bilderberg-meeting.jpg)
 
 ### Related:
 

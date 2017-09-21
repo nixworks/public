@@ -8,6 +8,7 @@ Polling stations close across Northern Ireland for the 2017 Assembly election.
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/election-northern-ireland-2017-39128501)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A64B/production/_94917524_pollingnighttime.jpg)
 
 ### Related:
 

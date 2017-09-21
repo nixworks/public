@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/20101101528552542.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/01/nkorea.nuclear/)
 3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/01/01/73/0401000000AEN20100101002100315F.HTML)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

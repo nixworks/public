@@ -8,6 +8,7 @@ Loyalist paramilitaries groups in Northern Ireland have begun decommissioning th
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/northernireland/5661173/Loyalist-paramilitaries-destroy-weapons.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

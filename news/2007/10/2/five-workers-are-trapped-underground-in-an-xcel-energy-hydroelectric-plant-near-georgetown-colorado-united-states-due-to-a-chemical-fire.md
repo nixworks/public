@@ -9,6 +9,7 @@ When fire broke out deep underground at a hydroelectric plant in the Rockies, of
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,299034,00.html)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSN0244772420071002?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

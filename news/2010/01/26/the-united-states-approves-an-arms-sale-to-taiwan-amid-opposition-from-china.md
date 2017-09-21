@@ -9,6 +9,7 @@ White House reportedly backs arms deal in move likely to strain ties with Beijin
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012653823775265.html)
 2. [Radio Taiwan International](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=94875)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

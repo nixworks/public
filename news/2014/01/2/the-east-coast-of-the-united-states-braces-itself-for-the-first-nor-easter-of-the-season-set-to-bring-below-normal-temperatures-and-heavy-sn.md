@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2014/01/02/us/winter-weather/)
 2. [NBC](http://www.nbcnewyork.com/news/local/Noreaster-Tri-State-Forecast-Snow-Storm-New-York-New-Jersey-Connecticut-Inches-Foot-Weather-238427051.html)
+2. [Cover Image](http://media.nbcnewyork.com/images/1200*675/fifth+ave+snow.jpg)
 
 ### Related:
 

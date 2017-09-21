@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/04/28/ken-livingstone-suspended-labour-party-anti-semitism/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/b/5/b5ntg2mze6z57lznje16fgc3ph7zjkkz-xlarge.jpg)
 
 ### Related:
 

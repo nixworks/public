@@ -8,6 +8,7 @@ There has been a third explosion at the Pike River coal mine in New Zealand, whe
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/stories/2010/11/26/3077634.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2339234-1x1-700x700.jpg)
 
 ### Related:
 

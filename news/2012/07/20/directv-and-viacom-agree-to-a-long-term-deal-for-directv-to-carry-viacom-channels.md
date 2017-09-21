@@ -8,6 +8,7 @@ Viacom and DirecTV announced Friday that they have reached a deal, putting aside
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/07/20/technology/viacom-directv/index.htm?hpt=hp_t2)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/07/20/technology/viacom-directv/viacom-directv-stewart.01.jpg)
 
 ### Related:
 

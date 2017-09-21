@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Express UK](http://www.express.co.uk/news/world/741773/video-migrants-storm-spanish-enclave-over-border-fence-ceuta)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/750x445/741773.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Activists march from Habima to Interior Ministry, chant &quot;no children are il
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=259367)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=161024)
 
 ### Related:
 

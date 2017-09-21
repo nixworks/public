@@ -8,6 +8,7 @@ BP says it is setting aside $32.2bn (£20.8bn) to cover the oil spill clean-up c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10770252)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

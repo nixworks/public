@@ -10,6 +10,7 @@ Militants attacked an army base near the Indian city of Jammu on Tuesday, killin
 1. [AP via ''New York Times](http://www.nytimes.com/aponline/2016/11/29/world/asia/ap-as-kashmir.html?_r=0)
 2. [Reuters](http://www.reuters.com/article/us-india-kashmir-attacks-idUSKBN13O0KX?il=0)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/3-Army-personnel-killed-in-terror-attack-on-Nagrota-artillery-unit-near-Jammu/articleshow/55684785.cms)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161129&t=2&i=1163441432&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAS0BF)
 
 ### Related:
 

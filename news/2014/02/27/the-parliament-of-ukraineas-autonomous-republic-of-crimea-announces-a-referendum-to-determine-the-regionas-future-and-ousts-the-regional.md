@@ -12,6 +12,7 @@ Ousted Ukrainian President Viktor Yanukovych is being sheltered in Russia and ha
 3. [The Guardian](http://www.theguardian.com/world/2014/feb/27/armed-men-seize-crimea-parliament-reports)
 4. [USA Today](http://www.usatoday.com/story/news/world/2014/02/27/ukraine-yanukovych-whereabouts/5857331/)
 5. [Voice of America](http://www.voanews.com/content/ukraines-parliament-approves-yatsenyuk-as-new-pm/1860978.html)
+5. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

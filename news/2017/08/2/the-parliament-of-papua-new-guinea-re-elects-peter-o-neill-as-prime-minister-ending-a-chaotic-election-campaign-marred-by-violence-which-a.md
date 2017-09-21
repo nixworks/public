@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-papua-election-idUSKBN1AI0MF?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170802&t=2&i=1195420297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED710CD)
 
 ### Related:
 

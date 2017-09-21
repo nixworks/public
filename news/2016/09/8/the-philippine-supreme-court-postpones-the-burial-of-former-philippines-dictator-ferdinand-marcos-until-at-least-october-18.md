@@ -8,6 +8,7 @@ The Supreme Court yesterday extended until Oct. 18 its order temporarily stoppin
 ### Source:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2016/09/08/1621603/no-september-burial-libingan-marcos-sc)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20160908/Marcos-Burial.jpg)
 
 ### Related:
 

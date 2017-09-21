@@ -9,6 +9,7 @@ The American president&rsquo;s speech to the House of Commons will inevitably be
 
 1. [CBC](http://www.cbc.ca/news/politics/trudeau-obama-ottawa-meeing-macdonald-1.3658538)
 2. [Toronto Star](https://www.thestar.com/news/canada/2016/06/29/climate-deal-caps-north-american-leaders-summit.html)
+2. [Cover Image](https://i.cbc.ca/1.3659408.1467282198!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/usa-canada.jpg)
 
 ### Related:
 

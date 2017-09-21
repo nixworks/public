@@ -8,6 +8,7 @@ Two militants and a policeman die in a gun battle in Indian-administered Kashmir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23124231)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68476000/jpg/_68476539_68472232.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A massive snowstorm in the US kills eight people, leaves motorists stranded and 
 ### Source:
 
 1. [AFP, Reuters via ABC News Australia](http://www.abc.net.au/news/2014-11-20/us-snowstorm-leavs-eight-dead/5905300)
+1. [Cover Image](http://www.abc.net.au/news/image/5905116-1x1-700x700.jpg)
 
 ### Related:
 

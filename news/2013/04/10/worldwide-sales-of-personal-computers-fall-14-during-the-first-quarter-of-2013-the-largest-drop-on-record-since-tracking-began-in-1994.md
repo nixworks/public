@@ -9,6 +9,7 @@ PC sales during the first quarter were the lowest since IDC began keeping track.
 
 1. [The New York Times](http://www.nytimes.com/2013/04/11/technology/data-show-steep-decline-in-pc-shipments.html)
 2. [eWeek](http://www.eweek.com/mobile/idc-reports-worst-ever-q1-pc-sales-points-to-windows-8/)
+2. [Cover Image](/imagesvr_ez/b2bezp/2016/08/346x214acerinteltablet2012_4.jpg?alias=social_image)
 
 ### Related:
 

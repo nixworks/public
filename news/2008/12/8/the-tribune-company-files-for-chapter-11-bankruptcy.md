@@ -8,6 +8,7 @@ In perhaps the starkest sign yet of trouble in the news business, media giant Tr
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-tribune9-2008dec09,0,5273854.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

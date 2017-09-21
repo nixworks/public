@@ -9,6 +9,7 @@ Mueller will oversee the investigation into efforts to influence the election.
 
 1. [ABC News](http://abcnews.go.com/Politics/robert-mueller-appointed-special-counsel-oversee-probe-russias/story?id=47472673)
 2. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-05-17/former-fbi-chief-mueller-named-special-counsel-on-russia-probe)
+2. [Cover Image](http://a.abcnews.com/images/Politics/GTY-Mueller-jrl-170517_16x9_992.jpg)
 
 ### Related:
 

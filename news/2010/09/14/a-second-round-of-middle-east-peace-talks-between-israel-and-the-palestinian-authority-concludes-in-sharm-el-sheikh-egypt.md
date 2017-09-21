@@ -8,6 +8,7 @@ Mitchell says Israel-Palestinian negotiations moving in the right direction; Egy
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=188060)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=149117)
 
 ### Related:
 

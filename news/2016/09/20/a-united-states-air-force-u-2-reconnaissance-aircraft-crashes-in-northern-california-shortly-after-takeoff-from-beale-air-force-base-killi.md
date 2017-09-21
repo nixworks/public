@@ -8,6 +8,7 @@ Two pilots ejected safely after a U-2 spy plane went down in Sutter County, just
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-u2-spy-plane-down-northern-california-20160920-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57e18686/turbine/la-me-ln-u2-spy-plane-down-northern-california-20160920-snap)
 
 ### Related:
 

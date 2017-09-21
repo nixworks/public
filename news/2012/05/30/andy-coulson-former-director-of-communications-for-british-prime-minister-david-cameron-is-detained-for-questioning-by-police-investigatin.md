@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-18262740)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60598000/jpg/_60598813_coulsonpa.jpg)
 
 ### Related:
 

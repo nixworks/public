@@ -10,6 +10,7 @@
 1. [Interfax-AVN](http://www.interfax.ru/e/B/politics/28.html?menu=1&id_issue=11756960)
 2. [RIA Novosti](http://en.rian.ru/russia/20070529/66260249.html)
 3. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6668328,00.html)
+3. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Europe&#39;s robot lab Philae has fallen &quot;silent&quot; on the surface of a 
 
 1. [CNN](http://edition.cnn.com/2015/07/20/world/philae-lander-comet-rosetta-feat/index.html)
 2. [DW](http://www.dw.com/en/philae-space-probe-loses-contact-with-ground-control/a-18595344)
+2. [Cover Image](http://www.dw.com/image/18576451_304.jpg)
 
 ### Related:
 

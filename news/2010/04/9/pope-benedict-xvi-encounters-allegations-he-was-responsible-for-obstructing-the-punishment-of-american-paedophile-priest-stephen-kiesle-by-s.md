@@ -13,6 +13,7 @@ Benedict XVI may have resisted removal of cleric with child molestation record.
 4. [The J Post](http://www.jpost.com/International/Article.aspx?ID=172772)
 5. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article7093936.ece)
 6. [a letter](http://news.bbc.co.uk/2/hi/europe/8612596.stm)
+6. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=140692)
 
 ### Related:
 

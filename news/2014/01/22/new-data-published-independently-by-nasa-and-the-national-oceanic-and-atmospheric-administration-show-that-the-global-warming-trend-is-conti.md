@@ -8,6 +8,7 @@ Two top US science agencies confirm 2013 was the fourth warmest year for the pla
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2014-01-22/2013-fourth-hottest-year-on-record-for-planet-reports/5212356)
+1. [Cover Image](http://www.abc.net.au/news/image/4267900-1x1-700x700.jpg)
 
 ### Related:
 

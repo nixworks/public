@@ -9,6 +9,7 @@ With the state Senate at an impasse over his temporary budget fix, and tens of t
 
 1. [Wisconsin State Journal](http://host.madison.com/wsj/news/local/education/local_schools/article_c40c09e4-3a43-11e0-91c0-001cc4c002e0.html)
 2. [Wisconsin State Journal](http://host.madison.com/wsj/news/local/govt-and-politics/article_01c093f0-3ac0-11e0-ba01-001cc4c002e0.html)
+2. [Cover Image](http://bloximages.chicago2.vip.townnews.com/host.madison.com/content/tncms/assets/v3/editorial/c/3b/c3bd73e0-f665-5d0f-9025-85fdbb4c9776/4d5ed3abec34a.preview-1024.jpg?resize=946%2C630)
 
 ### Related:
 

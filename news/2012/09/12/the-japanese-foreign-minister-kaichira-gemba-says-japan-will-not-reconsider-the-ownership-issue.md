@@ -10,6 +10,7 @@
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-japan-chinabre88a1k8-20120911,0,2982445.story)
 2. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T120912004075.htm)
 3. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120912p2a00m0na013000c.html)
+3. [Cover Image](http://www.trbimg.com/img-504fffc9/turbine/sns-rt-cbre88b004b00.jpg-20120911/600)
 
 ### Related:
 

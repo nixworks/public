@@ -8,6 +8,7 @@ The Vatican says it is troubled by the latest allegations against Italian PM Sil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12245730)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/50862000/jpg/_50862054_011012985-1.jpg)
 
 ### Related:
 

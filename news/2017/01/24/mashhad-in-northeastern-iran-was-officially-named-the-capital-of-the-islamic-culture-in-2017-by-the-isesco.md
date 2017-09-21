@@ -8,6 +8,7 @@ TEHRAN (Tasnim) – The holy city of Mashhad in northeastern Iran was officially
 ### Source:
 
 1. [Tasnim](https://www.tasnimnews.com/en/news/2017/01/24/1306527/mashhad-officially-becomes-2017-capital-of-islamic-culture)
+1. [Cover Image](https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/11/05/139511051458384659789303.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tunnel, dug inside building located about 1.5 kilometers from border fence, aime
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8229122.stm)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3768973,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

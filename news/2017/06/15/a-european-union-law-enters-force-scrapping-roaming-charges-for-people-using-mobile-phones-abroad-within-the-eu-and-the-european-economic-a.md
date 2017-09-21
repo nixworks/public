@@ -8,6 +8,7 @@ New rules mean EU citizens can call, text and browse the internet for the same p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-40281013)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/11A12/production/_93901227_phoneonbeachbbc.jpg)
 
 ### Related:
 

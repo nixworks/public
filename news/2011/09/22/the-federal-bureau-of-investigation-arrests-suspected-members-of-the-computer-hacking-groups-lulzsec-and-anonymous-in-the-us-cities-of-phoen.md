@@ -8,6 +8,7 @@ The FBI arrested two alleged members of the hacking collectives LulzSec and Anon
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/scitech/2011/09/22/fbi-arrests-suspected-lulzsec-and-anonymous-hackers/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2011/09/22/fbi-arrests-suspected-lulzsec-and-anonymous-hackers/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1445033002227.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Hotair](http://hotair.com/archives/2011/04/19/nato-admits-it-cant-stop-qaddafi-from-shelling-misrata-as-rebels-call-for-foreign-troops/)
+1. [Cover Image](https://s0.wp.com/i/blank.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The epicenter was around 13 miles north of Borrego Springs, which has a populati
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/southern-california-earthquake-felt-los-angeles-san-diego-n589476)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_23/1573146/160610_-_cali_quake_map_-_0448_996797ecec3c625fcbff8fc4a3512300.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

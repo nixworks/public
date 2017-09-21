@@ -9,6 +9,7 @@ Representatives of the Philippines government and the long-running communist ins
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11895264)
 2. [RTHK](http://rthk.hk/rthk/news/englishnews/news.htm?main&20101202&56&717027)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

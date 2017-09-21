@@ -10,6 +10,7 @@ WARSAW, Poland (AP) — Exit poll shows Andrzej Duda ahead of President Bronisla
 1. [AP via WTOP](http://wtop.com/europe/2015/05/exit-poll-shows-andrzej-duda-ahead-of-president-bronislaw-komorowski-in-polish-election/)
 2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_POLAND_PRESIDENTIAL_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 3. [BBC](http://www.bbc.com/news/world-europe-32862772)
+3. [Cover Image](http://wtop.com/wp-content/uploads/2016/08/og-image.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/03/16/us-china-yuanband-lew-idUSBREA2F0MZ20140316)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140316&t=2&i=863707214&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2F1ADK00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The intentional breach of a levee on the Mississippi River is sending 396,000 cu
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/US/05/03/missouri.levee.breach/index.html?hpt=Sbin)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/05/03/missouri.levee.breach/tzvids.levee.breach.cnn.jpg)
 
 ### Related:
 

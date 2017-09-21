@@ -8,6 +8,7 @@ An order granting anonymity to ex-Royal Bank of Scotland boss Sir Fred Goodwin h
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13453626)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52832000/jpg/_52832151_007931529-1.jpg)
 
 ### Related:
 

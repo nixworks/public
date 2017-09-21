@@ -8,6 +8,7 @@ Floods in Mozambique have killed about 50 people and displaced tens of thousands
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/01/14/2137477.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

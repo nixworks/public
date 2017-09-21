@@ -8,6 +8,7 @@ Federal Parliament Speaker Peter Slipper has stepped aside while investigations 
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/slipper-stands-aside-as-speaker-20120422-1xeme.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/x/e/6/8/image.related.articleLeadwide.620x349.1xeme.png/1335072896020.jpg)
 
 ### Related:
 

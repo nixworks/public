@@ -8,6 +8,7 @@ The Duke of Edinburgh has been admitted to hospital for an exploratory operation
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22807942)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68027000/jpg/_68027752_duke_reuters.jpg)
 
 ### Related:
 

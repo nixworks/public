@@ -8,6 +8,7 @@ Turkey seized a truck loaded with 1,200 rocket warheads and other weapons near t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/07/us-syria-crisis-turkey-border-idUSBRE9A60LI20131107)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

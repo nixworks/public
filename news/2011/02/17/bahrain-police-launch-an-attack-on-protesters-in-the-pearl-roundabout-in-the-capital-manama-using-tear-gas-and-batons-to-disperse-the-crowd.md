@@ -15,6 +15,7 @@ Bahrain protesters claim several among their ranks were killed during a violent 
 6. [Global voices](http://globalvoicesonline.org/2011/02/17/bahrain-breaking-news-police-attack-protesters-at-pearl-roundabout/)
 7. [NPR](http://www.npr.org/2011/02/17/133827875/police-assault-on-bahrain-protest-turns-deadly)
 8. [Ottawa Citizen](http://www.ottawacitizen.com/news/arab-world-in-unrest/index.html)
+8. [Cover Image](http://a.abcnews.com/images/International/abc_bahrainprotest_110216_wmain.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Czech President Vaclav Klaus may be the European Union’s bad boy now, but gene
 
 1. [Ceske Noviny](http://www.ceskenoviny.cz/news/zpravy/klaus-s-pledge-to-sign-treaty-might-be-enough-for-czech-govt/403079)
 2. [Wall Street Journal](http://blogs.wsj.com/new-europe/2009/10/16/bad-european-or-good-head-of-state-klaus-has-support/)
+2. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

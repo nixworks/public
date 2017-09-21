@@ -10,6 +10,7 @@ The private train North Korean leader Kim Jong-il uses on his trips either withi
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gJSDvsTTTg-MNIdRBtQdvPr0juAg)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g88GSlzbDz58BFYGBu2CT2dQOa8AD9BRVUG80)
 3. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/11/09/2009110900406.html)
+3. [Cover Image](http://english.chosun.com/site/data/img_dir/2009/11/09/2009110900372_0.jpg)
 
 ### Related:
 

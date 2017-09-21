@@ -8,6 +8,7 @@ As their country is sucked into a the depths of a new economic crisis, Zimbabwea
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/09/zimbabwe-crisis-deepens-as-social-media-adds-to-robert-mugabes-w/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/07/09/52142057_President-Robert_Mugabe-news-xlarge_trans_NvBQzQNjv4BqMXZbCo_jm_vSek0t_cpxAPELgFcpIott1l3dJeEFVUU.jpg)
 
 ### Related:
 

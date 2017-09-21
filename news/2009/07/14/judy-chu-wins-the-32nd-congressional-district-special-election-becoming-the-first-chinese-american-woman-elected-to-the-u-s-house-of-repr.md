@@ -8,6 +8,7 @@ Judy Chu can trace the beginnings of her career as a San Gabriel Valley activist
 ### Source:
 
 1. [Los Angeles  Times](http://www.latimes.com/news/local/la-me-judy-chu16-2009jul16,0,2984735.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Archbishop of Dublin has said he respects the decisions by Bishops Eamonn Wa
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8430466.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1225/abuse.html)
+2. [Cover Image](https://img.rasset.ie/0002cbec-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russian star Maria Sharapova has slumped to her worst grand slam performance in 
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2010-01-18/sharapova-dumped-in-opening-round/1213620)
+1. [Cover Image](http://www.abc.net.au/news/image/1214584-1x1-700x700.jpg)
 
 ### Related:
 

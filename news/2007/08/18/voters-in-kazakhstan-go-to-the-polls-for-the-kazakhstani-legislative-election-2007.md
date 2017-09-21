@@ -8,6 +8,7 @@ Kazakhstan has begun voting in a parliamentary election that President Nursultan
 ### Source:
 
 1. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/18/2008797.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

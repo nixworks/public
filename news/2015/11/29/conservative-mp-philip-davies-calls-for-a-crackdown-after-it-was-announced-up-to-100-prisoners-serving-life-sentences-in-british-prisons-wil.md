@@ -8,6 +8,7 @@ UP to 100 prisoners serving life sentences will be let out of jail at Christmas 
 ### Source:
 
 1. [The Sunday Express](http://www.express.co.uk/news/uk/622803/prison-lifers-prisoners-allowed-to-leave-for-Christmas-Philip-Davies-Andrew-Selous)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/1/590x/prisoner-622803.jpg)
 
 ### Related:
 

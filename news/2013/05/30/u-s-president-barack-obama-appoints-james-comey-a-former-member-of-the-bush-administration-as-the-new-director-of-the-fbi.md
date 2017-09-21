@@ -9,6 +9,7 @@ President Obama is expected to nominate James Comey, a widely respected former f
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/may/30/obama-james-comey-fbi-director)
 2. [The Independent](http://www.independent.co.uk/news/world/americas/blast-from-the-george-w-bush-past-obama-to-name-james-comey-as-next-fbi-director-8638406.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/05/30/17/james-comey-ap.jpg)
 
 ### Related:
 

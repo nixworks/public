@@ -10,6 +10,7 @@ Officials at Foreign Ministry fear &#39;domino effect&#39; in South America; &#3
 1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=202697)
 2. [The New York Times](http://www.nytimes.com/2011/01/08/world/americas/08chile.html)
 3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4010498,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

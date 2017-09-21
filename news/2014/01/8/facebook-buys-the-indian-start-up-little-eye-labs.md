@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/tech/internet/facebook-acquires-bangalore-based-little-eye-labs/articleshow/28541470.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-28541515,width-672,resizemode-4,imglength-25266/tech/internet/facebook-acquires-bangalore-based-little-eye-labs.jpg)
 
 ### Related:
 

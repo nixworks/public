@@ -8,6 +8,7 @@ Republican rivals Ted Cruz and John Kasich announce they will co-ordinate strate
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/election-us-2016-36127175)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9A2/production/_89422574_89422573.jpg)
 
 ### Related:
 

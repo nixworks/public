@@ -8,6 +8,7 @@ A new attack is reported off the central coast of Somalia some two weeks after a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39478457)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60499000/jpg/_60499677_014751263-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Keir Starmer, the Director of Public Prosecutions is to review legal papers rela
 
 1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/bbc-workers-face-sex-claims-probe-16228721.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9630550/Jimmy-Savile-What-George-Entwistle-told-MPs-about-Panorama-justthewomen-Newsnight-and-the-conversation-at-the-Hilton-Hotel.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02374/jimmySavile_2374529k.jpg)
 
 ### Related:
 

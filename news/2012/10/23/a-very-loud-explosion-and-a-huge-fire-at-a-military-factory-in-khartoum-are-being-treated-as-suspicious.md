@@ -8,6 +8,7 @@ The Sudanese government says it believes an Israeli air strike was responsible f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20050781)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63675000/jpg/_63675913_63675912.jpg)
 
 ### Related:
 

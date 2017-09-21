@@ -8,6 +8,7 @@ The Israeli embassy in Japan donates more than 300 Anne Frank-related books to p
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26365312)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73128000/jpg/_73128664_73128663.jpg)
 
 ### Related:
 

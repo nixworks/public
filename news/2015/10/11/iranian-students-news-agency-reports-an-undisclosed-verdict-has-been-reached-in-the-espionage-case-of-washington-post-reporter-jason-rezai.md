@@ -10,6 +10,7 @@ A judiciary spokesman gave no other details beyond the terse statement of a ruli
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/2015/1011/Iran-sentences-Washington-Post-reporter-but-verdict-remains-unknown)
 2. [Reuters](http://uk.reuters.com/article/2015/10/11/uk-iran-usa-trial-idUKKCN0S50H420151011)
 3. [Washington Post](https://www.washingtonpost.com/world/national-security/iran-says-verdict-reached-on-washington-post-correspondent/2015/10/11/b69943ee-e5f5-4a86-9c35-64cd3496f332_story.html)
+3. [Cover Image](http://images.csmonitor.com/csm/2015/10/940706_1_1011-WIRE-REZAIAN_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The world wide web needs a bill of rights to protect users from government surve
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26540635)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73522000/jpg/_73522691_73522690.jpg)
 
 ### Related:
 

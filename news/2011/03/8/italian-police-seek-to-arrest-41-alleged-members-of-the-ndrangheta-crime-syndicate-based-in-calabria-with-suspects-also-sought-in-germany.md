@@ -9,6 +9,7 @@ Police in Germany and Italy have arrested 35 alleged mobsters in a major police 
 
 1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/03/08/general-eu-italy-mafia-arrests_8343813.html)
 2. [SBS](http://www.sbs.com.au/news/article/1496982/Mafia-arrests-on-three-continents-)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/s/i/site_1_rand_1692690096_italy_mafia_arrests_090311_b_getty.jpg)
 
 ### Related:
 

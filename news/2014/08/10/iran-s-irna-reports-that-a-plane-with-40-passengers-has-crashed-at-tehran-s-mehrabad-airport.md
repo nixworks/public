@@ -8,6 +8,7 @@ An aircraft crashed at Tehran&#039;s Mehrabad airport on Sunday morning, Iran&#0
 ### Source:
 
 1. [Agencies via ''Sydney Morning Herald](http://www.smh.com.au/world/plane-crashes-at-tehrans-mehrabad-airport-reports-20140810-102gw5.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/d/g/o/k/image.related.articleLeadwide.620x349.102gw5.png/1407665174943.jpg)
 
 ### Related:
 

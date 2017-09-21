@@ -8,6 +8,7 @@ One person dies, three are unaccounted for and five are injured after the collap
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-oxfordshire-35641766)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/168BF/production/_88415329_hi031624242.jpg)
 
 ### Related:
 

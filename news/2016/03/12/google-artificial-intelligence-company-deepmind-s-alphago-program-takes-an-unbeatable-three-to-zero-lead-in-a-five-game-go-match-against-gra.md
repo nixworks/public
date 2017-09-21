@@ -8,6 +8,7 @@ This is the first time an artificially intelligent system has topped one of the 
 ### Source:
 
 1. [Wired](http://www.wired.com/2016/03/third-straight-win-googles-ai-claims-victory-historic-match-go-champ/)
+1. [Cover Image](https://www.wired.com/wp-content/uploads/2016/03/GW20160131096-1200x630.jpg)
 
 ### Related:
 

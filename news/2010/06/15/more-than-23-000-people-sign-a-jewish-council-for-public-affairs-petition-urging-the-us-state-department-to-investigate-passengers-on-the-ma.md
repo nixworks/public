@@ -15,6 +15,7 @@ Turkish IHH activist, Viva Palestina organizer set to speak in New York at event
 6. [RTÉ](http://www.rte.ie/news/2010/0615/dubai.html)
 7. [The Globe and Mail](http://www.theglobeandmail.com/news/world/europe/ireland-tells-israel-to-withdraw-staffer-over-dubai-hit/article1604382/)
 8. [euronews](http://www.euronews.net/2010/06/15/ireland-to-expel-israeli-diplomat/)
+8. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=144109)
 
 ### Related:
 

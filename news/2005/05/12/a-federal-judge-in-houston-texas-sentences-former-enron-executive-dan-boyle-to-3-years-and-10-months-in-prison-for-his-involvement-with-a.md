@@ -10,6 +10,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 1. [Businessweek](http://www.businessweek.com/ap/financialnews/D8A1PQCG0.htm?campaign_id=apn_home_down)
 2. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/metropolitan/3180226)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8477211)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

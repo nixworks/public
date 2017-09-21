@@ -8,6 +8,7 @@ At least 12 people are thought to have been killed and up to 80 injured after oi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11618441)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

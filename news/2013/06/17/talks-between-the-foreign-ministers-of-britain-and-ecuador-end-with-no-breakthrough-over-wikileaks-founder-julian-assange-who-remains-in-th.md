@@ -8,6 +8,7 @@ Talks between the foreign ministers of Britain and Ecuador have ended with no br
 ### Source:
 
 1. [Reuters via News24](http://www.news24.com/news24/World/News/UK-No-progress-in-Assange-talks-20130617)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2005/5c4b45fa443d46f6b1e802e73ecdcf04.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russian president talks of desire for &#034;international coalition&#034; to fig
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/11845635/Vladimir-Putin-confirms-Russian-military-involvement-in-Syrias-civil-war.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03429/Putin-cat_3429903k.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j1sHDgEC6IiaCPtta-0VQi3lQjGQ?docId=CNG.561b5c4d8977a65d01525eaff495da68.7f1)
 2. [Reuters](http://www.reuters.com/article/2011/06/30/us-italy-austerity-idUSTRE75T1VP20110630)
 3. [The Financial Times](http://www.ft.com/cms/s/0/423a52c6-a281-11e0-9760-00144feabdc0.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

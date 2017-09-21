@@ -8,6 +8,7 @@ Prime Minister Narendra Modi today championed the newly-inaugurated Chenani-Nash
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/pm-modi-inaugurates-chenani-nashri-tunnel-says-kashmirs-youth-have-two-paths-tourism-or-terrorism/articleshow/57975665.cms?)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/57976091.cms?135549)
 
 ### Related:
 

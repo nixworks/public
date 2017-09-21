@@ -8,6 +8,7 @@ UN watchdog quarterly report says number of centrifuges at Fordo facility more t
 ### Source:
 
 1. [Yedioth Ahronot](http://www.ynetnews.com/articles/0,7340,L-4275119,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The United States Air Force&#039;s mysterious X-37B robot space plan returned to
 
 1. [AP via MyWay](http://apnews.myway.com/article/20101203/D9JSDCF00.html)
 2. [Space.com](http://www.space.com/missionlaunches/photos-x-37b-robot-space-plane-landing-101203.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL3NpdGUvc3BhY2UtYmxhY2sucG5n)
 
 ### Related:
 

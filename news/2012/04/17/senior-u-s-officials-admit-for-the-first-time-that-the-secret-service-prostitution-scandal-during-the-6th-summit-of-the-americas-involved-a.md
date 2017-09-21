@@ -8,6 +8,7 @@ A prostitution scandal involving US Secret Service agents in Cartagena, Colombia
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17747793)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59706000/jpg/_59706984_59706983.jpg)
 
 ### Related:
 

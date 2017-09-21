@@ -8,6 +8,7 @@ A three-year-old girl has died of dengue, taking the total number of dead to 15 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/cheat-sheet/14-die-of-dengue-in-delhi-patients-forced-to-share-hospital-beds-10-developments-1218529)
+1. [Cover Image](http://drop.ndtv.com/albums/uploadedpics/small1/dengue_patients_afp_650x400_635780763090075364.jpg)
 
 ### Related:
 

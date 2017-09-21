@@ -8,6 +8,7 @@ The government reported gross domestic product shrank at a 6.1 percent yearly ra
 ### Source:
 
 1. [AP via ''New York Times](http://www.nytimes.com/2009/04/30/business/economy/30econ.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

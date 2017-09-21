@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-38438714)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2355/production/_93154090_obamaabereu.jpg)
 
 ### Related:
 

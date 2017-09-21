@@ -9,6 +9,7 @@ Three million Syrian refugees will have registered in neighboring countries as o
 
 1. [Reuters](http://www.reuters.com/article/2014/08/29/us-syria-crisis-refugees-idUSKBN0GT0AX20140829?feedType=RSS&feedName=topNews)
 2. [The Guardian](http://www.theguardian.com/world/2014/aug/29/syria-rebels-filipino-un-peacekeepers-golan-heights)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140829&t=2&i=968521437&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7S051)
 
 ### Related:
 

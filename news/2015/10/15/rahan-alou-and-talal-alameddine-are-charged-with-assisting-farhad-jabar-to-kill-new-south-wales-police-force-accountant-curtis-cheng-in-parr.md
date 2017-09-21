@@ -9,6 +9,7 @@ Raban Alou, 18, from Wentworthville, faces terrorism charges, while Talal Alamed
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-10-15/man-to-be-charged-with-supplying-parramatta-shooters-gun/6857554)
 2. [The Guardian](http://www.theguardian.com/australia-news/2015/oct/15/parramatta-shooting-sydney-teenager-gun-supply-charges)
+2. [Cover Image](https://i.guim.co.uk/img/media/ea9489ab05400a67f001ed1d7567160d638230a6/0_186_5472_3283/master/5472.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=74f0985400e4c06dfa4402b90254c434)
 
 ### Related:
 

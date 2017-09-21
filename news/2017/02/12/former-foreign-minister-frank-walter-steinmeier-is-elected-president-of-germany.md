@@ -8,6 +8,7 @@ Vocal Donald Trump critic says he wants Germany to be an ‘anchor of hope’ af
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/12/frank-walter-steinmeier-elected-germany-president-donald-trump-critic-)
+1. [Cover Image](https://i.guim.co.uk/img/media/08fb59630fe039ef790bb7cc73bde7c41f72f41f/0_9_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2757860c14f8f96d3ab5cd4e71819a17)
 
 ### Related:
 

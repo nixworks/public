@@ -8,6 +8,7 @@ Military officials in Greece say four army officers have been killed and one inj
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/greece-dead-hurt-army-helicopter-crash-46881330)
+1. [Cover Image](http://a.abcnews.com/images/International/EPA-greece-copter-crash-jef-170419_16x9_992.jpg)
 
 ### Related:
 

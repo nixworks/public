@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/07/us-korea-frontline-idUSBRE91614Y20130207)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130207&t=2&i=701881355&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9161O7L00)
 
 ### Related:
 

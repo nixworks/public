@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18135898)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/05/deadly-earthquake-italy.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60359000/jpg/_60359027_014802007-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An American soldier was killed when a rocket fired by ISIS landed near his posit
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2016/03/19/american-soldier-killed-in-isis-rocket-attack-in-northern-iraq-official-says.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/110814/0/0/110814_ANHQ_Mosul_640.jpg?ve=1)
 
 ### Related:
 

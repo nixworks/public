@@ -9,6 +9,7 @@ A controversial new tax for the amount of rain that falls on homes has been impo
 
 1. [Fox News](http://nation.foxnews.com/maryland-rain-tax/2013/04/13/state-passes-rain-tax)
 2. [Metro](http://metro.co.uk/2013/04/11/governor-imposes-rain-tax-on-homes-3592504/)
+2. [Cover Image](http://nation.foxnews.com/sites/nation.foxnews.com/files/styles/story_624_300/public/3226cropped.png)
 
 ### Related:
 

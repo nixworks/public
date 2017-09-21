@@ -9,6 +9,7 @@ Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have en
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iran/8275969/Iran-nuclear-talks-break-down-sparking-fears-of-showdown-over-regimes-pursuit-of-atomic-weapons.html)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/22/AR2011012203405.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01809/iran-ashton_1809173a.jpg)
 
 ### Related:
 

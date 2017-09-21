@@ -8,6 +8,7 @@ An award-winning Iranian nuclear scientist, who disappeared last year under myst
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Blotter/iran-nuclear-scientist-defects-us-cia-intelligence-coup/story?id=10231729)
+1. [Cover Image](http://a.abcnews.com/images/Blotter/ht_shahram_amiri_100330_wmain.jpg)
 
 ### Related:
 

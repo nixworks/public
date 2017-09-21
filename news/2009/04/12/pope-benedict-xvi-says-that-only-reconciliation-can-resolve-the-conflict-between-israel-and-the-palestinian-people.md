@@ -8,6 +8,7 @@ Pope Benedict XVI said Sunday that the entire world needed to rediscover hope to
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/30170220/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/ap/02b28bc3-5d30-4343-8f6d-e3a03e631790.standard.jpg)
 
 ### Related:
 

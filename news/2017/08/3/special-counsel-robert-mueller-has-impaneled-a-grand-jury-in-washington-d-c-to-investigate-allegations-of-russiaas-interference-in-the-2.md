@@ -9,6 +9,7 @@ Special counsel Robert Mueller has impaneled a grand jury in Washington to inves
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-russia-idUSKBN1AJ1SW?il=0)
 2. [Reuters](http://www.reuters.com/article/us-usa-trump-russia-mueller-idUSKBN1AJ2RA)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170803&t=2&i=1195681264&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED721UZ)
 
 ### Related:
 

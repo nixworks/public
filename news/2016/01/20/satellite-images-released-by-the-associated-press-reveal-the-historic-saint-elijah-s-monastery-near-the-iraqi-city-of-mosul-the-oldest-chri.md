@@ -8,6 +8,7 @@ The Isis jihadist group has completely destroyed a 1,400-year-old Christian mona
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/world/middle-east/isis-razes-to-ground-the-oldest-christian-monastery-in-iraq-satellite-images-show-a6822256.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/20/08/elijah-isis-main.jpg)
 
 ### Related:
 

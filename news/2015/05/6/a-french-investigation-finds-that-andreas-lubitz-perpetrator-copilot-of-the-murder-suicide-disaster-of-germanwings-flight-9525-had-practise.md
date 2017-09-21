@@ -8,6 +8,7 @@ The co-pilot of the Germanwings plane that crashed in the French Alps appears to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32604552)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82103000/jpg/_82103263_9750teuf.jpg)
 
 ### Related:
 

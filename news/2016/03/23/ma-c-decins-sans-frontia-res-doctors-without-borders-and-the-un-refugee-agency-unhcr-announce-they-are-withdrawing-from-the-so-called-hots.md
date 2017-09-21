@@ -9,6 +9,7 @@
 
 1. [New Europe](http://neurope.eu/article/unhcr-msf-withdraw-hotspots-calling-prisons/)
 2. [Vox Media](http://www.vox.com/2016/3/23/11291612/eu-greece-refugee-inhumane)
+2. [Cover Image](https://cdn0.vox-cdn.com/thumbor/hD26dfY7Hd8Oaiyd9N72XkZxr0M=/0x237:4252x2599/1080x600/cdn0.vox-cdn.com/uploads/chorus_image/image/49148985/GettyImages-494692316.0.jpg)
 
 ### Related:
 

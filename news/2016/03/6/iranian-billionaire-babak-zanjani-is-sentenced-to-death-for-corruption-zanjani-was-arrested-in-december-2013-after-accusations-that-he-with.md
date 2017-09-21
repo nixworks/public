@@ -8,6 +8,7 @@ Billionaire Iranian businessman Babak Zanjani, accused by the West of sanctions-
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35739377)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72007000/jpg/_72007711_dsc_0491.jpg)
 
 ### Related:
 

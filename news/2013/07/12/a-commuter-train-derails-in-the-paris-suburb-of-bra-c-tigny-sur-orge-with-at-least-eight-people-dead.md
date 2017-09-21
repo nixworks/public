@@ -9,6 +9,7 @@ An Intercity train to Limoges derailed today around 5pm in the municipality of B
 
 1. [France24](http://www.france24.com/en/breaking/20130712-commuter-train-derails-outside-paris-many-casualties-feared?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130712_1814&ns_linkname=20130712_breaking_news&ns_fee=0&f24_member_id=1080960490882)
 2. [ITV](http://www.itv.com/news/update/2013-07-12/report-eight-dead-after-france-train-derailment/)
+2. [Cover Image](http://www.itv.com/news/assets/branding/fb.png)
 
 ### Related:
 

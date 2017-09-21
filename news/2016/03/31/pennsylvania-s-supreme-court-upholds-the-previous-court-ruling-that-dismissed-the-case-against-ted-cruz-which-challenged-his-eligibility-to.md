@@ -10,6 +10,7 @@
 1. [ABC News](http://abcnews.go.com/Politics/wireStory/cruz-wins-citizenship-case-pennsylvania-supreme-court-38059265)
 2. [CNN](http://www.cnn.com/2016/03/31/politics/trump-view-from-south-korea-japan/index.html)
 3. [Vox Media](http://www.vox.com/2016/3/31/11339040/trump-nukes-japan-south-korea)
+3. [Cover Image](https://cdn0.vox-cdn.com/thumbor/21c0hJNfuwJwPBetXT4KDNy_RAc=/0x0:5275x2931/1080x600/cdn0.vox-cdn.com/uploads/chorus_image/image/49205253/455706326.0.jpg)
 
 ### Related:
 

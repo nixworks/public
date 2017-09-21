@@ -10,6 +10,7 @@ Cardinal Seán Brady has urged everyone who believes that the right to life is f
 1. [Daily Mail](http://www.dailymail.co.uk/indiahome/indianews/article-2253181/Irish-church-fury-government-plan-legalise-abortions-dentist-Sativa-died-following-miscarriage.html)
 2. [RTÉ News](http://www.rte.ie/news/2012/1225/cardinal-sean-brady-anti-abortion.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1225/breaking1.html)
+3. [Cover Image](https://img.rasset.ie/0005dbfb-1600.jpg)
 
 ### Related:
 

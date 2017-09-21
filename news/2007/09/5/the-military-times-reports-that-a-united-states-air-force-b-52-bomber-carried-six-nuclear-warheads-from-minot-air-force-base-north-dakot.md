@@ -9,6 +9,7 @@ A B-52 bomber was mistakenly armed with six nuclear warheads and flown for more 
 
 1. [MSNBC](http://www.msnbc.msn.com/id/20427730/?GT1=10357)
 2. [New York Times](http://thelede.blogs.nytimes.com/2007/09/05/loose-nukes-warheads-in-the-sky/?hp)
+2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/070905/n_pwms_nukes_070905.standard.jpg)
 
 ### Related:
 

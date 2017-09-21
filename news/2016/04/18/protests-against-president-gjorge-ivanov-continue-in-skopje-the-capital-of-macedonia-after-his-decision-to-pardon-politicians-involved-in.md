@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Seattle Times](http://www.seattletimes.com/nation-world/macedonia-enters-second-week-of-anti-government-protests/)
+1. [Cover Image](http://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png)
 
 ### Related:
 

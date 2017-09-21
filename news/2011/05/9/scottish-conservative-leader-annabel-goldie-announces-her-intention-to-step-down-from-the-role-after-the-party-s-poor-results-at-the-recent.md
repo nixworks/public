@@ -8,6 +8,7 @@ The leader of the Scottish Conservative Party Annabel Goldie says she will stand
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-13340641)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52630000/jpg/_52630699_011708539-1.jpg)
 
 ### Related:
 

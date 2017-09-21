@@ -8,6 +8,7 @@ Israel and Hamas agree to hold their fire unless attacked; Defense Minister Bara
 ### Source:
 
 1. [JPost](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=291678)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=207044)
 
 ### Related:
 

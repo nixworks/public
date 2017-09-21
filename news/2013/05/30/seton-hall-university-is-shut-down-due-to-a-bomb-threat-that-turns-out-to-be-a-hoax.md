@@ -8,6 +8,7 @@ Seton Hall University was evacuated Thursday afternoon after police received an 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/30/seton-hall-evacuated-bomb-threat/2373921/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

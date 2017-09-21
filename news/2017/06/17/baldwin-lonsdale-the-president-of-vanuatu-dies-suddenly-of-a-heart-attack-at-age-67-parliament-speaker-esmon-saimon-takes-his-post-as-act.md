@@ -9,6 +9,7 @@ Vanuatu was in a state of mourning on Saturday after its revered president, Bald
 
 1. [BBC](http://www.bbc.com/news/world-asia-40313334)
 2. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/333232/vanuatu-in-mourning-after-president-s-sudden-death)
+2. [Cover Image](http://www.radionz.co.nz/assets/news/75290/eight_col_Vanuatu_President_Baldwin_Lonsdale.jpg?1468987143)
 
 ### Related:
 

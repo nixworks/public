@@ -8,6 +8,7 @@ OIC refused permission to set up liaison office to aid displaced Rohingya Muslim
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/10/2012101514841813605.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/15//2012101514724687734_20.jpg)
 
 ### Related:
 

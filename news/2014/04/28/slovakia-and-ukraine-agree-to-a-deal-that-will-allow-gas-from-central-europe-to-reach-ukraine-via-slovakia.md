@@ -8,6 +8,7 @@ A new deal will allow a limited amount of central European gas to flow to Ukrain
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-27177763)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74094000/jpg/_74094195_ukraine.gas.r.jpg)
 
 ### Related:
 

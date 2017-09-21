@@ -8,6 +8,7 @@ The Federal Reserve Board approved a rule prohibiting the government from extend
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2015/11/30/Federal-Reserve-ends-too-big-to-fail-lending-policy/9611448895428/?spt=rln&or=3)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/9611448895428/2015/1/ac479b8b2e90f4cff064a2a76371ce7f/v1.5/Federal-Reserve-ends-too-big-to-fail-lending-policy.jpg)
 
 ### Related:
 

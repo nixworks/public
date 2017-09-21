@@ -8,6 +8,7 @@ CAGAYAN DE ORO, Philippines -- Presidential candidates hoping to succeed incumbe
 ### Source:
 
 1. [Nikkei Asian Review](http://asia.nikkei.com/Politics-Economy/Policy-Politics/Hopefuls-spar-over-poverty-in-presidential-debate)
+1. [Cover Image](http://asia.nikkei.com/var/site_cache/storage/images/node_43/settings/common-setting/9833-180-eng-GB/Common-setting.png)
 
 ### Related:
 

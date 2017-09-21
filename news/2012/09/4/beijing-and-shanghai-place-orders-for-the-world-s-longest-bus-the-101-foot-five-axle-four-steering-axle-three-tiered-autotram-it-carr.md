@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Daily Mail](http://www.businessinsider.com/germany-just-got-a-10-million-bus-that-seats-256-2012-9)
+1. [Cover Image](http://static4.businessinsider.com/image/504624016bb3f72778000008-1190-625/germany-just-got-a-10-million-bus-that-seats-256-passengers.jpg)

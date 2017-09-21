@@ -8,6 +8,7 @@ Danny Gonen, 25, succumbs to wounds after coming under fire near settlement of D
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/israeli-man-killed-in-west-bank-terror-attack/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/06/gonen-e1434729891159.jpg)
 
 ### Related:
 

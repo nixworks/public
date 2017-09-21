@@ -10,6 +10,7 @@ A Brazilian clown is elected to Congress with more votes than any other candidat
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11463857)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11465127)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/8041059/Romario-elected-to-Brazils-legislature.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

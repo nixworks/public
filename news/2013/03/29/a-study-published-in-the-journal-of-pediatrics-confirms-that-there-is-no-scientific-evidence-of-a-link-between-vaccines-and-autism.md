@@ -8,6 +8,7 @@ Kids with and without autism received the same amount of antigens, which cause t
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-204_162-57576999/no-link-found-between-autism-and-number-of-vaccines/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/03/29/f0f395f7-c3e0-11e2-a43e-02911869d855/autism.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Hungarian President Janos Ader was re-elected by parliament to a second, five-ye
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2017/03/13/Hungarys-president-re-elected-beating-back-challenge-by-Soros-candidate/7291489415908/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/7291489415908/2017/1/6545925110c32a98451972196232c4c0/v1.5/Hungarys-president-re-elected-beating-back-challenge-by-Soros-candidate.jpg)
 
 ### Related:
 

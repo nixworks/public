@@ -9,6 +9,7 @@ Tens of thousands of Yemenis demonstrate in the capital, Sanaa, calling on Presi
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011127100660857.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12295864)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

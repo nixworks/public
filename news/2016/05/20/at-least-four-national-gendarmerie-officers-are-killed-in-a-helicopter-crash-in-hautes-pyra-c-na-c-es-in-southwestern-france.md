@@ -8,6 +8,7 @@ The helicopter crashed in the Hautes-Pyrénées, the French army said on Friday.
 ### Source:
 
 1. [THE LOCAL](http://www.thelocal.fr/20160520/four-killed-as-police-helicopter-crashes-in-southwest-france)
+1. [Cover Image](https://www.thelocal.fr/userdata/images/article/27efb3d620d2597079b9cd78151c81bfd653c57d28cc98f20dfff4e013eeacf3.jpg)
 
 ### Related:
 

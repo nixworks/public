@@ -12,6 +12,7 @@ The first trial at Guantanamo Bay under US President Barack Obama is suspended a
 3. [BBC](http://www.bbc.co.uk/news/world-us-canada-10968610)
 4. [France24](http://www.france24.com/en/20100813-canadian-detainee-omar-khadr-trial-delayed-lawyer-faints-courtroom-jackson-guantanamo)
 5. [The Independent](http://www.independent.co.uk/news/world/americas/guantanamo-critic-removed-from-jury-2051286.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

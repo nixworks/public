@@ -8,3 +8,4 @@ The Italian writer and philosopher Umberto Eco, best known for his 1980s novel T
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35620368)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CB1B/production/_88359915_7d41495a-ac97-42f0-b377-318281fc46a9.jpg)

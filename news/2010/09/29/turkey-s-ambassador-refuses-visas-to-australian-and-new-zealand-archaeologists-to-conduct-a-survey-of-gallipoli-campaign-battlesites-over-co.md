@@ -8,6 +8,7 @@ The Federal Government says it is hoping to resolve a dispute that is threatenin
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/29/3025501.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

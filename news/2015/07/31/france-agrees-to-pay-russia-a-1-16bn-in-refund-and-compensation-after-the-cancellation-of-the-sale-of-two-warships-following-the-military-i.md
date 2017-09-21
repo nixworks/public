@@ -8,6 +8,7 @@ President Francois Hollande denies claims France has agreed to pay compensation 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33730700)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1283/production/_84593740_mistralafp.jpg)
 
 ### Related:
 

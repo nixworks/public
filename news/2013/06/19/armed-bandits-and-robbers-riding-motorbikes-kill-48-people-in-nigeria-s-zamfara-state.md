@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22971516)
 2. [Ventura County Star](http://www.vcstar.com/news/2013/jun/19/armed-robbers-kill-48-in-northwest-nigeria/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68260000/gif/_68260323_nigeria_zamfar_1011.gif)
 
 ### Related:
 

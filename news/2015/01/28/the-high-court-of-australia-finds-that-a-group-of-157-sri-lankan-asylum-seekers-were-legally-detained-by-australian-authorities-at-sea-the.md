@@ -8,6 +8,7 @@ Australia&#039;s High Court rules that a group of 157 Sri Lankan asylum seekers 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-01-28/sri-lankan-asylum-seekers-legally-detained-at-sea-high-court/6051426)
+1. [Cover Image](http://www.abc.net.au/news/image/5627768-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The exiled Madagascan president is sentenced to life in prison with hard labour 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11120620)
 2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE67R03H20100828)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

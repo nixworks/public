@@ -8,6 +8,7 @@ Prosecutors say Juan Thompson made eight bomb threats and tried to pin it on an 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39157934)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/17521/production/_94912559_tv038188096.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Australian Federal Police have raided properties in Perth, Sydney and Melbourne 
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/08/19/2987966.htm)
 2. [Herald Sun](http://www.heraldsun.com.au/news/victoria/terror-raids-in-melbourne/story-e6frf7kx-1225907238405)
+2. [Cover Image](http://www.abc.net.au/news/image/841254-1x1-700x700.jpg)
 
 ### Related:
 

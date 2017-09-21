@@ -9,6 +9,7 @@ A May Day protest in Seattle turned violent Wednesday night and ended with 17 ar
 
 1. [CNN](http://www.cnn.com/2013/05/01/us/seattle-may-day-protests/index.html?hpt=hp_t2)
 2. [Seattle Pi](http://www.sfgate.com/local/article/Seattle-May-Day-protest-turns-violent-17-arrested-4479922.php)
+2. [Cover Image](http://ww1.hdnux.com/photos/21/31/53/4561624/3/rawImage.jpg)
 
 ### Related:
 

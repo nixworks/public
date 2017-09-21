@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15671459)
 2. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=245059)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=177950)
 
 ### Related:
 

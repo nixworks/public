@@ -8,6 +8,7 @@ For a second consecutive day, Israel confronted fire along its border with Syria
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2012/11/13/world/middleeast/israel-strikes-at-syria-again-in-response-to-mortar-attacks.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2012/11/12/world/middleeast/12israel2_cnd/12israel2_cnd-superJumbo.jpg)
 
 ### Related:
 

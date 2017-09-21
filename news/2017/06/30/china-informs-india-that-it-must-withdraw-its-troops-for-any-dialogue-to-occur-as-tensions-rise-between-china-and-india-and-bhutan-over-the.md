@@ -8,6 +8,7 @@ In the midst of face off between India and Chinese troops over road construction
 ### Source:
 
 1. [Financial Express](http://www.financialexpress.com/india-news/china-asks-india-to-back-down-learn-from-historical-lessons/742139/)
+1. [Cover Image](http://images.financialexpress.com/2017/06/flags.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish troops fired on U.S.-backed Kurdish militia fighters in northern Syria o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-turkey-idUSKCN10Z07J?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160825&t=2&i=1151080572&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7O1KE)
 
 ### Related:
 

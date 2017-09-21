@@ -9,6 +9,7 @@ A teenager is found guilty of the rape and murder of a student in Delhi last yea
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23908176)
 2. [Reuters](http://www.reuters.com/article/2013/08/31/us-india-rape-idUSBRE97U06R20130831)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69576000/jpg/_69576562_69576561.jpg)
 
 ### Related:
 

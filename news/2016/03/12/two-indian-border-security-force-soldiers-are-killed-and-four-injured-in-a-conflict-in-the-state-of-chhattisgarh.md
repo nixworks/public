@@ -8,6 +8,7 @@ Skirmish with Maoists took place at around 2.30am when a composite squad of BSF 
 ### Source:
 
 1. [PTI via ''Hindustan Times](http://www.hindustantimes.com/india/2-bsf-men-killed-4-injured-in-naxal-encounter-in-chhattisgarh/story-7TBJBbqxxXd2AYXGPpa0YI.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/03/12/Pictures/_756906e2-e813-11e5-93d4-5ee5efee2841.jpg)
 
 ### Related:
 

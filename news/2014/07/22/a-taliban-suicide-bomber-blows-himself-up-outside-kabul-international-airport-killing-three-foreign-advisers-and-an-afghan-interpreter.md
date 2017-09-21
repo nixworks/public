@@ -8,6 +8,7 @@ A Taliban suicide bomber detonated himself on Tuesday outside Kabul Internationa
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/07/22/uk-afghanistan-blast-idUKKBN0FR0AL20140722)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140722&t=2&i=941142507&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6L0AA)
 
 ### Related:
 

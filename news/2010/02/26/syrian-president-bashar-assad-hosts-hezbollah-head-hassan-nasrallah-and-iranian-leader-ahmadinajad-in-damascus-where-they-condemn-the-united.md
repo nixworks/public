@@ -9,6 +9,7 @@ Ahmadinejad, Nasrallah and Assad have dinner together, discuss &quot;threats.&qu
 
 1. [CNN](http://www.cnn.com/2010/WORLD/meast/02/25/iran.syria.talks/index.html)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=169748)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=139011)
 
 ### Related:
 

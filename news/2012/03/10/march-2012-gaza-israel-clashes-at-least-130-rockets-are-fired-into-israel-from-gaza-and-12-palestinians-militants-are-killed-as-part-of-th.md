@@ -9,6 +9,7 @@ Iron Dome intercepts 27 out of 30 rockets fired at Beersheba, Ashdod, Ashkelon; 
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jOF_U85A4e0mdVVmmUwRNoQjTkjQ?docId=6cbf8e4ea94444a5a70cf175c6676470)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4200794,00.html)
+2. [Cover Image](http://www.ynetnews.com/PicServer2/13062011/3793097/1_p.jpg)
 
 ### Related:
 

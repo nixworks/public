@@ -9,6 +9,7 @@ Iran says an EU ban on imports of Iranian oil is &quot;unfair&quot; and &quot;do
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16693484)
 2. [CNN](http://www.cnn.com/2012/01/23/world/europe/iran-eu-oil/index.html?hpt=hp_t2)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58059000/jpg/_58059278_jex_1298373_de27-1.jpg)
 
 ### Related:
 

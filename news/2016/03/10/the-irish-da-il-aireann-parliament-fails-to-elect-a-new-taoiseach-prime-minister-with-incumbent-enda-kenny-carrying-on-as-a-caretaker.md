@@ -8,6 +8,7 @@ The 32nd Irish parliament (Dáil) fails to appoint a new taoiseach (prime minist
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35765813)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/60B6/production/_88685742_taoiseachcollage2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Brazilian riot police in Sao Paulo and Rio de Janeiro fire tear gas to break up 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-27423404)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74889000/jpg/_74889928_74889927.jpg)
 
 ### Related:
 

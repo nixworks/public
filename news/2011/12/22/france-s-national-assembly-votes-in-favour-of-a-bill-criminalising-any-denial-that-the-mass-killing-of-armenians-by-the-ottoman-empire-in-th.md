@@ -8,6 +8,7 @@ Turkey recalls its ambassador to France in protest at a bill making it illegal t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16297414)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57517000/jpg/_57517811_013571898-1.jpg)
 
 ### Related:
 

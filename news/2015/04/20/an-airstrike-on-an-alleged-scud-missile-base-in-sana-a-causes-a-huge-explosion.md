@@ -9,6 +9,7 @@ Saudi-led airstrikes on weapons caches in Yemen&#39;s rebel-held capital Monday 
 
 1. [Fox News](http://www.foxnews.com/politics/2015/04/20/us-navy-stationing-aircraft-carrier-and-escort-ship-in-yemeni-waters-to/)
 2. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Apr-20/295050-airstrike-on-missile-base-in-sanaa-causes-largest-explosion-in-more-than-3-weeks-of-bombing-residents.ashx)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/04/20/409539_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

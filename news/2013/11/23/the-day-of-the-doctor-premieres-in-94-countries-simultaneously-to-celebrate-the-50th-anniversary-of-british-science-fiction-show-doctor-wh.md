@@ -8,6 +8,7 @@ Doctor Who fans around the world watch its 50th anniversary episode, in what is 
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/entertainment-arts-25070847)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71309000/jpg/_71309544_untitled2.jpg)
 
 ### Related:
 
@@ -16,4 +17,5 @@ Doctor Who fans around the world watch its 50th anniversary episode, in what is 
 3. [Scottish actor Peter Capaldi is announced to portray the twelfth incarnation of the Doctor on the long-running British science fiction show "Doctor Who". ](/news/2013/08/4/scottish-actor-peter-capaldi-is-announced-to-portray-the-twelfth-incarnation-of-the-doctor-on-the-long-running-british-science-fiction-show.md) _Context: Doctor Who_
 4. [Matt Smith announces he will leave "Doctor Who" at the end of 2013. ](/news/2013/06/1/matt-smith-announces-he-will-leave-doctor-who-at-the-end-of-2013.md) _Context: Doctor Who_
 5. [ The BBC science-fiction series "Doctor Who" returns to British television.](/news/2005/03/26/the-bbc-science-fiction-series-doctor-who-returns-to-british-television.md) _Context: Doctor Who_
-6. [ The BBC announces that actor Christopher Eccleston is to play Doctor Who when the show makes its eagerly awaited return to television in 2005. ](/news/2004/03/20/the-bbc-announces-that-actor-christopher-eccleston-is-to-play-doctor-who-when-the-show-makes-its-eagerly-awaited-return-to-television-in-20.md) _Context: Doctor Who_
+6. [ The relaunch of Doctor Who is officially announced by the BBC.](/news/2004/09/26/the-relaunch-of-doctor-who-is-officially-announced-by-the-bbc.md) _Context: Doctor Who_
+7. [ The BBC announces that actor Christopher Eccleston is to play Doctor Who when the show makes its eagerly awaited return to television in 2005. ](/news/2004/03/20/the-bbc-announces-that-actor-christopher-eccleston-is-to-play-doctor-who-when-the-show-makes-its-eagerly-awaited-return-to-television-in-20.md) _Context: Doctor Who_

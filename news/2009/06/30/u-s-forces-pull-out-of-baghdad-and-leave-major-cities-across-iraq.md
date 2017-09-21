@@ -8,6 +8,7 @@ In one neighborhood, results of the American “surge” are evident but sectari
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/06/30/world/middleeast/30iraq.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/06/30/world/30iraq4_75.jpg)
 
 ### Related:
 

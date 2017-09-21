@@ -9,6 +9,7 @@ Heads of three regional countries say they will not recognise new government aft
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201262383641605671.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18564206)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/23//201262385948872734_20.jpg)
 
 ### Related:
 

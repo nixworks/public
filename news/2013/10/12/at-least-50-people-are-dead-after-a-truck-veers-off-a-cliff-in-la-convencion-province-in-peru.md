@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ABC Australia](http://www.abc.net.au/news/2013-10-13/50-killed-after-bus-plunges-off-ravine-in-peru/5018896)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

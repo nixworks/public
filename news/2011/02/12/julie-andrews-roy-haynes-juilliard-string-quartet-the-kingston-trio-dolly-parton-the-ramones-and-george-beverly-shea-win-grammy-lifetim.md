@@ -8,6 +8,7 @@ Punk pioneers the Ramones, British actress and singer Julie Andrews and jazz dru
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/13/us-grammys-lifetime-idUSTRE71C03B20110213)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110213&t=2&i=335692180&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-13T025654Z_01_BTRE71C087700_RTROPTP_0_FILM-SAG)
 
 ### Related:
 

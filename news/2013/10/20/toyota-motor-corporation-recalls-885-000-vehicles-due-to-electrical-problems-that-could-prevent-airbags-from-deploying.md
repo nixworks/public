@@ -8,6 +8,7 @@ Toyota Motor Co. is recalling 885,000 vehicles worldwide over electrical problem
 ### Source:
 
 1. [NBC](http://t.nbcnews.com/business/toyota-recalls-885-000-vehicles-over-airbag-problem-8C11414211)
+1. [Cover Image](https://media2.s-nbcnews.com/j/streams/2013/october/131017/8c9411664-2013-10-17t175117z_1_cbre99g1dll00_rtroptp_3_toyota-russia.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

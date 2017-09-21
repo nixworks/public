@@ -8,3 +8,4 @@ Until this year, scientists hadn&#39;t seen the Bouvier&#39;s red colobus monkey
 ### Source:
 
 1. [Discovery News](http://news.discovery.com/animals/endangered-species/monkey-presumed-extinct-appears-in-congo-forest-150417.htm)
+1. [Cover Image](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5235024%2F980x.jpg/2000%2C2000/9iLvf9WjnlyLpWIS/img.jpg)

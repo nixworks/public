@@ -8,6 +8,7 @@ Doctors are warning of a new sexually-transmitted superbug which they fear could
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/Home/Science/New-sex-superbug-may-be-more-infectious-than-AIDS/articleshow/19926927.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/19926927.cms)
 
 ### Related:
 

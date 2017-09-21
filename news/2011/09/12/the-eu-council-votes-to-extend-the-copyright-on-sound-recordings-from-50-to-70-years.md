@@ -8,6 +8,7 @@ Musicians are set to receive royalties from sales and airplay well into their ol
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-14882146)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55306000/jpg/_55306181_55306180.jpg)
 
 ### Related:
 

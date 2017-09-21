@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via CBC](http://www.cbc.ca/news/world/kim-jong-un-makes-1st-appearance-in-n-korea-in-5-weeks-1.2797350)
+1. [Cover Image](https://i.cbc.ca/1.2797482.1413245679!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/kim-jong-un-reappears.jpg)
 
 ### Related:
 

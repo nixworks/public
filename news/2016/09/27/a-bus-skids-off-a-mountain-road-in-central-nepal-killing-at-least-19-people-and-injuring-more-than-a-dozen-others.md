@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Hindustan Times](http://www.hindustantimes.com/world-news/overcrowded-bus-slips-off-mountain-road-in-nepal-killing-14/story-KyigFVu2Iur5UTzoDUFdoI.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/09/27/Pictures/nepal-bus-accident_3d840dba-84af-11e6-ad59-fe0cd67003de.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Prime minister speaks in Brussels as Osborne rules himself out as successor, and
 3. [Reuters](http://www.reuters.com/article/us-britain-eu-scotland-idUSKCN0ZE1HR)
 4. [The Guardian](http://www.theguardian.com/politics/live/2016/jun/28/brexit-live-cameron-eu-leaders-brussels-corbyn-confidence)
 5. [Time](http://time.com/4385307/brexit-nicola-sturgeon-referendum-scotland-martin-schulz-eu/)
+5. [Cover Image](https://i.guim.co.uk/img/media/76f41e619475ec7f58ff88858128faf1f1f6ffa7/0_0_4096_2457/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fd79c94e241e3d0d669f8bb056012261)
 
 ### Related:
 

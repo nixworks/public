@@ -8,6 +8,7 @@ It would no doubt be controversial, but the idea of dissolving the city of Detro
 ### Source:
 
 1. [CBS Detroit](http://detroit.cbslocal.com/2012/11/28/state-senator-proposes-dissolving-city-of-detroit/)
+1. [Cover Image](https://cbsdetroit.files.wordpress.com/2012/10/detroit-skyline.jpg?w=1500)
 
 ### Related:
 

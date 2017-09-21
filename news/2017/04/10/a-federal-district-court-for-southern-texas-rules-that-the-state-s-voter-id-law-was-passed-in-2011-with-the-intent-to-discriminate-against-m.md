@@ -9,6 +9,7 @@ A Texas law that requires voters to show identification before casting ballots w
 
 1. [Reuters](http://www.reuters.com/article/us-usa-election-texas-idUSKBN17D059?il=0)
 2. [Talking Points Memo](http://talkingpointsmemo.com/muckraker/texas-voter-id-intent-discriminatory)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

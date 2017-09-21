@@ -9,6 +9,7 @@ Nato invites Montenegro to join the alliance, in its first expansion for six yea
 
 1. [BBC News](http://www.bbc.com/news/world-europe-34981973)
 2. [CNN](http://edition.cnn.com/2015/12/02/europe/nato-montenegro-membership-invitation/index.html?sr=fbCNN120215nato-montenegro-membership-invitation0837AMStoryLink&linkId=19230502)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8654/production/_86988343_86988339.jpg)
 
 ### Related:
 

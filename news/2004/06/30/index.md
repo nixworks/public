@@ -10,7 +10,7 @@ _Context: Federal Reserve, interest rate_
 _Context: 2004 elections, Gloria Macapagal Arroyo, President_
 
 ### [ Iraq Occupation and resistance: The United States formally hands over legal custody of Saddam Hussein to the new Iraqi government. The trial of Saddam Hussein is expected to take place in January. ](/news/2004/06/30/iraq-occupation-and-resistance-the-united-states-formally-hands-over-legal-custody-of-saddam-hussein-to-the-new-iraqi-government-the-tria.md)
-_Context: Iraq, Iraqi resistance, Occupation of Iraq, Saddam Hussein_
+_Context: Iraq, Occupation of Iraq, Saddam Hussein, rebel-held_
 
 ### [ The Spanish minister of justice, Juan Fernando Lopez Aguilar, announces a number of social bills to be introduced, including one that will legalize same-sex marriage in Spain, one that will introduce rights for common-law couples, and one that will allow transgendered people to legally change their name and sex designation without the requirement of surgery. ](/news/2004/06/30/the-spanish-minister-of-justice-juan-fernando-la3pez-aguilar-announces-a-number-of-social-bills-to-be-introduced-including-one-that-will.md)
 _Context: Spanish, common-law couples, name, same-sex marriage, sex reassignment, transgender_

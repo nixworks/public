@@ -9,6 +9,7 @@ U.S. President Donald Trump is considering issuing a new executive order banning
 
 1. [CNN](http://www.cnn.com/2017/02/10/politics/immigration-executive-order-white-house/)
 2. [Reuters](http://www.reuters.com/article/us-usa-trump-immigration-court-idUSKBN15O2XS)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170210&t=2&i=1172126153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED181OP)
 
 ### Related:
 

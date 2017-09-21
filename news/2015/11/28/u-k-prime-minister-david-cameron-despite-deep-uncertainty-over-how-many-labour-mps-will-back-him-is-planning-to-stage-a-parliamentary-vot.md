@@ -8,6 +8,7 @@ Prime minister gambles on opposition support as Labour split deepens and Jeremy 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/politics/2015/nov/29/cameron-to-risk-commons-vote-on-syria)
+1. [Cover Image](https://i.guim.co.uk/img/media/338cdfe2acf30354f44d087de20a3289f329b1b1/0_242_6016_3608/master/6016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0cdbdd3564a74a2ad4735f3892512e4c)
 
 ### Related:
 

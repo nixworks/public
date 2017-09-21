@@ -9,6 +9,7 @@ Ex-president makes first appearance in national assembly in four years after fal
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/20108715838881948.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10903048)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

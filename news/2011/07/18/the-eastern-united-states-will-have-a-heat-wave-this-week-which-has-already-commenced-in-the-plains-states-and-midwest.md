@@ -8,6 +8,7 @@ There is no relief in sight for more than 40 states that will see highs in the 9
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/weather/news/extremes/2011-07-17-heat-wave-to-hit-East_n.htm)
+1. [Cover Image](http://i.usatoday.net/weather/_photos/2011/07/17/Dangerous-heat-forecast-for-half-the-country-6P7R1MM-x.jpg)
 
 ### Related:
 

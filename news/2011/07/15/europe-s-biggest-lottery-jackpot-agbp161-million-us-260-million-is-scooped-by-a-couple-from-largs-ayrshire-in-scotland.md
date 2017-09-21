@@ -8,6 +8,7 @@ Colin and Chris Weir, from Ayrshire, say they are &quot;tickled pink&quot; by th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14161661)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54091000/jpg/_54091339_euro_winners.jpg)
 
 ### Related:
 

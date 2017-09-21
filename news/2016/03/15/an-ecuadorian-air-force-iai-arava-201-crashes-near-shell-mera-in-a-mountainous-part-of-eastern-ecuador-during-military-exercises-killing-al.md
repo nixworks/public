@@ -9,6 +9,7 @@
 
 1. [Aviation Safety Network](https://aviation-safety.net/database/record.php?id=20160315-0)
 2. [BNO News](http://bnonews.com/news/index.php/news/id3860)
+2. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)
 
 ### Related:
 

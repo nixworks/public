@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NOS](http://nos.nl/artikel/2028324-oud-premier-piet-de-jong-100-jaar.html)
+1. [Cover Image](https://nos.nl/data/image/2015/03/30/145341/xxl.jpg)
 
 ### Related:
 

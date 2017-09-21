@@ -12,6 +12,7 @@ Ivory Coast is in a deep political crisis, as rival presidential candidates both
 3. [BBC](http://www.bbc.co.uk/news/world-africa-11917359)
 4. [BBC](http://www.bbc.co.uk/news/world-africa-11919256)
 5. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/World-leaders-back-Ouattara-as-Ivory-Coast-poll-winner/articleshow/7042201.cms)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

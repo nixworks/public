@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/05/03/ukraine-unrest-spreads/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/050314/0/0/050314_anhq_shawnukraine_640.jpg?ve=1)
 
 ### Related:
 

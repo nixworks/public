@@ -8,6 +8,7 @@ As Ireland took over the EU&#39;s revolving six-month presidency, the Taoiseach 
 ### Source:
 
 1. [RTE News](http://www.rte.ie/news/2004/0101/eu.html)
+1. [Cover Image](https://img.rasset.ie/000ba79f-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ IDF formulating response to report which claims property was sometimes damaged e
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8680769.stm)
 2. [Ha'aretz](http://www.haaretz.com/news/diplomacy-defense/human-rights-watch-idf-wantonly-destroyed-homes-during-gaza-war-1.290188)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.290189.1273750298!/image/631077794.jpg_gen/derivatives/headline_1200x630/631077794.jpg)
 
 ### Related:
 

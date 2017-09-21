@@ -8,6 +8,7 @@ St. Louis Federal Reserve chief James Bullard urged the U.S. central bank on Tue
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/29/us-fed-bullard-idUSTRE72P0IF20110329)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110329&t=2&i=373965349&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-29T130444Z_01_BTRE72S0QWE00_RTROPTP_0_USA-FED-BULLARD)
 
 ### Related:
 

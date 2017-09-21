@@ -11,6 +11,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a0HrSL3NqNY0&refer=top_world_news)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7900407)
 4. [Sun Star, Manila](http://www.sunstar.com.ph/static/net/2005/03/15/death.toll.in.taguig.jail.crisis.26.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

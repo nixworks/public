@@ -8,6 +8,7 @@ Trailblazing newswoman is 83
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/tv/2013/03/28/barbara-walters-abc-retire-the-view/2028645/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

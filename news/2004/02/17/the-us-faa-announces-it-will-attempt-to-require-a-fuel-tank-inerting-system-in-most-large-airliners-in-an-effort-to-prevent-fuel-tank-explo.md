@@ -9,6 +9,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 
 1. [NYT](http://www.nytimes.com/2004/02/17/politics/17CND-FUEL.html?ex=1077685200&en=a6919999ea77849f&ei=5062&partner=GOOGLE)
 2. [Newsday](http://www.newsday.com/business/ny-faa-release,0,5969466.story?coll=ny-business-headlines)
+2. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Volkswagen engineer from Southern California pleaded guilty to charges he help
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/business/la-fi-volkswagen-engineer-20160909-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57d2d24c/turbine/la-fi-volkswagen-engineer-20160909-snap)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Suspected U.S. missiles struck two vehicles carrying militants in northwest Paki
 2. [AP via MSNBC](http://www.msnbc.msn.com/id/38890391)
 3. [Al-Jazeera](http://english.aljazeera.net/news/asia/2010/08/20108281493395534.html)
 4. [DNA India](http://www.dnaindia.com/world/report_breaking-news-firing-near-us-consulate-in-peshawar_1429816)
+4. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

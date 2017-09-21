@@ -9,6 +9,7 @@ Counting is underway in the NSW state election with polls pointing to a comforta
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-03-28/nsw-election-mike-baird-luke-foley-counting-starts/6354110)
 2. [The Daily Telegraph'' via ''The Courier Mail](http://www.couriermail.com.au/news/nsw-election-2015-live-rolling-coverage-live-stream-as-mike-baird-and-luke-foley-fight-for-power/story-e6freon6-1227280790076?from=public_rss)
+2. [Cover Image](http://www.abc.net.au/news/image/6344004-1x1-700x700.jpg)
 
 ### Related:
 

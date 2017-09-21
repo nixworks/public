@@ -10,6 +10,7 @@ Hurricane Emily like a &quot;freight train&quot; as it passed over houses in the
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4678431.stm)
 2. [CBC](http://www.cbc.ca/world/story/2005/07/18/newhurricane-emily050718.html)
 3. [Reuters](http://www.alertnet.org/thenews/newsdesk/N18230389.htm)
+3. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

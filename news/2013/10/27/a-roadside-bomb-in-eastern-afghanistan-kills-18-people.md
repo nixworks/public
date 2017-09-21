@@ -8,6 +8,7 @@ A roadside bomb in eastern Afghanistan killed 18 people, including at least five
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/27/us-afghanistan-attack-idUSBRE99Q05620131027)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

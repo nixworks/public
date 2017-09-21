@@ -8,6 +8,7 @@ Belgian voters punished the liberal-socialist government in an election on Sunda
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKL109422520070610)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070610&t=2&i=937423&w=&fh=545px&fw=&ll=&pl=&sq=&r=937423)
 
 ### Related:
 

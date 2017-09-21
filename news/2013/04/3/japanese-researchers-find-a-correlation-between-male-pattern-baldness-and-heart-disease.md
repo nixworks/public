@@ -8,6 +8,7 @@ Men going thin on top may be more likely to have heart problems than their frien
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-22014173)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66724000/jpg/_66724100_164653183.jpg)
 
 ### Related:
 

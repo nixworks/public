@@ -11,6 +11,7 @@
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Southern&set_id=1&click_id=84&art_id=nw20100805222451597C322528)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/06/swaziland-minister-quits-kings-wife)
 4. [Times LIVE](http://www.timeslive.co.za/entertainment/article589179.ece/Minister-out-after-royal-affair)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

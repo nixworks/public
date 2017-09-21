@@ -9,6 +9,7 @@ The three-day mission by the Shenzhou VII spacecraft is expected to include the 
 
 1. [The New York Times](http://www.nytimes.com/2008/09/26/world/asia/26space.html)
 2. [Xinhua](http://xinhua.cn)
+2. [Cover Image](https://static01.nyt.com/images/2008/09/26/world/26space_75.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Two fighters killed in Gaza as Israeli troops allegedly crossed into the Gaza St
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/20121022101124772940.html)
 2. [The Times of Israel](http://www.timesofisrael.com/air-force-kills-two-in-gaza-airstrike/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/22/201210221043383734_20.jpg)
 
 ### Related:
 

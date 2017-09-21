@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-12-04T021305Z_01_N29379032_RTRUKOC_0_US-VENEZUELA-ELECTION.xml)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

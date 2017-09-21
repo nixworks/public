@@ -9,6 +9,7 @@ Smokers should be offered and encouraged to use e-cigarettes to help them quit, 
 
 1. [BBC](http://www.bbc.com/news/health-36139618)
 2. [Daily Mail](http://www.dailymail.co.uk/health/article-3561777/E-cigarettes-widely-promoted-substitute-smoking-benefit-heart-health-help-people-quit.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E385/production/_89454285_thinkstockphotos-468956888.jpg)
 
 ### Related:
 

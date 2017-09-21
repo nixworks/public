@@ -9,6 +9,7 @@ There are fears for many who may have been asleep when the mudslide hit near Fre
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-40926187)
 2. [Central Queensland Radio](https://www.4ro.com.au/news/national-news/94309-sierra-leone-mudslide-claims-350-lives)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/117EE/production/_97326617_freetown.png)
 
 ### Related:
 

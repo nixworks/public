@@ -8,6 +8,7 @@ The discovery of shrimp (lyssianasid amphipod) under the Antarctic ice could mea
 ### Source:
 
 1. [The Christian Science Monitor](http://www.csmonitor.com/From-the-news-wires/2010/0316/Does-Antarctic-shrimp-lyssianasid-amphipod-mean-extraterrestrial-life)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2010/03/03-15-shrimp_1.jpg?alias=standard_900x600)
 
 ### Related:
 

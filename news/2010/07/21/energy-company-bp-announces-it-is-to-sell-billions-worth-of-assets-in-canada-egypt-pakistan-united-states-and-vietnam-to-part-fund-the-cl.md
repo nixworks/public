@@ -8,6 +8,7 @@ BP is to sell assets in the US, western Canada and Egypt, in order to part-fund 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10703955)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Social networks may have known more than the US about Middle East revolts, asses
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/02/201121623452291874.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/17/2011217073147734_20.jpg)
 
 ### Related:
 

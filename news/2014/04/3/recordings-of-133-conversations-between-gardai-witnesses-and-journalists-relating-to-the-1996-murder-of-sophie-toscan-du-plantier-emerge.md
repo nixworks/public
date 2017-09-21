@@ -8,6 +8,7 @@ More than 130 separate tape-recorded conversations have emerged between garda√≠,
 ### Source:
 
 1. [RT… News](http://www.rte.ie/news/2014/0403/606472-tapes-du-plantier/)
+1. [Cover Image](https://img.rasset.ie/0003af82-1600.jpg)
 
 ### Related:
 

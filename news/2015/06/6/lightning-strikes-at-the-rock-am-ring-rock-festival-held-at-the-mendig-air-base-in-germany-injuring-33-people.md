@@ -8,6 +8,7 @@ Lightning has struck at a Germany rock festival leaving 33 people with minor inj
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Lightning-hits-rock-festival-33-hurt-20150606)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2136/ca339693903142ae820b7ee0da733e48.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''The Rappler](http://www.rappler.com/world/regions/latin-america/129261-authorities-raid-panama-papers-scandal-firm-mossack-fonseca)
+1. [Cover Image](http://assets.rappler.com/165326BC5537484D932E767609095927/img/3B9A1D6AC6A54F42BFCB47E7AE86E983/afp-20160405-panama-mossack-fonseca-001.jpg)
 
 ### Related:
 

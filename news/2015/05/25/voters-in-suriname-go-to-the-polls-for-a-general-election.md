@@ -8,6 +8,7 @@ Suriname goes to the polls in general elections on Monday with its convicted dru
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/strongman-looms-large-suriname-votes-024755483.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/c7Edbuc_9x6u_va_eF4Vgw--/aD03MTc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/c1b2dc843f40316197cdd029364e27c0019daa28.jpg)
 
 ### Related:
 

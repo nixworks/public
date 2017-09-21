@@ -9,6 +9,7 @@ Some 24 people died in government shelling attacks in Syria on Monday hours befo
 
 1. [DPA via ''The Hindu](http://www.thehindu.com/news/international/at-least-24-killed-in-syria-violence/article3931790.ece)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/24-killed-in-Syrian-security-operations-Activists/articleshow/9861359.cms)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article12604511.ece/ALTERNATES/LANDSCAPE_615/IN24_SYRIA)
 
 ### Related:
 

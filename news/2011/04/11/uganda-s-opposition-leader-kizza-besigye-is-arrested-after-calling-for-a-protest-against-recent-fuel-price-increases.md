@@ -9,6 +9,7 @@ Kizza Besigye and two other Ugandan opposition leaders are arrested after callin
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ghaZC0M3GffU7yinWD9OLYVIhK9g?docId=CNG.490daf03504981722977bcaf5c8cc45c.751)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13033279)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51404000/jpg/_51404893_011320587-1.jpg)
 
 ### Related:
 

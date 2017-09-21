@@ -13,6 +13,7 @@ Greg Gianforte, the Republican candidate for a special House election in Montana
 4. [Fox News](http://www.foxnews.com/politics/2017/05/25/greg-gianforte-look-at-congressional-candidate-accused-assaulting-reporter.html)
 5. [NPR](http://www.npr.org/2017/05/24/529862697/republican-s-altercation-with-reporter-shakes-up-montana-race-on-eve-of-voting)
 6. [The New York Times](https://www.nytimes.com/elections/results/montana-house-special-election)
+6. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2017/05/25/greg-gianforte-look-at-congressional-candidate-accused-assaulting-reporter/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1495717772985.jpg?ve=1)
 
 ### Related:
 

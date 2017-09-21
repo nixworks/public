@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68E0AE20100915)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100915&t=2&i=204606525&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-15T162258Z_01_BTRE68E0O3700_RTROPTP_0_JAPAN-ECONOMY)
 
 ### Related:
 

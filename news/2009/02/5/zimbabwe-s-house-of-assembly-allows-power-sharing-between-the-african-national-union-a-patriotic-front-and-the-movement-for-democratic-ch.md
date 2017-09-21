@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsMaps/idUSTRE5143WY20090205)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090205&t=2&i=8142159&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-05T170806Z_01_BTRE51418VA00_RTROPTP_0_ZIMBABWE-CRISIS)
 
 ### Related:
 

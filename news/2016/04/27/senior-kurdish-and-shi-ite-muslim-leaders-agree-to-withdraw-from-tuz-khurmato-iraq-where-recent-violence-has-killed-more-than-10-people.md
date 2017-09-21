@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-withdraw-idUSKCN0XO2EW)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160427&t=2&i=1134779077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3Q1EU)
 
 ### Related:
 

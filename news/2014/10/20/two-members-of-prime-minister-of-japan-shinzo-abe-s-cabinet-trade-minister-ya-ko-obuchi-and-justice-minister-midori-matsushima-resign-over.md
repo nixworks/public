@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via NZ Stuff](http://www.stuff.co.nz/world/asia/62549734/blow-to-abe-as-ministers-resign)
+1. [Cover Image](https://resources.stuff.co.nz/content/dam/images/1/1/8/1/l/r/image.related.StuffLandscapeSixteenByNine.620x349.118nom.png/1413783243289.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ed Miliband, the Labour leader, is to marry his long-term partner Justine Thornt
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/politics/ed-miliband/8415406/Ed-Miliband-to-marry-partner-Justine-Thornton-in-May.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01860/miliband-5_1860538a.jpg)
 
 ### Related:
 

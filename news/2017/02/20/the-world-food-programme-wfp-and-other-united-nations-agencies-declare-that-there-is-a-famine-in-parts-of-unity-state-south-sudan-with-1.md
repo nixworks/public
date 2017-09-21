@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/famine-declared-part-south-sudan-unity-state-170220081516802.html)
 2. [The Guardian](https://www.theguardian.com/global-development/2017/feb/20/famine-declared-in-south-sudan)
+2. [Cover Image](https://i.guim.co.uk/img/media/9f4384569cdbf3adf2da07ef0ef99a0453aaeab8/0_84_5253_3152/master/5253.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=786ec84c4dbb7c8119a70caacfc22e7a)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Israel suspends transfer of $89m to Palestinian Authority in view of recent unit
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115182147504313.html)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218623)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/1/20115183549613797_20.jpg)
 
 ### Related:
 

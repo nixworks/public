@@ -8,6 +8,7 @@ Rain and floods contaminate a major river and leave four million without water i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39099313)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10D48/production/_94863986_mediaitem94863985.jpg)
 
 ### Related:
 

@@ -19,6 +19,7 @@ Unrest in Yemen turns ugly as protesters clash with police and government loyali
 10. [The Guardian](http://www.guardian.co.uk/world/2011/feb/14/wikileaks-cables-egyptian-military-head)
 11. [Times of India](http://timesofindia.indiatimes.com/Algeria-lifts-emergency-rule-as-protests-rage/articleshow/7496089.cms)
 12. [Yemen Post](http://yemenpost.net/Detail123456789.aspx?ID=3&SubID=3137)
+12. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

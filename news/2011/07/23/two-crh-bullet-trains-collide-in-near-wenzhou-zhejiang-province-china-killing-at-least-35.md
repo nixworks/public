@@ -11,6 +11,7 @@ Near Wenzhou, China, a train halted by lightning was struck by another train, de
 2. [New York Times](http://www.nytimes.com/2011/07/24/world/asia/24train.html?_r=1)
 3. [VoA](http://www.voanews.com/english/news/asia/Lightning-Sparks-Chinese-Train-Crash-11-Dead-126061533.html)
 4. [Xinhuanet.com](http://news.xinhuanet.com/english2010/china/2011-07/24/c_131004925.htm)
+4. [Cover Image](https://static01.nyt.com/images/2011/07/24/world/asia/24train/24train-thumbStandard.jpg)
 
 ### Related:
 

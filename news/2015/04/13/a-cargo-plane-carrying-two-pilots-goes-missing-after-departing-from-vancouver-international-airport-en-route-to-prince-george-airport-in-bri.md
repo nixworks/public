@@ -8,6 +8,7 @@ Toxicology results have found one of the pilots on board a cargo plane that cras
 ### Source:
 
 1. [Global](http://globalnews.ca/news/1935907/cargo-plane-with-two-pilots-on-board-missing-after-departing-yvr/)
+1. [Cover Image](https://shawglobalnews.files.wordpress.com/2015/04/tsb-plane-crash.png?w=720&h=480&crop=1)
 
 ### Related:
 

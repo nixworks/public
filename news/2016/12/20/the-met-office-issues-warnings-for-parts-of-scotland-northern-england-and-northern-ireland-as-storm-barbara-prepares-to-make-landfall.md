@@ -8,6 +8,7 @@ Christmas travel plans look set to be thrown into chaos, with 90mph winds threat
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/12/20/storm-barbara-threatens-christmas-get-away-90-mph-winds/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/20/JS116497429-stormbarbaramagicseaweed-NEWS-xlarge_trans_NvBQzQNjv4Bq0XfbfBOE7ZY4pmfWMqvitgPZI6jNVB9Rg7B7SdIA7a8.jpg)
 
 ### Related:
 

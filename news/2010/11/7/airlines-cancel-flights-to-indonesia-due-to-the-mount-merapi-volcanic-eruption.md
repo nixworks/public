@@ -8,6 +8,7 @@ Qantas considers cancelling flights to Jakarta due to the risk posed by ash clou
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/11/07/3059256.htm?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/2315394-1x1-700x700.jpg)
 
 ### Related:
 

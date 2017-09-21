@@ -9,6 +9,7 @@ Rebels from the breakaway region of Abkhazia, backed by Russian forces, have sei
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/08/17/2337712.htm)
 2. [Press Trust of India](http://www.ptinews.com/pti%5Cptisite.nsf/0/61CFB1A087FC1F02652574A7004D72BB?OpenDocument)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

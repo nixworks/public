@@ -8,3 +8,4 @@ High tides and strong winds lead to flooding in Wales and south-west England as 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25584221)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72056000/jpg/_72056238_72056237.jpg)

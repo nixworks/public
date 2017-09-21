@@ -9,6 +9,7 @@ Turkey has urged Israel to sack Avigdor Lieberman, its controversial foreign min
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011113133557798883.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/8257796/Turkey-calls-on-Israel-to-sack-Avigdor-Lieberman.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01803/is_1803027a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A woman accused of attacking Leonardo DiCaprio with a broken bottle at a 2005 pa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10949410)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

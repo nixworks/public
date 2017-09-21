@@ -8,6 +8,7 @@ North Korea conducts a live-fire drill near the disputed maritime border but no 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27200485#)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/73916000/jpg/_73916740_021501503afp.jpg)
 
 ### Related:
 

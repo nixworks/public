@@ -11,6 +11,7 @@ South East Asian politicians reportedly give Burma &quot;an earful&quot; over it
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10693653)
 3. [Philippine Daily Inquirer](http://globalnation.inquirer.net/news/breakingnews/view/20100721-282286/Burma-gets-rare-ASEAN-straight-talk-on-free-polls)
 4. [The Age](http://news.theage.com.au/breaking-news-world/asean-urges-burma-to-hold-free-election-20100720-10j7u.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

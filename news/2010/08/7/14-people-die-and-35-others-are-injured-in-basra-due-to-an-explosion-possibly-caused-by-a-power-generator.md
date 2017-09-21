@@ -9,6 +9,7 @@ An explosion, said to have been caused by a power generator, kills 14 people and
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10904522)
 2. [France24](http://www.france24.com/en/20100807-iraq-killed-explosion-electricity-generator-basra)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

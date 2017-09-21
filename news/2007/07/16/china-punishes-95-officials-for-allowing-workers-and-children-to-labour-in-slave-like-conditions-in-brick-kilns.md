@@ -8,6 +8,7 @@ China has punished dozens of officials for allowing slave-like exploitation of w
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSPEK5313620070716?feedType=RSS)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

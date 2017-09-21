@@ -9,6 +9,7 @@
 
 1. [The New York Times](http://www.nytimes.com/2015/07/17/nytnow/online-campaign-questions-official-account-of-sandra-bland-death.html?action=click&contentCollection=U.S.&module=RelatedCoverage&region=Marginalia&pgtype=article)
 2. [WSWS](https://www.wsws.org/en/articles/2015/07/17/poli-j17.html)
+2. [Cover Image](http://www.wsws.org/img/open-graph-icon.png)
 
 ### Related:
 

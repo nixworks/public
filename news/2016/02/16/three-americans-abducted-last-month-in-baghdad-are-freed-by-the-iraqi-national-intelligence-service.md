@@ -8,6 +8,7 @@ BAGHDAD – The three Americans who were abducted in Baghdad last month have bee
 ### Source:
 
 1. [AP via ''Orange County Register](http://www.ocregister.com/articles/iraqi-704313-iraq-government.html)
+1. [Cover Image](http://www.ocregister.com/images/ocregister_facebooksharer.png)
 
 ### Related:
 

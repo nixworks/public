@@ -8,6 +8,7 @@ Comoros began counting ballots for its first round of presidential elections as 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-02-22/comoros-islands-begin-counting-ballots-after-presidential-vote)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

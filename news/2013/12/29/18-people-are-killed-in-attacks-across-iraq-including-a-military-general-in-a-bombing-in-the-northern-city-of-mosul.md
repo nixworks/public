@@ -8,6 +8,7 @@ At least 18 people were killed in attacks across Iraq on Sunday, including a mil
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/29/us-iraq-violence-idUSBRE9BS0BG20131229)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

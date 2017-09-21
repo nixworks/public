@@ -8,6 +8,7 @@ DAVID Cameron mounted a fresh offensive against proposals for a Tobin tax yester
 ### Source:
 
 1. [City AM](http://www.cityam.com/latest-news/pm-wages-war-over-tobin-tax)
+1. [Cover Image](http://www.cityam.com/assets/uploads/main-image/home_stream/2012/01/rsz-r-10-2-57ed3d4dc29b2-57ed3d4dc910f.jpg)
 
 ### Related:
 

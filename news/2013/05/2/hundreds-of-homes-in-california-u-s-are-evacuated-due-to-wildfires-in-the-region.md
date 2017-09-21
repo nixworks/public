@@ -8,6 +8,7 @@ A wind-driven brushfire raging northwest of Los Angeles prompted the evacuation 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/02/usa-fire-california-idUSL2N0DJ1NI20130502)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

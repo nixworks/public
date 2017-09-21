@@ -8,6 +8,7 @@ Independent MP Craig Thomson is facing 19 new charges after appearing in a Melbo
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2013-05-22/craig-thomson-new-fraud-charges/4705424)
+1. [Cover Image](http://www.abc.net.au/news/image/4705562-1x1-700x700.jpg)
 
 ### Related:
 

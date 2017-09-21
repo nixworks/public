@@ -8,6 +8,7 @@ Paul Simon and wife Edie Brickell are arrested and charged with disorderly condu
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-27194863)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74496000/jpg/_74496068_simon_getty.jpg)
 
 ### Related:
 

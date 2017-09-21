@@ -8,6 +8,7 @@ Eleven workers, including a woman, are trapped inside a tunnel at the constructi
 ### Source:
 
 1. [Thanh Nien](http://www.thanhniennews.com/society/12-workers-trapped-after-tunnel-collapse-in-vietnam-hydropower-project-35366.html)
+1. [Cover Image](http://static.thanhniennews.com/Uploaded/danghanh/2014_12_16/oxy_KPBK.jpg)
 
 ### Related:
 

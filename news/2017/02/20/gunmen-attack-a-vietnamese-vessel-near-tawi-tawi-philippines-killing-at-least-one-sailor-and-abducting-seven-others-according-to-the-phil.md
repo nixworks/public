@@ -8,6 +8,7 @@ Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-philippines-militants-idUSKBN15Z0J1)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

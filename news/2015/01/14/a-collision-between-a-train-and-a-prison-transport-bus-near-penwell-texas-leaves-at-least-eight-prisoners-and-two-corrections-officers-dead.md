@@ -8,3 +8,4 @@ At least 10 people have been killed after a bus carrying prisoners lost control 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-30821835)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80269000/jpg/_80269061_80269060.jpg)

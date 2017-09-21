@@ -8,6 +8,7 @@ At least 12 people were killed and 30 others injured when a bus plunged into a r
 ### Source:
 
 1. [Agencia EFE](http://www.efe.com/efe/english/world/bus-accident-kills-12-injures-30-in-bolivia/50000262-2917528)
+1. [Cover Image](http://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjMOD5ggX-P-2b4ksILtZpOB5RvaQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UDrJPi4kuXFOSDMpUTTfnfw-P-3d-P-3d)
 
 ### Related:
 

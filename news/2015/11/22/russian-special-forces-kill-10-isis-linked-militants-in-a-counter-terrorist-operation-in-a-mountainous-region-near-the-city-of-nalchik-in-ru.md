@@ -8,6 +8,7 @@ At least 14 militants who had sworn allegiance to Islamic State have been killed
 ### Source:
 
 1. [RT](https://www.rt.com/news/323025-militants-killed-isis-gang/)
+1. [Cover Image](https://img.rt.com/files/2015.11/article/5651806dc46188db0e8b45f1.jpg)
 
 ### Related:
 

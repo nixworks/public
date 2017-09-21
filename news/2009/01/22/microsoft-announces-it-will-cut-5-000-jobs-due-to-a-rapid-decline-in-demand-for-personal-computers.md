@@ -8,6 +8,7 @@ With sales of PCs falling, Microsoft said it would lay off 5 percent of its work
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/01/23/technology/companies/23soft.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/01/23/business/23soft01-75.jpg)
 
 ### Related:
 

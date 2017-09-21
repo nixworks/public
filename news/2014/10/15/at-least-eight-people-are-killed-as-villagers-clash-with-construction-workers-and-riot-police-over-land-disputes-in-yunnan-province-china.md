@@ -8,6 +8,7 @@ BEIJING - Eight people were killed when villagers clashed with construction work
 ### Source:
 
 1. [AFP via AsiaOne](http://news.asiaone.com/news/asia/8-killed-china-rural-land-dispute-government)
+1. [Cover Image](http://news.asiaone.com/sites/default/files/original_images/Oct2014/20141015_jinning_reuters.jpg)
 
 ### Related:
 

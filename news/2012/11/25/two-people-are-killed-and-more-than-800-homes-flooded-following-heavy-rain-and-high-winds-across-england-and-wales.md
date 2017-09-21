@@ -8,6 +8,7 @@ More than 800 homes are flooded, and two people are killed, after a band of heav
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20488645)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64372000/jpg/_64372298_ruishtongetty.jpg)
 
 ### Related:
 

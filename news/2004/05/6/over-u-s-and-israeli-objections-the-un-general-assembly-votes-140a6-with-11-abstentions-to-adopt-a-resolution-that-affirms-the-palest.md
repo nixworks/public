@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Haaretz](http://www.haaretz.com/hasen/spages/424173.html)
 3. [Philadelphia Inquirer](http://www.philly.com/mld/inquirer/news/nation/8598953.htm?1c)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5067152)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

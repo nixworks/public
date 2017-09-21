@@ -8,6 +8,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?category=National&slug=Radio+astronomers+meet+in+Pune&id=80802)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

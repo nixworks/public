@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-spain-politics-socialist-idUSKCN12N0IU)
 2. [The New York Times](http://www.nytimes.com/aponline/2016/10/23/world/europe/ap-eu-spain-politics.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161023&t=2&i=1158595705&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9M0CB)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/sports/3419261)
+1. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

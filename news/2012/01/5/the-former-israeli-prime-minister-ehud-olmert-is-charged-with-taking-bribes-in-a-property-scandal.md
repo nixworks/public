@@ -9,6 +9,7 @@ Former Israeli Prime Minister Ehud Olmert is charged with taking bribes in a Jer
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16425054)
 2. [Reuters](http://uk.reuters.com/article/2012/01/05/uk-israel-olmert-idUKTRE8040JF20120105?feedType=RSS&feedName=worldNews)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57706000/jpg/_57706064_013635556-1.jpg)
 
 ### Related:
 

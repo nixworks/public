@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/14/world/asia/hong-kong-court-pro-democracy-lawmakers.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/15/world/15hongkong-1/15hongkong-1-facebookJumbo.jpg)
 
 ### Related:
 

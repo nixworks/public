@@ -9,6 +9,7 @@ Judge Sonia Sotomayor won approval on Thursday to become the first Hispanic on t
 
 1. [CNN](http://www.cnn.com/2009/POLITICS/08/06/sonia.sotomayor/index.html?iref=newssearch)
 2. [Reuters](http://www.reuters.com/article/politicsNews/idUSTRE5755FS20090806)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090806&t=2&i=11149750&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-06T191900Z_01_BTRE5751HNX00_RTROPTP_0_USA-COURTS-SOTOMAYOR)
 
 ### Related:
 

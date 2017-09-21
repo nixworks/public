@@ -14,6 +14,7 @@
 5. [NYT](http://www.nytimes.com/aponline/international/AP-Iraq-Fallujah.html?hp)
 6. [Online NewsHour](http://www.pbs.org/newshour/bb/middle_east/jan-june04/turmoil_4-5.html)
 7. [UN](http://www.un.org/apps/news/story.asp?NewsID=10314&Cr=Iraq&Cr1=)
+7. [Cover Image](/News/dh/photos/large/30081-brahimi.jpg)
 
 ### Related:
 

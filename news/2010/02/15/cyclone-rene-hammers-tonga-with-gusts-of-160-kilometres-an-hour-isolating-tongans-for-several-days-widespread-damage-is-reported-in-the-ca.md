@@ -9,6 +9,7 @@
 
 1. [TVNZ](http://tvnz.co.nz/world-news/cyclone-rene-hammers-tonga-3364378)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10626257)
+2. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20108/fafa_300x200.jpg)
 
 ### Related:
 

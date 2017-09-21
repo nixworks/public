@@ -8,6 +8,7 @@ Gunmen killed 30 people in a village in central Nigeria on Monday, officials sai
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/06/us-nigeria-violence-idUSBREA0512X20140106)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

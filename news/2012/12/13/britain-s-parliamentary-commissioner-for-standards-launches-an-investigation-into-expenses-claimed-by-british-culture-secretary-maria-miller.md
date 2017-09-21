@@ -9,6 +9,7 @@ David Cameron says Culture Secretary Maria Miller has &quot;excellent answers&qu
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20711702)
 2. [The Guardian](http://www.guardian.co.uk/politics/2012/dec/13/maria-miller-parliamentary-investigation-expenses)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64741000/jpg/_64741510_64741509.jpg)
 
 ### Related:
 

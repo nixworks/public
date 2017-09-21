@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/jun/07/mediterranean-migrant-arrivals-italy-passes-50000)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/7/1433691411912/2ce20019-4065-4956-9aeb-14e3583964d0-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a0533c5e88dc40362551238bb162db02)
 
 ### Related:
 

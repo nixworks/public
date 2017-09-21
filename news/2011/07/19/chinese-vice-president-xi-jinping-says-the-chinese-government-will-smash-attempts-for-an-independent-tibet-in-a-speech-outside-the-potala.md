@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14205998)
 2. [Journal of Turkish Weekly](http://www.turkishweekly.net/news/119521/chinese-vp-pledges-accelerated-development-in-tibet.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54141000/jpg/_54141240_54141239.jpg)
 
 ### Related:
 

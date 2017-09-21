@@ -8,6 +8,7 @@ San Francisco&#39;s police chief has resigned at the request of the mayor hours 
 ### Source:
 
 1. [ABC News](http://abc7news.com/news/sf-mayor-announces-police-chiefs-resignation-after-fatal-police-shooting-/1345944/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/kgo/images/cms/1346765_1280x720.jpg)
 
 ### Related:
 

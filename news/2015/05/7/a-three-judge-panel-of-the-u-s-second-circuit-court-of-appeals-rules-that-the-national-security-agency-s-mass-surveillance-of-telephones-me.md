@@ -9,6 +9,7 @@ Bulk collection of millions of Americans’ phone records is ruled unlawful, as 
 
 1. [The Guardian](http://www.theguardian.com/us-news/2015/may/07/nsa-phone-records-program-illegal-court)
 2. [The New York Times](http://www.nytimes.com/2015/05/08/us/nsa-phone-records-collection-ruled-illegal-by-appeals-court.html?_r=0)
+2. [Cover Image](https://i.guim.co.uk/img/media/1431bd1aadebddba61b3fcfee648fc92bfc5441c/0_156_4848_2909/4848.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2f50c18cdc9e8cc2ca6b5a2739d638e4)
 
 ### Related:
 

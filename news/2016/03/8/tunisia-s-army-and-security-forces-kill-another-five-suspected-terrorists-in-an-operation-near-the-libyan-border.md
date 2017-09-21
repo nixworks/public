@@ -8,6 +8,7 @@ The swoop by the army and security forces came after 17 suspects were arrested e
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/five-terrorists-killed-security-operation-near-tunisia-libya-230124253.html;_ylt=AwrC0wzxXN9W3GsALVPQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/5TBnSRRH8W40nH80.oquug--/aD02Njk7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/fcc6feff811616ec76d08cb9639c04ea9d044b17.jpg)
 
 ### Related:
 

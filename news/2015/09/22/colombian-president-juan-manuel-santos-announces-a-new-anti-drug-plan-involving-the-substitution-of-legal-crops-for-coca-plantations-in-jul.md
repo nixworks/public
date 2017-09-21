@@ -10,6 +10,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/colombia-revamps-drug-policy-us-eradication-program-ends-33955811)
 2. [COHA](http://www.coha.org/a-new-challenge-for-the-santos-administration-colombias-end-to-the-aerial-coca-eradication-program/)
 3. [EFE via Fox News Latino](http://latino.foxnews.com/latino/news/2015/09/22/colombia-santos-announces-new-anti-drug-plan/)
+3. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

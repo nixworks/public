@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/13/us-thailand-violence-south-idUSBRE91C07V20130213)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130213&t=2&i=703572165&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91C0I7Z00)
 
 ### Related:
 

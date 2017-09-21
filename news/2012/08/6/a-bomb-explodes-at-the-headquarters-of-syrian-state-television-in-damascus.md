@@ -12,6 +12,7 @@ Syrian rebels said three Iraniancaptives were killed on Monday during an air att
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-19146380)
 4. [Now Lebanon](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=425424)
 5. [Reuters](http://in.reuters.com/article/2012/08/06/syria-crisis-iranians-idINL6E8J6BIV20120806)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -14,6 +14,7 @@ IDF soldiers clash with Hizbullah gunmen attempting to infiltrate area secured b
 5. [EUobserver](http://euobserver.com/9/22177)
 6. [Washington-Times](http://www.washtimes.com/national/20060728-123022-5852r.htm)
 7. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3282867,00.html)
+7. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

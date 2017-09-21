@@ -9,6 +9,7 @@
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-idlib-idUKKCN0X00WA)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-town-idUSKCN0X00BL)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Michel Houellebecq, France&#039;s best-known novelist, has finally won the count
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/8118255/Enfant-terrible-of-French-literature-finally-wins-countrys-top-literary-prize.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01756/Michel_1756716a.jpg)
 
 ### Related:
 

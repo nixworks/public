@@ -8,6 +8,7 @@ Rahm Emanuel defeated challenger Jesus ¿Chuy¿ Garcia on Tuesday to win a secon
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/politics/ct-chicago-mayoral-election-20150407-story.html#page=1)
+1. [Cover Image](http://www.trbimg.com/img-5524aa6a/turbine/ct-chicago-mayoral-election-20150407)
 
 ### Related:
 

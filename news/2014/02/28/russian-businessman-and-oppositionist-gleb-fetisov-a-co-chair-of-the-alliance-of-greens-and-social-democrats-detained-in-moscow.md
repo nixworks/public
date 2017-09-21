@@ -10,3 +10,4 @@
 1. [RAPSI](http://rapsinews.com/news/20140228/270832444.html)
 2. [RIA](http://en.ria.ru/russia/20140228/187966327/Russian-Green-Tycoon-Detained-Suspected-of-Bank-Fraud.html)
 3. [The Moscow Times](http://www.themoscowtimes.com/news/article/investigators-detain-billionaire-opposition-politician-gleb-fetisov/495400.html)
+3. [Cover Image](http://rapsinews.com/images/27083/24/270832419.jpg)

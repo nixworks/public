@@ -8,6 +8,7 @@ U.S. Consulate in Guadalajara says FBI is offering $20,000 reward for informatio
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/gunman-shoots-wounds-u-s-consular-official-in-mexico-guadalajara/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/01/07/81953928-9d0a-49f0-bf7d-f6be4b33ef5b/usconsulate.png)
 
 ### Related:
 

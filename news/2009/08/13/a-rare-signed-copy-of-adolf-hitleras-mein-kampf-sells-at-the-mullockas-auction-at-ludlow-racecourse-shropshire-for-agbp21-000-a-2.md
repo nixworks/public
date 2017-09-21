@@ -13,6 +13,7 @@ The collector who sold a rare signed copy of Hitler&rsquo;s Mein Kampf at auctio
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0814/breaking41.htm)
 5. [The New York Times](http://www.nytimes.com/2009/08/14/world/europe/14briefs-britainauction.html)
 6. [Toronto Star](http://www.thestar.com/news/world/article/681118)
+6. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

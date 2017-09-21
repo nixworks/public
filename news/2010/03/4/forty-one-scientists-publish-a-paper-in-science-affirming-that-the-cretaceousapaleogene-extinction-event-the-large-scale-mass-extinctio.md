@@ -9,6 +9,7 @@ A giant asteroid smashing into Earth is the only plausible explanation for the e
 
 1. [Science](http://www.reuters.com/article/idUSTRE6233YW20100304)
 2. [Science](http://www.sciencemag.org/cgi/content/abstract/327/5970/1214)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100304&t=2&i=70524304&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-04T211619Z_01_BTRE6231N3B00_RTROPTP_0_US-DINOSAURS-ASTEROID)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Senator John McCain sought to move from a convention marked by an effort to reas
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/05/us/politics/05repubs.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/09/05/us/05repubs1.75.jpg)
 
 ### Related:
 

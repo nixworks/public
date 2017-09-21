@@ -8,6 +8,7 @@ Sixty-four civilians were killed and eight were injured in 24 U.S.-led coalition
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/11/09/us-64-civilians-killed-in-iraq-syria-strikes-in-past-year.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/10/26/0/0/694940094001_5185828931001_Deadly-airstrike-outside-school-in-Syria.jpg?ve=1)
 
 ### Related:
 

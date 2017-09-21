@@ -8,6 +8,7 @@ A powerful car bomb has rocked central Baghdad, killing at least 25 bystanders, 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/27/1989595.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2515054-1x1-700x700.jpg)
 
 ### Related:
 

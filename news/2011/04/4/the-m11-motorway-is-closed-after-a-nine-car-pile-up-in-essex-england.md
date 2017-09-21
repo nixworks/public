@@ -8,6 +8,7 @@ The M11 in Essex is closed following a six-vehicle crash which leaves five peopl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-essex-12957616)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

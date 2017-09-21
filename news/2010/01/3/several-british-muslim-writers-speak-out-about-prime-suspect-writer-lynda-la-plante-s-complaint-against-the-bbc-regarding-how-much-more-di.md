@@ -9,6 +9,7 @@ Muslim writers have hit back at the crime doyenne Lynda La Plante after she clai
 
 1. [Scotland on Sunday](http://scotlandonsunday.scotsman.com/uk/La-Plante-says-BBC-favours.5952013.jp)
 2. [The Independent](http://www.independent.co.uk/news/media/tv-radio/muslim-writers-say-la-plante-attack-on-bbc-is-insulting-1856179.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/01/02/23/287394.bin)
 
 ### Related:
 

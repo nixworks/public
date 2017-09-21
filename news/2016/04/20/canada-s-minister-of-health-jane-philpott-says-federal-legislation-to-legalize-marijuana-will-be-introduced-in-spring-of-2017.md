@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/philpott-un-marijuana-legislation-legalize-1.3544554)
+1. [Cover Image](https://i.cbc.ca/1.3542932.1461084627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/4-20-parliament-hill.jpg)
 
 ### Related:
 

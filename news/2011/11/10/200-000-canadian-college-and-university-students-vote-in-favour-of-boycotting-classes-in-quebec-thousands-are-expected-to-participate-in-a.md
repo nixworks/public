@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Canadian Press via ''The Globe and Mail](http://www.theglobeandmail.com/news/national/up-to-200000-quebec-students-stage-massive-protest-over-tuition-hikes/article2232146/)
+1. [Cover Image](http://static.theglobeandmail.ca/2c7/incoming/article904370.ece/ALTERNATES/w620/que-students)
 
 ### Related:
 

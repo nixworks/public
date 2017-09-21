@@ -9,6 +9,7 @@ Former Massachusetts Gov. Mitt Romney says he&#x27;s looking forward to clinchin
 
 1. [AP via Yahoo! News](http://news.yahoo.com/texas-primary-big-day-romney-005746178.html)
 2. [Boston Globe](http://www.boston.com/politicalintelligence/2012/05/29/mitt-romney-secures-presidential-nomination-with-texas-win/UgY3OVonjlOUDIbBGwBh0L/story.html)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

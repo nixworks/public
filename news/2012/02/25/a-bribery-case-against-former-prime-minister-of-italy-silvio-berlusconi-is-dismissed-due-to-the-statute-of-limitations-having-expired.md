@@ -8,6 +8,7 @@ An Italian court has thrown out bribery charges against former prime minister Si
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/silvio-berlusconi/9105722/Silvio-Berlusconi-released-from-bribery-trial-after-court-rules-time-has-run-out.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02150/ber_2150407a.jpg)
 
 ### Related:
 

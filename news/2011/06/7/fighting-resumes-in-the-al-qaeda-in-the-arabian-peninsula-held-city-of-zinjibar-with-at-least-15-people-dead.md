@@ -10,6 +10,7 @@ Tribal fighters took control of a top Yemeni city on Tuesday, a setback for an e
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/07/yemen.unrest/index.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE74K22A20110607?pageNumber=2&virtualBrandChannel=0&sp=true)
 3. [Sky News](http://news.sky.com/skynews/Article/201009116006879)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/06/07/yemen.unrest/tzvids.saleh.2008.gi.afp.jpg)
 
 ### Related:
 

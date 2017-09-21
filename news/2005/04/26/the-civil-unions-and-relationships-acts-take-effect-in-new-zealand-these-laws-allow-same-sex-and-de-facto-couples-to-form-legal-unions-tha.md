@@ -8,6 +8,7 @@ The first couples have applied to have their relationships recognised by a civil
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/index.cfm?c_id=1&ObjectID=10122375)
+1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

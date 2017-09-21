@@ -9,6 +9,7 @@
 
 1. [Fox News](http://www.foxnews.com/world/2016/07/07/at-least-20-reported-killed-in-terror-attack-on-iraqi-shiite-holy-site.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-security-idUSKCN0ZN2LC)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160708&t=2&i=1144624159&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC670VT)
 
 ### Related:
 

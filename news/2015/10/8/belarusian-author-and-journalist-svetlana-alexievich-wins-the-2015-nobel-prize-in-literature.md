@@ -8,6 +8,7 @@ Belarusian writer and journalist who has pricked the conscience of Russia with h
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/books/live/2015/oct/08/nobel-prize-in-literature-follow-it-live)
+1. [Cover Image](https://i.guim.co.uk/img/media/d1a5061816683a9198aa6c69afae35978ebdaff4/0_192_3234_1941/master/3234.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=baa73195566377d8844c45c665dc7b8a)
 
 ### Related:
 

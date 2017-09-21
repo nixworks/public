@@ -8,6 +8,7 @@ The faction of Anonymous that launched the anti-Scientology movement Chanology a
 ### Source:
 
 1. [Daily Kos](http://www.dailykos.com/story/2011/1/2/932975/-Tunisia-under-attack-by-Anonymous;-press-release)
+1. [Cover Image](http://assets.dailykos.com/assets/fb_default-83551080ce5aec223661e373eaf232ea.png)
 
 ### Related:
 

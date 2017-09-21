@@ -9,6 +9,7 @@
 
 1. [9 News](http://www.9news.com/rss/article/355149/339/4-killed-80-unaccounted-for-in-Colorado-floods)
 2. [Fox News](http://www.foxnews.com/weather/2013/09/13/3-dead-in-colorado-floods/)
+2. [Cover Image](http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/0/0/091313_ANR_Colorado_640.jpg)
 
 ### Related:
 

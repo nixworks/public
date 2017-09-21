@@ -11,6 +11,7 @@ Five people were killed and 39 others were injured in a suicide bomb attack on M
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/03/istanbul-taksim-square-area-hit-explosion-160319091702737.html)
 3. [Hürriyet Daily News](http://www.hurriyetdailynews.com/breaking-explosion-in-istanbuls-taksim-injuries-reported.aspx?pageID=238&nID=96661&NewsCatID=341)
 4. [Sputnik International](http://sputniknews.com/europe/20160319/1036574734/turkey-istanbul-blast.html)
+4. [Cover Image](http://www.hurriyetdailynews.com/images/news/201603/n_96661_1.jpg)
 
 ### Related:
 

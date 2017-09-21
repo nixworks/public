@@ -8,6 +8,7 @@ Pro-government Sunni candidates including Islamists have won the most seats in p
 ### Source:
 
 1. [AFP via ''The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Nov-30/279402-pro-government-sunnis-dominate-bahrain-vote.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/11/30/369550_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

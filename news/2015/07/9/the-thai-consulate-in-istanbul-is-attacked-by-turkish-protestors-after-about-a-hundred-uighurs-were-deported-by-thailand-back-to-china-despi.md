@@ -8,6 +8,7 @@ Turkish police fire pepper spray at pro-Uighur demonstrators outside the Chinese
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-33457401)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/17640/production/_84180859_84180854.jpg)
 
 ### Related:
 

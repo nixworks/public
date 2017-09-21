@@ -8,6 +8,7 @@ Nine police and poll officials were killed in two attacks on Thursday, one in a 
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/04/24/uk-india-election-attacks-idINKBN0DA15O20140424)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

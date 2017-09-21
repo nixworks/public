@@ -8,6 +8,7 @@ The U.S. has certified with Congress that Iran is legally in compliance on the n
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/iran-legally-complying-nuclear-deal-defaulting-spirit-agreement/story?id=48693039)
+1. [Cover Image](http://a.abcnews.com/images/Politics/WireAP_102d1ebfb7344596ad1b8c5ad0170090_16x9_992.jpg)
 
 ### Related:
 

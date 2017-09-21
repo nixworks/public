@@ -11,6 +11,7 @@ The storms which battered France, leaving nearly 60 people dead, have been decla
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7346853/French-storms-declared-national-disaster-by-Nicolas-Sarkozy.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/mar/01/france-president-sarkozy-storm-aid)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/european-storms-kill-at-least-60-people-20100302-pduk.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01588/france1_1588219a.jpg)
 
 ### Related:
 

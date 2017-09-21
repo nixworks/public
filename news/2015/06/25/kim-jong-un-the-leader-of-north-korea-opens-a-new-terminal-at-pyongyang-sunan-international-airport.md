@@ -8,6 +8,7 @@ Pictures of North Korean leader Kim Jong-un and his wife inspecting a new airpor
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33266278)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/D268/production/_83846835_hi027872208.jpg)
 
 ### Related:
 

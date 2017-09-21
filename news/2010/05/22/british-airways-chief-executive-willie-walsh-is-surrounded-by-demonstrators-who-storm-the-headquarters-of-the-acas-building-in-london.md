@@ -11,6 +11,7 @@ British Airways chief executive Willie Walsh had to be escorted to safety from a
 2. [Hindustan Times](http://www.hindustantimes.com/British-Airways-talks-disrupted-as-protesters-storm-building/Article1-547336.aspx)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/travel/travelnews/7752577/BA-boss-Willie-Walsh-surrounded-as-demonstrators-storm-union-talks.html)
 4. [The Guardian](http://www.guardian.co.uk/business/2010/may/23/woodley-ba-strike-cost)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01641/Unite-Demo_1641920a.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A labour activist and Chinese dissident jailed after the 1989 crackdown on pro-d
 ### Source:
 
 1. [Reuters UK](http://uk.reuters.com/article/2012/06/06/uk-china-dissident-idUKBRE85512E20120606)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

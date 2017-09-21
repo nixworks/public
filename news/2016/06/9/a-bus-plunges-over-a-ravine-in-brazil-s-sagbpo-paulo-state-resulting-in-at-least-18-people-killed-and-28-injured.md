@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Globo.com](http://g1.globo.com/sp/santos-regiao/noticia/2016/06/sobe-o-numero-de-mortos-em-grave-acidente-na-rodovia-mogi-bertioga.html)
+1. [Cover Image](http://s2.glbimg.com/cfm_920G0MKGWCfI7Wu3aI3CR9Y=/1200x630/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/05/34/5083405)
 
 ### Related:
 

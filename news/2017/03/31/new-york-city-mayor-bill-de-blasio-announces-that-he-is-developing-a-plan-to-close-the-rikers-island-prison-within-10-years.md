@@ -8,6 +8,7 @@ New York Mayor Bill de Blasio says he wants to close the troubled Rikers Island 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39461242)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1714D/production/_95414549_f5ae86d4-282b-4368-8920-bde8414a74f4.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Rachid Ghannouchi, leader of the previously banned al-Nahda party, returns home 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011130111220856971.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12318824)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/30/2011130113626621621_20.jpg)
 
 ### Related:
 

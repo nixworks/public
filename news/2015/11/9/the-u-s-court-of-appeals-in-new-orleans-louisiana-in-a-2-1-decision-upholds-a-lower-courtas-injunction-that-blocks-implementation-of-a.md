@@ -9,6 +9,7 @@ The 2-to-1 ruling from the New Orleans court sets stage for possible Supreme Cou
 
 1. [Reuters](http://www.reuters.com/article/2015/11/10/us-usa-immigration-court-idUSKCN0SZ04W20151110#6wYU5hy4bfwThTzE.97)
 2. [The Washington Post](https://www.washingtonpost.com/politics/appeals-court-rules-against-obamas-immigration-plan/2015/11/09/c73f38b0-874c-11e5-be39-0034bb576eee_story.html)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151110&t=2&i=1093653593&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA901O)
 
 ### Related:
 

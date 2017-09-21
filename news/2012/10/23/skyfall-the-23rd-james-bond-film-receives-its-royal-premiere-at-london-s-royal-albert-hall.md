@@ -8,6 +8,7 @@ James Bond star Daniel Craig declares the royal world premiere of new 007 film S
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20044627)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63670000/jpg/_63670351_danielnaomie_afp.jpg)
 
 ### Related:
 

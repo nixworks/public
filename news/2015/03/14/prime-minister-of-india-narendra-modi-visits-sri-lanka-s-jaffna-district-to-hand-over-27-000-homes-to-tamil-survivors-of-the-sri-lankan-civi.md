@@ -8,6 +8,7 @@ Narendra Modi to hand over at least 27,000 new homes as part of efforts to promo
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/03/india-modi-visits-sri-lanka-war-torn-jaffna-150314060359843.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/3/14/578fe72fd49c42fb8a914547c1f87fcf_18.jpg)
 
 ### Related:
 

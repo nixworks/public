@@ -8,6 +8,7 @@ DIBRUGARH/GUWAHATI: In one of the biggest attacks on security forces in Assam in
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/guwahati/Army-convoy-ambushed-in-Assam-3-soldiers-killed/articleshow/55519836.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/55519838.cms)
 
 ### Related:
 

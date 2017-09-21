@@ -9,6 +9,7 @@ Japanese court sentences US musician to minimum of five years in prison for kill
 
 1. [Irish Independent](http://www.independent.ie/irish-news/courts/nicola-furlong-family-angered-at-japanese-justice-system-29139909.html)
 2. [The Irish Times](http://www.irishtimes.com/news/crime-and-law/hinds-guilty-of-murdering-irish-student-nicola-furlong-1.1330865)
+2. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1330916&origw=960)
 
 ### Related:
 

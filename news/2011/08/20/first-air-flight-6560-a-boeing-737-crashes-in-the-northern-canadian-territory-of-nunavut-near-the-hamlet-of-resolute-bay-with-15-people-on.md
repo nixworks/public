@@ -8,6 +8,7 @@ RCMP says 737 went down with 15 people on board
 ### Source:
 
 1. [Globe and Mail](http://www.theglobeandmail.com/news/national/nunavut-town-reeling-after-plane-crash-kills-12/article2136238/)
+1. [Cover Image](http://static.theglobeandmail.ca/158/incoming/article875063.ece/ALTERNATES/w620/DO+NOT+USE+Nunavut+First+Air+plane.JPG)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police say security forces arrested Palestinian woman who approached checkpoint 
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/.premium-1.663489)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.663505.1435571753!/image/3700738246.jpg_gen/derivatives/headline_1200x630/3700738246.jpg)
 
 ### Related:
 

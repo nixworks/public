@@ -8,6 +8,7 @@ Fighting rages in Libya between Islamic State fighters and a militia alliance fr
 ### Source:
 
 1. [BBC](http://m.bbc.com/news/world-africa-31892764)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80038000/png/_80038020_libyasirtetripolibenghaziegyptcairo464030115.png)
 
 ### Related:
 

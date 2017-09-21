@@ -10,6 +10,7 @@ Violent demonstrations in the North Carolina city of Charlotte leave 12 police o
 1. [BBC](http://www.bbc.com/news/world-us-canada-37427164)
 2. [CNN](http://www.cnn.com/2016/09/21/us/charlotte-police-shooting/index.html)
 3. [Fox News](http://www.foxnews.com/us/2016/09/21/one-person-critically-injured-during-protest-charlotte-police-shooting.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0BCE/production/_91322030_e3a3c72f-fe5d-4b67-bb75-a8e4ec26ad79.jpg)
 
 ### Related:
 

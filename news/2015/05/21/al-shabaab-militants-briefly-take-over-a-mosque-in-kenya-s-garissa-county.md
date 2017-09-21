@@ -8,6 +8,7 @@ Islamist militants al-Shabab briefly take over a mosque in northern Kenya, preac
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-32826758?ocid=socialflow_twitter)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83136000/jpg/_83136257_al-shabab_afp624.jpg)
 
 ### Related:
 

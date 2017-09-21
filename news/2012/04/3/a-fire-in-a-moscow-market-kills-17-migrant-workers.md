@@ -10,6 +10,7 @@ A fire that broke out in one of Moscow’s markets in the south of the capital h
 1. [CNN](http://edition.cnn.com/2012/04/03/world/europe/russia-fire/index.html?hpt=hp_t2)
 2. [RIA Novosti](http://en.ria.ru/russia/20120403/172573861.html)
 3. [RT](http://rt.com/news/fire-market-kills-migrant-workers-103/)
+3. [Cover Image](https://img.rt.com/files/oldfiles/news/fire-market-kills-migrant-workers-103/fire-twelve-building-officers.si.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The European Union banned investment in Crimea on Thursday, halting European hel
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/18/us-ukraine-crisis-eu-idUSKBN0JW18020141218)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141218&t=2&i=1000832763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABH0MJ)
 
 ### Related:
 

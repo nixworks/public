@@ -8,6 +8,7 @@ More than 500 people have been evacuated from the slopes of Mount Karangetang, w
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/12/2002833.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

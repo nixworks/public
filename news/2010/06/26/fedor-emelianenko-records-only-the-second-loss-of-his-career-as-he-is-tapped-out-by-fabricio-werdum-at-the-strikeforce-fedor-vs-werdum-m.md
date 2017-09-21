@@ -8,6 +8,7 @@ SAN JOSE, Calif. -- Fabricio Werdum turned the MMA world on its ear with his stu
 ### Source:
 
 1. [Sherdog](http://www.sherdog.com/news/news/Fedor-Loses-Werdum-Shocks-the-World-25338)
+1. [Cover Image](http://www.cdn.sherdog.com/thumbnail_crop/600/_images/pictures/20100626090839_IMG_1749.JPG)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100919/wl_afp/vaticanpopebritain)
 2. [BBC](http://www.bbc.co.uk/news/uk-11360529)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

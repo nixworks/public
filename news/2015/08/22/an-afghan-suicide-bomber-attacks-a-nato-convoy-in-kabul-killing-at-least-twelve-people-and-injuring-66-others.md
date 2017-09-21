@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/afghanistan-explosion-kabul-us-embassy/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/08/22/54559e1b-d336-4453-a5e9-8ce9dea39166/afghanistan-explosion-2015-08-22t141846z.jpg)
 
 ### Related:
 

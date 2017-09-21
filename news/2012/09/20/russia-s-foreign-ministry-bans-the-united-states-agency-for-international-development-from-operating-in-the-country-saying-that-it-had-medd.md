@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-russia-usaid-20120920,0,3803504.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

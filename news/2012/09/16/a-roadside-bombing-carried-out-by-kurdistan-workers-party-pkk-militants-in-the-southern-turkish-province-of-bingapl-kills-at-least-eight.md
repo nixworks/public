@@ -8,6 +8,7 @@ A roadside bomb has killed eight Turkish police officers in southern Turkey in a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19615995)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62922000/jpg/_62922880_i5bbqit9.jpg)
 
 ### Related:
 

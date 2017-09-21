@@ -8,6 +8,7 @@ Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesd
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/12/02/us-yemen-security-government-idUSKBN0TK4T520151202#esf0tKTQ5p2ojufk.97)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151201&t=2&i=1099015328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB029J)
 
 ### Related:
 

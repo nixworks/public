@@ -16,6 +16,7 @@ Thousands of protesters surge through an eastern Uzbekistani city, enraged by th
 7. [The Guardian](http://www.guardian.co.uk/international/story/0,3604,1483938,00.html)
 8. [Yahoo!](http://news.yahoo.com/news?tmpl=story&u=/ap/20050513/ap_on_re_eu/uzbekistan_revolt)
 9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3084846,00.html)
+9. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

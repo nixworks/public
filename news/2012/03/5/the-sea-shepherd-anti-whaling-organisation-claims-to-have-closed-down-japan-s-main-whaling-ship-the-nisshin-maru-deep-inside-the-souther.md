@@ -8,6 +8,7 @@ After a marathon pursuit, Sea Shepherd says it has found and shut down Japan&#03
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/environment/whale-watch/sea-shepherd-finds-key-whaling-ship-20120306-1uf1j.html?rand=9687883)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/u/f/2/2/image.related.articleLeadwide.620x349.1uf1j.png/1330995305380.jpg)
 
 ### Related:
 

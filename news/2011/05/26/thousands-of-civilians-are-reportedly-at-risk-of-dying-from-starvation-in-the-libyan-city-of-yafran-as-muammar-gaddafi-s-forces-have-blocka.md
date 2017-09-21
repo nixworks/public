@@ -9,6 +9,7 @@ Attacks come as UK gives clearance for the use of its attack Apache helicopters 
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011526234319321121.html)
 2. [Dailymail](http://www.dailymail.co.uk/news/article-1391197/Time-running-starving-Libyan-town-Yefren-Gaddafi-offers-ceasefire.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/27/201152701022222734_20.jpg)
 
 ### Related:
 

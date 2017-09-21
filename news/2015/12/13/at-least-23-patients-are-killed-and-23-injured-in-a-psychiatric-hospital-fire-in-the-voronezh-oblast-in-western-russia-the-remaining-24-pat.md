@@ -9,6 +9,7 @@ A fire at a psychiatric hospital in southern Russia kills 23 patients, most of t
 
 1. [ABC News America](http://www.abc.net.au/news/2015-12-13/21-killed-in-fire-at-russian-psychiatric-hospital/7024632)
 2. [AP via ''The Charlotte Observer](http://www.charlotteobserver.com/news/article49531850.html)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

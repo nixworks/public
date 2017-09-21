@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/04/29/us-gazprom-results-idUKKBN0NK1XP20150429)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150429&t=2&i=1044385790&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3S0S8)
 
 ### Related:
 

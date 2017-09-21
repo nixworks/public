@@ -10,6 +10,7 @@ Tamara Fields, whose husband Lloyd died in 9 November 2015 attack, accused Twitt
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/business/technology/article/Father-of-Paris-attacks-victim-sues-social-media-8208997.php)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-3643640/Father-Paris-attack-victim-23-sues-Google-Facebook-Twitter-claiming-let-terrorism-spread.html)
 3. [The Guardian](https://www.theguardian.com/technology/2016/jan/14/widow-american-killed-jordan-attack-sues-twitter-isis)
+3. [Cover Image](https://i.guim.co.uk/img/media/459e6db42f279222852d7d6ae03579e562667cb5/0_207_3500_2097/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=95c773e78e00fd367905dd835ece3762)
 
 ### Related:
 

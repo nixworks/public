@@ -8,6 +8,7 @@ A British Airways computer expert is jailed for 30 years for plotting to blow up
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12788224)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606887_bn-304x171.jpg)
 
 ### Related:
 

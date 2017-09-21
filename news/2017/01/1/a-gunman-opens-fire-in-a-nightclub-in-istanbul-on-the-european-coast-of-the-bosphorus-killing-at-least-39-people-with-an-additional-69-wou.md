@@ -10,6 +10,7 @@ A gunman is on the run after at least 39 people were killed in an attack on an I
 1. [AP via ABC News Australia](http://www.abc.net.au/news/2017-01-01/at-least-35-dead-in-attack-on-istanbul-nightclub%3A-governor/8156276)
 2. [BBC](http://www.bbc.com/news/world-europe-38481521#)
 3. [Fox News](http://www.foxnews.com/world/2016/12/31/39-killed-nearly-70-wounded-in-new-years-attack-on-istanbul-night-club.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5C11/production/_93196532_policeafp.jpg)
 
 ### Related:
 

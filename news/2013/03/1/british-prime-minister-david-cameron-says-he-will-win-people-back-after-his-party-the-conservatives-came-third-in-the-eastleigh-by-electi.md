@@ -8,6 +8,7 @@ David Cameron insists the Conservatives can &quot;win people back&quot;, amid cr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-21630472)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66151000/jpg/_66151125_66151123.jpg)
 
 ### Related:
 

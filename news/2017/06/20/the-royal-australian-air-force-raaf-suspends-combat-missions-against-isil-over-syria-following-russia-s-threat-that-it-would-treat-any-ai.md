@@ -9,6 +9,7 @@ Move follows Moscow’s warning coalition planes west of Euphrates will be a pot
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-40344534)
 2. [The Guardian](https://www.theguardian.com/australia-news/2017/jun/20/raaf-suspends-air-operations-over-syria-after-russian-threat-to-coalition-forces)
+2. [Cover Image](https://i.guim.co.uk/img/media/bc63cd3406c52c8b8cfb4fed06f418d9bb75a785/0_0_3600_2161/master/3600.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=645cb9de11cca92c01e880c14dc31ce3)
 
 ### Related:
 

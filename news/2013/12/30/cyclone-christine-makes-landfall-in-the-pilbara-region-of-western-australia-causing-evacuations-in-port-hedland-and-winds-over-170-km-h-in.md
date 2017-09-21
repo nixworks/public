@@ -8,6 +8,7 @@ Port Hedland and Karratha residents are in lockdown as Cyclone Christine tracks 
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2013-12-30/tropical-cyclone-christine-upgraded-to-category-three/5177922)
+1. [Cover Image](http://www.abc.net.au/news/image/5178822-1x1-700x700.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Islamic State group used poison gas in attacks against Kurdish-controlled ar
 1. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/07/18/Saudi-arrests-431-ISIS-linked-suspects-.html)
 2. [Reuters via Trust](http://www.trust.org/item/20150718235311-4p5x5/?source=hpMostPopularTheWire)
 3. [Reuters](http://www.reuters.com/article/2015/07/18/us-mideast-crisis-syria-gas-idUSKCN0PR2EX20150718)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

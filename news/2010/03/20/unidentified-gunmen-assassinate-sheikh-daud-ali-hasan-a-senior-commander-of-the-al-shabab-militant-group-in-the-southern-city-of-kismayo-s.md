@@ -9,6 +9,7 @@ A senior official of Somali insurgent group al Shabaab was shot dead on Friday i
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=120488)
 2. [Reuters](http://www.reuters.com/article/idUSTRE62J0MJ20100320)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

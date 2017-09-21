@@ -8,6 +8,7 @@ Outspoken critics of the government arrested after a day of violent clashes in T
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/2009122810330889443.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

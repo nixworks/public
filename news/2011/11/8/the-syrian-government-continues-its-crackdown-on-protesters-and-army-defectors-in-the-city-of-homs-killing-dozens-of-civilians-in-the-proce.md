@@ -9,6 +9,7 @@ The UN says at least 3,500 people have been killed in anti-government protests i
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/11/2011117112020901783.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-15635867)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56561000/jpg/_56561156_013278784-1.jpg)
 
 ### Related:
 

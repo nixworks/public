@@ -9,6 +9,7 @@ Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return ch
 
 1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2017/07/24/philippiness-duterte-keeps-lashing-out-at-the-united-states-over-its-atrocities-a-century-ago/)
 2. [United Press International](https://www.upi.com/Top_News/World-News/2017/07/24/Duterte-to-US-Return-Balangiga-bells-seized-in-1901/5301500915328/)
+2. [Cover Image](https://cdnph.upi.com/sv/ph/og/upi_com/5301500915328/2017/1/af1e7e47c4c72f5cdbf9bc3d25598ead/v1.5/Duterte-to-US-Return-Balangiga-bells-seized-in-1901.jpg)
 
 ### Related:
 

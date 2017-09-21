@@ -8,6 +8,7 @@ Davao City -- About 40 houses were burned to the ground after a fire broke out i
 ### Source:
 
 1. [ABS via CBN News](http://www.abs-cbnnews.com/nation/regions/03/29/13/fire-razes-40-houses-samal)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/dec29_fire.jpg)
 
 ### Related:
 

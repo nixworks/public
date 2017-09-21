@@ -9,6 +9,7 @@ Indonesia admits that the men seen torturing Papuan villagers in a video uploade
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101022112633211536.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11604361)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

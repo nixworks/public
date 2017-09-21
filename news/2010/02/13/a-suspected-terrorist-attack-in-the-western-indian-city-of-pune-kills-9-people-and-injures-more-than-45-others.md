@@ -11,6 +11,7 @@
 2. [The Hindu](http://beta.thehindu.com/incoming/article106274.ece)
 3. [The Times of India](http://timesofindia.indiatimes.com/city/pune/8-confirmed-dead-33-injured-in-blast-at-Pune-bakery/articleshow/5569873.cms)
 4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7026186.ece)
+4. [Cover Image](http://timesofindia.indiatimes.com/photo/5569859.cms)
 
 ### Related:
 

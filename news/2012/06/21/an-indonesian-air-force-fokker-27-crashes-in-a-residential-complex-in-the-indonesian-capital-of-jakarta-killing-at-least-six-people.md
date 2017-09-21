@@ -8,6 +8,7 @@ At least 10 people are killed after an Indonesian air force plane crashes into a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18530580)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61046000/jpg/_61046484_61046481.jpg)
 
 ### Related:
 

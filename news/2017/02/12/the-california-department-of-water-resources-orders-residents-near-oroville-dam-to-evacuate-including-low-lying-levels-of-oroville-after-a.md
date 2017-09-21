@@ -8,6 +8,7 @@ Officials in northern California ordered residents near the Oroville Dam to evac
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/02/12/officials-order-evacuations-areas-near-damaged-california-dam.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2017/02/12/officials-order-evacuations-areas-near-damaged-california-dam/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1486949529903.jpg?ve=1)
 
 ### Related:
 

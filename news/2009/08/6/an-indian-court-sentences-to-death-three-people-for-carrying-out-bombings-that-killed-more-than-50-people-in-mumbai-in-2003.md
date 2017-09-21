@@ -10,6 +10,7 @@ Court sentences three people to death for their role in bombings that killed at 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/08/200986125059910637.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8186871.stm)
 3. [The New York Times](http://www.nytimes.com/2009/08/07/world/asia/07mumbai.html?_r=1&partner=MOREOVERNEWS&ei=5040)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

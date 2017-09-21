@@ -9,6 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/dec-16-target-sign-libya-unity-government-agreement-35723192)
 2. [Reuters](http://in.reuters.com/article/libya-security-idINKBN0TU22C20151211)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151211&t=2&i=1101683560&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBA1HH)
 
 ### Related:
 

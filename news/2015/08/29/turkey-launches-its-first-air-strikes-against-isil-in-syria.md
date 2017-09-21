@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Sabah](http://www.dailysabah.com/politics/2015/08/29/turkey-launches-first-air-attack-on-isis-targets-in-syria-as-part-of-us-led-coalition)
+1. [Cover Image](https://idsb.tmgrup.com.tr/2015/08/29/645x344/1440944542292.jpg)
 
 ### Related:
 

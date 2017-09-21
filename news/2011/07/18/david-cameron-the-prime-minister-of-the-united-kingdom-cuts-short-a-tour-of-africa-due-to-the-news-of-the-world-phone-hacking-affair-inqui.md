@@ -14,6 +14,7 @@ One of Scotland Yard&rsquo;s most senior detectives, John Yates, is set to be in
 5. [The Guardian](http://www.guardian.co.uk/politics/2011/jul/18/david-cameron-africa-phone-hacking)
 6. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/8644774/Phone-Hacking-John-Yates-facing-questions-over-Neil-Wallis-links.html)
 7. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/8646558/Phone-Hacking-The-Suns-website-hacked-by-LulzSec-with-fake-story-about-Rupert-Murdochs-death.html)
+7. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01949/yatesmolden_1949000a.jpg)
 
 ### Related:
 

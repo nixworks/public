@@ -8,6 +8,7 @@ Gunmen in military uniform seized 18 Turkish workers on Wednesday from a sports 
 ### Source:
 
 1. [Reuters via ''Economic Times](http://economictimes.indiatimes.com/news/defence/iraqi-army-raids-militia-headquarters-suspecting-link-to-turkish-abductees/articleshow/48809604.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-48809623,width-672,resizemode-4,imglength-76969/news/defence/iraqi-army-raids-militia-headquarters-suspecting-link-to-turkish-abductees.jpg)
 
 ### Related:
 

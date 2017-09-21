@@ -9,6 +9,7 @@ People across the world prepare for what they believe will be a Mayan apocalypse
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/12/2012122165411542664.html)
 2. [The Guardian](http://www.guardian.co.uk/science/2012/dec/21/end-world-live-blog)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/21/2012122182619485734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Air Force X-37B space plane glided to an autonomous landing at the Kennedy Space
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/air-force-space-plane-lands-after-secret-mission/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/05/07/45e08291-c9eb-4ba2-bfad-4552e3879b96/050717-x37-1.jpg)
 
 ### Related:
 

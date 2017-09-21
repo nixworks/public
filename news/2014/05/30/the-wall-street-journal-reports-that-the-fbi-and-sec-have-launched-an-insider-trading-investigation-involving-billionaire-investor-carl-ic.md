@@ -8,6 +8,7 @@ Five-time major winner Phil Mickelson is one of three men being investigated in 
 ### Source:
 
 1. [ESPN](http://espn.go.com/golf/story/_/id/11009800/phil-mickelson-three-men-eyed-insider-trading-probe-fbi-sec)
+1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0530%2Fpga_g_mickelson01jr_1296x729.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Bord Pleanála has given EirGrid permission to build a new electricity interc
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0915/electricity1.html)
+1. [Cover Image](https://img.rasset.ie/00026308-1600.jpg)
 
 ### Related:
 

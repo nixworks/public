@@ -8,6 +8,7 @@ US secretary of state highlights cooperation with Turkey, but his Turkish counte
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/in-shift-tillerson-says-assads-status-up-to-syrian-people/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2017/03/000_N45BJ.jpg)
 
 ### Related:
 

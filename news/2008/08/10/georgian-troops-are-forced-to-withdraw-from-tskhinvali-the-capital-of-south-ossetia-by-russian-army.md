@@ -21,6 +21,7 @@
 12. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4497878.ece)
 13. [US Department of State](http://www.state.gov/r/pa/ei/pix/b/eur/18737.htm)
 14. [US Embassy in Georgia](http://www.georgia.usembassy.gov/gtep.html)
+14. [Cover Image](//image.newsru.com/pict/id/1087013_20080810223838.gif)
 
 ### Related:
 

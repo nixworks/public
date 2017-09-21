@@ -8,6 +8,7 @@ A spokesperson for MSF says their staff in northern Yemen received the bodies of
 ### Source:
 
 1. [Reuters via ABC News](http://www.abc.net.au/news/2016-08-14/yemen-air-strike-ten-children-reported-dead-parliament-convenes/7732242)
+1. [Cover Image](http://www.abc.net.au/news/image/7732540-1x1-700x700.jpg)
 
 ### Related:
 

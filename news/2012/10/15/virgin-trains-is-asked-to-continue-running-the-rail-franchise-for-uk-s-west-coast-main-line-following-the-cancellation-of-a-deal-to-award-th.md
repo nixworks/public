@@ -8,6 +8,7 @@ Virgin Trains will be asked to continue to run services on the West Coast Mainli
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19944782)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63374000/jpg/_63374065_tcwr8zj4.jpg)
 
 ### Related:
 

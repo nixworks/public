@@ -9,6 +9,7 @@ Collection of colour photographs reveal the private life of Adolf Hitler.
 
 1. [Daily News](http://www.nydailynews.com/news/us_world/2009/06/04/2009-06-04_neverbefore_seen_photos_of_adolf_hitler_taken_by_personal_photographer_revealed.html)
 2. [Telegraph](http://www.telegraph.co.uk/news/picturegalleries/worldnews/5452458/Unseen-photographs-reveal-the-private-life-of-Adolf-Hitler.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01417/Hitler-Nuremburg-c_1417780i.jpg)
 
 ### Related:
 

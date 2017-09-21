@@ -9,6 +9,7 @@ Emergency warnings have been issued for 10 areas throughout the state as bushfir
 
 1. [Melbourne Age](http://www.theage.com.au/victoria/bushfire-destroys-homes-20140209-329nq.html)
 2. [Sydney Morning Herald](http://www.smh.com.au/environment/weather/emergency-warnings-issued-as-victorian-bushfires-escalate-20140209-329kk.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/3/2/9/n/r/image.related.thumbnail.320x214.329kk.png/1391979504687.jpg)
 
 ### Related:
 

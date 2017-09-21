@@ -11,6 +11,7 @@ No haredim slated to be drafted as defense minister orders IDF to create a plan 
 2. [Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=279554)
 3. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2012/08/israel-to-drop-military-exemption-for-ultra-orthodox-jews/1#.UBmObS41lgE)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4262758,00.html)
+4. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=198596)
 
 ### Related:
 

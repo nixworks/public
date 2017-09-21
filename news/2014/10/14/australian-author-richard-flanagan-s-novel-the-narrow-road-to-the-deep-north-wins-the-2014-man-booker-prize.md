@@ -8,3 +8,4 @@ Australian author Richard Flanagan wins the £50,000 Man Booker Prize for his wa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-29617292)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78230000/jpg/_78230499_flanaganepa.jpg)

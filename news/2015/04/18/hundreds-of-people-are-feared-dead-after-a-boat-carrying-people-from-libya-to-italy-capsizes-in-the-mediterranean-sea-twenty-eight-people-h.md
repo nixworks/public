@@ -8,6 +8,7 @@ Updated Monday morning with survivor&#039;s comments Prime Minister Joseph Musca
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20150419/local/new-migrants-emergency-28-rescued-many-corpses-found-as-boat-with-700.564511)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/61d80c7bca03b0de6dd3b607ecc2d37da71a9212-1429468383-5533f4df-620x348.jpg)
 
 ### Related:
 

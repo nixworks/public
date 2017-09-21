@@ -8,6 +8,7 @@ VATICAN CITY – Pope Francis met Monday with Prime Minister Benjamin Netanyahu 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/12/02/pope-francis-netanyahu/3802667/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

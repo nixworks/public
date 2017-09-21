@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57556045/report-egypts-morsi-to-address-people-thursday/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/11/28/2b1dc2cd-a645-11e2-a3f0-029118418759/egypt-157074181.jpg)
 
 ### Related:
 

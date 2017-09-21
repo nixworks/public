@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0215/baconf.html)
+1. [Cover Image](https://img.rasset.ie/00058f2b-1600.jpg)
 
 ### Related:
 

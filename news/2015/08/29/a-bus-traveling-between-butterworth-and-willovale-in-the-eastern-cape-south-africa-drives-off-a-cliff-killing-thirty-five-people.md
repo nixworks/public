@@ -8,6 +8,7 @@ Only nine of the 44 people inside a bus that drove off a cliff on the R408, betw
 ### Source:
 
 1. [News 24](http://www.news24.com/news24/SouthAfrica/News/Death-toll-rises-in-horror-bus-crash-20150829)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2122/15b87cf87ea642a3b2ce589acf3bb107.jpg)
 
 ### Related:
 

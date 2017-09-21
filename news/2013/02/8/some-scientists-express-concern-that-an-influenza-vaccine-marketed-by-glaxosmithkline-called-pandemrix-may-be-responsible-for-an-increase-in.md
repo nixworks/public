@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/08/us-narcolepsy-vaccine-adjuvant-idUSBRE91708V20130208)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130208&t=2&i=702044049&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9170RFA00)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/1226/poet-dennis-odriscoll.html)
+1. [Cover Image](https://img.rasset.ie/0006d0a4-1600.jpg)
 
 ### Related:
 

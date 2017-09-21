@@ -8,6 +8,7 @@ Two suicide car bombs claimed by Islamic State killed at least 32 people and wou
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKCN0XS0ZN)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

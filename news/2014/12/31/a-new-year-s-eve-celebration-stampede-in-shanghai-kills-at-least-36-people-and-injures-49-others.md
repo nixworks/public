@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-30646918)
 2. [China Daily](http://www.chinadaily.com.cn/china/2015-01/02/content_19222400.htm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80005000/jpg/_80005817_80005816.jpg)
 
 ### Related:
 

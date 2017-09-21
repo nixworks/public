@@ -10,6 +10,7 @@
 1. [AllAfrica](http://allafrica.com/stories/200501170001.html)
 2. [Planet Ark](http://www.planetark.com/dailynewsstory.cfm/newsid/29051/story.htm)
 3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/b1038cfffec750de91fed12a69d1ced5.htm)
+3. [Cover Image](http://planetark.org/images/default_image.jpg)
 
 ### Related:
 

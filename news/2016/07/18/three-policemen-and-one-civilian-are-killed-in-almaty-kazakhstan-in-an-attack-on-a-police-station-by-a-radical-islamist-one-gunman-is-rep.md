@@ -8,6 +8,7 @@ At least five people were killed and nine injured in a suspected Islamist attack
 ### Source:
 
 1. [RT](https://www.rt.com/news/351790-shooting-almaty-police-kazakhstan/)
+1. [Cover Image](https://img.rt.com/files/2016.07/article/578c79fac46188032c8b457e.jpg)
 
 ### Related:
 

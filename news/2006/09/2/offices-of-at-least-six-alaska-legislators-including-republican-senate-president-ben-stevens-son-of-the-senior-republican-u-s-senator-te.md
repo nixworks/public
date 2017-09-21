@@ -11,6 +11,7 @@ Ben Stevens, a Republican who is the State Senate president and son of Senator T
 2. [CNN](http://www.cnn.com/2006/POLITICS/09/01/alaska.lawmakers.raid.ap/index.html)
 3. [New York Times](http://www.nytimes.com/2006/09/02/us/02alaska.html?ref=us)
 4. [Yahoo!](http://news.yahoo.com/s/ap/20060901/ap_on_re_us/alaska_lawmakers_fbi_raid)
+4. [Cover Image](https://static01.nyt.com/images/2006/09/02/us/02alaska75.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Hundreds of mourners today protested at the funeral of an Egyptian woman who was
 3. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/06/egypt.woman.killed/index.html?eref=rss_topstories)
 4. [The Guardian](http://www.guardian.co.uk/world/2009/jul/07/german-trial-hijab-murder-egypt)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0706/breaking67.htm)
+5. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

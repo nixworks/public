@@ -8,6 +8,7 @@ The body of a man has been found in the flood-affected town of Sale in Victoria&
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-08-13/man-missing-in-sale-floodwaters/2837964)
+1. [Cover Image](http://www.abc.net.au/news/image/2805774-1x1-700x700.jpg)
 
 ### Related:
 

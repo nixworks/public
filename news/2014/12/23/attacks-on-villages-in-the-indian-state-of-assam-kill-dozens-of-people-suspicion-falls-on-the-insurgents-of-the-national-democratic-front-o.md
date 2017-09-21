@@ -11,6 +11,7 @@
 2. [Euronews](http://www.euronews.com/newswires/2856144-tribal-guerrillas-kill-33-in-wave-of-attacks-in-northeast-india/)
 3. [NBC News](http://www.nbcnews.com/news/world/india-imposes-curfew-after-attackers-kill-dozens-sectarian-violence-n274156)
 4. [NDTV](http://www.ndtv.com/article/india/43-people-killed-by-suspected-militants-assam-on-red-alert-638924)
+4. [Cover Image](http://i.ndtvimg.com/mt/2014-12/Assam_Bodo_attack_PTI_650.jpg)
 
 ### Related:
 

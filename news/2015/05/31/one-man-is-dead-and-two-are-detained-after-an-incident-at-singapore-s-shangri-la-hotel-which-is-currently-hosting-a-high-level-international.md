@@ -8,6 +8,7 @@ Substances believed to be controlled drugs were found in what police said was li
 ### Source:
 
 1. [Straits-Times](http://www.straitstimes.com/news/singapore/courts-crime/story/man-shot-dead-2-others-detained-incident-near-shangri-la-hotel-201)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/05/31/markshooting08e_2x.jpg?itok=n8L-xiEB)
 
 ### Related:
 

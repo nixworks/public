@@ -8,6 +8,7 @@ The 2013 Communal Riot at Muzaffarnagar (Uttar Pradesh) has turned out to be one
 ### Source:
 
 1. [Biharprabha](http://news.biharprabha.com/2013/09/what-triggered-the-deadly-riots-in-muzaffarnagar/)
+1. [Cover Image](http://news.biharprabha.com/wp-content/uploads/2013/09/Communal-Riots-in-India.jpg)
 
 ### Related:
 

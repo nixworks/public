@@ -9,6 +9,7 @@ In a bid to defuse the wave of Palestinian violence that has struck Israel and t
 
 1. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-bars-Jewish-MKs-ministers-from-visiting-Temple-Mount-421247)
 2. [Washington Post](https://www.washingtonpost.com/national/religion/netanyahu-prohibits-israeli-parliament-from-visiting-temple-mount/2015/10/08/b78a915c-6df8-11e5-91eb-27ad15c2b723_story.html)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=304113)
 
 ### Related:
 

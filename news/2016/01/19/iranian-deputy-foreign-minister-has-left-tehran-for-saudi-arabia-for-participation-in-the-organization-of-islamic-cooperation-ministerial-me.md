@@ -9,6 +9,7 @@
 
 1. [IRIB World Service](http://english.irib.ir/news/world/west-asia/item/221643-iran-deputy-fm-to-attend-oic-meeting-in-saudi-arabia)
 2. [OIC](http://www.oic-oci.org/oicv2/topic/?t_id=10815&t_ref=4253&lan=en)
+2. [Cover Image](http://media.ws.irib.ir/image/4bhjf1b506efc81ac4_620C350.jpg)
 
 ### Related:
 

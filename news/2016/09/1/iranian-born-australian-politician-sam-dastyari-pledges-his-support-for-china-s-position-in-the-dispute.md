@@ -8,6 +8,7 @@ Labor powerbroker Sam Dastyari has been admonished by a senior factional ally an
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/sam-dastyari-contradicted-labor-policy-backed-chinas-position-in-sea-dispute-at-event-with-donor-20160831-gr60hv)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/r/5/s/0/2/image.related.articleLeadwide.620x349.gr60hv.png/1473592661883.jpg)
 
 ### Related:
 

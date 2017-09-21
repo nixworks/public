@@ -8,6 +8,7 @@ A Jordanian policeman opens fire at a police training centre outside Amman, kill
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34764040)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A0EF/production/_86599114_ambulanceap.jpg)
 
 ### Related:
 

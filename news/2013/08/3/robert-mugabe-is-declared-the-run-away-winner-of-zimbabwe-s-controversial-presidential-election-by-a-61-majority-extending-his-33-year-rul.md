@@ -10,6 +10,7 @@ Robert Mugabe has been declared the run-away winner of Zimbabwe&#39;s controvers
 1. [AFP via News24](http://www.news24.com/news24/Africa/Zimbabwe/Official-Mugabe-wins-presidential-poll-20130803)
 2. [AllAfrica](http://allafrica.com/stories/201308030291.html)
 3. [The Independent](http://www.independent.co.uk/news/world/africa/zimbabwe-election-robert-mugabe-stole-vote-says-morgan-tsvangirai-8744787.html)
+3. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2470/eb26a717d2b2448cb9e6732695db4d6d.jpg)
 
 ### Related:
 

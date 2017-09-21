@@ -8,6 +8,7 @@ South Korea confirmed a case of foot-and-mouth disease at a dairy farm, the agri
 ### Source:
 
 1. [The Korea Times](https://www.koreatimes.co.kr/www/nation/2017/02/119_223321.html)
+1. [Cover Image](http://www.koreatimes.co.kr/upload/newsV2/images/cow740.jpg)
 
 ### Related:
 

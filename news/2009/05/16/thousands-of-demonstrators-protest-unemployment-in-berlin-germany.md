@@ -8,6 +8,7 @@ Thousands of German workers marched through Berlin today to demand the governmen
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0516/breaking36.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

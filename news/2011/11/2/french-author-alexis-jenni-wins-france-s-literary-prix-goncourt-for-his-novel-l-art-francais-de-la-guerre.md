@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-15555789)
 2. [Bloomberg](http://www.bloomberg.com/news/2011-11-02/alexis-jenni-wins-goncourt-france-s-top-literary-award-for-war-art-book.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56426000/jpg/_56426552_013266871-1.jpg)
 
 ### Related:
 

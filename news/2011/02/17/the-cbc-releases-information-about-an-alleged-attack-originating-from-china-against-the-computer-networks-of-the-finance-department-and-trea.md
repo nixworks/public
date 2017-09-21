@@ -8,6 +8,7 @@ An unprecedented cyberattack on the Canadian government also targeted Defence Re
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/politics/story/2011/02/16/pol-weston-hacking.html)
+1. [Cover Image](https://i.cbc.ca/1.2004980.1382414852!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-china-computer-cp-306-42.jpg)
 
 ### Related:
 

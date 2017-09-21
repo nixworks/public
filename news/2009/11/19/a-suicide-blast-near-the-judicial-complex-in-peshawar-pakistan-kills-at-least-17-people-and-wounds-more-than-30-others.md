@@ -8,6 +8,7 @@ Militants killed 17 outside a courthouse in Peshawar, the seventh attack in two 
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2009/11/20/world/asia/20pstan.html?_r=1&ref=global-home)
+1. [Cover Image](https://static01.nyt.com/images/2009/11/19/world/19cnd-pstan-inline1/thumbStandard.jpg)
 
 ### Related:
 

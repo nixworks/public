@@ -8,6 +8,7 @@ TEHRAN – Iranian lawmakers Friday threatened retaliation for a Senate bill tha
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-iran-sanctions-us-senate-20131220,0,3052612.story#axzz2o6y9xUj8)
+1. [Cover Image](http://www.trbimg.com/img-52b4d1e1/turbine/la-fg-wn-iran-sanctions-us-senate-20131220)
 
 ### Related:
 

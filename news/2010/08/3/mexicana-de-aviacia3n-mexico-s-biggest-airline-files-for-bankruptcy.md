@@ -9,6 +9,7 @@ Mexicana Airlines, the busiest foreign carrier at Los Angeles International Airp
 
 1. [BBC](http://www.bbc.co.uk/news/10857774)
 2. [Los Angeles Times](http://www.latimes.com/business/la-fi-mexicana-bankruptcy-20100804,0,7701200.story)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

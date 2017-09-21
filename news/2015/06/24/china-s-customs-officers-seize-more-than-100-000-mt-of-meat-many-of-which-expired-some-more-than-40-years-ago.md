@@ -9,3 +9,4 @@ The thousands of tons of meat have an estimated value of more than $480 million 
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2015-06/24/content_21085070.htm)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2015/06/24/417082386/over-aged-chinese-authorities-seize-decades-old-meat)
+2. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)

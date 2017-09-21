@@ -9,6 +9,7 @@ Mir Hussein Moussavi issued a defiant statement but urged his supporters to avoi
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iRyVZSMPwGsilj8NqqATa9t8h6dwD9GBRF1O0)
 2. [The New York Times](http://www.nytimes.com/2010/06/16/world/middleeast/16iran.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

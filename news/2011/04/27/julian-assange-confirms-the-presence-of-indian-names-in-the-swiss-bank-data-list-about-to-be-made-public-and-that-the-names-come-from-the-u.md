@@ -8,6 +8,7 @@ In comments that could fuel a fresh controversy over the black money issue, Wiki
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/article1770958.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article13927942.ece/ALTERNATES/LANDSCAPE_615/27TH_ASSANGE)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The staged reintroduction since the end of last month is going smoothly, officia
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-38888269)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/8CDC/production/_94006063_5d8c398e-6c08-4d23-9fac-c08ed41bcaa5.jpg)
 
 ### Related:
 

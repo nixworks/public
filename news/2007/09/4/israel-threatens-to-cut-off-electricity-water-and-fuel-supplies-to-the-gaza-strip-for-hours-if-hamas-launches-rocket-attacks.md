@@ -8,6 +8,7 @@ Israeli Deputy Prime Minister Haim Ramon has threatened to cut electricity, wate
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/04/2024130.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Gunmen shoot and kill the brother of Syria&#39;s parliament speaker as he drives
 
 1. [CNN](http://edition.cnn.com/2012/11/06/world/meast/syria-civil-war/)
 2. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2012/Nov-06/194039-gunmen-kill-brother-of-syrian-parliament-speaker.ashx#axzz2BRYjWBnc)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/11/06/114430_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

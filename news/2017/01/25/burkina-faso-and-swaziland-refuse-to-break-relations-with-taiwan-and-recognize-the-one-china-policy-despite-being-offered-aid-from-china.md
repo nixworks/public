@@ -8,6 +8,7 @@ Taiwan’s last two African allies have no plans to switch allegiances and break
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-01-24/chinese-billions-fail-to-sway-taiwan-s-last-two-allies-in-africa)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLwYNxMpBt0E/v2/1200x758.jpg)
 
 ### Related:
 

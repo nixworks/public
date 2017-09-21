@@ -8,6 +8,7 @@ At least 31 people are killed in a double suicide bomb attack at a Shia mosque i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22952491)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68235000/jpg/_68235283_68235282.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ South Korea’s government said on Thursday that it has reached out to North Kor
 ### Source:
 
 1. [AP via ''The Hindu](http://www.thehindu.com/news/international/world/south-korea-proposes-talk-with-nkorea-on-joint-complex/article4880079.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article11962774.ece/ALTERNATES/LANDSCAPE_615/04TH_NKOREA)
 
 ### Related:
 

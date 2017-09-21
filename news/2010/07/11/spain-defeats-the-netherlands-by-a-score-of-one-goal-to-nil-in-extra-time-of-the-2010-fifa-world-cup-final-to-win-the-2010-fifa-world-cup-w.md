@@ -9,6 +9,7 @@ Spain has ended its long wait for a maiden World Cup title, defeating the Nether
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/07/12/2950575.htm)
 2. [FIFA](http://www.fifa.com/worldcup/matches/round=249721/match=300061509/index.html)
+2. [Cover Image](http://www.abc.net.au/news/image/900608-1x1-700x700.jpg)
 
 ### Related:
 

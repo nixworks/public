@@ -8,6 +8,7 @@ The Philippine Embassy in Baghdad, Iraq has identified all 13 overseas Filipino 
 ### Source:
 
 1. [CNN Philippines](http://cnnphilippines.com/news/2016/02/09/repatriation-Filipinos-killed-Iraq-fire.html)
+1. [Cover Image](http://cnnphilippines.com/incoming/mge1l9-PH-Embassy_CNNPH.png/ALTERNATES/LANDSCAPE_640/PH-Embassy_CNNPH.png)
 
 ### Related:
 

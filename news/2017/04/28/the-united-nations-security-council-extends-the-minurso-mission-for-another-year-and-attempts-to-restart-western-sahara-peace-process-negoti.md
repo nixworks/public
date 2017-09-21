@@ -8,6 +8,7 @@ The United Nations Security Council has unanimously backed attempts to restart t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-western-sahara-idUSKBN17V05C?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

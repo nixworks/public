@@ -8,6 +8,7 @@ Rebel group clashes with army as week-long offensive continues into the Azawad a
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/01/201212614823523986.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/19/2012119192314231734_20.jpg)
 
 ### Related:
 

@@ -14,6 +14,7 @@ A US official is killed as Libyan militiamen storm the consulate in Benghazi, ho
 5. [Reuters](http://www.reuters.com/article/2012/09/11/us-libya-us-embassy-death-idUSBRE88A1JF20120911)
 6. [Reuters](http://www.reuters.com/article/2012/09/11/us-libya-us-embassy-idUSBRE88A1EF20120911)
 7. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444426404577647060576633348.html)
+7. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62842000/jpg/_62842384_62842383.jpg)
 
 ### Related:
 

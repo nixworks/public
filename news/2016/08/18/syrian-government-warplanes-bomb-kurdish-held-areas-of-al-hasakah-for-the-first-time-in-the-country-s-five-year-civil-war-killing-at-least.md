@@ -9,6 +9,7 @@ Syrian government jets reportedly bomb Kurdish-held areas of the north-eastern c
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37122811)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-hasaka-idUSKCN10T11T)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BBD3/production/_90838084_gettyimages-501564276.jpg)
 
 ### Related:
 

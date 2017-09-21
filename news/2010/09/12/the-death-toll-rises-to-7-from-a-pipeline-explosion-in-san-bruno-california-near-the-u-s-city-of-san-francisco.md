@@ -9,6 +9,7 @@ Specially trained dogs this evening found three victims, bringing the total to s
 
 1. [AP via ''The Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7197919.html)
 2. [Bay City News via ''San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/baycitynews/a/2010/09/11/sanbrunodeathtoll11.DTL)
+2. [Cover Image](http://www.sfgate.com/img/pages/article/opengraph_default.png)
 
 ### Related:
 

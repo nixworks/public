@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-immigration-lawsuit-idUSKBN19S2NZ)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170707&t=2&i=1192096623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED661Q1)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md) _Context: Donald Trump, Hawaii_
 8. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Donald Trump_
 9. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: Donald Trump_
-10. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Donald Trump_
+10. [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md) _Context: Donald Trump_

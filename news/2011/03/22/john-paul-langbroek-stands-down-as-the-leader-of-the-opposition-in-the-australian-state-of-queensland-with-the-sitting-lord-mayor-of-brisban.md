@@ -8,6 +8,7 @@ Queensland Opposition Leader John-Paul Langbroek has resigned, less than two hou
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2011/03/22/3170308.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2647252-1x1-700x700.jpg)
 
 ### Related:
 

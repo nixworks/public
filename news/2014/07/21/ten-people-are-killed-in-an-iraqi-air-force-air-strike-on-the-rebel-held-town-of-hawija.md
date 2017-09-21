@@ -8,6 +8,7 @@ Ten people were killed, including a mother and three children, in a government a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/21/us-iraq-security-idUSKBN0FQ1MU20140721?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140721&t=2&i=940769473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6K0S6)
 
 ### Related:
 

@@ -9,6 +9,7 @@ About 140 people are feared dead as a boat capsizes on a river in the western Ba
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10807021)
 2. [UPI](http://www.upi.com/Top_News/Special/2010/07/29/Congo-boat-disaster-leaves-140-dead/UPI-40851280426747/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

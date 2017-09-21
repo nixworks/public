@@ -9,6 +9,7 @@ KATHMANDU, Nepal (AP) — Police in southern Nepal opened fire on ethnic protest
 
 1. [AP via WTOP](http://wtop.com/news/2015/11/2-ethnic-protesters-killed-dozens-injured-in-south-nepal/)
 2. [Singapore Today Online](http://www.todayonline.com/world/asia/nepal-police-kill-3-protesters-clashes-over-constitution)
+2. [Cover Image](http://wtop.com/wp-content/uploads/2016/08/og-image.jpg)
 
 ### Related:
 

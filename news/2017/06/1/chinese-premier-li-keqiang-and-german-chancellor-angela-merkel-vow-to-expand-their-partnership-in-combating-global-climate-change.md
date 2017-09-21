@@ -8,6 +8,7 @@ Germany and China vowed on Thursday to expand their partnership and pledged to c
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-germany-china-idUSKBN18S4CC)
+1. [Cover Image](//s1.reutersmedia.net/resources/r/?m=02&d=20170601&t=2&i=1187087136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED502SA)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A French junior minister accused of having sexually harassed staff of a town hal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13589189)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53054000/jpg/_53054813_53054638.jpg)
 
 ### Related:
 

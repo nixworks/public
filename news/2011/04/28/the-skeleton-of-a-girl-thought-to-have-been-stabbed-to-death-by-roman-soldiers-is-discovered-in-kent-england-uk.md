@@ -8,6 +8,7 @@ The body of a girl thought to have been murdered by Roman soldiers is discovered
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-kent-13211331)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52366000/jpg/_52366902_body.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Many residents cannot contact possible survivors, and officials have not shared 
 2. [New York Times](http://www.nytimes.com/2011/05/25/us/25tornado.html?_r=1)
 3. [The Oklahoman](http://newsok.com/at-least-5-dead-60-injured-from-tornadoes/article/3570916?custom_click=lead_story_title)
 4. [Wichita Eagle](http://www.kansas.com/2011/05/24/1863124/tornado-causes-to-two-deaths-near.html)
+4. [Cover Image](https://static01.nyt.com/images/2011/05/25/us/MISSING1_span/MISSING-REFER-thumbStandard.jpg)
 
 ### Related:
 

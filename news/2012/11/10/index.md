@@ -28,7 +28,7 @@ The BBC&rsquo;s director-general has dramatically quit over the corporation&rsqu
 George Entwistle quits after he admits a Newsnight report has caused a crisis of public trust following the Jimmy Savile scandal.
 
 ### [President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama--more than the 270 needed to ensure election--to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes-in-the-presidential-election-pu.md)
-_Context: Barack Obama, Electoral College, Florida, Mitt Romney, President, presidential election_
+_Context: Barack Obama, Electoral College, Florida, Mitt Romney, U.S. President, presidential election_
 
 ## [Previous Day...](/news/2012/11/9/index.md)
 

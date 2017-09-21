@@ -8,6 +8,7 @@ A Sri Lankan reporter, recently named by US President Barack Obama as an example
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/asia/sri-lanka-jails-journalist-who-criticised-war-policy-1779889.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/08/31/23/237977.bin)
 
 ### Related:
 

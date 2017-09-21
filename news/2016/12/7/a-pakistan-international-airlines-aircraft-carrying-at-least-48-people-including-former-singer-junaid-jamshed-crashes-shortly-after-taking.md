@@ -9,6 +9,7 @@ All 48 people on board a Pakistan Airlines plane were killed when it crashed in 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-38238699)
 2. [Reuters](http://www.reuters.com/article/us-pakistan-airplane-idUSKBN13W1F5)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BBAF/production/_92874084_0a82a135-0bbb-4ece-9801-631c6f6075a6.jpg)
 
 ### Related:
 

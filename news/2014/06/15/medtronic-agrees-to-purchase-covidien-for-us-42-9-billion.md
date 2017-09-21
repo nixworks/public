@@ -8,6 +8,7 @@ U.S. medical device maker Medtronic Inc (MDT.N) said on Sunday it had agreed to 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/06/16/us-covidien-medtronic-inc-idUSKBN0ER03420140616)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140616&t=2&i=908694858&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5F01D)
 
 ### Related:
 

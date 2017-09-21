@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/28/us-serbia-warcrimes-idUSTRE74P24A20110528?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110527&t=2&i=423568072&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-27T221832Z_01_BTRE74Q0RS100_RTROPTP_0_SERBIA-MLADIC)
 
 ### Related:
 

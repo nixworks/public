@@ -8,6 +8,7 @@ A suicide bomber killed at least 12 people when he blew himself up on Thursday a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-bomber-idUSKCN11S264)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

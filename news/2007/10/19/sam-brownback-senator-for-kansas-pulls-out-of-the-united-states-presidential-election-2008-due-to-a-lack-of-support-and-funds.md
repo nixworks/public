@@ -8,6 +8,7 @@ Republican Sen. Sam Brownback abandoned his 2008 presidential bid Friday, his Wh
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,303679,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

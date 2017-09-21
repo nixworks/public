@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/03/us-un-population-idUSTRE7426GI20110503?feedType=RSS&feedName=topNews&dlvrit=59363)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110503&t=2&i=402859822&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-03T202343Z_01_BTRE7421KNM00_RTROPTP_0_CHINA)
 
 ### Related:
 

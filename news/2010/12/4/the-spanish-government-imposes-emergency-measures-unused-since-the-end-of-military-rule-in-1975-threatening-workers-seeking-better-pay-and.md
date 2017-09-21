@@ -10,3 +10,4 @@
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11918008)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/dec/04/spanish-airport-strike-state-emergency)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/04/c_13635152.htm)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

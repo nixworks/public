@@ -10,6 +10,7 @@ The decision was a setback for the governing party, though a bill giving it more
 1. [BBC](http://www.bbc.com/news/world-europe-40703909)
 2. [Reuters](https://www.reuters.com/article/us-poland-judiciary-idUSKBN1A915E)
 3. [The New York Times](https://www.nytimes.com/2017/07/24/world/europe/poland-president-duda-veto-courts.html)
+3. [Cover Image](https://static01.nyt.com/images/2017/07/25/world/25Poland/25Poland-facebookJumbo.jpg)
 
 ### Related:
 

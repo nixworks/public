@@ -8,6 +8,7 @@ Muhammad Kamaruzzaman was found guilty of mass killing, murder, abduction, tortu
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/execution-of-jamaateislami-leader-muhammad-kamaruzzaman/article7092654.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article10536535.ece/ALTERNATES/LANDSCAPE_615/THJVN_BANGLADESH_WAR_CRIMES.jpg)
 
 ### Related:
 

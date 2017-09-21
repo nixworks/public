@@ -8,6 +8,7 @@ Domestic Islamist movement has ties to Hamas and the Egyptian Muslim Brotherhood
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Israel-outlaws-northern-branch-of-Islamic-Movement-434343)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=314009)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The national gun lobbying group on Monday filed a lawsuit aimed at overturning a
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/04/25/nra-sues-california-over-gun-control-laws-that-demonize-firearm-owners.html)
+1. [Cover Image](//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/04/25/0/0/694940094001_5410798620001_5410793669001-vs.jpg?ve=1)
 
 ### Related:
 

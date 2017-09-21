@@ -8,6 +8,7 @@ Labour wins a seat from the Conservatives in a by-election for the first time in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20345196)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64194000/jpg/_64194233_64194232.jpg)
 
 ### Related:
 

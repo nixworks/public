@@ -12,6 +12,7 @@
 3. [USA Today](http://www.usatoday.com/news/world/story/2012-01-26/brazil-building-collapse/52799876/1)
 4. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204573704577184644206969890.html)
 5. [Washington Post](http://www.washingtonpost.com/world/several-bodies-found-in-rio-building-collapses-101/2012/01/26/gIQAZ4rfTQ_video.html)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58111000/jpg/_58111303_hi013820262.jpg)
 
 ### Related:
 

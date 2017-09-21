@@ -9,6 +9,7 @@ Eurozone and Ecofin finance ministers have agreed to extend the repayment of bai
 
 1. [RTÉ News](http://www.rte.ie/news/2013/0412/380983-eu-finance-ministers/)
 2. [Reuters](http://www.reuters.com/article/2013/04/12/eurozone-officials-idUSL5N0CZ2420130412)
+2. [Cover Image](https://img.rasset.ie/00073c43-1600.jpg)
 
 ### Related:
 

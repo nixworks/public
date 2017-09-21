@@ -8,6 +8,7 @@ The matter is likely to come up when US Vice&nbsp;President Joe Biden&nbsp;trave
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/turkey-seeks-extradition-of-us-based-cleric-fethullah-gulen-10549100)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/a57f854ccef6dfdc1c3fdebc457475815349646c648c2f3ec95f7db0ec9cac66_3745422.jpg?20160716101607)
 
 ### Related:
 

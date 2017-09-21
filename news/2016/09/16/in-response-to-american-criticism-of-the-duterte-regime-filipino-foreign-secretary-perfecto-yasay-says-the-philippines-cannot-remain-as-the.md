@@ -9,6 +9,7 @@ The European Parliament has condemned the current wave of extrajudicial killings
 
 1. [The Guardian](https://www.theguardian.com/world/2016/sep/16/philippines-we-cannot-be-the-little-brown-brothers-of-america)
 2. [The Philippine Star](http://www.philstar.com/headlines/2016/09/17/1624570/european-parliament-condemns-philippine-killings)
+2. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20160903/Davao-City-night-market-blast.jpg)
 
 ### Related:
 

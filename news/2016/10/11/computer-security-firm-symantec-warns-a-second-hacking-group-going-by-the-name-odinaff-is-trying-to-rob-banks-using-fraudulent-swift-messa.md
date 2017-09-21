@@ -9,6 +9,7 @@ Symantec&#039;s latest research on Odinaff hacker group and its attacks on SWIFT
 
 1. [ (Reuters](http://www.reuters.com/article/us-cyber-heist-malware-idUSKCN12B1L3?il=0)
 2. [Investopedia](http://www.investopedia.com/news/symantec-finds-new-attacks-swift-users-symc/)
+2. [Cover Image](http://i.investopedia.com/inv/genericcontentimages/all-purpose/shutterstock67023106.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Left-wing candidate Michelle Bachelet is elected Chilean president for a second 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-25387340)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71760000/jpg/_71760270_71760269.jpg)
 
 ### Related:
 

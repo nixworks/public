@@ -8,6 +8,7 @@ Rio de Janeiro won a resounding vote on Friday to stage the first Olympics in So
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58S1H820091002)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091002&t=2&i=11816553&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-02T184112Z_01_BTRE5911E1500_RTROPTP_0_OLYMPICS-RIO)
 
 ### Related:
 

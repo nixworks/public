@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/uk-england-leeds-20108609)
 2. [CNN](http://europe.cnn.com/2012/10/27/world/europe/uk-savile-scandal/index.html?hpt=ieu_c2)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1027/breaking9.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

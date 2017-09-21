@@ -9,6 +9,7 @@ More than 1,000 soldiers have paraded in front of the Queen as she celebrated he
 
 1. [Express](http://www.express.co.uk/news/uk/482324/Queen-s-Birthday-Honours)
 2. [The Independent](http://www.independent.co.uk/news/uk/home-news/queen-celebrates-official-birthday-with-trooping-the-colour-ceremony-9537132.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/06/14/12/Trooping-the-colour.jpg)
 
 ### Related:
 

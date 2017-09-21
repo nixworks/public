@@ -9,6 +9,7 @@ Looting is reported in the capital of the Central African Republic after Preside
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/03/201332481729584103.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21915901)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66576000/jpg/_66576754_66576753.jpg)
 
 ### Related:
 

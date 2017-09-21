@@ -10,6 +10,7 @@ All non-essential UN staff said to be removed from Central African Republic, as 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/03/2013323131445197878.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21913926)
 3. [Reuters](http://www.reuters.com/article/2013/03/23/us-centralafrica-rebels-idUSBRE92M07I20130323)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/23/201332314471332734_20.jpg)
 
 ### Related:
 

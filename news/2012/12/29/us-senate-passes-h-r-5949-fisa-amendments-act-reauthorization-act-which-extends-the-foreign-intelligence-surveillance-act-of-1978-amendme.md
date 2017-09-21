@@ -8,6 +8,7 @@ To extend the FISA Amendments Act of 2008 for five years.
 ### Source:
 
 1. [Govtrack](http://www.govtrack.us/congress/bills/112/hr5949)
+1. [Cover Image](http://www.govtrack.us/congress/bills/112/hr5949/thumbnail?aspect=1)
 
 ### Related:
 

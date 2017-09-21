@@ -8,6 +8,7 @@ The Vatican has denied that Pope Francis failed to speak out against human right
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21802684)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66415000/jpg/_66415411_flag_getty.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A pile-up involving 100 cars on a bridge leading to Incheon airport in South Kor
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-31403615)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80925000/jpg/_80925608_80925607.jpg)
 
 ### Related:
 

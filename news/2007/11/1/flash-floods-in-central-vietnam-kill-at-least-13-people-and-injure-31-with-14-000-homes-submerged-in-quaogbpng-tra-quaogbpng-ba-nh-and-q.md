@@ -8,6 +8,7 @@ Flash floods killed at least 13 people and injured 31 in central Vietnam this we
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSHAN231536)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Secretary of the Army, Francis J. Harvey, resigned today amid the fallout ov
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/03/02/washington/02cnd-general.html?ex=1330491600&en=2cc099344a51aa29&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/03/02/us/04harvey.75.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ BATAM, Indonesia (AFP) - The death toll from aboat accident in Indonesia has cli
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/asia/se-asia/death-toll-in-indonesia-boat-accident-rises-to-54-as-dozens-of-bodies-found)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/11/04/jt-40406412_-_02_11_2016_-_indonesia-boat_.jpg?itok=lzeZO30q)
 
 ### Related:
 

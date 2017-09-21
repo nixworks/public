@@ -9,6 +9,7 @@ Left-wing activists claimed responsibility for a minor explosion on Thursday at 
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1107304/1/.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE70Q2Q920110127)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110127&t=2&i=318930038&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-27T134122Z_01_BTRE70Q121000_RTROPTP_0_DAVOS-EXPLOSION)
 
 ### Related:
 

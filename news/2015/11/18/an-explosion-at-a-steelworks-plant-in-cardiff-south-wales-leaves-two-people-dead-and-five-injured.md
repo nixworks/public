@@ -8,6 +8,7 @@ Two people are killed following an explosion at a Cardiff steelworks.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-south-east-wales-34862540)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/110FD/production/_86758896_wnsteel.jpg)
 
 ### Related:
 

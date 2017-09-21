@@ -9,6 +9,7 @@
 
 1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/886638/look-5-4-magnitude-quake-damage-in-batangas)
 2. [The Philippine Star](http://www.philstar.com/nation/2017/04/04/1687753/magnitude-5.4-quake-strikes-batangas-shakes-metro-manila)
+2. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20170404/Phivocs.jpg)
 
 ### Related:
 

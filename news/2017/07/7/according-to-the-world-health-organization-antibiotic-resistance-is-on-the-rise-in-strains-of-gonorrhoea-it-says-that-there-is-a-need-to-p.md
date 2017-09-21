@@ -8,6 +8,7 @@ Data from 77 countries show that antibiotic resistance is making gonorrhoea – 
 ### Source:
 
 1. [WHO](http://www.who.int/mediacentre/news/releases/2017/Antibiotic-resistant-gonorrhoea/en/)
+1. [Cover Image](http://www.who.int/about/Logo-WHO.jpg)
 
 ### Related:
 

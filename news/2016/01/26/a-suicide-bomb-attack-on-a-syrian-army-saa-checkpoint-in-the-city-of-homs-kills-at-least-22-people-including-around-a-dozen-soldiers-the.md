@@ -10,6 +10,7 @@ Syrian pro-government forces captured a strategic southern rebel town close to t
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3416937/Bombs-kill-22-army-checkpoint-Syrias-Homs-state-TV.html)
 2. [AFP via Yahoo! News](http://news.yahoo.com/syria-regime-forces-capture-key-southern-rebel-town-070813735.html)
 3. [Reuters Canada](http://ca.reuters.com/article/topNews/idCAKCN0V40RB)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/fBRFL1REVf_k1uU6Br9C7w--/aD01NDQ7dz01MTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/5141f6b5aae8f7e630a3ed6c87211c84928b4b23.jpg)
 
 ### Related:
 

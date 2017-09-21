@@ -8,6 +8,7 @@ Afghan president calls US ambassador and NATO chief over claims of increasing ci
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/05/20125712427465527.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/10/4/2011104175330315580_20.jpg)
 
 ### Related:
 

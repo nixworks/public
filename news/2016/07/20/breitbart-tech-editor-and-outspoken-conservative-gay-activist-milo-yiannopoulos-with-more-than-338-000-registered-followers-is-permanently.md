@@ -8,6 +8,7 @@ Breitbart writer, who tweeted as @Nero, handed permanent suspension after claims
 ### Source:
 
 1. [Guardian](https://www.theguardian.com/technology/2016/jul/20/milo-yiannopoulos-nero-permanently-banned-twitter)
+1. [Cover Image](https://i.guim.co.uk/img/media/2a4364882f7174ff22edb6f0490cafee43d17504/0_142_4186_2513/4186.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1a0001e770f5e70c8a6b579f05e76622)
 
 ### Related:
 

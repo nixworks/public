@@ -10,6 +10,7 @@ Bloc to discuss preliminary assessment from monitors following reports that Syri
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/201212143027506436.html)
 2. [Detroit Free Press](http://www.freep.com/article/20120102/NEWS07/201020386/Yemeni-president-Ali-Abdullah-Saleh-accused-of-sabotaging-power-transfer-deal)
 3. [Shanghai Daily](http://www.shanghaidaily.com/article/article_xinhua.asp?id=42746)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/3/20121314391644734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11417016)
 2. [Time](http://www.time.com/time/world/article/0,8599,2021722,00.html?xid=rss-topstories)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

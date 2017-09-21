@@ -15,6 +15,7 @@ Catholic cardinals meeting at the Vatican have been holding another round of vot
 6. [Reuters](http://www.reuters.com/article/2013/03/14/us-pope-succession-idUSBRE92808520130314)
 7. [The Guardian](http://www.guardian.co.uk/world/2013/mar/13/papal-conclave-chooses-pope-day-two-live-coverage)
 8. [The New York Times](http://thelede.blogs.nytimes.com/2013/03/13/live-updates-on-election-of-a-new-pope/)
+8. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66363000/jpg/_66363155_66362872.jpg)
 
 ### Related:
 

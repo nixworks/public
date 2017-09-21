@@ -9,6 +9,7 @@ Sharia court upholds caning sentence of Muslim woman convicted of drinking beer.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/2009929524586283.html)
 2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/9/29/courts/4801563&sec=courts)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

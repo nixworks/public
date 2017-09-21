@@ -8,6 +8,7 @@ Pact provides for demilitarisation of disputed Abyei region, says Thabo Mbeki.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011620143327437250.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/20/201162014426781734_20.jpg)
 
 ### Related:
 

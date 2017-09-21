@@ -8,6 +8,7 @@ Sir Fred Goodwin, the former chief executive of the Royal Bank of Scotland, has 
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/8373535/Sir-Fred-Goodwin-former-RBS-chief-obtains-super-injunction.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01845/fred-goodwin_1845461a.jpg)
 
 ### Related:
 

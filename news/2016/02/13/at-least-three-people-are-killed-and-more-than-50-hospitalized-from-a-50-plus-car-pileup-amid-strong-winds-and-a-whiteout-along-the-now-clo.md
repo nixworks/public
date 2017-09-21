@@ -9,3 +9,4 @@ A pileup involving more than 50 cars shut Interstate 78 in Lebanon County. Forty
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/pileup-involving-dozens-cars-shuts-pennsylvania-interstate-amid-strong-winds-n518066)
 2. [Philadelphia Inquirer](http://www.philly.com/philly/news/breaking/20160214_More_than_50_vehicles_in_crash_on_I-78_in_Berks.html)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_06/1416946/160213-penn-interstate-pileup-1253p_249cdb6ffc65550465f603c7022c5ed8.nbcnews-fp-1200-800.jpg)

@@ -8,6 +8,7 @@ BEIRUT (AP) — Kurdish-led fighters completed their encirclement Friday of a ke
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/8f139661a58741f5b96cc3d531437fcf)
+1. [Cover Image](http://binaryapi.ap.org/150112a31a904151b0502174d9510c72/460x.jpg)
 
 ### Related:
 

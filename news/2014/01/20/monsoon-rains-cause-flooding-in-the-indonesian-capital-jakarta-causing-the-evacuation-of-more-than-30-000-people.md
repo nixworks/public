@@ -8,6 +8,7 @@ Heavy rains are forecast this week, potentially worsening floods which have kill
 ### Source:
 
 1. [Reuters via Trust](http://www.trust.org/item/20140120080714-727go/)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/468ddde1-32ed-4793-9f40-37614d894c86/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

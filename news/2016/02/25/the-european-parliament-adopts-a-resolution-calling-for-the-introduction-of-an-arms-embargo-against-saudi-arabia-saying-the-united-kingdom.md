@@ -8,6 +8,7 @@ The European Parliament calledon the European Union to impose an arms embargo ag
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/eu-saudi-arms-idUKL8N164377)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

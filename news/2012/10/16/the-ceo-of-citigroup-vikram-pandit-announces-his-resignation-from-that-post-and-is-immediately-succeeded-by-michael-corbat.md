@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/10/16/us-citigroup-pandit-idUSBRE89F0O420121016)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121016&t=2&i=664149595&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89F0Y3L00)
 
 ### Related:
 

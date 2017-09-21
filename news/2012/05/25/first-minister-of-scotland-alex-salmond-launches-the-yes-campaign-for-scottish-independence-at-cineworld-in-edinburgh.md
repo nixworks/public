@@ -8,6 +8,7 @@ The &quot;yes&quot; campaign for independence wants one million Scots to sign a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-18162832)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60500000/jpg/_60500212_014850800-1.jpg)
 
 ### Related:
 

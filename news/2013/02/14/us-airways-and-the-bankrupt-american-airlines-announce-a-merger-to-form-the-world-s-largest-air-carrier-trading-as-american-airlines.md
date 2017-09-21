@@ -9,6 +9,7 @@ Would create world&rsquo;s largest airline, one of four big carriers with combin
 
 1. [Reuters](http://www.reuters.com/article/2013/02/14/us-american-usair-idUSBRE91C1NO20130214)
 2. [The Washington Post](http://www.washingtonpost.com/local/trafficandcommuting/american-airlines-approves-merger-with-us-air/2013/02/13/1e2b2a3c-7556-11e2-95e4-6148e45d7adb_story.html)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130213&t=2&i=703764994&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91C1S1J00)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/europe/06/19/massachusetts.elena.bonner.obit/)
 2. [RIA Novosti](http://en.rian.ru/world/20110619/164706887.html)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/19/massachusetts.elena.bonner.obit/tzvids.elena.bonner.afp.gi.jpg)
 
 ### Related:
 

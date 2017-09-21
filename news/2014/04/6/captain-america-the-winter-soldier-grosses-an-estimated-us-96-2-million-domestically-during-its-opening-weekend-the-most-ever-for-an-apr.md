@@ -8,3 +8,4 @@ UPDATED: The superhero sequel debuts to a stunning $96.2 million in North Americ
 ### Source:
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/news/box-office-captain-america-winter-693959)
+1. [Cover Image](http://cdn3.thr.com/sites/default/files/2014/03/capta_a.jpg)

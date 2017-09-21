@@ -8,6 +8,7 @@ Creditors of Queensland Nickel — including 800 sacked workers — vote to liqu
 ### Source:
 
 1. [Australia](http://www.abc.net.au/news/2016-04-22/clive-palmer-queensland-nickel-creditors-vote-to-liquidate/7349930)
+1. [Cover Image](http://www.abc.net.au/news/image/3891518-1x1-700x700.jpg)
 
 ### Related:
 

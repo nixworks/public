@@ -9,6 +9,7 @@ North Korea is banning Malaysians from leaving the country.
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39189381)
 2. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/pyongyang-bans-malaysians-from-leaving-north-korea-kcna/3574402.html)
+2. [Cover Image](http://www.channelnewsasia.com/image/3537482/1488816398000/large16x9/640/360/malaysia-s-ambassador-to-north-korea-mohamad-nizan-mohamad-is.jpg)
 
 ### Related:
 

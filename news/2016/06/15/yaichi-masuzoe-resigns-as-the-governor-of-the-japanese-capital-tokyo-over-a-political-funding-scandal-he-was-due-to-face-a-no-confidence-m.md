@@ -8,6 +8,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### Source:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/reports-tokyo-governor-resign-funds-scandal-39863675)
+1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

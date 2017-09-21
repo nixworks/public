@@ -8,6 +8,7 @@ The trial of former Icelandic Prime Minister Geir Haarde, on charges of negligen
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17254544)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58872000/jpg/_58872402_010160325-1.jpg)
 
 ### Related:
 

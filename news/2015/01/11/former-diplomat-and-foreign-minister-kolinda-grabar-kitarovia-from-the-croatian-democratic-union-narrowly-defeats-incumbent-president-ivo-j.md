@@ -8,6 +8,7 @@ Opposition challenger Kolinda Grabar-Kitarovic becomes the first female presiden
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30765822)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80199000/jpg/_80199225_80198755.jpg)
 
 ### Related:
 

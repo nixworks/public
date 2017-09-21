@@ -8,6 +8,7 @@ It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/tv/showtracker/la-et-st-the-voice-winner-20131217,0,7715967.story#axzz2noNztNtY)
+1. [Cover Image](http://www.trbimg.com/img-52b133ba/turbine/la-et-st-the-voice-winner-20131217)
 
 ### Related:
 

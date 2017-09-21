@@ -8,6 +8,7 @@ Islamists from Boko Haram killed 145 people in attacks on two Nigerian villages 
 ### Source:
 
 1. [Agencies via ''WA Today](http://www.watoday.com.au/world/boko-haram-gunmen-kill-scores-in-attacks-on-nigerian-towns-of-kukawa-and-musarram-20150702-gi42ho.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/4/1/l/7/a/image.related.articleLeadwide.620x349.gi42ho.png/1436296426444.jpg)
 
 ### Related:
 

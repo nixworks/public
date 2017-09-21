@@ -8,6 +8,7 @@ A group of 30 men with guns and machetes hold up a PNG airport, keeping passenge
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-12-01/armed-men-hold-passengers-captive-at-png-airport/5930840)
+1. [Cover Image](http://www.abc.net.au/news/image/5930880-1x1-700x700.jpg)
 
 ### Related:
 

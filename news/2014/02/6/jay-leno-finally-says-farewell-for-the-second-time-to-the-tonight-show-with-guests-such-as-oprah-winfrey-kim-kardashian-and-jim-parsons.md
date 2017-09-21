@@ -8,6 +8,7 @@ There was a moderate amount of crazy over the course of Leno&apos;s last hour, b
 ### Source:
 
 1. [ (''Los Angeles Times](http://www.latimes.com/entertainment/tv/showtracker/la-et-st-jay-leno-last-show-review-20140207,0,4281361.story)
+1. [Cover Image](http://www.trbimg.com/img-52f4cc08/turbine/la-et-st-jay-leno-last-show-review-20140207)
 
 ### Related:
 
@@ -20,4 +21,4 @@ There was a moderate amount of crazy over the course of Leno&apos;s last hour, b
 7. [A woman accused of sexually abusing girls at the Oprah Winfrey Leadership Academy for Girls in Meyerton, South Africa, is acquitted. ](/news/2010/10/11/a-woman-accused-of-sexually-abusing-girls-at-the-oprah-winfrey-leadership-academy-for-girls-in-meyerton-south-africa-is-acquitted.md) _Context: Oprah Winfrey_
 8. [Conan O'Brien hosted the late night variety television show, The Tonight Show, on NBC for the final time. ](/news/2010/01/22/conan-o-brien-hosted-the-late-night-variety-television-show-the-tonight-show-on-nbc-for-the-final-time.md) _Context: The Tonight Show_
 9. [ U.S. media mogul and talk show host Oprah Winfrey announces she will end her long running talk show in 2011. ](/news/2009/11/19/u-s-media-mogul-and-talk-show-host-oprah-winfrey-announces-she-will-end-her-long-running-talk-show-in-2011.md) _Context: Oprah Winfrey_
-10. [ "The Today Show" co-host Katie Couric replaces Jay Leno as a substitute host on "The Tonight Show with Jay Leno". Leno replaced Couric on "The Today Show", hosting alongside Matt Lauer.](/news/2003/05/12/the-today-show-co-host-katie-couric-replaces-jay-leno-as-a-substitute-host-on-the-tonight-show-with-jay-leno-leno-replaced-couric-on.md) _Context: Jay Leno_
+10. [ A jury including U.S. talk show host Oprah Winfrey convicts Dion Coleman of murder after two hours of deliberation. ](/news/2004/08/19/a-jury-including-u-s-talk-show-host-oprah-winfrey-convicts-dion-coleman-of-murder-after-two-hours-of-deliberation.md) _Context: Oprah Winfrey_

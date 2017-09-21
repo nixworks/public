@@ -8,6 +8,7 @@ Afghan presidential hopeful Ashraf Ghani says US Secretary of State John Kerry h
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28328300)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76306000/jpg/_76306074_76306072.jpg)
 
 ### Related:
 

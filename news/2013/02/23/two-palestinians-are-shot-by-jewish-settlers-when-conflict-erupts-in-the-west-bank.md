@@ -8,6 +8,7 @@ Jewish settlers confronted Palestinian demonstrators in a West Bank village, acc
 ### Source:
 
 1. [AP via ''The New York Times](http://www.nytimes.com/2013/02/24/world/middleeast/2-palestinians-shot-in-clashes-with-israeli-settlers.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

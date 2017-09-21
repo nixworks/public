@@ -8,6 +8,7 @@ In a carnival of colour and festive music, three and a half million revellers ce
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/10096015/Millions-flood-Brazil-for-Sao-Paulo-gay-parade.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02580/GayPrideBrazil_2580075a.jpg)
 
 ### Related:
 

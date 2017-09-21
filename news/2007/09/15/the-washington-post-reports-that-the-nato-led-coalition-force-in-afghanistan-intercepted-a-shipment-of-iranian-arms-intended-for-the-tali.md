@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/NewsTrack/Top_News/2007/09/15/report_iran_arms_to_taliban_intercepted/7850/)
+1. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

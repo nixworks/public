@@ -9,6 +9,7 @@ Mavi Marmara will be inspected by Turkish authorities and a UN delegation.
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108795731990890.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10903430)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

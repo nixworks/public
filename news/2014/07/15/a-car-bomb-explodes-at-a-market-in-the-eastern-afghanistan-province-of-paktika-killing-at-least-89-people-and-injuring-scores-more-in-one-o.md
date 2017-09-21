@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-28307857)
 2. [Reuters](http://uk.reuters.com/article/2014/07/15/uk-afghanistan-attacks-idUKKBN0FK0NV20140715)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140715&t=2&i=935021289&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6E0UH)
 
 ### Related:
 

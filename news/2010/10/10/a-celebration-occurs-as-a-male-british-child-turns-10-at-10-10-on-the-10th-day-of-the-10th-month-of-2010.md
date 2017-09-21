@@ -12,3 +12,4 @@ More than 39,000 couples have chosen Sunday as their wedding day, figuring that 
 3. [BBC](http://www.bbc.co.uk/news/uk-england-leicestershire-11507505)
 4. [Leicester Mercury](http://www.thisisleicestershire.co.uk/news/PERFECT-TENS/article-2738529-detail/article.html)
 5. [New York Times](http://www.nytimes.com/2010/10/09/us/09date.html)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

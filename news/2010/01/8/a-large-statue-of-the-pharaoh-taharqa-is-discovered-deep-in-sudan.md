@@ -8,6 +8,7 @@ No statue of a pharaoh has ever been found further south of Egypt than this one.
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/massive-statue-of-pharaoh-taharqa-discovered-deep-in-sudan-1862007.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/01/08/14/292083.bin)
 
 ### Related:
 

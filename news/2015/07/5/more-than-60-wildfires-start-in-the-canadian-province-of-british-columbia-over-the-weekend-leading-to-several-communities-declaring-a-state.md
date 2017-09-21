@@ -9,6 +9,7 @@ B.C. has seen more than 50 new wildfires over the weekend that have put people o
 
 1. [CBC](http://www.cbc.ca/news/canada/british-columbia/b-c-wildfires-rage-across-province-blanketing-communities-in-smoke-1.3138999)
 2. [CTV](http://www.ctvnews.ca/canada/military-sending-hundreds-to-help-with-sask-wildfire-crisis-1.2454753)
+2. [Cover Image](https://i.cbc.ca/1.3139932.1436200333!/httpImage/image.jpg_gen/derivatives/16x9_1180/nelson-wildfire.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two soldiers from 1st Battalion Irish Guards are killed by a roadside bomb in Af
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12845329)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606887_bn-304x171.jpg)
 
 ### Related:
 

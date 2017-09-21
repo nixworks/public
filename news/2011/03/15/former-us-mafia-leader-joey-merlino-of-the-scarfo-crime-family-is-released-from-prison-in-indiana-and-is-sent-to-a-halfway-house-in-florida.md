@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Philaedelphia](http://www.nbcphiladelphia.com/news/politics/Skinny-Joey-Merlino-Halfway-House-118037164.html)
+1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/Skinny+Joe+Merlino.jpg)
 
 ### Related:
 

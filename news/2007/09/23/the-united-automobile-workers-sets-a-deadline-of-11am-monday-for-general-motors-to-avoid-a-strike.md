@@ -8,6 +8,7 @@ Bargainers worked through the night in an effort to reach a settlement in conten
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/09/24/business/24cnd-auto.html?ex=1348286400&en=69debcb9ed8662a7&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

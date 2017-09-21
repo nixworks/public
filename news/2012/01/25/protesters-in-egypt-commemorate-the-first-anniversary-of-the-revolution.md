@@ -8,6 +8,7 @@ Hundreds of thousands gather in iconic square demanding transition to civilian r
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/201212535836564645.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/25/2012125231945162734_20.jpg)
 
 ### Related:
 

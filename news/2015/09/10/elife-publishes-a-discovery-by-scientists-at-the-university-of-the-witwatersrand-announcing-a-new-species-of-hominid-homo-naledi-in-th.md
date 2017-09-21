@@ -9,6 +9,7 @@ Scientists in South Africa have discovered a new human-like species, which could
 
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/long-lost-relative-researchers-find-human-species-150910090000956.html)
 2. [BBC](http://www.bbc.com/news/science-environment-34192447)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1711E/production/_85449449_05-homo-naledi-hand-1-figure-peter-schmid-cc-by.jpg)
 
 ### Related:
 

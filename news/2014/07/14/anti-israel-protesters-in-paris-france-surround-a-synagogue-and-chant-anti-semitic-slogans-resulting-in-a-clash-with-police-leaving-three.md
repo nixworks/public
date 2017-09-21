@@ -8,6 +8,7 @@ At least three Jews were taken to hospital as a result of the clashes the erupte
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Jewish-World/Jewish-News/Anti-Israel-protesters-attack-Paris-synagogue-362643)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=228371)
 
 ### Related:
 

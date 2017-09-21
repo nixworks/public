@@ -8,6 +8,7 @@ As the U.S. military ramps up aid efforts in the Philippines, President Benigno 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/11/17/philippine-president-tacloban-typhoon-haiyan/3617959/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

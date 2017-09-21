@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [Malaysian Star](http://thestar.com.my/news/story.asp?file=/2005/3/5/nation/10331586&sec=nation)
 2. [New Straits Times](http://www.nst.com.my/Current_News/NST/Monday/NewsBreak/20050307154221/Article/indexb_html)
 3. [Reuters India](http://www.reuters.com/newsArticle.jhtml?storyID=7808210&type=worldNews)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Stay up-to-date with the latest developments in the ongoing IS battle in Iraq an
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27809051)
 2. [SBS](http://www.sbs.com.au/news/storystream/iraq-crisis-un-security-council-meet-over-violence)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/458918690.jpg)
 
 ### Related:
 

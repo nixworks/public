@@ -8,6 +8,7 @@ Palestinian President Mahmoud Abbas on Sunday accepted the resignation of his ne
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/23/us-palestinians-resignation-idUSBRE95M02C20130623)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130623&t=2&i=743993893&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95M0LT800)
 
 ### Related:
 

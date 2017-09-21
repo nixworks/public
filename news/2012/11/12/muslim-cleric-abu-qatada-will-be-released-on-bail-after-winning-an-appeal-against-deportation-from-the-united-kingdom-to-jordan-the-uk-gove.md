@@ -8,6 +8,7 @@ Muslim cleric Abu Qatada is to be released on bail after winning his appeal agai
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20295754)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64077000/jpg/_64077108_yv9p3rxu.jpg)
 
 ### Related:
 

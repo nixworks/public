@@ -8,6 +8,7 @@ The discovery, which came out of a mission a month ago, confirmed scientists’ 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/11/14/science/14moon.html?hp&emc=na)
+1. [Cover Image](https://static01.nyt.com/images/2009/10/09/science/09moon-75.jpg)
 
 ### Related:
 

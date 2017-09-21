@@ -8,6 +8,7 @@ Tens of thousands take to the streets of London to demonstrate against the vote 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/politics/live/2016/jul/02/brexit-news-live-thousands-march-for-europe-in-post-referendum-protest)
+1. [Cover Image](https://i.guim.co.uk/img/media/d10930fe2e119fe6eed1dabc2e883a0a572c3d50/0_138_3500_2101/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=04430cd4d3aedbe383ad0332c4e5a011)
 
 ### Related:
 

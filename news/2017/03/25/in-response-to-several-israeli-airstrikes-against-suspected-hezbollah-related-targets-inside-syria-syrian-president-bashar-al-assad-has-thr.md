@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/syria-threatens-to-fire-scud-missiles-at-israel-report/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/11/F131125IDF002.jpg)
 
 ### Related:
 

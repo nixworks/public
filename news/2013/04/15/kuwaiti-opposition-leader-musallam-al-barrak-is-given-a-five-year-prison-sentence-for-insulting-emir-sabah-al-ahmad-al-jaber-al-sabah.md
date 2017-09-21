@@ -10,6 +10,7 @@ Prominent Kuwaiti opposition leader, Mussallam al-Barrak, is jailed for five yea
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201341591338679713.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22149864)
 3. [The New York Times](http://www.nytimes.com/2013/04/16/world/middleeast/kuwait-gives-5-year-term-to-dissenter.html)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67007000/jpg/_67007925_63838898.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6633911.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSIBO13141920070508)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070508&t=2&i=764432&w=&fh=545px&fw=&ll=&pl=&sq=&r=764432)
 
 ### Related:
 

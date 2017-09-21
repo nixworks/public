@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201201/3408064.htm?desktop)
+1. [Cover Image](http://www.radioaustralianews.net.au/wp-content/uploads/2017/01/r584616_3701680.jpg)
 
 ### Related:
 

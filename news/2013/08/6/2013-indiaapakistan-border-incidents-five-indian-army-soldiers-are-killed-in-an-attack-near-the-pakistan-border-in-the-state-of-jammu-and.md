@@ -8,6 +8,7 @@ India said a group of militants from Pakistan killed five of its soldiers in an 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/06/us-india-pakistan-idUSBRE97504W20130806)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130806&t=2&i=757713014&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9751COT00)
 
 ### Related:
 

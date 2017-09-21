@@ -11,3 +11,4 @@ Five Americans are sentenced to 10 years in jail by a Pakistani court after bein
 2. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10400972.stm)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/24/pakistan-jails-americans-plotting-terrorism)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/24/c_13367491.htm)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

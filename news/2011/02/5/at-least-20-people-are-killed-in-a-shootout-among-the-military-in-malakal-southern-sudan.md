@@ -9,6 +9,7 @@ Rebellion by former pro-Khartoum fighters against giving up their heavy weapons 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201125163010915364.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71404520110205?sp=true)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/5/20112518740102811_20.jpg)
 
 ### Related:
 

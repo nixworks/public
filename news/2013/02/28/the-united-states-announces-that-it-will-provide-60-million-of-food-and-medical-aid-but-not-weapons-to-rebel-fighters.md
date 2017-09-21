@@ -9,6 +9,7 @@ Secretary of State John Kerry says the US will provide &quot;non-lethal&quot; su
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21612130)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/us-announces-expanded-battlefield-aid-to-syrian-rebels/2013/02/28/f0a32414-819b-11e2-b99e-6baf4ebe42df_story.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66116000/jpg/_66116621_66116620.jpg)
 
 ### Related:
 

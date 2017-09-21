@@ -8,6 +8,7 @@ The internet monitoring group Turkey Blocks says all language editions of the on
 ### Source:
 
 1. [AFP via ''SBS](http://www.sbs.com.au/news/article/2017/04/29/turkish-authorities-block-access-wikipedia)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20090721000194688593-original.jpg)
 
 ### Related:
 

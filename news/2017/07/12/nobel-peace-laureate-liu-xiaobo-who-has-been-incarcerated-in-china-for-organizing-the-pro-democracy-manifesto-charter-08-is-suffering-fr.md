@@ -10,6 +10,7 @@ Germany urged China on Wednesdayto allow Nobel Peace Prize-winning dissident Liu
 1. [Reuters](https://www.reuters.com/article/china-rights-germany-idUSB4N1GS01F)
 2. [South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/2102339/dissident-liu-xiaobos-condition-worsens-organs-fail)
 3. [The New York Times](https://ww.nytimes.com/2017/07/12/world/asia/china-liu-xiaobo-health-condition.html)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

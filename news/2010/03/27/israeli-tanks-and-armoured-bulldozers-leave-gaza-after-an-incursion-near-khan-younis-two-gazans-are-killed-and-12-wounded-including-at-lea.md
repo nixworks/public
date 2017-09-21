@@ -9,6 +9,7 @@ Soldier fights for his life in hospital; Barak warns of &quot;ramifications.&quo
 
 1. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?ID=171895)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/28/c_13227350.htm)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=140323)
 
 ### Related:
 

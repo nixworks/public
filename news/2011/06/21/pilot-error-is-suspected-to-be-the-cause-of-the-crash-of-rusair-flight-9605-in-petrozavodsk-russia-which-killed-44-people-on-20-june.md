@@ -8,6 +8,7 @@ Pilot error suspected as Tupolev passenger jet misses runway in northwestern Kar
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/20116210253653717.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/21/201162155033367734_20.jpg)
 
 ### Related:
 

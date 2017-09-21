@@ -8,6 +8,7 @@ Legislation enacted by President Andrzej Duda has ‘broken country’ and could
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/28/poland-law-curb-power-top-court-end-democracy-andrzej-duda)
+1. [Cover Image](https://i.guim.co.uk/img/media/ff80e53b60382bda5e03e8041cd0c21f17cf0a51/0_72_3500_2102/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=63aeb3e02a965dc5fd97325369f365e2)
 
 ### Related:
 

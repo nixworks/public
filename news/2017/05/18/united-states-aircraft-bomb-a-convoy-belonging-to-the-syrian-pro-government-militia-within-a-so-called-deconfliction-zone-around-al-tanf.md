@@ -11,6 +11,7 @@ CBS News correspondent David Martin reports Syrian regime vehicles have violated
 2. [Ara News](http://aranews.net/2017/05/syrians-in-manbij-protest-against-assad-regime-demand-sdf-intervention/)
 3. [CBS News](http://www.cbsnews.com/news/us-aircraft-strike-syrian-regime-forces-al-tanf-base/)
 4. [Independent](http://www.independent.co.uk/news/world/middle-east/us-syria-airstrikes-why-bashar-al-assad-militia-convoy-iraq-border-training-camp-rebels-a7744091.html)
+4. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/02/17/b26bdc2d-c0c8-4b18-90e5-010e9e112f15/f-22-fighter-jets.jpg)
 
 ### Related:
 

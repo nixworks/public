@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/29/us-somalia-conflict-idUSBRE84S11I20120529)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120529&t=2&i=612923238&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84S1DHP00)
 
 ### Related:
 

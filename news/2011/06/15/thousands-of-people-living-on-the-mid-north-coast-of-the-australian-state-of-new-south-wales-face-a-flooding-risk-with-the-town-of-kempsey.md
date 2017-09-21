@@ -10,6 +10,7 @@ A close watch is being kept on river levels across the lower mid-north coast of 
 1. [ (ABC News](http://www.abc.net.au/news/stories/2011/06/15/3244353.htm?section=justin)
 2. [ABC News Australia](http://www.abc.net.au/am/content/2011/s3244044.htm)
 3. [Daily Telegraph](http://www.dailytelegraph.com.au/news/sydney-nsw/sodden-state-to-get-even-wetter-as-rains-continue/story-e6freuzi-1226075249464)
+3. [Cover Image](http://www.abc.net.au/news/image/2759486-1x1-700x700.jpg)
 
 ### Related:
 

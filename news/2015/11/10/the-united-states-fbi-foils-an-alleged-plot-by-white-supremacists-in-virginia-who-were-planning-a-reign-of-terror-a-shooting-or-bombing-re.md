@@ -9,6 +9,7 @@ The plot included plans to bomb and shoot up black churches and Jewish synagogue
 
 1. [WTVR](http://wtvr.com/2015/11/09/fbi-foils-alleged-plot-by-chesterfield-white-supremacists-to-incite-race-war/)
 2. [Washington Post](https://www.washingtonpost.com/local/public-safety/feds-white-supremacists-plotted-to-shoot-or-bomb-black-churches-jewish-synagogues/2015/11/10/2a0abbcc-87cf-11e5-be39-0034bb576eee_story.html)
+2. [Cover Image](https://localtvwtvr.files.wordpress.com/2015/11/chaney.jpg?quality=85&amp;strip=all)
 
 ### Related:
 

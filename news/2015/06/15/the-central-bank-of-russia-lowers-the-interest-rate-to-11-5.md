@@ -8,6 +8,7 @@ The Russian central bank cut its main lending rate further on Monday, in line wi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/15/us-russia-cenbank-rates-idUSKBN0OV1HK20150615?virtualBrandChannel=11563)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150615&t=2&i=1056374599&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5E0K2)
 
 ### Related:
 

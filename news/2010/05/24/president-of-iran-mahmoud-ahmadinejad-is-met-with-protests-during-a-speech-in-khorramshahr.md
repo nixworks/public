@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10148858.stm)
 2. [Reuters](http://www.reuters.com/article/idUSLDE64N0LJ20100524?type=marketsNews)
 3. [Voice of America](http://www1.voanews.com/english/news/middle-east/Irans-Ahmadinejad-Hears-Rare-Protest-During-Speech--94757884.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

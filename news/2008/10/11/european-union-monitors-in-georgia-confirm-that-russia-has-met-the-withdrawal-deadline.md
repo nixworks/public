@@ -8,6 +8,7 @@ EU MONITORS in Georgia have confirmed that Russian forces have dismantled 17 che
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/world/2008/1011/1223676792628.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

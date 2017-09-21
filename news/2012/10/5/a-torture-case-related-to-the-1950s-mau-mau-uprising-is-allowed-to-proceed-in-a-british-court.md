@@ -8,6 +8,7 @@ Three Kenyans who were tortured by British colonial authorities can proceed with
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19843719)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63314000/jpg/_63314766_016164769.jpg)
 
 ### Related:
 

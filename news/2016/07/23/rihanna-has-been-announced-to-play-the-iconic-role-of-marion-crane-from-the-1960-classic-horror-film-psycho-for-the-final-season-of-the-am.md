@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2016/07/23/entertainment/rihanna-bates-motel-role/)
 2. [Rolling Stone](http://www.rollingstone.com/tv/news/rihanna-to-play-infamous-psycho-role-on-bates-motel-w430558)
+2. [Cover Image](http://img.wennermedia.com/social/gettyimages-538245888-a70e15de-84e1-4441-bfba-ad4ee2aee7d2.jpg)
 
 ### Related:
 

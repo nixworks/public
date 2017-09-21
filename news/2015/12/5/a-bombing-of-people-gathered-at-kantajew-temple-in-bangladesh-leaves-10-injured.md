@@ -8,6 +8,7 @@
 ### Source:
 
 1. [India Today](http://indiatoday.intoday.in/story/bomb-attack-on-hindu-religious-gathering-in-bangladesh/1/539359.html)
+1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/temple--647_120515021754.jpg)
 
 ### Related:
 

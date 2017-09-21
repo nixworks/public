@@ -10,6 +10,7 @@ NASA signed an agreement for the European Space Agency to provide a service modu
 1. [ESA](http://www.esa.int/Our_Activities/Human_Spaceflight/Research/ESA_workhorse_to_power_NASA_s_Orion_spacecraft)
 2. [NASA](http://www.nasa.gov/exploration/systems/mpcv/orion_feature_011613.html)
 3. [RIA Novosti](http://en.ria.ru/science/20130117/178831167/ESA_Joins_NASAs_Orion_Spacecraft_Project.html)
+3. [Cover Image](http://www.nasa.gov/sites/default/files/thumbnails/image/8513327513_4bd34cffea_o.jpg)
 
 ### Related:
 
@@ -21,5 +22,5 @@ NASA signed an agreement for the European Space Agency to provide a service modu
 6. [NASA announces that the Voyager 1 spacecraft, launched in 1977, has nearly reached the edge of the solar system and is imminently to past through the heliosphere into interstellar space. ](/news/2012/12/3/nasa-announces-that-the-voyager-1-spacecraft-launched-in-1977-has-nearly-reached-the-edge-of-the-solar-system-and-is-imminently-to-past-th.md) _Context: NASA, spacecraft_
 7. [NASA and Lockheed Martin unveil the first space-bound Orion spacecraft in Cape Canaveral. ](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.md) _Context: NASA, Orion spacecraft_
 8. [ The National Aeronautics and Space Administration and European Space Agency will continue with their Europa Jupiter System Mission and Titan Saturn System Missions. ](/news/2009/02/18/the-national-aeronautics-and-space-administration-and-european-space-agency-will-continue-with-their-europa-jupiter-system-mission-and-tita.md) _Context: European Space Agency, NASA_
-9. [ Scientists at NASA and the ESA witness a supermassive black hole in galaxy RXJ1242-11 graze, partially consume, and tear apart a star. This is the first time such a phenomenon has been observed. ](/news/2004/02/18/scientists-at-nasa-and-the-esa-witness-a-supermassive-black-hole-in-galaxy-rxj1242-11-graze-partially-consume-and-tear-apart-a-star-this.md) _Context: European Space Agency, NASA_
-10. [ NASA intentionally crashes the Lunar Prospector spacecraft into the Moon, thus ending its mission to detect frozen water on the moon's surface.](/news/1999/07/31/nasa-intentionally-crashes-the-lunar-prospector-spacecraft-into-the-moon-thus-ending-its-mission-to-detect-frozen-water-on-the-moon-s-surf.md) _Context: NASA, spacecraft_
+9. [ NASA/ESA Spacecraft Cassini-Huygens discovers two new natural satellites of Saturn. They are provisionally named "S/2004 S 1" (later named "Methone") and "S/2004 S 2" (later named "Pallene"). ](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.md) _Context: NASA, spacecraft_
+10. [ Scientists at NASA and the ESA witness a supermassive black hole in galaxy RXJ1242-11 graze, partially consume, and tear apart a star. This is the first time such a phenomenon has been observed. ](/news/2004/02/18/scientists-at-nasa-and-the-esa-witness-a-supermassive-black-hole-in-galaxy-rxj1242-11-graze-partially-consume-and-tear-apart-a-star-this.md) _Context: European Space Agency, NASA_

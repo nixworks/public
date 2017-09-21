@@ -8,6 +8,7 @@ Tens of thousands gather for rally in Tahrir Square, as competing demonstrators 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011122374830994443.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/23/20111223194417685734_20.jpg)
 
 ### Related:
 

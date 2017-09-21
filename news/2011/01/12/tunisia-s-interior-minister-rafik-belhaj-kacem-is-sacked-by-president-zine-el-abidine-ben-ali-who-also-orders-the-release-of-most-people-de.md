@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111255834958114.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12171183)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/12/201111255554828621_20.jpg)
 
 ### Related:
 

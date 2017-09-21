@@ -8,6 +8,7 @@ A major storm, the first of the 2005 Pacific season, slammed into El Salvador Fr
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/id/7896963/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photos/050520/050520_adrian_hmed_7a.standard.jpg)
 
 ### Related:
 

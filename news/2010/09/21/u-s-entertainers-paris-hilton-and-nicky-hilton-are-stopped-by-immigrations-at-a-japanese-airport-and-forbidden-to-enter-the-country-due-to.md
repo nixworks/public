@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/entertainment/2010/09/21/paris-hilton-stopped-immigration-japan-airport-report-says/?test=latestnews)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2010/09/21/paris-hilton-stopped-immigration-japan-airport-report-says/_jcr_content/par/featured-media/media-0.img.gif/0/0/1460386780331.gif?ve=1)
 
 ### Related:
 

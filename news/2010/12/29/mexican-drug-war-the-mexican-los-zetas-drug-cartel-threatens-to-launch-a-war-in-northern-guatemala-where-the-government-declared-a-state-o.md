@@ -8,6 +8,7 @@ Group claiming to belong to Zetas cartel issues warning on radio broadcasts afte
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/2010122941020654735.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/29/2010122942929409580_20.jpg)
 
 ### Related:
 

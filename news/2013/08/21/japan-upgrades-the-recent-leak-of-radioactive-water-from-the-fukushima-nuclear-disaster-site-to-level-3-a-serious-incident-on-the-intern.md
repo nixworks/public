@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters India](https://twitter.com/ReutersIndia/status/369996569359036416)
+1. [Cover Image](https://pbs.twimg.com/profile_images/1430805980/rtr_logo_twitter_dred_400x400.png)
 
 ### Related:
 

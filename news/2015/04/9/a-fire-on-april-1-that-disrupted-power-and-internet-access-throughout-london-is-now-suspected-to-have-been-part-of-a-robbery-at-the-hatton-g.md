@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Register](http://www.theregister.co.uk/2015/04/09/holborn_fire_outage_could_have_covered_200m_jewelry_heist_says_excopper/)
+1. [Cover Image](https://regmedia.co.uk/2015/04/09/holborn_blaze.jpg?x=1200&y=794)
 
 ### Related:
 

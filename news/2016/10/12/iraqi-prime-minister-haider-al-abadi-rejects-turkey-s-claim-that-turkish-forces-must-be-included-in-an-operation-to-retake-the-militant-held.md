@@ -8,6 +8,7 @@ Turkey-Iraq relations became strained after Ankara sent troops late last year to
 ### Source:
 
 1. [The Military Times](http://www.militarytimes.com/articles/iraqi-pm-rejects-turkish-claim-to-take-part-in-mosul-campaign)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/61/17/546c6e4e45f781d909f4e1fe2288/iraqi-army-soldiers-outside-ramadi.jpg)
 
 ### Related:
 

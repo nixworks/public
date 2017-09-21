@@ -8,6 +8,7 @@ UN special investigators have concluded that an eight-member hit squad backed by
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/11/19/f-rfa-macdonald-lebanon-hariri.html)
+1. [Cover Image](https://i.cbc.ca/1.2072137.1381902280!/httpImage/image.jpg_gen/derivatives/16x9_1180/leb-hariri-ts-6251819.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Turkish Airlines jet landing in dense fog in the Nepalese capital Wednesday sk
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/turkish-airlines-jet-skids-off-runway-passengers-escape/story?id=29375335)
+1. [Cover Image](http://a.abcnews.com/images/International/AP_PLANE_RUNWAY_150304_DG_16x9_992.jpg)
 
 ### Related:
 

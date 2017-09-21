@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Corriere della Sera](http://www.corriere.it/politica/speciali/2015/elezioni-presidente-repubblica/notizie/elezione-mattarella-presidente-repubblica-a02d9392-a90e-11e4-96d4-6a68544c2eeb.shtml)
+1. [Cover Image](http://images2.corriereobjects.it/methode_image/socialshare/2015/01/31/7b2b721a-a965-11e4-96d4-6a68544c2eeb.jpg)
 
 ### Related:
 

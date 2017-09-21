@@ -8,6 +8,7 @@ Gun battles between Nigerian security forces and an Islamist sect killed at leas
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/24/us-nigeria-violence-idUSTRE7BN07U20111224?feedType=RSS&feedName=topNews&rpc=71)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

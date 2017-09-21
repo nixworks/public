@@ -8,6 +8,7 @@ California, which is on the brink of running out of cash, will notify 20,000 sta
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/politicsNews/idUSTRE51G0J420090217)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090217&t=2&i=8286123&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-17T081427Z_01_BTRE51G0MW800_RTROPTP_0_ECONOMY-CALIFORNIA-BUDGET)
 
 ### Related:
 

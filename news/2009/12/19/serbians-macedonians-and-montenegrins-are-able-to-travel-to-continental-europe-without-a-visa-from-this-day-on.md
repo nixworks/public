@@ -8,6 +8,7 @@ Today, for the first time in nearly two decades, millions of Serbs and other for
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/at-last-serbs-win-passport-to-freedom-1845113.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/12/19/00/279381.bin)
 
 ### Related:
 

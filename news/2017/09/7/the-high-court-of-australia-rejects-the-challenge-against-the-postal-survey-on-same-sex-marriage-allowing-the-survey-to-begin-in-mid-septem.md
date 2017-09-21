@@ -8,6 +8,7 @@ The High Court has ruled in favour of the Turnbull government&#039;s same-sex ma
 ### Source:
 
 1. [SBS World News](http://www.sbs.com.au/news/article/2017/09/07/high-court-rules-favour-same-sex-marriage-postal-survey)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20170827001315443109-original_0.jpg)
 
 ### Related:
 

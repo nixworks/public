@@ -10,6 +10,7 @@ Hurricane Patricia has weakened dramatically from the monster Category 5 storm t
 1. [ABC News](http://abcnews.go.com/International/hurricane-patricia-weakens-dumps-torrential-rain-mexico/story?id=34697707)
 2. [CTV News](http://www.ctvnews.ca/world/mega-storm-patricia-drenches-mexico-as-it-weakens-1.2625751)
 3. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/241432.shtml)
+3. [Cover Image](http://a.abcnews.com/images/International/GTY_Hurricane_Patricia_Mexico_rain_151024_DC_16x9_992.jpg)
 
 ### Related:
 

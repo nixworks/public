@@ -12,6 +12,7 @@ Follow all the latest news on Long Island with Newsday. Read top local stories, 
 3. [IslamOnline](http://www.islamonline.org/English/News/2005-04/21/article04.shtml)
 4. [Newsday](http://www.newsday.com/news/local/wire/newyork/ny-bc-ny--muslimsstopped0420apr20,0,1481114.story?coll=ny-region-apnewyork)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8243195)
+5. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

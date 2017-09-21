@@ -8,3 +8,4 @@ In a bid to cut costs, the financially troubled New York City Opera wants to mov
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/05/21/arts/music/new-york-city-opera-plans-to-leave-lincoln-center.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

@@ -19,6 +19,7 @@ Former Arkansas Gov. MikeHuckabee won his home state primary on Tuesday in a vic
 10. [TIME](http://www.time.com/time/politics/article/0,8599,1709876,00.html)
 11. [The New York Times](http://www.nytimes.com/2008/02/06/us/politics/05cnd-relect.html)
 12. [USA Today](http://blogs.usatoday.com/ondeadline/2008/02/first-results-a.html)
+12. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

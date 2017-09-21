@@ -8,6 +8,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/blast-kills-police-officer-bangladesh-injures-40396393)
+1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Egypt’s new military-led government enlisted internationally recognized figure
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/07/10/world/middleeast/egypt-elections.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/07/10/world/middleeast/10egypt1_cnd/10egypt1_cnd-videoLarge.jpg)
 
 ### Related:
 

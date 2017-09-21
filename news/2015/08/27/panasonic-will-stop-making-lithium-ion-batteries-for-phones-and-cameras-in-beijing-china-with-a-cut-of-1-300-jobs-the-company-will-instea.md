@@ -8,6 +8,7 @@ Japanese electronics giant Panasonic Corp (6752.T) on Thursday said it will stop
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/27/us-panasonic-redundancies-idUSKCN0QW09D20150827)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150827&t=2&i=1074853787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7Q049)
 
 ### Related:
 

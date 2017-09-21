@@ -10,6 +10,7 @@ Activists calling for the ouster of president clash with government supporters i
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011129112626339573.html)
 2. [CNN](http://edition.cnn.com/2011/WORLD/meast/01/29/yemen.protests/)
 3. [One India](http://news.oneindia.in/2011/01/29/protestorsand-government-supporters-clash-inyemen-aid0126.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/29/201112911398973876_20.jpg)
 
 ### Related:
 

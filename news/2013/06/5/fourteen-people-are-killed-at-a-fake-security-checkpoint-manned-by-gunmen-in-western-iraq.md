@@ -8,6 +8,7 @@ At least 14 people have been killed at a fake security checkpoint manned by gunm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22782763)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67992000/gif/_67992779_iraq_nukhaib_anbar_0613.gif)
 
 ### Related:
 

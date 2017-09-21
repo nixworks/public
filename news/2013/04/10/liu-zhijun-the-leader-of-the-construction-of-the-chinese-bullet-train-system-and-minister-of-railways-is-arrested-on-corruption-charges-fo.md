@@ -10,6 +10,7 @@ China charges once-powerful former Railways Minister Liu Zhijun with corruption 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-22089011)
 2. [Bloomberg Businessweek](http://www.businessweek.com/news/2013-04-10/china-charges-former-rail-chief-with-corruption-abuse-of-power)
 3. [Los Angeles Times](http://www.latimes.com/news/local/political/la-me-pc-china-jerry-brown-rail-20130410,0,6611033.story)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66917000/jpg/_66917105_66917104.jpg)
 
 ### Related:
 

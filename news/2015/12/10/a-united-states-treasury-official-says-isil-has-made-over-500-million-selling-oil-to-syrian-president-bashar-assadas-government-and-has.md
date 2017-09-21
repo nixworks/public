@@ -9,6 +9,7 @@ Adam Szubin, a senior U.S. Treasury official, said Thursday that ISIS also loote
 
 1. [International Business Times](http://www.ibtimes.com/isis-sells-oil-syrias-assad-regime-some-turkey-us-official-says-2221300)
 2. [Reuters via CNBC](http://www.cnbc.com/2015/12/10/islamic-state-oil-is-going-to-assad-some-to-turkey-us-official-says.html)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/12/08/isis-libya.PNG)
 
 ### Related:
 

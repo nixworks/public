@@ -8,6 +8,7 @@ Media mogul Sumner Redstone and his daughter Shari called off their failed effor
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-viacom-m-a-cbs-idUSKBN1411LX?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161212&t=2&i=1165178286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBB10U)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The United States has officially recognised the government of Somalia for the fi
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21070950)
 2. [Reuters](http://www.reuters.com/article/2013/01/16/us-somalia-usa-idUSBRE90F1CX20130116)
 3. [Voice of America](http://www.voanews.com/content/somalia-diplomatic-relations/1585424.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65359000/jpg/_65359108_65359106.jpg)
 
 ### Related:
 

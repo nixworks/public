@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/03/14/Dalai-Lama-formally-resigns/UPI-38011300126321/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/38011300126321/2011/1/0500c7c20b4a1380900a85bebb3cc56a/v2.1/Dalai-Lama-formally-resigns.jpg)
 
 ### Related:
 

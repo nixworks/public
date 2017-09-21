@@ -8,6 +8,7 @@ Chilean President Michelle Bachelet names a new cabinet as she seeks to overcome
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-32695913)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82921000/jpg/_82921432_027160425.jpg)
 
 ### Related:
 

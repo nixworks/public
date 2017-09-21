@@ -9,6 +9,7 @@ Selahattin Demirtaş, HDP co-leader known as the ‘Kurdish Obama’, held with 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37868441)
 2. [The Guardian](https://www.theguardian.com/world/2016/nov/04/turkey-arrests-pro-kurdish-party-leaders-mps)
+2. [Cover Image](https://i.guim.co.uk/img/media/8d989a04487f1c68c5e22027e9fd9d50ce517d53/0_86_2883_1730/master/2883.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b17305530b07291ed006041c6203c7ef)
 
 ### Related:
 

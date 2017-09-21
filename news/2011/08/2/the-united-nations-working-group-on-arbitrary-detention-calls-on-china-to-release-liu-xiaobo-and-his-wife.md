@@ -8,6 +8,7 @@ A UN panel of independent legal experts calls on China to free Nobel Peace laure
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14369723)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54377000/jpg/_54377640_liu_afp.jpg)
 
 ### Related:
 

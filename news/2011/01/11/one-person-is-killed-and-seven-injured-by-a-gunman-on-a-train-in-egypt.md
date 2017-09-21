@@ -8,6 +8,7 @@ An Egyptian policeman shoots dead a Christian man and wounds others on a train, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12165523)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

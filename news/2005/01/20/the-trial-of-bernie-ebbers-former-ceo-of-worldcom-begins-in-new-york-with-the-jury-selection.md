@@ -9,6 +9,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 
 1. [Newsday](http://www.newsday.com/business/ny-bzwcom194118946jan19,0,6638546.story?coll=ny-business-headlines)
 2. [Silicon.com](http://management.silicon.com/government/0,39024677,39127176,00.htm)
+2. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

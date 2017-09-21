@@ -13,6 +13,7 @@ The French government vows to restore order after rioting in the eastern city of
 4. [Reuters](http://uk.reuters.com/article/idUKTRE66G0NC20100717?feedType=RSS&feedName=worldNews)
 5. [The Age](http://news.theage.com.au/breaking-news-world/riots-erupt-in-french-city-of-grenoble-20100718-10fig.html)
 6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7896688/Riots-in-Grenoble-after-police-shooting.html)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

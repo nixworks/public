@@ -8,6 +8,7 @@ A member of parliament in the Maldives is stabbed to death near his home amid po
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19797538)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63240000/jpg/_63240126_016136355-1.jpg)
 
 ### Related:
 

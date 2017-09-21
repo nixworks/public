@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/egypt-suspends-hamas-israel-talks-following-sinai-attack/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/10/AP278799805749-e1414322348980.jpg)
 
 ### Related:
 

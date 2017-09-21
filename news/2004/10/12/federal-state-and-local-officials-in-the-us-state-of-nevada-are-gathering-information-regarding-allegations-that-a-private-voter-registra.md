@@ -1,0 +1,23 @@
+### [2004-10-12](/news/2004/10/12/index.md)
+
+#  Federal, state, and local officials in the US state of Nevada are gathering information regarding allegations that a private voter registration firm, Voters Outreach of America, destroyed registration forms collected from Democratic voters while submitting those collected from Republican voters. 
+
+
+
+
+### Source:
+
+1. [KLAS-TV](http://www.klas-tv.com/Global/story.asp?S=2421595&nav=168XRvNe)
+
+### Related:
+
+1. [The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. ](/news/2016/11/30/the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory-to-accept-his-defeat-by-democratic-nominee-ro.md) _Context: Democratic, Republican_
+2. [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md) _Context: Democratic, Republican_
+3. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: Nevada_
+4. [British police suspend sharing intelligence with the United States in connection with Monday's Manchester bombing attack for most of the day, after U.S. officials allegedly leak "sensitive information" to "The New York Times". British Prime Minister Theresa May emphasized the sensitive nature of said information when she met with U.S. President Donald Trump during their meeting at the NATO summit in Brussels. Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.md) _Context: United States_
+5. [Citing security concerns because of recent terrorist activity, the American and British governments impose a ban affecting inbound-passengers flying from much of the Middle East and North Africa. The ban includes airplane cabin passenger-accessible items such as laptops, tablets, and other electronic devices which are larger than a smartphone. Larger such electronic devices will still be allowed on board in checked baggage which is thus more closely screened and passenger-inaccessible. ](/news/2017/03/21/citing-security-concerns-because-of-recent-terrorist-activity-the-american-and-british-governments-impose-a-ban-affecting-inbound-passenger.md) _Context: United States_
+6. [U.S. President Barack Obama declares the Bears Ears in Utah and Gold Butte area of Nevada as National Monuments. Both are known for the presence of Native American populations and archaeological sites. ](/news/2016/12/29/u-s-president-barack-obama-declares-the-bears-ears-in-utah-and-gold-butte-area-of-nevada-as-national-monuments-both-are-known-for-the-pres.md) _Context: Nevada_
+7. [Reform candidate Rocky de la Fuente files for a sample recount in parts of Nevada. ](/news/2016/11/30/reform-candidate-rocky-de-la-fuente-files-for-a-sample-recount-in-parts-of-nevada.md) _Context: Nevada_
+8. [Four state Democratic Parties sue the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal" group founder Roger Stone for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder-r.md) _Context: Nevada_
+9. [Tesla motors opens a 'Gigafactory' near Reno in the middle of the Nevada desert. ](/news/2016/07/27/tesla-motors-opens-a-gigafactory-near-reno-in-the-middle-of-the-nevada-desert.md) _Context: Nevada_
+10. [Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. ](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.md) _Context: Nevada_

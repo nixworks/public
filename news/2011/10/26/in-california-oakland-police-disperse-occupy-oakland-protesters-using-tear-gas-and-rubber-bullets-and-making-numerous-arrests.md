@@ -11,6 +11,7 @@ Update: 7:45 EST/3:45 PST What we know now: Scott Olsen, a US Marine who served 
 2. [DailyKos](http://www.dailykos.com/story/2011/10/26/1030222/-BREAKING-PHOTOS:-Images-CONTRADICT-Oakland-PD-Press-Release-on-Rubber-Bullets)
 3. [Reuters](http://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-eviction-idUSTRE79P7XL20111026)
 4. [Reuters](http://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-oakland-idUSTRE79P7KS20111026)
+4. [Cover Image](http://assets.dailykos.com/assets/fb_default-83551080ce5aec223661e373eaf232ea.png)
 
 ### Related:
 

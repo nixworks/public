@@ -9,6 +9,7 @@ If the organisers of Wednesday&#039;s referendum don&#039;t care about Ukraine, 
 
 1. [EU Observer](https://euobserver.com/opinion/132908)
 2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/dutch-voters-solidly-reject-european-union-pact-with-ukraine-nonbinding-referendum/27659278.html)
+2. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/fc89f72798eb98bae46ed25c7c44d9ac-480x.jpg)
 
 ### Related:
 

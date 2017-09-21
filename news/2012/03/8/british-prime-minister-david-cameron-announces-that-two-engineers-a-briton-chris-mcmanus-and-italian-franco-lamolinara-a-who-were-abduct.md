@@ -8,6 +8,7 @@ A British engineer and his Italian colleague, who were abducted in Nigeria last 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17305707)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58964000/jpg/_58964236_014202835-1.jpg)
 
 ### Related:
 

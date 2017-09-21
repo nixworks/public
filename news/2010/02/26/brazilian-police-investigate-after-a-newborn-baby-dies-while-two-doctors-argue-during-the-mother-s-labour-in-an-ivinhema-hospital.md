@@ -8,6 +8,7 @@ A newborn baby died after two doctors fought with each other while the mother wa
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0226/breaking24.html?via=mr)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

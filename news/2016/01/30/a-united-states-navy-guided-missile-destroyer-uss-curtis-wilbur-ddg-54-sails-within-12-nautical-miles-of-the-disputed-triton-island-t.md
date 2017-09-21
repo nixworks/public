@@ -9,6 +9,7 @@ The US sails a warship close to a disputed island in the South China Sea, in wha
 
 1. [BBC](http://www.bbc.com/news/world-asia-35450641)
 2. [The Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2016/01/30/u-s-missile-destroyer-sailed-close-to-island-claimed-by-china/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2D51/production/_88010611_88010607.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Six Baltimore police officers have been charged over the death of a 25-year-old 
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Baltimore-cops-charged-over-Freddie-Grays-death-20150501)
 2. [New York Times](http://www.nytimes.com/2015/05/02/us/freddie-gray-autopsy-report-given-to-baltimore-prosecutors.html)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/179/d0ce7a1abed0430599e589b14b95bd03.jpg)
 
 ### Related:
 

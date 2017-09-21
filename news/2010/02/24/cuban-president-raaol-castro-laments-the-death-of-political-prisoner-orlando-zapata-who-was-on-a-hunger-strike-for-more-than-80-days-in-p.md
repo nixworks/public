@@ -9,6 +9,7 @@ The hunger strike death of a Cuban political prisoner provoked international con
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8535390.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE61N6TV20100224)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

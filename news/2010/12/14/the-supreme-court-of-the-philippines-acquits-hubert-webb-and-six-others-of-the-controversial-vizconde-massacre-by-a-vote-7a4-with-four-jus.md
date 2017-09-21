@@ -8,6 +8,7 @@ MANILA, Philippines (4th UPDATE) - Hubert Webb and 5 others accused in the Vizco
 ### Source:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/12/14/10/huberts-prayer-punish-guilty-vizconde-case)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/events/others/webb4.jpg)
 
 ### Related:
 

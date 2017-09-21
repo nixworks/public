@@ -8,6 +8,7 @@ Strike over export curbs rekindles a dispute that helped drive global grains pri
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/20111175129401574.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/17/2011117615932580_20.jpg)
 
 ### Related:
 

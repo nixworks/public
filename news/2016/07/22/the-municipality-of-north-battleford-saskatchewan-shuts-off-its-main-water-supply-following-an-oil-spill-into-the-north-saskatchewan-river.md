@@ -8,6 +8,7 @@ NORTH BATTLEFORD&nbsp;— The Saskatchewan city of North Battleford shut down it
 ### Source:
 
 1. [The Saskatoon Star-Phoenix](http://thestarphoenix.com/business/north-battleford-prepares-for-possible-arrival-of-oil-after-major-pipeline-spill-near-maidstone)
+1. [Cover Image](http://wpmedia.thestarphoenix.com/2016/07/some-of-the-first-pipes-to-arrive-for-the-trans-adriatic-pip.jpeg)
 
 ### Related:
 

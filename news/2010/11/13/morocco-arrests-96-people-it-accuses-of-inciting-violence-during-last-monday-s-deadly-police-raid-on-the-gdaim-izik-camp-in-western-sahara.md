@@ -8,6 +8,7 @@ Morocco arrests 96 people accused of inciting violence during police raid on a s
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101113215415924684.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/13/2010111322755966150_20.jpg)
 
 ### Related:
 

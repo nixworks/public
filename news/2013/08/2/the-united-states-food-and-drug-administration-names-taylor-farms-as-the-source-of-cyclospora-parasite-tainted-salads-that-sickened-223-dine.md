@@ -8,6 +8,7 @@ Taylor Farms of Mexico, a division of a California-based produce supplier whose 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/health/fda-names-taylor-farms-source-parasite-outbreak-6C10833090)
+1. [Cover Image](https://media4.s-nbcnews.com/j/streams/2013/august/130802/6c8499532-6c8352781-130722-parasite-4p.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

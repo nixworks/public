@@ -8,6 +8,7 @@ Arab coalition forces have captured a Yemeni Red Sea archipelago used by Iran-al
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-hanish-idUSKBN0TT0X520151210)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

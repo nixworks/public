@@ -10,6 +10,7 @@ A mourning ceremony for protestors who have died in Iran&#39;s post-election tur
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8118139.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0625/iran.html)
 3. [Zee News](http://www.zeenews.com/news542007.html)
+3. [Cover Image](https://img.rasset.ie/00025ec7-1600.jpg)
 
 ### Related:
 

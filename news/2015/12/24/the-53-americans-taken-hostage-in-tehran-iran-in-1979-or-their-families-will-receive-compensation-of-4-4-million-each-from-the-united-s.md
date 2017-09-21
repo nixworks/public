@@ -9,6 +9,7 @@ Thirty-six years after their capture, the Americans taken hostage in Tehran in 1
 
 1. [ABC News](http://abcnews.go.com/Politics/iran-hostage-crisis-victims-compensation-36-years/story?id=35946041)
 2. [The Hill](http://thehill.com/policy/defense/264202-iran-hostages-quietly-granted-compensation-in-year-end-funding-bill)
+2. [Cover Image](http://a.abcnews.com/images/Politics/ap_iran_hostage_landing_germany_jc_150626_16x9_992.jpg)
 
 ### Related:
 

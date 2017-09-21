@@ -8,6 +8,7 @@ The Sri Lankan parliament votes to remove Chief Justice Shirani Bandaranayake in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20982990)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65232000/jpg/_65232940_65232939.jpg)
 
 ### Related:
 

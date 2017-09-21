@@ -8,6 +8,7 @@ Turkey promised to help stem the flow of migrants to Europe in return for cash, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/30/us-europe-migrants-turkey-idUSKBN0TI00520151130#B0hdAvewQROd0mWX.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151130&t=2&i=1098642559&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAS0K8)
 
 ### Related:
 

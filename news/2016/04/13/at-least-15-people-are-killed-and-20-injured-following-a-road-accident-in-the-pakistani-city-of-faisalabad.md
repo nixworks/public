@@ -8,6 +8,7 @@ MULTAN: At least 19 people including two children were killed in a collision bet
 ### Source:
 
 1. [Samaa](http://www.samaa.tv/pakistan/2016/04/four-die-20-hurt-in-faisalabad-road-accident/)
+1. [Cover Image](http://www.samaa.tv/wp-content/uploads/2016/04/FSD-Acciedent-680x360.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The World Health Organisation (WHO), bowing to pressure from meat industry produ
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0430/breaking3.html?via=rel)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0430/breaking66.html?via=rel)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

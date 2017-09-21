@@ -8,6 +8,7 @@ Toyota said Thursday it is recalling 1.53 million Lexus, Avalon and other models
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/39773169/ns/business-autos/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/101021-toyota03-hmed-245a.standard.jpg)
 
 ### Related:
 

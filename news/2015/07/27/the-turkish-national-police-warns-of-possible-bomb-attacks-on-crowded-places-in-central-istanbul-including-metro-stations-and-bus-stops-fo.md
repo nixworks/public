@@ -8,6 +8,7 @@ The Istanbul Police Department has issued of bomb attack warnings on crowded pla
 ### Source:
 
 1. [Hürriyet Daily News](http://www.hurriyetdailynews.com/bomb-warning-issued-for-istanbul-media-reports-claim.aspx?pageID=238&nID=86011&NewsCatID=341)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201507/n_86011_1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h9weF3XT4BKWBx3Wp6UEgeFX0Jpw?docId=CNG.b4492f600922f04f062f99cc1bbdbf2d.871)
 2. [BBC](http://www.bbc.co.uk/news/technology-11693214)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

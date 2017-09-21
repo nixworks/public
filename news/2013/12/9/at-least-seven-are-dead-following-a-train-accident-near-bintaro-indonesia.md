@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Jakarta Globe](http://www.thejakartaglobe.com/news/train-crashes-into-gas-tanker-in-bintaro)
+1. [Cover Image](http://img.thejakartaglobe.com/2013/12/bintaro112.jpg)
 
 ### Related:
 

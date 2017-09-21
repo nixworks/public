@@ -8,6 +8,7 @@ A bomb kills 12 women and two children in eastern Afghanistan as they visit a gr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23611581)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69176000/jpg/_69176913_69176912.jpg)
 
 ### Related:
 

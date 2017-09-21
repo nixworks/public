@@ -8,6 +8,7 @@ Finland is now the first country in the world where every citizen is entitled to
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/38038917/ns/technology_and_science-tech_and_gadgets/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

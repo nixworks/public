@@ -8,6 +8,7 @@ Nearly half a million people in Bangladesh have been made homeless and at least 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/10/3034135.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

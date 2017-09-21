@@ -8,6 +8,7 @@ Seven people have died and over 650,000 people have been affected by floods in A
 ### Source:
 
 1. [The Hindustan Times](http://www.hindustantimes.com/india-news/flood-situation-in-assam-worsens-7-dead-over-650-000-displaced/article1-1383226.aspx)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2015/06/09/Incoming/Pictures/1356809_Wallpaper2.jpg)
 
 ### Related:
 

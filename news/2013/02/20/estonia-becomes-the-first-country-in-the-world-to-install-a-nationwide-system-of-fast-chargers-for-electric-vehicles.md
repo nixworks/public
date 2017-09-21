@@ -9,6 +9,7 @@ Estonia has become the first country in the world to install a nationwide system
 
 1. [Reuters](http://www.reuters.com/article/2013/02/20/uk-estonia-environment-cars-idUKLNE91J02O20130220)
 2. [The Guardian](http://www.guardian.co.uk/environment/2013/feb/20/estonia-electric-car-charging-network)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

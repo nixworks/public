@@ -8,6 +8,7 @@ French and Spanish police foiled a car bomb plot by Basque separatist group ETA,
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/02/2021589.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

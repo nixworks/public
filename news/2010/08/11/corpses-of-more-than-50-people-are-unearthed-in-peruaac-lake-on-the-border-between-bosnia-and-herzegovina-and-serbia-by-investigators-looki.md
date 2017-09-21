@@ -8,6 +8,7 @@ More than 50 bodies are found in a lake in Bosnia, as investigators hunt for vic
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10937461)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

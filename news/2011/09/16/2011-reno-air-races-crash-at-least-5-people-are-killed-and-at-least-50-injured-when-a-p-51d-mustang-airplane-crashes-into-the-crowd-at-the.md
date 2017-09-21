@@ -10,6 +10,7 @@ Reno police on Saturday raised the death toll in the crash of a World War II-era
 1. [AP via ''Washington Post](http://www.washingtonpost.com/national/plane-crashes-near-grandstand-at-national-championship-air-races-in-nevada-unknown-injuries/2011/09/16/gIQAj7rZYK_story.html?wpisrc=al_national)
 2. [MSNBC](http://www.msnbc.msn.com/id/44556695/ns/us_news-life/)
 3. [Reno Gazette-Journal](http://www.rgj.com/article/20110917/EVENTS05/110917006/Renown-reports-two-air-race-crash-victims-died-overnight?odyssey=mod|defcon|text|FRONTPAGE)
+3. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/g-cvr-110917-crash-330pm.standard.jpg)
 
 ### Related:
 

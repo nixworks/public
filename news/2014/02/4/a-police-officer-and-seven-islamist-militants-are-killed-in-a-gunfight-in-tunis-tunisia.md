@@ -8,6 +8,7 @@ Tunisian police killed seven Islamist militants, including a senior commander wa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/04/us-tunisia-clash-idUSBREA130SU20140204)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140204&t=2&i=835279307&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA13123Y00)
 
 ### Related:
 

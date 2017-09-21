@@ -8,6 +8,7 @@ The deal is the latest sign of consolidation in the telecom and cable industries
 ### Source:
 
 1. [AP via Politico](http://www.politico.com/story/2014/05/att-directv-purchase-106813.html)
+1. [Cover Image](http://s3-origin-images.politico.com/2014/05/18/140517_att_directv_ap_328.jpg)
 
 ### Related:
 

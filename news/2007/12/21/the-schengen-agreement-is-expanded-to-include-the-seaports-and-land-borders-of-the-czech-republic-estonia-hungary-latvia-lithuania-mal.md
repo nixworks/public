@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/4738063.stm)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1222B/production/_85538247_eubordersignafp.jpg)
 
 ### Related:
 

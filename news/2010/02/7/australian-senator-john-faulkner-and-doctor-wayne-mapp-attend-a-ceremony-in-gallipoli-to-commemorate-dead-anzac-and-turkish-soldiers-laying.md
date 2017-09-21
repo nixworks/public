@@ -8,6 +8,7 @@ Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne M
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/faulkner-visits-gallipoli-20100207-nkh1.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

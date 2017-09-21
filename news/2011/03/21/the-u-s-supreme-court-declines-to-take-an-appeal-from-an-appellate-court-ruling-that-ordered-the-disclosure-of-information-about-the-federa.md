@@ -8,6 +8,7 @@ The Supreme Court let stand a ruling that the U.S. Federal Reserve must disclose
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/21/us-usa-fed-bailout-court-idUSTRE72K3FJ20110321)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

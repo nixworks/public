@@ -10,6 +10,7 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 1. [AP](http://www.kentucky.com/mld/kentucky/news/local/13453457.htm)
 2. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=41403)
 3. [Cincinnati Enquirer](http://news.enquirer.com/apps/pbcs.dll/article?AID=/20051221/NEWS01/512210356/1056)
+3. [Cover Image](http://www.catholicculture.org/images/social/fb/CatholicCulture.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Kabul/Brussels. 3 October 2015: The international medical organization Doctors W
 1. [MSF](http://www.doctorswithoutborders.org/article/afghanistan-msf-demands-explanations-after-deadly-airstrikes-hit-hospital-kunduz)
 2. [Reuters](http://www.reuters.com/article/2015/10/03/us-afghanistan-attack-idUSKCN0RW0HC20151003)
 3. [The Washington Post](https://www.washingtonpost.com/world/doctors-without-borders-airstrike-hits-afghan-hospital-killing-3-staffers/2015/10/03/2ed13104-b50a-48ec-9eb9-92db8ee3a876_story.html)
+3. [Cover Image](https://media.msf.org/Docs/MSF/Media/CMS1/9/2/2/a/MSF153450.jpg)
 
 ### Related:
 

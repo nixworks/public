@@ -8,6 +8,7 @@ TUSCALOOSA, Alabama -- The city says the number of missing people in Tuscaloosa 
 ### Source:
 
 1. [Alabama](http://blog.al.com/montgomery/2011/05/city_of_tuscaloosa_lowers_numb.html)
+1. [Cover Image](//static.advance.net/static/bama/static/img/logos/logo_fb.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Police have fired tear gas and stun grenades after a few hundred migrants angry 
 
 1. [Press Association via ''Irish Independent](http://www.independent.ie/world-news/europe/refugees-rip-down-barb-wire-and-break-through-macedonia-border-fence-using-homemade-battering-ram-34497933.html)
 2. [Time](http://time.com/4242467/canada-refugee-target/)
+2. [Cover Image](http://www.independent.ie/incoming/article34497932.ece/ALTERNATES/h342/Macedonia1.jpg)
 
 ### Related:
 

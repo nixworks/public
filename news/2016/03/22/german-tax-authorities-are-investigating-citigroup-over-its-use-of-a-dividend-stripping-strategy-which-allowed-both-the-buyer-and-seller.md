@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-citigroup-germany-taxes-idUSKCN0WO127)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160322&t=2&i=1126794169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2L0KV)
 
 ### Related:
 

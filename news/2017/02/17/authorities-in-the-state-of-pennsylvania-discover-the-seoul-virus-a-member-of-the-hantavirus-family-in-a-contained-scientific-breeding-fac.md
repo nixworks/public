@@ -8,6 +8,7 @@ The remaining rats in the Pennsylvania facility were euthanized to prevent the s
 ### Source:
 
 1. [CBS](http://philadelphia.cbslocal.com/2017/02/17/pennsylvania-rat-seoul-virus/)
+1. [Cover Image](https://cbsphilly.files.wordpress.com/2017/02/gettyimages-629947810.jpg?w=1500)
 
 ### Related:
 

@@ -8,6 +8,7 @@ U.S. health regulators approved a new drug made by Swiss drugmaker Roche Holding
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/23/us-roche-approval-idUSBRE91L0N420130223)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130222&t=2&i=706473315&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91L14U600)
 
 ### Related:
 

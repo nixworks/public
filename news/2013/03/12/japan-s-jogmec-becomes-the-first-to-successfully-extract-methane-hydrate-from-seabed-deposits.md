@@ -9,6 +9,7 @@ A Japanese energy explorer said on Tuesday it extracted gas from offshore methan
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5g6akGbdJ0s6ug4MI6Mp4r8Ae0tbg)
 2. [Reuters](http://www.reuters.com/article/2013/03/12/us-methane-hydrates-japan-idUSBRE92B07620130312)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130312&t=2&i=711873574&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92B0M3T00)
 
 ### Related:
 

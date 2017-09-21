@@ -8,6 +8,7 @@ Arrests come ahead of rally for politician Imran Khan later this week
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/police-arrest-1500-opposition-supporters-in-pakistan/article32588901/)
+1. [Cover Image](http://static.theglobeandmail.ca/6de/news/world/article32588900.ece/ALTERNATES/w620/ANJ103_Pakistan.JPG)
 
 ### Related:
 

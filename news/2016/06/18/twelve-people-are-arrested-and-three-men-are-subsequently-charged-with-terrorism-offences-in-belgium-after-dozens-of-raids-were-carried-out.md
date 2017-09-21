@@ -8,6 +8,7 @@ Belgian officials charge three men arrested in overnight raids with terrorism of
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36566336)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12E00/production/_90021377_mediaitem90021376.jpg)
 
 ### Related:
 

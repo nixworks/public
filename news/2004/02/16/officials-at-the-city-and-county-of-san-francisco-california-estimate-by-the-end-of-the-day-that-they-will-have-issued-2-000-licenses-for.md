@@ -9,6 +9,7 @@ Things to do in Miami
 
 1. [Mercury News](http://www.mercurynews.com/mld/mercurynews/news/local/7964972.htm)
 2. [Miami Herald](http://www.miami.com/mld/miamiherald/news/nation/7963377.htm)
+2. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)
 
 ### Related:
 

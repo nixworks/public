@@ -8,6 +8,7 @@ The Organization of American States lifted its 47-year suspension of Cuba on Wed
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/vcCandidateFeed1/idUSTRE5526KJ20090603)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

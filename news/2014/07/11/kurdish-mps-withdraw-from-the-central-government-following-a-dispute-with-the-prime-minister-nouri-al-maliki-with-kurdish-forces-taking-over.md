@@ -8,6 +8,7 @@ Iraqi Kurdish forces have taken over two oilfields amid a growing dispute with t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28265064)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76201000/jpg/_76201783_451652472(1).jpg)
 
 ### Related:
 

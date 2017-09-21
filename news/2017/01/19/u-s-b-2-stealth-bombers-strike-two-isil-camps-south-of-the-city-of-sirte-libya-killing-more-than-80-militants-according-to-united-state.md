@@ -9,6 +9,7 @@ U.S. officials confirm that two Air Force stealth B-2 bombers struck two ISIS ca
 
 1. [ABC News](http://abcnews.go.com/International/bombers-strike-isis-camps-libya/story?id=44882627)
 2. [Reuters](http://www.reuters.com/article/us-usa-libya-strike-idUSKBN15320U)
+2. [Cover Image](http://a.abcnews.com/images/International/HT-bomber-01-as-170119_16x9_992.jpg)
 
 ### Related:
 

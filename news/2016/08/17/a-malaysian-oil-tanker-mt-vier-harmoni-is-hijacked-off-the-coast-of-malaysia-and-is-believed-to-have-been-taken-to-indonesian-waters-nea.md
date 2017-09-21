@@ -8,6 +8,7 @@ A Malaysian oil tanker that was believed to have been hijacked was actually comm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37103871)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17CAB/production/_90815479_mediaitem90815475.jpg)
 
 ### Related:
 

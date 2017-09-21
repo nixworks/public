@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-berkshire-bank-of-america-idUSKCN1B92LE?il=0)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170829&t=2&i=1199103334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7S1MJ)
 
 ### Related:
 

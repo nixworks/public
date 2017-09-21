@@ -9,6 +9,7 @@ Australian Prime Minister Malcolm Turnbull declared victory on Sunday in a marat
 
 1. [Reuters](http://www.reuters.com/article/us-australia-election-idUSKCN0ZQ03R?feedType=RSS&feedName=topNews)
 2. [The Guardian](https://www.theguardian.com/australia-news/live/2016/jul/10/australian-election-2016-bill-shorten-defeat-turnbull-victory)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160710&t=2&i=1144816530&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC69081)
 
 ### Related:
 

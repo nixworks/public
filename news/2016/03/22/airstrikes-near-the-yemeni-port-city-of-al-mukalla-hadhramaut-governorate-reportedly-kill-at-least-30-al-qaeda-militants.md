@@ -8,6 +8,7 @@ Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded doze
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-strikes-idUSKCN0WO2TV)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

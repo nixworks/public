@@ -13,6 +13,7 @@ A fire on a crowded Indonesian ferry and a collision between two passenger train
 4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12304419)
 5. [News24](http://www.news24.com/World/News/Indonesia-Deadly-ferry-fire-train-crash-20110128)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/28/c_13710642.htm)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

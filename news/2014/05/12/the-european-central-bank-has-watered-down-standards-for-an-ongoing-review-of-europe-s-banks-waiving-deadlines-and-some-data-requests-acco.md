@@ -8,6 +8,7 @@ The European Central Bank has quietly made a series of concessions to banks that
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/12/us-eurozone-banks-tests-idUSBREA4B0B120140512)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140512&t=2&i=896187218&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA4B0ZPT00)
 
 ### Related:
 

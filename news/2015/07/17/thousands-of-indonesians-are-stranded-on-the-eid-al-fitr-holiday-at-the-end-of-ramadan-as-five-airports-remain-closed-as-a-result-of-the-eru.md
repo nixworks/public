@@ -8,6 +8,7 @@ Ash spewing from two volcanoes in Indonesia prompts the closure of three more ai
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33562364)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/48E6/production/_84326681_84326677.jpg)
 
 ### Related:
 

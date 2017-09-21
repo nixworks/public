@@ -10,6 +10,7 @@ Sri Lankans finish voting in a general election in which former President Mahind
 1. [AFP via Yaho](http://news.yahoo.com/ex-sri-lanka-leader-rajapakse-concedes-election-defeat-003204733.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/2015/08/sri-lanka-heads-polls-150816223715326.html)
 3. [BBC](http://www.bbc.com/news/world-asia-33955146)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/B2B6/production/_85005754_85005753.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ All but a handful of the 35 educators accused in a massive cheating scandal in A
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/04/03/atlanta-cheating-scandal/2049051/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

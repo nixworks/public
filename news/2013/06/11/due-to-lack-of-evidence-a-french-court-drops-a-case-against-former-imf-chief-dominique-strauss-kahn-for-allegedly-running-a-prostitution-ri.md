@@ -8,6 +8,7 @@ A French court has dismissed a case against Dominique Strauss-Kahn in relation t
 ### Source:
 
 1. [ITV](http://www.itv.com/news/update/2013-06-11/report-french-court-drops-dominique-strauss-kahn-prostitute-ring-case/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/217259/8883f895d0704daf_1370941494_9j-4aaqsk.jpeg)
 
 ### Related:
 

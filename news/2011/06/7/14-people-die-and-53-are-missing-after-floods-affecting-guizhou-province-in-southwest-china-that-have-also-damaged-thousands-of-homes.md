@@ -8,6 +8,7 @@ Floods that have ravaged parts of China have left 14 people dead and 53 people m
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/07/china.floods/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/07/china.floods/tzvids.china.floods.jpg)
 
 ### Related:
 

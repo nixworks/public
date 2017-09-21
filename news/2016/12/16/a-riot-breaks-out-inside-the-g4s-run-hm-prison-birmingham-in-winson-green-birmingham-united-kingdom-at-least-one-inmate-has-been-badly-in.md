@@ -9,6 +9,7 @@ Specialist team deal with incident involving hundreds of prisoners at city centr
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-38349299)
 2. [The Guardian](https://www.theguardian.com/society/2016/dec/16/hmp-birmingham-prison-disturbance-winson-green)
+2. [Cover Image](https://i.guim.co.uk/img/media/7759daee7602755c75111bcfb690727ce5c2a69a/0_164_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=093d8cd5a16a527ad2324c442b69d3a2)
 
 ### Related:
 

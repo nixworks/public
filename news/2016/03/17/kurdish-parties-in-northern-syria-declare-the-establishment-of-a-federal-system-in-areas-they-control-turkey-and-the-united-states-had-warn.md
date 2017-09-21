@@ -9,6 +9,7 @@ Kurdish parties declare a new federal system in areas they control in northern S
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35830375)
 2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/syrian-kurds-declare-their-own-region-raising-tensions/2016/03/17/db762950-ec4c-11e5-a9ce-681055c7a05f_story.html?wpmm=1&wpisrc=nl_evening)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F925/production/_88818736_88818635.jpg)
 
 ### Related:
 

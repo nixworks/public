@@ -8,6 +8,7 @@ The suspected militants were interrogated by the taskforce team at an undisclose
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/World/Rest_of_World/24_suspected_militants_arrested_in_Bangladesh/articleshow/2261404.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

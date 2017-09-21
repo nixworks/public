@@ -11,6 +11,7 @@ A Palestinian man has been shot dead by Israeli security forces in the Gaza Stri
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17560066)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4210157,00.html)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4210176,00.html)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59403000/jpg/_59403534_59403533.jpg)
 
 ### Related:
 

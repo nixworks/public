@@ -8,6 +8,7 @@ Archeologists have found a mass grave in Mexico City with four dozen human skele
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/scienceNews/idUSTRE51A0J920090211)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090211&t=2&i=8217417&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-11T133627Z_01_BTRE51A11SX00_RTROPTP_0_MEXICO-GRAVES)
 
 ### Related:
 

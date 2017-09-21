@@ -8,6 +8,7 @@ Human Rights Watch says Iraqi insurgents executed at least 160 captives earlier 
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/06/27/human-rights-watch-says-iraq-militants-executed-at-least-160-captive-troops/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Opposition groups call for protests on Monday as riot police clash with youths i
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011214925802473.html)
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011215194859291708.html)
 4. [Gulf News](http://gulfnews.com/news/gulf/bahrain/al-wefaq-bloc-pulls-out-of-bahrain-s-parliament-1.763950)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/14/20112142565510734_20.jpg)
 
 ### Related:
 

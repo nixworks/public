@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gXlsp54xDr44iU_Xv8xypovuEPyA?docId=8bf4c145-5531-49b6-b4c5-fdc5a391aa4f)
 2. [Abram Online](http://english.ahram.org.eg/NewsContent/2/8/90684/World/Region/Suicide-bomber-kills--near-Baquba-Iraq-police.aspx)
 3. [Al Bawaba](http://www.albawaba.com/news/iraq-al-qaeda-544587)
+3. [Cover Image](http://www.albawaba.com/sites/default/files/im/iraq/iraq_anbar_jan2014.jpg)
 
 ### Related:
 

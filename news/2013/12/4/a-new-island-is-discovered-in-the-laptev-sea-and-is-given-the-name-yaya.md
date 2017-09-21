@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Vesti.Ru](http://www.vesti.ru/doc.html?id=1162984)
+1. [Cover Image](https://cdn-st1.rtr-vesti.ru/p/xw_858198.jpg)

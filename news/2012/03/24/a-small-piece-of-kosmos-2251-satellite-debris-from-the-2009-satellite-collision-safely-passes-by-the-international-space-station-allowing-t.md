@@ -8,6 +8,7 @@ A small piece of Cosmos 2251 satellite debris safely passed by the International
 ### Source:
 
 1. [NASA Television](http://www.youtube.com/watch?v=Kw5zkf2ZfvA)
+1. [Cover Image](https://i.ytimg.com/vi/Kw5zkf2ZfvA/maxresdefault.jpg)
 
 ### Related:
 

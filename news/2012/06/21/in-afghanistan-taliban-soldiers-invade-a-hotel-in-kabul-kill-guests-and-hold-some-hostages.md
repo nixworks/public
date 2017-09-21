@@ -9,6 +9,7 @@ Afghan police say 18 people killed during 13-hour assault on hotel in Qargha Lak
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/2012621223821763757.html)
 2. [Reuters](http://ca.reuters.com/article/topNews/idCABRE85K1S920120622)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/22/20126229283750621_20.jpg)
 
 ### Related:
 

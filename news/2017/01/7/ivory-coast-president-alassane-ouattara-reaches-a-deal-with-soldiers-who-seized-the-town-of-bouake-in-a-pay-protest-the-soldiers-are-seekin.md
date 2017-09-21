@@ -8,6 +8,7 @@ Ivory Coast&#39;s President Alassane Ouattara announced he has reached an agreem
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/Africa/News/breaking-i-coast-president-announces-deal-with-mutinous-soldiers-20170107)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/978/761a4377499542bd8ed6e93a26fd4a94.jpg)
 
 ### Related:
 

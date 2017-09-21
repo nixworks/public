@@ -8,6 +8,7 @@ The Minister for the Environment, Dick Roche, has cleared the way for the constr
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2005/0511/m3.html)
+1. [Cover Image](https://img.rasset.ie/00004b56-1600.jpg)
 
 ### Related:
 

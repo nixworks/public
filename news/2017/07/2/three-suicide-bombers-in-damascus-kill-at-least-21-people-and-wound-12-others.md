@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jul/02/suicide-bomber-damascus-syria-tahrir-square)
+1. [Cover Image](https://i.guim.co.uk/img/media/9c9490ac3bb4738e5abf22da055780d23457a6e0/0_300_4000_2400/master/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=556ba525cf6831674bce2e2f2498b7b8)
 
 ### Related:
 

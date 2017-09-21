@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/health-shots/2015/06/04/411260331/advisers-to-fda-consider-controversial-drug-to-boost-female-libido)
+1. [Cover Image](https://media.npr.org/assets/img/2015/06/04/womans-libido_wide-fb0275e881dcc05333655312c6456d0d57edde4d.jpg?s=1400)
 
 ### Related:
 

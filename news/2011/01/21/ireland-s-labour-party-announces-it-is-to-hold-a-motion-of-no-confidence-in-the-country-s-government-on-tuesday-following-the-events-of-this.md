@@ -16,6 +16,7 @@ The Labour Party has decided to press ahead with a motion of no confidence in th
 7. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE70K3X720110121)
 8. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0121/breaking14.html)
 9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0121/breaking6.html)
+9. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

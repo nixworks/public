@@ -8,6 +8,7 @@ Jeremy Hunt has said he will hand over emails about the BSkyB takeover bid to th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17867537)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59898000/jpg/_59898678_014609893-1.jpg)
 
 ### Related:
 

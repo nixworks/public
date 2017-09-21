@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Chicago Tribune'' via Chicago Breaking News](http://www.chicagobreakingnews.com/news/local/chibrknews-quinn-expected-to-sign-death-penalty-ban-wednesday-20110308,0,248485.story)
+1. [Cover Image](http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650)
 
 ### Related:
 

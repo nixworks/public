@@ -8,6 +8,7 @@ Huge solar storm heading toward Earth could disrupt power grids and airplane fli
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/tech/science/space/story/2012-03-07/solar-storm-earth-power-disruptions/53398390/1?csp=34news)
+1. [Cover Image](http://i.usatoday.net/tech/_photos/2012/03/07/Solar-storm-headed-toward-Earth-C713TBKI-x.jpg)
 
 ### Related:
 

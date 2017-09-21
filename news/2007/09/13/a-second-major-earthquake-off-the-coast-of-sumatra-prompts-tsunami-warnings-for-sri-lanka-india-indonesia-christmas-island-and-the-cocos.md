@@ -11,6 +11,7 @@ A second major earthquake measuring 7.6 off the coast of southern Sumatra in Ind
 2. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/14/2032492.htm)
 3. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-09-13T025243Z_01_L12724647_RTRIDST_0_NEWS-INDONESIA-QUAKE-COL.XML)
 4. [Reuters](http://in.reuters.com/article/topNews/idINIndia-29500420070913)
+4. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iraqi Prime Minister Haidar Al-Abadi, backed by the nation’s top Shiite cleric
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-08-09/iraq-s-abadi-abolishes-key-government-posts-vows-to-fight-graft)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

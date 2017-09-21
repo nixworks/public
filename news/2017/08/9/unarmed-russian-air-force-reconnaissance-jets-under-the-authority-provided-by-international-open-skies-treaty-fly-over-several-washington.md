@@ -9,6 +9,7 @@ The flight was allowed under the Open Skies Treaty
 
 1. [ABC News](http://abcnews.go.com/International/unarmed-russian-air-force-jet-flies-pentagon-capitol/story?id=49123605)
 2. [CBS News](http://www.cbsnews.com/news/russia-flies-military-observation-plane-over-capitol-pentagon-cia/)
+2. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/07/14/26806105-79a7-4e96-9f71-a5e96119483c/the-pentagon-us-department-of-defense-building.jpg)
 
 ### Related:
 

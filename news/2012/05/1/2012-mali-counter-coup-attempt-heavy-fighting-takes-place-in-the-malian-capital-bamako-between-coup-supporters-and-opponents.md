@@ -8,6 +8,7 @@ Current military leaders say they retain hold of key locations in Bamako after a
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/05/20125113377698960.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/1/201251141452469580_20.jpg)
 
 ### Related:
 

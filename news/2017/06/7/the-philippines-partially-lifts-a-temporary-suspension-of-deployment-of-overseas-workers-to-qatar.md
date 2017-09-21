@@ -8,6 +8,7 @@ The Philippine government on Wednesday partially lifted its suspension of deploy
 ### Source:
 
 1. [GMA News](http://www.gmanetwork.com/news/news/pinoyabroad/613610/phl-partially-lifts-ban-on-ofw-deployment-to-qatar/story/)
+1. [Cover Image](http://images.gmanews.tv/webpics/2016/01/qatar_2016_01_24_19_00_32.jpg)
 
 ### Related:
 

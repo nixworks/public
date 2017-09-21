@@ -8,6 +8,7 @@ Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18817567)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61532000/jpg/_61532719_008440195-1.jpg)
 
 ### Related:
 

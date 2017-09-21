@@ -8,6 +8,7 @@ Gripped by its worst cholera outbreak in nearly 15 years, which has already left
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/sierraleone/9507802/Sierra-Leone-battles-worst-cholera-outbreak-in-15-years.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02323/sierra-leone-chole_2323558k.jpg)
 
 ### Related:
 

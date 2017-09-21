@@ -9,6 +9,7 @@ Rebels in east Ukraine call for a ceasefire in Donetsk, amid a reported army adv
 
 1. [BBC](http://www.bbc.com/news/world-europe-28724487)
 2. [Rappler](http://www.rappler.com/world/regions/europe/65751-ukraine-rebel-chief-calls-truce-donetsk-surrounded)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76850000/jpg/_76850412_76850411.jpg)
 
 ### Related:
 

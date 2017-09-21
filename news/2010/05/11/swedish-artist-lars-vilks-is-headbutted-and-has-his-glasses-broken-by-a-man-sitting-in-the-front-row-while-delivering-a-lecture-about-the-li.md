@@ -11,6 +11,7 @@
 2. [CBS News](http://www.cbsnews.com/stories/2010/05/11/world/main6472827.shtml)
 3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7000214.html)
 4. [Radio Free Europe](http://www.rferl.org/content/Swedish_Muhammad_Cartoonist_Attacked_At_Lecture/2039201.html)
+4. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/03/09/dc1e90af-a642-11e2-a3f0-029118418759/image6282087x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ It&#039;s up and running again with a few modifications, though some &#034;staff
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/digital-life/digital-life-news/filesharing-site-the-pirate-bay-back-online-with-reports-of-staff-rifts-20150202-133q6x.html?eid=email:nnn-13omn625-ret_newsl-membereng:nnn-04/11/2013-technology-dom-technology-nnn-smh-u&campaign_code=13ITE007&promote_channel=edmail&mbnr=MjI1MDMwOA)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/3/3/q/t/d/image.related.articleLeadwide.620x349.133q6x.png/1422946000698.png)
 
 ### Related:
 

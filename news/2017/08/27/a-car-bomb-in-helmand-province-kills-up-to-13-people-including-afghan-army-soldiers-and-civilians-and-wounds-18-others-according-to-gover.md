@@ -8,6 +8,7 @@ As many as 13 people, including both Afghan army soldiers and civilians, were ki
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-attack-idUSKCN1B70RK?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

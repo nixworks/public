@@ -16,6 +16,7 @@ Squatters have taken over a London house thought to belong to Saif al-Islam Gadd
 7. [RIA Novosti](http://en.rian.ru/world/20110309/162928578.html)
 8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8372139/Libya-BBC-crew-beaten-and-given-mock-executions.html)
 9. [UPI](http://www.upi.com/Top_News/Special/2011/03/09/Egypt-aids-Libyan-rebels-against-Gadhafi/UPI-42161299696518/)
+9. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

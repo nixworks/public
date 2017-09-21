@@ -10,6 +10,7 @@ In the majority opinion of the Iowa Supreme Court, even juveniles who commit the
 1. [The Christian Science Monitor](http://www.csmonitor.com/USA/Justice/2016/0527/Iowa-Supreme-Court-bans-life-without-parole-sentences-for-all-juveniles)
 2. [The Des Moines Register](http://www.desmoinesregister.com/story/news/crime-and-courts/2016/05/27/court-juvenile-killers-cant-get-life-without-parole/85025960/)
 3. [The New York Times](http://www.nytimes.com/2016/05/28/us/life-sentences-juveniles-iowa-isaiah-sweet.html?_r=0&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedLeft&pgtype=article)
+3. [Cover Image](http://images.csmonitor.com/csm/2016/05/983625_1_0527-WLIFE_standard.png?alias=standard_900x600)
 
 ### Related:
 

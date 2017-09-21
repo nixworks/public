@@ -8,6 +8,7 @@ Pope Benedict XVI&#39;s denunciation of condom use to prevent the spread of HIV 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0318/pope.html)
+1. [Cover Image](https://img.rasset.ie/00022799-1600.jpg)
 
 ### Related:
 

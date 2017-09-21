@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/07/13/pakistan.explosion/index.html?eref=rss_world)
 2. [The Times of India](http://timesofindia.indiatimes.com/NEWS-World-Pakistan-16-killed-in-blast-in-Pak-madrassa-used-as-bomb-making-factory/articleshow/4771600.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/4772319.cms)
 
 ### Related:
 

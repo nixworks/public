@@ -9,6 +9,7 @@ Megory Anderson, executive director of the Sacred Dying Foundation and a former 
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=4868067)
 2. [New York Times](http://www.nytimes.com/2005/09/28/books/28peck.html)
+2. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

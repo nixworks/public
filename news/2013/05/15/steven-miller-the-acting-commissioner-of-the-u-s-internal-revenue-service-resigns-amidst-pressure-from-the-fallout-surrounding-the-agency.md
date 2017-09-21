@@ -8,6 +8,7 @@ WASHINGTON &ndash; President Obama announced the resignation Wednesday evening o
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-obama-irs-commissioner-resignation-20130515,0,1521161.story)
+1. [Cover Image](http://www.trbimg.com/img-51940e5a/turbine/la-pn-obama-irs-commissioner-resignation-20130-001/600/600x380)
 
 ### Related:
 

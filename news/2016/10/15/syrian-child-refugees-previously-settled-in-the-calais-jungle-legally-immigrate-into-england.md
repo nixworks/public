@@ -8,6 +8,7 @@ Aid agencies work with UK and France as operation steps up due to imminent demol
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/oct/15/syrian-refugee-children-britain-france-calais-jungle)
+1. [Cover Image](https://i.guim.co.uk/img/media/febcef96c3d27955230fa5b6bd64632290ec0861/0_316_4800_2879/master/4800.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1d1385a4c2c2dbf4b45ab51908db0962)
 
 ### Related:
 

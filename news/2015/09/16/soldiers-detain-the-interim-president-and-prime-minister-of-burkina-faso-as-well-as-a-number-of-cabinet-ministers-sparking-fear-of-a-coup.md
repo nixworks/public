@@ -9,6 +9,7 @@ Detention of president, prime minister and cabinet members raises fears of coup 
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/09/burkina-faso-soldiers-detain-interim-leaders-150916181328564.html)
 2. [Reuters](http://in.reuters.com/article/2015/09/16/burkina-army-idINKCN0RG29020150916)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/16/b26f3d3b24cf412b8e959e9b28782f3d_18.jpg)
 
 ### Related:
 

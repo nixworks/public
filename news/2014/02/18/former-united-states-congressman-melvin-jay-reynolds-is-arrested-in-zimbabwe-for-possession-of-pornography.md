@@ -8,6 +8,7 @@ A Zimbabwean immigration official says former U.S. Rep. Melvin Jay Reynolds has 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/02/18/former-us-congressman-arrested-in-zimbabwe/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2014/02/18/former-us-congressman-arrested-in-zimbabwe/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446875377002.jpg?ve=1)
 
 ### Related:
 

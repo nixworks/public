@@ -8,6 +8,7 @@ Practising Catholics will no longer be permitted to eat meat on Fridays after th
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/religion/8512721/Catholics-told-to-abstain-from-eating-meat-on-Fridays..html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01719/popeCrowd_1719158a.jpg)
 
 ### Related:
 

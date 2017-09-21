@@ -11,6 +11,7 @@ Pyongyang issued a warning to Tokyo that it if doesn&#8217;t stop its &#8220;hos
 2. [AFP via ''The Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/et-cetera/japan-vows-response-to-any-scenario-after-nuclear-threat/articleshow/19512563.cms)
 3. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134125184154599.html)
 4. [The Japan Daily Press](http://japandailypress.com/north-korea-threatens-nuclear-strike-on-tokyo-if-japan-intercepts-missile-1226930)
+4. [Cover Image](http://japandailypress.com/wp-content/uploads/2013/04/6.si_.jpg)
 
 ### Related:
 

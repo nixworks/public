@@ -11,6 +11,7 @@
 2. [GhanaWeb](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=75730)
 3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1665059,00.html)
 4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L20677821.htm)
+4. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

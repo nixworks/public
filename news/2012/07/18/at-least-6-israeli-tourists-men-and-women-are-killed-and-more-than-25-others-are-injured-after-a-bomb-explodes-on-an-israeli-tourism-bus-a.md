@@ -10,6 +10,7 @@ Over 30 wounded in explosion on bus carrying Israelis inside Burgas airport; Net
 1. [CNN](http://www.cnn.com/2012/07/18/world/europe/bulgaria-israel-blast/index.html?hpt=hp_t1)
 2. [Times of Israel](http://www.timesofisrael.com/explosion-rocks-israeli-tour-bus-in-bulgaria/)
 3. [Washington Post](http://www.washingtonpost.com/world/middle_east/at-least-6-killed-in-bulgaria-in-blast-on-bus-carrying-israeli-tourists/2012/07/18/gJQA1iUBuW_story.html?hpid=z2)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/07/APTOPIX-Bulgaria-Isra_Horo.jpg)
 
 ### Related:
 

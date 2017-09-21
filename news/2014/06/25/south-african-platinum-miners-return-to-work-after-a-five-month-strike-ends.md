@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/06/25/us-safrica-mining-idUSKBN0F00DC20140625)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140625&t=2&i=911384111&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5O0E7)
 
 ### Related:
 

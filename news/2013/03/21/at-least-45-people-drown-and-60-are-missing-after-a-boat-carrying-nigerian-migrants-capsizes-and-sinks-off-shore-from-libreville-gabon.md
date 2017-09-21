@@ -8,6 +8,7 @@ Twenty-nine people are rescued after a boat carrying about 130 people from Niger
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21886069)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66536000/jpg/_66536091_66536090.jpg)
 
 ### Related:
 

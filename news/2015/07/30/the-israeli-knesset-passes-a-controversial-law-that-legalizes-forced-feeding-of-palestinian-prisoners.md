@@ -8,6 +8,7 @@ The Israeli medical community has vowed to prevent the implementation of force-f
 ### Source:
 
 1. [Middle East Eye](http://www.middleeasteye.net/news/israeli-government-sanctions-force-feeding-palestinian-prisoners-1232916376)
+1. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/PalPrisonersHungerstrike.10June2014_0.jpg)
 
 ### Related:
 

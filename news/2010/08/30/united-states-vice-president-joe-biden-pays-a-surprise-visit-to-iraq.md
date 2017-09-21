@@ -9,6 +9,7 @@ American vice president lands in Baghdad on the eve of the formal end of US comb
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010830195626905362.html)
 2. [Aswat al-Iraq](http://en.aswataliraq.info/?p=136284)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/30/20108302064096621_20.jpg)
 
 ### Related:
 

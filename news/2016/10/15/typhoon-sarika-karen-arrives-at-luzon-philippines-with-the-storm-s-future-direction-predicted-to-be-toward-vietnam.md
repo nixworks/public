@@ -8,6 +8,7 @@ A powerful typhoon is bearing down on the Philippines and could be the “most d
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/asia/typhoon-sarika-philippines-tropical-storm-most-damaging-this-year-haiyan-a7363391.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/10/15/16/typhoon-sarika.jpg)
 
 ### Related:
 

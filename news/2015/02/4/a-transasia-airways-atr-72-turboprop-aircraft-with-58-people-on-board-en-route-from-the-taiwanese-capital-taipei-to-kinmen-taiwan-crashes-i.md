@@ -10,6 +10,7 @@ A TransAsia Airways Corp. turboprop plane crashed into a river near Taipei momen
 1. [BBC](http://www.bbc.com/news/business-31125052)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-02-04/transasia-plane-crashes-near-taipei-aviation-council-says)
 3. [Fox News](http://www.foxnews.com/world/2015/02/04/taiwan-plane-crash/)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

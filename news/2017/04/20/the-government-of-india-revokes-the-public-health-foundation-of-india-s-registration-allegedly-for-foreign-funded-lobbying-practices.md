@@ -8,6 +8,7 @@ The government has revoked the registration of Public Health Foundation of India
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/mha-says-phfi-violated-law-by-lobbying-mps-media-on-tobacco-control/articleshow/58271359.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

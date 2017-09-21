@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Fen](http://www.focus-fen.net/index.php?id=n261270)
+1. [Cover Image](http://images.focus-news.net/38ae1b84f7dbe353e6426359a9ba2cbd.jpg)
 
 ### Related:
 

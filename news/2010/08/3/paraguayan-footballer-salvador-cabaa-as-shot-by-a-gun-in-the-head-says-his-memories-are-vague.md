@@ -9,6 +9,7 @@ Paraguayan footballer Salvador Cabanas who survived a gunshot to the head tells 
 
 1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-10848947)
 2. [Times LIVE](http://www.timeslive.co.za/sport/soccer/article583094.ece/Cabanas-has-almost-no-memory-of-being-shot)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

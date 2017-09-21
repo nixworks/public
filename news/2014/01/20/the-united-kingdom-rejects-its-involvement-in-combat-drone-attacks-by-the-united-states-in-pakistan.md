@@ -8,6 +8,7 @@ Judges reject a legal challenge against the UK government by the son of a man ki
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-25809756)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72392000/jpg/_72392503_72392502.jpg)
 
 ### Related:
 

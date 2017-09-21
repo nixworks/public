@@ -9,6 +9,7 @@ More than 22,000 people were evacuated from the &quot;Tomorrowland&quot; festiva
 
 1. [NBC News](http://www.nbcnews.com/news/world/fire-tomorrowland-festival-barcelona-forces-22-000-evacuate-n787846)
 2. [USA Today](https://www.usatoday.com/story/life/music/2017/07/30/20-000-fans-flee-huge-fire-tomorrowland-edm-festival-barcelona/523666001/)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_30/2088821/170730-world-barcelona-festival-fire-0341_379dd3570a5f455f04499832645b5992.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

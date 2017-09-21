@@ -8,6 +8,7 @@ Computer hacker Gary McKinnon, whose extradition to the US was blocked, will not
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20730627)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58450000/jpg/_58450201_57147666.jpg)
 
 ### Related:
 

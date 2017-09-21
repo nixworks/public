@@ -8,6 +8,7 @@ A Russian MiG-29 fighter jet crashes in the Mediterranean as it tries to land on
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37978463)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15A9D/production/_92433788_mediaitem92433787.jpg)
 
 ### Related:
 

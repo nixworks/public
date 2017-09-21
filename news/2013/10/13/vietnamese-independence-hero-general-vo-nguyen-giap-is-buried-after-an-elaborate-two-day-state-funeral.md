@@ -8,3 +8,4 @@ Vietnamese independence hero General Vo Nguyen Giap is buried in his home town a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24510460)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70449000/jpg/_70449224_019628780.jpg)

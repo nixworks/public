@@ -8,6 +8,7 @@ Officers on patrol opened fire on the infiltrator after he refused orders to sto
 ### Source:
 
 1. [Ha'aretz](http://www.haaretz.com/news/diplomacy-defense/egypt-kills-african-migrant-trying-to-sneak-into-israel-1.334782)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.332989.1293326755!/image/3786998585.jpg_gen/derivatives/headline_1200x630/3786998585.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Twenty hostages were killed by militants who stormed an upscale restaurant in th
 1. [ABC News](http://abcnews.go.com/International/shooting-hostage-situation-underway-bangladesh/story?id=40283510)
 2. [CNN](http://www.cnn.com/2016/07/01/asia/bangladesh-dhaka-shooting/index.html)
 3. [USA Today](http://www.usatoday.com/story/news/2016/07/01/86604614/)
+3. [Cover Image](http://a.abcnews.com/images/International/ap_dhaka2_dc_160702_16x9_992.jpg)
 
 ### Related:
 

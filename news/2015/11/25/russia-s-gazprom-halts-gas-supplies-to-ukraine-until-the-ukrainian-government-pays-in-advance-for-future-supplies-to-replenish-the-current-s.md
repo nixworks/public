@@ -9,6 +9,7 @@ The company&#039;s chief executive warns the stoppage poses a serious risk to th
 
 1. [BBC](http://www.bbc.com/news/world-europe-34920207)
 2. [Sky News](http://news.sky.com/story/1593946/russias-gazprom-halts-ukraine-gas-supplies)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/rtx15ddu-1_3501614.jpg?20160704102911)
 
 ### Related:
 

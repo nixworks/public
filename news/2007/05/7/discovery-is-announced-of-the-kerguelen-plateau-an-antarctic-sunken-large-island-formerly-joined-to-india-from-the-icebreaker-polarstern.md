@@ -8,6 +8,7 @@ A mini-continent that was formerly joined to India has been discovered deep unde
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/articleshow/2009270.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

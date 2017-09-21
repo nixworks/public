@@ -8,6 +8,7 @@ After nearly two months of delay due to wildfires, United Launch Alliance succes
 ### Source:
 
 1. [SpaceNews](http://spacenews.com/worldview-4-launches-successfully-after-two-month-fire-delay/)
+1. [Cover Image](http://spacenews.com/wp-content/uploads/2016/11/av_wv4_r5.jpg)
 
 ### Related:
 

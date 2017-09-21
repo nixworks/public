@@ -9,6 +9,7 @@ Microsoft Research and Wikipedia have joined forces to launch a beta version of 
 
 1. [Softpedia](http://news.softpedia.com/news/WikiBhasha-Crowdsourcing-Multilingual-Content-on-Wikipedia-161532.shtml)
 2. [The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/write-wikis-in-any-language-with-new-multilingual-content-creation-tool-2111447.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/10/20/04/477841.bin)
 
 ### Related:
 

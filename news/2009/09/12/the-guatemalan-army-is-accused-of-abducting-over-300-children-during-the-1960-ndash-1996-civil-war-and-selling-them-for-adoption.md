@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/09/12/guatemala.child.abduction/index.html)
 2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN10417054)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

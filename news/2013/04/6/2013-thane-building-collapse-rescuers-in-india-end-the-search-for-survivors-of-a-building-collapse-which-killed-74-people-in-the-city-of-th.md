@@ -8,6 +8,7 @@ Rescuers in India end their search for survivors in the rubble of a Mumbai high-
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22049417)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66773000/jpg/_66773700_66773699.jpg)
 
 ### Related:
 

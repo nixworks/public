@@ -23,7 +23,7 @@ _Context: Iran-Saudi relations, Jeddah, Organization of Islamic Cooperation, Sau
 _Context: U.S. Supreme Court, insider trading_
 
 ### [Former Governor of Alaska, vice presidential candidate (2008), and Tea Party activist Sarah Palin endorses Republican Party presidential candidate Donald Trump for President of the United States. ](/news/2016/01/19/former-governor-of-alaska-vice-presidential-candidate-2008-and-tea-party-activist-sarah-palin-endorses-republican-party-presidential-can.md)
-_Context: Donald Trump, Governor of Alaska, President, Republican, Sarah Palin, Tea Party, Trump's campaign team, United States presidential election, 2016, vice presidential candidate_
+_Context: Donald Trump, Governor of Alaska, Republican, Sarah Palin, Tea Party, Trump's campaign team, U.S. President, United States presidential election, 2016, vice presidential candidate_
 
 ## [Previous Day...](/news/2016/01/18/index.md)
 

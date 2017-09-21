@@ -8,6 +8,7 @@ Once-Tropical Storm Henri will contribute to bring flooding rain and damaging wi
 ### Source:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/henri-flooding-spain-france-uk/52322552)
+1. [Cover Image](https://accuweather.brightspotcdn.com/74/741663a2ac544372d1755faba8bd6f77/650x366_09160905_hd23.jpg)
 
 ### Related:
 

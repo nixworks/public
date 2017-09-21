@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-1031-rights-women-20101031,0,5279652.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

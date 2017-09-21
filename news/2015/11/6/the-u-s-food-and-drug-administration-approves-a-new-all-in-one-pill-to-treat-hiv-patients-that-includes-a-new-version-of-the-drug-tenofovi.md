@@ -8,6 +8,7 @@ The FDA announced its approval of Genvoya , a new pill to treat HIV that researc
 ### Source:
 
 1. [UPI](http://www.upi.com/Health_News/2015/11/06/FDA-approves-single-pill-HIV-treatment/7411446837667/?spt=mps&or=4)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/7411446837667/2015/1/14468403355616/v2.1/FDA-approves-single-pill-HIV-treatment.jpg)
 
 ### Related:
 

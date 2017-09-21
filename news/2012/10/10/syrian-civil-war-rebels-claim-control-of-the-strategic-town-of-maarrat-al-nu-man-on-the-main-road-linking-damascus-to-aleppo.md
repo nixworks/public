@@ -8,6 +8,7 @@ Opposition fighters have reportedly seized Maarat al-Numan, a key town on the hi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012109224646736885.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/9/201210923358203734_20.jpg)
 
 ### Related:
 

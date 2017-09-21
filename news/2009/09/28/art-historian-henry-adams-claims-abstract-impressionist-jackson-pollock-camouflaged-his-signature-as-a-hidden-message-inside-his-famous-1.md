@@ -8,6 +8,7 @@ Jackson Pollock hid his signature inside one of his most important and valuable 
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/art/art-news/6238696/Jackson-Pollock-hid-signature-inside-88m-painting.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01490/pol_1490396a.jpg)
 
 ### Related:
 

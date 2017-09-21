@@ -9,6 +9,7 @@ Coalition partners David Cameron and Nick Clegg take differing views on laws to 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20539239)
 2. [CNN](http://edition.cnn.com/2012/11/28/business/uk-leveson-media-report/index.html?eref=edition)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64466000/jpg/_64466160_bce01eab-2441-40f9-b872-28a0aaee2472.jpg)
 
 ### Related:
 

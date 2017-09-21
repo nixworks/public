@@ -8,6 +8,7 @@ An official says Burundi&#8217;s president has fired his defense minister and tw
 ### Source:
 
 1. [The Washington Times](http://www.washingtontimes.com/news/2015/may/18/after-coup-attempt-burundi-president-fire-3-minist/)
+1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2015/05/18/cc04084c379bd216760f6a706700049d.jpg)
 
 ### Related:
 

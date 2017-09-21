@@ -8,6 +8,7 @@ A suicide bomber who killed seven CIA agents at a base in Afghanistan in January
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11580571)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

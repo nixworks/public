@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Globe and Mail](http://www.theglobeandmail.com/blogs/bureau-blog/stephen-harper-takes-control-of-senate/article1448898/)
+1. [Cover Image](http://static.theglobeandmail.ca/85b/migration_catalog/Politics/article3933623.ece/ALTERNATES/w620/Senate+throne+speech)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Communist President Vladimir Voronin of Moldova has said that he is ready fo
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0730/moldova.html)
+1. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

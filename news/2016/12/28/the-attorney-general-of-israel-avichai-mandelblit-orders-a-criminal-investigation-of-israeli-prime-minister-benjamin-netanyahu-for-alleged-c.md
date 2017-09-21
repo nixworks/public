@@ -8,6 +8,7 @@ Attorney general orders investigation into two unspecified matters involving pri
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/dec/28/israel-attorney-general-orders-criminal-probe-benjamin-netanyahu)
+1. [Cover Image](https://i.guim.co.uk/img/media/2d22a46dfa29c9495dc4a5845b575ebd103574d3/0_221_3500_2101/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=db53299cf05b2eced16b3ef7cea17e76)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A UN-backed court in The Hague sentences former Liberian President Charles Taylo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18259596)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60588000/jpg/_60588547_60588546.jpg)
 
 ### Related:
 

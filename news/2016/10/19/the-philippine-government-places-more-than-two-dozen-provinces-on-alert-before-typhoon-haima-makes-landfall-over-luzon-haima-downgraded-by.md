@@ -10,6 +10,7 @@ MANILA — The Philippines cancelled flights, shut schools and stockpiled suppli
 1. [CNN via KCCI](http://www.kcci.com/national/philippines-braces-for-super-typhoon-haima/42160562)
 2. [Media Corp Press Today Online](http://www.todayonline.com/world/asia/philippines-braces-super-typhoon-haima-strongest-hit-year)
 3. [The Global Disaster Alert and Coordination System](http://www.gdacs.org/report.aspx?eventid=1000321&episodeid=22&eventtype=TC)
+3. [Cover Image](http://www.todayonline.com/sites/default/files/styles/og_images_meta_property/public/photos/43_images/27763001.JPG?itok=yVsnMKdp)
 
 ### Related:
 

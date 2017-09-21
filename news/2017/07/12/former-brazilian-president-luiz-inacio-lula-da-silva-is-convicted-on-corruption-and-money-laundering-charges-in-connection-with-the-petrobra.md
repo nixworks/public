@@ -9,6 +9,7 @@ Luiz In&aacute;cio Lula da Silva was sentenced to nine years in prison but is ex
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-corruption-lula-idUSKBN19X2FO)
 2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/former-brazilian-president-lula-convicted-of-corruption-and-money-laundering/2017/07/12/dd3b7e72-672d-11e7-94ab-5b1f0ff459df_story.html)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170712&t=2&i=1192707166&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6B1IN)
 
 ### Related:
 

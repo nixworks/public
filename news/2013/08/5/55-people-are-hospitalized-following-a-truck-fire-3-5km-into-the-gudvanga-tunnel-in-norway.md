@@ -8,6 +8,7 @@ A truck has caught fire in a tunnel in western Norway leaving 55 people hospit a
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Norway-tunnel-fire-55-hospitalised-20130805)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2475/a2199193c96b4a9099fd6c03599ffed6.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/06/15/us-syria-crisis-coast-idUSKBN0EQ0C620140615)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140615&t=2&i=908345424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5E0AQ)
 
 ### Related:
 

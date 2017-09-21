@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/11/201011144385918519.html)
 2. [Hindustan Times](http://www.hindustantimes.com/Strike-in-Bangladesh-over-Khaleda-Zia-s-eviction/Article1-626005.aspx)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/14/2010111452672580_20.jpg)
 
 ### Related:
 

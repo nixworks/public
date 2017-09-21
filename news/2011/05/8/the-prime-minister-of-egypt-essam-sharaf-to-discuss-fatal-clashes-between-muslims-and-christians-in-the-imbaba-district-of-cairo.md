@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13325845)
 2. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE74704M20110508?feedType=RSS&feedName=egyptNews)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52603000/jpg/_52603807_011925364-1.jpg)
 
 ### Related:
 

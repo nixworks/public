@@ -8,6 +8,7 @@ Large tremor felt in parts of eastern India and Bangladesh; authorities say ther
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/news/magnitude-6-earthquake-strikes-myanmar/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/04/13/78c826e7-9206-4c4d-8fe3-bc07c8020162/myanmar520855288.jpg)
 
 ### Related:
 

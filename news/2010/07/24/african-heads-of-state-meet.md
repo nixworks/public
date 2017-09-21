@@ -13,3 +13,4 @@ African Union leaders meeting in Uganda agree to reinforce their peacekeeping fo
 4. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100724/egypt-president-africa-summit-100724/20100724?hub=World)
 5. [The Guardian](http://www.guardian.co.uk/politics/2010/jul/24/gordon-brown-african-union-kampala)
 6. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=182438)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

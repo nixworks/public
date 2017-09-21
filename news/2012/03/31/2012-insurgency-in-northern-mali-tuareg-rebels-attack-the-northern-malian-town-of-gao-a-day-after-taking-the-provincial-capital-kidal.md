@@ -8,6 +8,7 @@ Reports of gunfire near northern garrison town of Gao as Tuareg fighters make ga
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/2012331101518829540.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/31/201233153156770734_20.jpg)
 
 ### Related:
 

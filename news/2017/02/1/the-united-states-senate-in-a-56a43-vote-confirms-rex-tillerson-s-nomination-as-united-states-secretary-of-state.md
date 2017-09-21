@@ -8,6 +8,7 @@ Amid a tense and dramatic confirmation process for President Donald Trump&#039;s
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/rex-tillerson-secretary-of-state-senate-confirms-exxon-mobil-russia-oil-climate-change-sanctions-a7558231.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/01/11/18/rex-hearing.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Puerto Ricans head to the polls on Sunday to decide whether they want their stru
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-puertorico-debt-vote-idUSKBN19204O?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170611&t=2&i=1188507168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5A03D)
 
 ### Related:
 

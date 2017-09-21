@@ -8,6 +8,7 @@ Worldwide sea levels may rise by about 2.6 to 6.6 feet by 2100 thanks to global 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/scienceNews/idUSN0442173820080904?feedType=RSS&feedName=scienceNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

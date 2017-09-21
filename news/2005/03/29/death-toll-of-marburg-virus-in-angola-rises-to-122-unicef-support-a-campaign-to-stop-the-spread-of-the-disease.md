@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4386805.stm)
 2. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=21906)
 3. [News24](http://www.news24.com/News24/Africa/News/0,6119,2-11-1447_1681775,00.html)
+3. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

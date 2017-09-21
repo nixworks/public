@@ -8,6 +8,7 @@ Environment Agency chairman Sir Philip Dilley has quit after coming under fire f
 ### Source:
 
 1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/uk/environment-agency-boss-dilley-quits-after-barbados-holiday-row-34353840.html)
+1. [Cover Image](http://www.belfasttelegraph.co.uk/news/uk/article34353839.ece/ALTERNATES/h342/PANews%20BT_P-a66c39fd-1b91-4c83-a47b-beca0182c4d7_I1.jpg)
 
 ### Related:
 

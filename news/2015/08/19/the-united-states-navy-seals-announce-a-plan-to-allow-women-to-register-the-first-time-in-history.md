@@ -8,6 +8,7 @@ The high-level push to integrate the storied SEAL brotherhood is coming on the h
 ### Source:
 
 1. [The Navy Times](http://www.navytimes.com/story/military/2015/08/18/women-seals-greenert-losey-buds/31943243/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/d1/ff/3bd8da6749f595de9c6c577a9b00/navy-seal-photo-downloads)
 
 ### Related:
 

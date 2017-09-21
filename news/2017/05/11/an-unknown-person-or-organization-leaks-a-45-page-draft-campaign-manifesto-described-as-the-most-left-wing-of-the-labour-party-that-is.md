@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/election-2017-39879538)
 2. [CNN](http://www.cnn.com/2017/05/11/europe/uk-election-labour-manifesto/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E394/production/_96006285_img_1465.jpg)
 
 ### Related:
 

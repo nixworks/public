@@ -10,6 +10,7 @@ Labour leader Jeremy Corbyn announces a reshaped shadow cabinet following a wave
 1. [BBC](http://www.bbc.com/news/uk-36632956)
 2. [BBC](http://www.bbc.com/news/uk-scotland-scotland-politics-36633244#)
 3. [Parliament UK](https://petition.parliament.uk/petitions/131215)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0412/production/_90124010_mediaitem90124009.jpg)
 
 ### Related:
 

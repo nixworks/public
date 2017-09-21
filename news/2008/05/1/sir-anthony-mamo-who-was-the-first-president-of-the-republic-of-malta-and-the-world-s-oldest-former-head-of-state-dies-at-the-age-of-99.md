@@ -8,6 +8,7 @@ The state funeral of former President Sir Anthony Mamo will be held tomorrow, th
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20080501/local/sir-anthony-mamo-dies)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/f0d4005f21085476ec7bd947b39a61c02008498194-1301776333-4d9787cd-620x348.jpg)
 
 ### Related:
 

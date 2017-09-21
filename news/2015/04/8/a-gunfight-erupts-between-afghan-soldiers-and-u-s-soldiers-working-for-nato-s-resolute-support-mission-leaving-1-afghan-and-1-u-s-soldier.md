@@ -8,6 +8,7 @@ An Afghan man dressed in the uniform of local security forces opened fire on U.S
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/08/us-afghanistan-fighting-idUSKBN0MZ0V520150408)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150408&t=2&i=1038946208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3713L)
 
 ### Related:
 

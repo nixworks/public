@@ -8,6 +8,7 @@ Two bomb attacks - on a restaurant and a mosque - in the central Nigerian city o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-33406537)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/FB5C/production/_84084346_josbomb_silverbird.jpg)
 
 ### Related:
 

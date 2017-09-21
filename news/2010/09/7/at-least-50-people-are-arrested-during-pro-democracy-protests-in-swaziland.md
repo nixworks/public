@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11210849)
 2. [Bloomberg](http://www.bloomberg.com/news/2010-09-07/swaziland-pro-democracy-protesters-rally-in-manzini-amid-police-arrests.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

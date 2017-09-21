@@ -11,6 +11,7 @@ Pakistani rescue teams try to reach tens of thousands of people cut off by devas
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108374717869907.html)
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10847793)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/03/pakistan-floods-dam-risk)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

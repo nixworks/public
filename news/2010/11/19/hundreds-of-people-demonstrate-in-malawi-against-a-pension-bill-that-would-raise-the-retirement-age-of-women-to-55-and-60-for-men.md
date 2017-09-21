@@ -9,6 +9,7 @@
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=135627)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11797117)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8541790.stm)
 3. [RTÉ](http://www.rte.ie/news/2010/0228/afghanistan.html)
 4. [Reuters India](http://in.reuters.com/article/southAsiaNews/idINIndia-46544820100228?feedType=RSS&feedName=southAsiaNews)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

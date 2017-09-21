@@ -8,6 +8,7 @@ The Philippine police are to suspend their controversial war on drugs until &ldq
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/2017/01/30/duterte-has-suspended-war-drugs-can-hunt-corrupt-police-officers/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/03/JS115136425-AP-Rodrigo-Duterte-xlarge_trans_NvBQzQNjv4BqaBGtXCWFUTkYZZZvfPVd8YSLxk9t9W_JVkdyYji0cFA.jpg)
 
 ### Related:
 

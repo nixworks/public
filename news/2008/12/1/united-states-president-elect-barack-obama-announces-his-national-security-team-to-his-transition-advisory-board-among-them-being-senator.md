@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/politicsNews/idUSTRE4AT26E20081201)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20081201&t=2&i=7029295&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-12-01T203338Z_01_BTRE4B01CBC00_RTROPTP_0_USA-OBAMA-ANNOUNCEMENT)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The American rapper best known as Mos Def is ordered to leave South Africa withi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-35330365)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6288/production/_87742252_87742251.jpg)
 
 ### Related:
 

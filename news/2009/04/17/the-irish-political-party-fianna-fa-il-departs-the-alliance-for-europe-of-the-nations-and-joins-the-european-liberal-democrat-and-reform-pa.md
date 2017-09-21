@@ -8,6 +8,7 @@ After fruitful bilateral negotiations the European Liberal and Democrat party we
 ### Source:
 
 1. [EurActiv](http://pr.euractiv.com/press-release/irish-fianna-fail-becomes-member-eldr-9199)
+1. [Cover Image](/files/logo_pr.gif)
 
 ### Related:
 

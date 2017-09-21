@@ -8,6 +8,7 @@ Sixty-nine Kurdish insurgents and two Turkish soldiers have been killed in four 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-kurds-idUSKBN0U208M20151219)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151219&t=2&i=1103573982&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBI0G6)
 
 ### Related:
 

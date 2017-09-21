@@ -8,6 +8,7 @@ About 500 members of Myanmar&#039;s Rohingya Muslim community have been rescued 
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/05/10/two-boats-500-people-land-indonesia)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/ASYLUM_boat_140513_AAP.jpg)
 
 ### Related:
 

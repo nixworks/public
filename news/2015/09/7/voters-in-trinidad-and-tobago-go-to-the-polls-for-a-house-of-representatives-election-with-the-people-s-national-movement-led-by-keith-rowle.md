@@ -9,6 +9,7 @@ After becoming the first female to lead oil-rich Trinidad and Tobago, Kamla Pers
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/article34422543.html)
 2. [Reuters](http://www.reuters.com/article/2015/09/07/us-trinidadtobago-election-idUSKCN0R70BV20150907)
+2. [Cover Image](http://www.miamiherald.com/news/nation-world/world/americas/z34fm/picture34422540/ALTERNATES/LANDSCAPE_1140/rowley2)
 
 ### Related:
 

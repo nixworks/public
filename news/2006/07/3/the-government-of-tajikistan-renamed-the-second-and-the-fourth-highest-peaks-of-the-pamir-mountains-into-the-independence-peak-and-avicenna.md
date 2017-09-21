@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Interfax](http://www.interfax.ru/e/B/politics/28.html?menu=1&id_issue=11545381)
+1. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)
 
 ### Related:
 

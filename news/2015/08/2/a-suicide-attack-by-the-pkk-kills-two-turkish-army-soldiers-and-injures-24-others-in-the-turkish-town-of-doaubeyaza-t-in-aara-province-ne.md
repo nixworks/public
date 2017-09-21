@@ -8,6 +8,7 @@ Two Turkish soldiers are killed and dozens are wounded in a suicide attack near 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33750803)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10F10/production/_84629396_84629395.jpg)
 
 ### Related:
 

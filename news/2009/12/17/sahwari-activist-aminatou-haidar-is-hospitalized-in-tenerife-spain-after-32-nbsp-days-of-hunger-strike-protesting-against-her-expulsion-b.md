@@ -11,6 +11,7 @@ Western Sahara independence activist Aminatou Haidar was taken to hospital at he
 2. [CNN](http://edition.cnn.com/2009/WORLD/europe/12/17/haidar.hunger.hospital.sahara/index.html)
 3. [France24](http://www.france24.com/en/20091217-western-sahara-morocco-aminatou-haidar-hunger-strike-independence-activist-taken-hospital)
 4. [The Age](http://news.theage.com.au/breaking-news-world/wsahara-hunger-strike-activist-hospitalized-aide-20091217-kzov.html)
+4. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

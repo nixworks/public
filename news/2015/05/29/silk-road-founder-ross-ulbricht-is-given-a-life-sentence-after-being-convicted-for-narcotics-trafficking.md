@@ -8,6 +8,7 @@ Ross Ulbricht, founder and mastermind of the Silk Road, has been sentenced to li
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2015/5/29/8687583/prison-sentence-ross-ulbricht-guilty-silk-road-dread-pirate-roberts)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/LIOvidKDKVyUtiFOEvlRT9QrBAo=/0x19:560x334/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/46427540/ross_ulbricht_woods.0.JPG)
 
 ### Related:
 

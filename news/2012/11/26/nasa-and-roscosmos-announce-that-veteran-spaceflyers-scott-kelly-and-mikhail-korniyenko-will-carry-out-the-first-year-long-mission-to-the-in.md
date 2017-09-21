@@ -8,6 +8,7 @@ NASA, the Russian Federal Space Agency (Roscosmos), and their international part
 ### Source:
 
 1. [NASA](http://www.nasa.gov/home/hqnews/2012/nov/HQ_12-406_ISS_1-Year_Crew.html)
+1. [Cover Image](http://www.nasa.gov/sites/default/files/thumbnails/image/s132-e-007808.jpg)
 
 ### Related:
 

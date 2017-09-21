@@ -10,6 +10,7 @@ At least 10 people killed near Shia Muslim procession in Pakistan city, while fo
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i4iK5PsC-wBG6NdVa05dKZeFXxzg?docId=1a9ef84aa03648308f7439796d9d2269)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/01/2011125142912899674.html)
 3. [The Hindu](http://www.thehindu.com/news/international/article1124448.ece)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/25/2011125154016729360_20.jpg)
 
 ### Related:
 

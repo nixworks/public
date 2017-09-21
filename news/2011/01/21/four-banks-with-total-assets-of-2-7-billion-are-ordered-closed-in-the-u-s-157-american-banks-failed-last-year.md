@@ -8,6 +8,7 @@ U.S. authorities closed four banks -- one in Denver and three in the U.S. Southe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70L0BO20110122)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

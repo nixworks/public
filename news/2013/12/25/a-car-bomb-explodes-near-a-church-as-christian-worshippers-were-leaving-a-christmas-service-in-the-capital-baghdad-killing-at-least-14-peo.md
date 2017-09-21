@@ -8,6 +8,7 @@ Two bombs near a Catholic church and a market in Baghdad kill at least 35 people
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25514687)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71951000/jpg/_71951562_71951561.jpg)
 
 ### Related:
 

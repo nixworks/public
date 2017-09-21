@@ -8,6 +8,7 @@ Bacteria in the cronut burgers sold by a Canadian National Exhibition food vendo
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/story/2013/08/23/toronto-public-health-cne-food-poisoning.html)
+1. [Cover Image](https://i.cbc.ca/1.1525999.1379102668!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-cronut-burger.jpg)
 
 ### Related:
 

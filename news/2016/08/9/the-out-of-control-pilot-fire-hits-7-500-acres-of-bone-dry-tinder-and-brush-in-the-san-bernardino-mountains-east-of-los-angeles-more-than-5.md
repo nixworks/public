@@ -8,6 +8,7 @@ A wildfire burning out of control in mountains and foothills east of Los Angeles
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-california-fire-idUSKCN10K1ZV)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160809&t=2&i=1149020860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC781LB)
 
 ### Related:
 

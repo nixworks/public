@@ -8,6 +8,7 @@ Insurgents wage assaults on security forces, gunning down soldiers at an army po
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57509025/wave-of-attacks-kills-at-least-44-in-iraq/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/09/09/e8aaafc3-a644-11e2-a3f0-029118418759/Iraq_AP954160560467.jpg)
 
 ### Related:
 

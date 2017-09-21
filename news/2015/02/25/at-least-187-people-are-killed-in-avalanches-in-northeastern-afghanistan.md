@@ -8,6 +8,7 @@ Afghan rescuers are searching for dozens of people believed to be trapped under 
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-31636599)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81251000/jpg/_81251635_81251634.jpg)
 
 ### Related:
 

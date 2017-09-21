@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Express Tribune](http://tribune.com.pk/story/243324/loc-three-pakistani-soldiers-die-in-attack-by-indian-forces/)
+1. [Cover Image](https://c.tribune.com.pk/2011/09/243324-KashmirLOCtradeepa-1314859945-866-640x480.jpg)
 
 ### Related:
 

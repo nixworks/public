@@ -8,6 +8,7 @@ A series of earthquakes have terrified many already-frazzled Christchurch reside
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10775043)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201152/SCCZEN_231211CSTGSAFTERSHOCK3_1024x76838006.JPG)
 
 ### Related:
 

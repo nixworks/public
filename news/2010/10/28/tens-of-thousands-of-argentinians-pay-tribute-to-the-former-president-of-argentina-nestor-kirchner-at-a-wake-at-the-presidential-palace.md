@@ -8,6 +8,7 @@ Tens of thousands of Argentines paid tribute on Thursday to former President Nes
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69Q2TV20101028)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101028&t=2&i=236248662&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-28T193722Z_01_BTRE69R1IIC00_RTROPTP_0_ARGENTINA-KIRCHNER)
 
 ### Related:
 

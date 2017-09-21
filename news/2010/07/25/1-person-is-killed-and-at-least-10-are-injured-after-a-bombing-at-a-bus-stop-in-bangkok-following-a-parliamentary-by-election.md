@@ -10,6 +10,7 @@ One person is killed and 8 others wounded in the explosion as Thai capital votes
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010725123439640359.html)
 2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/187867/one-dead-in-bangkok-bomb-blast)
 3. [Channel 4](http://www.channel4.com/news/articles/world/thailand+busstop+bomb+injures+nine/3723142)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

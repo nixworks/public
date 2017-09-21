@@ -8,6 +8,7 @@ Twenty-three people have been killed and 17 injured in a ferry accident off the 
 ### Source:
 
 1. [The Melbourne Age](http://www.theage.com.au/world/23-dead-17-injured-in-fire-on-indonesian-ferry-in-thousand-islands-20170101-gtkhkt.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/g/t/k/h/r/x/image.related.articleLeadwide.620x349.gtkhkt.png/1483295071648.jpg)
 
 ### Related:
 

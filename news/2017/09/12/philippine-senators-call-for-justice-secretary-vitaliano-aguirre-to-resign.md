@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-asia-41244704)
 2. [Philippine Canadian Inquirer](http://www.canadianinquirer.net/2017/09/12/minority-senators-support-hontiveros-call-on-aguirres-resignation/)
 3. [Rappler](https://www.rappler.com/technology/social-media/181952-commission-on-human-rights-2018-budget-house-of-representatives-social-media-reaction)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/163B1/production/_97775019_gettyimages-828089032.jpg)
 
 ### Related:
 

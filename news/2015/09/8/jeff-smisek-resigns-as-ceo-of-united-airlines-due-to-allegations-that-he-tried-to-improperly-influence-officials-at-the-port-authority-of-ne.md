@@ -8,6 +8,7 @@ United Continental CEO Jeff Smisek and two top lieutenants stepped down as the r
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/united-continental-ceo-jeff-smisek-departs-1441746428?mod=djemalertNEWS)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KF084_SMISEK_G_20150908174709.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ The UN tells Israel and Lebanon to show restraint, after a clash between troops 
 4. [Boston Herald](http://www.bostonherald.com/news/international/middle_east/view.bg?articleid=1272267&srvc=rss)
 5. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/israel-cuts-down-trees-that-caused-lebanon-clashes-20100804-11fd5.html)
 6. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=183664)
+6. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ French President Emmanuel Macron has named a mix of prominent and unknown figure
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/emmanuel-macron-cabinet-government-france-election-ministers-named-2017-local-vote-a7741151.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/17/16/emmanuel-macron-collomb.jpg)
 
 ### Related:
 

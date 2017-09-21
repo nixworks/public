@@ -9,6 +9,7 @@ Ukrainian troops are leaving Crimea, after emotional farewells to wives and fami
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-26722668)
 2. [BBC](http://www.bbc.com/news/world-europe-26713727#)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73768000/jpg/_73768543_73768542.jpg)
 
 ### Related:
 

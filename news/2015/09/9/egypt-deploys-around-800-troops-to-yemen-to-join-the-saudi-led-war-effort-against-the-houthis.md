@@ -8,6 +8,7 @@ As many as 800 Egyptian soldiers arrived in Yemen late on Tuesday, Egyptian secu
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/09/09/uk-yemen-security-idUKKCN0R91I720150909)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150909&t=2&i=1078071614&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB880UI)
 
 ### Related:
 

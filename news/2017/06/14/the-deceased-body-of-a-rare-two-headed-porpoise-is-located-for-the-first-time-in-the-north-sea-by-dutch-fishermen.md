@@ -8,6 +8,7 @@ Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch 
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/2017/06/two-headed-porpoise-found-first/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2017/06/14/01-two-headed-porpoise.ngsversion.1497478655160.adapt.1900.1.jpg)
 
 ### Related:
 

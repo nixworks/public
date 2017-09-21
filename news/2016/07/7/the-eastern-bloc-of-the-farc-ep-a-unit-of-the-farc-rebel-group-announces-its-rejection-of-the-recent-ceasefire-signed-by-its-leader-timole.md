@@ -8,6 +8,7 @@ Armando Rios First Front calls on other units to join in the ‘fight for the ta
 ### Source:
 
 1. [Reuters via ''The Guardian](https://www.theguardian.com/world/2016/jul/07/colombian-farc-rebel-unit-not-disarm-under-peace-deal)
+1. [Cover Image](https://i.guim.co.uk/img/media/7c7ec60e78429adaee916e696f127c8b85fd0c4c/0_30_4132_2481/4132.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d8daac65484c491aef638954683c493f)
 
 ### Related:
 

@@ -8,6 +8,7 @@ South-east Australia is hit with extreme hot weather, with temperatures of over 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25723867)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72288000/jpg/_72288027_72288026.jpg)
 
 ### Related:
 

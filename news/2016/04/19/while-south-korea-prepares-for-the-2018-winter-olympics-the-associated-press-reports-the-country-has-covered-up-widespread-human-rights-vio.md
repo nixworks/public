@@ -8,6 +8,7 @@ BUSAN, South Korea (AP) — The 14-year-old boy in the black school jacket stare
 ### Source:
 
 1. [AP](http://bigstory.ap.org/urn:publicid:ap.org:c22de3a565fe4e85a0508bbbd72c3c1b)
+1. [Cover Image](http://binaryapi.ap.org/5245e2a1dd234c4590e884e9eed3d30f/460x.jpg)
 
 ### Related:
 

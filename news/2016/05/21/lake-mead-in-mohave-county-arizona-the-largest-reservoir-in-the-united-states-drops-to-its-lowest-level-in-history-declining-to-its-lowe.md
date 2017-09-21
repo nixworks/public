@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WFAA](http://www.wfaa.com/news/nation/lake-mead-drops-to-the-lowest-level-in-history/208435296)
+1. [Cover Image](http://content.11alive.com/photo/2016/05/21/635762703882987290-las-vegas-water-use12_1463839338345_2422670_ver1.0.jpg)
 
 ### Related:
 

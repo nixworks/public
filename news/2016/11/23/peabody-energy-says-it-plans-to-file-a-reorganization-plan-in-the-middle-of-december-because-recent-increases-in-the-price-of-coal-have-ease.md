@@ -8,6 +8,7 @@ U.S. coal producer Peabody Energy Corp (BTUUQ.PK) said on Wednesday it is closer
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-peabody-energy-bankruptcy-idUSKBN13I2KB)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161123&t=2&i=1162848130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAM1I8)
 
 ### Related:
 

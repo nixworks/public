@@ -9,6 +9,7 @@
 
 1. [Nobel Foundation](http://nobelprize.org/nobel_prizes/physics/laureates/2008/)
 2. [Wall Street Journal](http://online.wsj.com/article/SB122337539699711107.html)
+2. [Cover Image](http://www.nobelprize.org/nobel_prizes/physics/laureates/2008/nambu_postcard.jpg)
 
 ### Related:
 

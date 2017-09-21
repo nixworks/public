@@ -8,6 +8,7 @@ A bomb struck a bus carrying Egyptian policemen today, killing one and wounding 
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/world-news/bomb-kills-1-egyptian-policemen-wounds-29-1210380)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-08/isis_650x488_51438914337.jpg)
 
 ### Related:
 

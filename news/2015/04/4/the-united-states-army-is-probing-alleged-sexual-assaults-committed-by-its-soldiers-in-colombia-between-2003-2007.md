@@ -8,6 +8,7 @@ Army criminal investigators plan to probe allegations with officials in Colombia
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/04/03/army-colombia-sexual-assault/25252341/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

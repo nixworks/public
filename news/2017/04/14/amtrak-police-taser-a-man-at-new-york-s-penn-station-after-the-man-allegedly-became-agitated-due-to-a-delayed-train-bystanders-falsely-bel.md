@@ -9,6 +9,7 @@ Numerous reports of chaos and panic at Penn Station appeared on social media Fri
 
 1. [New York Daily News](http://www.nydailynews.com/new-york/stampeding-mob-flees-penn-station-amtrak-cops-taser-man-article-1.3056434)
 2. [Newsday](http://www.newsday.com/news/new-york/transit-police-incident-sparks-panic-at-penn-station-1.13469490)
+2. [Cover Image](https://cdn.newsday.com/polopoly_fs/1.13469430.1492222903!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg)
 
 ### Related:
 

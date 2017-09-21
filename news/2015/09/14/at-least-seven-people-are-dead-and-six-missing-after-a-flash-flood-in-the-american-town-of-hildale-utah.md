@@ -8,6 +8,7 @@ WATCH 2News live with special coverage of the Hildale flash floodKUTV Hildale of
 ### Source:
 
 1. [KUTV](http://kutv.com/news/local/flooding-in-hildale-overturns-cars-zion-rivers-swell)
+1. [Cover Image](http://static-11.sinclairstoryline.com/resources/media/087226c3-b54c-4ba5-9239-a223659cc90d-IMG952733.jpg?1442283807236)
 
 ### Related:
 

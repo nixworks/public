@@ -8,6 +8,7 @@ Thousands of people in south-eastern Nigerian attend the funeral of former Biafr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17230673)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58835000/jpg/_58835285_014145471.jpg)
 
 ### Related:
 

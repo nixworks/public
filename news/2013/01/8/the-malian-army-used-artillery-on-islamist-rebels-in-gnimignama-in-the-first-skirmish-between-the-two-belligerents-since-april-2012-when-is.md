@@ -8,6 +8,7 @@ Malian soldiers fire warning shots as Islamist fighters advance south from their
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20936803)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65143000/jpg/_65143214_65143213.jpg)
 
 ### Related:
 

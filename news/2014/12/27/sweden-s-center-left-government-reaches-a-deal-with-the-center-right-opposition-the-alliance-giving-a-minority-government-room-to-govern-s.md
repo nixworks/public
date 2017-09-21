@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-30610500)
 2. [The Local](http://www.thelocal.se/20141227/sweden-to-scrap-new-election-report)
+2. [Cover Image](https://www.thelocal.se/userdata/images/article/91ecbf0efa55e797ed592579724ebc88b4b1b4d5654236aa280f65863ae77acd.jpg)
 
 ### Related:
 

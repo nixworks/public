@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Vox](https://www.vox.com/science-and-health/2017/7/15/15972854/tardigrades-end-of-the-world)
+1. [Cover Image](https://cdn.vox-cdn.com/thumbor/mtuIngbM9BPy84z3g87hhpvSbTA=/0x0:432x240/1080x600/cdn.vox-cdn.com/uploads/chorus_image/image/55724569/61018_orig.0.0.jpg)
 
 ### Related:
 

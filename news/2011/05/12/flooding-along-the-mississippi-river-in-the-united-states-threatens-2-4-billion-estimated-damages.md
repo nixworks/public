@@ -10,6 +10,7 @@ As the Mississippi River continues to rise and more bays are opened in the Bonne
 1. [MSNBC](http://www.msnbc.msn.com/id/43004322/ns/weather/)
 2. [NOLA.com](http://www.nola.com/environment/index.ssf/2011/05/mississippi_river_rise_has_riv.html)
 3. [WWL TV](http://www.wwltv.com/news/river-watch/Officials-try-to-calm-fears-of-New-Orleans-flooding-from-Mississippi-River-121740599.html)
+3. [Cover Image](http://image.nola.com/home/nola-media/width620/img/tpphotos/photo/2011/05/9572076-large.jpg)
 
 ### Related:
 

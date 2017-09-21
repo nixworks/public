@@ -9,6 +9,7 @@ Ghana will receive around$1.1 billion in resources from the International Moneta
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8155374.stm)
 2. [Reuters](http://www.reuters.com/article/marketsNews/idUSN1642325820090716)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

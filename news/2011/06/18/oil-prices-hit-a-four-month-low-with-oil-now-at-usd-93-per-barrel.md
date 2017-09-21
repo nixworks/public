@@ -8,6 +8,7 @@ Oil prices fell on Friday, with U.S. crude slumping to a four-month low under $9
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/17/us-markets-oil-idUSTRE7592LE20110617)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110617&t=2&i=440917972&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-17T123856Z_01_BTRE75G0Z4Y00_RTROPTP_0_MARKETS-OIL)
 
 ### Related:
 

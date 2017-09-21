@@ -9,6 +9,7 @@ The Northern Ireland Secretary of State Owen Paterson has received a copy of the
 
 1. [RTÉ](http://www.rte.ie/news/2010/0614/saville.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0614/breaking48.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

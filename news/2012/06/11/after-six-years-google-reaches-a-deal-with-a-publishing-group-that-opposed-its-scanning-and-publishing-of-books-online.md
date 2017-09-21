@@ -8,6 +8,7 @@ Google has struck a deal to digitise French books, ending a six-year legal battl
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-18393990)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60827000/jpg/_60827633_60827632.jpg)
 
 ### Related:
 

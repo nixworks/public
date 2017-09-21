@@ -8,6 +8,7 @@ Former Grand Slam tennis champion Bob Hewitt, 75, has been found guilty of two c
 ### Source:
 
 1. [News 24](http://www.news24.com/SouthAfrica/News/Bob-Hewitt-found-guilty-of-rape-20150323)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2990/711756c5c7634f0095f484d8ef95ad97.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At LEAST 11 people have died in flooding in the Mauritian capital Port Louis, of
 
 1. [BBC](http://www.bbc.co.uk/weather/features/21996944)
 2. [The Scotsman](http://www.scotsman.com/news/international/mauritius-capital-bit-by-deadly-floods-1-2869736)
+2. [Cover Image](http://editorial.jpress.co.uk/mastheads/SWTS-masthead-share-img.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-europe-34983426)
 2. [The Financial Times](http://www.ft.com/intl/cms/s/0/137322ca-999d-11e5-9228-87e603d47bdc.html)
 3. [The Local](http://www.thelocal.se/20151203/sweden-mulls-bid-to-close-bridge-to-denmark)
+3. [Cover Image](https://www.thelocal.se/userdata/images/article/31d2804c937e237a4d872419de506f192c9ab01e2a57fd7d1252857b01102c1a.jpg)
 
 ### Related:
 

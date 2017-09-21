@@ -8,6 +8,7 @@ New figures show US banks foreclosed on a record one million American homes in 2
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/14/3112623.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

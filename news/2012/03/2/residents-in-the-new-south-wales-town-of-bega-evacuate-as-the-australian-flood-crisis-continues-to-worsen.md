@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://www.bloomberg.com/news/2012-03-01/more-evacuations-as-floods-hit-new-south-wales-dam-may-spill.html)
 2. [News Limited](http://www.news.com.au/national/when-will-it-stop-floodwaters-menace-wary-residents/story-e6frfkvr-1226286709452)
+2. [Cover Image](http://cdn.newsapi.com.au/image/v1/989de6198abac3e51bd76ece9a61d8ce)
 
 ### Related:
 

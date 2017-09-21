@@ -16,7 +16,7 @@ Philippine stocks fell the most since February after a poll showed tough-talking
 Australian entrepreneur Craig Wright has publicly identified himself as Bitcoin creator Satoshi Nakamoto.
 
 ### [Puerto Rico defaults on a $422 million debt payment. The Governor of Puerto Rico Alejandro Garcia Padilla calls the situation a "humanitarian crisis". This is the third time Puerto Rico has defaulted on bond payments. ](/news/2016/05/2/puerto-rico-defaults-on-a-422-million-debt-payment-the-governor-of-puerto-rico-alejandro-garcaa-padilla-calls-the-situation-a-humanitari.md)
-_Context: Alejandro Garcia Padilla, Governor of Puerto Rico, Puerto Rican government-debt crisis, Puerto Rico, defaults_
+_Context: Alejandro Garcia Padilla, Puerto Rican Governor, Puerto Rican government-debt crisis, Puerto Rico, defaults_
 
 ### [The bodies of mountaineer Alex Lowe and photographer David Bridges are found on the Himalayan mountain Shishapangma after being buried in an avalanche in 1999. ](/news/2016/05/2/the-bodies-of-mountaineer-alex-lowe-and-photographer-david-bridges-are-found-on-the-himalayan-mountain-shishapangma-after-being-buried-in-an.md)
 The American known as ‘Lungs With Legs’ was climbing the 8,013m Shishapangma in 1999 when he was hit by an avalanche

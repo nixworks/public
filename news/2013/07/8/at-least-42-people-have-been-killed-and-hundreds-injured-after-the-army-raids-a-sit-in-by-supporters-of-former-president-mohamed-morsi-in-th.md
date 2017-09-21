@@ -8,6 +8,7 @@ At least 42 people are shot dead outside an army barracks in Cairo where support
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23222546#TWEET814296)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68601000/jpg/_68601323_68601322.jpg)
 
 ### Related:
 

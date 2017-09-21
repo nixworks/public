@@ -9,6 +9,7 @@ Colombia has withdrawn from a treaty that binds it to the U.N. International Cou
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20533659)
 2. [Reuters](http://www.reuters.com/article/2012/11/28/us-colombia-icj-idUSBRE8AR11Q20121128)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121128&t=2&i=679076931&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8AR1ES700)
 
 ### Related:
 

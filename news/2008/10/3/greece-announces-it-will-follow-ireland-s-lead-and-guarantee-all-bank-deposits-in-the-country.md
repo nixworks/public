@@ -8,6 +8,7 @@ Officials in Athens have said Greece will follow the Irish lead in guaranteeing 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/1003/eueconomy.html)
+1. [Cover Image](https://img.rasset.ie/0001c4a7-1600.jpg)
 
 ### Related:
 

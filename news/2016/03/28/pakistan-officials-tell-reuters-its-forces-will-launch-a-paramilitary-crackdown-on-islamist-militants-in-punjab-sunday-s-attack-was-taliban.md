@@ -8,6 +8,7 @@ Malik and Mubasher Bukhari
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKCN0WT0HR)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160328&t=2&i=1128331423&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2R0FU)
 
 ### Related:
 

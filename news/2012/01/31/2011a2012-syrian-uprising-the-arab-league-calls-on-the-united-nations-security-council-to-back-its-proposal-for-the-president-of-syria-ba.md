@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/01/31/uk-syria-idUKL6E8C52E220120131)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120131&t=2&i=564853665&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-01-31T112756Z_1_BTRE80S1GXF00_RTROPTP_0_SYRIA)
 
 ### Related:
 

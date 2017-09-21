@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Postimees](http://www.postimees.ee/2619790/tiidus-andis-ametivande-ja-astus-kultuuriministri-ametisse)
+1. [Cover Image](http://f11.pmo.ee/1XUQo2cQF5xosfhhcBnxDbWzJUM=/640x480/smart/nginx/o/2013/12/04/2665282t1h9415.jpg)
 
 ### Related:
 

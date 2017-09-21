@@ -11,6 +11,7 @@
 2. [Business Ghana](http://www.businessghana.com/portal/news/index.php?op=getNews&id=177780)
 3. [Channel New Asia](http://www.channelnewsasia.com/stories/afp_world/view/1248706/1/.html)
 4. [VB2013](http://vb2013.bmi.gv.at/)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65397000/jpg/_65397916_65397915.jpg)
 
 ### Related:
 

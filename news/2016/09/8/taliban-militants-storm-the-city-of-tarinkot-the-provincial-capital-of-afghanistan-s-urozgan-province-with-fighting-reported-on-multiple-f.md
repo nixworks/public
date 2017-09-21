@@ -8,6 +8,7 @@ Afghan officials sent reinforcements to Tarin Kot, in Uruzgan province, in an at
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/world/la-fg-afghanistan-taliban-20160908-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57d13b0e/turbine/la-fg-afghanistan-taliban-20160908-snap)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-34613748)
 2. [Forbes](http://www.forbes.com/sites/hughmcintyre/2015/10/23/adele-finally-returns-with-comeback-single-hello/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/EFFE/production/_86283416_adele_2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Groups of Brazilian indigenous people block roads and occupy government building
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18259233)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60573000/jpg/_60573018_014888078-1.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-europe-35897417)
 2. [CNN](http://edition.cnn.com/2016/03/25/europe/brussels-investigation/index.html)
 3. [NBC News](http://www.nbcnews.com/storyline/brussels-attacks/suspected-paris-bomb-maker-najim-laachraoui-was-brussels-attacker-n545521)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/172CC/production/_88942949_032156514.jpg)
 
 ### Related:
 

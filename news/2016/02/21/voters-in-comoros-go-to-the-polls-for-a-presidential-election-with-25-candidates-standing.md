@@ -8,6 +8,7 @@ The country has had more than 20 coups or attempts at seizing power since it gai
 ### Source:
 
 1. [Mail and Guardian](http://mgafrica.com/article/2016-02-19-troubled-economic-times-hang-over-comoros-islands-it-goes-for-a-presidential-vote)
+1. [Cover Image](http://cdn.mg.co.za/crop/content/images/2016/02/19/comorospresident_landscape.jpg/600x250/)
 
 ### Related:
 

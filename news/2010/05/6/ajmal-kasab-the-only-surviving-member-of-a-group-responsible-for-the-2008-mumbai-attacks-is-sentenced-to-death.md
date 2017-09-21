@@ -9,6 +9,7 @@ Pak terrorist Ajmal Amir Kasab has been awarded the death sentence by special ju
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8664179.stm)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/Mumbai-attacks-Kasab-gets-the-death-penalty/articleshow/5897555.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/5897743.cms)
 
 ### Related:
 

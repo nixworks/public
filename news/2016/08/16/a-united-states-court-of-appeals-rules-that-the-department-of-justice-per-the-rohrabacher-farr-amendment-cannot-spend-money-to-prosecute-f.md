@@ -9,6 +9,7 @@ The DOJ had been leaning on a &quot;tortured&quot; interpretation of a federal s
 
 1. [Reuters](http://www.reuters.com/article/us-usa-ruling-marijuana-idUSKCN10R1YN)
 2. [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/08/16/yet-another-federal-court-has-told-the-doj-to-stop-harassing-medical-marijuana-providers/)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160816&t=2&i=1149910007&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7F15O)
 
 ### Related:
 

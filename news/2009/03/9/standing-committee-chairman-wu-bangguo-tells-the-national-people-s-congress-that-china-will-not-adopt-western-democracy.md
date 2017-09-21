@@ -8,6 +8,7 @@ A high-ranking official of the Communist Party told the National People’s Cong
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/03/10/world/asia/10beijing.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

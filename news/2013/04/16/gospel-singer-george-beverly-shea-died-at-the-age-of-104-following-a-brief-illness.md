@@ -8,6 +8,7 @@ Mr. Shea, a Grammy Award-winning gospel singer, performed live for an estimated 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/18/arts/music/george-beverly-shea-billy-grahams-singer-dies-at-104.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/18/arts/SHEA1-obit/SHEA1-obit-videoLarge.jpg)
 
 ### Related:
 

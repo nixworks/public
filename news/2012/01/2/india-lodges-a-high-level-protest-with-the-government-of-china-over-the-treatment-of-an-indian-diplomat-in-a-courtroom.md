@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16381464)
 2. [Times of India](http://timesofindia.indiatimes.com/india/India-summons-Chinese-envoy-over-ill-treatment-of-diplomat/articleshow/11338406.cms)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57650000/jpg/_57650273_flags_afp.jpg)
 
 ### Related:
 

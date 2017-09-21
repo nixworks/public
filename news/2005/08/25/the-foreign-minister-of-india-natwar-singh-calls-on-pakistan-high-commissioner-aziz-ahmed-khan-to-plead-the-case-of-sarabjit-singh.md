@@ -8,6 +8,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### Source:
 
 1. [NDTV.com](http://www.ndtv.com/template/template.asp?template=INDOPAKFACEOFF&slug=India+requests+Pak+to+review+Sarabjit+case&id=17611&callid=0&category=National)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

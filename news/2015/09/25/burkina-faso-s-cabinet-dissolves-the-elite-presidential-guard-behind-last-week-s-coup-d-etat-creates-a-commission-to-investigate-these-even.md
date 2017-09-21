@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/09/25/burkina-army-idINKCN0RP2CB20150925)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150925&t=2&i=1082276092&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8O15F)
 
 ### Related:
 

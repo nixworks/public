@@ -10,6 +10,7 @@ This material that can clear out radioactive waste from nuclear plants more effi
 1. [Nature Communications](http://www.nature.com/ncomms/2016/160613/ncomms11831/full/ncomms11831.html)
 2. [R&D Magazine](http://www.rdmag.com/news/2016/06/new-material-can-clear-nuclear-waste-gases)
 3. [The Statesman](http://www.thestatesman.com/news/science-and-tech/new-material-can-remove-radioactive-waste-efficiently/148148.html)
+3. [Cover Image](http://images.thestatesman.com/uploads/images/statesman/2016/6/2016_6$thumbimg13_Jun_2016_165045220.jpg)
 
 ### Related:
 

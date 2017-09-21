@@ -8,6 +8,7 @@ Palestinian Authority President Mahmoud Abbas gave the go-ahead Wednesday to app
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/abbas-oks-palestinian-application-to-join-international-criminal-court-1420050385)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-GF694_1palic_G_20141231131347.jpg)
 
 ### Related:
 

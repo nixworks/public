@@ -9,6 +9,7 @@ Citizens of the CAR have voted for a new constitution that will replace a transi
 
 1. [Deutsche Welle](http://www.dw.com/en/central-african-republic-voters-say-yes-to-new-constitution/a-18933653)
 2. [Toronto Metro News](http://www.metronews.ca/news/world/2015/12/22/central-african-republic-overwhelmingly-votes-yes-on-constitutional-referendum.html)
+2. [Cover Image](http://www.dw.com/image/18915361_304.jpg)
 
 ### Related:
 

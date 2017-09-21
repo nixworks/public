@@ -11,6 +11,7 @@ The trial of John Demjanjuk, an 89-year-old former guard at a Nazi camp, opened 
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4942000,00.html)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE5AS2DJ20091130)
 4. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/accused-nazi-death-camp-guard-on-trial-20091130-k1bv.html)
+4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091130&t=2&i=23094327&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-30T104447Z_01_BTRE5AT0TUQ00_RTROPTP_0_GERMANY-DEMJANJUK)
 
 ### Related:
 

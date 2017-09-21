@@ -8,6 +8,7 @@ A former nurse from Woodstock, Ont., has been charged with eight counts of first
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/windsor/police-investigate-multiple-jurisdiction-death-1.3818887)
+1. [Cover Image](https://i.cbc.ca/1.3820747.1479209895!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/nursing-home-probe-20161025.jpg)
 
 ### Related:
 

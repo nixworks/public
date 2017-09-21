@@ -12,6 +12,7 @@ Opposition campaigners concede defeat as results of referendum start to come in.
 3. [The Guardian](http://www.guardian.co.uk/world/2009/oct/03/ireland-votes-yes-lisbon-treaty)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1003/breaking6.htm)
 5. [Toronto Star](http://www.thestar.com/news/world/article/705136)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

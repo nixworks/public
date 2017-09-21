@@ -8,6 +8,7 @@ The announcement came after three days of shuttle diplomacy by Secretary of Stat
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/03/27/world/middleeast/27cnd-diplo.html?ex=1332648000&en=91f6fb24afdd62ab&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/03/27/world/27rice75.jpg)
 
 ### Related:
 

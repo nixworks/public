@@ -9,6 +9,7 @@ Colombia said on Friday it plans to legalize medical marijuana in a further shif
 
 1. [Reuters](http://www.reuters.com/article/2015/11/13/us-colombia-drugs-idUSKCN0T22J420151113#gI3tAhkwJXqu4H5H.97)
 2. [teleSUR](http://www.telesurtv.net/english/news/Medical-Marijuana-Set-to-Be-Legal-in-Colombia-20151113-0017.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151113&t=2&i=1094695018&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAC13F)
 
 ### Related:
 

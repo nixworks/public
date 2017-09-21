@@ -8,6 +8,7 @@ Eighteen garment workers were killed and 21 injured Tuesday morning when the van
 ### Source:
 
 1. [Cambodia Daily](https://www.cambodiadaily.com/news/more-than-20-garment-workers-killed-in-crash-83915/)
+1. [Cover Image](https://www.cambodiadaily.com/cdfiles/wp-content/uploads/2015/05/crash-pic_WEB.jpg)
 
 ### Related:
 

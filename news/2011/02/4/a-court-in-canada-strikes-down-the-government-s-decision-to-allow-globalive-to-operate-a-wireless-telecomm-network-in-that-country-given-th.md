@@ -8,6 +8,7 @@ A Canadian court struck down on Friday a federal government move to allow Global
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/04/us-globalive-idUSTRE7136C920110204)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110204&t=2&i=328035660&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-04T222806Z_01_BTRE7131QEY00_RTROPTP_0_GLOBALIVE)
 
 ### Related:
 

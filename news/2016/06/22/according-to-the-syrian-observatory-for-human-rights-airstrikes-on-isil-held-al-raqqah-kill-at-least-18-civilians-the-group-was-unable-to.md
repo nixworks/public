@@ -9,6 +9,7 @@ At least 18 civilians have been killed in air strikes in the Syrian city of Raqq
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36595166)
 2. [Washington Post](https://www.washingtonpost.com/world/middle_east/lebanese-army-slowly-crushing-extremists-near-syria-border/2016/06/22/5a01865e-3845-11e6-af02-1df55f0c77ff_story.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F40B/production/_90057426_18a99f64-968f-4cef-bb52-8e969b85d366.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Cause has not been determined; includes pogies, redfish, drum, crabs and shrimp
 1. [Digital Journal](http://www.digitaljournal.com/article/297542)
 2. [NOLA.com](http://www.nola.com/news/index.ssf/2010/09/huge_fish_kill_reported_in_pla.html)
 3. [WAFB](http://www.wafb.com/Global/story.asp?S=13154772)
+3. [Cover Image](http://image.nola.com/home/nola-media/width620/img/news_impact/photo/8886717-standard.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ In a statement released Sunday evening from head coach Gary Pinkel and athletics
 2. [KCSTAR via Sacramento Bee](http://www.sacbee.com/news/nation-world/national/article43665423.html)
 3. [KTIC Radio](http://kticradio.com/abc_sports/football-coach-governor-respond-to-student-protests-at-university-of-missouri-abcid35528111/)
 4. [NBC Sports](http://collegefootballtalk.nbcsports.com/2015/11/08/in-statement-mizzou-says-wont-practice-until-graduate-students-hunger-strike-ends/)
+4. [Cover Image](https://nbccollegefootballtalk.files.wordpress.com/2015/11/cd0ymzcznguwzdbhnduynddiytjhm2yyzthlmtjjotqwyyznpty3zdfinwi4mzbjnmq4zdbizdrizwu0zgiwmmizzwvh-e1447022868527.jpeg?w=1200)
 
 ### Related:
 

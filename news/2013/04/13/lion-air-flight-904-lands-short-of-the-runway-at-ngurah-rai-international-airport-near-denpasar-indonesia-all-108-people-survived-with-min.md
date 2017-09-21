@@ -9,6 +9,7 @@ More than 100 airline passengers escaped with their lives on Saturday when a pla
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/9991740/Narrow-escape-for-more-than-100-airline-passengers-as-plane-crashes-into-sea-in-Bali.html)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/13/c_132306354.htm)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02535/Bali_crash_2535309k.jpg)
 
 ### Related:
 

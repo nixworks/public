@@ -10,6 +10,7 @@ Belgrade sees its biggest anti-government protest in years as tens of thousands 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12373901)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,14820181,00.html)
 3. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE71418Q20110205)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -17,6 +17,7 @@ The US Supreme Court gives Nigerian families the green light to sue Pfizer over 
 8. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE65R0PV20100628)
 9. [The Guardian](http://www.guardian.co.uk/world/2010/jun/29/russian-spies-uk-irish-passports)
 10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0629/breaking22.html)
+10. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The presiding judge in the U.N. trial of Gen. Ratko Mladic has delayed indefinit
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/judge-postpones-evidence-mladic-trial-101429249.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

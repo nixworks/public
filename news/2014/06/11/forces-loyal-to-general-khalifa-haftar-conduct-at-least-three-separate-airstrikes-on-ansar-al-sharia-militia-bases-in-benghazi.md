@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/06/airstrikes-hit-libya-benghazi-2014610164952323816.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/6/2/20146217949149734_20.jpg)
 
 ### Related:
 

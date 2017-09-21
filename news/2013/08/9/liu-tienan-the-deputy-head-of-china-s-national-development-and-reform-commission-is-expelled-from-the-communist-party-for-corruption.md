@@ -8,6 +8,7 @@ Liu Tienan, a former top economic official in China, is expelled from the Commun
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-23628085)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67564000/jpg/_67564153_67564152.jpg)
 
 ### Related:
 

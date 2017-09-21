@@ -8,6 +8,7 @@ A Tanzanian-born Muslim man who dubbed himself &quot;Osama bin London&quot; was 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKL2585978020080226)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080226&t=2&i=3304173&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-26T201551Z_01_L25859780_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

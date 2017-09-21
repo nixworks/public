@@ -15,6 +15,7 @@ At least six people killed as forces loyal to president battle his opponents a d
 6. [CNN](http://edition.cnn.com/2011/WORLD/meast/05/23/egypt.revolution.sentence/)
 7. [Sky News](http://news.sky.com/skynews/Home/World-News/Yemen-President-Saleh-Fails-To-Sign-Deal-For-Him-To-Leave-Office-After-33-Years/Article/201105415997388)
 8. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/24/c_13890309.htm)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/23/2011523165047935734_20.jpg)
 
 ### Related:
 

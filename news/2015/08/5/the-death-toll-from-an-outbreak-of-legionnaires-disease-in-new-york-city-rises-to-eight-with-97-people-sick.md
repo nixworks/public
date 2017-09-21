@@ -8,3 +8,4 @@
 ### Source:
 
 1. [NBC New York](http://www.nbcnewyork.com/news/local/Legionnaires-Disease-Deaths-Hospitalizations-New-York-City-320832101.html?_osource=SocialFlowTwt_NYBrand)
+1. [Cover Image](http://media.nbcnewyork.com/images/1200*675/lincoln+hospital.jpg)

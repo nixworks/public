@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=politicsNews&storyID=2006-12-05T221430Z_01_N04192148_RTRUKOC_0_US-USA-GATES-CONGRESS-VOTE.xml&WTmodLoc=PolNewsHome_C1_%5BFeed%5D-2)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

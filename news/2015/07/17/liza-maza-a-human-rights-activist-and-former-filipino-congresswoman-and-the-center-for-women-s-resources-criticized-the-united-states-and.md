@@ -11,6 +11,7 @@
 2. [Bulatlat](http://bulatlat.com/main/2015/07/16/us-govt-bars-woman-leader/)
 3. [CommonDreams.org](http://www.commondreams.org/news/2015/07/17/us-and-philippines-face-peoples-tribunal-torture-disappearances-murder)
 4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/705900/womens-group-hits-govt-for-barring-ex-lawmaker-from-leaving-ph)
+4. [Cover Image](http://bulatlat.com/main/wp-content/uploads/2015/07/image4-e1437109971593.jpg)
 
 ### Related:
 

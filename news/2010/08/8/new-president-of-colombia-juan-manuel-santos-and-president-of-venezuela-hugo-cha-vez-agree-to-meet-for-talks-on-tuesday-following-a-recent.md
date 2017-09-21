@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10909638)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6771JW20100808)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100808&t=2&i=175193968&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-08T203050Z_01_BTRE6771KZH00_RTROPTP_0_VENEZUELA)
 
 ### Related:
 

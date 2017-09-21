@@ -8,6 +8,7 @@ Cyclone makes landfall on western coast, flattening homes, cutting off power and
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101023153625483381.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/20101023163316374876_20.jpg)
 
 ### Related:
 

@@ -14,6 +14,7 @@ At least 24 people have died in anti-government protests in Libya over recent da
 5. [TechCrunch](http://techcrunch.com/2011/02/18/reports-libya-follows-egypts-lead-starts-shutting-off-internet-services/)
 6. [a radio station](http://libya.blog-video.tv/)
 7. [libya17.com](http://www.libyafeb17.com/)
+7. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

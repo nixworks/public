@@ -8,3 +8,4 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-17754517)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59718000/jpg/_59718573_pilleygilrot2.jpg)

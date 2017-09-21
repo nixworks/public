@@ -8,6 +8,7 @@ Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/feature/nbc-out/two-men-publicly-caned-indonesia-having-gay-sex-n763511)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_21/2009581/170523-caning-indonesia-mn-0950_b8a3f418335f49dbf5e78f7ad9fd5fa8.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

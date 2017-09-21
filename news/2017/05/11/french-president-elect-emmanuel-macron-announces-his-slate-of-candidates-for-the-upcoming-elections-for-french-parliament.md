@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/france-election-idINKBN1872D3)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170511&t=2&i=1184220846&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4A1NG)
 
 ### Related:
 

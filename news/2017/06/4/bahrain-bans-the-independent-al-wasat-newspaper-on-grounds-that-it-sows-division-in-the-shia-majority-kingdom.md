@@ -8,6 +8,7 @@ The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the 
 ### Source:
 
 1. [AFP via Yahoo!](https://www.yahoo.com/news/bahrain-bans-newspaper-sowing-division-153554750.html)
+1. [Cover Image](https://s.yimg.com/ny/api/res/1.2/FruwMSiquCBEjcQI07ebhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEwMjQ7aD02NjE7c209MTtpbD1wbGFuZQ--/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6268751-1-1-0.jpg)
 
 ### Related:
 

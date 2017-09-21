@@ -12,6 +12,7 @@ Two more people died and one was missing Monday following flooding in the southe
 3. [Monsters and Critics](http://www.monstersandcritics.com/news/americas/news/article_1683779.php/Rain-wreaks-havoc-in-south-eastern-Brazil)
 4. [New Straits Times](http://www.nst.com.my/latest/storm-kills-7-52-towns-declared-state-of-emergency-1.27620)
 5. [Xinhua via ''People's Daily](http://english.peopledaily.com.cn/90777/7695244.html)
+5. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

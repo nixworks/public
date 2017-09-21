@@ -8,6 +8,7 @@ Afghan presidential candidate Abdullah Abdullah has extended his lead over his r
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27096373)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74345000/jpg/_74345043_74345042.jpg)
 
 ### Related:
 

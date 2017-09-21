@@ -9,6 +9,7 @@
 
 1. [Rediff](http://in.rediff.com/news/2005/jul/24dawood.htm)
 2. [WorldEscape](http://www.worldescape.com)
+2. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)
 
 ### Related:
 

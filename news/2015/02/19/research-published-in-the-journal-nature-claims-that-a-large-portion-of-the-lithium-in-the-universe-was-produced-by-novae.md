@@ -8,6 +8,7 @@ A large amount of lithium, one of the key elements in the chemical evolution of 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/science/articles/2015/02/19/4182512.htm)
+1. [Cover Image](http://www.abc.net.au/reslib/201502/r1390578_19769457.jpg)
 
 ### Related:
 

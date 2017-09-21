@@ -9,6 +9,7 @@ Satellite analysis confirms the destruction of the most significant temple in th
 
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/08/confirms-destruction-famed-palmyra-temple-150831230110476.html)
 2. [BBC](http://www.bbc.com/news/world-middle-east-34111092)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/F009/production/_85294416_palmyra.jpg)
 
 ### Related:
 

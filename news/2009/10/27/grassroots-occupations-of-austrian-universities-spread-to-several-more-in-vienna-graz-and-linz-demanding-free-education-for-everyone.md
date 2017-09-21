@@ -10,6 +10,7 @@
 1. [Austrian Times](http://austriantimes.at/news/General_News/2009-10-27/17580/Minister_rejects_forced_student_eviction)
 2. [Boston Herald](http://bostonherald.com/news/international/europe/view.bg?articleid=1207400)
 3. [CNN iReport](http://www.ireport.com/docs/DOC-346433)
+3. [Cover Image](http://i.cdn.turner.com/ireport/sm/prod/2009/10/25/WE00342286/1100249/L1020446mov-1100249_lg.jpg)
 
 ### Related:
 

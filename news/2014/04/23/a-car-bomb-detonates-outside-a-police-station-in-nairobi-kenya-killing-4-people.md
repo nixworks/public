@@ -8,6 +8,7 @@ Four people, two of them police, are killed in the Kenyan capital Nairobi by a c
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27134695)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74407000/jpg/_74407441_74407277.jpg)
 
 ### Related:
 

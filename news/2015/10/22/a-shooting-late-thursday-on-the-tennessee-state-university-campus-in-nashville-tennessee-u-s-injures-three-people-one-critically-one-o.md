@@ -9,6 +9,7 @@ Three people were shot on the campus of Tennessee State University late Thursday
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/three-people-shot-tennessee-state-university-campus-n449756)
 2. [New York Daily News](http://www.nydailynews.com/news/crime/3-shot-critically-injured-shooting-tsu-reports-article-1.2408209)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_43/1273236/151023-tsu-shooting-jpo-347a_15c260880163a3eb5904b41c12cea2d3.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

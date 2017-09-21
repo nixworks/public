@@ -12,3 +12,4 @@ Princess Aiko, granddaughter of the Japanese emperor, has missed several days of
 3. [Miami Herald](http://www.miamiherald.com/2010/03/05/1514066/japanese-princess-bullied-at-elementary.html)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/japan/7374975/Japanese-princess-misses-school-after-being-bullied.html)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7050927.ece)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01590/PrincessAiko_1590877a.jpg)

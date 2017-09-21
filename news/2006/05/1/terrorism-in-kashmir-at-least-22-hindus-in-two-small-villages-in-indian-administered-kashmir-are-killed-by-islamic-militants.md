@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4961464.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-05-01T050944Z_01_DEL17172_RTRUKOC_0_US-KASHMIR-KILLING.xml)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

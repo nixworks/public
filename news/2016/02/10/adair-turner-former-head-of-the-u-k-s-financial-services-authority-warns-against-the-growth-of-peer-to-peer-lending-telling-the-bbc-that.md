@@ -8,6 +8,7 @@ Former City regulator Adair Turner warns that without radical policies, the UK e
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-35537714)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D885/production/_88192455_88192454.jpg)
 
 ### Related:
 

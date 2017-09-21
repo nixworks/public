@@ -8,6 +8,7 @@ Five members of theNigerian Islamist sect Boko Haram and two soldiers were kille
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2013/11/09/nigeria-bokoharam-idINL5N0IU0BS20131109)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

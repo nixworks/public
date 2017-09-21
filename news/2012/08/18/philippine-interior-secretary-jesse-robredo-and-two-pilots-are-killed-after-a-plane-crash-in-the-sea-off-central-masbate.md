@@ -8,6 +8,7 @@ Philippine Interior Secretary Jesse Robredo is missing after a light aircraft he
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19305939)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62360000/jpg/_62360563_robredo.jpg)
 
 ### Related:
 

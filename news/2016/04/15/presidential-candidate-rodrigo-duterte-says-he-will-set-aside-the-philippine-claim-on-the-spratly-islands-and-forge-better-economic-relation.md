@@ -8,6 +8,7 @@ The presidential bet says leaving the issue of ownership behind can lead to a be
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/129579-duterte-last-resort-west-philippine-sea-ownership)
+1. [Cover Image](https://assets.rappler.com/941C0BD160E54DCF825D81D5E23E7514/img/E0EED5D6FEAD4638B526F042711B22B7/Duterte-Sorti-Amoranto-LRED-20140412-007.jpg)
 
 ### Related:
 

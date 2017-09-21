@@ -12,6 +12,7 @@ Egyptians appear to have voted in favour of a deeply divisive new constitution, 
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20829911)
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-20832242)
 5. [Reuters](http://www.reuters.com/article/2012/12/23/us-egypt-politics-idUSBRE8BL03X20121223)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64921000/jpg/_64921201_64921200.jpg)
 
 ### Related:
 

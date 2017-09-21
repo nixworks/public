@@ -9,6 +9,7 @@ A number of Romanians who fled Belfast in the wake of racist attacks have return
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8186496.stm)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0805/breaking70.htm)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

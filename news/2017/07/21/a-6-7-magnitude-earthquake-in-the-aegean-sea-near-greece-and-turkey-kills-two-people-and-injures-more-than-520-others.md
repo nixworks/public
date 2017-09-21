@@ -8,6 +8,7 @@ A powerful magnitude-6.7 earthquake kills two people and causes a small tsunami 
 ### Source:
 
 1. [Reuters via ABC](http://www.abc.net.au/news/2017-07-21/earthquake-kills-two-people-on-kos-rocks-turkey-greece/8730854)
+1. [Cover Image](http://www.abc.net.au/news/image/8731736-1x1-700x700.jpg)
 
 ### Related:
 

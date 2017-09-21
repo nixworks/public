@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via news.com.au](http://www.news.com.au/national/breaking-news/papua-new-guineans-head-to-the-polls/news-story/96ffc5ea6c2820dbc7f2a5b2ea21e004)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TMZ](http://www.tmz.com/2014/08/28/joan-rivers-hospitalized-not-breathing-medical-emergency/)
+1. [Cover Image](http://ll-media.tmz.com/2014/08/28/0828-joan-rivers-tmz-01-1200x630.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A teenage Afghan refugee attacks passengers on a train in Germany with an axe an
 1. [BBC](http://www.bbc.com/news/world-europe-36827725?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-3696410/Man-attacks-21-people-AXE-train-Germany-shot-police.html)
 3. [Indian Express](http://indianexpress.com/article/world/world-news/germany-train-axe-attack-2922433/)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13559/production/_90439197_034122582.jpg)
 
 ### Related:
 

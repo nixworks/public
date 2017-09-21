@@ -10,6 +10,7 @@ The Pope has told Irish bishops at a special summit in the Vatican that paedophi
 1. [RTÉ](http://www.rte.ie/news/2010/0216/abuse.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/feb/16/pope-benedict-irish-catholic-abuse)
 3. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article7027691.ece)
+3. [Cover Image](https://img.rasset.ie/000302a2-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japanese Prime Minister Shinzo Abe agreed Friday to suspend work to expand a U.S
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-04/japan-to-suspend-work-at-controversial-u-s-base-in-okinawa)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

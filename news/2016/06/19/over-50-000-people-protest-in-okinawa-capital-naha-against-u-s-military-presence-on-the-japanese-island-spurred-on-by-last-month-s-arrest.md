@@ -10,6 +10,7 @@ TOKYO (AP) — Tens of thousands of people on the Japanese island of Okinawa pro
 1. [AP](http://bigstory.ap.org/article/3b90c2d7835e417a85d0bbae70316e5b/massive-protest-okinawa-opposes-us-military-after-killing)
 2. [Reuters](http://www.reuters.com/article/us-japan-usa-okinawa-idUSKCN0Z5056)
 3. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/05/20/outrage-in-japan-as-american-arrested-in-connection-with-death-of-woman-on-okinawa/)
+3. [Cover Image](http://binaryapi.ap.org/c6657a5997504b6abc98e4496cd5dead/460x.jpg)
 
 ### Related:
 

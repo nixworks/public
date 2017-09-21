@@ -8,6 +8,7 @@ Mr Justice Nicholas Kearns has been nominated for appointment by the President t
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1008/breaking35.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

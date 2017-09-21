@@ -11,6 +11,7 @@ Polls suggest the embattled Syriza leader might just squeak home in Sunday’s s
 2. [The Globe and Mail'' via Worldwide Herald](http://w.worldwideherald.com/yourls-go.php?id=qsjt0)
 3. [The Guardian](http://www.theguardian.com/world/2015/sep/20/greece-alexis-tsipras-syriza-election)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/greece/11877658/Greece-elections-results-live.html)
+4. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/9/19/1442681439986/Syriza-leader-Alexis-Tsip-009.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=320892ff9e4a706674a935efa9d7ca5a)
 
 ### Related:
 

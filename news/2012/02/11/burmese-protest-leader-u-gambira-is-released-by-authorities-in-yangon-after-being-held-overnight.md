@@ -8,6 +8,7 @@ Burmese monk Shin Gambira, one of the leaders of anti-government protests in 200
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16994366)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58446000/jpg/_58446853_013962975-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Kevin Rudd has been sworn in as Prime Minister almost three years to the day sin
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-06-27/rudd-sworn-in-after-dramatic-leadership-comeback/4784038)
+1. [Cover Image](http://www.abc.net.au/news/image/4783932-1x1-700x700.jpg)
 
 ### Related:
 

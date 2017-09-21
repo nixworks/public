@@ -8,6 +8,7 @@ Around 1,000 dead ducks have been pulled from a river in Sichuan, Chinese media 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-21921145)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66586000/jpg/_66586518_ducks.jpg)
 
 ### Related:
 

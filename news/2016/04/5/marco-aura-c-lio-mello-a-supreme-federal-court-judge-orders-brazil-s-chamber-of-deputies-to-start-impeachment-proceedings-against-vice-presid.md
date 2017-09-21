@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-politics-rousseff-idUSKCN0X21MN)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160405&t=2&i=1130526150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC34138)
 
 ### Related:
 

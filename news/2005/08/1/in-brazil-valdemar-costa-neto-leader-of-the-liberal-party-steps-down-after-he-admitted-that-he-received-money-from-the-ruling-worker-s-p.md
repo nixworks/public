@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=agdP_Hc35wbc&refer=latin_america)
 2. [MercoPress](http://www.falkland-malvinas.com/Detalle.asp?NUM=6157)
 3. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2005-08-01T212219Z_01_N01565164_RTRIDST_0_BRAZIL-POLITICS-UPDATE-1.XML)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

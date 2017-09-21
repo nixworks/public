@@ -9,6 +9,7 @@ Army chief says ‘peace has triumphed’, though TV footage is inconclusive, af
 
 1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN1AM0HA)
 2. [The Guardian](https://www.theguardian.com/world/2017/aug/06/venezuela-government-terrorist-attack-military-base)
+2. [Cover Image](https://i.guim.co.uk/img/media/4c265751a5841b288723f2d3c3f30af03229c803/74_0_1920_1152/master/1920.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1183512695f5d09ac4192dd7bafb2785)
 
 ### Related:
 

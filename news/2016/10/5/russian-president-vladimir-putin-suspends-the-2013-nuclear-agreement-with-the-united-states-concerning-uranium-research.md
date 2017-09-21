@@ -8,6 +8,7 @@ Russia further curtailed its cooperation with the United States in nuclear energ
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-usa-nuclear-uranium-idUSKCN12521J)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

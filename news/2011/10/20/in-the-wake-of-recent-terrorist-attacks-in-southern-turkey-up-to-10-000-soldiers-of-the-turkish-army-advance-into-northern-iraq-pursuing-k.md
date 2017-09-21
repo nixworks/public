@@ -8,6 +8,7 @@ Some 10,000 Turkish soldiers are taking part in a military offensive in northern
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15390006)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56141000/jpg/_56141206_56141205.jpg)
 
 ### Related:
 

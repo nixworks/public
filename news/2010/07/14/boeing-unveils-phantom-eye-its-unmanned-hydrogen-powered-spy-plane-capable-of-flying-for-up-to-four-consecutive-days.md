@@ -8,6 +8,7 @@ Boeing unveils an unmanned hydrogen-powered spy plane, the Phantom Eye, which is
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/10617075)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

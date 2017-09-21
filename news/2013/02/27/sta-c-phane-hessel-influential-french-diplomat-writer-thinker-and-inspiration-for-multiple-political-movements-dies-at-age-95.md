@@ -8,6 +8,7 @@ Stephane Hessel, the former French Resistance fighter whose 2010 manifesto Time 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21599477)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66098000/jpg/_66098532_66098531.jpg)
 
 ### Related:
 

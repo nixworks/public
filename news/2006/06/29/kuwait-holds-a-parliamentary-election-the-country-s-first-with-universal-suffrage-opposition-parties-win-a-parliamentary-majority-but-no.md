@@ -9,6 +9,7 @@ Women went to the polls Thursday for the first time in Kuwait, voting for parlia
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,201474,00.html)
 2. [Turkish Press](http://www.turkishpress.com/news.asp?id=131192)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

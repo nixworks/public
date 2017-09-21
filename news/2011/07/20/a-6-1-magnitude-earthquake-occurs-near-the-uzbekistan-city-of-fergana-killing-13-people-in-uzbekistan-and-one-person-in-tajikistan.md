@@ -8,6 +8,7 @@ A powerful earthquake killed at least 14 people in a heavily populated valley in
 ### Source:
 
 1. [AP via ''The New York Times](http://www.nytimes.com/2011/07/21/world/asia/21briefs-Quake.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

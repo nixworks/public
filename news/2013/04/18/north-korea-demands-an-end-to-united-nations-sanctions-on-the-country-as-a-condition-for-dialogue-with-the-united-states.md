@@ -8,6 +8,7 @@ North Korea offered the United States and South Korea a list of conditions on Th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/18/us-korea-north-idUSBRE93H02Y20130418)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130418&t=2&i=723602299&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93H1CRK00)
 
 ### Related:
 

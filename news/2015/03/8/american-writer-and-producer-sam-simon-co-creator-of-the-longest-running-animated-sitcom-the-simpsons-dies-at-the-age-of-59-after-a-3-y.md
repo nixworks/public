@@ -8,6 +8,7 @@ Sam Simon, an Emmy-winning writer and producer, gave away much of his money to c
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-31801198)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81529000/jpg/_81529536_getty-466459875.jpg)
 
 ### Related:
 

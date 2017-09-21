@@ -8,6 +8,7 @@ TD Ameritrade (AMTD.O) has agreed to buy Scottrade for $2.7 billion in a deal th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-scottrade-financ-m-a-td-ameritrade-idUSKCN12N0XV)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161024&t=2&i=1158735036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9N13Q)
 
 ### Related:
 

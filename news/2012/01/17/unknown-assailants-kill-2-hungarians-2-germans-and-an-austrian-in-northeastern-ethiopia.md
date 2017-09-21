@@ -8,6 +8,7 @@ Unknown assailants kill at least five European tourists, and wound and kidnap se
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/01/201211721386956778.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/17/201211722215783734_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4282241.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7681042&type=topNews)
 3. [Times of India](http://timesofindia.indiatimes.com/articleshow/1026817.cms)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

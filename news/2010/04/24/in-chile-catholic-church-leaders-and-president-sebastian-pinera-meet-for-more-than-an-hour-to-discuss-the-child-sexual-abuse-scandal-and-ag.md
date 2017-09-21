@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8641456.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/04/24/belgium-bishop-sex-abuse.html)
+2. [Cover Image](https://i.cbc.ca/1.1938652.1382074335!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-vatican-ap-rtr2a3sx.jpg)
 
 ### Related:
 

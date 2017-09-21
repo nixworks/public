@@ -8,6 +8,7 @@ China will send delegations to the United States in August and September to disc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSWAT00800520070815?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070815&t=2&i=1304442&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-15T235944Z_01_WAT008005_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

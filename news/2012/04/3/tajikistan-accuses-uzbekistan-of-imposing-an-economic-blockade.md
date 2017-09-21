@@ -8,6 +8,7 @@ Tajikistan accuses Uzbekistan, of imposing a blockade which it says could destab
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17599930)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59467000/gif/_59467441_uzbekistan_tajikistan_03.04.12.gif)
 
 ### Related:
 

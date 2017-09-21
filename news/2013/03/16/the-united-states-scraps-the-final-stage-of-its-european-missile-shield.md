@@ -8,6 +8,7 @@ US Defence Secretary Chuck Hagel scraps the final phase of its European missile 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21812161)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66429000/jpg/_66429022_66429021.jpg)
 
 ### Related:
 

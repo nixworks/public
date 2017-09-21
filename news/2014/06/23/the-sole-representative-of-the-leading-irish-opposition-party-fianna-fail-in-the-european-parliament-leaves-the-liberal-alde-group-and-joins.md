@@ -9,6 +9,7 @@ Fianna Fáil MEP Brian Crowley has left the liberal group in the European Parlia
 
 1. [EU Observer](http://euobserver.com/tickers/124703)
 2. [RTE](http://www.rte.ie/news/2014/0623/625874-fianna-fail-europe/)
+2. [Cover Image](https://img.rasset.ie/0008fc5e-1600.jpg)
 
 ### Related:
 

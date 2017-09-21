@@ -8,6 +8,7 @@ Day after Mahmoud al-Zahar says Islamist group committed to unofficial truce, he
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4004173,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

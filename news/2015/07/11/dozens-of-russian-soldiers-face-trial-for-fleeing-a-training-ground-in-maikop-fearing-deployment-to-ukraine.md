@@ -8,6 +8,7 @@ Dozens of professional Russian soldiers are facing trial after abandoning a trai
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/reports-russian-troops-leave-unit-fearing-ukraine-deployment/a-18579331)
+1. [Cover Image](http://www.dw.com/image/18480869_304.jpg)
 
 ### Related:
 

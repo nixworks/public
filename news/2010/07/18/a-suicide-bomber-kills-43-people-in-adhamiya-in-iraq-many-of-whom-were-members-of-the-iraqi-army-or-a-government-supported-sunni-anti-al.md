@@ -10,6 +10,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107187948524335.html)
 2. [Sky News Australia](http://www.skynews.com.au/world/article.aspx?id=486777&articleID=)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/18/iraq-security-forces-suicide-bomber)
+3. [Cover Image](http://www.skynews.com.au/content/skynews/93/26/gif/layout/hm/common_containers/hmbrandinggreendotcontainer0x0/files/4361/bp_unmeteredicon.png/_jcr_content/renditions/skynews.img.368.276.jpeg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Waseem Amin has been making big plans for his return to Fort McMurray, the Canad
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-01/fort-mcmurray-residents-return-home-after-wildfire-devastation)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC7MrcU1BqbE/v0/1200x758.jpg)
 
 ### Related:
 

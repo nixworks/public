@@ -9,6 +9,7 @@ The bomb, which was found by the security personnel on Saturday during the final
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11805286)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/5-children-among-8-killed-in-Bihar-blast-Nitish-orders-probe-/articleshow/6963255.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/6963120.cms)
 
 ### Related:
 

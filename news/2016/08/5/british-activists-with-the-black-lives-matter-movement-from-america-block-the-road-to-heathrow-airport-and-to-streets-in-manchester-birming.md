@@ -9,6 +9,7 @@ A British offshoot of the Black Lives Matter movement blocked the road to London
 
 1. [NBC News](http://www.nbcnews.com/news/nbcblk/black-lives-matter-blocks-roads-london-other-u-k-cities-n623436)
 2. [Reuters](http://www.reuters.com/article/us-britain-protest-idUSKCN10G0WI)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_31/1653501/160805_-_blmuk_-_0637_638987aa13823d0b1c386550de6cc529.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

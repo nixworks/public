@@ -8,6 +8,7 @@ Railways, while confirming the death of 4 people in the accident, has not ruled 
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Rajdhani-Express-derails-near-Chhapra-in-Bihar-4-killed/articleshow/37154143.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/37162379.cms)
 
 ### Related:
 

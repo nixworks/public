@@ -9,6 +9,7 @@ In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on 
 
 1. [Reuters](https://www.reuters.com/article/us-usa-immigration-court-idUSKBN18L2IO)
 2. [The New York Times](https://www.nytimes.com/2017/05/25/us/politics/trump-travel-ban-blocked.html?hp&_r=0)
+2. [Cover Image](//s1.reutersmedia.net/resources/r/?m=02&d=20170525&t=2&i=1186298051&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4O1TA)
 
 ### Related:
 

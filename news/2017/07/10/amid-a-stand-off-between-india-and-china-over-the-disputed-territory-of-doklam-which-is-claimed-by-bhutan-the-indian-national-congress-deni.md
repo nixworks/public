@@ -8,6 +8,7 @@ Amid a bitter stand-off between India and China over the Dokalam region, the Con
 ### Source:
 
 1. [Zee News](http://zeenews.india.com/india/amid-india-china-stand-off-on-doklam-congress-denies-rahul-gandhis-meeting-with-chinese-envoy-luo-zhaohui-2022528.html)
+1. [Cover Image](http://ste.india.com/sites/default/files/2017/07/10/608358-rahul-1.jpg)
 
 ### Related:
 

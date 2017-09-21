@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nigeria-security-bokoharam-idUSKCN10Y0JP)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160823&t=2&i=1150748844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7M0ZS)
 
 ### Related:
 

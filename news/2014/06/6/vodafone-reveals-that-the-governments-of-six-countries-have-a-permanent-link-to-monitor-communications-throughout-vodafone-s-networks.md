@@ -8,6 +8,7 @@ Vodafone says that a small number of governments have direct access to communica
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-27732743)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75351000/jpg/_75351424_vodafone3.jpg)
 
 ### Related:
 

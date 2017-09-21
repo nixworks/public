@@ -9,6 +9,7 @@ Voters have the final say on Sunday on a reform of the occupational pension sche
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5326260,00.html)
 2. [Swissinfo](http://www.swissinfo.ch/eng/politics/internal_affairs/Pensions_and_animal_rights_top_ballot_sheets.html?cid=8399444)
+2. [Cover Image](http://www.swissinfo.ch/image/8376698/3x2/640/426/5258cf71ca4985f4457a7d5f9c845bdc/Yb/17578195-2--8376704.jpg)
 
 ### Related:
 

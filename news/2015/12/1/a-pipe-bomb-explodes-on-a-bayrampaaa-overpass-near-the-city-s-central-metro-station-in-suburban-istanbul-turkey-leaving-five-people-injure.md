@@ -10,6 +10,7 @@ Five hurt in explosion in industrial and residential area during evening rush ho
 1. [BBC](http://www.bbc.com/news/world-europe-34978232)
 2. [The Atlantic](http://www.theatlantic.com/international/archive/2015/12/what-we-know-about-the-istanbul-blast/418242/)
 3. [The Guardian](http://www.theguardian.com/world/2015/dec/01/bomb-explodes-near-istanbul-metro-station)
+3. [Cover Image](https://i.guim.co.uk/img/media/46fd628a13726f9544867f8be752c882335bd31c/89_0_1799_1080/master/1799.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2a5486acdb0be2f334dd728e0f047e2b)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 57 people were killed on Monday in car bomb attacks in Baghdad and the 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/05/uk-mideast-crisis-iraq-violence-idUKKCN0RZ1YU20151005)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

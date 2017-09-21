@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-un-idUSKBN1AL0NU)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170805&t=2&i=1195912255&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED740HR)
 
 ### Related:
 

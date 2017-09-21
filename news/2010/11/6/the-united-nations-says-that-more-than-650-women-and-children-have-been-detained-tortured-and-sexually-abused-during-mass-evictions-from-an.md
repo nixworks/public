@@ -8,6 +8,7 @@ Unicef says 650 women and girls locked up, tortured and sexually abused by secur
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/2010116641036740.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/6/201011673320842797_20.jpg)
 
 ### Related:
 

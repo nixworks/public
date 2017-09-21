@@ -10,6 +10,7 @@ Palestinians are willing and ready to reach a comprehensive and just peace agree
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010925164625386949.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11412630)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/26/c_13529403.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

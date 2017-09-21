@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [Forbes](http://www.forbes.com/markets/2007/02/14/deutsche-boerse-bombay-markets-equity-cx_rd_0214markets10.html)
 2. [International Herald Tribune](http://www.iht.com/articles/ap/2007/02/14/business/AS-FIN-India-Deutsche-Borse.php)
 3. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?view=CN&storyID=2007-02-14T112513Z_01_BOM288416_RTRIDST_0_INDIA-BSE-DEUTSCHEBOERSE-UPDATE-2.XML&rpc=66&type=qcna)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

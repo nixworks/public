@@ -9,6 +9,7 @@ The ex-chairman of Japanese camera manufacturer Olympus and two other former exe
 
 1. [BBC](http://www.bbc.co.uk/news/business-17054089)
 2. [CNN](http://edition.cnn.com/2012/02/15/business/japan-olympus-prosecutors/index.html?eref=edition)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58529000/jpg/_58529569_kikukawa.jpg)
 
 ### Related:
 

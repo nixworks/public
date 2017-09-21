@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/13/us-egypt-crash-russia-egyptair-idUSKCN0T21MY20151113#3qMrTtu926zZVfXg.97)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151113&t=2&i=1094602600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAC0QG)
 
 ### Related:
 

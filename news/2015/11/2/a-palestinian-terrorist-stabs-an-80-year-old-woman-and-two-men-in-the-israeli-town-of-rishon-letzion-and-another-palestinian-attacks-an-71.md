@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/3-hurt-2-seriously-in-rishon-lezion-stabbing-attack/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/11/IMG-20151102-WA0004.jpg)
 
 ### Related:
 

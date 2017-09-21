@@ -8,6 +8,7 @@
 ### Source:
 
 1. [United Nations](http://www.un.org/apps/news/story.asp?NewsID=38307&Cr=UNODC&Cr1=)
+1. [Cover Image](/News/dh/photos/large/2011/Patricia_Olga_Delgado_Rua.jpg)
 
 ### Related:
 

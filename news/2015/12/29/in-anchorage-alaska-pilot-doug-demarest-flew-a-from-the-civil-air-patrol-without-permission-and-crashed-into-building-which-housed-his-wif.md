@@ -8,3 +8,4 @@ A pilot who crashed a small Civil Air Patrol plane into office buildings in down
 ### Source:
 
 1. [Toronto Sun](http://www.torontosun.com/2016/01/04/pilot-in-alaska-crash-took-plane-without-permission-civil-air-patrol-says)
+1. [Cover Image](http://storage.torontosun.com/v1/suns-prod-images/1297790084856_ORIGINAL.jpg?quality=80)

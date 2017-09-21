@@ -8,6 +8,7 @@ MANILA - Weather bureau PAGASA said Tuesday that tropical storm &quot;Pepeng&quo
 ### Source:
 
 1. [ABS-CBN](http://www.abs-cbnnews.com/nation/10/06/09/pepeng-starts-move-inland-again-quedan-exit-rp)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/maps/std_pepeng_quedan_track.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Italian government is considering using the army to deal with mafia in Naple
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25743477)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72292000/jpg/_72292847_72292846.jpg)
 
 ### Related:
 

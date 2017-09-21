@@ -8,6 +8,7 @@ Five people have been murdered after a gunman opened fire at a Shiite meeting ha
 ### Source:
 
 1. [Reuters](https://www.rt.com/news/318898-casualties-attack-saudi-arabia/)
+1. [Cover Image](https://img.rt.com/files/2015.10/article/56216310c36188101b8b4594.jpg)
 
 ### Related:
 

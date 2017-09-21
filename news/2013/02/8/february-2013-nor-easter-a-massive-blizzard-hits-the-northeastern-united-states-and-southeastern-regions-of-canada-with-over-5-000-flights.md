@@ -11,6 +11,7 @@ A major snowstorm in the north-eastern US and eastern Canada leaves to hundreds 
 2. [CBC News](http://www.cbc.ca/news/canada/nova-scotia/story/2013/02/09/ns-power-outage.html)
 3. [CNN](http://edition.cnn.com/2013/02/07/us/northeast-blizzard)
 4. [NBC News](http://usnews.nbcnews.com/_news/2013/02/09/16908958-clobbered-by-record-setting-blizzard-northeast-begins-to-dig-out)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65796000/jpg/_65796885_65796884.jpg)
 
 ### Related:
 

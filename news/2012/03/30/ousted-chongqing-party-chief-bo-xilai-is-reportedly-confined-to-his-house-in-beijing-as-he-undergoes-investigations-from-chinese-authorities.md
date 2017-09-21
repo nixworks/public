@@ -8,6 +8,7 @@ For weeks, there has been frenzied politicking at the top of the Communist Party
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/03/30/world/asia/chinas-leaders-seek-unity-after-ouster-of-bo-xilai.html?_r=1&pagewanted=all)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ David Cameron and German Chancellor Angela Merkel agree on the &quot;urgent need
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-22119096)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66987000/jpg/_66987773_merkel.jpg)
 
 ### Related:
 

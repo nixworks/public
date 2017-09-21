@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=agIVNhaxzzaw&refer=latin_america)
 2. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2006-01-24T134946Z_01_N243967_RTRIDST_0_ECONOMY-ARGENTINA-VENEZUELA-UPDATE-1.XML)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

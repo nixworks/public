@@ -9,6 +9,7 @@ A suicide bomber killed two people and wounded several others in the southern Sy
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/un-presses-syria-to-accept-red-cross/story-e6frg6so-1226288152063)
 2. [Reuters](http://www.reuters.com/article/2012/03/03/us-syria-explosion-idUSTRE82209G20120303?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120303&t=2&i=578034500&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8210RXR00)
 
 ### Related:
 

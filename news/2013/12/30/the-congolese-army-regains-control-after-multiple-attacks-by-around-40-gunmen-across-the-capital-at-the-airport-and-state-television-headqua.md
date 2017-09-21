@@ -9,6 +9,7 @@ Multiple attacks on sites across Kinshasa seen as an attempt to seize power from
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/12/congolese-army-regains-control-capital-201312301132596774.html)
 2. [VOA](http://www.voanews.com/content/drc-government-40-killed-in-fighting-at-key-kinshasa-locations/1819885.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/30/20131230161620439734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Glen Casada: &quot;We need to ... take them back to the ICE center and say, &#39
 ### Source:
 
 1. [The Tennessean](http://www.tennessean.com/story/news/politics/2015/11/17/tennessee-gop-leader-round-up-syrian-refugees-remove-state/75936660/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/tennessean.png)
 
 ### Related:
 
@@ -20,4 +21,4 @@ Glen Casada: &quot;We need to ... take them back to the ICE center and say, &#39
 7. [The Federal government of the United States files a lawsuit against the U.S. state of Arizona in its bid to overturn its controversial immigration law. ](/news/2010/07/6/the-federal-government-of-the-united-states-files-a-lawsuit-against-the-u-s-state-of-arizona-in-its-bid-to-overturn-its-controversial-immig.md) _Context: U.S. state, United States_
 8. [ For the second time in less than a week, a number of tornados strike the U.S. states of Tennessee, Kentucky, and Indiana. ](/news/2006/04/7/for-the-second-time-in-less-than-a-week-a-number-of-tornados-strike-the-u-s-states-of-tennessee-kentucky-and-indiana.md) _Context: Tennessee, U.S. state_
 9. [ The governors of the U.S. states of New Mexico and Arizona declare an emergency along their borders with Mexico citing recent violence, and inaction in both the US government and the Mexican government. ](/news/2005/08/17/the-governors-of-the-u-s-states-of-new-mexico-and-arizona-declare-an-emergency-along-their-borders-with-mexico-citing-recent-violence-and.md) _Context: U.S. state, United States_
-10. [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md) _Context: U.S. state_
+10. [ The U.S. Supreme Court hears a landmark case to decide the rights of states to overrule federal restrictions on medical marijuana use. This case has important consequences for redefining the separation and limitation of powers between states and the federal government. ](/news/2004/11/29/the-u-s-supreme-court-hears-a-landmark-case-to-decide-the-rights-of-states-to-overrule-federal-restrictions-on-medical-marijuana-use-this.md) _Context: U.S. state, United States_

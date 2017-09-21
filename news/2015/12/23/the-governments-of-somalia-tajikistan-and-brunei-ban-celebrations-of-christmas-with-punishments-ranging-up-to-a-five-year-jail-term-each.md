@@ -8,6 +8,7 @@ Somalian government declared holiday is ‘only for Christians’ and festivitie
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/23/christmas-banned-somalia-tajikistan-brunei)
+1. [Cover Image](https://i.guim.co.uk/img/media/c0c5b490700dad1373a288f25180e6ef97eb0475/0_299_4836_2901/master/4836.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=cd73f17aec02d6c42fd72e8974d9c807)
 
 ### Related:
 

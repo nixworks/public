@@ -8,6 +8,7 @@ China has sealed off parts of its northwestern city of Yumen after a resident di
 ### Source:
 
 1. [Wires via ''Sydney Morning Herald](http://www.smh.com.au/world/bubonic-plague-death-in-yumen-china-sparks-quarantine-xinhua-20140723-zvx4w.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/c/e/h/n/image.related.articleLeadwide.620x349.zvx4w.png/1406075905607.jpg)
 
 ### Related:
 

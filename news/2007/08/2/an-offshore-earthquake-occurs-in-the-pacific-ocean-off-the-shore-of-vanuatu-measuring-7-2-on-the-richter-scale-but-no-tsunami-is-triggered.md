@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TV3 New Zealand](http://www.tv3.co.nz/News/InternationalNews/PowerfulearthquakerecordedoffthecoastofVanuatu/tabid/417/articleID/31794/Default.aspx)
+1. [Cover Image](/tv/threefans/home/_jcr_content/image.img.1280.high.jpg)
 
 ### Related:
 

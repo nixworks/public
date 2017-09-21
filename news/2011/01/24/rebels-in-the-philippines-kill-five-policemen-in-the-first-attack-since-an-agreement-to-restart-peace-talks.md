@@ -9,6 +9,7 @@ It is the first major assault since the government and communist rebels agreed t
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112483340318856.html)
 2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=651003&publicationSubCategoryId=200)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/24/20111248251883621_20.jpg)
 
 ### Related:
 

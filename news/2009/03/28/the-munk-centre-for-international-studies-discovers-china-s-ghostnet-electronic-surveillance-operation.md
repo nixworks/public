@@ -8,6 +8,7 @@ Researchers said that the spying, which infiltrated the offices of the Dalai Lam
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/03/29/technology/29spy.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/03/29/world/29spy_75.jpg)
 
 ### Related:
 

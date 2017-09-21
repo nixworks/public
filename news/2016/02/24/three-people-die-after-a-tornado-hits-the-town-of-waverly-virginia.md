@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC 12](http://www.nbc12.com/story/31305500/3-confirmed-dead-in-storms-in-waverly)
+1. [Cover Image](http://wwbt.images.worldnow.com/images/9959171_G.jpg)
 
 ### Related:
 

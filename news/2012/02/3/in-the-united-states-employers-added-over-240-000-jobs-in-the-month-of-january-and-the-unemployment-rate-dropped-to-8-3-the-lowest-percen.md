@@ -8,6 +8,7 @@ American employers substantially stepped up their hiring in January, bringing th
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/02/03/news/economy/jobs_report_unemployment/index.htm?iid=EL)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/02/03/news/economy/jobs_report_unemployment/jobs-report.gi.01.jpg)
 
 ### Related:
 

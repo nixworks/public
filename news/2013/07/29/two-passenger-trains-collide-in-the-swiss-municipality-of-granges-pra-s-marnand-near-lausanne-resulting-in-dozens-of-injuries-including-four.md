@@ -8,6 +8,7 @@ Two passenger trains collided in Switzerland early Monday evening, leaving sever
 ### Source:
 
 1. [RT](http://rt.com/news/trains-collide-switzerland-injuries-754/)
+1. [Cover Image](https://img.rt.com/files/news/1f/ec/20/00/6.si.jpg)
 
 ### Related:
 

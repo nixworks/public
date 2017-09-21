@@ -8,6 +8,7 @@ An advanced research centre to be shared by the troubled region has opened today
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/science-environment-39927836)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/336E/production/_96066131_img_6759.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Investigators looked through wreckage Sunday to determine what caused a Navy Blu
 
 1. [CNN](http://www.cnn.com/2007/US/04/21/blueangels.crash/index.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/18248797)
+2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/070422/nn_potter_blueangel_070422.standard.jpg)
 
 ### Related:
 

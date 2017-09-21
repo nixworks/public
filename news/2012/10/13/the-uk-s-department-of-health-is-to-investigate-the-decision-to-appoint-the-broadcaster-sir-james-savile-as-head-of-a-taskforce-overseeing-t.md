@@ -8,6 +8,7 @@ The Department of Health is to investigate the decision to appoint Sir Jimmy Sav
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19936195)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63473000/jpg/_63473160_1ygnim90.jpg)
 
 ### Related:
 

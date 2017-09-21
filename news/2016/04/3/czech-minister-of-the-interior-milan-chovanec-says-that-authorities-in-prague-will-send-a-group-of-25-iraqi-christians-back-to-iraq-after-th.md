@@ -9,6 +9,7 @@ ATHENS, Greece (AP) — An agreement between the European Union and Turkey to de
 
 1. [AP](http://bigstory.ap.org/article/11a6fd5af80d4aa0abb631c6b95a0da9/deportation-migrants-greece-turkey-starts-monday)
 2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/czech-iraqi-christians-crossed-into-germany/27651712.html)
+2. [Cover Image](http://binaryapi.ap.org/e17c80f0512c448f8053b587a4c2579e/460x.jpg)
 
 ### Related:
 

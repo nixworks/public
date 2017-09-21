@@ -8,6 +8,7 @@ Argentina offered a $6.5 billion cash payment to creditors suing the country ove
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-argentina-debt-idUSKCN0VE2L4)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160205&t=2&i=1115295876&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC141B8)
 
 ### Related:
 

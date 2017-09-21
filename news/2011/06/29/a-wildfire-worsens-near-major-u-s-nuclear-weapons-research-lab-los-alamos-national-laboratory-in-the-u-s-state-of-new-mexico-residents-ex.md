@@ -8,6 +8,7 @@ Hundreds more firefighters are being deployed to help battle a growing wildfire 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13963361)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53761000/jpg/_53761582_53761581.jpg)
 
 ### Related:
 

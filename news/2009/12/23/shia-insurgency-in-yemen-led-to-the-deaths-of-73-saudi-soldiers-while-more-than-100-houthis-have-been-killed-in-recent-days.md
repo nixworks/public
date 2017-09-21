@@ -12,6 +12,7 @@ Refugees in northern Yemen say that their villages were bombed in an escalating 
 3. [The Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2009/1222/Fresh-fighting-in-Yemen-ignites-refugee-crisis)
 4. [The Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2009/1221/Saudi-air-strike-kills-Yemen-rebels-as-US-drawn-into-fight)
 5. [The New York Times](http://www.nytimes.com/reuters/2009/12/22/world/international-uk-saudi-yemen-rebels.html)
+5. [Cover Image](http://images.csmonitor.com/csmarchives/2009/12/1222-yemen-camps-1.jpg?alias=standard_900x600)
 
 ### Related:
 

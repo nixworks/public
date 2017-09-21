@@ -8,6 +8,7 @@ California on Monday sued the Trump administration, challenging as unconstitutio
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-california-sues-trump-administration-1505150334-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-59b6d434/turbine/la-pol-ca-essential-politics-updates-california-sues-trump-administration-1505150334)
 
 ### Related:
 

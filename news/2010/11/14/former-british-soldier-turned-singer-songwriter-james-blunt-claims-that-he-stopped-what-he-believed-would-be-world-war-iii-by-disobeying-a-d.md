@@ -12,6 +12,7 @@ Kosovo, June 1999. Serbia has withdrawn from the campaign. Hundreds of thousands
 3. [The Age](http://www.theage.com.au/lifestyle/people/i-stopped-world-war-iii-says-james-blunt-20101115-17tab.html)
 4. [The Independent](http://www.independent.co.uk/news/people/news/how-james-blunt-saved-us-from-world-war-3-2134203.html)
 5. [UPI](http://www.upi.com/Entertainment_News/Music/2010/11/14/James-Blunt-recalls-Kosovo-encounter/UPI-55921289754961/)
+5. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/11/14/23/495775.bin)
 
 ### Related:
 

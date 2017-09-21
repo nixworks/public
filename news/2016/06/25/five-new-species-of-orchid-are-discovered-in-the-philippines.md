@@ -8,6 +8,7 @@ Manila, June 24, 2016 (AFP) -Five new orchid species have been discovered in rem
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/tech/tech-news/New-orchid-species-found-in-Philippine-forest-guerrilla-zone/articleshow/52903055.cms)
+1. [Cover Image](http://www.gadgetsnow.com/photo/51632515.cms)
 
 ### Related:
 

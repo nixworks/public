@@ -9,6 +9,7 @@ Presidency confirms ousted leader Francois Bozize has sought temporary refuge af
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/03/201332565033211834.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21923624)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/25/2013325202745976734_20.jpg)
 
 ### Related:
 

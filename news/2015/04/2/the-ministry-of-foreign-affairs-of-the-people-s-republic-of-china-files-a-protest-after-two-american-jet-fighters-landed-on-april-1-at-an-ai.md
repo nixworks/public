@@ -9,6 +9,7 @@ China&#x27;s Foreign Ministry expressed anger on Thursday after two U.S. fighter
 
 1. [AFP via Yahoo7](https://au.news.yahoo.com/world/a/26923712/china-objects-after-us-fighter-planes-land-in-taiwan/)
 2. [Reuters via Yahoo](http://news.yahoo.com/china-angered-u-fighter-jets-land-taiwan-090328736.html)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

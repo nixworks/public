@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/cigna-ma-anthem-idUSL1N1FU057)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170209&t=2&i=1171947776&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1801L)
 
 ### Related:
 

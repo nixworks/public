@@ -8,6 +8,7 @@
 ### Source:
 
 1. [GloboNews](http://g1.globo.com/jornal-hoje/noticia/2013/08/imagens-ineditas-mostram-tribo-que-ainda-vive-isolada-na-amazonia.html)
+1. [Cover Image](http://s2.glbimg.com/gE7T91_Ch7s1WBteQpb8hZhY9d0=/1200x630/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/92/46/2754692)
 
 ### Related:
 

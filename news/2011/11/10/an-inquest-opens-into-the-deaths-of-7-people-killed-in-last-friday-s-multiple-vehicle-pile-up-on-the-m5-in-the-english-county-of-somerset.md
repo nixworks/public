@@ -8,6 +8,7 @@ The inquest opens into the deaths of the seven people killed in a crash on the M
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-15669967)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56619000/jpg/_56619032_56619031.jpg)
 
 ### Related:
 

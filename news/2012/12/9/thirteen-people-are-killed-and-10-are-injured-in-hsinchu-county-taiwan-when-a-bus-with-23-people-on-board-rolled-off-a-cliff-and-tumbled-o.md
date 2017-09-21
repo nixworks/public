@@ -9,6 +9,7 @@
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/325339/13-killed-as-bus-plunges-into-taiwan-ravine)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aSOC&ID=201212090019)
+2. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20121209/2012120900191.jpg)
 
 ### Related:
 

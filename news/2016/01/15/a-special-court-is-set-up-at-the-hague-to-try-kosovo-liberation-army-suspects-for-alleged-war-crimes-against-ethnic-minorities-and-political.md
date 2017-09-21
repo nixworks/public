@@ -8,6 +8,7 @@ A special court is being set up in The Hague to try war crimes committed during 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35327494)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BD4F/production/_87736484_87736483.jpg)
 
 ### Related:
 

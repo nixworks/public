@@ -8,6 +8,7 @@ Twenty-two people have died in Nicaragua during several days of heavy rains, nin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-29679163)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/78378000/jpg/_78378981_78378949.jpg)
 
 ### Related:
 

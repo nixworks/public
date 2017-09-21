@@ -9,6 +9,7 @@ A giant pyramid which appears to be a UFO hovering over the Kremlin has caused f
 
 1. [Sky News](http://news.sky.com/skynews/Home/Strange-News/Pyramid-UFO-Hovers-In-Moscow-Skies-For-Hours-According-To-Video-Reports/Article/200912315503459)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/6837200/UFO-pyramid-reported-over-Kremlin.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01545/ufoPyramid_1545912a.jpg)
 
 ### Related:
 

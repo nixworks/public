@@ -8,6 +8,7 @@ At least 15 bodies were recovered from floodwaters and many more people were sti
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.com/kenya-floods-scores-feared-dead-torrential-rain-turns-roads-rivers-1901462)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/04/29/kenya-floods.jpg)
 
 ### Related:
 

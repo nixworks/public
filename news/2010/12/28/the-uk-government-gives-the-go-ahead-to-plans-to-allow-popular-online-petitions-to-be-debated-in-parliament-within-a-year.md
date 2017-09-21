@@ -8,6 +8,7 @@ A plan to allow popular online petitions to be debated in Parliament within a ye
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12084525)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

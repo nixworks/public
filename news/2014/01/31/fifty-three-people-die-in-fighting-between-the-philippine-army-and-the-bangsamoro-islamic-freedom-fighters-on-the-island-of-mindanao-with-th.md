@@ -8,6 +8,7 @@ MANILA, Jan 31 - Three child soldiers recruited by hardline Muslim rebels were a
 ### Source:
 
 1. [AFP via Capital FM](http://www.capitalfm.co.ke/news/2014/01/child-soldiers-among-53-dead-as-philippine-troops-overrun-rebels/)
+1. [Cover Image](http://www.capitalfm.co.ke/news/files/2014/01/PHILLIPINES-SOLDIERS.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Citigroup Inc faced growing uncertainty on Wednesday about whether it could ever
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/ousiv/idUSN1234412520090114)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090114&t=2&i=7856202&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-01-14T194153Z_01_BTRE50D0UXS00_RTROPTP_0_CITIGROUP)
 
 ### Related:
 

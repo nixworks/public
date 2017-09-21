@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/US/04/30/severe.weather/index.html?eref=rss_us)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/04/30/severe.weather/tzvids.tornadodamage.gi.jpg)
 
 ### Related:
 

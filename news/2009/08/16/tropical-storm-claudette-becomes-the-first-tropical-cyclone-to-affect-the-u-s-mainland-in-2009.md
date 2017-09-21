@@ -8,3 +8,4 @@ The Weather Channel and weather.com provide a national and local weather forecas
 ### Source:
 
 1. [Weather.com](http://www.weather.com)
+1. [Cover Image](https://s.w-x.co/240x180_twc_default.png)

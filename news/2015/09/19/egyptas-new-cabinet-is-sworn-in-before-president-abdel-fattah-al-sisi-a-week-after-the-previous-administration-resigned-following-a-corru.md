@@ -9,6 +9,7 @@ Egypt&#039;s new Cabinet was sworn in before President Abdel Fattah al-Sisi at t
 
 1. [Egyptian Streets](http://egyptianstreets.com/2015/09/19/egypts-new-government-announced-with-16-new-ministers/)
 2. [Reuters](http://www.reuters.com/article/2015/09/19/us-egypt-government-idUSKCN0RJ06P20150919)
+2. [Cover Image](https://egyptianstreets.com/wp-content/uploads/2015/09/12d50873-89a3-4407-810a-446e37e07dd4.jpg)
 
 ### Related:
 

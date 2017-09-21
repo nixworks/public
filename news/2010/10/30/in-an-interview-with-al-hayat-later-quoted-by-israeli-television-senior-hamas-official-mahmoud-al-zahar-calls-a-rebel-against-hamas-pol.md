@@ -8,6 +8,7 @@ Top Hamas official Mahmoud Zahar says Islamist group agreed to truce with Israel
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/hamas-anyone-firing-rockets-from-gaza-at-israel-is-a-rebel-1.321953)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.297246.1419757977!/image/3761600766.jpg_gen/derivatives/headline_1200x630/3761600766.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 2. [China Daily](http://chinadaily.cn/china/2010-03/04/content_9535323.htm)
 3. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201003040024)
 4. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1194977&lang=eng_news&cate_img=49.jpg&cate_rss=news_Society_TAIWAN)
+4. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/2010030400241.jpg)
 
 ### Related:
 

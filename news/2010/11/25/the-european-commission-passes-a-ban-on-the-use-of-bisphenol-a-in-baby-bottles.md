@@ -8,6 +8,7 @@ The European Commission is to ban the chemical bisphenol A from plastic baby bot
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11843820)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

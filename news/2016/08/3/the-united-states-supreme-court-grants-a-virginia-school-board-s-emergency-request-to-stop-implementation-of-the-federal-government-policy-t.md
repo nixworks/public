@@ -11,6 +11,7 @@ The Supreme Court temporarily blocked a Virginia transgender student from using 
 2. [Metro Weekly](http://www.metroweekly.com/2016/07/gavin-grimm-lawyers-supreme-court-not-intervene/)
 3. [Reuters](http://www.reuters.com/article/us-usa-court-transgender-idUSKCN10E2KS)
 4. [The Wall Street Journal](http://www.wsj.com/articles/supreme-court-blocks-virginia-transgender-student-from-boys-restroom-1470257508)
+4. [Cover Image](https://si.wsj.net/public/resources/images/BN-OX182_VATRAN_TOP_20160713165932.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ The killing of Philando Castile, 32, in suburban St. Paul, Minn., is the second 
 2. [NPR](http://www.npr.org/sections/theto-way/2016/07/07/485066807/police-stop-ends-in-black-mans-death-aftermath-is-livestreamed-online-video)
 3. [The New York Times](http://www.nytimes.com/2016/07/08/us/philando-castile-falcon-heights-shooting.html?_r=0&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedLeft&pgtype=article)
 4. [Wall Street Journal](http://www.wsj.com/articles/police-fatally-shoot-man-during-traffic-stop-in-minnesota-1467875899)
+4. [Cover Image](https://media.npr.org/assets/img/2016/07/07/police_wide-ffbff88da6b98ba2420e1670afc6c71b57bd3527.jpg?s=1400)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jun/23/refugees-die-starvation-illness-nigeria-camp-bama-boko-haram)
+1. [Cover Image](https://i.guim.co.uk/img/media/13afaab8952d6e5806511a384fd4c1637e62022a/0_78_5760_3456/5760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4ea43b79d5222227a1a964c3bfbc2c74)
 
 ### Related:
 

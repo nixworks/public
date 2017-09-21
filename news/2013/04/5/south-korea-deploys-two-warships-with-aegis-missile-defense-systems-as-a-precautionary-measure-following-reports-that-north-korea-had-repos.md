@@ -10,6 +10,7 @@ South Korea deploys two warships with missile-defence systems, reports say, afte
 1. [AFP via NDTV](http://www.ndtv.com/article/world/north-korea-warns-it-cannot-protect-embassies-after-april-10-350633)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22037844)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/9973577/North-Korea-missile-threat-latest-live.html)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66770000/jpg/_66770576_66770575.jpg)
 
 ### Related:
 

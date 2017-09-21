@@ -8,6 +8,7 @@ Alleged agent detained on suspicion of plotting to kill high-profile defector Hw
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010102015647458350.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/14/2010101412109339738_20.jpg)
 
 ### Related:
 

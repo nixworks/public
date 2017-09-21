@@ -9,6 +9,7 @@ Police fired tear gas at protesters as supporters and opponents of President Moh
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20458148)
 2. [RT](http://rt.com/news/egypt-protests-morsi-march-420/)
+2. [Cover Image](https://img.rt.com/files/oldfiles/news/egypt-protests-morsi-march-420/run-riot-tear-released.si.jpg)
 
 ### Related:
 

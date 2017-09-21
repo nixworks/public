@@ -8,6 +8,7 @@ Musicians from Radiohead and Pink Floyd are among those angered by plans for a n
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18801119)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61510000/jpg/_61510841_radiohead.jpg)
 
 ### Related:
 

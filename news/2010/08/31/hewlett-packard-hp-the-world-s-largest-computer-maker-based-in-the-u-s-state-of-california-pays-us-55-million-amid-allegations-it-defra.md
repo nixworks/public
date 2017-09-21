@@ -10,6 +10,7 @@ Hewlett-Packard has agreed to pay $US55 million ($A61 million) to settle claims 
 1. [AFP via France24](http://www.france24.com/en/20100831-hp-pay-55-million-dollars-kickbacks-case)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-11134389)
 3. [The Sydney Morning Herald](http://www.smh.com.au/business/world-business/hp-to-pay-61m-to-settle-fraud-claim-20100831-148cl.html)
+3. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Singer George Michael is charged with possession of cannabis and driving while u
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10952675)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

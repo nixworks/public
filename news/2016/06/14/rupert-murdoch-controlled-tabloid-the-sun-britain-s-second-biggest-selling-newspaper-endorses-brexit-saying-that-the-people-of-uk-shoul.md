@@ -8,6 +8,7 @@ For almost 40 years, Rupert Murdoch’s newspaper has fought against European in
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/media/greenslade/2016/jun/14/the-suns-brexit-call-is-unsurprising-but-it-has-symbolic-significance)
+1. [Cover Image](https://i.guim.co.uk/img/media/0bc61dfd6fe88ad011ac8036afd3775ff2a33a47/0_10_936_562/936.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4643f3704df51d501dcd3032401a5003)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Canadian navy intelligence officer is sentenced to 20 years in prison after pl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21389790)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63421000/jpg/_63421908_63421907.jpg)
 
 ### Related:
 

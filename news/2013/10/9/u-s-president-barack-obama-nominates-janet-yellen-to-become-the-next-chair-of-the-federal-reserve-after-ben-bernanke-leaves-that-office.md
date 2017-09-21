@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/09/us-usa-fed-idUSBRE99312G20131009)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131009&t=2&i=801462789&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9981J9S00)
 
 ### Related:
 

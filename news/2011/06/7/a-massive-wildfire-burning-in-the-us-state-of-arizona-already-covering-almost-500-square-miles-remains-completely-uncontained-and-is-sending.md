@@ -8,6 +8,7 @@ Dry, windy conditions whipped flames and spread smoke across several states as a
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/weather/wildfires/2011-06-07-arizona-wildfires_n.htm)
+1. [Cover Image](http://i.usatoday.net/weather/_photos/2011/06/07/arizona-wildfires-VR5G8R7-x.jpg)
 
 ### Related:
 

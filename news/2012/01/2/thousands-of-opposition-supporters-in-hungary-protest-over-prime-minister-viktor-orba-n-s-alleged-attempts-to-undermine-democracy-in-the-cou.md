@@ -8,6 +8,7 @@ The demonstration — a day after the country’s new “majoritarian” Constit
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/01/03/world/europe/rare-opposition-protests-in-hungary.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

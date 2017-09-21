@@ -8,6 +8,7 @@ Turkish police fired water cannon and rubber pellets to disperse a gay pride par
 ### Source:
 
 1. [Reuters UK](http://uk.reuters.com/article/2015/06/28/uk-turkey-rights-pride-idUKKCN0P80P420150628?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150628&t=2&i=1059856019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB5R0F3)
 
 ### Related:
 

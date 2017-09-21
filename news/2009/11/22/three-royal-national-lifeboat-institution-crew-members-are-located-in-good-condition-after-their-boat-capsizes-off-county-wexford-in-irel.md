@@ -8,6 +8,7 @@ The three crew members of the Wexford inshore lifeboat that capsized this mornin
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1122/rnli.html)
+1. [Cover Image](https://img.rasset.ie/0002c63f-1600.jpg)
 
 ### Related:
 

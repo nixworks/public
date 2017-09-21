@@ -9,6 +9,7 @@ To quell the rebellion in the Philippine city, President Rodrigo Duterte asked l
 
 1. [The New York Times](https://www.nytimes.com/2017/07/18/world/asia/philippines-rodrigo-duterte-martial-law.html)
 2. [Yahoo News](http://www.yahoo.com/news/philippines-duterte-seeks-martial-law-extension-south-093019912.html)
+2. [Cover Image](https://static01.nyt.com/images/2017/07/19/world/19philippines-1/19philippines-1-facebookJumbo.jpg)
 
 ### Related:
 

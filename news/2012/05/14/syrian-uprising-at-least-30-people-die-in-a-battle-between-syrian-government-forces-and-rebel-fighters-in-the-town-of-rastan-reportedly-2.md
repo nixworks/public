@@ -8,6 +8,7 @@ Syrian rebels have claimed a major blow against the Assad regime, driving its fo
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9264079/Syrian-army-looses-23-troops-in-assualt-on-Rastan-in-defiance-of-ceasefire.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02218/syria-1_2218608k.jpg)
 
 ### Related:
 

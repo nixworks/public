@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/NewsTrack/Top_News/2007/06/20/former_thai_pm_must_return_to_face_charges/4583/)
+1. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

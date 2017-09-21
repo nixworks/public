@@ -9,6 +9,7 @@ After the blast, angry groups of young men roamed the city, setting fire to a ga
 
 1. [NYT](http://www.nytimes.com/2004/05/07/international/asia/07CND-STAN.html)
 2. [National Post](http://www.canada.com/national/story.html?id=4344b709-0578-463d-9248-095fc73ff773)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

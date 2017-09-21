@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Blaze](http://www.theblaze.com/stories/2014/09/20/pakistan-terrorist-group-claims-it-shot-down-an-f-16/)
+1. [Cover Image](http://www.theblaze.com/wp-content/uploads/2014/09/snapshot20140919091458.jpg)
 
 ### Related:
 

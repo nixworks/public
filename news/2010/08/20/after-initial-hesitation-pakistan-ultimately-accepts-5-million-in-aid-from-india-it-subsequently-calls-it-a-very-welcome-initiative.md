@@ -12,6 +12,7 @@ Pakistan has welcomed flood aid from its neighbour India, as the countries look 
 3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/20/pakistan-welcomes-flood-aid-india)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/pakistan-accepts-indias-offer-of-aid-20100820-138ok.html)
 5. [The Times of India](http://timesofindia.indiatimes.com/articleshow/6335115.cms)
+5. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

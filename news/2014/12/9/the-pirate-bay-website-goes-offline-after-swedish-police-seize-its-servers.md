@@ -8,6 +8,7 @@ You might have noticed that The Pirate Bay is offline today; the site has disapp
 ### Source:
 
 1. [The Next Web](http://thenextweb.com/apps/2014/12/09/pirate-bay-offline-swedish-police-raid/)
+1. [Cover Image](https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2012/10/The-Pirate-Bay-logo.png)
 
 ### Related:
 

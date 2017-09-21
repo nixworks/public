@@ -11,6 +11,7 @@ At least 32 people die and scores are missing after a ferry with some 200 people
 2. [AP via Newsday](http://www.newsday.com/news/nation/30-dead-dozens-missing-in-bangladesh-ferry-crash-1.3598401)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-17348409)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/bangladesh/9139761/At-least-150-missing-as-ferry-sinks-in-Bangladesh.html)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59036000/jpg/_59036219_014244554-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Nickel fell the most in eight weeks on speculation that the government may take 
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-07-05/nickel-retreats-after-rising-to-eight-month-high-on-philippines)
 2. [Financial Times](http://www.ft.com/cms/s/0/50fa98ae-42c5-11e6-9b66-0712b3873ae1.html#axzz4DaMnuTPy)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

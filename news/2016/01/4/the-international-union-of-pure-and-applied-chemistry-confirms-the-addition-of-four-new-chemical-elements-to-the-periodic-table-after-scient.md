@@ -8,6 +8,7 @@ Discovery of four super-heavy chemical elements by scientists in Russia, America
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/science/2016/jan/04/periodic-tables-seventh-row-finally-filled-as-four-new-elements-are-added)
+1. [Cover Image](https://i.guim.co.uk/img/media/f6c6406732044140de3ee9362dda9148a31a39bd/389_532_2312_1389/master/2312.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=547cb601350d2e82415614d6a3f55fd5)
 
 ### Related:
 

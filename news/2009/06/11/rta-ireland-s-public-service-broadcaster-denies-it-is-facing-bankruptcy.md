@@ -8,6 +8,7 @@ RTÉ Director-General Cathal Goan has told an Oireachtas Committee that the nati
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0611/rte.html)
+1. [Cover Image](https://img.rasset.ie/00025c74-1600.jpg)
 
 ### Related:
 

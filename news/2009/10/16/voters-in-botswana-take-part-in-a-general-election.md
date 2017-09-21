@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009101618585510785.html)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091016065411408C211587)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

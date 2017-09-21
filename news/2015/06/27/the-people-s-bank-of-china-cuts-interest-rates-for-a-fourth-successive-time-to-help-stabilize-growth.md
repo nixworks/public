@@ -8,6 +8,7 @@ After more than a week of a brutal selloff in Chinese stocks, the country’s ce
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/peoples-bank-of-china-cuts-rates-1435397932?mod=djemalertAsianews)
+1. [Cover Image](https://si.wsj.net/public/resources/images/OG-AE963m_crate_E_20150627131843.jpg)
 
 ### Related:
 

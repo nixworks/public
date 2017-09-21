@@ -9,6 +9,7 @@ The national state of emergency imposed after last month&#039;s devastating Chri
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/1495707/Christchurch-state-of-emergency-extended)
 2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10710733)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/s/i/site_1_rand_1319197589_nz_quake_police_emergency_l_110222_getty.jpg)
 
 ### Related:
 

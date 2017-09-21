@@ -8,6 +8,7 @@ Singer&#39;s provocative clip beats One Direction&#39;s Best Song Ever video wit
 ### Source:
 
 1. [E online](http://www.eonline.com/news/457154/miley-cyrus-wrecking-ball-breaks-record-for-vevo-s-most-viewed-video)
+1. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/201389/rs_300x300-130909110127-600.miley-cyrus-wrecking-ball-video.ls.9913.jpg?downsize=600:*&crop=600:315;left,top)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-israel-syria-idUSKBN19G0Q6)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170625&t=2&i=1190427486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5O0OY)
 
 ### Related:
 

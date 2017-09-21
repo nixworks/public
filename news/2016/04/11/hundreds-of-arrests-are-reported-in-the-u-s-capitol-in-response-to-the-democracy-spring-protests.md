@@ -9,3 +9,4 @@ Democracy Spring is a movement organization committed to winning fundamental ref
 
 1. [CNN](http://www.cnn.com/2016/04/11/politics/democracy-spring-arrests-protests-washington/index.html)
 2. [Democracy Spring](http://www.democracyspring.org)
+2. [Cover Image](http://d3n8a8pro7vhmx.cloudfront.net/democracyspring/pages/1/meta_images/original/demspring_redblue1_vertical_bak.jpg?1447638472)

@@ -8,6 +8,7 @@ James Murdoch says suggestions News International operated like the Mafia over t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15660023)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56626000/jpg/_56626216_murdochgrab.jpg)
 
 ### Related:
 

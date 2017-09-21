@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSBKK43549020090519)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090519&t=2&i=10173974&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-19T132735Z_01_BTRE54I0TDC00_RTROPTP_0_PHILIPPINES)
 
 ### Related:
 

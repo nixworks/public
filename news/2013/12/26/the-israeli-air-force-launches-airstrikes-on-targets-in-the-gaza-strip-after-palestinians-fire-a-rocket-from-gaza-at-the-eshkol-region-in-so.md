@@ -8,6 +8,7 @@ One Palestinian reported injured in apparent retaliation for Kassam strike; Neta
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/after-rocket-attack-iaf-strikes-targets-in-gaza/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/12/F131226DG03.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gUg60f1lw4mhNCbMxnvv2DxPD26A?docId=CNG.9880a8dda44b8ad3298fa8b84aad502f.181)
 2. [The Hindu](http://www.thehindu.com/news/international/world/xi-obama-tread-carefully-on-cyber-espionage/article4794428.ece)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article12036191.ece/ALTERNATES/LANDSCAPE_615/Xi-Obama)
 
 ### Related:
 

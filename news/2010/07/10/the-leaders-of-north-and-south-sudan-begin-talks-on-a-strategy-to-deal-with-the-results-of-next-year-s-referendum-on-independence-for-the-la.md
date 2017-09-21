@@ -10,6 +10,7 @@ Leaders meet to form strategy to deal with results of referendum on separation.
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h7nmD9EzjfpjkcRgh4BE6XXT0C6A)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/201071013512424922.html)
 3. [Reuters](http://af.reuters.com/article/southAfricaNews/idAFLDE6690AI20100710)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UK urged to loosen ties with Gulf nation after killing of three Shia Muslims as 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/15/bahrain-three-men-death-sentence-shia-muslims-gulf)
+1. [Cover Image](https://i.guim.co.uk/img/media/cea58a21afb61e9d6ee843930ef2e42c6e82c892/0_133_4921_2954/master/4921.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9fe1907715a946402935187668b10b79)
 
 ### Related:
 

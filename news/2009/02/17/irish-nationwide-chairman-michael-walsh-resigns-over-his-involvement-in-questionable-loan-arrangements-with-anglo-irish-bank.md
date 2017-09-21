@@ -8,6 +8,7 @@ The Chairman of the Irish Nationwide Building Society, Dr Michael Walsh, resigne
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0217/irishnationwide.html)
+1. [Cover Image](https://img.rasset.ie/000213b3-1600.jpg)
 
 ### Related:
 

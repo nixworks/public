@@ -8,6 +8,7 @@ Pope Francis holds relics thought to belong to the apostle during mass at St Pet
 ### Source:
 
 1. [Guardian](http://www.theguardian.com/world/2013/nov/24/vatican-st-peters-bones-display-pope-francis)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/11/24/1385297078681/Pope-Francis-holds-the-re-003.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=aa6cbb926fdb23f50a8cf773fcf5592f)
 
 ### Related:
 

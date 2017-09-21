@@ -9,6 +9,7 @@ Volkswagen halted sales of its diesel cars after revelations that it used illega
 
 1. [Auto Guide](http://www.autoguide.com/auto-news/2015/09/volkswagen-halts-sales-of-diesel-cars-for-software-cheat.html)
 2. [USA Today](http://www.usatoday.com/story/money/cars/2015/09/20/volkswagen-ceo-martin-winterkorn-apologizes-epa-clean-air-act-emissions-violations/72519678/)
+2. [Cover Image](http://autoguide.com.vsassets.com/blog/wp-content/uploads//2015/09/TDI-Badge-679x449.jpg)
 
 ### Related:
 

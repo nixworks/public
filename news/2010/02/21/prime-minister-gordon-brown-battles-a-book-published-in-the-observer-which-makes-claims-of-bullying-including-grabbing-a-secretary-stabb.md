@@ -11,6 +11,7 @@ A number of Downing Street staff have called an anti-bullying hotline, according
 2. [CBC](http://www.cbc.ca/world/story/2010/02/21/brown-abusive-book-rawnsley.html)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5271301,00.html)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/gordon-brown/7286639/Gordon-Brown-criticised-by-anti-bullying-head.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01582/brownsum_1582673a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pope Francis will name his own man to run the Knights of Malta temporarily after
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pope-knights-idUSKBN159001)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170125&t=2&i=1170120563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0O002)
 
 ### Related:
 

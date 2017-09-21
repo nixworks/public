@@ -9,6 +9,7 @@ A security lockdown at the White House triggered by a loud bang just as Presiden
 
 1. [Reuters via MSN](http://www.msn.com/en-us/news/politics/white-house-on-lockdown-after-loud-bang-pool-report/ar-AA9uIzo)
 2. [Reuters](http://www.reuters.com/article/2015/03/08/us-usa-securtity-obama-idUSKBN0M30LX20150308)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150308&t=2&i=1030428035&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB27007)
 
 ### Related:
 

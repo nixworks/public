@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSN0925972620101015)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20101015&t=2&i=226400795&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-15T121515Z_01_BTRE69E0Y2000_RTROPTP_0_CHILE-MINERS)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Turkish police have taken several dozen lawyers into custody for joining the ong
 3. [RT](http://rt.com/news/turkish-police-lawyers-courthouse-534/)
 4. [Reuters](http://www.reuters.com/video/2013/06/09/clashes-go-into-the-night-in-turkey?videoId=243227199)
 5. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/turkey-recep-tayyip-erdogan-must-compromise)
+5. [Cover Image](https://img.rt.com/files/news/1f/61/60/00/istanbul-13.si.jpg)
 
 ### Related:
 

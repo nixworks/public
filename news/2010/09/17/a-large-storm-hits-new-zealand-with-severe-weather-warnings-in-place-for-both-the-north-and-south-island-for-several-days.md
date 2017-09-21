@@ -9,6 +9,7 @@
 
 1. [AAP via Bigpond News](http://bigpondnews.com/articles/World/2010/09/17/NZ_braces_for_Aussie-sized_storm_514529.html)
 2. [MSN NZ](http://news.msn.co.nz/article/7963009/gigantic-storm-hits-new-zealand)
+2. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

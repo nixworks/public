@@ -8,6 +8,7 @@ Thirty-four people were arrested just as the gang was about to launch its scheme
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/news/world/italian-cops-arrest-34-race-foil-plot-steal-enzo-ferrari-n740356)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_13/1948721/170329-enzo-ferrari_8a756475fa4c64495d5e098339031188.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

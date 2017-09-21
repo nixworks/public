@@ -9,6 +9,7 @@ Google Inc is set to give Eric Schmidt a $100 million equity award as he hands o
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70M1V120110123)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704624504576098070086282958.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110123&t=2&i=315095093&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-23T231905Z_01_BTRE70M1GJ800_RTROPTP_0_GOOGLE)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Demonstrators opposed to a tax on the under-employed take to the streets despite
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-39393351)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/25BD/production/_95316690_c4fd9a30-6cdc-4f09-a4ec-381761c747e4.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@ Demonstrators opposed to a tax on the under-employed take to the streets despite
 7. [5 Belarusian journalists are sentenced to administrative arrests ranging from 3 to 12 days for attending unsanctioned rallies in Minsk and other cities. ](/news/2011/07/6/5-belarusian-journalists-are-sentenced-to-administrative-arrests-ranging-from-3-to-12-days-for-attending-unsanctioned-rallies-in-minsk-and-o.md) _Context: Belarus, Minsk_
 8. [Belarus votes.Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarus-votes-thousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters-in-minsk-while-opposition-candidate-vladi.md) _Context: Belarus, Minsk_
 9. [The Russian embassy in the Belarussian capital Minsk is attacked with firebombs; Russia says the incident is "outrageous". ](/news/2010/08/31/the-russian-embassy-in-the-belarussian-capital-minsk-is-attacked-with-firebombs-russia-says-the-incident-is-outrageous.md) _Context: Belarus, Minsk_
-10. [Russia and Belarus begin a six-day joint strategic military exercise inside Belarus and Russia's Kaliningrad Oblast. The military exercise simulates war against the fictional state of Veyshnoria. According to the Defence Ministry of Belarus, fewer than 13,000 personnel will be taking part in the exercise; however, Western analysts believe the total number will range from 60,000 to 100,000. ](/news/2017/09/14/russia-and-belarus-begin-a-six-day-joint-strategic-military-exercise-inside-belarus-and-russia-s-kaliningrad-oblast-the-military-exercise-s.md) _Context: Belarus_
+10. [ A referendum is held in Belarus on a proposal by President Alexander Lukashenko to permit Lukashenko to run for a third term by amending the country's constitution to remove term limits. The Belarus electoral commission says the referendum won the support of at least 75 percent of voters, but independent elections monitors say that the voting procedures "fell significantly short" of international standards. In Minsk, the capital, more than 2,000 people protest the results of the referendum. ](/news/2004/10/18/a-referendum-is-held-in-belarus-on-a-proposal-by-president-alexander-lukashenko-to-permit-lukashenko-to-run-for-a-third-term-by-amending-th.md) _Context: Belarus, Minsk_

@@ -8,6 +8,7 @@ Egyptian Justice Minister Ahmed Mekky resigns, following demands from Islamist s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22240538)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67146000/jpg/_67146200_67146199.jpg)
 
 ### Related:
 

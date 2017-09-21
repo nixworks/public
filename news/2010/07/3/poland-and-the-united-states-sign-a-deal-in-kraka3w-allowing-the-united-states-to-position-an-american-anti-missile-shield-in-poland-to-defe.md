@@ -8,6 +8,7 @@ Clinton cites Iranian threats to counter Russian objections to anti-missile shie
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010731815728252.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

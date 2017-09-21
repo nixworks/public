@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-security-citizenship-idUSKBN18W17D)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170605&t=2&i=1187614561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED540OK)
 
 ### Related:
 

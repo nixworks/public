@@ -8,6 +8,7 @@ A colossal rocket would be the most powerful since the Saturn V that took Americ
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/09/15/science/space/15nasa.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/09/15/science/15nasa2/15nasa2-thumbStandard-v2.jpg)
 
 ### Related:
 

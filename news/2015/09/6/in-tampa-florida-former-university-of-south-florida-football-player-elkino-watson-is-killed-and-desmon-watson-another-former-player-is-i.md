@@ -8,6 +8,7 @@ Former USF football player was killed and football player was wounded in an earl
 ### Source:
 
 1. [WFLA](http://wfla.com/2015/09/06/one-dead-one-injured-after-stabbing-outside-ybor-city-club/)
+1. [Cover Image](https://mgtvwfla.files.wordpress.com/2015/09/elkinowatson.jpg)
 
 ### Related:
 

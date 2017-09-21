@@ -9,6 +9,7 @@ The Pan-STARRS project is publicly releasing the world&#039;s largest digital sk
 
 1. [SciTech Daily](http://scitechdaily.com/astronomers-release-the-largest-digital-sky-survey/)
 2. [The Indian Express](http://indianexpress.com/article/technology/science/new-map-of-night-sky-catalogues-three-billion-stars-galaxies-4444350/)
+2. [Cover Image](https://scitechdaily.com/images/Pan-STARRS-Releases-Largest-Digital-Sky-Survey-to-the-World.jpg)
 
 ### Related:
 

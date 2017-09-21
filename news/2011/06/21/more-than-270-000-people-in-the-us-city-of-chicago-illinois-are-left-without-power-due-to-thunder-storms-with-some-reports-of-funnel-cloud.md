@@ -11,6 +11,7 @@ Commonwealth Edison expects to restore power to most of its customers by Thursda
 2. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-heavy-scattered-tstorms-likely-today-20110621,0,3192662.story)
 3. [Knox News](http://www.knoxnews.com/news/2011/jun/21/storms-wrath-broadway-blocked-power-out-117000-hom/)
 4. [NBC Chicago](http://www.nbcchicago.com/weather/stories/Summer-Starts-Rain-Continues-124291439.html)
+4. [Cover Image](http://www.trbimg.com/img-53262d3c/turbine/chi-heavy-scattered-tstorms-likely-today-20110621)
 
 ### Related:
 

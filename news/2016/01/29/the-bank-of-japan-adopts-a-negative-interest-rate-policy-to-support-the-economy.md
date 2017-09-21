@@ -8,6 +8,7 @@ U.S. stocks joined an advance in global equities, while bonds rallied as the Ban
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-28/asian-shares-set-for-gains-as-horror-month-ends-with-boj-update)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

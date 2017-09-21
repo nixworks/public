@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Townhall via Reuters](http://townhall.com/news/politics-elections/2016/03/20/benin-rivals-face-off-in-hotly-contested-presidential-runoff-n2136728)
+1. [Cover Image](https://media.townhall.com/_townhall/resources/images/thog.png)
 
 ### Related:
 

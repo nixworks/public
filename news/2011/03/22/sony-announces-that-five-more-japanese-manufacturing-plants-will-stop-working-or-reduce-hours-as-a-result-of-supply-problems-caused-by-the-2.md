@@ -8,6 +8,7 @@ Sony said on Tuesday shortages of parts and materials would force it to reduce o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/22/us-sony-idUSTRE72L0KE20110322)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110322&t=2&i=368804736&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-22T063447Z_01_BTRE72L0I9Q00_RTROPTP_0_SONY)
 
 ### Related:
 

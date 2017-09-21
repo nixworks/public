@@ -8,6 +8,7 @@ Labour’s deputy leader, Tom Watson, has demanded that Jeremy Corbyn abandon pl
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/tom-watson-warns-jeremy-corbyn-you-must-back-down-over-opposing-uk-air-strikes-on-isis-in-syria-a6753146.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/28/21/Watson.jpg)
 
 ### Related:
 

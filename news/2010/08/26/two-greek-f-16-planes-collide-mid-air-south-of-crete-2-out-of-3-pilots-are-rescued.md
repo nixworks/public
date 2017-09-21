@@ -9,6 +9,7 @@ Two Greek fighter jets have collided in mid-air, the defence ministry says, with
 
 1. [Athens News Agency](http://www.ana-mpa.gr/anaweb/user/showplain?maindoc=9035186&maindocimg=1389524&service=10)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/greek-fighter-jets-in-midair-collision-20100826-13uc3.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

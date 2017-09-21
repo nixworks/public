@@ -8,3 +8,4 @@ Women in the Arts Awards and Pachi Lake&#8217;s Fashion Show 09/30/2011, Press M
 ### Source:
 
 1. [Women in the Arts Awards](http://www.soulofmiami.org/2011/09/27/women-in-the-arts-awards-and-pachi-lakes-fashion-show-93011/)
+1. [Cover Image](http://www.soulofmiami.org/wp-content/uploads/2011/09/pachi-350x226.jpg)

@@ -8,6 +8,7 @@ Three people are killed in wild weather in NSW&#039;s Central Hunter region, whe
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-04-21/three-killed-in-dungog-as-cyclonic-weather-batters-nsw/6407836)
+1. [Cover Image](http://www.abc.net.au/news/image/6409574-1x1-700x700.jpg)
 
 ### Related:
 

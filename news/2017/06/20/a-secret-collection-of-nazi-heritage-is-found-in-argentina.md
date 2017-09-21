@@ -8,6 +8,7 @@ Argentine police have seized a cache of Nazi artefacts hidden behind a library i
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/argentina-nazi-cache-idINKBN19B2RH)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170620&t=2&i=1189845085&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5J1O8)
 
 ### Related:
 

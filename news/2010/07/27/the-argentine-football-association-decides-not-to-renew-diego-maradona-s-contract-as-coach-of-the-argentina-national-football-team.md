@@ -8,6 +8,7 @@ The Argentine Football Association on Tuesday elected not to renew Diego Maradon
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/sport/football/world-cup-2010/teams/argentina/7913626/Diego-Maradona-sacked-as-Argentina-coach.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01686/maradona_1686674a.jpg)
 
 ### Related:
 

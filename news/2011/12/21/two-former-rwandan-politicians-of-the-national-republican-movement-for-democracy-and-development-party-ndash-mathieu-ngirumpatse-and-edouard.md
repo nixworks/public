@@ -8,6 +8,7 @@ Two men, who headed MRND party when up to 800,000 were massacred by Hutu extremi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2011/12/20111221131955696500.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/24/2011624111642539621_20.jpg)
 
 ### Related:
 

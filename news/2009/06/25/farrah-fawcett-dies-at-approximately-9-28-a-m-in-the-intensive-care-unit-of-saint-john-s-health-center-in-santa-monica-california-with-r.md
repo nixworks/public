@@ -8,3 +8,4 @@ Farrah Fawcett , who soared to fame as a national sex symbol in the late 1970s o
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/news/obituaries/la-me-farrah-fawcett26-2009jun26,0,4388762.story)
+1. [Cover Image](http://www.trbimg.com/img-5418afa3/turbine/la-me-farrah-fawcett26-2009jun26)

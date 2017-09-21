@@ -9,6 +9,7 @@ With the opposition divided, the son of the late president is expected to take p
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/08/200983062545847133.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8229111.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

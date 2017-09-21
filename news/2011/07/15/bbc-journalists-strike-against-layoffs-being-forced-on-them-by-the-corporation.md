@@ -8,6 +8,7 @@ Journalists at the BBC are taking part in a 24-hour strike in a row over compuls
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-14152795)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54085000/jpg/_54085717_tv_centre_pa.jpg)
 
 ### Related:
 

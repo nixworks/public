@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/gaza-rockets-mar-obamas-israel-visit/story?id=18780287)
+1. [Cover Image](http://a.abcnews.com/images/International/gty_rocket_gaza_palestinan_militants_thg_130321_wmain.jpg)
 
 ### Related:
 

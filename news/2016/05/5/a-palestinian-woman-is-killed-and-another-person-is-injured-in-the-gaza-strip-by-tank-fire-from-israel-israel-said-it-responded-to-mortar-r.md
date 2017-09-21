@@ -9,6 +9,7 @@ Israeli tank fire kills a Palestinian woman in Gaza, Palestinians say, in some o
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36218994)
 2. [The Times of Israel](http://www.timesofisrael.com/palestinian-woman-killed-by-israeli-tank-fire-in-gaza/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A6C2/production/_89609624_5eb56067-995c-4448-950d-d88278a243cb.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The UN Human Rights Council orders an international inquiry to look into alleged
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14628573)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54763000/jpg/_54763285_012669544-1.jpg)
 
 ### Related:
 

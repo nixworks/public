@@ -8,6 +8,7 @@ DNA tests confirmed that a bear bagged by a hunter in Canada&#39;s Northwest Ter
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/id/12738644/?GT1=8199)
+1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/060511/060511_ hybridbear_hmed_7a.standard.jpg)
 
 ### Related:
 

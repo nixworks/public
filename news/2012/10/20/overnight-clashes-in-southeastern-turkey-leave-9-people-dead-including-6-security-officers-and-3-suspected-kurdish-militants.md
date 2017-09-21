@@ -8,6 +8,7 @@ Officials say nine people dead in two overnight clashes between army, village gu
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/2012102095034344938.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/12/20121012630559734_20.jpg)
 
 ### Related:
 

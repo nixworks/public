@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Times](http://www.dailytimes.com.pk/region/28-Feb-2014/another-53-killed-in-iraq)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

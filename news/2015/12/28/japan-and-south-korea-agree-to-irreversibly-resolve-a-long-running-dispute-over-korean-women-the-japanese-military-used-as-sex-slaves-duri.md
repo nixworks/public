@@ -9,6 +9,7 @@ The foreign ministers of South Korea and Japan said Monday they had reached a de
 
 1. [Reuters](http://in.reuters.com/article/japan-southkorea-comfortwomen-idINKBN0UB0DU20151228)
 2. [USA Today](http://www.usatoday.com/story/news/world/2015/12/28/south-korea-japan-comfort-women/77962792/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

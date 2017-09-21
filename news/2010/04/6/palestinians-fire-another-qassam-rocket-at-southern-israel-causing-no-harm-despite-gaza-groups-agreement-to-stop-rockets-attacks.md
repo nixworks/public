@@ -18,6 +18,7 @@ Israeli officials: Let’s wait and see; Kassam hits Negev, causing no harm.
 9. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=172485)
 10. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=172473)
 11. [The Muslim News](http://www.muslimnews.co.uk/news/news.php?article=17787)
+11. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=140765)
 
 ### Related:
 

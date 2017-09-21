@@ -8,6 +8,7 @@ Floods in southern China have killed at least 15 people over the past few days a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-china-flood-idUSKBN19O07X?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170703&t=2&i=1191403168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6209H)
 
 ### Related:
 

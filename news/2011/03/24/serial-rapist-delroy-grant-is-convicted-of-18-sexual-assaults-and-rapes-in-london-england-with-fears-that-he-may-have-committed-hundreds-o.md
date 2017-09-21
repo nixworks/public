@@ -8,6 +8,7 @@ A British man dubbed the Night Stalker has been convicted of being one of the mo
 ### Source:
 
 1. [PA via ''Sydney Morning Herald](http://www.smh.com.au/world/night-stalker-guilty-after-campaign-of-perverted-terror-20110324-1c8pl.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/c/8/w/c/image.related.articleLeadwide.620x349.1c8pl.png/1300995797343.jpg)
 
 ### Related:
 

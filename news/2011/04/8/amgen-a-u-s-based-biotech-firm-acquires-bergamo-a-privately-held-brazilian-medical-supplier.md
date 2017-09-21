@@ -8,6 +8,7 @@ U.S. biotechnology company Amgen Inc (AMGN.O) is expanding in Brazil, announcing
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/08/us-amgen-idUSTRE7375ME20110408)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

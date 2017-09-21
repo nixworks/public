@@ -11,6 +11,7 @@ A SENIOR Iranian cleric says women who wear revealing clothing and behave promis
 2. [Fox News](http://gretawire.blogs.foxnews.com/finally-we-learn-the-answer-it-is-promiscuous-women/)
 3. [The Sydney Morning Herald](http://www.smh.com.au/world/promiscuous-women-to-blame-for-earthquakes-says-cleric-20100420-spr8.html)
 4. [news.com.au](http://www.news.com.au/world/promiscuous-women-make-the-earth-move-says-senior-cleric/story-e6frfkyi-1225855773824)
+4. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

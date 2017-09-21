@@ -9,6 +9,7 @@ An undiscovered Caravaggio painting may have been discovered in Rome, according 
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10682743)
 2. [Christian Science Monitor](http://www.csmonitor.com/From-the-news-wires/2010/0719/Caravaggio-painting-of-man-being-barbecued-possibly-found-in-Rome)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

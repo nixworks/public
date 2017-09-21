@@ -8,6 +8,7 @@ Human Rights Watch calls on Iran to stop the execution by stoning of a woman con
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10545062.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

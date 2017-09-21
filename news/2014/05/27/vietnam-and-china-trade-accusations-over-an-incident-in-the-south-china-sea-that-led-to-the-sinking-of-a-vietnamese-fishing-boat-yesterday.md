@@ -8,6 +8,7 @@ Vietnam and China trading accusations Tuesday over who was the aggressor in an i
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/05/27/vietnam-accuses-chinese-boat-ramming-and-sinking-vietnamese-fishing-boat/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

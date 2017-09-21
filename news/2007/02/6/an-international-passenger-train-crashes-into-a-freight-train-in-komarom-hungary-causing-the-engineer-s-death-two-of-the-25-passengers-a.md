@@ -8,6 +8,7 @@
 ### Source:
 
 1. [HírTV](http://www.hirtv.hu/?tPath=/belfold/kek_hirek/&article_hid=137651)
+1. [Cover Image](http://hirtv.hu/static/grid2_imgs/hirtvujlogo05.jpg)
 
 ### Related:
 

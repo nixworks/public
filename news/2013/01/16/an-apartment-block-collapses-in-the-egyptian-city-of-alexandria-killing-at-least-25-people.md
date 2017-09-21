@@ -9,6 +9,7 @@ At least 25 people were killed on Wednesday when a 12-storey building collapsed 
 
 1. [RIA Novosti](http://en.ria.ru/world/20130117/178825752/Egypt_Building_Collapse_Leaves_At_Least_25_Dead.html)
 2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Jan-16/202486-collapse-of-apartment-building-in-egypt-kills-14.ashx)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/01/16/135745_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

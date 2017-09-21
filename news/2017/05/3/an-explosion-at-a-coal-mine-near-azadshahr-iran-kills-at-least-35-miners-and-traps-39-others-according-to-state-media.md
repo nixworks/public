@@ -8,6 +8,7 @@ They are believed to be 1,800m underground and in danger from volatile gases.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-39793108)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9BDA/production/_95889893_844d3bd8-1596-4853-b66f-a34f36b6a3f3.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least four people are killed and dozens injured in violence that erupted as T
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-26224510)
 2. [Sydney Morning Herald](http://www.smh.com.au/world/lethal-battle-to-clear-out-bangkok-protest-sites-begins-20140218-hvcw6.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/73064000/jpg/_73064925_73064924.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Houston region is being pummeled Saturday by bands of heavy rain and some po
 
 1. [CNN](http://www.cnn.com/2017/08/27/us/harvey-impact-by-the-numbers-trnd/index.html)
 2. [Houston Chronicle](http://www.chron.com/local/education/campus-chronicles/article/Harvey-impacts-Texas-Latest-tropical-weather-11953474.php)
+2. [Cover Image](http://ww2.hdnux.com/photos/65/14/33/13944517/3/rawImage.jpg)
 
 ### Related:
 

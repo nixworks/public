@@ -9,6 +9,7 @@ Spied for the first time through a cosmic &#034;fog,&#034; tell-tale rays may pu
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2012/11/121101-gamma-ray-fog-first-stars-universe-science-space/)
 2. [Science News](http://www.sciencenews.org/view/generic/id/346207/description/Astronomers_spot_leftover_light_from_first_stars)
+2. [Cover Image](http://news.nationalgeographic.com/content/dam/news/photos/000/608/60829.ngsversion.1421961646183.adapt.1900.1.jpg)
 
 ### Related:
 

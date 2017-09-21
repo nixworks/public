@@ -10,6 +10,7 @@
 1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110413/wl_africa_afp/egyptpoliticsunrestmubarakdetention)
 2. [Al-Arabiya](http://english.alarabiya.net/articles/2011/04/13/145206.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-13058855)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52136000/jpg/_52136837_52136836.jpg)
 
 ### Related:
 

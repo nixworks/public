@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68E1T820100917)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100917&t=2&i=206307777&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-17T220311Z_01_BTRE68G1P9Q00_RTROPTP_0_STORMS-ATLANTIC)
 
 ### Related:
 

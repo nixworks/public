@@ -9,6 +9,7 @@ A train speeding through a Spanish railway station strikes a group of people cro
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/europe/10399126.stm)
 2. [El País](http://www.elpais.com/articulo/espana/muertos/ser/arrollados/tren/Castelldefels/elpepuesp/20100624elpepunac_1/Tes)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Thousands of Syrians took to the streets in what appeared to be a dangerous turn
 4. [The Australian](http://www.theaustralian.com.au/news/breaking-news/new-protests-sweep-syria-as-pressure-mounts-on-government/story-fn3dxity-1226059936548)
 5. [Voice of America](http://www.voanews.com/english/news/middle-east/in-transition/Shots-Fired-At-Anti-Government-Protests-in-Syria-122314889.html)
 6. [euronews](http://www.euronews.net/newswires/930849-syrian-forces-fire-into-crowds-as-thousands-protest/)
+6. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

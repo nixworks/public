@@ -8,6 +8,7 @@ Bolivia has become the first country in the history of South America to declare 
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/03/bolivian-president-morales-launches-the-indigenous-autonomy)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19705/200x200/433ad42a1bd664e33f91fc5cab845e66.jpg)
 
 ### Related:
 

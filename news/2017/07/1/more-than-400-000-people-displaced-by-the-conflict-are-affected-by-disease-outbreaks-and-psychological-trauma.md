@@ -8,6 +8,7 @@ Over 70,380 people have been housed in 79 government-run evacuation centers wher
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/174462-marawi-clashes-displaced-persons)
+1. [Cover Image](https://assets.rappler.com/E40E8E4240964945995A610ACA572FE2/img/1A4DFCD14303410BB0360A5D29C27749/marawi-clash-rescue-may-31-2017-004.jpg)
 
 ### Related:
 

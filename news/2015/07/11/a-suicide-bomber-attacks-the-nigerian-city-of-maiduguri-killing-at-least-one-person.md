@@ -10,6 +10,7 @@
 1. [Chron via AP](http://www.chron.com/news/world/article/Explosion-rocks-central-market-in-Chad-s-capital-6378977.php)
 2. [Reuters](http://uk.reuters.com/article/2015/07/11/uk-chad-violence-idUKKCN0PL0A520150711)
 3. [Reuters](http://www.reuters.com/article/2015/07/11/us-nigeria-blast-idUSKCN0PL07P20150711)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

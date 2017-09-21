@@ -8,6 +8,7 @@ Twelve soldiers were killed during an attack by Islamist militants in Burkina Fa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-38345220)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CB48/production/_93004025_gettyimages-615460112.jpg)
 
 ### Related:
 

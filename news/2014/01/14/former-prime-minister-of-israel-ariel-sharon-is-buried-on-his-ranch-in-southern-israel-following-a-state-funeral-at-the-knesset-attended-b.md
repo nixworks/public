@@ -9,6 +9,7 @@ Knesset speeches highlighted late general&#8217;s military successes against Egy
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25708082)
 2. [The Times of Israel](http://www.timesofisrael.com/senior-egyptian-diplomat-quietly-attends-sharon-memorial-ceremony/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/01/F140113ABG15.jpg)
 
 ### Related:
 

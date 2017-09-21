@@ -8,6 +8,7 @@ An explosion hits a college in the northern Nigerian city of Kano, killing at le
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27982795#TWEET1165129)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75749000/jpg/_75749435_afp.jpg)
 
 ### Related:
 

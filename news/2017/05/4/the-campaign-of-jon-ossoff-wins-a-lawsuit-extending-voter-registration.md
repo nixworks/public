@@ -8,6 +8,7 @@ A federal judge on Thursday ordered Georgia to temporarily reopen voter registra
 ### Source:
 
 1. [ (''Atlanta Journal Constitution](http://www.ajc.com/news/state--regional-govt--politics/federal-judge-orders-georgia-open-voter-registration-ahead-6th-district-runoff/ZeJBoBDNllqHU7JGtnUzcN/)
+1. [Cover Image](http://www.ajc.com/rf/image_large/Pub/p8/MyAJC/Blog/Political_Insider_Blog_Premium/2017/04/17/Images/photos.medleyphoto.13960222.jpg)
 
 ### Related:
 

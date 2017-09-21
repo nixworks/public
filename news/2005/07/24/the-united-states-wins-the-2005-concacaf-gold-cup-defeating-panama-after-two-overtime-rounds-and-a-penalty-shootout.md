@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/sports/la-sp-ussoccer25jul25,1,1402722.story?coll=la-headlines-sports)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

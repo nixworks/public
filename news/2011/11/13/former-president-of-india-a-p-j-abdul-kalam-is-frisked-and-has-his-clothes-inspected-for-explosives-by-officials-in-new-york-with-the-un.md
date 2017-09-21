@@ -13,6 +13,7 @@ The U.S. government has apologized to India and to former Indian President A.P.J
 4. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_733554.html)
 5. [Times of India](http://timesofindia.indiatimes.com/india/US-apologises-to-APJ-Abdul-Kalam-for-frisking-incident/articleshow/10715988.cms)
 6. [Wall Street Journal](http://blogs.wsj.com/indiarealtime/2011/11/13/u-s-apologizes-to-india-for-%E2%80%98frisking%E2%80%99-former-president/?mod=google_news_blog)
+6. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

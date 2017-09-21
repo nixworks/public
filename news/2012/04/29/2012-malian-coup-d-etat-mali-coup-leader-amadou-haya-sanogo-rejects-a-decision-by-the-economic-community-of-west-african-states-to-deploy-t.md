@@ -8,6 +8,7 @@ Amadou&#x20;Haya&#x20;Sanogo&#x20;&#x28;photo&#x29;,&#x20;the&#x20;army&#x20;cap
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20120429-mali-coup-leader-rejects-ecowas-troop-deployment-sanogo-west-africa-traore)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Sanogo.jpg)
 
 ### Related:
 

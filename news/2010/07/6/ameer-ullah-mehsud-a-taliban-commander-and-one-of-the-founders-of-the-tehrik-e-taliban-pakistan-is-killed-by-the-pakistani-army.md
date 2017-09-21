@@ -14,6 +14,7 @@ Demonstrators angry over human rights investigation try to break into UN offices
 5. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/06/sri.lanka.un.siege/index.html?eref=edition&fbid=4I1tbJn2BPy)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/jul/06/thailand-extends-state-of-emergency)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/06/c_13386387.htm)
+7. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prime Minister Julia Gillard has announced her new-look Cabinet after earlier co
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/11/3009113.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/2257014-1x1-700x700.jpg)
 
 ### Related:
 

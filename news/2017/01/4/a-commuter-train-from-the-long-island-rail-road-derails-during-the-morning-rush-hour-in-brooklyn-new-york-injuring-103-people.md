@@ -8,6 +8,7 @@ New York fire department responds to Long Island Rail Road train derailment at B
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/long-island-rail-road-train-derails-brooklyn/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/01/04/0d54597c-6853-4782-9e87-ec4139f42e96/lirr-train-derailment-c1virlsxcaatgv1.jpg)
 
 ### Related:
 

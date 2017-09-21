@@ -11,6 +11,7 @@
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111141219337111.html)
 3. [Press TV](http://www.presstv.ir/detail/160179.html)
 4. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE70D3AQ20110114)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/14/2011114155252261472_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ At least 1,000 Arabs demonstrate to demand citizenship in Gulf country, leading 
 1. [Al Jazeera English](http://english.aljazeera.net/news/middleeast/2011/02/2011218183819888842.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/meast/02/18/kuwait.protests/index.html?iref=allsearch)
 3. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE71H22B20110218)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/18/2011218193847582140_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A ban on product placement is lifted, allowing advertisers to pay for their good
 1. [BBC](http://www.bbc.co.uk/news/uk-12593061)
 2. [Daily Telegraph](http://www.telegraph.co.uk/culture/tvandradio/8341764/TV-films-to-be-interrupted-by-12-minutes-of-adverts.html#)
 3. [Daily Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/media/8352449/TV-product-placement-makes-a-typically-English-debut.html#)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

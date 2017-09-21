@@ -10,6 +10,7 @@ Ahmadinejad says negotiations over nuclear programme will resume only in late Au
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gXlVQW6HekLbHKVOdzTgc-sFnPGg)
 2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010628124311454616.html)
 3. [Voice of America](http://www1.voanews.com/english/news/Iran-to-Delay-Nuclear-Talks-Until-August-97303654.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

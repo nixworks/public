@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/gas-explosion-suspected-after-blast-at-belgium-sports-centre-kills-1-1.3736509)
+1. [Cover Image](https://i.cbc.ca/1.3736511.1472174153!/fileImage/httpImage/image.png_gen/derivatives/16x9_1180/chimay.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Somali journalists refuse to obey the editorial orders of an Islamist group whic
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_SOMALIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-09-23-17-42-03)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/2010923105246180943.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-11398338)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

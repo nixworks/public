@@ -9,6 +9,7 @@ The International Court of Justice rules Japan must immediately stop its whaling
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-03-31/ijc-japan-whaling-southern-ocean-scientific-research/5357416)
 2. [BBC](http://www.bbc.com/news/world-asia-26818863#)
+2. [Cover Image](http://www.abc.net.au/news/image/323868-1x1-700x700.jpg)
 
 ### Related:
 

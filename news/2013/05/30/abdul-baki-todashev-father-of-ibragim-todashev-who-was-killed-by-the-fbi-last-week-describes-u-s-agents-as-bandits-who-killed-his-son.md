@@ -9,3 +9,4 @@ Father of Ibragim Todashev, who died during questioning over links to alleged Bo
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/05/2013530151524586438.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/may/30/father-chechen-man-killed-fbi-inquiry)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/5/30/2013530161441688734_20.jpg)

@@ -9,6 +9,7 @@ A weekend shootout that wounded 17 people, including a 10-year-old boy, in a New
 
 1. [NOLA.com](http://www.nola.com/crime/index.ssf/2015/11/at_least_10_victims_of_bunny_f.html)
 2. [Reuters](http://www.reuters.com/article/2015/11/23/us-louisiana-shooting-idUSKBN0TC06820151123#l1IkeJjFDtO8sOjP.97)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

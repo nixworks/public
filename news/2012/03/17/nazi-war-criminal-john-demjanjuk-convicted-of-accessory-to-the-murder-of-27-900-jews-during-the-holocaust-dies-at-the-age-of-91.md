@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17414127)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59138000/jpg/_59138792_demjanjuk.jpg)
 
 ### Related:
 

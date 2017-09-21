@@ -11,6 +11,7 @@ The 2016 Tony Awards took place on Sunday, with &#8220;Hamilton&#8221; emerging 
 2. [Los Angeles Times](http://www.latimes.com/entertainment/arts/la-et-cm-tony-winners-20160609-snap-story.html)
 3. [Otago Daily Times](http://www.odt.co.nz/entertainment/theatre/386700/hamilton-sweeps-tonys-11-awards)
 4. [Variety](http://variety.com/2016/legit/awards/2016-tony-awards-winner-list-hamilton-american-psycho-amazing-grace-1201792508/)
+4. [Cover Image](https://pmcvariety.files.wordpress.com/2016/05/tony-awards.jpg?w=1000&amp;h=563&amp;crop=1)
 
 ### Related:
 

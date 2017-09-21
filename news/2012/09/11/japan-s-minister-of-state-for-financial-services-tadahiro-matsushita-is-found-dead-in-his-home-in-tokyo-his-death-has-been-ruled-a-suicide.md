@@ -11,6 +11,7 @@ Japanese Banking MinisterTadahiro Matsushita was found hanged at his home on Mon
 2. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T120911004318.htm)
 3. [Reuters via ''Kyodo News](http://in.reuters.com/article/2012/09/10/matsushita-minister-idINL3E8KA3ZS20120910)
 4. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444554704577643210708646108.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

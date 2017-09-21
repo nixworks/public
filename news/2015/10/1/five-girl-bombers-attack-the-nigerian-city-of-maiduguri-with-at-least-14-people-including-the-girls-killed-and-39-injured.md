@@ -8,6 +8,7 @@ Five children were behind a series of deadly explosions in the north-eastern Nig
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-34423311)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/777F/production/_85719503_85719501.jpg)
 
 ### Related:
 

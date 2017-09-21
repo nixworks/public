@@ -8,6 +8,7 @@ Republicans in both chambers of Congress introduced bills on Thursday that would
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/04/us-epa-emissions-bill-idUSTRE7226UJ20110304)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110303&t=2&i=351901657&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-03T223418Z_01_BTRE7221KZT00_RTROPTP_0_USA)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Congolese warlord Thomas Lubanga is jailed for 14 years for recruiting and using
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18779726)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61471000/jpg/_61471792_61471791.jpg)
 
 ### Related:
 

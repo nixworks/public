@@ -8,6 +8,7 @@ Political strife in Burundi forces hundreds to flee daily to neighbouring nation
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/unhcr-burundi-crisis-propels-refugee-exodus-150626180155576.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/26/fb0a6ff0b27342649f4e9fc06d1adb40_18.jpg)
 
 ### Related:
 

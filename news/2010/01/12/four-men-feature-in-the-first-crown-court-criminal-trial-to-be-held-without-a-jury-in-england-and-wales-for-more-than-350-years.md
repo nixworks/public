@@ -10,6 +10,7 @@ Four men alleged to have carried out an armed robbery at Heathrow went on trial 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/8453318.stm)
 2. [Ealing Times](http://www.ealingtimes.co.uk/uk_national_news/4846820.Four_men_face_trial_without_jury/)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/6973626/Historic-trial-without-jury-begins-over-alleged-Heathrow-robbery.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01557/twomey1_1557858a.jpg)
 
 ### Related:
 
@@ -18,3 +19,4 @@ Four men alleged to have carried out an armed robbery at Heathrow went on trial 
 3. [Delroy Grant, a 53-year-old London taxi driver who was found guilty on a total of 29 charges including indecent assault, burglary and rape committed against 10 elderly people between 1992 and 2009, is sentenced to life imprisonment at Woolwich Crown Court with a recommendation that he should serve at least 27 years in prison before parole can even be considered. ](/news/2011/03/25/delroy-grant-a-53-year-old-london-taxi-driver-who-was-found-guilty-on-a-total-of-29-charges-including-indecent-assault-burglary-and-rape-c.md) _Context: Crown Court_
 4. [ Lesbians are granted equal birth rights in England and Wales. ](/news/2009/08/31/lesbians-are-granted-equal-birth-rights-in-england-and-wales.md) _Context: England and Wales_
 5. [ Nick Griffin, the leader of the British National Party, and activist Mark Collett are cleared of inciting racial hatred after a retrial at Leeds Crown Court. ](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.md) _Context: Crown Court_
+6. [ Attempts to totally outlaw parents spanking children in England and Wales fail as a majority of 424 to 75 members of parliament vote against the ban. ](/news/2004/11/2/attempts-to-totally-outlaw-parents-spanking-children-in-england-and-wales-fail-as-a-majority-of-424-to-75-members-of-parliament-vote-agains.md) _Context: England and Wales_

@@ -9,6 +9,7 @@ The accident happened hours before the duo was due to perform at a resort connec
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-4866448/Four-killed-helicopter-crash-eastern-North-Carolina.html)
 2. [Sky News](http://news.sky.com/story/troy-gentry-of-duo-montgomery-gentry-dies-in-helicopter-crash-11026168)
+2. [Cover Image](http://e3.365dm.com/17/09/1600x900/6113ef0be8a8eca3a16c03f81e1bbd9d090173875152ebe9cf00d2945249f572_4095350.jpg?20170908213456)
 
 ### Related:
 

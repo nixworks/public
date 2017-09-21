@@ -8,6 +8,7 @@ Lawyers for Wikileaks founder welcome prosecutor’s decision to interview Assan
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/media/2015/mar/13/julian-assange-wikileaks-swedish-prosecutors-london-interview)
+1. [Cover Image](https://i.guim.co.uk/img/media/9e3f364bd44832aa2d2b0a927a30ebd7bd0dcfdc/1313_31_1978_1187/1000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d26c4411b4062d1b7ffa346545b318db)
 
 ### Related:
 

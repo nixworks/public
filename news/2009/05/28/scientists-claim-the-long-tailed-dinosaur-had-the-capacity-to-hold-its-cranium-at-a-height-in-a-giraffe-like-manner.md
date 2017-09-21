@@ -8,6 +8,7 @@ LONDON - Ever since palaeontologists pieced together the many bones of lumbering
 ### Source:
 
 1. [New Zealand Harold](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10574901)
+1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least three people killed and a dozen others injured after an explosion in a 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/201012278273680716.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/27/20101227125934881371_20.jpg)
 
 ### Related:
 

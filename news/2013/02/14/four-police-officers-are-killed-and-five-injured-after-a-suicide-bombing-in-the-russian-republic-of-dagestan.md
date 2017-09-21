@@ -8,6 +8,7 @@ Four police officers have been killed and five others were injured when a vehicl
 ### Source:
 
 1. [RT](http://rt.com/news/dagestan-suicide-blast-police-killed-180/)
+1. [Cover Image](https://img.rt.com/files/oldfiles/news/dagestan-suicide-blast-police-killed-180/magomedov-ria-novostiabdula.si.jpg)
 
 ### Related:
 

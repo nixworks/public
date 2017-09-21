@@ -13,6 +13,7 @@ Four policemen face prosecution for actual bodily harm on a terror suspect in Lo
 4. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/12/babar-ahmad-timeline)
 5. [The Independent](http://www.independent.co.uk/news/uk/home-news/police-officers-to-face-trial-for-abuse-of-terror-suspect-2051335.html)
 6. [Wandsworth Guardian](http://www.yourlocalguardian.co.uk/news/local/wandsworthnews/8328114.UPDATE__Tooting_MP_praises_Babar_Ahmad_decision/?ref=rss)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

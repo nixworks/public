@@ -8,6 +8,7 @@ The first national strike against G.M. by the auto workers union since 1970 bega
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/24/business/24cnd-autostrike.html?bl&ex=1190779200&en=88254d88b6c3e335&ei=5087%0A)
+1. [Cover Image](https://static01.nyt.com/images/2007/09/24/us/UAW_7575.jpg)
 
 ### Related:
 

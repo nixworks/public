@@ -9,6 +9,7 @@
 
 1. [Times LIVE South Africa](http://www.timeslive.co.za/scitech/article267323.ece)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/01/18/AR2010011803488.html?hpid=sec-world)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Founder of electronics chain faces 15 years in jail if convicted of corruption c
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042245342200471.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 
 1. [BBC News](http://m.bbc.com/news/world-asia-30125553)
 2. [BBC News](http://www.bbc.co.uk/news/world-asia-pacific-30166405)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79208000/jpg/_79208200_024816377-1.jpg)
 
 ### Related:
 

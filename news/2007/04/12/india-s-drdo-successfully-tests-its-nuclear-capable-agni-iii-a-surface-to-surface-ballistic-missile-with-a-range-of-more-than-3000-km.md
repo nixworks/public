@@ -10,6 +10,7 @@ India carried out a successful test on Thursday of its longest-range ballistic m
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6547449.stm)
 2. [NDTV](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20070008478)
 3. [Reuters](http://www.reuters.com/article/scienceNews/idUSDEL22717520070412)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

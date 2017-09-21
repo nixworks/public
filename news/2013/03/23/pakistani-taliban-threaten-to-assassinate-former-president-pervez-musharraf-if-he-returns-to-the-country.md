@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/03/201332392549917441.html)
 2. [CNN](http://www.cnn.com/2013/03/23/world/asia/pakistan-taliban-musharraf-threat)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/23/201332394439262734_20.jpg)
 
 ### Related:
 

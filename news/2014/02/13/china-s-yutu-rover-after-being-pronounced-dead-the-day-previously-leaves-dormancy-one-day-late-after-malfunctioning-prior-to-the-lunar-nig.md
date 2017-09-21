@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-26153520)
 2. [wired.co.uk](http://www.wired.co.uk/news/archive/2014-02/13/jade-rabbit-lives)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72324000/jpg/_72324433_72324432.jpg)
 
 ### Related:
 

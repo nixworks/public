@@ -8,6 +8,7 @@ The militants made the claim on social media.
 ### Source:
 
 1. [IBT](http://www.ibtimes.co.uk/isis-says-it-was-behind-cairo-coptic-christian-church-suicide-bombing-that-killed-25-1596361)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1574750/isis-claims-cairo-bomb.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [CNN](http://edition.cnn.com/2008/POLITICS/01/10/kerry.obama/index.html?iref=mpstoryview)
 4. [FOX News](http://youdecide08.foxnews.com/2008/01/10/gop-candidates-debate-in-strategic-state-of-south-carolina/)
 5. [The Hill](http://thehill.com/campaign-2008/kucinich-wants-new-hampshire-recount-2008-01-10.html)
+5. [Cover Image](http://thehill.com/sites/default/files/thehill_logo_200.jpg)
 
 ### Related:
 

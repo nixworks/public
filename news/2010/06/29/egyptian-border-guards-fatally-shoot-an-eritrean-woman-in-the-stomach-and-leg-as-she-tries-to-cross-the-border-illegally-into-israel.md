@@ -13,6 +13,7 @@ An African migrant is shot and killed by Egyptian police as she tries to cross i
 4. [Reuters](http://in.reuters.com/article/idINIndia-49743520100629?loomia_ow=t0:s0:a49:g43:r1:c0.500000:b35292758:z0)
 5. [Reuters](http://in.reuters.com/article/idINIndia-49747120100629)
 6. [The Vancouver Sun](http://www.vancouversun.com/news/Israel+plan+raze+homes+illegal+rights+envoy+says/3215190/story.html)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

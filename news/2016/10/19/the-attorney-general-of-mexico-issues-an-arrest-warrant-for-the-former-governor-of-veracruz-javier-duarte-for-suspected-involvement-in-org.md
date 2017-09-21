@@ -8,6 +8,7 @@ Mexico has ordered the arrest of an outgoing state governor in the ruling party 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mexico-corruption-idUSKCN12J2SC?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161019&t=2&i=1158143277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9I1QZ)
 
 ### Related:
 

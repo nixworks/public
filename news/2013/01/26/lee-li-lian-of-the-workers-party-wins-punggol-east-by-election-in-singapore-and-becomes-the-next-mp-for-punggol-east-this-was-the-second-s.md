@@ -8,6 +8,7 @@ In less than a year, Singapore will have a second by-election, as Prime Minister
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/breaking-news/singapore/story/punggol-east-election-announced-polling-day-jan-26-20130109)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

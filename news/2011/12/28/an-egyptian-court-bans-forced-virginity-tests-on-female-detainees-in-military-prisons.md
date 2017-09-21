@@ -8,6 +8,7 @@ Court order abolishes mandatory examinations of female detainees in military pri
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2011/12/20111227132624606116.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/27/20111227133121760734_20.jpg)
 
 ### Related:
 

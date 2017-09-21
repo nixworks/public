@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-idUSKBN0UL0XE20160107)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160107&t=2&i=1107714855&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC0610I)
 
 ### Related:
 

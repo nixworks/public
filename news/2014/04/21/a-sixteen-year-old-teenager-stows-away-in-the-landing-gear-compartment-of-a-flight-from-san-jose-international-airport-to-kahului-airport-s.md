@@ -8,3 +8,4 @@ A 16-year-old boy survived a harrowing trip halfway across the Pacific Ocean on 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-california-stowaway-survives-flight-to-hawaii-wheel-well-20140421,0,1218862.story)
+1. [Cover Image](http://www.trbimg.com/img-5354c9c3/turbine/la-me-ln-california-stowaway-survives-flight-to-hawaii-wheel-well-20140421)

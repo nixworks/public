@@ -9,6 +9,7 @@ At least 53 people have been killed in a road accident involving a bus and lorry
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21373965)
 2. [Irish Independent](http://www.independent.ie/world-news/dozens-die-in-zambia-bus-crash-29055271.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65771000/jpg/_65771165_de26-1.jpg)
 
 ### Related:
 

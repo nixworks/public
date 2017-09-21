@@ -9,6 +9,7 @@ Ted Cruz and Bernie Sanders both trail the front-runners by two-tenths of 1 perc
 
 1. [CNN](http://www.cnn.com/2016/03/16/politics/super-tuesday-missouri-delegates/index.html)
 2. [The Hill](http://thehill.com/blogs/ballot-box/presidential-races/273266-close-results-in-missouri-primary-could-lead-to-recounts)
+2. [Cover Image](http://thehill.com/sites/default/files/blogs/sanderscruzgetty.jpg)
 
 ### Related:
 

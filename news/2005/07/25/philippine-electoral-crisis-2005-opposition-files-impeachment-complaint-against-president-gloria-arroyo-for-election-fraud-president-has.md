@@ -13,6 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 4. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nMAN249395&imageid=&cap=)
 5. [SABC](http://www.sabcnews.com/world/asia1pacific/0,2172,108989,00.html)
 6. [Sun Star](http://www.sunstar.com.ph/static/net/2005/07/25/40.solons.file.impeachment.complaint.against.arroyo.html)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

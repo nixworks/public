@@ -8,6 +8,7 @@ Nicaragua dispatched its military and police to help close its southern border i
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-16/cuban-migrant-wave-prompts-nicaraguan-military-to-seal-border)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

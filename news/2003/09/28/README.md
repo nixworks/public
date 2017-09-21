@@ -7,7 +7,7 @@ _Context: IAEA, Iran, nuclear weapon_
 _Context: August, North American blackout, power outage_
 
 ### [ Natural disaster: Hurricane Juan is expected to make landfall near Halifax, Nova Scotia.](/news/2003/09/28/natural-disaster-hurricane-juan-is-expected-to-make-landfall-near-halifax-nova-scotia.md)
-_Context: Halifax, Nova Scotia, Hurricane Juan, natural disaster_
+_Context: Halifax, Hurricane Juan, natural disaster_
 
 ### [ Space: Europe has launched its first mission to the moon, using SMART-1, an unmanned probe.](/news/2003/09/28/space-europe-has-launched-its-first-mission-to-the-moon-using-smart-1-an-unmanned-probe.md)
 _Context: SMART-1, space_

@@ -8,6 +8,7 @@ The renewal of regular, long-range patrols over the world’s oceans after a 15-
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/08/18/world/europe/17cnd-russia.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

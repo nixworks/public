@@ -11,6 +11,7 @@ Some&#x20;60&#x20;people&#x20;have&#x20;been&#x20;killed&#x20;and&#x20;scores&#x
 2. [AP via ''New York Times](http://www.nytimes.com/aponline/2010/08/17/world/AP-ML-Iraq.html?hp)
 3. [France 24](http://www.france24.com/en/20100817-dozens-killed-attack-baghdad-army-recruitment-centre-iraq)
 4. [Voice of America](http://www1.voanews.com/english/news/Suicide-Bomb-Blast-Kills-41-at-Iraqi-Army-Recruitment-Center--100864519.html)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/irak-attentat-m_5.jpg)
 
 ### Related:
 

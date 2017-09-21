@@ -8,6 +8,7 @@ Three men who planned an attack on Birmingham to rival the 7 July and 9/11 atroc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22290927)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65999000/jpg/_65999966_pitsford.jpg)
 
 ### Related:
 

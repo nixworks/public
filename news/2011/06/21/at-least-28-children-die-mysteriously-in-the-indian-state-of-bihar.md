@@ -9,6 +9,7 @@ At least 28 children in the northern Indian state of Bihar have died in the past
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13852963)
 2. [One India](http://news.oneindia.in/2011/06/21/mysteryfever-toll-in-bihar-climbs-to29-aid0126.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

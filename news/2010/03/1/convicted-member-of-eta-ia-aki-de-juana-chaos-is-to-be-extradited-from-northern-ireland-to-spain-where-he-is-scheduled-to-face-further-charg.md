@@ -9,6 +9,7 @@ A convicted member of the Basque separatist group ETA is to be extradited to Spa
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8543846.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0301/juanachaosi.html)
+2. [Cover Image](https://img.rasset.ie/0001e19d-1600.jpg)
 
 ### Related:
 

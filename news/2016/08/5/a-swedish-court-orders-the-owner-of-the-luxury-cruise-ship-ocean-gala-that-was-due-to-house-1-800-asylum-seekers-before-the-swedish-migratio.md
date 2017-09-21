@@ -8,3 +8,4 @@ The owner of a luxury cruise ship due to house asylum seekers in Sweden before t
 ### Source:
 
 1. [Local](http://www.thelocal.se/20160805/swedens-asylum-seeker-cruise-ship-told-to-set-sail)
+1. [Cover Image](https://www.thelocal.se/userdata/images/article/42ecf653ac64e86164e6bca4a882e8dcc3a97ea22b9b1bb56faac65e5e91cbb9.jpg)

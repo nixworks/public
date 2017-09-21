@@ -8,6 +8,7 @@ A man suspected of terrorizing motorists on Ohio highways with gunfire for 10 mo
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/4536074/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

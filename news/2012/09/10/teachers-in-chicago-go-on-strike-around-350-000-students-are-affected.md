@@ -10,6 +10,7 @@
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57509202/chicago-teachers-to-go-on-strike/)
 2. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-chicago-public-schools-chicago-teachers-union-contract-talks-strike,0,2062807.story)
 3. [Reuters](http://www.reuters.com/article/2012/09/10/us-usa-chicago-schools-idUSBRE8870DL20120910)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120910&t=2&i=651472929&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88912KC00)
 
 ### Related:
 

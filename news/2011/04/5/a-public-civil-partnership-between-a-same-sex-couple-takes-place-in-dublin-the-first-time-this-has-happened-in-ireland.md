@@ -8,6 +8,7 @@ BARRY DIGNAM and Hugh Walsh celebrated their civil partnership at a registry off
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0406/1224294011579.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

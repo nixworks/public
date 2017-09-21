@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/20126173059345399.html)
 2. [Reuters via Yahoo! News Australia](http://au.news.yahoo.com/world/a/-/world/13842242/irish-government-early-count-points-to-eu-referendum-yes/)
 3. [The Guardian](http://www.guardian.co.uk/business/blog/2012/jun/01/eurozone-crisis-global-slowdown-irish-referendum)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/1/20126183657883734_20.jpg)
 
 ### Related:
 

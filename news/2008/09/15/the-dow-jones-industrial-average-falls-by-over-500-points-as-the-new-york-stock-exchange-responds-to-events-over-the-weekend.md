@@ -8,6 +8,7 @@ Investors, nervous over the fates of A.I.G., Merrill Lynch and Lehman Brothers, 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/16/business/worldbusiness/16markets.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

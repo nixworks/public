@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.businessinsider.com/record-levels-of-smog-in-shanghai-delayed-hundreds-of-flights-2013-12)
+1. [Cover Image](http://static1.businessinsider.com/image/52a1a7c569bedd962f5aaefd-1190-625/record-levels-of-smog-in-shanghai-delays-hundreds-of-flights.jpg)
 
 ### Related:
 

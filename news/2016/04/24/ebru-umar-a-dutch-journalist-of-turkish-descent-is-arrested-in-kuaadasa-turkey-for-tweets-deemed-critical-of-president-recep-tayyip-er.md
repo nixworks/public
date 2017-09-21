@@ -8,6 +8,7 @@ Ebru Umar blocked from leaving country after facing judge over tweets deemed cri
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/24/dutch-journalist-ebru-umar-arrested-in-turkey-for-criticising-erdogan)
+1. [Cover Image](https://i.guim.co.uk/img/media/60be1f2401f85560823ee1ec01ab908acf62c592/503_23_2880_1728/2880.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=39c5993c87547db96c57cb5d4d53a1b7)
 
 ### Related:
 

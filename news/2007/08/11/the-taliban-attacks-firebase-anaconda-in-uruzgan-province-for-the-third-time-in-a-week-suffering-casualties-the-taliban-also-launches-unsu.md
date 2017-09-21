@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/11/afghanistan.attack/index.html?eref=rss_topstories)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSISL29642420070812?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070811&t=2&i=1283442&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-11T180446Z_01_ISL296424_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

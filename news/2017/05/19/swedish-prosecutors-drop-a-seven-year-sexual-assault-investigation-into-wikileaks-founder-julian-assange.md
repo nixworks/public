@@ -9,6 +9,7 @@ STOCKHOLM (AP) — Sweden&#x27;s top prosecutor said Friday she is dropping an i
 
 1. [AP via Yahoo! News](https://www.yahoo.com/news/swedish-prosecutor-drops-rape-investigation-assange-091632750.html?soc_trk=gcm&soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&.tsrc=notification-brknews)
 2. [BBC](http://www.bbc.com/news/world-europe-39973864)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/4xSi9PZwvPcHcGj2Vc.qtQ--/aD0yMDQ0O3c9MzE5MTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/424258a212fb4ecd8e0ab84eb25d3ffa.jpg)
 
 ### Related:
 

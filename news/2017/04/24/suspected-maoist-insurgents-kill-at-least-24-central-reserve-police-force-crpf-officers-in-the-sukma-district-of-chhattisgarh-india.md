@@ -8,6 +8,7 @@ The police were guarding road workers in Chhattisgarh when they came under attac
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-39696186)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1759E/production/_92064659_gettyimages-148026740.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Observatory for Human Rights confirms ambush on three checkpoints around norther
 
 1. [National Post](http://news.nationalpost.com/2012/11/01/pictures-show-destruction-across-syria-as-rebels-kill-28-soldiers-in-attacks-on-military-checkpoints/)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=290124)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=185395)
 
 ### Related:
 

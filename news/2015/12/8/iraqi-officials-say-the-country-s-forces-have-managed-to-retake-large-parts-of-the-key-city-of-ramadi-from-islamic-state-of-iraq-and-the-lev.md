@@ -8,6 +8,7 @@ Iraqi forces retake large parts of the key city of Ramadi from Daesh militants.
 ### Source:
 
 1. [Press TV](http://www.presstv.com/Detail/2015/12/08/440851/Iraq-Ramadi-Daesh-Anbar-)
+1. [Cover Image](http://cdn.presstv.com/photo/20151208/eaec4702-e893-436d-8ba5-56ca9e0f3050.jpg)
 
 ### Related:
 

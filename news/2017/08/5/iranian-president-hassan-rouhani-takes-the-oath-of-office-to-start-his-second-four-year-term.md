@@ -8,6 +8,7 @@ The swearing-in ceremony for the reelected President Hassan Rouhani, which is du
 ### Source:
 
 1. [Financial Tribune](https://financialtribune.com/articles/national/69495/rouhanis-inauguration-to-see-record-turnout)
+1. [Cover Image](https://financialtribune.com/sites/default/files/styles/telegram/public/field/image/17january/rouhani_inaugeration_1.jpg?itok=rlN6cXgo)
 
 ### Related:
 

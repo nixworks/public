@@ -8,6 +8,7 @@ US songwriter Hal David, who wrote dozens of hit songs with collaborator Burt Ba
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/19451047)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62628000/jpg/_62628453_haldavid0109_rtr.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [ICRC](http://www.icrc.org/Web/eng/siteeng0.nsf/html/Lebanon-news-300706!OpenDocument)
 3. [Yahoo News](http://news.yahoo.com/s/nm/mideast_britain_blair_dc;_ylt=ArMpk_wL5rrHxD9t1tRnb1es0NUE;_ylu=X3oDMTA2Z2szazkxBHNlYwN0bQ--)
 4. [Yedioth Ahronoth](http://www.ynetnews.com/articles/0,7340,L-3284818,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Financial Times](http://www.ft.com/cms/s/0/505ab76a-8f51-11dd-946c-0000779fd18c.html)
 2. [MarketWatch](http://www.marketwatch.com/news/story/russian-equities-tumble-forcing-trading/story.aspx?guid=%7BC6102320-F9C3-4490-9460-D6C4DF4FD22D%7D&dist=msr_1)
+2. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A female suicide bomber blew herself up at a university and Moktada al-Sadr cond
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6395495.stm)
 2. [New York Times](http://www.nytimes.com/2007/02/25/world/middleeast/25cnd-iraq.html?ex=1330059600&en=7b32a5d30cc523b3&ei=5088&partner=rssnyt&emc=rss)
+2. [Cover Image](https://static01.nyt.com/images/2007/02/25/world/middleeast/25cnd-iraq3.75.jpg)
 
 ### Related:
 

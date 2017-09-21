@@ -8,6 +8,7 @@ Pakistan is expected to reopen supply routes to Nato-led forces in Afghanistan, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18691691)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61340000/jpg/_61340674_truckandguards.jpg)
 
 ### Related:
 

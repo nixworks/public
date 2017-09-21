@@ -8,6 +8,7 @@ The NSW State Emergency Services have issued an evacuation order for people with
 ### Source:
 
 1. [AAP via ''Melbourne Age](http://news.theage.com.au/breaking-news-national/flood-evacuation-ordered-in-walgett-20120212-1szkk.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Hundreds of thousands of left-wing Italians have marched through Rome, adding to
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/10/21/2065234.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

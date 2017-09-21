@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-starwood-hotels-m-a-marriott-intnl-idUSKCN0X51WL)
 2. [UPI](http://www.upi.com/Business_News/2016/04/08/Shareholders-approve-Marriotts-increased-136B-offer-to-purchase-Starwood-Hotels/3011460136847/?spt=rln&or=2)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3011460136847/2016/1/14601473319876/v2.1/Shareholders-approve-Marriotts-increased-136B-offer-to-purchase-Starwood-Hotels.jpg)
 
 ### Related:
 

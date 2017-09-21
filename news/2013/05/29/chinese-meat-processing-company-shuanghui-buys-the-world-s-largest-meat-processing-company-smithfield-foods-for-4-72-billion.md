@@ -8,6 +8,7 @@ Shuanghui International Holdings has agreed to buy Smithfield Foods in a $4.72 b
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/money/business/2013/05/29/smithfield-foods-china-acquisition/2368671/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

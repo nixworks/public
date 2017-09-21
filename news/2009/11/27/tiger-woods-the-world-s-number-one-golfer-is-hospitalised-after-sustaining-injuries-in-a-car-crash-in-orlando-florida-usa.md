@@ -10,6 +10,7 @@ Tiger Woods, the world&#039;s number one golfer, was injured in a car accident n
 1. [BBC](http://news.bbc.co.uk/sport2/hi/golf/8383782.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/6673210/Tiger-Woods-injured-in-car-crash.html)
 3. [The Irish Times](http://www.irishtimes.com/sports/golf/2009/1127/1224259601535.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01492/tiger4_1492802f.jpg)
 
 ### Related:
 

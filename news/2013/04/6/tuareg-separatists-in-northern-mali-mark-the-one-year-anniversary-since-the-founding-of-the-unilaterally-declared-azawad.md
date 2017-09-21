@@ -9,6 +9,7 @@ A Mali government spokesman says clashes between national soldiers and armed pol
 
 1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/africa/national-guard-attacks-armed-police-who-had-supported-mali-coup-1-killed/2013/04/06/c0d76eb8-9ee0-11e2-9219-51eb8387e8f1_story.html)
 2. [AP via Fox News](http://www.foxnews.com/world/2013/04/06/national-guard-attacks-armed-police-who-had-supported-mali-coup-1-killed/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

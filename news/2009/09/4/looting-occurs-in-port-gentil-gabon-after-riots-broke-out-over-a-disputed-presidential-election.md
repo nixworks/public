@@ -10,6 +10,7 @@ Police detain more than 50 people, but protests over disputed vote said to be ov
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hhB3c8LMRVEP02hei8I5I2t9O8Cg)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/20099494756311685.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8237912.stm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

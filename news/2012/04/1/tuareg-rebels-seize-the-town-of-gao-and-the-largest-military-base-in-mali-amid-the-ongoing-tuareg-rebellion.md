@@ -10,6 +10,7 @@ Tuareg separatist rebels in Mali have seized Timbuktu, taking effective control 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gTNLB2aDYe_c9wicf6yTUWwh0oqw?docId=CNG.5a52d79a775f7c690968f8cda403130e.7d1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-17576263)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-17576725)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59428000/jpg/_59428022_014416927-1.jpg)
 
 ### Related:
 

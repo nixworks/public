@@ -8,6 +8,7 @@ As Adobe confirms hackers have accessed personal data belonging to 2.9 million c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-24392819)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70273000/jpg/_70273797_95799630.jpg)
 
 ### Related:
 

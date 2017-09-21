@@ -8,6 +8,7 @@ Abdulla Yameen is to be sworn in as president of the Maldives after a surprise w
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-11-17/an-yameen-defeats-former-president-nasheed-in-maldives-run-off-/5097280)
+1. [Cover Image](http://www.abc.net.au/news/image/5097530-1x1-700x700.jpg)
 
 ### Related:
 

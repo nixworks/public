@@ -8,6 +8,7 @@ Ellen Pao took on the entrenched sexist culture of Silicon Valley
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/business/technology/reddit-chief-executive-ousted-by-rebellion-from-site-s-users-1.2281924)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2281923&origw=960)
 
 ### Related:
 

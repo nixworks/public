@@ -8,6 +8,7 @@ There has been an earthquake off the coast of the Algarve in Portugal.
 ### Source:
 
 1. [Bloomberg](http://www.rte.ie/news/2007/0212/portugal.html)
+1. [Cover Image](https://img.rasset.ie/000ba79f-1600.jpg)
 
 ### Related:
 

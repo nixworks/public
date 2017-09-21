@@ -8,6 +8,7 @@ About 100 soldiers, guards and employees have been killed as jihadis seized a ga
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/world-news/100-die-as-syria-gas-field-seized-30442389.html)
+1. [Cover Image](http://www.independent.ie/world-news/article30442388.ece/ALTERNATES/h342/PANews_P-53c29edb-5104-40bd-940c-87b59f5b9771_I1.jpg)
 
 ### Related:
 

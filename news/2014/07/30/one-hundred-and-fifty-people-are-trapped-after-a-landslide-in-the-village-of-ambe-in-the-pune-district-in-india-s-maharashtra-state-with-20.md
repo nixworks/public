@@ -9,6 +9,7 @@
 
 1. [IBN Live](http://ibnlive.in.com/news/150-people-trapped-under-debris-in-punes-ambe-village-rescue-work-on/489193-3-237.html)
 2. [The Hindu](http://www.thehindu.com/news/national/nearly-150-feared-trapped-in-landslide-in-pune/article6263770.ece)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article11246767.ece/ALTERNATES/LANDSCAPE_615/IMG-20140730-WA0001)
 
 ### Related:
 

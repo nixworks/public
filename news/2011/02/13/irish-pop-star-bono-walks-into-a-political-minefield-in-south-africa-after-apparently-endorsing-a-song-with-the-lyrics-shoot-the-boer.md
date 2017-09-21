@@ -13,6 +13,7 @@ The Irish pop star Bono is criticised in South Africa for apparently endorsing t
 4. [Primedia Broadcasting - Eyewitness News](http://www.eyewitnessnews.co.za/articleprog.aspx?id=59320)
 5. [The New Age](http://www.thenewage.co.za/10379-1007-53-Hofmeyr_dumps_U2_tickets_over_Bono_comments)
 6. [The Sydney Morning Herald](http://www.smh.com.au/entertainment/music/bono-causes-stir-in-south-africa-over-shoot-the-farmer-song-20110213-1arww.html)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

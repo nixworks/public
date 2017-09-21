@@ -9,6 +9,7 @@ The U.S.’s Pacific Fleet commander vowed in a Beijing speech to continue patro
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-03/south-china-sea-patrols-no-threat-u-s-admiral-says-in-beijing)
 2. [South China Morning Post](http://www.scmp.com/news/china/diplomacy-defence/article/1875156/regular-not-poke-eye-us-navy-plans-two-or-more-patrols)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

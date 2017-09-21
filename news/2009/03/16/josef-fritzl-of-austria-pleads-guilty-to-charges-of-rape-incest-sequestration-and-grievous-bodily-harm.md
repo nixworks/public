@@ -8,6 +8,7 @@ The Austrian man accused of imprisoning his daughter for 24 years and fathering 
 ### Source:
 
 1. [AP via ''The Melbourne Age](http://www.theage.com.au/world/fritzl-enters-guilty-plea-20090316-8zv8.html)
+1. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

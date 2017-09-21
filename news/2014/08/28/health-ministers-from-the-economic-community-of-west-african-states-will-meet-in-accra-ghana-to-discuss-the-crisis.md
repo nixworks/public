@@ -8,6 +8,7 @@ A top US public health official says the Ebola outbreak is set to get worse befo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-28961944#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77206000/jpg/_77206975_77206973.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least six people have been killed in ongoing shooting in Kalamazoo County, Mi
 
 1. [Press Association via Irish Independent](http://www.independent.ie/world-news/man-arrested-after-six-killed-in-michigan-shootings-34471613.html)
 2. [RT](https://www.rt.com/usa/333151-michigan-random-shooting-victims/)
+2. [Cover Image](https://img.rt.com/files/2016.02/article/56c94827c461889e798b4603.jpg)
 
 ### Related:
 

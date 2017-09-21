@@ -8,6 +8,7 @@ At least four Palestinians have reportedly been wounded in Gaza after the Israel
 ### Source:
 
 1. [RT](https://www.rt.com/news/378825-israel-gaza-hamas-strikes/)
+1. [Cover Image](https://img.rt.com/files/2017.02/article/58b4d0cbc3618863038b461e.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Lorena Ochoa announced her retirement on Tuesday after three years as the world 
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=355680&CategoryId=13002)
 3. [The Globe and Mail](http://www.theglobeandmail.com/sports/golf/ochoas-surprise-retirement-a-blow-to-the-lpga-tour/article1541327/)
 4. [The New York Times](http://www.nytimes.com/2010/04/21/sports/golf/21golf.html)
+4. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/s/s/7/6/image.related.articleLeadwide.620x349.ss5z.png/1271800178097.jpg)
 
 ### Related:
 

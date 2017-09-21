@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Orange County Register](http://www.ocregister.com/news/schuller-306881-church-board.html)
+1. [Cover Image](http://images.onset.freedom.com/ocregister/gallery/lnrt3v-b78817151z.120110703113458000gtuu7i7e.2.jpg)
 
 ### Related:
 

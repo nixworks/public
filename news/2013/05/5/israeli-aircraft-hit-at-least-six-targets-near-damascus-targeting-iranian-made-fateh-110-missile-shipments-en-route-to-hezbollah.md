@@ -12,6 +12,7 @@ Multiple explosions shake the suburbs of Damascus, with Syria accusing Israel of
 3. [The New York Times](http://www.nytimes.com/2013/05/06/world/middleeast/after-strikes-in-syria-concerns-about-an-escalation-of-fighting.html?_r=0)
 4. [The Times of Israel](http://www.timesofisrael.com/damascus-airstrike-killed-dozens-of-elite-troops/)
 5. [Xinhua](http://news.xinhuanet.com/english/world/2013-05/05/c_132360780.htm)
+5. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67426000/jpg/_67426446_strike.jpg)
 
 ### Related:
 

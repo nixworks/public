@@ -9,6 +9,7 @@
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/australia-commits-to-legal-growing-of-medicinal-marijuana/2016/02/09/c91a6eec-cfaa-11e5-90d3-34c2c42653ac_story.html)
 2. [Japan Today](http://www.japantoday.com/category/world/view/australia-introduces-medicinal-cannabis-legislation)
+2. [Cover Image](https://www.japantoday.com/img/jt_logo_fb.gif)
 
 ### Related:
 

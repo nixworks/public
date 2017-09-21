@@ -8,6 +8,7 @@ A 30-year-old lawyer leaving an upscale New Jersey mall after shopping with his 
 ### Source:
 
 1. [NBC New York](http://www.nbcnewyork.com/news/local/Shooting-Short-Hills-Mall-New-Jersey-235961661.html)
+1. [Cover Image](http://media.nbcnewyork.com/images/1200*675/dustin+friedland+carjacking+victim+mall.jpg)
 
 ### Related:
 

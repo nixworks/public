@@ -8,6 +8,7 @@ HAVANA &#8212; Pope Benedict XVI on Wednesday concluded his first trip to the Sp
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-cuba-pope-mass-20120329,0,5256763.story)
+1. [Cover Image](http://www.latimes.com/media/photo/2012-03/69089501.jpg)
 
 ### Related:
 

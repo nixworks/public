@@ -8,6 +8,7 @@ Eight people were hurt in northern Cairo when homemade explosive devices blew up
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/06/25/us-egypt-blast-idUSKBN0F00H120140625)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140625&t=2&i=911338381&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5O0J0)
 
 ### Related:
 

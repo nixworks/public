@@ -8,6 +8,7 @@ LONDON — Europe has failed miserably to do its part to assuage Syria’s despe
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-syrian-refugees-europe-20131213,0,1861589.story#axzz2n0z8xNrL)
+1. [Cover Image](http://www.trbimg.com/img-52ab391c/turbine/la-fg-wn-syrian-refugees-europe-20131213)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The High Court in Pretoria has ruled that the failure to detain Sudan President 
 ### Source:
 
 1. [News24](http://www.news24.com/news24/SouthAfrica/News/LIVE-Court-to-hear-Al-Bashir-arrest-application-20150615)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/617/7bdaa850d074431984a3d154fad67bde.jpg)
 
 ### Related:
 

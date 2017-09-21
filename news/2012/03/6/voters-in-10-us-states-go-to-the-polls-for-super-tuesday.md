@@ -17,6 +17,7 @@ For those of us who have never been held hostage, now we know what it feels like
 8. [Washington Post](http://www.washingtonpost.com/politics/massachusetts-primary-results-mitt-romney-declared-winner/2012/03/05/gIQAd1QcvR_story.html)
 9. [Washington Post](http://www.washingtonpost.com/politics/tennessee-primary-results-rick-santorum-declared-winner/2012/03/05/gIQAukOivR_story.html)
 10. [Washington Times](http://www.washingtontimes.com/news/2012/mar/4/curl-super-tuesday-more-stupor-tuesday/)
+10. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2012/02/29/romney-2012_reps.jpg)
 
 ### Related:
 

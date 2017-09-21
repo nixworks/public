@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Chicago Tribune](http://www.chicagotribune.com/news/chi-obama-nsa-surveillance-20140117,0,7768973.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

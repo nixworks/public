@@ -9,6 +9,7 @@
 
 1. [HLN](http://www.hln.be/hln/nl/2661/Dieren/article/detail/1490135/2012/08/23/Haai-keert-terug-in-Waddenzee.dhtml)
 2. [Waddenvereniging, in Dutch](http://www.waddenvereniging.nl/nieuws/item.php?item_id=6459)
+2. [Cover Image](https://www.waddenvereniging.nl/images/logo-wv-opengraph.png)
 
 ### Related:
 

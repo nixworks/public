@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.745980)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.736993.1471254132!/image/3565939739.jpg_gen/derivatives/headline_1200x630/3565939739.jpg)
 
 ### Related:
 

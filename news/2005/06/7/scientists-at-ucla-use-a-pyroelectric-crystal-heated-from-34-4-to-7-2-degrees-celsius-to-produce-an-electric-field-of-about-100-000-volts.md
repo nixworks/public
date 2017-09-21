@@ -11,6 +11,7 @@ The Christian Science Monitor is an international news organization that deliver
 2. [MSNBC](http://msnbc.msn.com/id/7654627)
 3. [Nature](http://www.nature.com/nature/journal/v434/n7037/suppinfo/nature03575.html)
 4. [UCLA](http://rodan.physics.ucla.edu/pyrofusion/)
+4. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
 ### Related:
 

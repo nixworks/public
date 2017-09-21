@@ -11,6 +11,7 @@ Gulf nations suspend mediation efforts after Saleh fails to sign exit pact and w
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201152216373928689.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-13492369)
 4. [CNN](http://www.cnn.com/2011/WORLD/meast/05/22/yemen.political.deal/?hpt=T1&iref=BN1)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/22/2011522172244855580_20.jpg)
 
 ### Related:
 

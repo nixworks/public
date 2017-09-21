@@ -9,6 +9,7 @@
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107172215810629.html)
 2. [iPrime](http://newcastle.iprime.com.au/index.php/news/prime-news/gillard-announces-election,458801)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

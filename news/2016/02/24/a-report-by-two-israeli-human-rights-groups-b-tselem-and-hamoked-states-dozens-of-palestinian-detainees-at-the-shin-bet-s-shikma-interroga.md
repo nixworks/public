@@ -9,6 +9,7 @@ JERUSALEM — Dozens of Palestinian detainees at an Israeli detention facility h
 
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/world/article/Dozens-of-Palestinians-detained-abused-say-6852163.php)
 2. [Jurist](http://jurist.org/paperchase/2016/02/human-rights-groups-finds-mistreatment-of-detained-palestinians.php)
+2. [Cover Image](http://www.sfgate.com/img/pages/article/opengraph_default.png)
 
 ### Related:
 

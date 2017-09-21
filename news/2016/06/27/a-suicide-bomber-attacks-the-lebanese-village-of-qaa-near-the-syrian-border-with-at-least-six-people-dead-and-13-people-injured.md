@@ -8,6 +8,7 @@ At least five people have been killed in multiple suicide bombings in a mainly C
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36637378)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/184CC/production/_90123599_mediaitem90123598.jpg)
 
 ### Related:
 

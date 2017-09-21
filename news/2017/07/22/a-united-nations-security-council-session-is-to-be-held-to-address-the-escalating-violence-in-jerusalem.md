@@ -8,6 +8,7 @@ The US, Russia, EU and United Nations have expressed concern about escalating vi
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/un-security-council-to-meet-over-escalating-israel-palestine-conflict/a-39799797)
+1. [Cover Image](http://www.dw.com/image/39796549_304.jpg)
 
 ### Related:
 

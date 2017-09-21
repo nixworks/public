@@ -8,6 +8,7 @@ John Key has resigned as New Zealand&#039;s prime minister in a sudden announcem
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/12/05/john-key-resigns-nz-prime-minister-0)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/key_0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Outdoor apparel retailer Eddie Bauer Holdings Inc filed for bankruptcy for the s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/americasPrivateEquityNews/idUSTRE55G5D720090617)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090617&t=2&i=10544304&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-17T210844Z_01_BTRE55G1MQN00_RTROPTP_0_EDDIEBAUER)
 
 ### Related:
 

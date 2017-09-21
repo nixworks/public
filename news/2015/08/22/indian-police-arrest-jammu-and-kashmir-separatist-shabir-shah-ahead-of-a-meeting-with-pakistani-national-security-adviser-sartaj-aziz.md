@@ -8,6 +8,7 @@ A day before the scheduled National Security Advisor level talks between India a
 ### Source:
 
 1. [The Indian Business News Live](http://www.ibnlive.com/news/politics/live-separatist-shabir-shah-supporters-likely-to-be-detained-at-delhi-airport-say-sources-1049621.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2015/08/sushma-pc.jpg)
 
 ### Related:
 

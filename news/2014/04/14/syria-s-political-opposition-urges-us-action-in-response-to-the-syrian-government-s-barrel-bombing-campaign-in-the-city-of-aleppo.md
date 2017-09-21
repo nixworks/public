@@ -9,6 +9,7 @@ Syrian government troops seize at least three border communities, including an a
 
 1. [Reuters](http://www.reuters.com/article/2014/04/14/us-syria-crisis-letter-idUSBREA3D1AO20140414)
 2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Apr-14/253263-syria-army-retakes-maaloula-security-source.ashx#axzz2yrph206W)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/04/14/231053_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Targets included an embassy in Central America and Israeli military personnel fa
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/us-foils-hezbollah-plot-attack-american-israeli-targets-new-york-and-panama-623432)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/07/14/lebanese-militant-group-hezbollah.jpg)
 
 ### Related:
 

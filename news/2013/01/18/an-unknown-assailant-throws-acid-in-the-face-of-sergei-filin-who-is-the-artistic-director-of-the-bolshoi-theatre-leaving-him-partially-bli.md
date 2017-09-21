@@ -10,6 +10,7 @@
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_BOLSHOI)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21076192)
 3. [Reuters](http://www.reuters.com/article/2013/01/18/russia-bolshoi-attack-idUSL6N0AN1DZ20130118)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

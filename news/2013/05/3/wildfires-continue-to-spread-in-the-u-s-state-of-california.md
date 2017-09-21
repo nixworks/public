@@ -8,6 +8,7 @@ The wildfire burning through Ventura County has scorched 28,000 acres, and firef
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-california-wildfire-28000-acres-20130503,0,3082259.story)
+1. [Cover Image](http://www.trbimg.com/img-51847aed/turbine/la-me-ln-california-wildfire-28000-acres-20130503)
 
 ### Related:
 

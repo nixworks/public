@@ -8,6 +8,7 @@ Chinese security officers in Sichuan Province released Tibetan monks detained af
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/03/19/world/asia/19tibet.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

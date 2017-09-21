@@ -8,6 +8,7 @@ Toxic homemade liquor has killed nearly 100 slum dwellers in India&#39;s financi
 ### Source:
 
 1. [Reuters via News24](http://www.news24.com/news24/World/News/Moonshine-kills-nearly-100-in-India-city-slum-20150621)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/448/664908cda22b45e6927e802ebb0d742f.png)
 
 ### Related:
 

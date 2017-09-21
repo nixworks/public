@@ -9,6 +9,7 @@ Business news & Financial news from Reuters.com.
 
 1. [Reuters](http://www.reuters.com/financeNewsArticle.jhtml?type=bondsNews&storyID=8171506)
 2. [World Peace Herald](http://www.wpherald.com/Latin_America/storyview.php?StoryID=20050413-100406-8179r)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

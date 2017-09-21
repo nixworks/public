@@ -8,6 +8,7 @@ A NASA spacecraft is providing new evidence of a wet underground environment on 
 ### Source:
 
 1. [NASA](http://www.nasa.gov/mission_pages/MRO/news/mro20130120.html)
+1. [Cover Image](http://www.nasa.gov/sites/default/files/images/647406main_pia15680-226.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Five men are being held under the Terrorism Act after being arrested close to th
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/crime/five-arrested-near-sellafield-held-under-terrorism-act-2278268.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/05/03/12/602925.bin)
 
 ### Related:
 

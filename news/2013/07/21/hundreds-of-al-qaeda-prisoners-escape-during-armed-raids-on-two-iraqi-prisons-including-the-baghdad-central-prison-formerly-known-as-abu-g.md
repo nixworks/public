@@ -8,6 +8,7 @@ Hundreds of al-Qaeda fighters were on the loose in Iraq after fellow militants s
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/10195753/Hundreds-of-al-Qaeda-inmates-in-mass-Iraq-jailbreak.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02624/Abu-Ghraib_2624439k.jpg)
 
 ### Related:
 

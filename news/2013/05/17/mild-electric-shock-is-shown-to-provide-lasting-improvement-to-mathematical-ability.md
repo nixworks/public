@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Nature](http://www.nature.com/news/shocks-to-the-brain-improve-mathematical-abilities-1.13012)
+1. [Cover Image](http://www.nature.com/polopoly_fs/7.10582.1368718227!/image/1.13012_P3250200-Human_brain%2C_conceptual_artwork-SPL.jpg_gen/derivatives/nature_homepage/1.13012_P3250200-Human_brain%2C_conceptual_artwork-SPL.jpg)
 
 ### Related:
 

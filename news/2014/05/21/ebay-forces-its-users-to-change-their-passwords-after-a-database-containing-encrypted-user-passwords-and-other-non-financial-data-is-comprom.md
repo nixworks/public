@@ -8,6 +8,7 @@ Members of eBay are being made to change their passwords after a cyber-attack co
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-27503290)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75008000/jpg/_75008374_ebay.jpg)
 
 ### Related:
 

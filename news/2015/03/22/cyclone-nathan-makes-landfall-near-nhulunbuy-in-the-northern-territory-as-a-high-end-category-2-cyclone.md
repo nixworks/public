@@ -8,6 +8,7 @@ Tropical cyclone Nathan has been lashing the Northern Territory with wind gusts 
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/03/22/cyclone-nathan-pummels-northern-territory)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/2/1/21Mar_Nathan_800x600.jpg)
 
 ### Related:
 

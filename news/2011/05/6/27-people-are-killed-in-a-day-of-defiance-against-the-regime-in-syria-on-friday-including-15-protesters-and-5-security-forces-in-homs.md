@@ -11,6 +11,7 @@ The White House warns Syria it will take &quot;additional steps&quot; if Damascu
 2. [CNN](http://www.cnn.com/2011/WORLD/meast/05/06/syria.unrest/index.html)
 3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/five-dead-in-syria-day-of-defiance/story-fn3dxity-1226051498960)
 4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=219544)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52593000/jpg/_52593093_011915740-1.jpg)
 
 ### Related:
 

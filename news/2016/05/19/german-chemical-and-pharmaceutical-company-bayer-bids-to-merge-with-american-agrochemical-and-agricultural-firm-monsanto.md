@@ -9,6 +9,7 @@ Bayer AG’s unsolicited takeover offer for Monsanto Co. met with skepticism as 
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-19/bayer-s-pursuit-of-45-billion-monsanto-greeted-with-skepticism)
 2. [Forbes](http://www.forbes.com/sites/antoinegara/2016/05/19/bayer-confirms-merger-discussions-with-agriculture-giant-monsanto/#394689625518)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN9XaQVJucKQ/v1/1200x800.jpg)
 
 ### Related:
 

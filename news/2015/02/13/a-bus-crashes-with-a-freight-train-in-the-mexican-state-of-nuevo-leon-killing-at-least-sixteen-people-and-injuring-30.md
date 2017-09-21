@@ -8,6 +8,7 @@ At least 16 were killed and 30 injured in a collision between a freight train an
 ### Source:
 
 1. [ (Reuters](http://www.reuters.com/article/2015/02/14/us-mexico-crash-idUSKBN0LI03R20150214)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

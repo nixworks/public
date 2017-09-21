@@ -9,6 +9,7 @@ The ruble plunged more than 11 percent against the dollar on Tuesday in its stee
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/business/international/russia-hikes-key-rate-to/1531324.html)
 2. [Reuters](http://www.reuters.com/article/2014/12/16/us-russia-rouble-exchange-idUSKBN0JU0KO20141216)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141216&t=2&i=999845177&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABF0CG)
 
 ### Related:
 
@@ -18,3 +19,4 @@ The ruble plunged more than 11 percent against the dollar on Tuesday in its stee
 4. [Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md) _Context: 2014 Russian financial crisis_
 5. [ Russia devalues the ruble for the sixth time in 2009 and will overhaul the state budget to reflect the sharp decrease in the price of petroleum, its key export. ](/news/2009/01/19/russia-devalues-the-ruble-for-the-sixth-time-in-2009-and-will-overhaul-the-state-budget-to-reflect-the-sharp-decrease-in-the-price-of-petro.md) _Context: Russian ruble_
 6. [ Court in Moscow sentences director Yuri Samodurov and Lyudmila Vasilovskaya for fine of 100,000 rubles (about GBP2,000 or $3,600) for blasphemy because of their 2003 exhibition "Caution! Religion". ](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodurov-and-lyudmila-vasilovskaya-for-fine-of-100-000-rubles-about-gbp2-000-or-3-600-for-blasp.md) _Context: Russian ruble_
+7. [ Conflict in Russia (Chechnya): Russian President Vladimir Putin's government offers 300 million rubles (USD 10 million) for information leading to the arrest of Chechen rebel leaders Shamil Basayev and Aslan Maskhadov. Maskhadov was the last democratically elected leader of Chechnya. ](/news/2004/09/8/conflict-in-russia-chechnya-russian-president-vladimir-putin-s-government-offers-300-million-rubles-usd-10-million-for-information-lea.md) _Context: Russian ruble_

@@ -8,6 +8,7 @@ At least 24 civilians were killed in an air raid Sunday on a market in northern 
 ### Source:
 
 1. [AFP via PRI](https://www.pri.org/stories/2017-06-18/24-killed-air-raid-yemen-market)
+1. [Cover Image](https://cdn1.pri.org/sites/default/files/styles/open_graph/public/story/images/RTX1K5O0.jpg?itok=y3aqLyLG)
 
 ### Related:
 

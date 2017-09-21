@@ -24,6 +24,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 15. [The Guardian](http://www.guardian.co.uk/world/2010/dec/21/wikileaks-cables-us-bangladesh-coal-mine)
 16. [The Guardian](http://www.guardian.co.uk/world/2010/dec/21/wikileaks-you-ask-december-22?intcmp=239)
 17. [The Huffington Post](http://www.huffingtonpost.com/2010/12/10/whos-googling-wikileaks-t_n_795099.html)
+17. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Video/101215/x_lon_assange_101215.standard.jpg)
 
 ### Related:
 

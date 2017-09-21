@@ -8,6 +8,7 @@ A team of U.S. Coast Guard crews and volunteers are looking for a missing fishin
 ### Source:
 
 1. [KTUU-TV](http://www.ktuu.com/content/news/Coast-Guard-searching-for-fishing-vessel-near-St-George-413505893.html)
+1. [Cover Image](http://media.graytvinc.com/images/coast+guard35.jpg)
 
 ### Related:
 

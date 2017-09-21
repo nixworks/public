@@ -11,6 +11,7 @@ The Taoiseach has joined the FAI in calling for a replay following last night&#3
 2. [Radio Netherlands](http://www.rnw.nl/english/article/ireland-calls-rematch-after-henry-handsball)
 3. [The Guardian](http://www.guardian.co.uk/football/2009/nov/19/ireland-france-thierry-henry-world-cup)
 4. [The LA Times](http://www.latimes.com/sports/la-sp-world-cup-henry20-2009nov20,0,5392453.story?track=rss)
+4. [Cover Image](https://img.rasset.ie/0002c481-1600.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gh_YBnc-TUxyrqZm5_xBJy-JjYhg?docId=CNG.458a0d151f257d778da027d14bf85c6b.c1)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12413660)
 3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110210/news_20110210_56_733078.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

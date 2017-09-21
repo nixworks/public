@@ -9,6 +9,7 @@
 
 1. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201010270029)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_596005.html)
+2. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20101027/2010102700291.jpg)
 
 ### Related:
 

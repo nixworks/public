@@ -8,6 +8,7 @@ Thousands of Egyptian riot police have clashed with Bedouin protesting against t
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/31/1992367.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

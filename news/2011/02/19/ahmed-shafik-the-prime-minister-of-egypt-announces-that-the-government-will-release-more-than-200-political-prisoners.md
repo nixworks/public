@@ -8,6 +8,7 @@ Prime Minister Ahmed Shafiq said on Saturday Egypt would release more than 200 p
 ### Source:
 
 1. [Antara News](http://www.antaranews.com/en/news/1298165097/egypt-to-release-some-political-prisoners-soon)
+1. [Cover Image](http://img.antaranews.com/new)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Islamist gunmen have shot deada prominent journalist in Mogadishu, the first rep
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8661809.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=125511&sectionid=351020501)
 3. [Reuters India](http://in.reuters.com/article/rbssTechMediaTelecomNews/idINLDE6440HO20100505)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

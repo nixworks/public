@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4507609.stm)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/05/03/AR2005050300327.html)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

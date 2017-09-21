@@ -8,6 +8,7 @@ Get local Bay Area news plus Bay Area breaking news, business, green, national, 
 ### Source:
 
 1. [NBC11 San Francisco](http://www.nbc11.com/news/14063187/detail.html)
+1. [Cover Image](http://media.nbcbayarea.com/designimages/nbcbay_station_logo.jpg?ak=bc)
 
 ### Related:
 

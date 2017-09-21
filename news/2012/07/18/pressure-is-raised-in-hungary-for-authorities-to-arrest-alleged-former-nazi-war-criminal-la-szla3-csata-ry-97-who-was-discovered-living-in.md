@@ -8,6 +8,7 @@ Hungary is under pressure to prosecute the world&#039;s most wanted surviving Na
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/pressure-to-arrest-top-nazi-criminal-20120717-228f5.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/8/i/5/image.related.articleLeadwide.620x349.228f5.png/1342544400000.jpg)
 
 ### Related:
 

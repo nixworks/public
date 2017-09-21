@@ -8,6 +8,7 @@ Irish comedian Dylan Moran becomes the first professional English-speaking comed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17771847)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59745000/jpg/_59745149_59745148.jpg)
 
 ### Related:
 

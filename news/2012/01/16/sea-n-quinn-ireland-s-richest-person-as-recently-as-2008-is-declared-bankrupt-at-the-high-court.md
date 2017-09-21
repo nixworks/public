@@ -8,6 +8,7 @@ Seán Quinn who was declared bankrupt by the High Court today has accused IBRC, 
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/0116/quinns.html)
+1. [Cover Image](https://img.rasset.ie/000568d0-1600.jpg)
 
 ### Related:
 

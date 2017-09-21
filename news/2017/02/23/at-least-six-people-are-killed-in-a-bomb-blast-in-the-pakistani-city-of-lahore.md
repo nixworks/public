@@ -8,6 +8,7 @@ Police are investigating the cause of the blast, which ripped through a shopping
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39062521)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6D56/production/_94809972_c6413269-b5b6-48e7-8785-12d0b5177a29.jpg)
 
 ### Related:
 

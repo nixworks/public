@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TechnoBuffalo](http://www.technobuffalo.com/2012/12/24/steve-jobs-yacht-freed-from-impound-after-unpaid-bill-is-settled/)
+1. [Cover Image](https://www.technobuffalo.com/wp-content/uploads/2012/10/Steve_Jobs_yacht_back.jpeg)
 
 ### Related:
 

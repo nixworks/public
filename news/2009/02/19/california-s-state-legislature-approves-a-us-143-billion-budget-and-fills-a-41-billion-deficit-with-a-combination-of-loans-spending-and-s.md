@@ -8,6 +8,7 @@ Economists say that California’s budget foreshadows the difficult choices othe
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/02/20/us/20california.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/02/19/us/20california2_75.jpg)
 
 ### Related:
 

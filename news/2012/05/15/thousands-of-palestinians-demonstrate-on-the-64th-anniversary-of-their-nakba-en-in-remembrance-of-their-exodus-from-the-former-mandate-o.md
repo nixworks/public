@@ -10,6 +10,7 @@ Rallies and demonstrations in West Bank, Gaza and Israel as Palestinians commemo
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012515773236523.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18073381)
 3. [The Times of Israel](http://www.timesofisrael.com/police-idf-on-high-alert-ahead-of-nakba-day/)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/15/2012515135525283734_20.jpg)
 
 ### Related:
 

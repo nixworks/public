@@ -8,6 +8,7 @@ Over a hundred Baluch militants fighting against Pakistani forces in the separat
 ### Source:
 
 1. [AFP](http://news.yahoo.com/more-100-baluch-militants-surrender-pakistan-181602201.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/PN_VAEkXLqqLtPACJFAi4w--/aD02OTY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/919d6e2d20d632007cd6d3f7985a1c5b19ab6313.jpg)
 
 ### Related:
 

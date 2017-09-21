@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [B92](http://www.b92.net/english/news/index.php?&nav_category=12&nav_id=32218&order=priority&style=headlines)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8799462)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

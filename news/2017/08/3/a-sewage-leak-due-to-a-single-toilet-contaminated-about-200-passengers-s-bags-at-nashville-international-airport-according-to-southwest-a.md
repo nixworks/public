@@ -9,6 +9,7 @@ The bags are currently being sanitized, the airline said.
 
 1. [ABC News](http://abcnews.go.com/US/sewage-leak-contaminates-checked-bags-nashville-airport/story?id=49022603)
 2. [New York Post](http://nypost.com/2017/08/04/busted-airport-toilet-ruins-luggage-for-hundreds-of-fliers/)
+2. [Cover Image](http://a.abcnews.com/images/US/nashville-international-airport-gty-mt-170803_16x9_992.jpg)
 
 ### Related:
 

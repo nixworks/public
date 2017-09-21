@@ -15,6 +15,7 @@ Afghan officials hail a parliamentary vote as a success despite low turnout, att
 6. [BBC](http://www.bbc.co.uk/news/uk-11361450)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/18/c_13518578.htm)
 8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/18/c_13518580.htm)
+8. [Cover Image](http://www.abc.net.au/news/image/2265560-1x1-700x700.jpg)
 
 ### Related:
 

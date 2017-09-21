@@ -14,6 +14,7 @@ Russian MPs propose new laws that would make it easier for Russia to incorporate
 5. [RIA Novosty](http://en.ria.ru/russia/20140228/187968651/Ukraine-Asks-Russia-to-Extradite-Yanukovych.html)
 6. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=954307&vId=)
 7. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/10668357/Russia-admits-that-it-has-moved-troops-in-Ukraine.html)
+7. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73281000/jpg/_73281237_ruscrimeasignreut.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mudslides and Heavy Rain Force Thousands From Their Hillside Homes
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/stories/2010/06/22/world/main6605777.shtml?tag=cbsnewsSectionContent.3)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/06/22/dc84b2b0-a642-11e2-a3f0-029118418759/image6605803x.jpg)
 
 ### Related:
 

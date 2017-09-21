@@ -8,3 +8,4 @@ The weather service says EF5 twister&#39;s 2.6-mile width is the widest ever rec
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/weather/2013/06/04/okla-tornado-record-ef5/2388759/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

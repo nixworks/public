@@ -9,6 +9,7 @@ One of the 219 missing Chibok schoolgirls is found in Nigeria, the first to be r
 
 1. [BBC](http://www.bbc.com/news/world-africa-36321249)
 2. [CNN](http://edition.cnn.com/2016/05/18/africa/nigeria-chibok-girl-found/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/121BB/production/_89217147_7b864480-638c-4291-bc75-940e3ef9443e.jpg)
 
 ### Related:
 

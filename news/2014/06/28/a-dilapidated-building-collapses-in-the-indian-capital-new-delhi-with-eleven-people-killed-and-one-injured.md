@@ -8,6 +8,7 @@ Rescuers using gas cutters and shovels were searching in construction rubble Sun
 ### Source:
 
 1. [AP via CTV](http://www.ctvnews.ca/world/at-least-12-dead-as-2-buildings-collapse-in-india-dozens-feared-trapped-1.1890715)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1890718.1403968239!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

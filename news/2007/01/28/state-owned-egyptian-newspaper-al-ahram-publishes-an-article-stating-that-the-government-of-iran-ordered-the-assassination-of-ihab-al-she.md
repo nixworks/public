@@ -8,6 +8,7 @@ Attributed to anonymous sources and denied by the foreign ministries of both Egy
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2007/01/29/world/africa/29egypt.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

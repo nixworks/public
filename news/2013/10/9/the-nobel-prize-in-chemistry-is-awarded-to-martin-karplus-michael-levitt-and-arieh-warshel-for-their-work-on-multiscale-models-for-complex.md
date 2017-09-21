@@ -8,6 +8,7 @@ The Nobel Prize in chemistry has been awarded to three scientists who &quot;took
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-24458534)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70372000/jpg/_70372716_c0176364-chlorophyll_molecule-spl.jpg)
 
 ### Related:
 

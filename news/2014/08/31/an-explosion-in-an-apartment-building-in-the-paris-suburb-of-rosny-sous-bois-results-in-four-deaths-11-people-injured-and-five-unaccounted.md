@@ -8,6 +8,7 @@ Six people were killed when an explosion ripped through an apartment building ou
 ### Source:
 
 1. [AFP via SBS](http://www.sbs.com.au/news/article/2014/09/01/paris-explosion-search-injured-after-four-killed)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/454426646.jpg)
 
 ### Related:
 

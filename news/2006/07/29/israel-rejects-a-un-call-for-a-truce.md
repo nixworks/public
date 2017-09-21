@@ -13,6 +13,7 @@
 4. [Reuters](http://reuters.myway.com/article/20060728/2006-07-28T200930Z_01_L28814474_RTRIDST_0_NEWS-MIDEAST-ROCKETS-DC.html)
 5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3283102,00.html)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3283155,00.html)
+6. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

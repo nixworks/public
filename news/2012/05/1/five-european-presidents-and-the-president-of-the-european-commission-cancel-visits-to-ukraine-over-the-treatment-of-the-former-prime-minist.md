@@ -8,6 +8,7 @@ Ukraine is facing growing isolation as five presidents and the EU Commission can
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/ukraine-rebuffed-over-jailed-leader-20120501-1xx3k.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/x/r/r/9/image.related.articleLeadwide.620x349.1xx3k.png/1335891600000.jpg)
 
 ### Related:
 

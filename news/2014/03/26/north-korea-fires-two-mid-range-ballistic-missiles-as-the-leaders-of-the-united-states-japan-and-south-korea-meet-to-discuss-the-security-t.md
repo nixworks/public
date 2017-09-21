@@ -8,6 +8,7 @@ Pyongyang fires two missiles into sea as leaders of South Korea, Japan and the U
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/03/defiant-north-korea-test-fires-more-rockets-20143261549693141.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/3/17//2014317153153848734_20.jpg)
 
 ### Related:
 

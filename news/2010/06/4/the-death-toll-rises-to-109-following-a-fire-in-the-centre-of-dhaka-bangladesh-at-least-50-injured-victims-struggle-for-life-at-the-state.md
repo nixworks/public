@@ -10,6 +10,7 @@
 1. [China Daily](http://www.chinadaily.com.cn/photo/2010-06/04/content_9933941.htm)
 2. [Rediff](http://news.rediff.com/report/2010/jun/04/many-killed-in-late-night-blaze-in-dhaka.htm)
 3. [The Times of India](http://timesofindia.indiatimes.com/world/south-asia/Death-toll-in-Bangladesh-fire-rises-to-109-50-others-critically-injured/articleshow/6009323.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/6010370.cms)
 
 ### Related:
 

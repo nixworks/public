@@ -9,6 +9,7 @@ The antimatter version of a hydrogen atom has been held in place for the first t
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010111842055191956.html)
 2. [BBC ](http://www.bbc.co.uk/news/science-environment-11773791)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/50026000/jpg/_50026610_50026609.jpg)
 
 ### Related:
 

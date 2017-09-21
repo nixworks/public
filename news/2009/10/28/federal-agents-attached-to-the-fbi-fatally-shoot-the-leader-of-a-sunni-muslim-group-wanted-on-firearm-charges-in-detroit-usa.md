@@ -9,6 +9,7 @@ Federal authorities said that a leader of what they called a radical group was k
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/10/2009102823123349105.html)
 2. [New York Times](http://www.nytimes.com/2009/10/29/us/29shooting.html)
+2. [Cover Image](https://static01.nyt.com/images/2009/10/29/us/29shooting_CA0/thumbStandard.jpg)
 
 ### Related:
 

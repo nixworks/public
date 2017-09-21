@@ -8,6 +8,7 @@ Turkish-backed rebels in Syria are advancing on the symbolically important IS st
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37666240)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8728/production/_91500643_mediaitem91500642.jpg)
 
 ### Related:
 

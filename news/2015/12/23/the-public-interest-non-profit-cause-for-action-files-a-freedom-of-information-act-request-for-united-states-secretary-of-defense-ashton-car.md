@@ -8,6 +8,7 @@ A government accountability nonprofit wants to see if Defense Secretary Ash Cart
 ### Source:
 
 1. [Federal Times](http://www.federaltimes.com/story/government/management/agency/2015/12/22/non-profit-files-foia-carter-emails/77745300/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/6a/0c/0a64509a41fdaf295329c6f74307/635863794311892536-arm-ausa-carter02jpg)
 
 ### Related:
 

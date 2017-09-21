@@ -12,6 +12,7 @@
 3. [Los Angeles Times](http://www.latimes.com/entertainment/news/la-et-jackson-cirque-20100421,0,1268283.story)
 4. [The Guardian](http://www.guardian.co.uk/music/2010/apr/21/michael-jackson-cirque-du-soleil)
 5. [Xinhua](http://news.xinhuanet.com/english2010/entertainment/2010-04/21/c_13261175.htm)
+5. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

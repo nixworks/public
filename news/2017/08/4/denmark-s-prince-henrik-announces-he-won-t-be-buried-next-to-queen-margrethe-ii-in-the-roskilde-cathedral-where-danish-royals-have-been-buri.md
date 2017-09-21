@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/Entertainment/wireStory/denmarks-french-born-prince-stir-49029071)
+1. [Cover Image](http://a.abcnews.com/images/Entertainment/WireAP_ea026ce44705462593fd693df8a2fbd2_16x9_992.jpg)
 
 ### Related:
 

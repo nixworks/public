@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/28/earthquake-measuring-72-hitsoff-mindanao-philippines/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/01/Breaking-news-xlarge_trans_NvBQzQNjv4BqCTY-E8UrRAHHViyaH5PP43GTJFJS74MYhNY6w3GNbO8.png)
 
 ### Related:
 

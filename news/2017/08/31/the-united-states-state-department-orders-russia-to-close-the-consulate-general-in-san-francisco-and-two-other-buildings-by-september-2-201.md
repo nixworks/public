@@ -8,6 +8,7 @@ The US orders Russia to close its San Francisco consulate in response to &quot;u
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-41115352)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4602/production/_97622971_c9586121-ff34-4d68-b121-cbaab2c21600.jpg)
 
 ### Related:
 

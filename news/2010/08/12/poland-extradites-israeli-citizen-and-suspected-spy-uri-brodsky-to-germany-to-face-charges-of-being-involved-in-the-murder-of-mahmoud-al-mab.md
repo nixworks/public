@@ -9,6 +9,7 @@ Poland extradites to Germany a suspected Israeli agent wanted in connection with
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10957922)
 2. [Daily Express](http://www.dailyexpress.co.uk/posts/view/192827/Israeli-spy-extradited-to-Germany/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

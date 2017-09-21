@@ -8,6 +8,7 @@ Craig Thomson vows to vigorously defend himself against 150 fraud charges after 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-01-31/craig-thomson-arrested/4493722)
+1. [Cover Image](http://www.abc.net.au/news/image/4494200-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Four men are arrested in a major counter terrorism operation in the Sparkhill ar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15735029)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56716000/jpg/_56716942_012898198-1.jpg)
 
 ### Related:
 

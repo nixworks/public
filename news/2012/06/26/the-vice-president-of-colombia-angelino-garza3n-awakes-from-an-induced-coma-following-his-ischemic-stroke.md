@@ -8,6 +8,7 @@ Colombia’s vice president has awoken from his induced coma is recovering well 
 ### Source:
 
 1. [Colombia Reports](http://colombiareports.com/colombia-news/news/24784-colombias-vice-president-shows-signs-of-recovery-.html)
+1. [Cover Image](http://www.colombiareports.co/wp-content/uploads/angelinogarzon1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Britain is to tighten the rules on immigrants entering Britain on a student visa
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE6160RY20100207)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100207&t=2&i=57247782&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-07T133858Z_01_BTRE61611X500_RTROPTP_0_BRITAIN-BLAIR-REVOLT)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Italy remained in political gridlock on Thursday after the center-left leader an
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/28/italy-government-bersani/2028825/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ At least one person has died and nearly two dozen were hurt when a wrong-way dri
 1. [BBC](http://www.bbc.com/news/world-us-canada-39968710)
 2. [CNN](http://edition.cnn.com/2017/05/18/us/new-york-times-square-car-pedestrians/index.html?adkey=bn)
 3. [NBC News](http://www.nbcnewyork.com/news/local/Times-Square-Accident-Pedestrians-Struck-Manhattan-New-York-Police-Investigation-422988124.html)
+3. [Cover Image](http://media.nbcnewyork.com/images/1200*675/times+square+crash.jpg)
 
 ### Related:
 

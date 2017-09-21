@@ -10,6 +10,7 @@ Hong Kong voted in citywide by-elections on Sunday, polls which pro-democracy gr
 1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20100516&56&668483)
 2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-48523120100516)
 3. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_527217.html)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100516&t=2&i=108046288&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-05-16T150959Z_01_NOOTR_RTRMDNC_0_India-485231-1)
 
 ### Related:
 

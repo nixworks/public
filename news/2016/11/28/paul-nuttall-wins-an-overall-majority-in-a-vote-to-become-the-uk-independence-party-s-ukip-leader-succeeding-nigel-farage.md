@@ -8,6 +8,7 @@ Paul Nuttall says he wants UKIP to &quot;replace Labour&quot; as he takes over f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-38125432)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/178AD/production/_92692469_mediaitem92692468.jpg)
 
 ### Related:
 

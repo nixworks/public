@@ -9,6 +9,7 @@
 
 1. [CBS](http://www.cbsnews.com/stories/2006/10/26/national/main2125871.shtml)
 2. [CNN](http://edition.cnn.com/2006/US/10/26/calif.fire.ap/index.html?section=cnn_latest)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/10/27/d4d518a5-a642-11e2-a3f0-029118418759/image2130198x.jpg)
 
 ### Related:
 

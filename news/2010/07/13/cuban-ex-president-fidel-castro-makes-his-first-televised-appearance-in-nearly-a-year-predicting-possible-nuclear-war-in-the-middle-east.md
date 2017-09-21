@@ -9,6 +9,7 @@ Cuban ex-President Fidel Castro makes a rare TV appearance in an interview focus
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10606890.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/13/fidel-castro-on-cuban-tv-middle-east-iran-us)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

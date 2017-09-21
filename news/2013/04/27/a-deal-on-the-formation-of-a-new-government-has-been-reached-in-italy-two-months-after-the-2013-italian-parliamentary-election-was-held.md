@@ -8,6 +8,7 @@ A new government is agreed in Italy by PM-designate Enrico Letta, ending two mon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22323850)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67280000/jpg/_67280138_tqh2knqo.jpg)
 
 ### Related:
 

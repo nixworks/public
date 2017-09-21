@@ -8,6 +8,7 @@ AT&amp;amp;T Inc. (NYSE: T) and Deutsche Telekom AG (FWB: DTE) today announced t
 ### Source:
 
 1. [Business Wire](http://www.businesswire.com/news/home/20110320005040/en/ATT-Acquire-T-Mobile-USA-Deutsche-Telekom)
+1. [Cover Image](http://mms.businesswire.com/bwapps/mediaserver/ViewMedia?mgid=110934&vid=2)
 
 ### Related:
 

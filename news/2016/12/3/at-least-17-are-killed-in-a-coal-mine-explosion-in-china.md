@@ -8,6 +8,7 @@ Chinese state media say a coal mine explosion in a northern region has trapped 3
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2016/12/03/coal-mine-explosion-in-china-kills-17-traps-dozens.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

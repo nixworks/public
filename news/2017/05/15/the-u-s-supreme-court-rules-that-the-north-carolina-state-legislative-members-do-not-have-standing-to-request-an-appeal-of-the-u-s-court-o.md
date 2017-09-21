@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-court-election-idUSKCN18B1QB)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170515&t=2&i=1184750131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED4E12A)
 
 ### Related:
 

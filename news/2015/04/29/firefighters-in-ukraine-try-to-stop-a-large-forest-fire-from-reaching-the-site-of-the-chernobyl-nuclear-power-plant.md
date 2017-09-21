@@ -8,6 +8,7 @@ Emergency crews in Ukraine are trying to stop a massive forest fire from spreadi
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2015/04/29/ukraine-massive-forest-fire-threatens-abandoned-chernobyl-nuclear-plant/)
+1. [Cover Image](http://static.euronews.com/articles/305004/1000x563_305004.jpg)
 
 ### Related:
 

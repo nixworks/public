@@ -8,6 +8,7 @@ A hostage situation in a town in northern France has ended tonight.
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/world-news/europe/hostagetaker-killed-and-other-suspects-at-large-as-hostages-moved-to-secure-place-34231357.html)
+1. [Cover Image](http://www.independent.ie/incoming/article34231493.ece/ALTERNATES/h342/france.jpg)
 
 ### Related:
 

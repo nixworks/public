@@ -8,6 +8,7 @@ Crude bomb explosion kills one person, as opposition activists clash with police
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2011/12/2011121810314023624.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/18/20111218103629333621_20.jpg)
 
 ### Related:
 

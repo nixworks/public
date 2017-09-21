@@ -8,6 +8,7 @@ Military liaison officers met with representatives of the United Nations peaceke
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/12/17/world/middleeast/israel-lebanon-border-shooting.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/12/17/world/ISRAEL/ISRAEL-videoSixteenByNine1050.jpg)
 
 ### Related:
 

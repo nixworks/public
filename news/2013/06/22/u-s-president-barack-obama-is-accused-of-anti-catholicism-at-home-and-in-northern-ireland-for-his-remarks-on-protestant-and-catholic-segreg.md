@@ -8,6 +8,7 @@ President Obama has been accused of anti-Catholic remarks during his recent visi
 ### Source:
 
 1. [Irish Central](http://www.irishcentral.com/news/President-Obama-accused-of-anti-Catholic-remarks-while-in-Northern-Ireland-212599751.html)
+1. [Cover Image](http://www.irishcentral.com/assets/IC-default-710x250.png)
 
 ### Related:
 

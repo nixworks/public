@@ -8,6 +8,7 @@ A powerful typhoon made landfall in southern Taiwan before dawn Friday, toppling
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/typhoon-batters-southern-taiwan-winds-rain-012101246.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

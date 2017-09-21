@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-15776662)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-11/17/c_131253165.htm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56437000/jpg/_56437478_56436412.jpg)
 
 ### Related:
 

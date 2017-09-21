@@ -8,6 +8,7 @@ Harrowing details of alleged sex abuse by Roman Catholic clergy in Belgium are r
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11260290)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

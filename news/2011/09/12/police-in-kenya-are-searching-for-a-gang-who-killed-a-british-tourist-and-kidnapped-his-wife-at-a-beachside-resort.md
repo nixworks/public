@@ -8,6 +8,7 @@ Police in Kenya launch a hunt for armed &quot;bandits&quot; who killed a British
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14876993)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55318000/jpg/_55318931_kiwayu.jpg)
 
 ### Related:
 

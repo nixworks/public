@@ -8,3 +8,4 @@ A US museum is trying to raise funds to restore five dresses worn by Vivien Leig
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10936537)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

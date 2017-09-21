@@ -9,6 +9,7 @@ The USS Ronald Reagan and the Japanese warship JS Izumo took part in the fleet r
 
 1. [Japan Times](http://www.japantimes.co.jp/news/2015/10/18/national/politics-diplomacy/japan-flexes-naval-muscle-u-s-signals-wider-engagement-western-pacific/#.ViS-nxNVikp)
 2. [USA Today](http://www.usatoday.com/story/news/world/2015/10/18/us-japanese-naval-forces-stage-show-strength-shinzo-abe/74174426/#cx_ab_test_id=16&cx_ab_test_variant=ctrl&cx_art_pos=1&cx_navSource=sechi-news)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Payrolls-plunge-stunning-533000-November/story.aspx?guid=%7B5446C124%2D6428%2D4C60%2D8CB9%2D30505CCA12AA%7D)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

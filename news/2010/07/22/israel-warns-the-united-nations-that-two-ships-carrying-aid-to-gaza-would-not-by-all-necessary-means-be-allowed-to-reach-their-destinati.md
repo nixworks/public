@@ -9,6 +9,7 @@ Israel warned the United Nations on Thursday that two ships preparing to sail fr
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hPNo1pqGbjHfHueffSIVCim9ZQCQD9H4BOEO0)
 2. [Reuters India](http://in.reuters.com/article/idINIndia-50336720100722)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100722&t=2&i=161167830&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-07-23T042453Z_01_NOOTR_RTRMDNC_0_India-503367-1)
 
 ### Related:
 

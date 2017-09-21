@@ -8,6 +8,7 @@ The chief executive of BHP Billiton, Marius Kloppers, is set to retire and will 
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/bhp-boss-kloppers-resigns-20130220-2eq88.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/e/q/h/n/image.related.articleLeadwide.620x349.2eq88.png/1361320784317.jpg)
 
 ### Related:
 

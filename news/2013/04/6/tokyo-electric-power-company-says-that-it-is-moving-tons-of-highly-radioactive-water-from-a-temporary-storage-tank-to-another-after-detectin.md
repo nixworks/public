@@ -8,6 +8,7 @@ About 120 tons of the water are believed to have breached a storage tank&#39;s i
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/06/japan-nuclear-radioactive-water/2058513/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

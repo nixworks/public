@@ -8,6 +8,7 @@ Decision ends five-year battle by archive holders hoping to sell trove of papers
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/kafka-documents-ordered-to-national-library-ending-five-year-battle/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/10/franz-kafka-en-1906.jpg)
 
 ### Related:
 

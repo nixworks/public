@@ -8,6 +8,7 @@ Some of the injured in critical condition; cause of incident being investigated
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/amtrak-derailment-in-kansas-5-cars-on-their-side/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/03/14/ec32c091-b6a8-4311-9d42-cf54e0e55ff8/amtrakkansasderailment031416.jpg)
 
 ### Related:
 

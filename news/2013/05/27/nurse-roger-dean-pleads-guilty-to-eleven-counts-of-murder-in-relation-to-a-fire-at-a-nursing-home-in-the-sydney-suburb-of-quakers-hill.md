@@ -8,6 +8,7 @@ He was the aged-care nurse entrusted to treat the elderly and infirm, but instea
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/nsw/roger-dean-pleads-guilty-to-murder-over-nursing-home-fire-20130527-2n6c7.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/n/6/1/m/image.related.articleLeadwide.620x349.2n6c7.png/1369633512993.jpg)
 
 ### Related:
 

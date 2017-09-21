@@ -8,6 +8,7 @@ Six French soldiers have been injured after a car slammed into them before speed
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/world/europe/paris-attack-french-soldiers-hit-by-vehicle-several-injured-levallois-perret-latest-update-a7883631.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/09/09/paris.jpg)
 
 ### Related:
 

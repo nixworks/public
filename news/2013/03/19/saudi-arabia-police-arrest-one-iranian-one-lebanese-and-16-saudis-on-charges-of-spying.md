@@ -8,6 +8,7 @@ Saudi Arabia arrests an Iranian, a Lebanese and 16 Saudis accused of being part 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21849907)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66492000/gif/_66492501_saudi_riyadhmecca_1903.gif)
 
 ### Related:
 

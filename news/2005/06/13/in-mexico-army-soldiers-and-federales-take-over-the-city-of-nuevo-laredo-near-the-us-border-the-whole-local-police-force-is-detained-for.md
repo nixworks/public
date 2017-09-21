@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4090270.stm)
 2. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/front/3224122)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N13518882.htm)
+3. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

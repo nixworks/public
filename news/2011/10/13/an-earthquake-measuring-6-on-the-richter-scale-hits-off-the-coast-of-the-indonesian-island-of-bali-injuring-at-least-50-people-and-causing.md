@@ -9,6 +9,7 @@
 
 1. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/world/large-earthquake-strikes-bali/story-e6frf7lf-1226165920074)
 2. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2011-10-13/bali-indonesia-earthquake/50749446/1?csp=34news)
+2. [Cover Image](http://i.usatoday.net/news/_photos/2011/10/13/Bali-rattled-by-quake-dozens-injured-ONFI91P-x.jpg)
 
 ### Related:
 

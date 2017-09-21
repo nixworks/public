@@ -8,6 +8,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/egypt-acquits-52-held-april-protests-president-39838977)
+1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 
@@ -20,4 +21,4 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 7. [Air-strikes by Saudi helicopter gunships on the Yemeni village of Bani Zela in Yemen's Red Sea border area with Saudi Arabia kill at least 25 people. ](/news/2015/09/27/air-strikes-by-saudi-helicopter-gunships-on-the-yemeni-village-of-bani-zela-in-yemen-s-red-sea-border-area-with-saudi-arabia-kill-at-least-2.md) _Context: Red Sea, Saudi Arabia_
 8. [ The M/V al-Salam Boccaccio 98, a ferry carrying 1272 passengers and 105 crew, sinks in poor weather in the Red Sea while travelling between Saudi Arabia and Egypt. 314 people have been rescued so far. [http://news.bbc.co.uk/2/hi/middle_east/4676916.stm (BBC)] (Wikinews)](/news/2006/02/3/the-m-v-al-salam-boccaccio-98-a-ferry-carrying-1272-passengers-and-105-crew-sinks-in-poor-weather-in-the-red-sea-while-travelling-between.md) _Context: Red Sea, Saudi Arabia_
 9. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
-10. [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md) _Context: Red Sea_
+10. [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md) _Context: Saudi Arabia_

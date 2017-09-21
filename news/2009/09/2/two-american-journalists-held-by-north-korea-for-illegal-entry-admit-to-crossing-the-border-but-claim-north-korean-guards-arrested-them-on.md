@@ -8,6 +8,7 @@ Two U.S. journalists held by North Korea for illegal entry admitted they crossed
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE5810J120090902)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090902&t=2&i=11443634&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-02T115055Z_01_BTRE5810WWY00_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

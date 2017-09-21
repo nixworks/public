@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/07/us-olympus-board-idUSTRE7B607Y20111207?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111207&t=2&i=543752179&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B60B1P00)
 
 ### Related:
 

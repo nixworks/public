@@ -10,6 +10,7 @@ At least nine people were killed and more than 90 wounded were taken to Kabul ho
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/dozens-killed-in-massive-blast-in-kabul-diplomatic-quarters-8898226)
 2. [Reuters via SBS](http://www.sbs.com.au/news/article/2017/05/31/massive-explosion-rocks-afghan-capital-0)
 3. [The Guardian](https://www.theguardian.com/world/2017/may/31/huge-explosion-kabul-presidential-palace-afghanistan)
+3. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/kabuld.jpg)
 
 ### Related:
 

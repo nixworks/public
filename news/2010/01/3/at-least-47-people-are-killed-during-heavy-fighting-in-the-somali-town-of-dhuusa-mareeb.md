@@ -9,6 +9,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8438645.stm)
 2. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=335338&version=1&template_id=39&parent_id=21)
+2. [Cover Image](http://www.gulf-times.com/images/Share.png)
 
 ### Related:
 

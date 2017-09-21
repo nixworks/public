@@ -8,6 +8,7 @@ Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on
 ### Source:
 
 1. [AP](http://www.spokesman.com/stories/2017/sep/11/militants-attack-convoy-in-egypts-sinai-kill-18-po/)
+1. [Cover Image](https://media.spokesman.com/img/logos/sr200-tower.png)
 
 ### Related:
 

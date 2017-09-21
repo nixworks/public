@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=domesticNews&storyID=2005-12-30T184707Z_01_EIC067605_RTRUKOC_0_US-WEATHER-ZETA.xml&archived=False)
 2. [US NHC](http://www.nhc.noaa.gov/archive/2005/pub/al302005.public.001.shtml?)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mining giant BHP Billiton Monday abandoned its 39 billion US dollar takeover bid
 ### Source:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bhp-billiton-abandons-potash-fertiliser-bid-20101115-17tyy.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

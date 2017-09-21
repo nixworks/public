@@ -9,6 +9,7 @@ Armed men in southwestern border area set fire to nearly 30 tankers carrying fue
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/20101092514858107.html)
 2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20101009/ts_nm/us_pakistan_nato_tankers)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/9/201010954213137734_20.jpg)
 
 ### Related:
 

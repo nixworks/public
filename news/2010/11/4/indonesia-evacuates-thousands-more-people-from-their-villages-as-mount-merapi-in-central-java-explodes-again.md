@@ -9,6 +9,7 @@ Thousands have been ordered to evacuate their villages around Mount Merapi as In
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/11/04/3057572.htm)
 2. [Jakarta Globe](http://www.thejakartaglobe.com/home/indonesia-volcano-erupts-again-75770-people-seek-shelter/404874)
+2. [Cover Image](http://www.abc.net.au/news/image/2315396-1x1-700x700.jpg)
 
 ### Related:
 

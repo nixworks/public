@@ -8,6 +8,7 @@ During another New Zealand show, the Mother Monster responds to a shot Madonna f
 ### Source:
 
 1. [MTV](http://www.mtv.com/news/articles/1687007/lady-gaga-concussion-concert-madonna.jhtml)
+1. [Cover Image](http://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:24452?quality=0.8&amp;format=jpg&amp;width=1440&amp;height=810&amp;.jpg)
 
 ### Related:
 

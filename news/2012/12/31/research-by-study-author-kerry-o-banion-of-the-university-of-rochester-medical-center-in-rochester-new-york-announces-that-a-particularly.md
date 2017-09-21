@@ -8,6 +8,7 @@ Space radiation exposure could accelerate Alzheimer&#039;s disease in the brains
 ### Source:
 
 1. [Space.com](http://www.space.com/19082-space-radiation-astronauts-alzheimers.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAxNi83NTUvb3JpZ2luYWwvY29zbWljLXJheS1pbGx1c3RyYXRpb24uanBn)
 
 ### Related:
 

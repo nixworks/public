@@ -8,6 +8,7 @@ Paul Wolfowitz resigned as president of the World Bank on Thursday, ending a pro
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/18665386/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/070517/070517_Wolfowitz_hmed_4p.standard.jpg)
 
 ### Related:
 

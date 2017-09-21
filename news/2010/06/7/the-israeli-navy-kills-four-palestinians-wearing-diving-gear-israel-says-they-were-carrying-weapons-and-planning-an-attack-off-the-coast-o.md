@@ -12,6 +12,7 @@ Senior IDF officer says investigation of incident off Gaza&#39;s coastline deter
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israel-navy-fires-on-armed-palestinians-off-gaza-coast-1.294642)
 4. [RTÉ](http://www.rte.ie/news/2010/0607/gazashootings.html)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3901708,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/parallels/2017/09/03/548296895/cambodia-daily-newspaper-to-close-after-24-years)
+1. [Cover Image](https://media.npr.org/assets/img/2017/09/03/gettyimages-842088086_wide-c2083957f57b93c87968bcaca61aacb6329d8528.jpg?s=1400)
 
 ### Related:
 

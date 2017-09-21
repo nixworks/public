@@ -13,6 +13,7 @@ Calls said to be made for anti-government rallies apparently inspired by events 
 4. [Bloomberg](http://www.bloomberg.com/news/2011-02-14/iran-cheers-egypt-tunisia-revolts-as-ahmadinejad-stifles-domestic-dissent.html)
 5. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=208182&R=R3)
 6. [Reuters](http://www.reuters.com/article/2011/02/14/iran-opposition-killed-idUSHAF47403720110214)
+6. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/12/201121220351385150_20.jpg)
 
 ### Related:
 

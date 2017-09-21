@@ -8,3 +8,4 @@ Although most marches led by supporters of deposed President Morsi passed peacef
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/20138308441552984.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2013/8/31//2013831040868734_20.jpg)

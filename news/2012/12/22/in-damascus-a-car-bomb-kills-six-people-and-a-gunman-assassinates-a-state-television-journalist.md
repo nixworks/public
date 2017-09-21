@@ -8,6 +8,7 @@ BEIRUT - A car bomb exploded in eastern Damascus on Saturday, an insurgent spoke
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/middleeast/la-fg-syria-violence-20121223,0,1958015.story)
+1. [Cover Image](http://www.trbimg.com/img-50d648c6/turbine/la-apphoto-aptopix-mideast-syria.jpg-20121222/600)
 
 ### Related:
 

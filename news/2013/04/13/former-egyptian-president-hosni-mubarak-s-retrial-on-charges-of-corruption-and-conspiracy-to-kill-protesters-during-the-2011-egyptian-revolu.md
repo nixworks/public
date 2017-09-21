@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201341382547572934.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/apr/13/hosni-mubarak-retrial-egypt)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/13/2013413184547929734_20.jpg)
 
 ### Related:
 

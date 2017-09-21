@@ -8,6 +8,7 @@ Mark Buehrle pitched the first perfect game in the major leagues in five years, 
 ### Source:
 
 1. [ESPN.com](http://espn.go.com/mlb/recap?gameId=290723104)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

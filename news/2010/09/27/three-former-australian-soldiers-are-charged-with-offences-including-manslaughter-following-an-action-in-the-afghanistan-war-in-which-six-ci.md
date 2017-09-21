@@ -9,6 +9,7 @@ Taliban militants are holding the British woman kidnapped in Afghanistan and wan
 
 1. [Courier Mail](http://www.couriermail.com.au/news/national/three-former-soldiers-charged-over-afghan-civilian-deaths/story-e6freooo-1225929947663)
 2. [The Telegraph](http://www.telegraph.co.uk/news/8027030/Taliban-demand-prisoner-swap-for-kidnapped-British-aid-worker.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01705/taliban_1705997a.jpg)
 
 ### Related:
 

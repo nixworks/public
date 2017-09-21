@@ -8,6 +8,7 @@ At least 26 people have been killed in bombings in two major cities in northern 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30580578)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78663000/png/_78663896_nigeria_gombe_464_31102014.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/02/09/Maryland-Senate-side-steps-governors-veto-on-bill-that-grants-voting-rights-to-felons/4131455059475/?spt=hs&or=tn_us)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4131455059475/2016/1/c61d799ffd7b60c46dd3dc910f81e5cf/v1.5/Maryland-Senate-side-steps-governors-veto-on-bill-that-grants-voting-rights-to-felons.jpg)
 
 ### Related:
 

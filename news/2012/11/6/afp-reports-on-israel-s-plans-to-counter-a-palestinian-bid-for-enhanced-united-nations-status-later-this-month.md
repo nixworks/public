@@ -8,6 +8,7 @@ Foreign Minister Avigdor Lieberman warns that Israel will respond harshly if Pal
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012116172352831476.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/26/2011122642620527734_20.jpg)
 
 ### Related:
 

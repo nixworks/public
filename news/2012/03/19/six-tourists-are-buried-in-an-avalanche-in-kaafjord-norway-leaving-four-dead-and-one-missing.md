@@ -8,6 +8,7 @@ Five foreign tourists die and one is in hospital after an avalanche hits a group
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/17436287)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59178000/jpg/_59178218_014303471-1.jpg)
 
 ### Related:
 

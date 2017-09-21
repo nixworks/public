@@ -9,6 +9,7 @@ Though her voice did not sound as strong as in rehearsals, the former winner loo
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10178679.stm)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0528/1224271300475.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

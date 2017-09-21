@@ -8,6 +8,7 @@ A former armed robber&#039;s portrait of the barrister who inspired the ABC TV s
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-07-17/archibald-winner/6627264)
+1. [Cover Image](http://www.abc.net.au/news/image/6627784-1x1-700x700.jpg)
 
 ### Related:
 

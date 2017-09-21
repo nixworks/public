@@ -8,6 +8,7 @@ Although no fresh violence was reported on Wednesday, more than 10,000 people ha
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Muzaffarnagar-violence-Over-10000-displaced-10000-arrested/articleshow/22499187.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/22456489.cms)
 
 ### Related:
 

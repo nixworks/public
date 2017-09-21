@@ -8,6 +8,7 @@ A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker publ
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-35849140)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1428E/production/_88847528_1a3c460b-b7c0-43b5-a19f-d6b5c82fcfee.jpg)
 
 ### Related:
 

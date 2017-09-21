@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rolling Stone](http://www.rollingstone.com/music/news/r-e-m-issue-cease-and-desist-to-fox-news-20120907)
+1. [Cover Image](http://img.wennermedia.com/social/rs-6984-20120907-stipe-624x420-1347037564.jpg)
 
 ### Related:
 

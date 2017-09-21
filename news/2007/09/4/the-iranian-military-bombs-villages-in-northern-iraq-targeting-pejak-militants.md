@@ -8,6 +8,7 @@ Hoshyar Zebari said the bombardment has driven as many as 3,000 Kurdish villager
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/04/world/middleeast/04shelling.html?_r=1&oref=login)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

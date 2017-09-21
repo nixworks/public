@@ -8,6 +8,7 @@ Federal officials say Love Canal section of Niagara Falls, NY, is clean enough t
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/03/18/nyregion/18LOVE.html?ex=1080190800&en=851eb845fc5a4ab3&ei=5062&partner=GOOGLE)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

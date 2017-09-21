@@ -8,6 +8,7 @@ UN chief Ban Ki-moon said Saturday he was &quot;appalled by the chilling militar
 ### Source:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/britain-france-us-seek-urgent-security-council-meeting-234548557.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/EV_vmbzFCSOZq_H9M7ACLw--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9ef3bce2bbf37def7b31c8e910adc28f10cb3d9e.jpg)
 
 ### Related:
 

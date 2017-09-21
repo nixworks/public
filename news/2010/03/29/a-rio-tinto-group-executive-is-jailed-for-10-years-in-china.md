@@ -8,6 +8,7 @@ A Chinese-Australian executive of Rio Tinto has been sentenced to ten years in p
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0329/riotinto.html)
+1. [Cover Image](https://img.rasset.ie/000324db-1600.jpg)
 
 ### Related:
 

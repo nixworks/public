@@ -8,6 +8,7 @@ The bill gives politicians the power to appoint judges without consulting judici
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40622896)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p058vfvf.jpg)
 
 ### Related:
 

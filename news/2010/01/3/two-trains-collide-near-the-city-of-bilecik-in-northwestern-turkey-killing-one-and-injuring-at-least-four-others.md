@@ -9,6 +9,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/03/turkey.train.crash/)
 2. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=two-trains-collide-in-northwestern-turkey-one-person-killed-2010-01-03)
+2. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Former Pakistani prime minister Nawaz Sharif has left his plane in the capital I
 3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601091&sid=aeAg8fNVQo4U&refer=india)
 4. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/09/09/pakistan.sharif/index.html?eref=rss_topstories)
 5. [Channel 4 News](http://www.channel4.com/news/articles/politics/international_politics/sharif+sent+back+to+jeddah/784647)
+5. [Cover Image](http://www.abc.net.au/news/image/489084-1x1-700x700.jpg)
 
 ### Related:
 

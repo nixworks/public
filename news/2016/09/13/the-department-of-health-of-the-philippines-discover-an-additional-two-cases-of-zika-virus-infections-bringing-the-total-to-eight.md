@@ -8,6 +8,7 @@ The Health Ministry on Tuesday (Sept 13) reported two more cases of locally tran
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/asia/se-asia/philippines-reports-2-new-zika-cases-brings-total-to-8)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/09/13/39748881_-_05_09_2016_-_philippines_zika_virus.jpg?itok=k8kf58qR)
 
 ### Related:
 

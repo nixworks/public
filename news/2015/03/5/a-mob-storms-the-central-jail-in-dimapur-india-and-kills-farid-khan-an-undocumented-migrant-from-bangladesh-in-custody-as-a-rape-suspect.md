@@ -8,6 +8,7 @@ A rape accused was lynched by a mob in Dimapur; one person died in police firing
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/other-states/centre-concerned-as-tensions-run-high-in-nagaland/article6966122.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article10513901.ece/ALTERNATES/LANDSCAPE_615/nagaland)
 
 ### Related:
 

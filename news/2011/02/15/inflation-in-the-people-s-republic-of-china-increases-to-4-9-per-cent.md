@@ -9,6 +9,7 @@ Chinese consumer price inflation quickened to 4.9% in the year to January, the N
 
 1. [People's Daily](http://english.peopledaily.com.cn/90001/90778/90862/7288115.html)
 2. [Reuters via ''The Melbourne Age](http://www.theage.com.au/business/china-inflation-quickens-as-economy-heats-up-20110215-1auhy.html?skin=text-only)
+2. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

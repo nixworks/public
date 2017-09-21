@@ -8,6 +8,7 @@ American businesses could flood Cuba with their products under new White House r
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/01/16/cuba-us-exports-small-private-businesses/21819967/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

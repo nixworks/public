@@ -8,6 +8,7 @@ Gunmen ambushed a bus and killed 15 passengers in the Iraqi desert on Wednesday,
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/05/us-iraq-violence-idUSBRE9540S720130605)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

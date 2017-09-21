@@ -12,6 +12,7 @@ Deaths reported after overnight military operation in West Bank town of Hebron.
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-kills-two-hamas-militants-in-hebron-shootout-1.317867)
 4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=190682)
 5. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=190684)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/8/201010894548742734_20.jpg)
 
 ### Related:
 

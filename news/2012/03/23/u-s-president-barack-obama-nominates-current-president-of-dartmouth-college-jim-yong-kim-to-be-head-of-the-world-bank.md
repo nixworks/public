@@ -8,6 +8,7 @@ President Obama on Friday nominated Dartmouth College President Jim Yong Kim, a 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/money/la-fi-mo-world-bank-20120323,0,332337.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

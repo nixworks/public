@@ -11,6 +11,7 @@ A bomb exploded outside a court building in central Athens and a smaller device 
 2. [France24](http://www.youtube.com/watch?v=6weiP7_3zRU)
 3. [The New York Times'' via ''Indian Express](http://www.indianexpress.com/news/Another-Greek-tragedy--Blast-damages-Athens-court-building/731385)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/30/c_13670845.htm)
+4. [Cover Image](https://i.ytimg.com/vi/6weiP7_3zRU/hqdefault.jpg)
 
 ### Related:
 

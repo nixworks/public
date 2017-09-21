@@ -8,6 +8,7 @@ Lawyer&#x20;and&#x20;sometime-novelist&#x20;Dario&#x20;Franceschini&#x20;was&#x2
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20090221-italys-left-gets-new-leader-)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/story/italie-franceschini-m.jpg)
 
 ### Related:
 

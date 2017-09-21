@@ -10,6 +10,7 @@ Somali pirates freed a German ship seized in April on Monday after receiving a r
 1. [People's Daily](http://english.people.com.cn/90001/90777/90855/6717305.html)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5721A220090803)
 3. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_411814.html)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090803&t=2&i=11103766&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-03T190710Z_01_BTRE5721FAY00_RTROPTP_0_SOMALIA)
 
 ### Related:
 

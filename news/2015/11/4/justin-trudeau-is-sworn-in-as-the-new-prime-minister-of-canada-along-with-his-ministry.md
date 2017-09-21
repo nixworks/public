@@ -9,6 +9,7 @@ Ethnically diverse ministers include 15 men and 15 women as new prime minister h
 
 1. [The Guardian](http://www.theguardian.com/world/2015/nov/04/canada-cabinet-gender-diversity-justin-trudeau)
 2. [Toronto Star](http://www.thestar.com/news/canada/2015/11/04/watch-live-justin-trudeau-and-new-government-sworn-in-today.html)
+2. [Cover Image](https://i.guim.co.uk/img/media/6e163ecbb58e7d89cc725c6c457693a3b467f9e3/273_535_3093_1856/master/3093.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=673ea3cf3831e98ba51281d00809e804)
 
 ### Related:
 

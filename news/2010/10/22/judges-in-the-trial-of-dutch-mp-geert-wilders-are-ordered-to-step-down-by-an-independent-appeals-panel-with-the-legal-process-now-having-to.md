@@ -10,6 +10,7 @@ Judges in the hate speech trial of Dutch anti-Islam MP Geert Wilders are ordered
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/new-judges-for-dutch-mp-hate-speech-trial-20101023-16y5x.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11609589)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/oct/22/geert-wilders-trial-collapses)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

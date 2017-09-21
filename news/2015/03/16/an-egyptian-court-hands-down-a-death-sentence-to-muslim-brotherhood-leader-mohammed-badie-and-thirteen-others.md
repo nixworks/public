@@ -8,6 +8,7 @@ An Egyptian court hands down death sentences to Muslim Brotherhood leader Mohamm
 ### Source:
 
 1. [BBC](http://m.bbc.com/news/world-middle-east-31914964)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69395000/jpg/_69395185_019015350.jpg)
 
 ### Related:
 

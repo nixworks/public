@@ -9,6 +9,7 @@ President Obama on Monday will kick off a two-day summit with 10 Southeast Asian
 
 1. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-asean-summit-qa-20160215-story.html)
 2. [White House](https://www.whitehouse.gov/the-press-office/2016/02/15/remarks-president-obama-opening-session-us-asean-summit)
+2. [Cover Image](http://www.trbimg.com/img-56c13c8b/turbine/la-fg-asean-summit-qa-20160215)
 
 ### Related:
 

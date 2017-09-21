@@ -9,6 +9,7 @@ Mumbai: The authorities on Sunday launched efforts on a war footing to combat an
 
 1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/08/08/india.oil.spill/)
 2. [Sify](http://sify.com/news/Efforts-on-to-check-worst-oil-spill-off-news--kiiwkdihaeg.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

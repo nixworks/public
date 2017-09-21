@@ -9,6 +9,7 @@ Four policemen have been killed in a drive-by shooting at a security checkpoint 
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/11/29/islamic-state-affiliate-claims-killing-4-egyptian-police-on-cairo-outskirts/)
 2. [BBC](http://www.bbc.com/news/world-middle-east-34952937?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/27B2/production/_86926101_egyptsaqqara4641115.png)
 
 ### Related:
 

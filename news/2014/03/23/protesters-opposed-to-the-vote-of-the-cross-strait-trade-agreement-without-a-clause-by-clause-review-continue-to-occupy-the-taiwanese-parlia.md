@@ -8,6 +8,7 @@
 ### Source:
 
 1. [FocusTaiwan](http://focustaiwan.tw/news/aipl/201403230018.aspx)
+1. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20140323/201403230018t0001.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [ A vote in the Legislative Yuan to recall Taiwanese President Chen Shui-bian, who is implicated in numerous corruption scandals, fails to gain the necessary two-thirds majority. ](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.md) _Context: legislative chamber_
 8. [ A motion to vote on a bill opening the Three Links between mainland China and Taiwan is defeated for the third time in the Legislative Yuan of the Republic of China when a Democratic Progressive Party lawmaker tries to eat the written cloture motion. The opposition Pan-Blue Coalition controls the legislature and would have likely passed the bill. ](/news/2006/05/30/a-motion-to-vote-on-a-bill-opening-the-three-links-between-mainland-china-and-taiwan-is-defeated-for-the-third-time-in-the-legislative-yuan.md) _Context: legislative chamber_
 9. [ The National Assembly of the Republic of China approves a package of amendments to the Constitution of the Republic of China to halve the number of seats in the Legislative Yuan and abolish itself.](/news/2005/06/7/the-national-assembly-of-the-republic-of-china-approves-a-package-of-amendments-to-the-constitution-of-the-republic-of-china-to-halve-the-n.md) _Context: legislative chamber_
-10. [ RoC Premier Yu Shyi-kun is prevented for six hours from delivering a key government report on the floor of the Legislative Yuan when opposition lawmakers, refusing to recognize President Chen Shui-bian's narrow re-election on March 20, tore up his report and unfurled banners and placards with the words "no truth, no president" and "bogus regime". ](/news/2004/06/1/roc-premier-yu-shyi-kun-is-prevented-for-six-hours-from-delivering-a-key-government-report-on-the-floor-of-the-legislative-yuan-when-opposi.md) _Context: legislative chamber_
+10. [ Politics of Taiwan: The Legislative Yuan proposes a package of amendments by 217-1 that includes halving the number of legislators and abolishing the National Assembly. ](/news/2004/08/23/politics-of-taiwan-the-legislative-yuan-proposes-a-package-of-amendments-by-217a1-that-includes-halving-the-number-of-legislators-and-ab.md) _Context: legislative chamber_

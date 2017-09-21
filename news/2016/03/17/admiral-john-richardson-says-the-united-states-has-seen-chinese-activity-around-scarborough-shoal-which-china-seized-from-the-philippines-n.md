@@ -8,6 +8,7 @@ The United States has seen Chinese activity around a reef China seized from the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southchinasea-china-scarborough-exclu-idUSKCN0WK01B)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

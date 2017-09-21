@@ -8,6 +8,7 @@ Thousands of protesters have staged rallies across the country condemning Austra
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/environment/water-issues/thousands-rally-nationally-against-csg-20111016-1lr9a.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

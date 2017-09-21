@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000103&sid=ataQUGAsc0eU&refer=us)
 2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=14455&Cr=oil&Cr1=food)
+2. [Cover Image](/News/dh/photos/large/)
 
 ### Related:
 

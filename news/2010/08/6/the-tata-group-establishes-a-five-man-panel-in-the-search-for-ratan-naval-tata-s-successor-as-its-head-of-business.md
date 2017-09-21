@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10892185)
 2. [NDTV](http://profit.ndtv.com/news/show/tatas-announce-5-member-panel-to-look-for-new-chief-87721)
 3. [The Asian Age](http://www.asianage.com/business/tata-chairman-successor-be-chosen-march-394)
+3. [Cover Image](http://news.bbcimg.co.uk/media/images/48633000/jpg/_48633592_ratabntataap304ind.jpg)
 
 ### Related:
 

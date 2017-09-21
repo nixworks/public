@@ -10,6 +10,7 @@ The U.S. Department of Defense will seek to make &quot;condolence payments&quot;
 1. [AFP via ABC News](http://www.abc.net.au/news/2015-10-09/33-still-missing-after-kunduz-air-strike/6841734)
 2. [NBC News](http://www.nbcnews.com/news/military/defense-dept-make-payments-after-strike-doctors-without-borders-hospital-n442296)
 3. [Reuters](http://www.reuters.com/article/2015/10/10/us-afghanistan-attack-msf-payments-idUSKCN0S40Y720151010)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151010&t=2&i=1086065618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB990FK)
 
 ### Related:
 

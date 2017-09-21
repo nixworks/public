@@ -8,6 +8,7 @@ A report showing that sales of existing homes rose 3.6 percent in June and a flu
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/07/24/business/24markets.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/07/23/business/markets75.jpg)
 
 ### Related:
 

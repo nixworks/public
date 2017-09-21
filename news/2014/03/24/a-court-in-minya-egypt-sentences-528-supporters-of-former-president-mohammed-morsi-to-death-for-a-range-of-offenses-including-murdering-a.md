@@ -9,6 +9,7 @@ A court in Egypt sentences to death 528 supporters of ousted President Mohammed 
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-26712124)
 2. [The Independent](http://www.independent.co.uk/news/world/africa/egypt-sentences-528-supporters-of-the-ousted-islamist-president-mohammed-morsi-to-death-9211871.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/73766000/jpg/_73766631_73766630.jpg)
 
 ### Related:
 

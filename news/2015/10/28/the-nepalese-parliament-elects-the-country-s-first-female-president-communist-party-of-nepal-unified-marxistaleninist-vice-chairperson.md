@@ -8,6 +8,7 @@ Bidhya Devi Bhandari is deputy leader of the ruling Communist party and campaign
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/oct/28/nepalese-parliament-first-female-president-bidhya-devi-bhandari)
+1. [Cover Image](https://i.guim.co.uk/img/media/56568d4de7676d63170b0e000411811daac2426c/0_38_2992_1796/master/2992.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d1e85f927c9e3422b05c64b5f8d018db)
 
 ### Related:
 

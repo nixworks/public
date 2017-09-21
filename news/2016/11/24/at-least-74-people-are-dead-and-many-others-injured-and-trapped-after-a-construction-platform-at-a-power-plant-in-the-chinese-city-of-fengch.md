@@ -10,6 +10,7 @@ At least 67 people die in an accident at a power station under construction in J
 1. [BBC](http://www.bbc.com/news/world-asia-china-38088037)
 2. [CCTV](http://english.cctv.com/2016/11/25/VIDEPPOkMxbNBfhD8PTErpkw161125.shtml)
 3. [ITV](http://www.itv.com/news/2016-11-24/china-construction-site-collapse/)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/17843/production/_92632369_hi036553511.jpg)
 
 ### Related:
 

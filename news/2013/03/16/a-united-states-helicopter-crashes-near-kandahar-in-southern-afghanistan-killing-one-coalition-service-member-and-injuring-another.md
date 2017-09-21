@@ -8,6 +8,7 @@ Nato officials say a helicopter has crashed in southern Afghanistan, killing one
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/US-helicopter-crashes-in-Afghanistan-20130316)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2180/16ce3b68cca74daf903273ba6e38e76a.jpg)
 
 ### Related:
 

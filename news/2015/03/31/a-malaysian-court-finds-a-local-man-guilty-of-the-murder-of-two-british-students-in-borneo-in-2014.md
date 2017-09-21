@@ -8,6 +8,7 @@ A Malaysian court finds a local man guilty of murdering two British medical stud
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-32126549?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82021000/jpg/_82021288_neilaidan_edited-1.jpg)
 
 ### Related:
 

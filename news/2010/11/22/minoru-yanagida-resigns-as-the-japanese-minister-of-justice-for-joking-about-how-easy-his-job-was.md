@@ -9,3 +9,4 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11808242)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/justice-minister-to-step-down-over-gaffe)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

@@ -8,3 +8,4 @@ CASUALTIES in the wake of Yolanda (international name: Haiyan) rose to 5,786 on 
 ### Source:
 
 1. [BW](http://www.bworldonline.com/content.php?section=Nation&title=Death-toll-of-Yolanda-nears-5,800&id=80433)
+1. [Cover Image](http://www.bworldonline.com/images/fb_sections/Nation.jpg)

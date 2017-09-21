@@ -9,6 +9,7 @@
 
 1. [Belgian Federal Agency for Nuclear Control](http://www.fanc.fgov.be/GED/00000000/3200/3272.pdf)
 2. [HLN, in Dutch](http://www.hln.be/hln/nl/6756/Kernenergie/article/detail/1486947/2012/08/16/Doel-3-zal-eind-september-nog-niet-opgestart-worden.dhtml)
+2. [Cover Image](http://static1.hln.be/static/photo/2012/2/15/2/20120816180450/media_xll_5092382.jpg)
 
 ### Related:
 

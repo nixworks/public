@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''ABC News](http://abcnews.go.com/International/wireStory/montenegro-vote-membership-nato-47076849)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_3ada0fc0c5af4ff6b18cc252bef31a15_16x9_992.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/2016-election/secret-service-rushes-stage-protect-donald-trump-ohio-rally-n537181)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_10/1455611/trump-secret-ej-031216_fb91ad3f0092354aa1da2d004c2fc345.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

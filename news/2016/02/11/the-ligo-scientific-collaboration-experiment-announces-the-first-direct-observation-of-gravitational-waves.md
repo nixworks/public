@@ -11,6 +11,7 @@
 2. [Guardian](https://www.theguardian.com/science/across-the-universe/live/2016/feb/11/gravitational-wave-announcement-latest-physics-einstein-ligo-black-holes-live)
 3. [Nature](http://www.nature.com/news/einstein-s-gravitational-waves-found-at-last-1.19361)
 4. [New York Times](http://www.nytimes.com/2016/02/12/science/ligo-gravitational-waves-black-holes-einstein.html)
+4. [Cover Image](https://i.guim.co.uk/img/media/aca120d8ff670c0d2d23538c7a5d3275b62cb8f1/0_60_1259_755/master/1259.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=514b153d2355b5d9bd1e8dacfd18d4b9)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=63455)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L27691734.htm)
+2. [Cover Image](http://imagenes22.eitb.org/multimedia/recursos/generales/img_facebook_eitbcom.jpg)
 
 ### Related:
 

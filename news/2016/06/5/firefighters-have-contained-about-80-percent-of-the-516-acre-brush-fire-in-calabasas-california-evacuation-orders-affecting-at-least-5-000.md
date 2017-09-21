@@ -9,6 +9,7 @@ Calabasas is a city of about 24,000 northwest of downtown Los Angeles. The city 
 
 1. [CNN](http://www.cnn.com/2016/06/05/us/calabasas-fire/)
 2. [NBC News](http://www.nbcnews.com/news/weather/500-acre-calabasas-fire-forces-thousands-californians-homes-n586066)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_22/1565751/160605-calabasas-fire-ef-1156_80e41e8aa136b3cca8a373876ad4dfa2.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

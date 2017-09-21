@@ -8,6 +8,7 @@ King Mohammed VI proposes constitutional changes that will whittle down his powe
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011617172114510513.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/9/201139211124935954_20.jpg)
 
 ### Related:
 

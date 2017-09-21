@@ -9,6 +9,7 @@ Government hastily grants citizenship to Lithuanian, Georgian and American to en
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/ukraine-government-rebels-agree-cease-fire-27297823)
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2014/12/ukraine-appoints-three-non-native-ministers-20141221954454451.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/images/2014/12/2//201412219840740734_20.jpg)
 
 ### Related:
 

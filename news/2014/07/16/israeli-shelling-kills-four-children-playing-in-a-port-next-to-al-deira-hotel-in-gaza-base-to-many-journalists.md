@@ -8,6 +8,7 @@ There is a deafening explosion, then a second. Four children are dead. Four surv
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/jul/16/witness-gaza-shelling-first-hand-account)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2014/7/16/1405536496857/Relative-mourns-death-of--016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=697a139fc2ab96a21932ae24af81aad7)
 
 ### Related:
 

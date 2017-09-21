@@ -8,6 +8,7 @@ Venezuela’s Supreme Tribunal of Justice banned prosecutor general Luisa Ortega
 ### Source:
 
 1. [Sputnik](https://sputniknews.com/latam/201706291055065824-venezuela-bans-chief-prosecutor/)
+1. [Cover Image](https://cdn4.img.sputniknews.com/images/102268/45/1022684505.jpg)
 
 ### Related:
 

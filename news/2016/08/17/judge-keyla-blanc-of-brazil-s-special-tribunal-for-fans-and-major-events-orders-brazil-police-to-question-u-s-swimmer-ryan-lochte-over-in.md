@@ -9,6 +9,7 @@ Brazilian police stopped two U.S. Olympic swimmers from boarding a flight home o
 
 1. [Daily Telegraph](http://www.dailytelegraph.com.au/sport/olympics-2016/brazilian-judge-orders-seizing-of-ryan-lochtes-passport-and-casts-doubt-over-claims-of-robbery-in-rio/news-story/5d051b01a84a39fe813dda39667a1d66)
 2. [Reuters](http://www.reuters.com/article/us-olympics-rio-lochte-order-idUSKCN10S1GK)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160818&t=2&i=1150198580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7H121)
 
 ### Related:
 

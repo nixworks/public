@@ -8,6 +8,7 @@ Greece rules against extraditing eight soldiers that Turkey accuses of involveme
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-38754821)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/AFD5/production/_93831054_turkeysoldiers.jpg)
 
 ### Related:
 

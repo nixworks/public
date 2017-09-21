@@ -9,6 +9,7 @@ Dzhokhar Tsarnaev was convicted in the Boston Marathon bombings.. A second trial
 
 1. [CNN](http://edition.cnn.com/2015/04/08/us/boston-marathon-bombing-trial/)
 2. [NBC News](http://www.nbcnews.com/storyline/boston-bombing-trial/boston-bombing-trial-jury-reaches-verdict-trial-dzhokhar-tsarnaev-n337946)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_15/968251/150408-tsarnaev-clarke-verdict-3p_af06002880918235f9fc57cbf817c18f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

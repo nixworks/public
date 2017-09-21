@@ -10,6 +10,7 @@ Get local Bay Area news plus Bay Area breaking news, business, green, national, 
 1. [ (Forbes](http://www.forbes.com/business/commerce/feeds/ap/2006/07/20/ap2893510.html)
 2. [ESPN.com](http://sports.espn.go.com/mlb/news/story?id=2524417)
 3. [NBC](http://www.nbc11.com/news/9550344/detail.html?rss=bay&psp=sports)
+3. [Cover Image](http://media.nbcbayarea.com/designimages/nbcbay_station_logo.jpg?ak=bc)
 
 ### Related:
 

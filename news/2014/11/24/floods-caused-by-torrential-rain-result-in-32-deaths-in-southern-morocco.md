@@ -8,6 +8,7 @@ Floods triggered by torrential rain have killed at least 32 people in southern M
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/11/24/deadly-floods-in-southern-morocco/)
+1. [Cover Image](http://static.euronews.com/articles/289738/1000x563_289738.jpg)
 
 ### Related:
 

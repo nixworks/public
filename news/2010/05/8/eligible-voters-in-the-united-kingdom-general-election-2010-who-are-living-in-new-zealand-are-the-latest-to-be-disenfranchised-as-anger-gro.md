@@ -9,6 +9,7 @@
 
 1. [Businessweek](http://www.businessweek.com/news/2010-05-08/u-k-pound-drops-after-conservatives-fall-short-of-majority.html)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10643772)
+2. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

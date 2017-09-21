@@ -10,6 +10,7 @@
 1. [AP](http://bigstory.ap.org/article/anti-war-protester-shouts-obama-during-speech)
 2. [Business Insider](http://www.businessinsider.com/obama-heckled-guantanamo-bay-heckler-protester-2013-5#ixzz2U91P9HsM)
 3. [The Hill](http://thehill.com/blogs/defcon-hill/army/301653-protestor-interrupts-obama-drone-speech)
+3. [Cover Image](http://static3.businessinsider.com/image/519e6666ecad04424600000d-1190-625/heres-the-protester-who-heckled-obama-in-the-middle-of-his-big-speech-on-terrorism-video.jpg)
 
 ### Related:
 

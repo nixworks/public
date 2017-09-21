@@ -8,6 +8,7 @@ German MPs recognise the mass killing of Armenians by Ottoman Turks in 1915 as &
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36433114)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/139C6/production/_89862308_armgencarnafp24apr16.jpg)
 
 ### Related:
 

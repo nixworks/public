@@ -8,6 +8,7 @@ Philippine security forces killed as many as 42 Muslim rebels claiming links wit
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-philippines-militants-idUSKCN0VZ0J3)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

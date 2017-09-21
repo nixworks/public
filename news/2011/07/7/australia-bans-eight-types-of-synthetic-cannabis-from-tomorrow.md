@@ -8,6 +8,7 @@ EIGHT synthetic cannabis-like substances will be banned throughout Australia fro
 ### Source:
 
 1. [News Limited](http://www.news.com.au/breaking-news/national/eight-types-of-synthetic-cannabis-set-for-national-ban-from-tomorrow/story-e6frfku9-1226089600077)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

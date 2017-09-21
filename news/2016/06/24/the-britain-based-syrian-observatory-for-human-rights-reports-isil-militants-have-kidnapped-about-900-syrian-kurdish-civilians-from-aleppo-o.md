@@ -9,6 +9,7 @@ Islamic State (ISIS) militants abducted about 900 Kurdish civilians in the north
 
 1. [AP via ''The National](http://www.thenational.ae/world/middle-east/isil-abduct-900-kurdish-civilians-in-retaliation-for-attack-on-manbij)
 2. [Fox News](http://www.foxnews.com/world/2016/06/24/isis-captures-900-kurds-in-northern-syria-over-3-weeks.html)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/06/21/0/0/694940094001_4967650723001_02233914-564e-403d-bad6-7685b35872ff.jpg?ve=1)
 
 ### Related:
 

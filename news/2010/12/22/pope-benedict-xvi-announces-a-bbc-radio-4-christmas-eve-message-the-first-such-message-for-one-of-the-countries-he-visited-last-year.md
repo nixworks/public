@@ -8,6 +8,7 @@ Pope Benedict XVI will deliver the Thought For The Day on BBC Radio 4 on Christm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12063684)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

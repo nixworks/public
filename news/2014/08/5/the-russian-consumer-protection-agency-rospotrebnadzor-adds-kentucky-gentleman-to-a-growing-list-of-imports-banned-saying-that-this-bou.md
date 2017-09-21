@@ -8,6 +8,7 @@ Let them drink vodka.
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/europe/la-fg-russia-expands-list-of-banned-us-imports-20140804-story.html)
+1. [Cover Image](http://www.trbimg.com/img-53dfd62c/turbine/la-fg-russia-expands-list-of-banned-us-imports-20140804)
 
 ### Related:
 

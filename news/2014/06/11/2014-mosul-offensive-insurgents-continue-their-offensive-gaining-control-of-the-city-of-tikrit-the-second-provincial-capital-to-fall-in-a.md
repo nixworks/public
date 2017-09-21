@@ -8,6 +8,7 @@ Gunmen from the Islamic State of Iraq take city and launch attacks on Kirkuk and
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/06/iraqi-city-tikrit-falls-isil-fighters-2014611135333576799.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/6/11//2014611144217421734_20.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Ms. Funicello won America’s heart on television in “The Mickey Mouse Club”
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/09/movies/annette-funicello-mouseketeer-dies-at-70.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/09/arts/09funicello1_cnd/09funicello1_cnd-videoLarge.jpg)

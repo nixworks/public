@@ -11,6 +11,7 @@ Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first
 2. [ABC](http://www.abc.net.au/news/stories/2010/11/07/3059390.htm?section=justin)
 3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101170373336867.html)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11704738)
+4. [Cover Image](http://www.abc.net.au/news/image/2321102-1x1-700x700.jpg)
 
 ### Related:
 

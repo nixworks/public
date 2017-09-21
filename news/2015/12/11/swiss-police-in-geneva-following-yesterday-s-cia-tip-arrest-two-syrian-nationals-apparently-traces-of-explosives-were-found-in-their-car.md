@@ -8,6 +8,7 @@ Explosive traces are discovered in a car in Geneva, say media reports, as the ci
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1604195/two-arrests-after-is-cell-tip-off-in-geneva)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/gettyimages-500822204-1_3499063.jpg?20160704101219)
 
 ### Related:
 

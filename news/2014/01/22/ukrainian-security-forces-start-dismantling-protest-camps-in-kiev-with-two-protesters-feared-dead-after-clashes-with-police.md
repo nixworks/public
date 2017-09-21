@@ -9,6 +9,7 @@ Ukrainian opposition leaders emerged from crisis talks with President Viktor Yan
 
 1. [AP via Montreal Gazette](http://www.montrealgazette.com/news/Police+move+protest+camp+Ukraine+capital+demolish/9414653/story.html)
 2. [Reuters](http://www.reuters.com/article/2014/01/22/us-ukraine-idUSBREA0L0B520140122?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140122&t=2&i=831773148&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0L1TFI00)
 
 ### Related:
 

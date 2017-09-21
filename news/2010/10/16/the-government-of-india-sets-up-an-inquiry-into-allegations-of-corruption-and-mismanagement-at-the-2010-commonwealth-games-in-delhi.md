@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/commonwealth%20games/cwg-corruption-over-20-officers-under-scanner-endgame-for-kalmadi-co-60138)
+1. [Cover Image](http://i.ndtvimg.com/mt/2010-10/CWG-scam-295x200_kfg.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Tens of thousands of people attend a Mass by Pope Francis, as the pontiff hits o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-29300209)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77727000/jpg/_77727441_77727439.jpg)
 
 ### Related:
 

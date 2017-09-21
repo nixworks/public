@@ -8,6 +8,7 @@ Israeli Prime Minister Benjamin Netanyahu is on the defensive after facing accus
 ### Source:
 
 1. [JTA](http://www.jta.org/news/article/2012/09/24/3107861/whos-creating-daylight-now-jewish-dems-ask-netanyahu)
+1. [Cover Image](http://www.jta.org/wp-content/uploads/2013/05/Netanyahu911.jpg)
 
 ### Related:
 

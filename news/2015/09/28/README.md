@@ -25,7 +25,7 @@ _Context: 2015 Pacific typhoon season, Typhoon Dujuan, the Republic of China_
 _Context: Democratic Front, Milo Dukanovic, Montenegro, Podgorica_
 
 ### [Separatists won a clear majority of seats in Catalonia's parliament (72 out of 135) in this weekend's election that saw a record turnout of 78 percent. The winners will seek to unilaterally declare independence within 18 months. Spain's constitution does not allow any region to break away. Spanish Prime Minister Mariano Rajoy vows to fight the separatist plan. ](/news/2015/09/28/separatists-won-a-clear-majority-of-seats-in-catalonia-s-parliament-72-out-of-135-in-this-weekend-s-election-that-saw-a-record-turnout-of.md)
-_Context: Catalonia, Catalonian parliamentary election, 2015, Mariano Rajoy, Prime Minister_
+_Context: Catalan, Catalonian parliamentary election, 2015, Mariano Rajoy, Prime Minister_
 
 ### [NASA states that it has found the best evidence yet of the existence of liquid water on Mars. The water is not pure but highly poisonous, containing various dissolved salts that on Earth only an extremophile microbe might survive within. ](/news/2015/09/28/nasa-states-that-it-has-found-the-best-evidence-yet-of-the-existence-of-liquid-water-on-mars-the-water-is-not-pure-but-highly-poisonous-co.md)
 NASA will detail a major science finding from the agency’s ongoing exploration of Mars during a news briefing at 11:30 a.m. EDT on Monday, Sept. 28 at the James Webb Auditorium at NASA Headquarters in Washington. The event will be broadcast live on NASA Television and the agency&#039;s website.

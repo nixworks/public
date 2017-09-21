@@ -8,6 +8,7 @@ Piracy is routine off the Somali coast, but Russia and the U.S. are pursuing the
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/27/world/africa/27pirates.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Shelling by Islamic State militants on a major oil terminal in Libya has started
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2016/01/fires-sparked-isil-attacks-spread-libya-oil-ports-160106153753042.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-35248594)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8662/production/_87520443_030798625.jpg)
 
 ### Related:
 

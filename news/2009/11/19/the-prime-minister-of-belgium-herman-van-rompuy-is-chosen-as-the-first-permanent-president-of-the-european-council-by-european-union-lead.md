@@ -10,6 +10,7 @@ Gordon Brown insisted tonight that Britain would remain a powerful voice in Brus
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h9YSN1_JnLKgPuRouHX-hlSg8OQg)
 2. [BBC News](http://www.independent.co.uk/news/world/europe/baroness-ashton-becomes-europes-first-foreign-minister-1823742.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/8367589.stm)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/11/19/10/Catherine Ashton.jpeg)
 
 ### Related:
 

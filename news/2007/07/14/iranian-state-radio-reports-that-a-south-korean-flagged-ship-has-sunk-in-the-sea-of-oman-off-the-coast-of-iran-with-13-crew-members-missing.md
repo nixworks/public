@@ -8,6 +8,7 @@ Iranian state radio has reported a South Korean-flagged cargo ship with 23 peopl
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/15/1978782.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

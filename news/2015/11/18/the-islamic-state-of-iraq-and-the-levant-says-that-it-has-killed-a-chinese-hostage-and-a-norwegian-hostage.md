@@ -10,6 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/group-killed-norwegian-chinese-captives-35277774)
 2. [AP](http://bigstory.ap.org/article/76f3b06aa6f74f549f9db9b213918b0c/report-fbi-tips-italy-possible-targets-rome-milan)
 3. [Reuters](http://www.reuters.com/article/2015/11/19/us-france-shooting-new-york-video-idUSKCN0T739X20151119#B9rSM9Gb4yfgHhY8.97)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151119&t=2&i=1096101637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAI06N)
 
 ### Related:
 

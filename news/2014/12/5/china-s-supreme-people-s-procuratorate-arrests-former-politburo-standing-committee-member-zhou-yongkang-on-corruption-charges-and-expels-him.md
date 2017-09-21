@@ -8,6 +8,7 @@ Chinese ex-security chief Zhou Yongkang is arrested and expelled from the Commun
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-30352458)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79544000/jpg/_79544151_79544150.jpg)
 
 ### Related:
 

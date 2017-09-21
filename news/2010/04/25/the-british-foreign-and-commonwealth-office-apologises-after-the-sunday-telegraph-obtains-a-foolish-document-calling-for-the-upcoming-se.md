@@ -11,6 +11,7 @@ Britain&#39;s Foreign Office has apologised for a memo by a civil servant sugges
 2. [National Post](http://www.nationalpost.com/news/story.html?id=2949966)
 3. [RTÉ](http://www.rte.ie/news/2010/0425/uk_pope.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/apr/25/pope-apology-condom-memo)
+4. [Cover Image](https://img.rasset.ie/0002ee10-1600.jpg)
 
 ### Related:
 

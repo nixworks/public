@@ -8,6 +8,7 @@ Metallurgical Corp of China Ltd (MCC) said on Wednesday four of its employees wo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/21/us-metallurgical-cn-vietnam-idUSBREA4K02720140521)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

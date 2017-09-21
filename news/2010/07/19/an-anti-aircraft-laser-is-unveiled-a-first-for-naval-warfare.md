@@ -10,6 +10,7 @@ US defence firm Raytheon unveils a solid state, anti-aircraft laser system at th
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10679543)
 2. [BBC](http://www.bbc.co.uk/news/technology-10682693)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7898710/Laser-used-to-shoots-down-planes.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

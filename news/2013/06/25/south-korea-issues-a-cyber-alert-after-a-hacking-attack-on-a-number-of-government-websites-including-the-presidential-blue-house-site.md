@@ -8,6 +8,7 @@ South Korea issued a cyber attack alert on Tuesday after hackers apparently pene
 ### Source:
 
 1. [AFP via Fox News](http://www.foxnews.com/world/2013/06/24/skorea-sounds-alert-after-official-websites-hacked/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/06/24/skorea-sounds-alert-after-official-websites-hacked/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422581433523.jpg?ve=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Seattle City Council voted 8-0 Monday afternoon to enact Councilmember Mike 
 1. [The Seattle Times'' - background](http://www.seattletimes.com/seattle-news/politics/unionize-ride-app-drivers-seattle-in-us-spotlight/)
 2. [The Seattle Times](http://www.seattletimes.com/seattle-news/politics/unions-for-taxi-uber-drivers-seattle-council-votes-today/)
 3. [USA Today](http://www.usatoday.com/story/tech/2015/12/14/seattle-decide-if-uber-lyft-can-unionize/77318652/)
+3. [Cover Image](http://static.seattletimes.com/wp-content/uploads/2015/12/12162015-_tzr-474x463.jpg)
 
 ### Related:
 

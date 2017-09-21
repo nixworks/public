@@ -8,6 +8,7 @@ Prosecutors drop charges against a doctor in the case of jailed lawyer Sergei Ma
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17655846)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53890000/jpg/_53890336_012385170-1.jpg)
 
 ### Related:
 

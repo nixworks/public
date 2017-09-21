@@ -11,6 +11,7 @@
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20690148)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20691206)
 4. [Reuters](http://www.reuters.com/article/2012/12/11/syria-crisis-alawites-idINDEE8BA0EC20121211)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64707000/jpg/_64707690_64707689.jpg)
 
 ### Related:
 

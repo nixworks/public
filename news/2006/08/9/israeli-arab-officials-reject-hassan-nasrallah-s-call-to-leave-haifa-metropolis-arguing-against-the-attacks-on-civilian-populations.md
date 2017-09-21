@@ -14,6 +14,7 @@ Former MK Issam Mahoul rejects Nasrallah&#39;s call to Haifa&#39;s Arab populati
 5. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3289009,00.html)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3288617,00.html)
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3288753,00.html)
+7. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least 36 people are killed in multiple blasts at several churches in northern
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/06/20126179452530898.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-18475853)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60960000/gif/_60960574_nigeria_zaria_06_12.gif)
 
 ### Related:
 

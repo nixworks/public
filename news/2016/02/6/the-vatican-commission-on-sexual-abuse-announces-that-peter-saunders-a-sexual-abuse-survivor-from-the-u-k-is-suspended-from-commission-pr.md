@@ -10,6 +10,7 @@ Outspoken member of commission refuses to step down, brands investigation a &lsq
 1. [Al Jazeera](http://america.aljazeera.com/articles/2016/2/7/vatican-critic-and-abuse-survivor-refuses-to-step-down-from-commission.html)
 2. [Buenos Aires Herald](http://buenosairesherald.com/article/208261/vatican-critic-excluded-from-sex-abuse-probe)
 3. [Patheos](http://www.patheos.com/blogs/catholicnews/2016/02/abuse-commission-suspends-british-advocate/)
+3. [Cover Image](/files/imagenes//201602/208261_06_203940.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The attackers appeared to number perhaps 10 or 15, said the French military spok
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/01/world/africa/islamist-fighters-repelled-in-assault-on-timbuktu.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/01/world/africa/01mali-map/01mali-map-superJumbo.jpg)
 
 ### Related:
 

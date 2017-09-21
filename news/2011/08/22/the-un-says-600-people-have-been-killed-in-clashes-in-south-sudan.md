@@ -8,6 +8,7 @@ As many as 200 people may have been abducted in connection with ethnic fighting,
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/08/23/world/africa/23sudan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

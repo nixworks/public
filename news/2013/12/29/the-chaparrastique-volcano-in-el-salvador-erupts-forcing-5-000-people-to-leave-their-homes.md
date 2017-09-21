@@ -8,6 +8,7 @@ Thousands of people in eastern El Salvador are leaving their homes as the Chapar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-25545555)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71993000/jpg/_71993289_71993288.jpg)
 
 ### Related:
 

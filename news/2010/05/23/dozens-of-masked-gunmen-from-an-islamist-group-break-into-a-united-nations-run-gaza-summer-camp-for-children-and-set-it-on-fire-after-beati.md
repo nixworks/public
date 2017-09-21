@@ -9,6 +9,7 @@ UNRWA chief defiant after masked men ask the UN agency to stop organising such c
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/201052310367932926.html)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176209)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

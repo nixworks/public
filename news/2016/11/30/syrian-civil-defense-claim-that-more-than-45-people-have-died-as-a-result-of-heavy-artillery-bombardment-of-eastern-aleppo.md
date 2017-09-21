@@ -9,6 +9,7 @@ Rescue workers said more than 45 people had been killed in artillery bombardment
 
 1. [RFERL](http://www.rferl.org/a/un-security-council-aleppo-syria-crisis/28147522.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-attack-idUSKBN13P0SQ)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161130&t=2&i=1163636599&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAT0VG)
 
 ### Related:
 

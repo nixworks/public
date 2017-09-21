@@ -13,6 +13,7 @@ Thousands celebrate in Yemen as President Saleh leaves for treatment in Saudi Ar
 4. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE75301420110604)
 5. [UPI](http://www.upi.com/Top_News/World-News/2011/06/04/Ban-urges-dialogue-on-Bahrains-rulers/UPI-11511307205354/)
 6. [UPI](http://www.upi.com/Top_News/World-News/2011/06/04/Russia-pulling-diplomats-out-of-Yemen/UPI-70461307212315/)
+6. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53250000/jpg/_53250596_012148837-1.jpg)
 
 ### Related:
 

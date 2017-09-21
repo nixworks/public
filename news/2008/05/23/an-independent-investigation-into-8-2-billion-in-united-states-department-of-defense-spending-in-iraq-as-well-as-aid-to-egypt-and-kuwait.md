@@ -8,6 +8,7 @@ An audit of $8.2 billion spent on contractors in Iraq found that almost none of 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/05/23/world/middleeast/23audit.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

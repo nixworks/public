@@ -8,6 +8,7 @@ Efforts to save starving Somalis and others suffering from drought in East Afric
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/world/story/2011/07/25/united-nations-drought.html)
+1. [Cover Image](https://i.cbc.ca/1.2051583.1381652454!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-famine-cp-01032653.jpg)
 
 ### Related:
 

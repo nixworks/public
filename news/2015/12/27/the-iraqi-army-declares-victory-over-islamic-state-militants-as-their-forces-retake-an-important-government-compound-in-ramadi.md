@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2015/12/27/middleeast/iraq-isis-ramadi/)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-ramadi-idUSKBN0UA06P20151227)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151227&t=2&i=1105239464&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBQ0FJ)
 
 ### Related:
 

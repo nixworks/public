@@ -8,6 +8,7 @@ Hillary Rodham Clinton’s trump card began slipping from her grasp, and her spe
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/05/10/us/politics/10clinton.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

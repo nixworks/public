@@ -14,6 +14,7 @@ Jeremy Corbyn has appeared to compare Israel to &quot;various self-styled Islami
 5. [New York Times](http://www.nytimes.com/2016/06/25/business/dealbook/brexit-asian-stocks-bonds.html?smid=tw-nytimes&smtyp=cur&_r=1)
 6. [Reuters](http://in.reuters.com/article/usa-stocks-idINL1N19G2I3)
 7. [The Telegraph](http://www.telegraph.co.uk/news/2016/06/23/eu-referendum-will-it-be-brexit-exit-poll-and-results-live/)
+7. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/y/5/y5etjonde6e5isnbmnqjrqkmikwd66ig-xlarge.jpg)
 
 ### Related:
 

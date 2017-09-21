@@ -8,6 +8,7 @@ Arabian Al Qaeda confirms death of deputy leader Saeed al-Shehri by US drone str
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2013-07-17/arabian-al-qaeda-confirms-death-of-deputy-leader-saeed-al-shehri/4826514)
+1. [Cover Image](http://www.abc.net.au/news/image/4826530-1x1-700x700.jpg)
 
 ### Related:
 

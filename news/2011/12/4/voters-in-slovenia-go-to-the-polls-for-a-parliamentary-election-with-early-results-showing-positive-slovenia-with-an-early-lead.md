@@ -9,6 +9,7 @@
 
 1. [AP via Newsday](http://www.newsday.com/news/first-results-confirm-positive-slovenia-lead-1.3365110?qr=1)
 2. [Reuters](http://www.reuters.com/article/2011/12/03/us-slovenia-election-idUSTRE7B20SK20111203?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111203&t=2&i=542156509&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B21SRF00)
 
 ### Related:
 

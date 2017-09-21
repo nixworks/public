@@ -8,6 +8,7 @@ Plans to build a $600 million plant in Mobile, Alabama to produce A320 passenger
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/48043706/ns/business-us_business/#.T_G6BRylvRg)
+1. [Cover Image](http://media2.s-nbcnews.com/j/reuters/2012-07-02t081153z_1_cbre8610mrw00_rtroptp_3_airbus-orders.standard.jpg)
 
 ### Related:
 

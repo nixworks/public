@@ -8,6 +8,7 @@ Budget airline Ryanair launches another attempt to buy its biggest Irish rival, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18511024)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56515000/jpg/_56515871_013216114-1.jpg)
 
 ### Related:
 

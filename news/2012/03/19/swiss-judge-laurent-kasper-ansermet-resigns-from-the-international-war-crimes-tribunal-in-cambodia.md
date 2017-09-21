@@ -8,6 +8,7 @@ A second judge resigns from the UN-backed international war crimes trial in Camb
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17432484)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59170000/jpg/_59170808_ansermet.jpg)
 
 ### Related:
 

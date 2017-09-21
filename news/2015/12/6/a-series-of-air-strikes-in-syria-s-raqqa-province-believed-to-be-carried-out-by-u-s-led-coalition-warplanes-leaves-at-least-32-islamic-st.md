@@ -9,6 +9,7 @@ Fighters killed in some 15 strikes on IS Raqqa stronghold.
 
 1. [AFP via Dawn](http://www.dawn.com/news/1224629/32-is-fighters-killed-in-us-led-raids-on-syria-assad-slams-uks-participation)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-islamic-state-idUSKBN0TP0HD20151206#El2Bc7yBmXaeHK8j.97)
+2. [Cover Image](http://i.dawn.com/medium/2015/12/56648339a15f2.jpg)
 
 ### Related:
 

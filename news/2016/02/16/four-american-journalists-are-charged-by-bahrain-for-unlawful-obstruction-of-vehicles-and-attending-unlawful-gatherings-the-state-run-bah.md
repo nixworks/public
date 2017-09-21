@@ -9,6 +9,7 @@ Anna Day and three members of her crew were detained on Sunday while covering th
 
 1. [NBC News](http://www.nbcnews.com/news/world/bahrain-charges-releases-anna-day-3-other-american-journalists-n519291)
 2. [New York Daily News](http://www.nydailynews.com/news/world/american-journalists-arrested-bahrain-charged-released-article-1.2533077)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_07/1419416/160216-annaday-0650_83e60fe071e3a6b2d1a511d4eb85430f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

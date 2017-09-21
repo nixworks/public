@@ -9,6 +9,7 @@ Teenager among the five suspects detained over the attack which killed 10 people
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010102410357763195.html)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20101024-299487/4-bus-bombing-suspects-arrested-says-witness)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/24/2010102493345595738_20.jpg)
 
 ### Related:
 

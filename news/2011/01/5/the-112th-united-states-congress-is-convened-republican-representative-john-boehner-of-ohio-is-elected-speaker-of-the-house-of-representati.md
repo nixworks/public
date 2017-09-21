@@ -8,6 +8,7 @@ Republican John Boehner was elected on Wednesday as speaker of the House of Repr
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70445T20110105)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110105&t=2&i=296730958&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-05T192358Z_01_BTRE7041HW100_RTROPTP_0_USA-CONGRESS)
 
 ### Related:
 

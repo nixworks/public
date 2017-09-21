@@ -9,6 +9,7 @@ The Coast Guard warned that even if the flow of oil was capped by summer, it cou
 
 1. [CNN](http://edition.cnn.com/2010/US/06/06/gulf.oil.spill/index.html)
 2. [The New York Times](http://www.nytimes.com/2010/06/07/us/07spill.html?hp)
+2. [Cover Image](https://static01.nyt.com/images/2010/06/07/us/JP-SPILL/JP-SPILL-thumbStandard.jpg)
 
 ### Related:
 

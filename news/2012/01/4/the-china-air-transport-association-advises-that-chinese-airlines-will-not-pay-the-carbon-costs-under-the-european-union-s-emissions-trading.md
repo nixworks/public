@@ -12,6 +12,7 @@ The European Commission said airlines that refused to participate in its carbon 
 3. [Climate Spectator](http://www.climatespectator.com.au/news/china-airlines-wont-pay-eu-carbon-tax-cata)
 4. [New York Times](http://www.nytimes.com/2012/01/06/business/global/eu-toughens-stance-in-airline-carbon-dispute.html)
 5. [Reuters](http://www.reuters.com/article/2012/01/06/airlines-carbon-tax-asia-idUSL3E8C45RQ20120106)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Indonesian government says it will appeal a court decision to reject a $565m
 
 1. [AFP via ''The Straits Times](http://www.straitstimes.com/asia/se-asia/indonesia-to-appeal-courts-rejection-of-lawsuit-against-firm-over-haze-causing-fires)
 2. [BBC News](http://www.bbc.com/news/business-35203609)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/62EB/production/_87432352_indonesia_haze.jpg)
 
 ### Related:
 

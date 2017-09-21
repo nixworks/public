@@ -8,6 +8,7 @@ French President Nicolas Sarkozy has said he would be prepared to travel to Irel
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0611/lisbon.html)
+1. [Cover Image](https://img.rasset.ie/0001f0cc-1600.jpg)
 
 ### Related:
 

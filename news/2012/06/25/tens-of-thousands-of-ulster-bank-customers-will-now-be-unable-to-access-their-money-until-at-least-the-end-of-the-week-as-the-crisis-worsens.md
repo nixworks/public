@@ -9,6 +9,7 @@ A BACKLOG in payments affecting more than 100,000 Ulster Bank customers will not
 
 1. [Irish Examiner](http://www.irishexaminer.com/ireland/ulster-bank-fiasco-to-continue-until-at-least-end-of-week-198653.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2012/0625/1224318625113.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

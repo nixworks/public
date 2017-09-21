@@ -8,6 +8,7 @@ U.S. oil prices closed at a 17-month high on Friday in quiet trade ahead of the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-global-oil-idUSKBN14C053)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161223&t=2&i=1166552416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBM0XQ)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The remains of a Navy pilot have been found and positively identified, more than
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0802/breaking42.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

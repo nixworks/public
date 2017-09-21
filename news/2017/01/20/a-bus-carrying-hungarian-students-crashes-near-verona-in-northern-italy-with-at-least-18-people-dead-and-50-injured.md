@@ -9,6 +9,7 @@ Sixteen people were killed and about 40 injured when a bus carrying students fro
 
 1. [BBC](http://www.bbc.com/news/world-europe-38703536)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2017/01/21/least-seven-feared-dead-italian-coach-crash/)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/q/5/q5d2izote6xcqmnw22a1yaof2puebj2k-xlarge.jpg)
 
 ### Related:
 

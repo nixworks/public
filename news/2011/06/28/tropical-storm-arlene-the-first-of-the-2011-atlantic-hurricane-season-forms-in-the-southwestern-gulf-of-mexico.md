@@ -8,6 +8,7 @@ The season&#8217;s first named storm, Tropical Storm Arlene, has spun up in the 
 ### Source:
 
 1. [Houston Chronicle](http://blog.chron.com/sciguy/2011/06/atlantic-seasons-first-named-storm-arlene-forms/)
+1. [Cover Image](http://blog.chron.com/sciguy/files/2011/06/20110628.2340.goes13.x.wv1km.01LONE.25kts-1006mb-207N-928W.73pc-600x600.jpg)
 
 ### Related:
 

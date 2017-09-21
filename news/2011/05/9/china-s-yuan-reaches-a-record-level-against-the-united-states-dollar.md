@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/chinas-yuan-at-record-ahead-of-washington-talks-2011-05-09)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

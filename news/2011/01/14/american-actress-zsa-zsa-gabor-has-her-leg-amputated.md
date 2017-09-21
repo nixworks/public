@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i8EIlWZZ1Gz60HNNjXKG25Ai8vFA?docId=ed8283f8b35d4e3c9c51f00e2d5cc996)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12198030)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

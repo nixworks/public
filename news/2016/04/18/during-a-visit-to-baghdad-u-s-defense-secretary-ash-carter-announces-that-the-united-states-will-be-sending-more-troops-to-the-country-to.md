@@ -8,6 +8,7 @@ The US is to send 200 extra troops to Iraq to help the fight against so-called I
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-36075452)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/649F/production/_89295752_89295748.jpg)
 
 ### Related:
 

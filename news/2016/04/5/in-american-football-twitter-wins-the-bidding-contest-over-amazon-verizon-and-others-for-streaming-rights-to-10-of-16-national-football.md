@@ -10,6 +10,7 @@ Twitter won the digital streaming rights for NFL Thursday night games, commissio
 1. [ESPN](http://espn.go.com/nfl/story/_/id/15138355/twitter-wins-digital-streaming-rights-nfl-thursday-night-games)
 2. [NFL.com](http://www.nfl.com/news/story/0ap3000000630862/article/nfl-expands-thursday-night-football-package)
 3. [Re/code](http://recode.net/2016/04/05/twitter-beats-amazon-verizon-for-global-nfl-streaming-deal/)
+3. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0702%2Fnfl_a_fieldshield_1296x729.jpg)
 
 ### Related:
 

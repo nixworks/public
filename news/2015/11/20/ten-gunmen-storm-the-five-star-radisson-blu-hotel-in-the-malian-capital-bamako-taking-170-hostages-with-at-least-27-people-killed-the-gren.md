@@ -16,6 +16,7 @@ Gunmen took at least 170 people hostage at a hotel in the former French colony o
 7. [The New York Daily News](http://www.nydailynews.com/news/world/shooting-reported-mali-hotel-article-1.2441291)
 8. [UPI](http://www.upi.com/Top_News/World-News/2015/11/20/Gunmen-storm-Mali-hotel-killing-three-80-hostages-released/1521448013051/?spt=hts&or=1)
 9. [i24 News](http://www.i24news.tv/en/news/international/africa/93013-151120-hostages-taken-in-shooting-attack-at-radisson-hotel-in-mali)
+9. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_47/1311856/ss-151120-radisson-hostages-jsw-04_048b2473137246a58e05391b0adb1867.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

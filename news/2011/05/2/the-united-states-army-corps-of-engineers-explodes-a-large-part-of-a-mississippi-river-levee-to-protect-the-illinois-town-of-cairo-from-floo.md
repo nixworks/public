@@ -8,6 +8,7 @@ Water spilled over a Missouri dam, forcing road closures, while the Army Corps o
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/42862955/ns/weather/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110502_wappapelo.standard.jpg)
 
 ### Related:
 

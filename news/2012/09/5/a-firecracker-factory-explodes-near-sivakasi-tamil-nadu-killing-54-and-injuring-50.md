@@ -8,6 +8,7 @@ At least 54 persons were burned to death and 50 injured today in a devastating b
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/chennai/54-charred-to-death-in-Tamil-Nadus-Sivakasi-factory-fire/articleshow/16266391.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/16264972.cms)
 
 ### Related:
 

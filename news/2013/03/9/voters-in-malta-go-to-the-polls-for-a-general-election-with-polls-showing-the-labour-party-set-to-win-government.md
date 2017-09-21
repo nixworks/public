@@ -8,6 +8,7 @@ Voting ends in a general election on the Mediterranean island of Malta, with opi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21722936)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66292000/gif/_66292558_malta_elections_reuters.gif)
 
 ### Related:
 

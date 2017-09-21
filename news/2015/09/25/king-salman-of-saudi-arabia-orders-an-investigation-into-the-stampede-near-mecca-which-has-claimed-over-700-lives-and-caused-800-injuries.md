@@ -8,6 +8,7 @@ Saudi Arabia&#039;s King orders an investigation into a stampede at the annual H
 ### Source:
 
 1. [AFP/BBC via ABC News Australia](http://www.abc.net.au/news/2015-09-25/saudi-arabia-orders-investigation-into-deadly-hajj-crush/6804626)
+1. [Cover Image](http://www.abc.net.au/news/image/6805928-1x1-700x700.jpg)
 
 ### Related:
 

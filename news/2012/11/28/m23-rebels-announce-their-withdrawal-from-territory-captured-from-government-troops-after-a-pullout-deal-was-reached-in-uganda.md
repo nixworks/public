@@ -8,6 +8,7 @@ M23 spokesman says the group is doing a phased pullout from territory they have 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/2012112853843823929.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/29/2012112965821313734_20.jpg)
 
 ### Related:
 

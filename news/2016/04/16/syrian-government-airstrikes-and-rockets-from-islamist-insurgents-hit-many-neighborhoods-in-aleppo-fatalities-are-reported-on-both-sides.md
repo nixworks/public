@@ -9,6 +9,7 @@ Government air strikes hit rebel-held areas of Aleppo on Saturday as rockets fir
 
 1. [AFP via Thanh Niên](http://www.thanhniennews.com/world/aleppo-battles-cast-shadow-over-syria-peace-talks-61287.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN0XD0QY)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160416&t=2&i=1133125866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3F0HE)
 
 ### Related:
 

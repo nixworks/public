@@ -8,6 +8,7 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-40195664)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/CF11/production/_96390035_1.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ See how events unfolded as fires in Western Australia threatened townships on Sa
 2. [The Australian](http://www.theaustralian.com.au/news/disaster-funds-for-wa-bushfire-zone/news-story/d8997869198da4690844263685cc5b1c)
 3. [West Australian via Yahoo! Online](https://au.news.yahoo.com/thewest/wa/a/30523925/wa-fire-continues-to-rage/)
 4. [West Australian'' via Yahoo! Australia](https://au.news.yahoo.com/thewest/wa/a/30525622/esperance-flames-above-rooftops/)
+4. [Cover Image](http://www.abc.net.au/news/image/7078180-1x1-700x700.jpg)
 
 ### Related:
 

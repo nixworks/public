@@ -9,6 +9,7 @@ Lt Gen P K Rath was found guilty by an Army court martial on three counts - issu
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12247922)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Sukna-land-scam-Lt-Gen-P-K-Rath-found-guilty/articleshow/7333698.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/7333684.cms)
 
 ### Related:
 

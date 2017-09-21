@@ -12,6 +12,7 @@ The death toll in Japan following a powerful earthquake has risen, with hospital
 3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6900156.stm)
 4. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/07/16/japan.quake/index.html?eref=rss_topstories)
 5. [Kyodo News](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=325878)
+5. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

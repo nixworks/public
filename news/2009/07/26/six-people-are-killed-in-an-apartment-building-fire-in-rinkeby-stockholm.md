@@ -9,6 +9,7 @@ Six people have been killed as fire swept through an apartment building in a Sto
 
 1. [RTÉ](http://www.rte.ie/news/2009/0726/sweden.html)
 2. [Stockholm News](http://www.stockholmnews.com/more.aspx?NID=3650)
+2. [Cover Image](https://img.rasset.ie/00027845-1600.jpg)
 
 ### Related:
 

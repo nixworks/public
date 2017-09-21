@@ -8,6 +8,7 @@ A French sailor who had spent three days adrift in a life raft in the Southern O
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21108982)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65395000/jpg/_65395428_ross_island.jpg)
 
 ### Related:
 

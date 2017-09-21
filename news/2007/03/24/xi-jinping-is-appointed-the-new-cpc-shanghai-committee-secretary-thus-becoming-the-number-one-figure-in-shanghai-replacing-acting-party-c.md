@@ -9,6 +9,7 @@ The ruling Communist Party appointed Xi Jinping as the top leader of Shanghai.
 
 1. [New York Times](http://www.nytimes.com/2007/03/25/world/asia/25china.html)
 2. [Xinhua](http://news.xinhuanet.com/local/2007-03/24/content_5890690.htm)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A spate of car bombings killed 19 people Sunday in Iraq&#39;s western Anbar prov
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/33265136/ns/world_news-conflict_in_iraq/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/091011-iraq-hmed-11a.standard.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Belga via ''HLN](http://www.hln.be/hln/nl/960/Buitenland/article/detail/1505236/2012/09/22/8-doden-bij-nieuwe-gevechten-tussen-salafisten-en-rebellen-in-Jemen.dhtml)
 2. [Middle East Online](http://www.middle-east-online.com/english/?id=54507)
+2. [Cover Image](http://static2.hln.be/static/photo/2012/3/15/8/20120922152749/media_xll_5181683.jpg)
 
 ### Related:
 

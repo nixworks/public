@@ -8,6 +8,7 @@ Chinese security forces have shot dead a young Tibetan in Sichuan province, camp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16764849)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58142000/jpg/_58142719_013832022-1.jpg)
 
 ### Related:
 

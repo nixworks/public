@@ -8,6 +8,7 @@ Syrian rebels leave the last opposition-held enclaves in Homs, ending three year
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27306525)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74689000/jpg/_74689578_74689573.jpg)
 
 ### Related:
 

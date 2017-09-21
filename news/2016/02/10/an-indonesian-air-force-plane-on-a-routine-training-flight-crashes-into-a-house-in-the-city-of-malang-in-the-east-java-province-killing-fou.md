@@ -8,6 +8,7 @@ An air force official reportedly said that a woman who was inside the house was 
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.com/indonesia-air-force-plane-crash-brazilian-made-embraer-emb-314-super-tucano-crashes-2301259)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/02/10/brazilian-super-tucano.jpg)
 
 ### Related:
 

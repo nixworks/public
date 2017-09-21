@@ -8,6 +8,7 @@ Isis has recaptured the ancient city of Palmyra in the face of heavy Russian air
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/isis-pulls-out-of-ancient-palmyra-after-heavy-russian-bombing-a7467996.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/10/16/isis-palmyra-battles.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ US computer giant Dell agrees a deal to buy data storage company EMC for $67bn -
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-34505553)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/120DB/production/_86074937_gettyimages-181792558.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The National Security Agency and the FBI are siphoning personal data from the ma
 1. [PC World](http://www.pcworld.com/article/2040991/report-nsa-prism-program-spied-on-americans-emails-searches.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jun/06/us-tech-giants-nsa-data)
 3. [USA Today](http://www.usatoday.com/story/news/2013/06/06/nsa-surveillance-internet-companies/2398345/)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

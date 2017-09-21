@@ -8,6 +8,7 @@ Turkey agrees to train Syrian opposition fighters in Turkey by American and Turk
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/islamic-state-draws-closer-to-capturing-syrian-city-of-kobani-1413029310)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-EY757_1syria_G_20141011213633.jpg)
 
 ### Related:
 

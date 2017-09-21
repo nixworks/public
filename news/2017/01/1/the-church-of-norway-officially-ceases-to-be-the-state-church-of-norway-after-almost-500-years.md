@@ -8,6 +8,7 @@ The Church of Norway and the Norwegian government are set to go their separate w
 ### Source:
 
 1. [The Christian Daily](http://christiandaily.com/article/norways-church-and-state-to-divorce-after-almost-500-years/59710.htm)
+1. [Cover Image](http://img.christiandaily.com/full/5556/church-in-norway.jpg)
 
 ### Related:
 

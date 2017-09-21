@@ -8,6 +8,7 @@ Corruption charges against former West Australian Labor premier Brian Burke have
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-02-02/corruption-charges-against-former-premier-dropped/3807412/?site=&source=rss)
+1. [Cover Image](http://www.abc.net.au/news/image/1121692-1x1-700x700.jpg)
 
 ### Related:
 

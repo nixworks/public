@@ -9,6 +9,7 @@ At least 73 people were killed and scores injured in Mozambique on Thursday as t
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_MOZAMBIQUE_TANKER_EXPLOSION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Reuters](http://www.reuters.com/article/us-mozambique-accident-idUSKBN13C2GI?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

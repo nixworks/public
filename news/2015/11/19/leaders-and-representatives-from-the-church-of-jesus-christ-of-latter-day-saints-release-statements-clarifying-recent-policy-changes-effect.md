@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Deseret News](http://www.deseretnews.com/article/865641950/First-presidency-addresses-new-policy.html)
+1. [Cover Image](https://cdn.deseretnews.com/images/article/hires/1626525/1626525.jpg)
 
 ### Related:
 

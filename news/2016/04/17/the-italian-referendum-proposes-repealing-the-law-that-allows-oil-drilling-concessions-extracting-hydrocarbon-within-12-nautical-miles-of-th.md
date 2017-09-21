@@ -8,6 +8,7 @@ A referendum to be held next Sunday in Italy could shape the country’s energy 
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2016/04/12/italian-referendum-on-drilling-for-oil-could-shape-the-country-s-energy-policy/)
+1. [Cover Image](http://static.euronews.com/articles/329773/1000x563_329773.jpg)
 
 ### Related:
 

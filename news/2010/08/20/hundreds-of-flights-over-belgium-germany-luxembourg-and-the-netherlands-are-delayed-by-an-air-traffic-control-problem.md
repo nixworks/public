@@ -8,6 +8,7 @@ An air traffic control problem delays hundreds of flights in northern Europe ove
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11041354)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

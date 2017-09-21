@@ -8,6 +8,7 @@ A Thai military general is suspended after police ordered his arrest on suspicio
 ### Source:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/2015-06-02/thai-general-suspended-on-suspicion-of-human-trafficking/6515666)
+1. [Cover Image](http://www.abc.net.au/news/image/6439324-1x1-700x700.jpg)
 
 ### Related:
 

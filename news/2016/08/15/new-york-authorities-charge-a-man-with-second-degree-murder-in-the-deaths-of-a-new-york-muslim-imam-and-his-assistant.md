@@ -8,6 +8,7 @@ A New York City man appeared in court on Tuesday and denied charges he shot and 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-new-york-shooting-idUSKCN10O0X4)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160816&t=2&i=1149933243&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7F1K2)
 
 ### Related:
 

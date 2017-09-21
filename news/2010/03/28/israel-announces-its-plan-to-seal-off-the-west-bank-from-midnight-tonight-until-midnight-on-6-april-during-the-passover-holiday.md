@@ -17,6 +17,7 @@ Posters leaving out Al Aksa mosque plastered on buses with e. Jerusalem routes.
 8. [The New York Times](http://www.nytimes.com/reuters/2010/03/28/world/international-us-palestinians-israel-usa.html)
 9. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/28/c_13228102.htm)
 10. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3869070,00.html)
+10. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=140398)
 
 ### Related:
 

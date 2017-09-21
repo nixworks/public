@@ -8,6 +8,7 @@ BP says it has drilled to one of the lowest depths ever in the oil and gas indus
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story//bp-says-its-made-a-giant-oil-discovery-2009-09-02)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

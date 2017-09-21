@@ -10,6 +10,7 @@
 1. [AP via ''Boston.com](http://www.boston.com/business/news/2012/09/11/moody-set-downgrade-without-budget-deal/4nnY49I9ZNhk6bbLWc1tkO/story.html)
 2. [Forbes](http://www.forbes.com/sites/steveschaefer/2012/09/11/moodys-says-u-s-has-until-end-of-2013-to-save-aaa-rating/)
 3. [Los Angeles Times](http://www.latimes.com/business/money/la-fi-mo-moodys-us-credit-rating-debt-20120911,0,7820586.story)
+3. [Cover Image](http://www.trbimg.com/img-504f3f17/turbine/la-fi-mo-moodys-us-credit-rating-debt-fiscal-c-001/600)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/29/us-mideast-crisis-turkey-russia-pilot-idUSKBN0TI07T20151129#iXJQ5S70L28htAcT.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151129&t=2&i=1098497263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAS0FX)
 
 ### Related:
 

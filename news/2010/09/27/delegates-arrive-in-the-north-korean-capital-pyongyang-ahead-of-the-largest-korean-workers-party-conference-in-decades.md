@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/20109278920898276.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/sep/27/kim-jong-un-north-korea)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/27/201092782412802734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rescuers have pulled four more bodies from a coal mine in northwestern Colombia 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/colombia-mine-blast-toll-rises-to-70-20100621-yq89.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/y/q/l/d/image.related.articleLeadwide.620x349.yq89.png/1277087997913.jpg)
 
 ### Related:
 

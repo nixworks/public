@@ -11,6 +11,7 @@ The head of the Democratic Party resigned on Sunday amid a furor over embarrassi
 2. [Fox News](http://www.foxnews.com/politics/2016/07/23/wikileaks-dump-appears-to-show-dnc-favored-clinton-campaign.html)
 3. [Reuters](http://www.reuters.com/article/us-usa-election-idUSKCN1040TO)
 4. [The Washington Post](https://www.washingtonpost.com/politics/hacked-emails-cast-doubt-on-hopes-for-party-unity-at-democratic-convention/2016/07/24/a446c260-51a9-11e6-b7de-dfe509430c39_story.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160724&t=2&i=1146856790&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6N0JT)
 
 ### Related:
 

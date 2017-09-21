@@ -8,6 +8,7 @@ At least nine civilians were killed and dozens were wounded on Sunday when morta
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-aleppo-idUKKCN0W80S2)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

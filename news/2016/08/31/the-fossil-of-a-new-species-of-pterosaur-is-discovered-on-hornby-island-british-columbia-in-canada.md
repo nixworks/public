@@ -8,6 +8,7 @@ In Hollywood lore, pterosaurs are humongous, fearsome animals, capable of swoopi
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0831/Was-this-flying-reptile-the-ptiniest-pterosaur-of-the-Late-Cretaceous)
+1. [Cover Image](http://images.csmonitor.com/csm/2016/08/1000585_1_0830-pterosaur-comparison_standard.png?alias=standard_900x600)
 
 ### Related:
 

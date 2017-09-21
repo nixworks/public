@@ -8,6 +8,7 @@ A Francis Bacon painting is sold for $142m (£89m) in New York, becoming the mos
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-24922106)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71080000/jpg/_71080589_71080588.jpg)
 
 ### Related:
 

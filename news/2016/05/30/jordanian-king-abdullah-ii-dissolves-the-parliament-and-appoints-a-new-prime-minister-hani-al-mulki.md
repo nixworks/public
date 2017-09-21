@@ -9,6 +9,7 @@ Veteran politician Hani Mulki was tasked with organizing elections by October.
 
 1. [Business Standard](http://www.business-standard.com/article/news-ians/jordan-king-names-new-pm-dissolves-parliament-116053000062_1.html)
 2. [Washington Post](https://www.washingtonpost.com/world/jordans-king-abdullah-dissolves-parliament-names-caretaker-prime-minister/2016/05/29/2676ed60-25d0-11e6-b989-4e5479715b54_story.html)
+2. [Cover Image](http://bsmedia.business-standard.com/_media/bs/img/article/2016-05/30/full/1464578620-9712.jpg)
 
 ### Related:
 

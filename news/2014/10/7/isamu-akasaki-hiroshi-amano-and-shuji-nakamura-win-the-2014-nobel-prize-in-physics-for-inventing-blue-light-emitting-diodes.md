@@ -8,6 +8,7 @@ The 2014 Nobel Prize for physics is won by trio of scientists in Japan and the U
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-29518521)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78058000/jpg/_78058462_t3550190-view_of_a_man_holding_a_blue_light_emitting_diode-spl.jpg)
 
 ### Related:
 

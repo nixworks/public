@@ -8,6 +8,7 @@ A mosque under refurbishment collapses during Friday prayers in the Somali capit
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36178414)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8B80/production/_89521753_mogadishu.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The 57-year-old man with a bushy white beard who is suspected of killing three p
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/28/us-colorado-shooter-idUSKBN0TH05O20151128#T5vcCjGiSYTQvpAQ.97)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151128&t=2&i=1098305315&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAR07E)
 
 ### Related:
 

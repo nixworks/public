@@ -8,6 +8,7 @@ Guus Kouwenhoven convicted of selling weapons to ex-president Charles Taylor dur
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/law/2017/apr/22/dutch-arms-trafficker-to-liberia-guus-kouwenhoven-given-war-crimes-conviction)
+1. [Cover Image](https://i.guim.co.uk/img/media/b09072dc8842b2d7793e418a80e56cc49f07039c/0_136_2048_1229/master/2048.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=80f9a37d53e18d5b03132a4cb2110044)
 
 ### Related:
 

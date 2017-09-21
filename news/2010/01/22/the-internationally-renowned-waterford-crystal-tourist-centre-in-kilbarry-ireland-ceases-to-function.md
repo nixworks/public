@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0122/wedgwood.html)
+1. [Cover Image](https://img.rasset.ie/00021bf7-1600.jpg)
 
 ### Related:
 

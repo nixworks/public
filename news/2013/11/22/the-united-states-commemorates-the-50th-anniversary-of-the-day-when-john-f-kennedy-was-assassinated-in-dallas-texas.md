@@ -8,6 +8,7 @@ A Dallas filmmaker and former broadcaster reflect on John F Kennedy&#039;s 1963 
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2013-11-22/jfk-assassination-dallas-moves-on-from-city-of-hate-reputation/5094466)
+1. [Cover Image](http://www.abc.net.au/news/image/5091832-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Maryland authorities took down a statue on Friday of a 19th century chief justic
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-protests-statues-idUSKCN1AY0UC)
+1. [Cover Image](https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

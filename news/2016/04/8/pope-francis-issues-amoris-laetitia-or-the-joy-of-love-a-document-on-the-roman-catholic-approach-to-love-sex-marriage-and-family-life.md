@@ -11,6 +11,7 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 2. [AP²](http://bigstory.ap.org/article/b67e0b339b9d46fab29cb0ef642d5ed7/pope-insists-conscience-not-rules-must-guide-faithful)
 3. [The Washington Post](https://www.washingtonpost.com/world/in-long-awaited-document-on-the-family-pope-francis-offers-hope-to-divorced-catholics-says-no-to-gay-marriage/2016/04/07/87be6dae-fb42-11e5-813a-90ab563f0dde_story.html)
 4. [Vatican](https://w2.vatican.va/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia_en.pdf)
+4. [Cover Image](http://binaryapi.ap.org/c72d3a699e774d4b8c6b4fd5b43b2e49/460x.jpg)
 
 ### Related:
 

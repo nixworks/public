@@ -9,6 +9,7 @@ Group of Israelis heading to Joseph&#39;s Tomb for prayers comes under Palestini
 
 1. [The Jerusalem Post](http://www.jpost.com/Home/Article.aspx?id=217690)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4060103,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Saudi-led coalition ends its month-long bombing campaign against rebels in Yem
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-32402688)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82473000/jpg/_82473319_82473318.jpg)
 
 ### Related:
 

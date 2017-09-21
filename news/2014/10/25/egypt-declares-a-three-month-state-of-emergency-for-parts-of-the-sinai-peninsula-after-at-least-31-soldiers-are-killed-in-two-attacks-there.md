@@ -8,6 +8,7 @@ Egypt declares a three-month state of emergency in parts of the Sinai Peninsula 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-29766945)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78526000/jpg/_78526589_023922399-1.jpg)
 
 ### Related:
 

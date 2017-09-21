@@ -8,6 +8,7 @@ A man has randomly driven his van into a crowd in Graz, Austria, killing 3 peopl
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Man-ploughs-into-crowd-with-van-in-Austria-20150620)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/538/fba143eab765425691400a4514f7de05.jpg)
 
 ### Related:
 

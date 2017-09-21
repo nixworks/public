@@ -8,6 +8,7 @@ Coffee giant opening first outlet in the country next month
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/report-on-business/international-business/asian-pacific-business/starbucks-to-take-on-vietnam-coffee-culture/article6890778/)
+1. [Cover Image](http://static.theglobeandmail.ca/537/report-on-business/international-business/asian-pacific-business/article6890777.ece/ALTERNATES/w620/starbucks-web)
 
 ### Related:
 

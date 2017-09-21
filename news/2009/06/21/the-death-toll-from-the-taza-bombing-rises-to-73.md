@@ -8,6 +8,7 @@ At least 72 people are now known to have died in a bombing in the Iraqi city of 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0621/iraq1.html)
+1. [Cover Image](https://img.rasset.ie/00026293-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A blaze at a southern Chinese shopping centre that killed 17 people was started 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-31159879)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80827000/jpg/_80827830_80827828.jpg)
 
 ### Related:
 

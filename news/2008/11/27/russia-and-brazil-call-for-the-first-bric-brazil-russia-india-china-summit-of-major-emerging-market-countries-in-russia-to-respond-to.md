@@ -8,6 +8,7 @@ Russian President Dmitry Medvedev and his Brazilian counterpart Luiz Inacio Lula
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4AP5H220081126?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081126&t=2&i=6976392&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-11-26T160015Z_01_BTRE4AP18GU00_RTROPTP_0_BRAZIL)
 
 ### Related:
 

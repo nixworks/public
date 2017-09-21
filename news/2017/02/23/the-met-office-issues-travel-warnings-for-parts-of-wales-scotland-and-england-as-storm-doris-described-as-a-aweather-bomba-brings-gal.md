@@ -9,6 +9,7 @@ High winds, heavy snow and torrential rain bring major disruption to roads, trai
 
 1. [The Guardian](https://www.theguardian.com/uk-news/2017/feb/23/flights-cancelled-as-storm-doris-arrives)
 2. [The Independent](http://www.independent.co.uk/news/uk/home-news/storm-doris-woman-killed-latest-wolverhampton-city-centre-high-street-gale-force-winds-rain-extreme-a7595331.html)
+2. [Cover Image](https://i.guim.co.uk/img/media/34c89435cfab2daa469f99bd255d0cbbb49118a7/0_229_3430_2057/master/3430.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2f7cefe05011515448aa85e5486b20fe)
 
 ### Related:
 

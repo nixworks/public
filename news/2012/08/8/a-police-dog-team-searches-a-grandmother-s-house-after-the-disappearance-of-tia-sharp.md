@@ -8,6 +8,7 @@ More than 80 officers search for 12-year-old Tia Sharp as Stuart Hazell is inter
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/970003/tia-sharp-police-search-grandmothers-house)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/evs-xtaccess-2012-08-08-cam-c-19h02m30s14-1_3707387.jpg?20160706182522)
 
 ### Related:
 

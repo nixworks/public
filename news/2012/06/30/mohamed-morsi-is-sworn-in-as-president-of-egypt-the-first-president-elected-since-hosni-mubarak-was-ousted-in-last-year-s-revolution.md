@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/06/morsi-sworn-in-as-egypts-first-islamist-president.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef017615f7c89d970c-120pi)
 
 ### Related:
 

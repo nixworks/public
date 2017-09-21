@@ -8,6 +8,7 @@ The US is to send 560 more military personnel to Iraq to help in the fight again
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36766417)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2516/production/_90349490_mediaitem90349489.jpg)
 
 ### Related:
 

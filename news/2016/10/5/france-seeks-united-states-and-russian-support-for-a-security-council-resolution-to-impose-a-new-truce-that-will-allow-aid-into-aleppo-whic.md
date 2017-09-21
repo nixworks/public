@@ -8,6 +8,7 @@ France is to launch a new push for United Nations backing for a ceasefire in Syr
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN12522M)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161005&t=2&i=1156256311&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC941I5)
 
 ### Related:
 

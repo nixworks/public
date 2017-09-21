@@ -9,6 +9,7 @@ Following February’s historic announcement, LIGO has again spotted ripples in 
 
 1. [BBC](http://www.bbc.com/news/science-environment-36540254)
 2. [The Guardian](https://www.theguardian.com/science/2016/jun/15/gravitational-waves-detected-from-collision-of-second-set-of-black-holes-ligo)
+2. [Cover Image](https://i.guim.co.uk/img/media/228a71da28cfb44e541664bbb9adc80cc8361694/178_4_3517_2110/3517.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=29c2341de37a248ecad30f74eb22af87)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Political leaders back reconciliation with Syria as thousands remember former PM
 3. [CBC](http://www.cbc.ca/world/story/2010/02/14/beirut-demonstration-rafik-hariri.html)
 4. [The Independent](http://www.independent.co.uk/news/world/middle-east/beirut-grinds-to-a-standstill-in-honour-of-hariris-memory-1899554.html)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0215/1224264467353.html)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

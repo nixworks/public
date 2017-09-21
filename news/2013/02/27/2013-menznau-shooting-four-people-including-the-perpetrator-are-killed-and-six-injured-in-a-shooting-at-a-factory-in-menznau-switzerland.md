@@ -10,6 +10,7 @@ Three people are left dead and seven injured after a man opens fire at a wood pr
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21601323)
 2. [CNN](http://edition.cnn.com/2013/02/27/world/europe/switzerland-shooting)
 3. [Reuters](http://www.reuters.com/article/2013/02/27/us-swiss-shooting-idUSBRE91Q0G420130227)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66101000/jpg/_66101608_66101607.jpg)
 
 ### Related:
 

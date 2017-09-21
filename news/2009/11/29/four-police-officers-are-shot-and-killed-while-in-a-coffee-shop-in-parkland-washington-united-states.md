@@ -9,6 +9,7 @@ The man suspected of gunning down four police officers in a coffee shop is shot 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8385421.stm)
 2. [MSNBC](http://www.msnbc.msn.com/id/34194122/ns/us_news-crime_and_courts)
+2. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/091201-clemmon-hmed-7a.standard.jpg)
 
 ### Related:
 

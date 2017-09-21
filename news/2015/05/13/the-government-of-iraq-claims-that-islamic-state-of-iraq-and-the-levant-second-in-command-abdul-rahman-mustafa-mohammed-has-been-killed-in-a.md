@@ -8,6 +8,7 @@ The second-in-command of Islamic State, Abu Alaa al-Afari, has been killed in a 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-32726646)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82958000/jpg/_82958974_32c142c9-3ded-4781-a2b4-c527a43f3ee5.jpg)
 
 ### Related:
 

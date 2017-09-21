@@ -8,6 +8,7 @@ The Supreme Court agreed Friday to hear a new challenge to ObamaCare, bringing t
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/11/07/supreme-court-justices-to-hear-health-law-subsidies-challenge/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2014/11/07/supreme-court-justices-to-hear-health-law-subsidies-challenge/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446999689207.jpg?ve=1)
 
 ### Related:
 

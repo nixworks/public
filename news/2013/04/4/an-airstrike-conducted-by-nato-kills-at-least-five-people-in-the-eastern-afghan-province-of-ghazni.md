@@ -8,6 +8,7 @@ A Nato air strike in eastern Ghazni province kills four Afghan policemen and a c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22025551)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66740000/gif/_66740616_afghan_ghazni304.gif)
 
 ### Related:
 

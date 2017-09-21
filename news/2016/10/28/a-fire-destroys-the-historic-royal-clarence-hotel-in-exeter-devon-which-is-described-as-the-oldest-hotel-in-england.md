@@ -8,6 +8,7 @@ A massive fire in Exeter destroys historic buildings including what is described
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-devon-37796576)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A35F/production/_92132814_capture.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601087&sid=a85ws9TxWiUA)
 2. [Nobel Foundation](http://nobelprize.org/nobel_prizes/peace/laureates/2006/index.html)
+2. [Cover Image](http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus_postcard.jpg)
 
 ### Related:
 

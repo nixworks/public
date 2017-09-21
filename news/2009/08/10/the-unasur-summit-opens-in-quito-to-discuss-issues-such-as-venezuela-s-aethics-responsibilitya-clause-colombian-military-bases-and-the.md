@@ -8,6 +8,7 @@ An &ldquo;ethics responsibly&rdquo; clause for the media and a strong criticism 
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/10/unasur-summit-faces-charged-agenda-of-controversial-issues)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19765/200x200/5d17d3a5d1c9d5f33298a83979895cb8.jpg)
 
 ### Related:
 

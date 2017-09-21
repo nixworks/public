@@ -8,6 +8,7 @@ Aseem Trivedi, the Kanpur-based self-publishing cartoonist facing sedition charg
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/mumbai/Aseem-to-join-Binayak-campaign/articleshow/16375765.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

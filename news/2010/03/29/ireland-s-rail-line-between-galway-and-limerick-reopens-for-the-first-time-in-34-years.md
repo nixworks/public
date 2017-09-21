@@ -8,6 +8,7 @@ The Limerick to Galway rail line has been officially reopened, with trains trave
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0329/rail.html)
+1. [Cover Image](https://img.rasset.ie/0003253b-1600.jpg)
 
 ### Related:
 

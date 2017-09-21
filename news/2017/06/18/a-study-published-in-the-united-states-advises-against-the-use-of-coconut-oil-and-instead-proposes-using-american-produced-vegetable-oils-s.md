@@ -10,6 +10,7 @@ Who doesn’t love logging on to the good old ‘net on a Friday morning to the 
 1. [BBC](http://www.bbc.com/news/health-40300145)
 2. [Gizmodo](http://gizmodo.com/please-calm-down-coconut-oil-is-fine-1796163542)
 3. [Mashable](http://mashable.com/2017/06/18/coconut-oil-not-healthy-after-all/)
+3. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/s--4ASoq1pv--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/ur1xx9qhopypxbtnp5sh.jpg)
 
 ### Related:
 

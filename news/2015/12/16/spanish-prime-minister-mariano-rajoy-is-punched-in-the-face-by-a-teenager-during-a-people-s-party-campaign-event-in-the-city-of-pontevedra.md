@@ -8,6 +8,7 @@ TV footage shows young man hitting prime minister on side of head but a party sp
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/16/spanish-pm-punched-during-election-walkabout)
+1. [Cover Image](https://i.guim.co.uk/img/media/ef311ec495cd4bea15783586d6f9bf9b158e37eb/0_87_3004_1803/master/3004.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=cf3eb3535e1b4f31b12d15bd28bd00cd)
 
 ### Related:
 

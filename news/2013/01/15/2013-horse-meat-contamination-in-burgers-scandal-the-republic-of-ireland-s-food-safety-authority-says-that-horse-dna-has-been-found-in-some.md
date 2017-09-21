@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21034942)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jan/16/horsemeat-burgers-scandal-food-hygiene)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65312000/jpg/_65312497_burgerandchips.jpg)
 
 ### Related:
 

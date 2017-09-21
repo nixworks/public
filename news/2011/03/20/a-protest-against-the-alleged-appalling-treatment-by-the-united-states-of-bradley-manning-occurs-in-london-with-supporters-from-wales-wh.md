@@ -16,6 +16,7 @@ Campaigners from Wales travel to London to protest over the alleged treatment of
 7. [Newsday](http://www.newsday.com/news/nation/about-30-arrested-at-rally-for-wikileaks-suspect-1.2772325)
 8. [Wales Online](http://www.walesonline.co.uk/news/wales-news/2011/03/20/usa-treatment-of-wikileaks-suspect-bradley-manning-appalling-mp-ann-clwyd-91466-28368202/)
 9. [Washington Examiner](http://washingtonexaminer.com/blogs/capital-land/2011/03/protestors-arrested-defending-alleged-wiki-leaker)
+9. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51762000/jpg/_51762487_50219436.jpg)
 
 ### Related:
 

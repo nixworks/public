@@ -8,6 +8,7 @@ Five men are arrested for planning a gun attack on the offices of a Danish newsp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12089543)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

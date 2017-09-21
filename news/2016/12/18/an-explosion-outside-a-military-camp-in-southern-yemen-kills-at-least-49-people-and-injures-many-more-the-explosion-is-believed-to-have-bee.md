@@ -9,6 +9,7 @@ IS says one of its suicide bombers killed at least 48 Yemeni soldiers queuing fo
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_YEMEN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-middle-east-38356058)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/106DB/production/_93019276_mediaitem93019275.jpg)
 
 ### Related:
 

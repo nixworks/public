@@ -8,6 +8,7 @@ Hoxhaj (@Enver_Hoxhaj) climbed for 16 positions in ranking, compared to 31st pla
 ### Source:
 
 1. [Ministry of Foreign Affairs of Kosovo](http://www.mfa-ks.net/?page=2,4,2415&offset=1)
+1. [Cover Image](http://www.mfa-ks.net/repository/images/main/25_06_2014_2182362_Hoxhaj_Twitter_25062014_v.jpg)
 
 ### Related:
 

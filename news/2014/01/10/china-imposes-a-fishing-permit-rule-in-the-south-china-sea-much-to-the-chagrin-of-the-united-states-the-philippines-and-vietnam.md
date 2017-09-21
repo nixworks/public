@@ -9,6 +9,7 @@ The Chinese are demanding foreign crews get permits before fishing the South Chi
 
 1. [FOX News](http://www.foxnews.com/world/2014/01/10/philippines-vietnam-condemn-china-new-fishing-law-that-reinforces-claim-on/)
 2. [The Guardian](http://www.theguardian.com/world/2014/jan/10/beijing-criticism-fishing-rules)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/10/1389367219445/Chinas-first-aircraft-car-009.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=321e6f70e1aec94ea18faf52b756c262)
 
 ### Related:
 

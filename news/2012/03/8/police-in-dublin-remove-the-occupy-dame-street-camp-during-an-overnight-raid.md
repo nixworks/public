@@ -9,6 +9,7 @@ About 70 Occupy Dame street campaigners, whose camp outside the Central Bank was
 
 1. [RTE](http://www.rte.ie/news/2012/0308/occupy.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0308/breaking5.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

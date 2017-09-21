@@ -8,6 +8,7 @@ Pope Francis on Sunday named new cardinals to the group that will choose his suc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/04/us-pope-cardinals-idUSKBN0KD08L20150104)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150104&t=2&i=1012240719&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0304X)
 
 ### Related:
 

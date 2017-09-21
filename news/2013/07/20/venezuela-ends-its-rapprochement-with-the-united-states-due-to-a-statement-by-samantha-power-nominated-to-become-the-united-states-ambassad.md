@@ -8,6 +8,7 @@ Venezuela says it has &quot;ended&quot; its rapprochement with the United States
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Venezuela-ends-rapprochement-with-US-20130720-2)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/585/1b5d1e6c7aa24e8ab89d0d72ff62aadb.gif)
 
 ### Related:
 

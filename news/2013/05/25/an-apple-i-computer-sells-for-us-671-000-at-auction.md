@@ -8,6 +8,7 @@ An auction for a working Apple I system barely beats out the cost of a one-hour 
 ### Source:
 
 1. [PC Magazine](http://www.pcmag.com/article2/0,2817,2419500,00.asp)
+1. [Cover Image](https://assets.pcmag.com/media/images/386743-apple-1.jpg?thumb=y&width=275&height=275)
 
 ### Related:
 

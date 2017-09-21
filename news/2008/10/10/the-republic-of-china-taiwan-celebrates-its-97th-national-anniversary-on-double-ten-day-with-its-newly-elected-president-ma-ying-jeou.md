@@ -8,6 +8,7 @@ Taiwan will celebrate its “Double Ten” National Day today. On October 10, 19
 ### Source:
 
 1. [The China Post](http://www.chinapost.com.tw/taiwan/national/national-news/2008/10/10/177969/Nation-marks.htm)
+1. [Cover Image](http://www.chinapost.com.tw/news_images/20081010/p1a.jpg)
 
 ### Related:
 

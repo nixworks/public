@@ -11,6 +11,7 @@ Gunman stormed a university, killed three guards and blew up a bridge leading to
 2. [AP](http://bigstory.ap.org/article/officials-iraq-militants-storm-university-take-dozens-students-hostage)
 3. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/dead-bodies-of-21-kidnapped-iraqi-policemen-found-in-mosul-iraq/)
 4. [Sky News](http://news.sky.com/story/1277417/dozens-of-iraqi-students-taken-hostage)
+4. [Cover Image](http://e3.365dm.com/16/07/1600x900/iraq-attack-1_3585363.jpg?20160705073010)
 
 ### Related:
 

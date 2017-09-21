@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/middle-east/iran-announces-uranium-discovery-plans-to-build-16-new-nuclear-power-plants-1.505268)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.503543.1365583641!/image/560202210.jpg_gen/derivatives/headline_1200x630/560202210.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [ A top Iranian official confirms that Iran has resumed small-scale enrichment of uranium at one of its main nuclear facilities last week. ](/news/2006/02/14/a-top-iranian-official-confirms-that-iran-has-resumed-small-scale-enrichment-of-uranium-at-one-of-its-main-nuclear-facilities-last-week.md) _Context: Iran, uranium_
 8. [ Iran resumes its nuclear programme at its uranium facility near the city of Isfahan. ](/news/2005/08/8/iran-resumes-its-nuclear-programme-at-its-uranium-facility-near-the-city-of-isfahan.md) _Context: Iran, uranium_
 9. [ Iran admits to having converted thirty-seven tons of raw uranium into a gas, a key step in uranium enrichment. ](/news/2005/05/9/iran-admits-to-having-converted-thirty-seven-tons-of-raw-uranium-into-a-gas-a-key-step-in-uranium-enrichment.md) _Context: Iran, uranium_
-10. [ Iran states that it has resumed building nuclear centrifuges to enrich uranium, reversing an October 2003 pledge to Britain, France and Germany to suspend all uranium enrichment-related activities. The United States contends that the purpose is to produce weapons grade uranium. ](/news/2004/07/31/iran-states-that-it-has-resumed-building-nuclear-centrifuges-to-enrich-uranium-reversing-an-october-2003-pledge-to-britain-france-and-ger.md) _Context: Iran, uranium_
+10. [ Defying a recent United Nations resolution, Iran announces that it will continue converting 37 tons (33,600 kg) of yellowcake uranium into uranium hexafluoride, a requirement for producing nuclear power plant fuel, but which some fear might be used to build nuclear weapons. ](/news/2004/09/21/defying-a-recent-united-nations-resolution-iran-announces-that-it-will-continue-converting-37-tons-33-600-kg-of-yellowcake-uranium-into.md) _Context: Iran, uranium_

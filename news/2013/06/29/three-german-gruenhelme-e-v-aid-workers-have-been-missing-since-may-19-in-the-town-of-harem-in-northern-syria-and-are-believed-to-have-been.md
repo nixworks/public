@@ -9,6 +9,7 @@ Troops loyal to Damascus regime attempt to recapture rebel-held area at center o
 
 1. [AP](http://bigstory.ap.org/article/german-aid-group-says-3-staff-missing-syria)
 2. [The Jerusalem Post](http://www.jpost.com/Middle-East/Assads-forces-launch-offensive-in-Homs-city-318116)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=202465)
 
 ### Related:
 

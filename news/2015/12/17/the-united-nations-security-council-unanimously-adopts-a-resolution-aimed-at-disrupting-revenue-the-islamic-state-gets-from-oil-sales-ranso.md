@@ -9,6 +9,7 @@ Finance ministers from the UN Security Council on Thursday unanimously backed a 
 
 1. [AFP via Yahoo News](http://news.yahoo.com/un-unanimously-adopts-resolution-targeting-finances-203644810.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-islamic-state-un-idUSKBN0U030P20151217)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/BMSPrOqK.fOUJ0rb2GogeA--/aD01NjI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6466406-1-1-0.jpg)
 
 ### Related:
 

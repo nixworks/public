@@ -9,6 +9,7 @@ The Rudd Government will pour an extra $42b into the economy in its latest bid t
 
 1. [NineMSN Money](http://money.ninemsn.com.au/article.aspx?id=738247)
 2. [Sydney Morning Herald](http://business.smh.com.au/business/govt-unveils-42b-stimulus-20090203-7w6v.html?page=-1)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/4/c/l/o/image.related.thumbnail.320x214.7w6v.png/1233632897927.jpg)
 
 ### Related:
 

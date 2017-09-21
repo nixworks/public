@@ -9,6 +9,7 @@ The deaths of at least 111 people again underscored the dangerous, desperate eff
 
 1. [AP](http://news.yahoo.com/ship-capsizes-off-italy-114-african-migrants-die-174151950.html)
 2. [The New York Times](http://www.nytimes.com/2013/10/04/world/europe/scores-die-in-shipwreck-off-sicily.html?_r=0)
+2. [Cover Image](https://static01.nyt.com/images/2013/10/04/world/sicily/sicily-videoSixteenByNine600.jpg)
 
 ### Related:
 

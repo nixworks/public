@@ -8,6 +8,7 @@ A federal grand jury indicted four employees of a peanut company linked to a 200
 ### Source:
 
 1. [FoxNews](http://www.foxnews.com/us/2013/02/21/apnewsbreak-feds-indict-4-over-200-salmonella-outbreak-linked-to-georgia-peanut/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2013/02/21/apnewsbreak-feds-indict-4-over-200-salmonella-outbreak-linked-to-georgia-peanut/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422502179232.jpg?ve=1)
 
 ### Related:
 

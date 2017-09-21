@@ -8,6 +8,7 @@ A Chinese vessel locked its weapon-targeting radar on a Japanese ship near dispu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21337444)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65708000/jpg/_65708168_65708167.jpg)
 
 ### Related:
 

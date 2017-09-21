@@ -9,6 +9,7 @@ Mayor Sadiq Khan today put London on toxic air alert for at least three days. Ci
 
 1. [Courier Mail](http://www.couriermail.com.au/technology/london-mayor-sadiq-khan-declares-public-health-emergency-over-toxic-air/news-story/b4c2b5ba355dc72868d16d5c1fe8fbe1)
 2. [London Evening Standard](http://www.standard.co.uk/news/health/london-toxic-smog-alert-issued-for-next-three-days-in-public-health-emergency-a3443381.html)
+2. [Cover Image](https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/01/12/06/poll1a.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Thirteen people were injured in a drive-by shooting outside an apartment complex
 
 1. [International Business Times](http://www.ibtimes.com/dc-drive-mass-shooting-caught-video-11-people-shot-1-seriously-wounded-1118566)
 2. [The Washington Times](http://www.washingtontimes.com/news/2013/mar/11/11-wounded-dc-shooting/)
+2. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2013/03/11/shooting_20130311_19.jpg)
 
 ### Related:
 

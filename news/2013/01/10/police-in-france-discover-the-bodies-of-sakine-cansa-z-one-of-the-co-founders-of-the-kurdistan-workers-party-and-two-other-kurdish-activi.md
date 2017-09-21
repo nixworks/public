@@ -9,6 +9,7 @@ Three Kurdish activists - among them a co-founder of the militant PKK group - ar
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20968375)
 2. [Channel4](http://www.channel4.com/news/kurdish-pkk-co-founder-shot-dead-in-paris)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65202000/jpg/_65202195_rm55gty7.jpg)
 
 ### Related:
 

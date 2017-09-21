@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5270084.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldnews&storyID=2006-08-21T101505Z_01_L21520146_RTRUKOC_0_US-RUSSIA-MARKET.xml)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

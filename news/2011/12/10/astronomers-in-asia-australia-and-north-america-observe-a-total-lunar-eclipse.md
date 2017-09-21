@@ -8,6 +8,7 @@ Skywatchers enjoy the last total lunar eclipse before 2014, with Australia, Asia
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-16116227)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57250000/jpg/_57250612_013498278-1.jpg)
 
 ### Related:
 

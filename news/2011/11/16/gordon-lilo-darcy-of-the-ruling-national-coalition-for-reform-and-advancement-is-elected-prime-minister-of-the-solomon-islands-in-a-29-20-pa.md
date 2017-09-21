@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Solomon Times](http://www.solomontimes.com/news.aspx?nwID=6647)
+1. [Cover Image](https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A neo-Nazi musician linked to Norwegian mass killer Anders Behring Breivik is ar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23327165)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68764000/jpg/_68764140_varg.jpg)
 
 ### Related:
 

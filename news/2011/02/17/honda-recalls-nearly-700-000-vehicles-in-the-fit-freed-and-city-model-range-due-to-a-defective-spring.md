@@ -8,6 +8,7 @@ Honda is recalling nearly 700,000 Fit, Freed and City compact cars around the wo
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/41641006/ns/business-autos/from/toolbar)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110217-honda_fit.standard.jpg)
 
 ### Related:
 

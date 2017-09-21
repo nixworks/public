@@ -8,6 +8,7 @@ High winds caused by Storm Frank have resulted in long delays at Belfast airport
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/2015-12-30/storm-frank-high-winds-force-passengers-off-grounded-flights-amid-long-delays/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/860407/img.jpg)
 
 ### Related:
 

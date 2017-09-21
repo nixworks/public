@@ -19,7 +19,7 @@ _Context: IAEA, Iran, uranium_
 _Context: Mauritanian, Niger, North African, Sudan, locust_
 
 ### [ In a series of moves designed to bring about final implementation of the Good Friday Agreement, the British Government confirms that elections to the region's devolved administration will be held on November 26. The Provisional IRA announces a further act of weapons decommissioning. Sinn Fein leader Gerry Adams declares "the end to physical force republicanism". Statements from all the major parties involved are expected over the course of the day.](/news/2003/10/21/in-a-series-of-moves-designed-to-bring-about-final-implementation-of-the-good-friday-agreement-the-british-government-confirms-that-electi.md)
-_Context: British government, Gerry Adams, Good Friday Agreement, IRA, Sinn Fein, devolved administration, elections_
+_Context: British government, Elections, Gerry Adams, Good Friday Agreement, IRA, Sinn Fein, devolved administration_
 
 ### [ Israeli-Palestinian conflict: The UN General Assembly approves a resolution demanding that Israel remove a security fence in the West Bank. The resolution passes by an overwhelming majority of 144 to 4 with the US voting against the motion.](/news/2003/10/21/israeli-palestinian-conflict-the-un-general-assembly-approves-a-resolution-demanding-that-israel-remove-a-security-fence-in-the-west-bank.md)
 _Context: Israel, Israeli-Palestinian conflict, UN General Assembly, West Bank_

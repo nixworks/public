@@ -8,6 +8,7 @@ Combat death near Erbil was the result of enemy fire, Defense Secretary Ash Cart
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/us-news/2016/may/03/us-soldier-killed-in-northern-iraq)
+1. [Cover Image](https://i.guim.co.uk/img/media/3934cc4a746e460fd27ae06d14e6e931e069b2ee/0_317_5454_3274/5454.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=e7b60a404b5f534b8c625be706c2fb54)
 
 ### Related:
 

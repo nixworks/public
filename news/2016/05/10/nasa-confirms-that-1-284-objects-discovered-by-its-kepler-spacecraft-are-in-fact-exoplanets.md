@@ -8,6 +8,7 @@ An additional 1,284 objects spotted by NASA’s planet-hunting spacecraft Kepler
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2016/5/10/11650186/nasa-planet-hunting-spacecraft-kepler-1284-new-planets)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/Q1hZSnzt8c4bDQv7hNhdNTYpCPw=/0x279:3600x2304/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49564343/kepler_all-planets_may2016.0.0.jpg)
 
 ### Related:
 

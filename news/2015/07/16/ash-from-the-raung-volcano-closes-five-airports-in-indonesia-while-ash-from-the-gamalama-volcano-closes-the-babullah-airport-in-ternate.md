@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/volcanic-ash-shuts/1989650.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/1989666/1437060991000/large16x9/640/360/indonesia-airports-closed-eve-of-eid.jpg)
 
 ### Related:
 

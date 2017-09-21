@@ -9,6 +9,7 @@ Magistrates in France have placed Marine Le Pen under formal investigation. This
 
 1. [AP via CBS News](http://www.cbsnews.com/news/marine-le-pen-far-right-leader-france-charged-misuse-european-parliament-funds/)
 2. [Euronews](http://www.euronews.com/2017/06/30/french-far-right-leader-marine-le-pen-placed-under-formal-investigation-on)
+2. [Cover Image](http://static.euronews.com/articles/375924/1000x563_375924.jpg)
 
 ### Related:
 

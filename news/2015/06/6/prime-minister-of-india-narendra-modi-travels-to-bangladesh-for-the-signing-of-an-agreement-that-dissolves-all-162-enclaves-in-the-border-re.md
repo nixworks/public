@@ -8,6 +8,7 @@ Agreement signed in Dhaka to allow people living stateless in border enclaves fi
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/india-bangladesh-seal-land-swap-deal-150606012711866.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/6/07b5703b26d949f0a9884a483bdb4572_18.jpg)
 
 ### Related:
 

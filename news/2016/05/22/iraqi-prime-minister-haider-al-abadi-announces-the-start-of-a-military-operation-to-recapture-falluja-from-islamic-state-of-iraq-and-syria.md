@@ -9,6 +9,7 @@ Fighting is reported in near the Iraqi city of Falluja after Prime Minister al-A
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36354319)
 2. [CBS News](http://www.cbsnews.com/news/iraq-announces-operation-to-retake-isis-held-city-of-fallujah/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/867B/production/_89772443_89772442.jpg)
 
 ### Related:
 

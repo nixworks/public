@@ -8,6 +8,7 @@ The 74-year-old calls for an &quot;exit from Brexit&quot; as he is elected unopp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-40662737)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/10B9/production/_97018240_mediaitem97018238.jpg)
 
 ### Related:
 

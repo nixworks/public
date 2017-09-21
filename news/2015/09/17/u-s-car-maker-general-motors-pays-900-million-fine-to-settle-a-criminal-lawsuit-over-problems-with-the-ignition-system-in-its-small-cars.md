@@ -8,6 +8,7 @@ General Motors admitted it failed to disclose to the public a deadly problem wit
 ### Source:
 
 1. [AP via Yahoo! Autos](https://www.yahoo.com/autos/general-motors-pays-900-million-to-settle-129283097657.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/3oOnLT1yAWO1B.7.F83PQg--/aD0zMDM7dz01NDA7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/cd/resizer/2.0/FIT_TO_WIDTH-w540/9e7ff3721f9cad24beb680958302de8923b93e73.jpg)
 
 ### Related:
 

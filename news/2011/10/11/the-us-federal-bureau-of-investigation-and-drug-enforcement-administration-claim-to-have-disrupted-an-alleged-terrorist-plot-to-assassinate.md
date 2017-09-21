@@ -9,6 +9,7 @@ The US says it has broken up a plot by agents linked to Iran to assassinate the 
 
 1. [ABC News](http://abcnews.go.com/Blotter/us-iran-tied-terror-plot-washington-dc-disrupted/story?id=14711933)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-15266992)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55984000/jpg/_55984030_arbabsiar-manssor-03-15-55-.jpg)
 
 ### Related:
 

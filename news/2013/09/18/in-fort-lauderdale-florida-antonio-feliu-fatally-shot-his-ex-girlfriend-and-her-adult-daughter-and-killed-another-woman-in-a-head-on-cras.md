@@ -8,3 +8,4 @@ Antonio Feliu killed two people, took off in his SUV, and led police on a high-s
 ### Source:
 
 1. [Epoch Times](http://www.theepochtimes.com/n3/291883-antonio-feliu-identified-as-suspect-in-deadly-miami-dade-crash-that-killed-four/)
+1. [Cover Image](http://www.theepochtimes.com/n3/eet-content/uploads/2013/09/policechase.jpg)

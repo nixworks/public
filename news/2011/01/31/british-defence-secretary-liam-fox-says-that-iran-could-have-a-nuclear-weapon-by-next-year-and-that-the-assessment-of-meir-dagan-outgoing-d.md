@@ -9,6 +9,7 @@ Western powers should work on the assumption that Iran could have a nuclear weap
 
 1. [Reuters](http://in.reuters.com/article/2011/01/31/idINIndia-54542220110131?rpc=401&feedType=RSS&feedName=worldNews&rpc=401)
 2. [UKPA](http://www.google.com/hostednews/ukpress/article/ALeqM5gGjd9DvnDYFe97UC3alTUrPPws3Q?docId=N0479931296554347217A)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110131&t=2&i=323879475&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-02-01T014637Z_01_NOOTR_RTRMDNC_0_India-545422-1)
 
 ### Related:
 

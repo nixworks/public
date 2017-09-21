@@ -8,6 +8,7 @@ A bus with an unlicensed driver spun out of control near New Orleans on Sunday, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-louisiana-bus-crash-idUSKCN1130VD)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160829&t=2&i=1151387358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7S011)
 
 ### Related:
 

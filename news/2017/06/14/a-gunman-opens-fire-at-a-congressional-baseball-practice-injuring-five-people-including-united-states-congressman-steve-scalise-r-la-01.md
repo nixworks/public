@@ -9,6 +9,7 @@ House Majority Whip Steve Scalise&nbsp;was among five people injured during a sh
 
 1. [ABC News](http://abcnews.go.com/US/police-respond-shooting-virginia-park/story?id=48027277)
 2. [WUSA](http://www.wusa9.com/news/local/alexandria/multiple-shooting-reported-in-alexandria-suspect-in-custody/448783046)
+2. [Cover Image](http://content.tegnanc.com/photo/2017/06/14/GettyImages-695886700_1497444694654_9787978_ver1.0.jpg)
 
 ### Related:
 

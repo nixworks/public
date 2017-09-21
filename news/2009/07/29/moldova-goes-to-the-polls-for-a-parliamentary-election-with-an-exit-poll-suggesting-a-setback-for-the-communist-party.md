@@ -12,6 +12,7 @@
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56S63R20090729?feedType=RSS&feedName=worldNews)
 4. [The Moscow Tkmes](http://www.moscowtimes.ru/article/1010/42/379976.htm)
 5. [Time](http://www.time.com/time/world/article/0,8599,1913370,00.html)
+5. [Cover Image](http://moscowtimes.org/img/logo-big.png)
 
 ### Related:
 

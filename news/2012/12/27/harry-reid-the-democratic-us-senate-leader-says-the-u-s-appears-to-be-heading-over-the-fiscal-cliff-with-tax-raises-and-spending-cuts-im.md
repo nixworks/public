@@ -9,6 +9,7 @@ The US appears to be heading over the &quot;fiscal cliff&quot;, the Democratic U
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20853624)
 2. [Reuters](http://www.reuters.com/article/2012/12/27/us-usa-fiscal-idUSBRE8A80WV20121227)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64984000/jpg/_64984481_64984480.jpg)
 
 ### Related:
 

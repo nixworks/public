@@ -8,6 +8,7 @@ Delegates from 190 nations reach a deal to curb climate change, including a fund
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11975470)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

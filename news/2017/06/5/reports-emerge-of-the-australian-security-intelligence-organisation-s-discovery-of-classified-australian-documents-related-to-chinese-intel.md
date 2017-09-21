@@ -8,6 +8,7 @@ ASIO found classified files during a raid on the apartment of a suspected Chines
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/investigations/secret-asio-raid-uncovered-classified-documents-in-power-couples-canberra-apartment-20170602-gwjbrm.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/w/j/p/v/j/image.related.articleLeadwide.620x349.gwjbrm.png/1496621586204.jpg)
 
 ### Related:
 

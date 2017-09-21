@@ -8,6 +8,7 @@ Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had sh
 ### Source:
 
 1. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-04/305134-yemens-houthis-attack-saudi-arabias-najran-and-jizan.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/07/04/432734_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

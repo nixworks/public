@@ -10,6 +10,7 @@ Rodney King, the African American at the centre of the 1992 LA riots, is found d
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201261716454859368.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-18478979)
 3. [CNN](http://www.cnn.com/2012/06/17/us/obit-rodney-king/index.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60962000/jpg/_60962767_015077426-1.jpg)
 
 ### Related:
 

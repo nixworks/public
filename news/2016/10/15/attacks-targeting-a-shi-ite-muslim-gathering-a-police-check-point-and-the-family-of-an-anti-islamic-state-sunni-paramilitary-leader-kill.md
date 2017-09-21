@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-idUSKBN12F06W)
 2. [TeleSUR](http://www.telesurtv.net/english/news/Nearly-60-People-Killed-in-Iraq-by-Islamic-State-Group-Attacks-20161015-0005.html)
+2. [Cover Image](http://www.telesurtv.net/__export/1476538607717/sites/telesur/img/news/2016/10/15/suicide_iraq.jpg_1810791533.jpg)
 
 ### Related:
 

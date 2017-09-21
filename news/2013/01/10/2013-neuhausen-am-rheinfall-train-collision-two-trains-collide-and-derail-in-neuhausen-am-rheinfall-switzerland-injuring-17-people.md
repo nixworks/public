@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Blick.ch](http://www.blick.ch/news/schweiz/ostschweiz/thurbo-bei-crash-20-meter-zurueckgeschoben-id2163949.html)
+1. [Cover Image](https://f1.blick.ch/img/incoming/crop2164428/6701744592-cfacebook_photo-w1200-h630/Zugcrash-Neuhausen.jpg)
 
 ### Related:
 

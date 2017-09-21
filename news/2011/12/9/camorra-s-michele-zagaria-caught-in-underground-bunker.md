@@ -10,6 +10,7 @@
 1. [ANSAmed](http://www.ansamed.info/ansamed/en/news/regions/campania/2011/12/07/visualizza_new.html_8500484.html)
 2. [EuroNews](http://www.euronews.net/2011/12/07/italian-premier-monti-hails-big-mafia-arrest/)
 3. [Time](http://newsfeed.time.com/2011/12/08/top-italian-mob-boss-nabbed-in-rural-bunker-after-16-year-hunt/)
+3. [Cover Image](https://timenewsfeed.files.wordpress.com/2011/12/michele-zagaria1.jpg?w=600)
 
 ### Related:
 
@@ -19,3 +20,4 @@
 4. [ One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. ](/news/2009/03/21/one-hundred-thousand-people-protest-against-the-sicilian-mafia-and-camorra-in-naples-italy.md) _Context: Camorra_
 5. [ 30 suspected mobsters arrested around Naples in "war against the Camorra". ](/news/2008/09/30/30-suspected-mobsters-arrested-around-naples-in-war-against-the-camorra.md) _Context: Camorra_
 6. [ In Naples, Italy, police has arrested at least 42 people during a large operation against Camorra. ](/news/2005/03/3/in-naples-italy-police-has-arrested-at-least-42-people-during-a-large-operation-against-camorra.md) _Context: Camorra_
+7. [ Gang war between rival groups of Camorra continues in Naples, Italy. ](/news/2004/11/25/gang-war-between-rival-groups-of-camorra-continues-in-naples-italy.md) _Context: Camorra_

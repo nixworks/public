@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/80133-journalist-killed-bataan)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/D61717F0EC9249F69A845F2DCD2ED92C/nerlita-ledesma.jpg)
 
 ### Related:
 

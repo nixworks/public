@@ -9,6 +9,7 @@ A Palestinian youth died on Saturday at a West Bank hospital following a clash w
 
 1. [RT](http://www.rt.com/news/311306-palestinian-clashes-jewish-arson-attack/)
 2. [Reuters](http://in.reuters.com/article/2015/08/01/israel-palestinians-westbank-idINKCN0Q631Z20150801)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150801&t=2&i=1068700735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB701DF)
 
 ### Related:
 

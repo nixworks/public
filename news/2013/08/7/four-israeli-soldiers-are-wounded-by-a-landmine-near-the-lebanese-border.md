@@ -10,6 +10,7 @@ UN peacekeepers open investigation into incident; Israel keeping mostly quiet, b
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013879554280920.html)
 2. [The Times of Israel](http://www.timesofisrael.com/hezbollah-posts-photos-from-scene-of-blast-that-injured-soldiers/)
 3. [Xinhua](http://news.xinhuanet.com/english/world/2013-08/07/c_132610789.htm)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/08/Army_border-e1375921234863.jpg)
 
 ### Related:
 

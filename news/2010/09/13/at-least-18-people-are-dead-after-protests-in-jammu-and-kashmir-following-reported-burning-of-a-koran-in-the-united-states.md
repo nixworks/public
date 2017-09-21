@@ -11,6 +11,7 @@ Police in Indian-administered Kashmir shoot dead 18 civilians as violent protest
 2. [IBN Live](http://ibnlive.in.com/news/kashmir-still-burning-1-killed-in-clashes/130870-3.html?from=tn)
 3. [Times of India](http://timesofindia.indiatimes.com/india/2-more-killed-in-Kashmir-valley-police-firing/articleshow/6546917.cms)
 4. [Voice of America](http://www.voanews.com/english/news/-Kashmir-Protests-Turn-Deadly--102769324.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

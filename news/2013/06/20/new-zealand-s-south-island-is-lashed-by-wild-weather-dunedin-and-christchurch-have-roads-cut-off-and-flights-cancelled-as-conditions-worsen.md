@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Stuff NZ](http://www.stuff.co.nz/national/8823168/Snow-falls-in-Christchurch-Dunedin)
+1. [Cover Image](https://static2.stuff.co.nz/1371765318/659/8824659.jpg)
 
 ### Related:
 

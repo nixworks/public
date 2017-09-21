@@ -8,6 +8,7 @@ Italian firefighters and investigators have boarded the charred Norman Atlantic 
 ### Source:
 
 1. [The Independent](http://www.independent.ie/world-news/europe/investigators-board-charred-tragic-ferry-to-search-for-cause-of-deadly-blaze-and-possibly-more-bodies-30878560.html)
+1. [Cover Image](http://www.independent.ie/incoming/article30878559.ece/ALTERNATES/h342/ferry008.jpg)
 
 ### Related:
 

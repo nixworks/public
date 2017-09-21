@@ -9,6 +9,7 @@ Search crews recovered 18 bodies and were hunting for others on Saturday along a
 
 1. [China Daily](http://www.chinadaily.com.cn/2010-06/12/content_9968415.htm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE65A4NL20100612)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100612&t=2&i=127738154&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-06-12T231822Z_01_BTRE65B1SQQ00_RTROPTP_0_USA-FLOOD)
 
 ### Related:
 

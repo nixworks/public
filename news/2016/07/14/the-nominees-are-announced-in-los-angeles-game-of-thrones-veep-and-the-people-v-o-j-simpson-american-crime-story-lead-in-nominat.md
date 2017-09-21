@@ -9,6 +9,7 @@ The 2016 Emmy Award nominees were announced this morning by Anthony Anderson and
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/tv/la-et-st-emmys-2016-nominees-winners-list-20160714-snap-story,amp.html)
 2. [The Washington Post](https://www.washingtonpost.com/amphtml/news/arts-and-entertainment/wp/2016/07/14/emmy-nominations-2016-complete-coverage/)
+2. [Cover Image](http://www.trbimg.com/img-57df5e7e/turbine/la-et-st-emmys-2016-nominees-winners-list-20160714-snap)
 
 ### Related:
 

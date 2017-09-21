@@ -9,6 +9,7 @@ Egypt President Sisi declares a state of emergency following two deadly bombings
 
 1. [ABC](http://www.abc.net.au/news/2017-04-09/egypt-church-bombings-kills-at-least-44-injures-dozens/8429272)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/11/explosion-hits-egypt-tanta-161127070517863.html)
+2. [Cover Image](http://www.abc.net.au/news/image/8429418-1x1-700x700.jpg)
 
 ### Related:
 

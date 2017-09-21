@@ -9,6 +9,7 @@ Thai judges ordered the party of ousted Prime Minister Thaksin Shinawatra disban
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6704083.stm)
 2. [Reuters](http://uk.reuters.com/article/worldNews/idUKBKK23310420070530)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070530&t=2&i=879748&w=&fh=545px&fw=&ll=&pl=&sq=&r=879748)
 
 ### Related:
 

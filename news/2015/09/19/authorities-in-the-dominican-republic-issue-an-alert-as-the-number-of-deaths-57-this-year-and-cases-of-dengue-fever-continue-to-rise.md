@@ -9,6 +9,7 @@ The Delhi government has ordered deferring all planned surgeries to facilitate a
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/dominican-republic-issues-alert-amid-rise-dengue-cases-33884778)
 2. [Times of India](http://timesofindia.indiatimes.com/city/delhi/Dengue-outbreak-Government-orders-hospitals-to-defer-all-planned-surgeries/articleshow/49029123.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

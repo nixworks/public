@@ -8,6 +8,7 @@ A suspected suicide car-bomber killed 49 people on Friday in the Pakistani city 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59810420091009)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091009&t=2&i=11895028&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-09T130306Z_01_BTRE5980PI100_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

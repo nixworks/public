@@ -8,6 +8,7 @@ Politician known as the architect of German reunification reported to be in inte
 ### Source:
 
 1. [Guardian](http://www.theguardian.com/world/2015/jun/02/helmut-kohl-former-german-chancellor-in-critical-condition)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/2/1433257285567/68d88823-b785-4c8c-8fcd-14a0c7a63710-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b20cd840d9965f084587ec49759e1f75)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A soldier from 2nd Battalion, The Parachute Regiment has been killed in an explo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12460051)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

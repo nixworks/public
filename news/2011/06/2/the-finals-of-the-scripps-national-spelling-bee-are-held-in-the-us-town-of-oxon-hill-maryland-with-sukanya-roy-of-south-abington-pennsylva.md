@@ -9,6 +9,7 @@
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18189289)
 2. [NPR](http://www.npr.org/blogs/monkeysee/2011/06/02/136888659/the-unstoppable-rightness-of-bee-ing-its-spellings-biggest-night-of-the-year)
+2. [Cover Image](https://media.npr.org/assets/img/2011/06/03/bee_wide-e079a1646b714d10d71173fa5e6c54295759df33.jpg?s=1400)
 
 ### Related:
 

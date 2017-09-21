@@ -8,6 +8,7 @@ Afghan President Hamid Karzai won the presidential vote outright in the first ro
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58F1QJ20090916)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090916&t=2&i=11620090&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-16T224022Z_01_BTRE58F1QZF00_RTROPTP_0_AFGHANISTAN-ELECTION-RESULTS)
 
 ### Related:
 

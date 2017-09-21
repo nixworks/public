@@ -8,6 +8,7 @@ Dozens of civilians sheltering in a UN base in the South Sudan city of Bor have 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-27074635)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71985000/jpg/_71985621_71985620.jpg)
 
 ### Related:
 

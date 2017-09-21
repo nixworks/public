@@ -8,6 +8,7 @@ A plane carrying US First Lady Michelle Obama is forced to abort a planned landi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13138759)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52258000/jpg/_52258770_52258769.jpg)
 
 ### Related:
 

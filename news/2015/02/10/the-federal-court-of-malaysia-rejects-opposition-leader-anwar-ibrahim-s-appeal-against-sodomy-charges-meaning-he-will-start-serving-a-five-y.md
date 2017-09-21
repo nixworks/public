@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/10/us-malaysia-anwar-idUSKBN0LD2F520150210)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150210&t=2&i=1023799936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB19044)
 
 ### Related:
 
@@ -19,5 +20,5 @@
 6. [ Malaysian opposition leader Anwar Ibrahim's trial on sodomy charges of engaging in sexual intercourse with a male aide is delayed after his main defence lawyer falls ill. ](/news/2009/07/8/malaysian-opposition-leader-anwar-ibrahim-s-trial-on-sodomy-charges-of-engaging-in-sexual-intercourse-with-a-male-aide-is-delayed-after-his.md) _Context: Anwar Ibrahim, sodomy_
 7. [ Leader of Malaysian opposition Anwar Ibrahim is formally charged with sodomy, which he claims is a politically motivated charge. ](/news/2008/08/6/leader-of-malaysian-opposition-anwar-ibrahim-is-formally-charged-with-sodomy-which-he-claims-is-a-politically-motivated-charge.md) _Context: Anwar Ibrahim, sodomy_
 8. [ Malaysian opposition leader Anwar Ibrahim is arrested over allegations he sodomised a male aide. ](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.md) _Context: Anwar Ibrahim, sodomy_
-9. [Malaysian police arrest parliamentarian Nurul Izzah Anwar for alleged sedition. Izzah is the daughter of former Opposition Leader Anwar Ibrahim. ](/news/2015/03/16/malaysian-police-arrest-parliamentarian-nurul-izzah-anwar-for-alleged-sedition-izzah-is-the-daughter-of-former-opposition-leader-anwar-ibra.md) _Context: Anwar Ibrahim_
-10. [Malaysian opposition leader Anwar Ibrahim is sentenced to 5 years in prison for sodomy after his 2012 acquittal is overturned. ](/news/2014/03/7/malaysian-opposition-leader-anwar-ibrahim-is-sentenced-to-5-years-in-prison-for-sodomy-after-his-2012-acquittal-is-overturned.md) _Context: Anwar Ibrahim_
+9. [ Former Malaysian opposition leader Anwar Ibrahim is freed from jail after his sodomy conviction is overturned by the country's highest court. ](/news/2004/09/2/former-malaysian-opposition-leader-anwar-ibrahim-is-freed-from-jail-after-his-sodomy-conviction-is-overturned-by-the-country-s-highest-cour.md) _Context: Anwar Ibrahim, sodomy_
+10. [Malaysian police arrest parliamentarian Nurul Izzah Anwar for alleged sedition. Izzah is the daughter of former Opposition Leader Anwar Ibrahim. ](/news/2015/03/16/malaysian-police-arrest-parliamentarian-nurul-izzah-anwar-for-alleged-sedition-izzah-is-the-daughter-of-former-opposition-leader-anwar-ibra.md) _Context: Anwar Ibrahim_

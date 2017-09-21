@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/news-ians/25-militants-killed-in-pakistan-airstrike-114062301275_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

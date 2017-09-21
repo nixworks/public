@@ -10,6 +10,7 @@ Prime Minister Kevin Rudd has announced that Tony Burke will take on the new rol
 1. [ABC News](http://www.abc.net.au/news/stories/2010/04/03/2863574.htm?section=justin)
 2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2010/3/13/Australia-appoints-first-population-minister,33d69e5a-41ed-459d-b2a8-af5129d44850.html)
 3. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-47418720100403)
+3. [Cover Image](http://www.abc.net.au/news/image/390260-1x1-700x700.jpg)
 
 ### Related:
 

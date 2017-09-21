@@ -8,6 +8,7 @@ The Department of Veterans Affairs will add the Wiccan pentacle to a list of app
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/04/24/washington/24wiccan.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

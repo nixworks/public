@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2011/10/18/world/meast/israel-prisoner-swap)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/oct/18/gilad-shalit-release-palestinian-exchange)
 3. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=242250)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=176415)
 
 ### Related:
 

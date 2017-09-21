@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Iranian-Threat/News/Iranian-media-Successful-testing-of-3-new-missiles-309687)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=208185)
 
 ### Related:
 

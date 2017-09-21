@@ -9,6 +9,7 @@ Former Cuban president Fidel Castro called Colombia &#147;disloyal,&#148; claimi
 
 1. [Granma](http://www.granma.cu/ingles/2009/agosto/lun10/reflexiones.html)
 2. [MercoPress](http://en.mercopress.com/2009/08/11/fidel)
+2. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19780/200x200/317419e8694518d3d4026b736be02079.jpg)
 
 ### Related:
 

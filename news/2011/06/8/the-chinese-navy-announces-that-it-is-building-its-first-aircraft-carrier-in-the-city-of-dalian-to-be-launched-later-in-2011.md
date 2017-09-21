@@ -8,6 +8,7 @@ China has officially confirmed that it is building its first ever aircraft carri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13705204)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-asia-pacific-13705204A/playlist.sxml)
 
 ### Related:
 

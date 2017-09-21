@@ -9,6 +9,7 @@ At least four people are dead after a boat carrying Australia-bound asylum-seeke
 
 1. [BBC](http://www.bbc.co.uk/news/world-23429003)
 2. [The Australian](http://www.theaustralian.com.au/national-affairs/immigration/asylum-seeker-boat-sinks-off-indonesia/story-fn9hm1gu-1226684079708)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68894000/jpg/_68894287_68894286.jpg)
 
 ### Related:
 

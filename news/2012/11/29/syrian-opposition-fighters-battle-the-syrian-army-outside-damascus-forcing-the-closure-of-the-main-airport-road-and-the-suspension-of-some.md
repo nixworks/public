@@ -10,6 +10,7 @@ Syrian rebels battled forces loyal to President Bashar al-Assad just outside Dam
 1. [Al Arabiya](http://english.alarabiya.net/articles/2012/11/29/252513.html)
 2. [Bangkok Post](http://www99.bangkokpost.com/tech/computer/323797/syria-cut-off-from-internet-monitoring-firms)
 3. [Reuters](http://www.reuters.com/article/2012/11/29/us-syria-crisis-idUSBRE8AJ1FK20121129)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121129&t=2&i=679536134&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8AS13IX00)
 
 ### Related:
 

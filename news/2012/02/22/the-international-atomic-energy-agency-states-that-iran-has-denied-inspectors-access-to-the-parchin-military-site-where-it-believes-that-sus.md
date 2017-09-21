@@ -8,6 +8,7 @@ IAEA head says Tehran refused to allow its inspectors to visit the Parchin weapo
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201222202920481596.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/22/201222211335631734_20.jpg)
 
 ### Related:
 

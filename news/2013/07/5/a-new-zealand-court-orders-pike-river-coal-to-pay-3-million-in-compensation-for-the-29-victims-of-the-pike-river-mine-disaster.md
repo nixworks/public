@@ -8,6 +8,7 @@ A NZ court orders Pike River Coal to pay nearly $3m in compensation over the 201
 ### Source:
 
 1. [ABC News Australian](http://www.abc.net.au/news/2013-07-05/pike-river-ordered-to-pay-compensation/4801274)
+1. [Cover Image](http://www.abc.net.au/news/image/2346426-1x1-700x700.jpg)
 
 ### Related:
 

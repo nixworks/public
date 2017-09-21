@@ -8,6 +8,7 @@ At least 13 die and dozens are wounded in one of the deadliest attacks in Baghda
 ### Source:
 
 1. [Al-jazeera](http://www.aljazeera.com/news/2015/05/deadly-blasts-hit-restaurant-district-iraqi-capital-150503031639107.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/5/3/1cfb80cdc2cf40e2a3323207da2ea8a0_18.jpg)
 
 ### Related:
 

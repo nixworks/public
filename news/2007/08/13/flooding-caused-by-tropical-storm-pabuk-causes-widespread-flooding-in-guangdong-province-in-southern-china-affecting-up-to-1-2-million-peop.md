@@ -8,6 +8,7 @@ Downpours brought by a fading tropical storm caused widespread flooding in south
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSPEK25453520070813?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070813&t=2&i=1288336&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-13T100123Z_01_PEK254535_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

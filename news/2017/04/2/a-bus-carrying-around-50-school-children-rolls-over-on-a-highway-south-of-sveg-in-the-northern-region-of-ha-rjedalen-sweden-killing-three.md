@@ -8,6 +8,7 @@ Three people were killed when a bus carrying around 50 school children and a few
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-sweden-accident-idUSKBN1740A9)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170402&t=2&i=1179019646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED31088)
 
 ### Related:
 

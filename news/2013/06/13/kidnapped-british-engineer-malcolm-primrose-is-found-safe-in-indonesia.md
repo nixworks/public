@@ -8,6 +8,7 @@ Briton Malcolm Primrose, who was kidnapped in Indonesia on Tuesday, has now retu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22883802)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68143000/jpg/_68143720_primrose.jpg)
 
 ### Related:
 

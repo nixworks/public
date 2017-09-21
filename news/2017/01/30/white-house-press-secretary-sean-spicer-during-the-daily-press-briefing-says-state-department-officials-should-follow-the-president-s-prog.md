@@ -11,6 +11,7 @@ The White House clashed Monday with a large group of American diplomats who are 
 2. [BBC](http://www.bbc.com/news/world-us-canada-38805944)
 3. [CNN](http://www.cnn.com/2017/01/30/politics/career-diplomats-dissent-memo/)
 4. [The New York Times](https://www.nytimes.com/2017/01/30/us/politics/trump-immigration-ban-memo.html?_r=0)
+4. [Cover Image](http://www.reviewjournal.com/sites/default/files/field/media/31915503sfxl_7882285.jpg%3Fresize%3D750%3A500)
 
 ### Related:
 

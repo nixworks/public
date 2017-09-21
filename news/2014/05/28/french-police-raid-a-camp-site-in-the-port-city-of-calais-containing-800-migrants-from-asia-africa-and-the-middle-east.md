@@ -8,6 +8,7 @@ Police in the northern French city of Calais are dismantling camps housing hundr
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27599827#TWEET1140827)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75138000/jpg/_75138800_75138799.jpg)
 
 ### Related:
 

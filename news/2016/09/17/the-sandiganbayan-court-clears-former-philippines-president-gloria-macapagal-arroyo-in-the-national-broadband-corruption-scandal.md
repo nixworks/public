@@ -8,6 +8,7 @@ Manila Standard | Defining The News
 ### Source:
 
 1. [The Standard](http://thestandard.com.ph/news/-main-stories/top-stories/216406/gloria-cleared-in-zte-mess.html)
+1. [Cover Image](http://thestandard.com.ph/panel/_files/images/default/default-thumb.jpg)
 
 ### Related:
 

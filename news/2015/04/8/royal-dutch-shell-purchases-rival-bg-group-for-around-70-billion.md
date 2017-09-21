@@ -8,6 +8,7 @@ Petroleum giant Royal Dutch Shell has agreed to buy BG Group for about $70 billi
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/shell-to-buy-bg-group-1428473660)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-HT866_0407sh_G_20150407161923.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Recent discoveries of sarin nerve gas and mustard gas in Iraq renew questions ab
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,120137,00.html)
 2. [Seattle Post-Intelligencer](http://www.seattlepi.com/national/173793_sarin18.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

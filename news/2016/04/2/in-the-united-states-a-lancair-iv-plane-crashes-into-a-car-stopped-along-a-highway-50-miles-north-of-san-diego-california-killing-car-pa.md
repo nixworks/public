@@ -9,6 +9,7 @@ A small plane landed on northbound Interstate 15 in Fallbrook Saturday morning a
 
 1. [New York Daily News](http://www.nydailynews.com/news/national/1-dead-small-plane-crashes-car-calif-freeway-article-1.2586351)
 2. [The San Diego Union Tribune](http://www.sandiegouniontribune.com/news/2016/apr/02/crash-airplane-car-interstae-fallbrook/)
+2. [Cover Image](http://www.trbimg.com/img-57bb45f7/turbine/sdut-crash-airplane-car-interstae-fallbrook-2016apr02)
 
 ### Related:
 

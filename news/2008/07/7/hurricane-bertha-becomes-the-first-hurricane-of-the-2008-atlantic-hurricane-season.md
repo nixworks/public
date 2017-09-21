@@ -8,6 +8,7 @@ Strengthening far more swiftly and vigorously than predicted, Hurricane Bertha b
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKN0738496720080707)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080707&t=2&i=5060182&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-07-07T221425Z_01_N07384967_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

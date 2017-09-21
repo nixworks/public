@@ -8,6 +8,7 @@ Islamic State said on Tuesday one of its most prominent and longest-serving lead
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-islamic-state-spokesma-idUSKCN1152GG?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160830&t=2&i=1151635870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7T1JV)
 
 ### Related:
 

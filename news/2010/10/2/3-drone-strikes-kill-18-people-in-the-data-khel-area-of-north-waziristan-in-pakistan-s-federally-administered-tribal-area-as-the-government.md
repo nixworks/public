@@ -9,6 +9,7 @@ Nine suspected militants are killed in two US drone attacks, amid tensions betwe
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11458921)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/02/pakistan.drone.strike/index.html?hpt=T2)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

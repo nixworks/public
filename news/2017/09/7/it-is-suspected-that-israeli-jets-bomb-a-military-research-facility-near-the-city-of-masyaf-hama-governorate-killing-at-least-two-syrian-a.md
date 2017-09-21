@@ -9,6 +9,7 @@ Syrian military appears to confirm media reports of attack on research centre ne
 
 1. [The Guardian](https://www.theguardian.com/world/2017/sep/07/israel-airstrike-syria-chemical-weapons-facility)
 2. [The Washington Post](https://www.washingtonpost.com/world/israeli-airstrikes-target-syrian-research-center-linked-to-chemical-weapons/2017/09/07/2230abda-93a5-11e7-b9bc-b2f7903bab0d_story.html)
+2. [Cover Image](https://i.guim.co.uk/img/media/52bae457f8168b3c25087673fa52a4e3fe0c4dcd/0_205_3905_2343/master/3905.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0e569588e627331b8a2f233b405dcd9f)
 
 ### Related:
 

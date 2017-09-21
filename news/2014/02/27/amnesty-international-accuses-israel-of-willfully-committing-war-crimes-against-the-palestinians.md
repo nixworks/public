@@ -8,6 +8,7 @@ JERUSALEM -- Israeli security forces use excessive force against Palestinians in
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-israel-amnesty-international-palestinians-20140227,0,5026359.story#axzz2uV3oG0YX)
+1. [Cover Image](http://www.trbimg.com/img-530f86b7/turbine/la-fg-wn-israel-amnesty-international-palestinians-20140227)
 
 ### Related:
 

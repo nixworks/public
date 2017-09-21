@@ -9,6 +9,7 @@ At least six people killed and many injured in attacks in the Iraqi capital.
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201066184432153242.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/06/06/iraq.violence/index.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

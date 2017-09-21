@@ -10,6 +10,7 @@ The United States on Friday vetoed a draft U.N. Security Council resolution cond
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/palestinian-envoy-u-s-veto-at-un-encourages-israeli-intransigence-on-settlements-1.344364)
 2. [Reuters](http://www.reuters.com/article/2011/02/18/us-palestinians-israel-un-vote-idUSTRE71H6W720110218)
 3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=37572&Cr=palestin&Cr1=)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

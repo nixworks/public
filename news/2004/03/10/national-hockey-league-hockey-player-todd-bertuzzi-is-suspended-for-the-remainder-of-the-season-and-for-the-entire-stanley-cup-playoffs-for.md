@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TSN](http://www.tsn.ca/nhl/news_story.asp?id=75890)
+1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
 
 ### Related:
 

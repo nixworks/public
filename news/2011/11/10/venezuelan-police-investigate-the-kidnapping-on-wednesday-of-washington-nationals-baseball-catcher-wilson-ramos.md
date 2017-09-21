@@ -8,6 +8,7 @@ Officials in Venezuela say they have found the vehicle used to kidnap Washington
 ### Source:
 
 1. [USA Today](http://content.usatoday.com/communities/dailypitch/post/2011/11/nationals-catcher-wilson-ramos-reportedly-kidnapped-in-venezuela/1)
+1. [Cover Image](http://i.usatoday.net/communitymanager/_photos/daily-pitch/2011/11/09/ramosx-inset-community.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Argentine President Cristina Fernandez, battling capital flight and high inflati
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18350878)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60750000/jpg/_60750449_60750448.jpg)
 
 ### Related:
 

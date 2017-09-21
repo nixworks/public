@@ -9,6 +9,7 @@ New research suggests lung cancer outcomes could be improved through statin use.
 
 1. [AACR](http://www.aacr.org/Newsroom/Pages/News-Release-Detail.aspx?ItemID=726#.VUWOTGfwvcs)
 2. [HNGN](http://www.hngn.com/articles/89247/20150501/lung-cancer-deaths-could-be-prevented-with-statins.htm)
+2. [Cover Image](http://images.hngn.com/data/images/full/7858/hormone-therapy.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 37 people were killed and as many injured when a Gujarat State Road Tra
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/india/at-least-37-killed-as-bus-plunges-into-river-in-gujarat/story-3UoNJr8kTlyhK8bI2LTZML.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/02/06/Pictures/india-bus-accident_7eb4740e-cc41-11e5-83ed-24f59eb81169.jpg)
 
 ### Related:
 

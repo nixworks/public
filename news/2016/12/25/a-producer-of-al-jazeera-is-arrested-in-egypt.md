@@ -8,6 +8,7 @@ Egypt confirmed on Sunday that it had arrested an Al Jazeera news producer, accu
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-egypt-qatar-jazeera-idUSKBN14E0BR)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

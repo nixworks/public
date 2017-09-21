@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-22025100)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66745000/jpg/_66745851_alzbrain.jpg)
 
 ### Related:
 

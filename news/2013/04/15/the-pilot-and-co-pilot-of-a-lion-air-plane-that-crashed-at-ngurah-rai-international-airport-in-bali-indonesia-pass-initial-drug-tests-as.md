@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/bali-crash-pilots-pass/638966.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/637758/1366006137000/large16x9/640/360/bali-air-crash.jpg)
 
 ### Related:
 

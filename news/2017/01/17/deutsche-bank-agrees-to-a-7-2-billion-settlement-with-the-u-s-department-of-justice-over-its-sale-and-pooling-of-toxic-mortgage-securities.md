@@ -8,6 +8,7 @@ Deutsche Bank (DBKGn.DE) has agreed to a $7.2 billion settlement with the U.S. D
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-deutsche-bank-mortgages-settlement-idUSKBN14C041)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161223&t=2&i=1166548896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBM0J7)
 
 ### Related:
 

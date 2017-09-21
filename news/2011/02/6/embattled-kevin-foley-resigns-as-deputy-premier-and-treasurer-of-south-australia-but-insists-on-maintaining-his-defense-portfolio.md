@@ -8,6 +8,7 @@ Embattled Kevin Foley has stepped down as South Australian deputy premier and tr
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/foley-steps-down-as-sa-deputy-premier-20110206-1ai62.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

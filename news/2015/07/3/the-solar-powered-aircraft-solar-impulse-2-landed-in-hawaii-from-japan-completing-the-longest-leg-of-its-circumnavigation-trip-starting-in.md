@@ -8,6 +8,7 @@ Solar Impulse, the aeroplane that is powered only by the sun, lands in Hawaii af
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-33383521)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F0D6/production/_84045616_028004618.jpg)
 
 ### Related:
 

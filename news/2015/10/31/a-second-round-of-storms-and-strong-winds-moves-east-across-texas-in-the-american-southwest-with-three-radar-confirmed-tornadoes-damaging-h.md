@@ -9,6 +9,7 @@ Flash flood advisories remain in place until Sunday
 
 1. [AP update](http://bigstory.ap.org/article/84324a168fb348abb4a3d2699fe66878/search-2-missing-central-texas-floods-continue)
 2. [AP via USA Today](http://www.usatoday.com/story/news/nation/2015/10/31/storms-possible-tornadoes-lash-texas/74937852/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Kenyan MPs vote to increase their salaries by 18%, making them among the best-pa
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10476388.stm)
 2. [News24.com](http://www.news24.com/Africa/News/Kenyan-MPs-raise-their-pay-20100701)
 3. [Reuters](http://www.reuters.com/article/idUSTRE6601NS20100701)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@ News and opinion from The Times &amp; The Sunday Times
 2. [Ha'aretz](http://www.haaretz.com/hasen/spages/593011.html)
 3. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1119838847665)
 4. [Times](http://www.timesonline.co.uk/article/0,,251-1671898,00.html)
+4. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

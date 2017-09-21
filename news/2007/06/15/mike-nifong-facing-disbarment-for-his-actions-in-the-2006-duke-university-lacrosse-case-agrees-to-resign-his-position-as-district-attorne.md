@@ -8,6 +8,7 @@ The district attorney who prosecuted three Duke University lacrosse players accu
 ### Source:
 
 1. [AP via ESPN.com](http://sports.espn.go.com/ncaa/news/story?id=2905141)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

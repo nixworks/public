@@ -8,6 +8,7 @@ The principality of Monaco celebrates the wedding of ruler Prince Albert to Sout
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13973248)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53814000/jpg/_53814604_53814599.jpg)
 
 ### Related:
 

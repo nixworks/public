@@ -8,6 +8,7 @@ Libyan forces say they have recaptured the port in the city of Sirte, after fier
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36505935)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/180A0/production/_89946489_sirte1.jpg)
 
 ### Related:
 

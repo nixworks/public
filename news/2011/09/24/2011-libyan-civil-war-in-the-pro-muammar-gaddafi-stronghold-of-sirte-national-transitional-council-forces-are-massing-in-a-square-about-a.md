@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/09/24/us-libya-idUSTRE7810I820110924)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110924&t=2&i=506260862&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-24T210400Z_01_BTRE78N1MIQ00_RTROPTP_0_LIBYA)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/02/yemen-become-six-region-federation-2014210124731726931.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/2/2//2014227165747734_20.jpg)
 
 ### Related:
 

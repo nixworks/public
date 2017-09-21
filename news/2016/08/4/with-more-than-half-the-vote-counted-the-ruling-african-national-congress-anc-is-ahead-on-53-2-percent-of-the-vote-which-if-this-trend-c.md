@@ -9,6 +9,7 @@ South Africa&#39;s opposition DA party wins a majority in local elections in thr
 
 1. [Financial Times](http://www.ft.com/cms/s/0/a4d6f4c2-5a03-11e6-9f70-badea1b336d4.html#axzz4GN7PLlGJ)
 2. [Press TV](http://www.presstv.ir/Detail/2016/08/04/478439/South-Africa-ANC-DA-Pretoria-Johannesburg-Port-Elizabeth)
+2. [Cover Image](http://cdn.presstv.com/photo/20160804/ecfe0bbe-fc09-453f-a5e9-c61eb3ec0387.jpg)
 
 ### Related:
 

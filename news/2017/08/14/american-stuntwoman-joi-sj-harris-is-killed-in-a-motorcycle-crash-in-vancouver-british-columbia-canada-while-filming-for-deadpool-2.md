@@ -8,6 +8,7 @@ The late SJ Harris was noted for being the first African-American female profess
 ### Source:
 
 1. [The Hollywood Reporter](http://www.hollywoodreporter.com/heat-vision/deadpool-2-stuntwoman-who-died-shoot-gets-identified-1029726)
+1. [Cover Image](http://cdn3.thr.com/sites/default/files/2016/02/deadpool_still_2.jpg)
 
 ### Related:
 

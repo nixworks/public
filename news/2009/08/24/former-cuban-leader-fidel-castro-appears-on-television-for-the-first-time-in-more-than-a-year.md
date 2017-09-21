@@ -9,6 +9,7 @@ Former president shown meeting students, suggesting his health has improved.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/08/2009824401286492.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8217334.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

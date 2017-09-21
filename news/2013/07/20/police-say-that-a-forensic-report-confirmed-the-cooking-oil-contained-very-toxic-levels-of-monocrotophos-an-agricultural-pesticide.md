@@ -9,3 +9,4 @@ Tests confirm high levels of pesticide in samples of the school meal blamed for 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23390972)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jul/20/india-school-meal-deaths-bihar-pesticide)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68860000/jpg/_68860306_68860305.jpg)

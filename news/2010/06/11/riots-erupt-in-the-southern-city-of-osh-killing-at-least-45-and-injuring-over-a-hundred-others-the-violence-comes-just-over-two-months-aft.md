@@ -13,6 +13,7 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 4. [News Daily](http://www.newsdaily.com/stories/tre65a02b-us-kyrgyzstan-violence/)
 5. [RIA Novosti](http://rianovosti.com/world/20100611/159383156.html)
 6. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100611-700136.html?mod=WSJ_latestheadlines)
+6. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

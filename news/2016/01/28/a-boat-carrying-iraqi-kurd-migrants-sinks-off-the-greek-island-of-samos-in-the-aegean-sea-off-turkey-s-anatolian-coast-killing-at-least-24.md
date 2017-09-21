@@ -9,6 +9,7 @@ At least 24 migrants - including 9 children - have died after their boat sank of
 
 1. [NBC News](http://www.nbcnews.com/storyline/europes-border-crisis/migrant-boat-sinks-samos-greece-least-24-dead-including-9-n505726)
 2. [The New York Times](http://www.nytimes.com/2016/01/29/world/europe/refugees-migrants-kurds-greece.html?_r=0)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_04/1393471/160128-world-greece-migrants-samos-9a-jpg-0853_22610ea60d508cf2491210e5716ffbb2.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

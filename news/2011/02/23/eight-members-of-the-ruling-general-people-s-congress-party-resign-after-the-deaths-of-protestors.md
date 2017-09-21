@@ -8,6 +8,7 @@ Yemeni&#x20;protesters&#x20;remained&#x20;defiant&#x20;on&#x20;Wednesday&#x20;fo
 ### Source:
 
 1. [RFI](http://www.english.rfi.fr/middle-east/20110223-yemini-protesters-defiant-after-deaths-mps-resign)
+1. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/yemen_egg.jpg)
 
 ### Related:
 

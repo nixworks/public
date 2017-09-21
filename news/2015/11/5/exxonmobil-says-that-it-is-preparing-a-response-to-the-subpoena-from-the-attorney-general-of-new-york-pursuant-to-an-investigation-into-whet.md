@@ -8,6 +8,7 @@ The New York attorney general has launched an investigation into whether Exxon M
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/06/us-exxon-mobil-climatechange-idUSKCN0SU30D20151106#WwU25FkYk4WLQ57y.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151106&t=2&i=1092668365&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA417Z)
 
 ### Related:
 

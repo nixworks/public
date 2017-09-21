@@ -8,6 +8,7 @@ Cyclone Phailin has left a trail of death and destruction along India&#039;s imp
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/cyclone-havoc-on-indian-coast-20131013-2vghc.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/v/g/x/i/image.related.articleLeadwide.620x349.2vghc.png/1381698061880.jpg)
 
 ### Related:
 

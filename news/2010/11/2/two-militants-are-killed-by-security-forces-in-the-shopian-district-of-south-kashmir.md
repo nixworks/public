@@ -9,6 +9,7 @@ Srinagar: Two militants were killed in an encounter with security forces in Shop
 
 1. [Hindustan Times](http://www.hindustantimes.com/Militants-killed-in-encounter-with-security-forces/H1-Article1-620987.aspx)
 2. [Sify](http://sify.com/news/two-militants-killed-in-encounter-with-security-forces-news-national-klci4gbgidb.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

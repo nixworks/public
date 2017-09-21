@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Rappler](http://www.rappler.com/world/regions/asia-pacific/124908-north-korea-threatens-pre-emptive-nuclear-strike)
+1. [Cover Image](http://assets.rappler.com/32FC120EDCFC4130AB98EEFD785DF004/img/862BB78C3A514B38908603BC2B79BCE8/epa-20160216-skorea-military-exercise-001-640.jpg)
 
 ### Related:
 

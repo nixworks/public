@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/28/us-mfglobal-idUSTRE7BR02O20111228)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111228&t=2&i=551772000&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BR037M00)
 
 ### Related:
 

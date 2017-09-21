@@ -11,6 +11,7 @@
 2. [France24](http://www.france24.com/en/20100302-irish-town-snubs-israel-envoy-protest-report)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=119839&sectionid=351020202)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/uae-seeks-israeli-pms-arrest-for-murder-20100303-pgqa.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

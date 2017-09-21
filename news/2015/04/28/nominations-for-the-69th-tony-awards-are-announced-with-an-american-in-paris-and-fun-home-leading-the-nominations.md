@@ -8,6 +8,7 @@ An&nbsp;American&nbsp;in&nbsp;Paris&nbsp;and&nbsp;Fun&nbsp;Home&nbsp;topped&nbsp
 ### Source:
 
 1. [Broadway](http://www.broadway.com/buzz/180570/an-american-in-paris-fun-home-top-2015-tony-nominations/)
+1. [Cover Image](http://d2npu017ljjude.cloudfront.net/images/social/w630/20674-0.jpg)
 
 ### Related:
 

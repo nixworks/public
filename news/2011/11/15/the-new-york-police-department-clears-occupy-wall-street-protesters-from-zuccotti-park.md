@@ -8,6 +8,7 @@ The judge said the demonstrators had not shown “that they have a First Amendme
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/11/16/nyregion/police-begin-clearing-zuccotti-park-of-protesters.html?_r=1&partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2011/11/15/nyregion/20111115_ZUCCOTTI-slide-AWHQ/20111115_ZUCCOTTI-slide-AWHQ-thumbStandard.jpg)
 
 ### Related:
 

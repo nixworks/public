@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New York Daily News](http://live.nydailynews.com/Event/Oscar_Pistorius_Murder_Trial_for_Reeva_Steenkamps_Death?Page=3)
+1. [Cover Image](http://images.scribblelive.com/2014/3/3/b7a88145-17b9-48b8-b7d7-bbdb22bff6dd.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Botox maker Allergan Inc on Monday accepted a $66 billion takeover bid from Acta
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/17/us-allergan-actavis-idUSKCN0J00W720141117)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141117&t=2&i=992528465&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAG0VC)
 
 ### Related:
 

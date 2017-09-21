@@ -8,6 +8,7 @@ China landed an unmanned spacecraft on the moon on Saturday, state media reporte
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/14/us-china-moon-idUSBRE9BD06T20131214)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131214&t=2&i=820325482&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BD1AN900)
 
 ### Related:
 

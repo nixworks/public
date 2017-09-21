@@ -8,6 +8,7 @@ A car bomb targets a government building in the Iraqi Kurdish capital, Irbil, wi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-30110749)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79127000/jpg/_79127780_79127775.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/07/20137383834271630.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jul/03/ecuador-microphone-bug-london-embassy)
+2. [Cover Image](http://www.aljazeera.com/mritems/images/2013/7/3//20137385542708734_20.jpg)
 
 ### Related:
 

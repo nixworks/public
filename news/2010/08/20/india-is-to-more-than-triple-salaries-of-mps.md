@@ -8,6 +8,7 @@ The Indian cabinet clears a proposal to raise the salaries of members of parliam
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11034429)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

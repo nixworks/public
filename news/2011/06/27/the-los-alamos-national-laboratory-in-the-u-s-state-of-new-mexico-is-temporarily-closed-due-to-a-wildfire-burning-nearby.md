@@ -9,6 +9,7 @@ A raging wildfire near the Los Alamos National Laboratory in New Mexico has prom
 
 1. [CNN](http://www.cnn.com/2011/US/06/27/new.mexico.los.alamos/)
 2. [Los Alamos Monitor](http://www.lamonitor.com/content/los-alamos-county-declares-state-emergency-wait-instructions-evacuate)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/06/27/new.mexico.los.alamos/tzvids.losalomos.natlab.gi.jpg)
 
 ### Related:
 

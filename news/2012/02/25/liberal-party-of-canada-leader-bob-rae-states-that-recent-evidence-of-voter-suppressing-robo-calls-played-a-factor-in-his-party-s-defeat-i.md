@@ -8,6 +8,7 @@ Voter suppression tactics, including a pattern of harassing phone calls, were a 
 ### Source:
 
 1. [The Gazette](http://www.montrealgazette.com/news/Ontario+calls+robocalls+shameful+tactic/6210044/story.html)
+1. [Cover Image](http://www.montrealgazette.com/cms/binary/6210283.jpg)
 
 ### Related:
 

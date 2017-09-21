@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [IHT](http://www.iht.com/articles/2005/04/03/news/resign.html)
 2. [Moscow Times](http://www.themoscowtimes.com/stories/2005/04/04/015.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8069867)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

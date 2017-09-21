@@ -8,6 +8,7 @@ Docker’s grandson, who led country from 1974 to 1982 as it rose to become a gl
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/nov/10/helmut-schmidt-former-west-german-chancellor-dies-aged-96)
+1. [Cover Image](https://i.guim.co.uk/img/media/8a261d209045751476fa7a9225d362a3892f3aa6/0_0_3500_2098/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=50f9bc1c8f71c1fbec1dca528699ade3)
 
 ### Related:
 

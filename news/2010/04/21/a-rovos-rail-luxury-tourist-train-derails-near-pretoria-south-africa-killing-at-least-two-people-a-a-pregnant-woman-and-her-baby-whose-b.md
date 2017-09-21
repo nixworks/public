@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8635303.stm)
 2. [Mail & Guardian](http://www.mg.co.za/article/2010-04-21-newborn-baby-among-those-killed-in-luxury-train-accident)
 3. [News24](http://www.news24.com/SouthAfrica/News/Carnage-at-train-derailment-scene-20100421)
+3. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

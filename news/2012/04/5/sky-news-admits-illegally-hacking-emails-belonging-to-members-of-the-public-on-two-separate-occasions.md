@@ -8,6 +8,7 @@ Sky News has said it illegally hacked emails on two occasions, including those b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17628600)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52380000/jpg/_52380260_005909277-1.jpg)
 
 ### Related:
 

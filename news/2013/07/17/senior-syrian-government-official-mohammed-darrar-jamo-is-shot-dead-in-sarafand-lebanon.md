@@ -8,3 +8,4 @@ A prominent Syrian political figure, Mohammed Darrar Jamo, is shot dead in the s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23341085)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68777000/jpg/_68777844_68777843.jpg)

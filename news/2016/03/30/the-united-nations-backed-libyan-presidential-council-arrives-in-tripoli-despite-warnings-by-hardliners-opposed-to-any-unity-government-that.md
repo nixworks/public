@@ -8,6 +8,7 @@ Members including new unity government PM designate Fayez al-Sarraj arrive by bo
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/30/libyan-presidential-council-unity-government-fayez-sarraj-tripoli)
+1. [Cover Image](https://i.guim.co.uk/img/media/0d8abc4397ff14cc0fd3bb9d4fdeec36959ebf1a/0_211_3131_1878/master/3131.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=54667204ff8d73997f906a1c09167bdd)
 
 ### Related:
 

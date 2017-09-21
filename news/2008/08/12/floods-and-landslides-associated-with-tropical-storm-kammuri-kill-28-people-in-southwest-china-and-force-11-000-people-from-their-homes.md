@@ -8,6 +8,7 @@ Landslides and flash floods have killed at least 28 people in south-west China a
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/08/12/2333240.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

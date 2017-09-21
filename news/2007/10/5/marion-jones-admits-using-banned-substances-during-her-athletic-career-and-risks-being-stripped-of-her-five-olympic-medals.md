@@ -8,6 +8,7 @@ Marion Jones has admitted that she took banned drugs during her career, in a mov
 ### Source:
 
 1. [AFP via ABC News Online](http://www.abc.net.au/news/stories/2007/10/06/2052570.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/466816-1x1-700x700.jpg)
 
 ### Related:
 

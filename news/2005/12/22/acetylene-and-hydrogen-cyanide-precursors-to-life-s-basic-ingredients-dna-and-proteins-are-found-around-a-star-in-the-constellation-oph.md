@@ -9,6 +9,7 @@ Space.com: Astronomers find some of the basic compounds necessary to build organ
 
 1. [MSNBC](http://msnbc.msn.com/id/10550906/)
 2. [NASA JPL](http://www.jpl.nasa.gov/news/news.cfm?release=2005-175)
+2. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/051220/dustdisk.standard.jpg)
 
 ### Related:
 

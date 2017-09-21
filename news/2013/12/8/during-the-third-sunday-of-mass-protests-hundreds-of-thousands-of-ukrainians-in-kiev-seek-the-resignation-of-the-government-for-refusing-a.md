@@ -9,6 +9,7 @@ Protesters in the Ukrainian capital Kiev topple a statue of Lenin as they call f
 
 1. [BBC News](http://www.bbc.co.uk/news/world-europe-25290959)
 2. [CNN](http://edition.cnn.com/2013/12/08/world/europe/ukraine-protests/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71613000/jpg/_71613763_020274882.jpg)
 
 ### Related:
 

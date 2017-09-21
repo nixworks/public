@@ -8,6 +8,7 @@ The Dawn space probe has returned the first up-close and detailed image of the a
 ### Source:
 
 1. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/07/dawn-probe-snaps-first-close-up-of-gaint-asteroid/1)
+1. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2011/07/18/Vestax-wide-community.jpg)
 
 ### Related:
 

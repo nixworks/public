@@ -8,6 +8,7 @@ Kazakhstan is building a fence along 28 miles of its long border with Uzbekistan
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2006/10/20/world/asia/20briefs-008.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

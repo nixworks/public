@@ -8,6 +8,7 @@ Bruno Le Roux gave parliamentary work to his daughters when they were teenagers.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39346617)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/739B/production/_95259592_bruno2.jpg)
 
 ### Related:
 

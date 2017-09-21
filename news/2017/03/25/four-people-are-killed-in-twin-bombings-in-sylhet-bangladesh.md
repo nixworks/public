@@ -8,6 +8,7 @@ Bangladesh has seen an escalation of suspected jihadist violence in recent weeks
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39394487)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8963/production/_95317153_gettyimages-657658070-1.jpg)
 
 ### Related:
 

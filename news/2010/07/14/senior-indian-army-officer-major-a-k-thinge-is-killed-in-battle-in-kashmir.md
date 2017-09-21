@@ -11,6 +11,7 @@ A senior Indian army officer dies in a gun battle with militants in Indian-admin
 2. [Indian Express](http://www.indianexpress.com/news/army-major-killed-in-encounter-with-let/646423/)
 3. [People's Daily](http://english.people.com.cn/90001/90777/90851/7066268.html)
 4. [The Times of India](http://timesofindia.indiatimes.com/India/Major-killed-Colonel-injured-in-gunbattle/articleshow/6169556.cms)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
@@ -23,4 +24,4 @@ A senior Indian army officer dies in a gun battle with militants in Indian-admin
 7. [An Indian Army soldier is killed in an exchange of fire with the Pakistan Army over the Kashmir border. ](/news/2011/05/14/an-indian-army-soldier-is-killed-in-an-exchange-of-fire-with-the-pakistan-army-over-the-kashmir-border.md) _Context: Indian Army, Kashmir_
 8. [The Indian Army insists it is to inquire "on its own" the death of a man in Kashmir, allegedly killed in an army ambush. His family says he was snatched from his home before being shot. ](/news/2011/02/6/the-indian-army-insists-it-is-to-inquire-on-its-own-the-death-of-a-man-in-kashmir-allegedly-killed-in-an-army-ambush-his-family-says-he.md) _Context: Indian Army, Kashmir_
 9. [The Indian Army says that nearly 40 militants have been killed by security forces during 25 infiltration attempts in Indian-controlled Kashmir from across the border in the last two months. ](/news/2010/10/11/the-indian-army-says-that-nearly-40-militants-have-been-killed-by-security-forces-during-25-infiltration-attempts-in-indian-controlled-kashm.md) _Context: Indian Army, Kashmir_
-10. [Six people are killed and two are missing after the Jhelum River in Kashmir overflows following heavy rain and snowfall. ](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.md) _Context: Kashmir_
+10. [ Indian policemen and soldiers of the Indian Army recover 300&nbsp;kg of RDX from a grocery store near the southern Kashmir town of Anantnag, 55&nbsp;km from Srinagar. This is the biggest ever explosive haul in the state of Jammu and Kashmir. ](/news/2004/11/20/indian-policemen-and-soldiers-of-the-indian-army-recover-300-nbsp-kg-of-rdx-from-a-grocery-store-near-the-southern-kashmir-town-of-anantnag.md) _Context: Indian Army, Kashmir_

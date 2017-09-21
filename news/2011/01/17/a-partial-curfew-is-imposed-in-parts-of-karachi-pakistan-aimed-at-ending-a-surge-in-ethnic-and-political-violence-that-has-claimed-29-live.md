@@ -9,6 +9,7 @@ A partial curfew will be imposed in parts of Pakistan&rsquo;s financial hub of K
 
 1. [9 (''The Times of India](http://timesofindia.indiatimes.com/world/pakistan/Pak-to-impose-curfew-in-Karachi/articleshow/7301565.cms#ixzz1BGFqm2GS)
 2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2011\01\17\story_17-1-2011_pg1_1)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

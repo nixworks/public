@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/10/21/us-libya-clashes-idUSBRE89K07G20121021)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121021&t=2&i=665776384&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89K1D0Z00)
 
 ### Related:
 

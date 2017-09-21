@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-imf-g20-rates-idUSKCN0X70TX)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160410&t=2&i=1131741827&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC390LO)
 
 ### Related:
 

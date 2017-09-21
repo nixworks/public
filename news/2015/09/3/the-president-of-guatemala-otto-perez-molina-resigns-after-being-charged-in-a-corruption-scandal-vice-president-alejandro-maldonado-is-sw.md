@@ -9,6 +9,7 @@
 
 1. [BBC News](http://www.bbc.com/news/world-latin-america-34147891)
 2. [The New York Times](http://mobile.nytimes.com/aponline/2015/09/03/world/americas/ap-lt-guatemala-political-crisis.html?referrer=)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E746/production/_85360295_hi028849330.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/13/us-usa-housing-fha-idUSTRE81C1TO20120213)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120213&t=2&i=570326559&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81C1LMI00)
 
 ### Related:
 

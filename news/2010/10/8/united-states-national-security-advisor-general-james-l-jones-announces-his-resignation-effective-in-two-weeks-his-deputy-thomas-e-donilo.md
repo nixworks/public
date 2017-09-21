@@ -9,6 +9,7 @@ In an afternoon statement in the White House Rose Garden, President Barack Obama
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/201010818565478507.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/39573844/ns/politics-white_house/)
+2. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_mitchell_jones_101008.standard.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Children are among at least 26 people massacred in Egypt and dozens more injured
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-40067473)
 2. [The Independent](http://www.independent.co.uk/news/world/africa/minya-bus-shooting-coptic-christians-killed-injured-egypt-gun-attack-anba-samuel-monastery-a7756906.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/05/26/13/coptic-christians-egypt_0.jpg)
 
 ### Related:
 

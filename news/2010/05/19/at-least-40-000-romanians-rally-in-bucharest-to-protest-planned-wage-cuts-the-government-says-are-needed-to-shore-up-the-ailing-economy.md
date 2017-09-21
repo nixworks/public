@@ -11,6 +11,7 @@ Tens of thousands of public sector workers demonstrate in the Romanian capital t
 2. [Mediafax](http://www.mediafax.ro/english/romanian-union-leader-announces-daily-protests-40-000-to-rally-on-may-19-6106304/foto)
 3. [Reuters](http://www.reuters.com/article/idUSLDE64I0S920100519?loomia_ow=t0:s0:a49:g43:r2:c0.200000:b34143522:z0)
 4. [Yahoo](http://finance.yahoo.com/news/Tens-of-thousands-protest-apf-3855337671.html?x=0)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

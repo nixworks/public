@@ -8,6 +8,7 @@ Residents of Harasta say entrances blocked by elite forces as foreign minister g
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011720134034659458.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/17/201171761623973621_20.jpg)
 
 ### Related:
 

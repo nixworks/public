@@ -11,6 +11,7 @@ Three attackers killed seven people and injured 48 others near London Bridge. Th
 2. [BBC](http://www.bbc.com/news/uk-40148737)
 3. [Metro](http://metro.co.uk/2017/06/04/three-explosions-heard-near-london-bridge-6682987/)
 4. [The Washington Post](https://www.washingtonpost.com/world/police-declare-major-incident-on-london-bridge-after-van-reported-to-hit-pedestrians/2017/06/03/6d1854c0-48a7-11e7-8de1-cec59a9bf4b1_story.html)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/151F2/production/_96341568_raids3_rtr.jpg)
 
 ### Related:
 

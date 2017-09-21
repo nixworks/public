@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Canada.com](http://o.canada.com/2013/07/14/corey-monteith-dead/)
+1. [Cover Image](http://wpmedia.o.canada.com/2013/07/monteith.jpg)
 
 ### Related:
 

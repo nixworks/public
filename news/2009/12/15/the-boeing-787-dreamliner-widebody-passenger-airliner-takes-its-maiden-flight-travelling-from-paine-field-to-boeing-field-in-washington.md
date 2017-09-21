@@ -10,6 +10,7 @@ Boeing Co (BA.N) completed thefirst test flight of its new lightweight carbon an
 1. [BBC](http://news.bbc.co.uk/1/hi/business/8413466.stm)
 2. [Reuters](http://www.reuters.com/article/idUSN1521844620091215?type=marketsNews)
 3. [USA Today](http://www.usatoday.com/travel/flights/item.aspx?type=blog&ak=11487.blog)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

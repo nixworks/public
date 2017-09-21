@@ -10,6 +10,7 @@ NASA will detail a major science finding from the agency’s ongoing exploration
 1. [CNBC](http://www.cnbc.com/2015/09/28/ter-nasa.html)
 2. [NASA](http://www.nasa.gov/press-release/nasa-to-announce-mars-mystery-solved/)
 3. [News Limited via ''Daily Telegraph](http://www.dailytelegraph.com.au/technology/science/nasa-to-hold-urgent-press-conference-to-announce-major-science-finding-from-mars/story-fnjwlbuc-1227545913251)
+3. [Cover Image](http://www.nasa.gov/sites/default/files/thumbnails/image/m15-145.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A 39-year-old surfer dies after a shark attack off the California coast - the se
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20052152)
 2. [CNN](http://www.cnn.com/2012/10/23/us/california-shark-attack-death/index.html?hpt=hp_t3)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63674000/jpg/_63674340_010476413-1.jpg)
 
 ### Related:
 

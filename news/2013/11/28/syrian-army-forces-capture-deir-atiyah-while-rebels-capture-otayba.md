@@ -14,6 +14,7 @@ The Syrian army recaptures the strategic town of Deir Attiyeh, less than a week 
 5. [One News](http://tvnz.co.nz/world-news/us-offers-destroy-syrian-chemical-weapons-sea-5733869)
 6. [Reuters](http://www.reuters.com/article/2013/11/28/us-russia-embassy-shelling-idUSBRE9AR0J320131128)
 7. [SBS](http://www.sbs.com.au/news/article/2013/11/29/syrian-refugees-top-three-million-mark-un)
+7. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/11/28/228589_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

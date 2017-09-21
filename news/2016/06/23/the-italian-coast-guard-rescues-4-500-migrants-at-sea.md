@@ -8,6 +8,7 @@ Some 5,000 migrants were rescued from rubber dinghies in the Mediterranean on Th
 ### Source:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/4-500-people-rescued-med-italy-coastguard-165330685.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/f2K1f0ZbxZq62rQWHMjdug--/aD02NDY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ba3dc5180c510861a1a096b34911059e4473e8a3.jpg)
 
 ### Related:
 

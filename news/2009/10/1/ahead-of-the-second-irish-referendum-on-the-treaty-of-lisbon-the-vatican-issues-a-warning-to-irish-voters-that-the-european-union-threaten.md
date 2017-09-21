@@ -9,6 +9,7 @@ The Vatican has made an unexpected last-minute intervention on the eve of Irelan
 
 1. [Irish Independent](http://www.independent.ie/national-news/cowen-insists-no-thirdtime-lucky-if-treaty-rejected-again-1901139.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/6251741/Vatican-issues-Lisbon-Treaty-warning-to-Irish-voters.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01490/ireland_referendum_1490079a.jpg)
 
 ### Related:
 

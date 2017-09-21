@@ -8,6 +8,7 @@ The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18460638)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60930000/jpg/_60930585_monti_ap.jpg)
 
 ### Related:
 

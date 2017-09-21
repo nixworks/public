@@ -10,6 +10,7 @@ Eleven men on the roof of the detention centre want to speak to Department of Im
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/21/3018147.htm?section=justin)
 2. [ABC News](http://www.abc.net.au/news/stories/2010/09/21/3017758.htm)
 3. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100921/wl_asia_afp/australiaimmigrationprotest)
+3. [Cover Image](http://www.abc.net.au/news/image/2267616-1x1-700x700.jpg)
 
 ### Related:
 

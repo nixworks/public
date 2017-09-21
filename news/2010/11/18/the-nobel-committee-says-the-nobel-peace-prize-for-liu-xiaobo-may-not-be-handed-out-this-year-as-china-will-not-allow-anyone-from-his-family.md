@@ -10,6 +10,7 @@ The presentation in Oslo next month will most likely be postponed because China 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/201011181355672380.html)
 2. [Sify India](http://sify.com/news/nobel-peace-award-unlikely-to-be-given-at-december-ceremony-news-international-klsukyiijed.html)
 3. [The New York Times](http://www.nytimes.com/2010/11/19/world/asia/19nobel.html?_r=1)
+3. [Cover Image](https://static01.nyt.com/images/2010/11/19/world/19nobel3_337-395/NOBEL-REFER-thumbStandard.jpg)
 
 ### Related:
 

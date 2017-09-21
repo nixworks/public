@@ -9,6 +9,7 @@ More than 85 rockets fired on Monday; Hamas claims responsibility for some of la
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.603472)
 2. [Jerusalem Post](http://www.jpost.com/Middle-East/Hamas-claims-responsibility-for-rocket-fire-on-Israel-361830)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.603658.1404772235!/image/681737069.jpg_gen/derivatives/headline_1200x630/681737069.jpg)
 
 ### Related:
 

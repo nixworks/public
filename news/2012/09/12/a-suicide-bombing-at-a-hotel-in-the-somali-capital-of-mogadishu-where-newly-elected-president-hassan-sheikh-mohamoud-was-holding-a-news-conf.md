@@ -9,6 +9,7 @@ A suicide attack at the gates of a Mogadishu hotel where the new Somali leader i
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19568315)
 2. [Reuters](http://www.reuters.com/article/2012/09/12/somalia-conflict-idUSL5E8KCC3120120912)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62857000/jpg/_62857451_62857450.jpg)
 
 ### Related:
 

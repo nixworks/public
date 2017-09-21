@@ -8,6 +8,7 @@ Hong Kong leader CY Leung says he will not seek re-election, citing &quot;stress
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-38260448)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2903/production/_92899401_mediaitem92899400.jpg)
 
 ### Related:
 

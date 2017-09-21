@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/news/india/CBI-to-probe-YSR-helicopter-crash/articleshow/4981749.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/4981749.cms)
 
 ### Related:
 

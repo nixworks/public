@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/10/cholera-outbreak-kills-dozens-niger-2014102721271334296.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/8//2012108142532744734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ British and Japanese ultranationalists will shrug off protests from war veterans
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10973225)
 2. [The Independent](http://www.independent.co.uk/news/world/asia/far-right-pays-tribute-to-japans-war-heroes-2052329.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/08/13/20/431846.bin)
 
 ### Related:
 

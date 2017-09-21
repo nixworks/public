@@ -9,6 +9,7 @@
 
 1. [The Guardian](http://guardianlv.com/2013/05/monsanto-protested-in-36-countries/)
 2. [USA Today](http://www.usatoday.com/story/news/world/2013/05/25/global-protests-monsanto/2361007/)
+2. [Cover Image](http://guardianlv.com/wp-content/uploads/2013/05/IMG_1166-e1369526183742.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Women bishops will be allowed in the Church in Wales following a landmark yes vo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-24064398)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/69819000/jpg/_69819518_bishops3.jpg)
 
 ### Related:
 

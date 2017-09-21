@@ -8,6 +8,7 @@ The European Union opened an office in Yangon on Saturday in recognition of the 
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article3364376.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article12939765.ece/ALTERNATES/LANDSCAPE_615/LAT_MYANMAR_EU)
 
 ### Related:
 

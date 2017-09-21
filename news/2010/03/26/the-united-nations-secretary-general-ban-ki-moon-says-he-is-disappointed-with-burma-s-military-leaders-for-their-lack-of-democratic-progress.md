@@ -10,6 +10,7 @@ UN chief voices concern at lack of progress ahead of planned elections.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201032645122620152.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE62P2U220100326)
 3. [Sydney Morning Herald](http://www.smh.com.au/world/china-urges-burma-to-free-political-prisoners-20100326-r338.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

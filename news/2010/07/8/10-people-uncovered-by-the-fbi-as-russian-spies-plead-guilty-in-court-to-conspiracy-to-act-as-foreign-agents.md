@@ -9,6 +9,7 @@ Ten people plead guilty in a US court to spying for Russia, as the judge orders 
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10563622.stm)
 2. [MSNBC](http://www.msnbc.msn.com/id/38122348/ns/us_news-security/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48287000/jpg/_48287557_48287198.jpg)
 
 ### Related:
 

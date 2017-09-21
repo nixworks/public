@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/2011416134548921153.html)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=579752)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/16/20114167152772371_20.jpg)
 
 ### Related:
 

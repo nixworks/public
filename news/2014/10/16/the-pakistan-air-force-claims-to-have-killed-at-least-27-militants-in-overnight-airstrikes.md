@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''Hindustan Times](http://www.hindustantimes.com/world-news/pakistan-air-strikes-kill-21-militants-officials/article1-1276017.aspx)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2014/07/25/Incoming/Pictures/1244582_Wallpaper2.jpg)
 
 ### Related:
 

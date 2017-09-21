@@ -8,6 +8,7 @@ KAMPALA, Uganda (AP) — African troops captured a junior commander with the Lor
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/african-troops-capture-junior-lra-rebel-commander-122358434.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/XEMfRpYj4g_8KlLpgpVLag--/aD0yOTQ0O3c9NDc2OTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/e302c18ec859150f520f6a7067006a3a.jpg)
 
 ### Related:
 

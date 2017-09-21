@@ -9,6 +9,7 @@ Spanish Prime Minister Mariano Rajoy has declared three days of official mournin
 
 1. [RTE](http://www.rte.ie/news/2013/0725/464516-spain-train-crash/)
 2. [Reuters](http://www.reuters.com/article/2013/07/25/us-spain-train-idUSBRE96N17R20130725)
+2. [Cover Image](https://img.rasset.ie/0007a81f-1600.jpg)
 
 ### Related:
 

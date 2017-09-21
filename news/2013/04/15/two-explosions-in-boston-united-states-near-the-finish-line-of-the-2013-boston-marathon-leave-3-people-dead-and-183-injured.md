@@ -11,6 +11,7 @@ At least three people are killed and more than 100 injured, some seriously, in t
 2. [CNN](http://www.cnn.com/2013/04/15/us/boston-marathon-explosions)
 3. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-pakistani-taliban-deny-involvement-in-boston-bomb-blasts-20130416,0,3986918.story)
 4. [Reuters](http://www.reuters.com/article/2013/04/15/us-athletics-marathon-boston-blast-idUSBRE93E0ZF20130415)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67025000/jpg/_67025153_11cc08c2-2bd1-4ebe-8c48-fd87a837b698.jpg)
 
 ### Related:
 

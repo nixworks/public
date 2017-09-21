@@ -9,6 +9,7 @@ The D.C. primary came more than a week after Clinton was declared the presumptiv
 
 1. [NBC News](http://www.nbcnews.com/politics/2016-election/hillary-clinton-projected-winner-washington-d-c-democratic-primary-n592416?cid=eml_nbn_20160614)
 2. [UPI](http://www.upi.com/Top_News/US/2016/06/17/ACLU-sues-Cleveland-over-GOP-convention-protest-restrictions/2391466190609/?spt=hs&or=tn_us)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_24/1579106/160614-clinton-june-14-2023_012195412375c11fd09462c70d4cabe4.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

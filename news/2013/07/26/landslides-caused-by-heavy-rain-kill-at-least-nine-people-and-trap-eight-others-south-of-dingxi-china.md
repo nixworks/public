@@ -8,6 +8,7 @@ Heavy rains sparked landslides in an earthquake-shattered region of northwestern
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/07/26/landslides-leave-dead-8-missing-in-quake-hit-northwestern-chinese-province/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tropical Storm Darby bore down on Hawaii on Saturday, prompting its governor to 
 
 1. [NHC](http://www.prh.noaa.gov/cphc/tcpages/archive/?prod=TCPCP3.EP052016.048.201607231702)
 2. [Reuters](http://www.reuters.com/article/us-storm-darby-idUSKCN10307V)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

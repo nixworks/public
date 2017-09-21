@@ -9,6 +9,7 @@ A lone man armed with a machete attacked and wounded a guard at the home of Keny
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/kenyan-media-unknown-gunmen-attack-kenyan-vps-home/2017/07/29/4cd29d5e-747d-11e7-8c17-533c52b2f014_story.html)
 2. [Reuters](https://www.reuters.com/article/us-kenya-attacks-idUSKBN1AE0FO)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170729&t=2&i=1194988010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6S0D4)
 
 ### Related:
 

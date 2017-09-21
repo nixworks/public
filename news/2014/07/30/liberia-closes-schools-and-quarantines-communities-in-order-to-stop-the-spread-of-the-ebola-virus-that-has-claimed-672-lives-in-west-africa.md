@@ -8,6 +8,7 @@ Liberia quarantines communities and closes schools across the country in a bid t
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-07-31/liberia-shuts-schools-in-bid-to-halt-ebola-outbreak/5636910)
+1. [Cover Image](http://www.abc.net.au/news/image/5636916-1x1-700x700.jpg)
 
 ### Related:
 

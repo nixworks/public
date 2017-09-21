@@ -11,6 +11,7 @@ People all over the world have been toasting what is described as a momentous an
 2. [RTÉ](http://www.rte.ie/news/2009/0924/guinness.html)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Guinness-Celebrates-250th-Anniversary-Since-Founder-Signed-9000-Year-Lease-At-Brewery/Article/200909415387740?lpos=World_News_First_World_News_Feature_Teaser_Region_0&lid=ARTICLE_15387740_Guinness_Celebrates_250th_Anniversary_Since_Founder_Signed_9%2C000_Year_Lease_At_Brewery_)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0924/1224255127163.html)
+4. [Cover Image](https://img.rasset.ie/00026dc5-1600.jpg)
 
 ### Related:
 

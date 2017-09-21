@@ -8,6 +8,7 @@ Nelson Mandela made a furious phone call to the Cabinet against the Iraq invasio
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-11277148)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

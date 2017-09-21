@@ -8,6 +8,7 @@ The Middleton family complains to the Press Complaints Commission after four pap
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13352580)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52647000/jpg/_52647484_011851800-1.jpg)
 
 ### Related:
 

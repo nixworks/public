@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011125123043953760.html)
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-lebanon-politics-20110125,0,954437.story)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/25/2011125133659517580_20.jpg)
 
 ### Related:
 

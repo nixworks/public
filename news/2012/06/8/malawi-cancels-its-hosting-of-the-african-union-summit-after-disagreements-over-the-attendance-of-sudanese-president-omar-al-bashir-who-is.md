@@ -8,6 +8,7 @@ BLANTYRE, Jun 8 - Malawi said Friday it will not host the African Union summit i
 ### Source:
 
 1. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2012/06/malawi-cancels-au-summit-hosting-over-bashir-invite/)
+1. [Cover Image](http://www.capitalfm.co.ke/news/files/2012/06/OMAR-AL-BASHIR-KHARTOUM.jpg)
 
 ### Related:
 

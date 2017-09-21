@@ -8,6 +8,7 @@ South Dakota carried out its first execution in 60 years on Wednesday, putting t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/domesticNews/idUSN0617465720070712)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

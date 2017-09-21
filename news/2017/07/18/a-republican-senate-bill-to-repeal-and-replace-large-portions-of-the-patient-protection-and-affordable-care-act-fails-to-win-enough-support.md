@@ -8,6 +8,7 @@ The seven-year Republican quest to repeal the Affordable Care Act seemed to reac
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/18/us/politics/republicans-obamacare-repeal-now-replace-later.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/19/us/19dc-health/19dc-health-facebookJumbo.jpg)
 
 ### Related:
 

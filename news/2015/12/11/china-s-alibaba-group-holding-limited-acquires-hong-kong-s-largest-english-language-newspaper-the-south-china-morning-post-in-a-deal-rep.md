@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Business_News/2015/12/11/Alibaba-to-buy-South-China-Morning-Post-in-reported-100M-deal/5831449867302/?spt=hs&or=bn)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/5831449867302/2015/1/14498700196753/v2.1/Alibaba-to-buy-South-China-Morning-Post-in-reported-100M-deal.jpg)
 
 ### Related:
 

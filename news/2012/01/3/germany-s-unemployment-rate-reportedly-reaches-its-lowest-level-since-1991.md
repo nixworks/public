@@ -8,6 +8,7 @@ German unemployment falls to its lowest rate in December since 1991, official fi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16390429)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57670000/jpg/_57670475_newgermany.jpg)
 
 ### Related:
 

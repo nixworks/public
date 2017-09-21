@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/college-football/story/_/id/8577643/jerry-sandusky-moved-prison-death-row-inmates)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F213.png)
 
 ### Related:
 

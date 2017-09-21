@@ -8,3 +8,4 @@ MIAMI GARDENS, FLA. (WSVN) - Police are looking for the gunman who shot and kill
 ### Source:
 
 1. [WSVN](http://wsvn.com/news/local/2-killed-in-miami-gardens-shooting/)
+1. [Cover Image](https://sunbeamwsvn.files.wordpress.com/2016/12/161212-miami-gardens-shooting.jpg?w=641)

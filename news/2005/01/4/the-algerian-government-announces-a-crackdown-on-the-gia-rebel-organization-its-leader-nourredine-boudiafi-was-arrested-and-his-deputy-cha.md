@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [Afrol](http://www.afrol.com/articles/15128)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4144265.stm)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7224300)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

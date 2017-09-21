@@ -8,6 +8,7 @@ China, the euro zone and Britain loosened monetary policy in the space of less t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/05/us-centralbanks-action-idUSBRE8640RN20120705)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120705&t=2&i=626866362&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE864166N00)
 
 ### Related:
 

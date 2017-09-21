@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/04/10/hhs-secretary-kathleen-sebelius-resigning/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/041014/0/0/041014_sr_panel_640.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Minister of Public Service and Administration Collins Chabane has died in a car 
 ### Source:
 
 1. [News 24](http://www.news24.com/SouthAfrica/News/Collins-Chabane-dies-in-car-crash-20150315)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2082/e01063006c0b4237b8a1cc6b9c11fae4.jpg)
 
 ### Related:
 

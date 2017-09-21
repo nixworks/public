@@ -9,6 +9,7 @@ Internet search engine Google changes the tagline on the front page of its Pales
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22395494)
 2. [FOX](http://www.foxnews.com/world/2013/05/03/google-changes-palestinian-location-from-territories-to-palestine/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Richard Branson has finally unveiled one of the worst-kept secrets in Australian
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/business/branson-gives-virgin-a-new-name-20110503-1e6h5.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/e/7/m/c/image.related.articleLeadwide.620x349.1e6h5.png/1304476211627.jpg)
 
 ### Related:
 

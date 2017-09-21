@@ -8,6 +8,7 @@ The company’s board was sued over the phone-hacking scandal and the purchase o
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/23/business/media/news-corp-agrees-to-139-million-settlement-with-shareholders.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

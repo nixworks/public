@@ -9,6 +9,7 @@ The chancellor accepts that Ed Balls was not personally involved in the Libor ra
 
 1. [BBC](http://www.bbc.co.uk/news/business-18718560)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-18716828)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61321000/jpg/_61321198_61321197.jpg)
 
 ### Related:
 

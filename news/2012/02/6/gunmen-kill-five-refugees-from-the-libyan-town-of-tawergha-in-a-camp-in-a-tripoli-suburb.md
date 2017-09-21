@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/06/us-libya-violence-idUSTRE81526T20120206)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120206&t=2&i=567440421&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8151Q0400)
 
 ### Related:
 

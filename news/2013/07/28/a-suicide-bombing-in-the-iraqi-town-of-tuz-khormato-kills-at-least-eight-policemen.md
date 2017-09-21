@@ -8,6 +8,7 @@ A suicide bomber kills eight Kurdish police in the northern Iraqi town of Tuz Kh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23481088)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52908000/jpg/_52908535_bn-448x252.jpg)
 
 ### Related:
 

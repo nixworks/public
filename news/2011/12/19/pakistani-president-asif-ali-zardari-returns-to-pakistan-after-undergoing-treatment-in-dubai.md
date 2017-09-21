@@ -8,6 +8,7 @@ President Asif Ali Zardari on Monday returned to Pakistan from Dubai, where he h
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/pakistan/President-Zardari-returns-to-Pakistan/articleshow/11162794.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/11163766.cms)
 
 ### Related:
 

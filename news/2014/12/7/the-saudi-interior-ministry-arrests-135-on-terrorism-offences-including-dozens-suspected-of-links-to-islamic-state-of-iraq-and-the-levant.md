@@ -8,6 +8,7 @@ Interior ministry says some of those arrested were linked to ISIL and were plann
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/12/saudi-arrests-135-people-terrorism-charges-2014127224758210316.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/12/7//201412723024138734_20.jpg)
 
 ### Related:
 

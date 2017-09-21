@@ -8,6 +8,7 @@ The presidential election has exposed bitter personal rivalries as well as divis
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/04/09/world/asia/09timor.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/04/09/world/09timor.751.jpg)
 
 ### Related:
 

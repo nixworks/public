@@ -9,6 +9,7 @@ President Michael D Higgins has arrived in London ahead of his State visit to th
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-26911779)
 2. [RTÉ](http://www.rte.ie/news/2014/0407/607277-higgins-state-visit/)
+2. [Cover Image](https://img.rasset.ie/0008c260-1600.jpg)
 
 ### Related:
 

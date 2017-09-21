@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2006/02/08/politics/08nsa.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

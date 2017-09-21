@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-02-03T151204Z_01_L03725805_RTRUKOC_0_US-MIDEAST-ISRAEL-AIRSTRIKE.xml)
 2. [YNET](http://www.ynetnews.com/articles/0,7340,L-3210485,00.html)
 3. [YNET](http://www.ynetnews.com/articles/0,7340,L-3210491,00.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

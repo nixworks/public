@@ -9,6 +9,7 @@ UN weather agency recorded 62ft wave in February 2013 in the North Atlantic, in 
 
 1. [The Guardian](https://www.theguardian.com/world/2016/dec/13/highest-ever-wave-sets-record-iceland-britain-north-atlantic)
 2. [WMO](http://public.wmo.int/en/media/press-release/19-meter-wave-sets-new-record)
+2. [Cover Image](https://i.guim.co.uk/img/media/4583ca21c2cebb33c5ce2dce01735ce948ca50c8/0_0_4096_2458/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a4bf2be0df303df14e68255d01728b2d)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ehud Olmert rules out truce with Hamas until seized Israeli soldier is freed.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/02/2009214133718765162.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

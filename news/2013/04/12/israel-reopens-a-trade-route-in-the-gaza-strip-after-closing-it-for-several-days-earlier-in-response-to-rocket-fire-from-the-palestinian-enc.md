@@ -8,6 +8,7 @@ Israel reopened a goods crossing into the Gaza Strip on Friday, officials said, 
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Apr-12/213490-israel-reopens-gaza-border-crossing.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/04/12/164465_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

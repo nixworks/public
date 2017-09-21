@@ -8,6 +8,7 @@ The Greens’ probable presidential candidate Jill Stein has invited the Vermont
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.com/bernie-sanders-green-party-ticket-jill-stein-offers-make-way-vermont-senators-2390239)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/07/09/bernie-green.jpg)
 
 ### Related:
 

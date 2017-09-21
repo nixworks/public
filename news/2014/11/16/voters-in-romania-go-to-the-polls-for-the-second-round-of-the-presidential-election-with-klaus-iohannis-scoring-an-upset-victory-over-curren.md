@@ -9,6 +9,7 @@ People in Romania go to the polls to elect a new president in a run-off between 
 
 1. [BBC](http://www.bbc.com/news/world-europe-30060916)
 2. [Reuters](http://www.reuters.com/article/2014/11/16/romania-election-resignation-idUSR5N0P602620141116)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/78990000/jpg/_78990093_78990092.jpg)
 
 ### Related:
 

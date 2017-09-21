@@ -9,6 +9,7 @@ Republicans will face off in Arizona and Utah, while Democrats battle it out in 
 
 1. [Decision Desk HQ](http://www.decisiondeskhq.com/results/2016/primary/gop/president/arizona/)
 2. [International Business Times](http://www.ibtimes.co.uk/everything-you-need-know-about-22-march-races-arizona-idaho-utah-1550652)
+2. [Cover Image](http://d.ibtimes.co.uk/en/full/1500802/bernie-sanders.jpg)
 
 ### Related:
 

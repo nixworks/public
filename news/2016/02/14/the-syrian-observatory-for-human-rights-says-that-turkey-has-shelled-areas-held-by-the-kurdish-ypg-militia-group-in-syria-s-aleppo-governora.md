@@ -12,6 +12,7 @@ The Turkish army shelled positions held by Kurdish-backed militia in northern Sy
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-shelling-idUSKCN0VN09S?feedType=RSS&feedName=topNews)
 4. [Syrian Arab News Agency](http://sana.sy/en/?p=69390)
 5. [Voice of America](http://www.voanews.com/content/turkey-to-extend-strikes-on-kurdish-fighters-in-syria/3190715.html)
+5. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160214&t=2&i=1117390405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1D084)
 
 ### Related:
 

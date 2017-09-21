@@ -10,6 +10,7 @@ SPLM denies ruling party claims that southern soldiers shot dead nine of its mem
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010415883436865.html)
 2. [France24](http://www.france24.com/en/20100415-sudan-polling-stations-close-historical-vote-multi-party-elections-bickering)
 3. [Global Times](http://world.globaltimes.cn/africa/2010-04/522678.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

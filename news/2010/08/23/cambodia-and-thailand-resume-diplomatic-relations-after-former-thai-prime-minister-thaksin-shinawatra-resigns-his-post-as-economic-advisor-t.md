@@ -9,6 +9,7 @@ Thailand says it will resume diplomatic ties with Cambodia, after Phnom Penh ann
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11059580)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/93748.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

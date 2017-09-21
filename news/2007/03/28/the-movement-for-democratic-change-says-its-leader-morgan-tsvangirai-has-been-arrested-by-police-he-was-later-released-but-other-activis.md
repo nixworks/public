@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6503061.stm)
 2. [Voice of America](http://www.voanews.com/english/Africa/Zimbabwe/2007-03-28-voa59.cfm)
 3. [Zim Daily](http://zimdaily.com/news/117/ARTICLE/1473/2007-03-28.html)
+3. [Cover Image](http://www.zimdaily.com/wp-content/uploads/2015/11/Robert-Mugabe.jpg)
 
 ### Related:
 

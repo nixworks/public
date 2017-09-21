@@ -9,6 +9,7 @@ Scientists report the discovery of centimetre-sized fossils that may be the earl
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10471599.stm)
 2. [The Australian](http://www.theaustralian.com.au/news/health-science/fossils-found-in-gabon-rewrite-timeline-of-life-on-earth/story-e6frg8y6-1225886648406)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

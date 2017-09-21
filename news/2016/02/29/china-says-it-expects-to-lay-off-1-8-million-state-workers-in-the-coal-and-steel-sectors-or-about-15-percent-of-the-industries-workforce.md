@@ -8,6 +8,7 @@ China said on Monday it expects to lay off 1.8 million workers in the coal and s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-china-economy-employment-idUSKCN0W205X)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160229&t=2&i=1121165811&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1S052)
 
 ### Related:
 

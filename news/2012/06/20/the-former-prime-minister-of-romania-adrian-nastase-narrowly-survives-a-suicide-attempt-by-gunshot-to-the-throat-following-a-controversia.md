@@ -8,6 +8,7 @@ Former Romanian Prime Minister Adrian Nastase shoots himself in the neck hours a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18529394)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61040000/jpg/_61040591_djzoqzop.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Detained opposition leader loses final appeal against house-arrest order amid ho
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010111110038160996.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11732151)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/11/201011111010585371_20.jpg)
 
 ### Related:
 

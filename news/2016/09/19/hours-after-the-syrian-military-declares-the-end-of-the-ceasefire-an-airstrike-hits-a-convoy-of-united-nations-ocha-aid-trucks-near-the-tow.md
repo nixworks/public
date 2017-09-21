@@ -8,6 +8,7 @@ Aid trucks are hit by an air strike near the Syrian city of Aleppo, reports say,
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37413411)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/106C6/production/_91307276_035415929.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Attacks by government forces and rebels killed at least 30 people, including eig
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN0XN0M3?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

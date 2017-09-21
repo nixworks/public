@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Mars-mission-starts-Mangalyaan-launched-successfully/articleshow/25259358.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/25261511.cms)
 
 ### Related:
 

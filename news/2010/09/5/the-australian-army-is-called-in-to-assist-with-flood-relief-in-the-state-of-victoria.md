@@ -8,6 +8,7 @@ The Defence Force will help evacuate residents in Victoria&#039;s north as the f
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/09/05/3002955.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2249030-1x1-700x700.jpg)
 
 ### Related:
 

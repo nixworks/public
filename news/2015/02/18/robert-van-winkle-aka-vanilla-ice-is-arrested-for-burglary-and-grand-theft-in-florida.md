@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Miami](http://www.nbcmiami.com/news/local/Robert-Van-Winkle-AKA-Vanilla-Ice-Arrested-in-Residential-Burglary-Police-292442671.html?_osource=SocialFlowTwt_MIBrand)
+1. [Cover Image](http://media.nbcmiami.com/images/1200*675/021815+robert+van+winkle+vanilla+ice.jpg)
 
 ### Related:
 

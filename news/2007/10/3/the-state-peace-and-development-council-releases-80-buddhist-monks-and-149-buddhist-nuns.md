@@ -11,6 +11,7 @@ A local staff member of the United Nations in Myanmar and three of her family me
 2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6968737,00.html)
 3. [NYT](http://www.nytimes.com/2007/10/04/world/asia/04myanmar.html)
 4. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22526329-401,00.html)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

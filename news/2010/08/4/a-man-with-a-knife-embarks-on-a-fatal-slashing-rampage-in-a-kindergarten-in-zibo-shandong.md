@@ -9,6 +9,7 @@ A wave of violent attacks on Chinese schools has left many asking whether social
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10869013)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/man-kills-3-children-teacher-in-china-20100804-11d96.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

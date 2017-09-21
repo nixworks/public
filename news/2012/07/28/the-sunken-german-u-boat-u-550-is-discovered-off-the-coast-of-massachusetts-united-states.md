@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Der Spiegel](http://www.spiegel.de/wissenschaft/technik/zweiter-weltkrieg-deutsches-u-boot-vor-kueste-der-usa-entdeckt-a-846917.html)
+1. [Cover Image](http://cdn4.spiegel.de/images/image-381643-galleryV9-djuq-381643.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/08/us-trade-pacific-japan-idUSKBN0IS08O20141108)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141108&t=2&i=989824112&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAA703Q)
 
 ### Related:
 

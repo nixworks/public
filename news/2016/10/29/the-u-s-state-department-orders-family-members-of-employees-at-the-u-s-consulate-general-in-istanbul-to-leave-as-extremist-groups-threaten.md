@@ -8,6 +8,7 @@ The State Department cited fears of attacks by extremist groups in ordering fami
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/u-s-orders-family-members-leave-consulate-istanbul-n675151)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_43/1773486/ap_83192635269_8daddd164f0b75e3689615b58006e185.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

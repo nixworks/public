@@ -8,6 +8,7 @@ Venezuelan opposition leaders say they have validated enough signatures on a pet
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-36628283)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6805/production/_90092662_033698961.jpg)
 
 ### Related:
 

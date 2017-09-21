@@ -8,6 +8,7 @@ Helicopter crashed three minutes before arriving at Dieng Plateau, the popular t
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jul/03/rescue-helicopter-crash-kills-eight-after-indonesian-volcano-erupts)
+1. [Cover Image](https://i.guim.co.uk/img/media/5b73354236e2cb9c879462a38834b43aace249e3/247_180_1689_1013/master/1689.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1b707fde2d3e30bdd420208cb584ad33)
 
 ### Related:
 

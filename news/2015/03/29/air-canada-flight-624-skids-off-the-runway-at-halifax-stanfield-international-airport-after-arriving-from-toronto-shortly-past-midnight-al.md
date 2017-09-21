@@ -8,6 +8,7 @@ An Air Canada plane landing at Halifax, Nova Scotia, leaves the runway while lan
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-32103971)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81992000/jpg/_81992667_jzslks2l.jpg)
 
 ### Related:
 

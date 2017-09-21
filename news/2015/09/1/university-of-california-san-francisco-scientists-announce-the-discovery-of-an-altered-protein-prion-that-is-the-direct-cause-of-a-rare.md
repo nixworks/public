@@ -9,6 +9,7 @@ When Stanley B. Prusiner, a UCSF neurologist, first proposed that inert proteins
 
 1. [Medical Daily](http://www.medicaldaily.com/cause-multiple-system-atrophy-identified-making-msa-newest-prion-disease-50-years-350904)
 2. [San Francisco Chronicle](http://www.sfgate.com/science/article/Defective-protein-found-to-cause-rare-6476308.php#photo-3105261)
+2. [Cover Image](http://ww2.hdnux.com/photos/13/66/07/3105261/5/rawImage.jpg)
 
 ### Related:
 
@@ -17,3 +18,4 @@ When Stanley B. Prusiner, a UCSF neurologist, first proposed that inert proteins
 3. [Researchers discover prions spreading through airborne transmission on aerosol particles, in an animal testing experiment focusing on scrapie infection in laboratory mice. ](/news/2011/01/13/researchers-discover-prions-spreading-through-airborne-transmission-on-aerosol-particles-in-an-animal-testing-experiment-focusing-on-scrapi.md) _Context: prion_
 4. [ Canada's Samuel Lunenfeld Research Institute discovers a new method to create embryonic-like stem cells that could cure spinal-cord injuries and Parkinson's disease. ](/news/2009/03/1/canada-s-samuel-lunenfeld-research-institute-discovers-a-new-method-to-create-embryonic-like-stem-cells-that-could-cure-spinal-cord-injurie.md) _Context: Parkinson's-like_
 5. [ American psychiatrist and best-selling author M. Scott Peck, M.D. Dies after suffering from Parkinson's disease and pancreatic and liver duct cancer. Peck, 69, was the author of "The Road Less Traveled". ](/news/2005/09/25/american-psychiatrist-and-best-selling-author-m-scott-peck-m-d-dies-after-suffering-from-parkinson-s-disease-and-pancreatic-and-liver-du.md) _Context: Parkinson's-like_
+6. [ Mercury astronaut Gordon Cooper dies of Parkinson's disease.](/news/2004/10/4/mercury-astronaut-gordon-cooper-dies-of-parkinson-s-disease.md) _Context: Parkinson's-like_

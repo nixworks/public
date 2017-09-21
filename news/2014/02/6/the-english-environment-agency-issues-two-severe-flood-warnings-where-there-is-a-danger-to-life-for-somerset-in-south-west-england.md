@@ -8,6 +8,7 @@ Royal Marines are deployed to help with the sandbagging of properties at risk fr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-26062799)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72769000/jpg/_72769873_72769872.jpg)
 
 ### Related:
 

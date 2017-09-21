@@ -8,6 +8,7 @@ Well-known Bengali poet and novelist Sunil Gangopadhyay dies after a heart attac
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20038384)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63649000/jpg/_63649863_sunil3.jpg)
 
 ### Related:
 

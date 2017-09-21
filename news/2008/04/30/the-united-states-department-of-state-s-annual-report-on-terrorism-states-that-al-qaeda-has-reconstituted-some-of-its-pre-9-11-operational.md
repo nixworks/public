@@ -9,6 +9,7 @@ State Department reports a 16-percent increase in terrorist attacks in Afghanist
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,353400,00.html)
 2. [USA Today](http://blogs.usatoday.com/ondeadline/2008/04/report-al-qaeda.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

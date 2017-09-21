@@ -8,6 +8,7 @@ President to return home in next two days following surgery in Germany, paper sa
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/201032735619608729.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

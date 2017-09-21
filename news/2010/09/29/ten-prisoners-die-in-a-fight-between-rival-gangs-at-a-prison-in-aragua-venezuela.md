@@ -8,6 +8,7 @@ At least 10 Venezuelan prisoners die as rival criminal gangs use guns and grenad
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11439683)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Storms in southern and central China have left at least 26 people dead and 10 mi
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-05-27/china-storm-leaves-26-dead/5479774)
+1. [Cover Image](http://www.abc.net.au/news/image/5479788-1x1-700x700.jpg)
 
 ### Related:
 

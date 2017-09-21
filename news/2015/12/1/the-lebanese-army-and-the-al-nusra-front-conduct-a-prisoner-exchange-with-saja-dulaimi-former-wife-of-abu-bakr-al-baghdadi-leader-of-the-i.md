@@ -9,6 +9,7 @@ Qatari-brokered deal secures release of 16 Lebanese security officers seized by 
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/12/lebanese-hostages-released-prisoner-swap-151201072408599.html)
 2. [Reuters](http://in.reuters.com/article/2015/12/01/mideast-crisis-lebanon-idINKBN0TK3O420151201)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/12/2/846bef2d7a37479fa259309acce81d4f_18.jpg)
 
 ### Related:
 

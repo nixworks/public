@@ -8,6 +8,7 @@ A strange, green meteorite called NWA 7325 may actually the first piece of Mercu
 ### Source:
 
 1. [Space.com](http://www.space.com/20426-mercury-meteorite-discovery-messenger.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyNy81ODIvb3JpZ2luYWwvbndhNzMyNS1tZXJjdXJ5LW1ldGVvcml0ZS5qcGc=)
 
 ### Related:
 

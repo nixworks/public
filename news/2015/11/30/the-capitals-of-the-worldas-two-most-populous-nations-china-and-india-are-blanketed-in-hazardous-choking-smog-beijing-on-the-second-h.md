@@ -8,6 +8,7 @@ The capitals of the world&rsquo;s two most populous nations, China and India, we
 ### Source:
 
 1. [The Hindustan Times](http://www.hindustantimes.com/india/smog-chokes-new-delhi-beijing-ahead-of-paris-climate-summit/story-rk536Tg2Opm5LOrnG5UlEP.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2015/11/30/Pictures/pedestrians-tiananmen-policeman-heavily-polluted-beijing-crosswalk_5cd8d1ee-9745-11e5-949b-3f349c5c9a4f.jpg)
 
 ### Related:
 

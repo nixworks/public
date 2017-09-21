@@ -8,6 +8,7 @@ U.S. Attorney General Jeff Sessions abruptly asked the remaining 46 chief federa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-justice-prosecutors-idUSKBN16H2K8)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170311&t=2&i=1175697936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED291Q8)
 
 ### Related:
 

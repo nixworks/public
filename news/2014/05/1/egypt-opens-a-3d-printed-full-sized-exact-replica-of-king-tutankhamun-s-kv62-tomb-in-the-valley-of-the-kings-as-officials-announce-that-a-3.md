@@ -9,6 +9,7 @@ Team behind £420,000 facsimile, created using 3D technology, hope it can help p
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/travel/destinations/africaandindianocean/egypt/10801168/Egypt-visa-costs-rise-as-replica-Tutankhamun-tomb-opens.html)
 2. [The Guardian](http://www.theguardian.com/world/2014/may/01/exact-replica-tutankhamun-tomb-egypt)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/1/1398952908902/The-replica-of-Tutankhamu-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=61fb57d8eee78ac645476366a6b48acf)
 
 ### Related:
 

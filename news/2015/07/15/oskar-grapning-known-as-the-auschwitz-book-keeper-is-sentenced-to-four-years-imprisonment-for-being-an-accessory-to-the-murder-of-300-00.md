@@ -8,6 +8,7 @@ A German court convicts a 94-year-old former guard at the Nazi death camp at Aus
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33533264)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E946/production/_84281795_84281790.jpg)
 
 ### Related:
 

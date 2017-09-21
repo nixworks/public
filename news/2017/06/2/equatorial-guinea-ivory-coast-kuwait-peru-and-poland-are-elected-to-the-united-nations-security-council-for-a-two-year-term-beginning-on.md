@@ -8,6 +8,7 @@ UNITED NATIONS: The 193-member United Nations General Assembly elected Ivory Coa
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/world/equatorial-guinea--kuwait--peru--poland--ivory-coast-elected-to-un-security-council-8908416)
+1. [Cover Image](http://www.channelnewsasia.com/image/8695344/16x9/991/529/28f38af1d1f2cdd36c2fe1d9be2243b/ss/world.png)
 
 ### Related:
 

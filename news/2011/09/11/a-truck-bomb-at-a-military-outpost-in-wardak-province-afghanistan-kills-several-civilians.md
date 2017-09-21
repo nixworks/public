@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Miami Herald](http://www.miamiherald.com/2011/09/11/2401286/truck-bomb-injures-scores-at-us.html)
+1. [Cover Image](http://www.miamiherald.com/static/images/miamiherald/facebook.jpg)
 
 ### Related:
 

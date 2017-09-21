@@ -8,6 +8,7 @@ Britain’s economy has posted its 14th consecutive quarter of growth, but some 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/business/live/2016/jul/27/uk-gdp-economy-growth-brexit-referendum-pound-markets-live)
+1. [Cover Image](https://i.guim.co.uk/img/media/16ab0aa9d1df9d337ee94ecb1e2783e8d3726feb/0_158_3840_2304/3840.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1793988ee1ecf613c460c226aa732870)
 
 ### Related:
 

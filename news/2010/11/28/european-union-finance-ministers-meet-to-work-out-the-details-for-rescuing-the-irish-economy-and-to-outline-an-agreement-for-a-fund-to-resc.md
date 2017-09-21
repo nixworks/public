@@ -13,6 +13,7 @@ Europe’s finance ministers approved an 85 billion euro bailout and agreed on a
 4. [CNN Money](http://money.cnn.com/2010/11/28/news/international/ireland_bailout/)
 5. [RTÉ](http://www.rte.ie/news/2010/1128/economy.html)
 6. [The New York Times](http://www.nytimes.com/2010/11/29/business/global/29euro.html?_r=1&src=busln)
+6. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

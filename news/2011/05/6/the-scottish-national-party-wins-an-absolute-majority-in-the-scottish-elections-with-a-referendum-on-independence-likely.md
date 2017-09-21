@@ -10,6 +10,7 @@ The Scottish National Party prepares for a second term in government, becoming t
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-13319936)
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-13312883)
 3. [STV](http://news.stv.tv/election-2011/247428-early-snp-gains-could-signal-historic-victory/)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52594000/jpg/_52594934_011917199-1.jpg)
 
 ### Related:
 

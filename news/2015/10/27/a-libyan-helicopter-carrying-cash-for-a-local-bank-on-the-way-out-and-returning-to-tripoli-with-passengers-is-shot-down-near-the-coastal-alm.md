@@ -10,6 +10,7 @@ At least 12 people are reported dead after a helicopter crashed west of the Liby
 1. [ (AP via ABC News](http://abcnews.go.com/International/wireStory/helicopter-shot-libya-14-killed-34767113)
 2. [BBC](http://www.bbc.com/news/world-africa-34651249)
 3. [UPI](http://www.upi.com/Top_News/World-News/2015/10/27/Libya-At-least-12-people-killed-in-helicopter-crash-near-Tripoli/3921445968995/)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/163A5/production/_86354019_86354015.jpg)
 
 ### Related:
 

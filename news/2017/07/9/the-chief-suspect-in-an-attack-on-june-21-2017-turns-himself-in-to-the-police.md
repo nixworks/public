@@ -8,6 +8,7 @@ Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in eas
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-london-40552021)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6206/production/_96849052_capture.jpg)
 
 ### Related:
 

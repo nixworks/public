@@ -8,6 +8,7 @@ Exclusive: Gary McKinnon is set to be sent to America to answer computer hacking
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/6663920/Gary-McKinnon-set-to-be-sent-to-America-after-Alan-Johnson-says-he-cannot-block-extradition.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01445/_Gary_McKinnon_1445660a.jpg)
 
 ### Related:
 

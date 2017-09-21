@@ -9,6 +9,7 @@ WikiLeaks, the self-proclaimed whistle-blowing investigative Web site, released 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/20104782857326667.html)
 2. [Fox News](http://www.foxnews.com/politics/2010/04/07/military-raises-questions-credibility-leaked-iraq-shooting-video/)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2010/04/07/military-raises-questions-credibility-leaked-iraq-shooting-video/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422582567941.jpg?ve=1)
 
 ### Related:
 

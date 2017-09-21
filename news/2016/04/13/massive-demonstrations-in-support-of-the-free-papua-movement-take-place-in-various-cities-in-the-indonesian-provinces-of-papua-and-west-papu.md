@@ -8,6 +8,7 @@ Demonstrations in support of the United Liberation Movement for West Papua have 
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/301427/mass-demos-in-support-of-papua-liberation-movement)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

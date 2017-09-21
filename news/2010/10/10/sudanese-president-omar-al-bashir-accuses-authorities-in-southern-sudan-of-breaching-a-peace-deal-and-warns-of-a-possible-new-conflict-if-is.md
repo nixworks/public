@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/2010101091233114892.html)
 2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/africa/2010/9/40/Sudan-president-warns-greater-conflict-with-south,3a73cd08-22e8-4b8c-b179-2b9df23e550e.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/20/201092093931423621_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CCTV via Twitter](https://twitter.com/cctvnews/status/607066707035717632)
+1. [Cover Image](https://pbs.twimg.com/media/CGy77lNUIAAG9TK.jpg:large)
 
 ### Related:
 

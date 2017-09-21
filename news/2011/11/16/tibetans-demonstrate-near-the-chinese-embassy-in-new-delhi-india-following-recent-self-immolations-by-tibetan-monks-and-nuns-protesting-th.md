@@ -10,6 +10,7 @@ The spiritual leader of the Kirti monastery, the starting point for a spate of s
 1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/11/16/international/i002455S45.DTL#ixzz1dtqMM6T2)
 2. [The New York Times](http://www.nytimes.com/2011/11/17/world/asia/spiritual-head-of-tibetan-monastery-rebukes-china.html)
 3. [VoA](http://www.voanews.com/tibetan-english/news/600-Tibet-Activists-Hold-Solidarity-Rally-in-Delhi-133961148.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

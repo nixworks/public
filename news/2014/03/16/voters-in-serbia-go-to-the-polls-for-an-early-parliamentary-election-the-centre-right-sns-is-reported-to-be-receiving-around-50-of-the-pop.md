@@ -9,6 +9,7 @@ BELGRADE (AFP) - Serbia&#039;s ruling centre-right Serbian Progressive Party (SN
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/news/world/article/Serbia-votes-in-early-parliamentary-election-5321684.php)
 2. [Straits Times](http://www.straitstimes.com/breaking-news/world/story/serbias-centre-right-wins-snap-poll-landslide-estimate-20140317)
+2. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2014/03/17/serbiavoter1703e_2x.jpg?itok=7v-xxwko)
 
 ### Related:
 

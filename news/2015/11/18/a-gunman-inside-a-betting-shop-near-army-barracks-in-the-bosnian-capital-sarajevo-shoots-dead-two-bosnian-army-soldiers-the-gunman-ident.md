@@ -8,6 +8,7 @@ Two soldiers of the Bosnian army were shot dead late on Wednesday when an attack
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/11/18/uk-bosnia-attacks-idUKKCN0T734020151118)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151118&t=2&i=1096047165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAH1HB)
 
 ### Related:
 

@@ -8,6 +8,7 @@ China denies reports its military forces are preparing for war amid tensions ove
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18045383)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60193000/jpg/_60193944_014631613-1.jpg)
 
 ### Related:
 

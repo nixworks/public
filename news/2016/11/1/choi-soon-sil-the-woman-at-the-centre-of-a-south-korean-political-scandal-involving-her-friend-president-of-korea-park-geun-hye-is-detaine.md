@@ -8,6 +8,7 @@ The woman at the centre of a political scandal that has cast the South Korean pr
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2016-11-01/south-korean-prosecutors-arrest-woman-at-centre-of-scandal/7984328)
+1. [Cover Image](http://www.abc.net.au/news/image/7981676-1x1-700x700.jpg)
 
 ### Related:
 

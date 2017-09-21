@@ -9,6 +9,7 @@ Two suspects opened fire outside the Curtis Culwell Center during a Muhammad art
 
 1. [CBS Dallas Fort Worth](http://dfw.cbslocal.com/2015/05/03/breaking-shooting-in-garland/)
 2. [CNN](http://www.cnn.com/2015/05/04/us/garland-mohammed-drawing-contest-shooting/)
+2. [Cover Image](https://cbsdallas.files.wordpress.com/2015/05/hl1-irving-earthquake-e14306919583111.jpg?w=1003)
 
 ### Related:
 

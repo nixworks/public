@@ -8,6 +8,7 @@ Many had scavenged at the rubbish dump to make a living - and some even lived th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39247381)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DB8A/production/_95120265_4173f67f-5dc3-4319-a4fc-688d7d20e420.jpg)
 
 ### Related:
 

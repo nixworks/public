@@ -9,6 +9,7 @@ Conflicting accounts emerged on the death toll from a car bomb near the central 
 
 1. [Reuters](http://www.reuters.com/article/2012/11/05/us-syria-crisis-idUSBRE88J0X720121105)
 2. [The New York Times](http://www.nytimes.com/2012/11/06/world/middleeast/Syria.html?_r=0)
+2. [Cover Image](https://static01.nyt.com/images/2012/11/06/world/SYRIA-1/SYRIA-1-superJumbo.jpg)
 
 ### Related:
 

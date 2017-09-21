@@ -8,6 +8,7 @@ Russia’s so-called gay propaganda law reinforces “stigma and prejudice” an
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/russia-gay-propaganda-law-discriminatory-homophobia-european-human-rights-court-rules-echr-a7798926.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/20/12/gay-march-russia-police.jpg)
 
 ### Related:
 

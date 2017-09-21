@@ -8,6 +8,7 @@ Plans for a cap on interest rates on payday loans from January 2015 are announce
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-28305886)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76265000/jpg/_76265504_155109669.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The ad, which follows billboards in the Boston and Chicago areas, comes just bef
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/full-page-wsj-ad-denying-armenian-genocide-spurs-anger-450971)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/04/21/4-21-16-armenian-genocide-commemoration.jpg)
 
 ### Related:
 

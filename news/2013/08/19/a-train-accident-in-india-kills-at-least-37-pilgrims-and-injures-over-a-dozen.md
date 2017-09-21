@@ -10,6 +10,7 @@ At least 37 people crossing the tracks at a remote train station in the northern
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23751270)
 2. [Reuters](http://www.reuters.com/article/2013/08/19/us-india-train-idUSBRE97I05M20130819)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/Train-runs-over-35-pilgrims-in-Bihar-angry-locals-set-coaches-on-fire-attack-railway-officials/articleshow/21912084.cms)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69352000/jpg/_69352730_biharrailaccidentpix02.jpg)
 
 ### Related:
 

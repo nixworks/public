@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/north-korean-leader-kim-jong-un-s-sister-named-as-senior-official-1.2851878)
+1. [Cover Image](https://i.cbc.ca/1.2824556.1426651623!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/korea-north.jpg)
 
 ### Related:
 

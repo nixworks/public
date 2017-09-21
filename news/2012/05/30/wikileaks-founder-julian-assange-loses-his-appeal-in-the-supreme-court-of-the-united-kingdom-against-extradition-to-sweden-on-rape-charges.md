@@ -9,6 +9,7 @@ Wikileaks founder Julian Assange loses his Supreme Court fight against extraditi
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/britains-supreme-court-rule-wikileaks-chief-16454479)
 2. [BBC](http://www.bbc.co.uk/news/uk-18260914)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60576000/jpg/_60576843_014876563-1.jpg)
 
 ### Related:
 

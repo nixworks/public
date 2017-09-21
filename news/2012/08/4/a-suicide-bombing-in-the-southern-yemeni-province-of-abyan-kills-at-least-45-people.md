@@ -8,6 +8,7 @@ The Yemeni government blames al-Qaeda for a suicide bombing that kills at least 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19132096)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62045000/gif/_62045051_yemen_jaar.gif)
 
 ### Related:
 

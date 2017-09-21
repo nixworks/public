@@ -11,6 +11,7 @@ Severe Christmas day weather tore across the deep south of the U.S., spinning of
 2. [AP](http://hosted2.ap.org/APDefault/Article_2012-12-25-Christmas%20Weather/id-11814bb0644b4596b96657de43e929d9)
 3. [CNN](http://www.cnn.com/2012/12/25/us/winter-weather/index.html)
 4. [Reuters](http://www.reuters.com/article/2012/12/25/us-usa-weather-idUSBRE8BO05K20121225)
+4. [Cover Image](http://a.abcnews.com/images/US/ap_christmas_weather_tk_121225_wmain.jpg)
 
 ### Related:
 

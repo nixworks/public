@@ -8,6 +8,7 @@ Thousands rallied behind a top-ranked student who not only failed her exams but 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/blogs-trending-34151528)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/C87F/production/_85372315_cryingmariammalak.jpg)
 
 ### Related:
 

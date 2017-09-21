@@ -10,6 +10,7 @@ Paul Kagame expected to be re-elected president as opposition claims intimidatio
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/20108943239684905.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10908087)
 3. [Voice of America](http://www1.voanews.com/english/news/africa/Butty-Rwanda-Elections-Munyaneza-09august10-100240554.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

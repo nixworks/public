@@ -8,6 +8,7 @@ The Brazilian Senate released a statement criticizing Venezuelan president Hugo 
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/04/brazilian-senate-condemns-venezuela-further-delaying-its-mercosur-bid)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21794/200x200/2431cee72d23f5d536a6280aa9ec9611.jpg)
 
 ### Related:
 

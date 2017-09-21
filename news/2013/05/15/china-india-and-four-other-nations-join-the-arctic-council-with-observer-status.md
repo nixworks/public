@@ -8,6 +8,7 @@ Deposits of oil, gas and minerals in the region have set off a global competitio
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/05/16/world/europe/arctic-council-adds-six-members-including-china.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

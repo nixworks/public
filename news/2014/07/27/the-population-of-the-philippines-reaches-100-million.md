@@ -8,6 +8,7 @@ A baby girl born early Sunday has officially pushed the population of the Philip
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/philippines-welcomes-100-millionth-baby-060841724.html;_ylt=AwrSyCOFy9RToWwAvDzQtDMD)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/8_K5fwxDJ_cICu02_bXS6g--/aD0yNDI1O3c9NDAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/Part-HKG-Hkg10084815-1-1-0.jpg)
 
 ### Related:
 

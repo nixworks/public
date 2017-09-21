@@ -9,6 +9,7 @@ Congo&#x2019;s&#x20;veteran&#x20;opposition&#x20;chief&#x20;Etienne&#x20;Tshisek
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/tens-of-thousands-gather-at-congo-opposition-rally/2016/07/31/817f4e1e-574e-11e6-8b48-0cb344221131_story.html)
 2. [France 24](http://www.france24.com/en/20160731-congo-tshisekedi-elections-kabila-politics)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/20160731-rdc-tshisekedi-m.jpg)
 
 ### Related:
 

@@ -11,3 +11,4 @@ In bid to placate protesters, Zine El Abidine Ben Ali vows to broaden political 
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011113192110570350.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12187084)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/jan/13/tunisian-president-will-not-seek-re-election)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/13/2011113195219708784_20.jpg)

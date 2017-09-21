@@ -10,6 +10,7 @@ Angela Merkel starts a five-day visit to Russia, China and Kazakhstan, in a bid 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10632733)
 2. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,706516,00.html)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5791296,00.html?maca=en-rss-en-all-1573-rdf)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

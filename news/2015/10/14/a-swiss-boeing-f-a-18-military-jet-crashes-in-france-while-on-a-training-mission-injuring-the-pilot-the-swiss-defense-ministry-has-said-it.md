@@ -8,6 +8,7 @@ The Swiss army said one of its Boeing F/A-18 jets crashed in France on a trainin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/10/14/us-swiss-jet-crash-idUSKCN0S81EF20151014)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

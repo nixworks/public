@@ -8,6 +8,7 @@ Thousands of homes are still without power and many roads are impassable after s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21920467)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66588000/jpg/_66588554_66588553.jpg)
 
 ### Related:
 

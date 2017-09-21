@@ -9,6 +9,7 @@ Brazil&#x27;s Senate voted to impeach President Dilma Rousseff early Thursday am
 
 1. [Huffington Post](http://www.huffingtonpost.com/grasielle-castro/michel-temer-finally-gets_b_9949124.html)
 2. [NBC News](http://www.nbcnews.com/news/world/brazil-senate-votes-impeach-president-dilma-rousseff-n572606)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_19/1533976/160512-world-brazil-dilma-530a-jpg-0526_e700da51a6d6091c9c2dbafaf59c0bba.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

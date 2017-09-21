@@ -8,6 +8,7 @@ Lawyers agreed to make complaint public after settlement talks broke down.
 ### Source:
 
 1. [NBC New Tork](http://www.nbcnewyork.com/news/local-beat/Mets-Madoff-Documents-to-Be-Made-Public-Shortly-Sources-115288419.html)
+1. [Cover Image](http://media.nbcnewyork.com/images/1200*900/madoff-mets-jacket.jpg)
 
 ### Related:
 

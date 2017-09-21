@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-36375963)
 2. [The New York Times](http://www.nytimes.com/2016/05/26/world/asia/china-taiwan-tsai-unmarried-single.html?_r=0)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/180C2/production/_89789489_hi033071697.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two countries agree to restart direct flights, halted for 30 years, in what coul
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010103135232682310.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/3/201010314187231140_20.jpg)
 
 ### Related:
 

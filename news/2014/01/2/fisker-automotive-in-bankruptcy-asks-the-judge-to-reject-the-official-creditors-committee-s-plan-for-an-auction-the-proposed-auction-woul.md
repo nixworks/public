@@ -8,6 +8,7 @@ Fisker Automotive, the bankrupt maker of a plug-in hybrid sports car, asked a fe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/02/us-autos-fisker-bankruptcy-idUSBREA010QH20140102)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140102&t=2&i=826204933&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA011DGV00)
 
 ### Related:
 

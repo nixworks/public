@@ -8,6 +8,7 @@ Selection of Korean-born Jim Yong Kim draws criticism from other candidates over
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/04/2012416151923971344.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/14/2012414122952602734_20.jpg)
 
 ### Related:
 

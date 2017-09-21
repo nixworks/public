@@ -9,6 +9,7 @@ French-led troops in Mali have taken control of the northern Islamist stronghold
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21210496)
 2. [Reuters](http://www.reuters.com/article/2013/01/26/us-mali-rebels-idUSBRE90O0C720130126)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65516000/jpg/_65516281_65516280.jpg)
 
 ### Related:
 

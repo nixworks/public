@@ -9,6 +9,7 @@ Khairalla and Paul Tait
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/meast/04/15/iraq.main/index.html?eref=rss_world)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSPAR34073020070415)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070415&t=2&i=603628&w=&fh=545px&fw=&ll=&pl=&sq=&r=603628)
 
 ### Related:
 

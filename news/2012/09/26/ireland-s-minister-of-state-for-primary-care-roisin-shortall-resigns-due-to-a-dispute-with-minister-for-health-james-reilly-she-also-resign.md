@@ -9,6 +9,7 @@ Roisin Shortall has resigned as junior minister for health, over what she descri
 
 1. [RTE](http://www.rte.ie/news/2012/0926/reilly-and-shortall-meeting-tense-and-difficult.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0926/breaking52.html)
+2. [Cover Image](https://img.rasset.ie/0004235d-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Twenty people were killed after three days of clashes between Pygmies and Bantus
 ### Source:
 
 1. [Africa News](http://www.africanews.com/2016/10/18/dr-congo-20-dead-in-3-days-of-ethnic-clashes-in-katanga/)
+1. [Cover Image](http://static.euronews.com/articles/346977/1024x538_346977.jpg?1476786034)
 
 ### Related:
 

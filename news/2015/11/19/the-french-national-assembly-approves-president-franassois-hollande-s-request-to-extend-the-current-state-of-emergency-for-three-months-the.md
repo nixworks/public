@@ -11,6 +11,7 @@ Abdelhamid Abaaoud was killed during a violent police raid conducted by Paris au
 2. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/19/456607650/architect-of-paris-attacks-was-killed-in-raid-french-authorities-say)
 3. [Reuters](http://www.reuters.com/article/2015/11/20/us-france-shooting-watchlists-idUSKCN0T900N20151120#FTVkiVcffrxDcKv1.97)
 4. [UPI](http://www.upi.com/Top_News/World-News/2015/11/19/UN-committee-denounces-North-Korea-human-rights-violations/1891447986491/)
+4. [Cover Image](https://media.npr.org/assets/img/2015/11/19/ap_825267826292_wide-c73b4a9d41034fcaef7f6858d581dd922c445c3b.jpg?s=1400)
 
 ### Related:
 

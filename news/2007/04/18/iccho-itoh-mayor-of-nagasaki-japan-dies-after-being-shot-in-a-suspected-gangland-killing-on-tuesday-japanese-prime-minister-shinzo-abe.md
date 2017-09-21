@@ -9,6 +9,7 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being g
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6565885.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUST33398520070418)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070418&t=2&i=614958&w=&fh=545px&fw=&ll=&pl=&sq=&r=614958)
 
 ### Related:
 

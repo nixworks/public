@@ -8,6 +8,7 @@ The UK has begun its year-long presidency of the G8 group of nations, which will
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20880368)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65027000/jpg/_65027027_erne.jpg)
 
 ### Related:
 

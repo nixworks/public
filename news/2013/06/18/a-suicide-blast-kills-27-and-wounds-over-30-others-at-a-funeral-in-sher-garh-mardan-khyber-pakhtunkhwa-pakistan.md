@@ -8,6 +8,7 @@ Bomber targets crowd of mourners in Khyber Pakhtunkhwa province, killing 29 peop
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/06/2013618123135439672.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/18/201361815121332734_20.jpg)
 
 ### Related:
 

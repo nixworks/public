@@ -8,6 +8,7 @@ Former NBA player Javaris Crittenton, who was suspended from the league for havi
 ### Source:
 
 1. [Associated Press via ESPN](http://espn.go.com/nba/story/_/id/6906139/fbi-arrests-javaris-crittenton-california-airport)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fwsh.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkey and the United States will soon launch &quot;comprehensive&quot; air oper
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/08/24/mideast-crisis-turkey-idINKCN0QT1EH20150824)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150824&t=2&i=1074172038&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7N0M6)
 
 ### Related:
 

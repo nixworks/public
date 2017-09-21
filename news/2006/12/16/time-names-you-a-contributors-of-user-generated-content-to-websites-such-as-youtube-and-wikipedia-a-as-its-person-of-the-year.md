@@ -9,6 +9,7 @@ You were named Time magazine &#8220;Person of the Year&#8221; on Saturday for th
 
 1. [MSNBC](http://www.msnbc.msn.com/id/16242528/)
 2. [Time](http://www.time.com/time/magazine/article/0,9171,1569514,00.html)
+2. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/061217/061217_time_vlrg_7a.standard.jpg)
 
 ### Related:
 

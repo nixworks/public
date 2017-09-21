@@ -8,6 +8,7 @@ R. Allen Stanford, a Texas financier, was found guilty on 13 out of 14 fraud cou
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/07/business/jury-convicts-stanford-in-7-billion-ponzi-fraud.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/03/07/business/07stanford/07stanford-thumbStandard-v2.jpg)
 
 ### Related:
 

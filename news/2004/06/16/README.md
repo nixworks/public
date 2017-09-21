@@ -19,7 +19,7 @@ _Context: Konkan Railway, Mumbai_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Diplomats and Military Commanders for Change, a group of 27 retired U.S. diplomats and military officers, publishes an open letter that states that U.S. President George W. Bush has so harmed international relations that only a new leader can repair them. ](/news/2004/06/16/the-diplomats-and-military-commanders-for-change-a-group-of-27-retired-u-s-diplomats-and-military-officers-publishes-an-open-letter-that.md)
-_Context: Diplomats and Military Commanders for Change, George W. Bush, President_
+_Context: Diplomats and Military Commanders for Change, George W. Bush, U.S. President_
 
 ### [ A computer virus capable of infecting cellphones running the Symbian OS with Bluetooth capabilities, "Cabir", has been developed by software experts. ](/news/2004/06/16/a-computer-virus-capable-of-infecting-cellphones-running-the-symbian-os-with-bluetooth-capabilities-cabir-has-been-developed-by-softwar.md)
 Get the latest technology news, including new product releases, sales figures and tech industry performance information at Reuters.com.

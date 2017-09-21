@@ -9,6 +9,7 @@ A judge grants summary judgment to a filmmaker challenging Warner/Chappell&#039;
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/happy-birthday-copyright-ruled-be-826528)
 2. [NBC News](http://www.nbcnews.com/pop-culture/music/music-company-does-not-own-happy-birthday-song-copyright-judge-n432001)
+2. [Cover Image](http://cdn1.thr.com/sites/default/files/2015/05/marilyn_monroe_happy_birthday_mr_president.jpg)
 
 ### Related:
 

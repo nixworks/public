@@ -8,6 +8,7 @@ More than 8,000 rare books and manuscripts â€“ including books printed in Iraqâ€
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2015/02/25/isis-burns-more-than-8000-rare-books-in-mosul/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

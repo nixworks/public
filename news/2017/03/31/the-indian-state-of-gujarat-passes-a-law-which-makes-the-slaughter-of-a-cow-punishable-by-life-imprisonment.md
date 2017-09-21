@@ -8,6 +8,7 @@ The new amendment means Gujarat now has the toughest laws dealing with cow slaug
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-39454607)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3A02/production/_95405841_f06c73eb-a6f3-4c29-a4a9-1784cbf13976.jpg)
 
 ### Related:
 

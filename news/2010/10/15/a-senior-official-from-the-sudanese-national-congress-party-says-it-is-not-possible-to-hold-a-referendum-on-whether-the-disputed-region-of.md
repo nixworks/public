@@ -8,6 +8,7 @@ North-south tensions rise as Khartoum says referendum on disputed oil-rich regio
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/2010101572158985130.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/15/201010157404368580_20.jpg)
 
 ### Related:
 

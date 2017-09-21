@@ -9,6 +9,7 @@ Heavy explosions rocked the Yemeni capital Sanaa in the small hours of Thursday 
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/meast/05/26/yemen.unrest/)
 2. [Reuters](http://www.reuters.com/article/2011/05/25/us-yemen-idUSTRE73L1PP20110525)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110525&t=2&i=421860318&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-25T135437Z_01_BTRE74O12N700_RTROPTP_0_YEMEN-SALEH)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21768299)
 2. [Reuters](http://www.reuters.com/article/2013/03/13/us-syria-crisis-eu-idUSBRE92C0AZ20130313)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

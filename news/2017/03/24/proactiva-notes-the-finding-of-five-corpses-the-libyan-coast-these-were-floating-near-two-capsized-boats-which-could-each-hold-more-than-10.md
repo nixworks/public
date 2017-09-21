@@ -8,3 +8,4 @@ An aid group finds two capsized boats capable of carrying 100 migrants each, and
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39372030)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/404B/production/_95295461_mediaitem95294409.jpg)

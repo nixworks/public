@@ -9,7 +9,10 @@ Officials are searching for the source of the Elizabethkingia anophelis bacteria
 
 1. [Patch](http://patch.com/illinois/chicago/rare-bacterial-infection-linked-deaths-wisconsin-michigan-0)
 2. [Star Tribune](http://www.startribune.com/scientists-search-to-unravel-mystery-behind-blood-infection-outbreak-in-wisconsin/372610031/)
+2. [Cover Image](https://cdn.patchcdn.com/users/22729242/2016/03/T800x600/20160356ec286db1d38.jpg)
 
 ### Related:
 
 1. [ Australians Barry J. Marshall and Robin Warren have been awarded the 2005 Nobel Prize in Physiology or Medicine "for their discovery of the bacterium "Helicobacter pylouri" and its role in gastritis and peptic ulcer disease". ](/news/2005/10/3/australians-barry-j-marshall-and-robin-warren-have-been-awarded-the-2005-nobel-prize-in-physiology-or-medicine-for-their-discovery-of-the.md) _Context: bacterium_
+2. [ Scientists announce that they have deciphered the complete DNA sequence of "Legionella pneumophila," one of the bacteria that causes Legionnaires' Disease. ](/news/2004/09/24/scientists-announce-that-they-have-deciphered-the-complete-dna-sequence-of-legionella-pneumophila-one-of-the-bacteria-that-causes-legion.md) _Context: bacterium_
+3. [ Researchers at the University of Central Florida publish an article in the "Lancet" documenting a strong link between Crohn's disease and the bacterium "Mycobacterium avium paratuberculosis." This is the latest in a series of studies that strongly suggest a link between the bacterium and the disease. ](/news/2004/09/17/researchers-at-the-university-of-central-florida-publish-an-article-in-the-lancet-documenting-a-strong-link-between-crohn-s-disease-and-t.md) _Context: bacterium_

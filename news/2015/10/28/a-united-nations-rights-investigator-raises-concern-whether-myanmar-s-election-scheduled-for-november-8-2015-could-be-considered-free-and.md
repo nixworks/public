@@ -9,6 +9,7 @@ On November 8, Myanmar will hold its first free national elections in twenty-fiv
 
 1. [Council on Foreign Relations](http://blogs.cfr.org/asia/2015/10/28/will-irregularities-and-fraud-spoil-myanmars-election/)
 2. [Reuters](http://www.reuters.com/article/2015/10/28/us-myanmar-election-un-idUSKCN0SM2W420151028)
+2. [Cover Image](http://blogs.cfr.org/asia/files/2015/10/myanmar-election-NLD-rally.jpg)
 
 ### Related:
 

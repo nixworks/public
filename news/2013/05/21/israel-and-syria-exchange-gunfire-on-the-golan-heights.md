@@ -9,6 +9,7 @@ Israeli troops shot at a target across the Syrian frontier on Tuesday in respons
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2013/05/21/New-influx-of-Hezbollah-fighters-into-Syria-says-watchdog.html)
 2. [Reuters](http://www.reuters.com/article/2013/05/21/us-syria-crisis-israel-idUSBRE94K08C20130521)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130521&t=2&i=733717483&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94K0F7X00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ French former prime minister and centre-right politician Dominique de Villepin a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16133598)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57262000/jpg/_57262444_013508885-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gZ9FAI2Hq2nuE7K0oapiunq-5Y5Q?docId=CNG.2f057538640f1e680daa7203d3609eff.521)
 2. [Haaretz](http://www.haaretz.com/print-edition/features/what-led-to-idf-bombing-house-full-of-civilians-during-gaza-war-1.320816)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.320833.1287885584!/image/54842985.jpg_gen/derivatives/headline_1200x630/54842985.jpg)
 
 ### Related:
 

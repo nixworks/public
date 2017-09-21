@@ -9,6 +9,7 @@ Officials say the 60 per cent benchmark needed to validate secession referendum 
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iVIrJgu59Y8m9FEcf4hUkiDxS7ZA?docId=CNG.79051d79183e793007bb7e2a0ac433c8.191)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111295248314494.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/12/201111210040532360_20.jpg)
 
 ### Related:
 

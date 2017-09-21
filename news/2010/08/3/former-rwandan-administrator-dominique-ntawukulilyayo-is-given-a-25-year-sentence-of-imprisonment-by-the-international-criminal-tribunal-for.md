@@ -8,6 +8,7 @@ A Rwandan ex-administrator arrested in France in 2007 is sentenced to 25 years f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10854191)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

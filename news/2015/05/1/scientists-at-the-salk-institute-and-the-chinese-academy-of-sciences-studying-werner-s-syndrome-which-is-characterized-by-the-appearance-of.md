@@ -9,6 +9,7 @@
 
 1. [BMC](http://www.ncbi.nlm.nih.gov/pubmed/25898983)
 2. [Washington Post, via MSN](http://www.msn.com/en-us/news/technology/scientists-discover-an-important-new-driver-of-aging/ar-BBiZUKB)
+2. [Cover Image](http://www.ncbi.nlm.nih.gov/pmc/articles/instance/4417516/bin/12864_2015_1522_Fig5_HTML.gif)
 
 ### Related:
 

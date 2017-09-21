@@ -8,6 +8,7 @@ The judge in the Oscar Pistorius trial orders that the South African Paralympic 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27405303)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74844000/jpg/_74844744_74844743.jpg)
 
 ### Related:
 

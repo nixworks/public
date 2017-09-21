@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/japan-economy-shrinks-less-than-expected-in-q2-2011-08-14?siteid=bnbh)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A hot-air balloon bursts into flames and crashes after hitting a power line in N
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16450659)
 2. [Fox News](http://www.foxnews.com/world/2012/01/06/hot-air-balloon-crash-kills-11-in-new-zealand/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57745000/jpg/_57745359_013646895-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A state of emergency is declared in New South Wales as Australian firefighters b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24599925)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70596000/jpg/_70596165_70596164.jpg)
 
 ### Related:
 

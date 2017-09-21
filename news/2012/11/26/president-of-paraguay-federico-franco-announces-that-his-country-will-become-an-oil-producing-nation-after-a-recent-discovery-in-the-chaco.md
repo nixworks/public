@@ -8,6 +8,7 @@ Paraguayan president Federico Franco announced that starting in 2013, his countr
 ### Source:
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/117871/paraguay-finds-oil-near-border-with-argentina)
+1. [Cover Image](/files/imagenes//201211/117871_26_203736.jpg)
 
 ### Related:
 

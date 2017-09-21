@@ -9,6 +9,7 @@ The Alaska Airlines passengers were reportedly not following directions and maki
 
 1. [Atlanta Journal-Constitution](http://www.ajc.com/news/national/passengers-removed-from-flight-for-disruptive-behavior-alaska-airlines-says/SumKK9ud3oIhtMbFw8mjVL/)
 2. [Travel Pulse](http://www.travelpulse.com/news/airlines/nearly-a-dozen-passengers-removed-from-alaska-flight.html)
+2. [Cover Image](http://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/47c79ed9-d65c-e711-a966-ff3bc7afe33a/600x400.jpg)
 
 ### Related:
 

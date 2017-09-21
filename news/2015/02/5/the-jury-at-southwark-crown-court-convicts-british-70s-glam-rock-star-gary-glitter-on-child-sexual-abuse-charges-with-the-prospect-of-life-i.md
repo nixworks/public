@@ -8,6 +8,7 @@ Former glam rocker - real name Paul Gadd - convicted of series of historic child
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/11390191/Gary-Glitter-guilty-of-string-of-child-sex-abuse.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03189/gary-mugshot_3189444k.jpg)
 
 ### Related:
 

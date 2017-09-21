@@ -8,6 +8,7 @@ Pacific walrus unable to find sea ice on which to rest in Arctic waters are comi
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/environment/gallery/2014/oct/01/walrus-mass-on-alaska-beach-in-pictures)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/1/1412164934470/2d2e5129-1b6a-497a-9a6a-460250709dd5-2060x1374.jpeg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&s=22ddcb6f3352d03d0134aa034eb78263)
 
 ### Related:
 

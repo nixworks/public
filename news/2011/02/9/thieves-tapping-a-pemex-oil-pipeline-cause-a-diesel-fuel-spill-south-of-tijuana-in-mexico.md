@@ -8,6 +8,7 @@ Thieves tapping into aMexican fuel pipeline triggered a large diesel fuel spill 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2011/02/09/mexico-oil-spill-idUKN0921714220110209)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

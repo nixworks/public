@@ -8,6 +8,7 @@ More than 40 killed in Darfur region by violence blamed on rebel groups and gove
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/20109423526990216.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/5/20109501143586580_20.jpg)
 
 ### Related:
 

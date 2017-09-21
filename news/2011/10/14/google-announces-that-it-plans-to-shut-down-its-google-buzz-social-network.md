@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2011/10/14/technology/google_buzz_shut_down/?source=cnn_bin)
+1. [Cover Image](http://i2.cdn.turner.com/money/2011/10/14/technology/google_buzz_shut_down/google-buzz.01.jpg)
 
 ### Related:
 

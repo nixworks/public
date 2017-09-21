@@ -8,6 +8,7 @@ Louise Gumuchian and Hadeel Al Shalchi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/07/us-libya-elections-idUSBRE86412N20120707)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120707&t=2&i=627585650&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86611QN00)
 
 ### Related:
 

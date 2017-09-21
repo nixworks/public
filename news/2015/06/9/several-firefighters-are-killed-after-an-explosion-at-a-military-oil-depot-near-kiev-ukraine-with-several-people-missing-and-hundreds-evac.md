@@ -9,6 +9,7 @@ A massive fire at a Ukrainian fuel depot killed five people on Tuesday, official
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/ukraine-evacuates-hundreds-from-site-of-deadly-kiev-fuel-blasts-20150609-ghk96c.html)
 2. [Reuters UK](http://uk.reuters.com/article/2015/06/09/uk-ukraine-crisis-fire-idUKKBN0OP0H720150609)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150609&t=2&i=1054857468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB580AZ)
 
 ### Related:
 

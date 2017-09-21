@@ -10,6 +10,7 @@ Syria&#x27;s army and allied forces on Tuesday took full control from rebel grou
 1. [AFP via Yahoo](http://news.yahoo.com/syrian-army-enters-rebel-bastion-latakia-province-monitor-110734427.html)
 2. [Médecins Sans Frontières](http://www.msf.org/article/syria-siege-and-starvation-madaya-immediate-medical-evacuations-and-medical-resupply)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN0UP0VM20160113)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/WN6KsbjeQoErpPoZ76OKFg--/aD03MzM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6212117-1-1-0.jpg)
 
 ### Related:
 

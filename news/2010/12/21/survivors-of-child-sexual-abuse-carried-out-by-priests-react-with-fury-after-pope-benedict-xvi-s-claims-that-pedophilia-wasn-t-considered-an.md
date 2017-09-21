@@ -9,6 +9,7 @@ The Vatican clarifies comments by Pope Benedict XVI on condoms, saying he did no
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12053610)
 2. [Irish Independent](http://www.independent.ie/national-news/pope-stirs-up-victim-fury-with-child-sex-comments-2468163.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Unity: President Joko &acirc;Jokowi&acirc; Widodo welcomes Palestinian P
 
 1. [AP via ''Appeal-Democrat](http://www.appeal-democrat.com/news/regional_news/asia/indonesia-leader-calls-on-muslim-world-to-unite-on-palestine/article_2dda51ea-7385-555e-8898-54ac43fcb40f.html)
 2. [The Jakarta Post](http://www.thejakartapost.com/news/2016/03/07/jokowi-calls-unity-reconciliation-palestine.html)
+2. [Cover Image](http://thejakartapost.com/files/images2/JOKOWI_MAHMOUD ABBAS (ISTANA KEPRESIDENAN).img_assist_custom-640x320.jpg)
 
 ### Related:
 

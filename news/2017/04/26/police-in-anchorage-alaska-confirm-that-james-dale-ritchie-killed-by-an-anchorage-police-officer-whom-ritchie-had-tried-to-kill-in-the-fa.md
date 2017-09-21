@@ -9,6 +9,7 @@ Police in Anchorage say they&#039;ve determined that a single person was respons
 
 1. [Alaska Public Radio Network](http://www.alaskapublic.org/2017/04/26/anchorage-police-determine-one-man-responsible-for-5-killings-last-summer/)
 2. [U.S. News & World Report](https://www.usnews.com/news/best-states/alaska/articles/2017-04-26/police-link-anchorage-man-who-shot-officer-to-5-homicides)
+2. [Cover Image](http://www.alaskapublic.org/wp-content/uploads/2017/04/11152016_Police-Shooter_APD-e1479247531155.jpg)
 
 ### Related:
 

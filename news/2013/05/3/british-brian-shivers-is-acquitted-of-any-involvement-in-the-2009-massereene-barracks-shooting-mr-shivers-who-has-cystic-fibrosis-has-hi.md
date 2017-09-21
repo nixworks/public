@@ -9,6 +9,7 @@ There has been mixed reaction over the Brian Shivers not guilty verdict.
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-22405829)
 2. [RTÉ](http://www.rte.ie/news/2013/0503/390141-massereene/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67411000/jpg/_67411095_shivers.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Somali security forces retake control of a popular beachside restaurant in the c
 
 1. [BBC](http://www.bbc.com/news/world-africa-35377484)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/somalia/12114225/At-least-20-killed-in-Somali-restaurant-attack.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6F93/production/_87836582_87836581.jpg)
 
 ### Related:
 

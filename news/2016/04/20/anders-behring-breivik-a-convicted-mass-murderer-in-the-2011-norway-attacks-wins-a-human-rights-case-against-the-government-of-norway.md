@@ -8,6 +8,7 @@ Mass murderer Anders Behring Breivik wins part of a human rights case against th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36094575)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17A7C/production/_89329869_89329865.jpg)
 
 ### Related:
 

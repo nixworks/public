@@ -8,6 +8,7 @@ Russia announces a tit-for-tat visa bar on Americans guilty of human rights viol
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20638613)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64631000/jpg/_64631018_usrusafp.jpg)
 
 ### Related:
 

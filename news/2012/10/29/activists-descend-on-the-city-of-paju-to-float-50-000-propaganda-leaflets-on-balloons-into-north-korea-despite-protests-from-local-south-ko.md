@@ -8,6 +8,7 @@ Activists in South Korea float propaganda leaflets to the North, a week after Py
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20119778)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63769000/jpg/_63769846_p701fffm.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ex-Liberian President Charles Taylor arrives in the UK to serve the remainder of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24537834)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70124000/jpg/_70124535_019420085.jpg)
 
 ### Related:
 

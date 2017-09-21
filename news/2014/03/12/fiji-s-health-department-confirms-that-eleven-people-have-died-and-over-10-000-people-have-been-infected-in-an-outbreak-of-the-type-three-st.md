@@ -8,6 +8,7 @@ Fiji says 11 people have died and over 10,000 others have been infected during a
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2014-03-12/ra-fiji-dengue-fever/5314610)
+1. [Cover Image](http://www.abc.net.au/news/image/5314796-1x1-700x700.jpg)
 
 ### Related:
 

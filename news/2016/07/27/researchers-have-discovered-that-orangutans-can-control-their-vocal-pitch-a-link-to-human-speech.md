@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0727/An-orangutan-can-control-his-pitch.-What-does-that-teach-us-about-speech)
+1. [Cover Image](http://images.csmonitor.com/csm/2016/07/994628_1_0727-orangutan_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

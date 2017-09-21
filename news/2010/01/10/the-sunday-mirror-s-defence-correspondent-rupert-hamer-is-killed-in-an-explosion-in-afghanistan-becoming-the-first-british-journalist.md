@@ -10,6 +10,7 @@ Rupert Hamer, the defence correspondent of the Sunday Mirror, has been killed in
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/8450603.stm)
 2. [Channel 4 News](http://www.channel4.com/news/articles/uk/british+journalist+killed+in+afghanistan/3495347)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/6962850/Sunday-Mirror-journalist-Rupert-Hamer-killed-in-Afghanistan-explosion.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01556/rupert-hamer_1556342a.jpg)
 
 ### Related:
 

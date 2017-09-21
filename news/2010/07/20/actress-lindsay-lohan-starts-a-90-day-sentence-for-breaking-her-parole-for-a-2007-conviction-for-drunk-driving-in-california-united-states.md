@@ -11,6 +11,7 @@ US actress Lindsay Lohan is taken into custody in Los Angeles to serve a sentenc
 2. [Reuters](http://uk.reuters.com/article/idUKTRE66J3UJ20100720?feedType=RSS&feedName=entertainmentNews)
 3. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Lindsay-Lohan-Starts-Jail-Sentence-After-Violating-Her-Probation-Terms-For-Drink-Driving-Offences/Article/201007315668126?f=rss)
 4. [The Australian](http://www.theaustralian.com.au/news/world/lohan-heads-to-jail-to-begin-90-day-term/story-e6frg6so-1225894887428)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

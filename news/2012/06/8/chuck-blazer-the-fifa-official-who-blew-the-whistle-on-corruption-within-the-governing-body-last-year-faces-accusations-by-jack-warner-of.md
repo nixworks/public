@@ -8,6 +8,7 @@ Chuck Blazer, the official who blew the whistle on corruption within Fifa, is ac
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/sport/0/football/18367869)
+1. [Cover Image](http://ichef.bbci.co.uk/onesport/cps/624/mcs/media/images/60778000/jpg/_60778018_chuck_blazer_getty.jpg)
 
 ### Related:
 

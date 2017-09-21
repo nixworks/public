@@ -8,6 +8,7 @@ Twelve people are taken to hospital after transatlantic turbulence prompts an em
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37228479)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0449/production/_90979010_000cc7d7-642.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The U.S. Department of Justice on Monday charged a federal contractor with sendi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-russia-leaks-idUSKBN18W2VE)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170606&t=2&i=1187735461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5504G)
 
 ### Related:
 

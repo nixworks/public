@@ -8,6 +8,7 @@ Iran has started taking action to comply with the terms of an extended agreement
 ### Source:
 
 1. [Reuters](http://mobile.reuters.com/article/idUSKBN0GK1SQ20140820?irpc=932)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140820&t=2&i=965578770&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7J0R3)
 
 ### Related:
 

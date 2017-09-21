@@ -9,6 +9,7 @@ Early Sunday, a delegation from San Antonio was in Bonn, Germany, to witness the
 
 1. [BBC](http://www.bbc.com/news/uk-scotland-edinburgh-east-fife-33397980)
 2. [My San Antonio](http://www.mysanantonio.com/news/local/article/Missions-World-Heritage-bid-close-to-100-6366355.php)
+2. [Cover Image](http://ww4.hdnux.com/photos/20/17/54/4258611/6/rawImage.jpg)
 
 ### Related:
 

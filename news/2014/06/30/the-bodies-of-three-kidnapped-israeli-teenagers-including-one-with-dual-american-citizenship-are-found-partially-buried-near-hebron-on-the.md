@@ -9,6 +9,7 @@ The bodies of three Israeli teenagers who were kidnapped in the West Bank earlie
 
 1. [ABC News America](http://abcnews.go.com/International/bodies-missing-israeli-teens-found-hebron-source/story?id=24367041)
 2. [Jpost](http://www.jpost.com/Operation-Brothers-Keeper/Large-number-of-IDF-forces-gather-north-of-Hebron-in-search-for-kidnapped-teens-361048)
+2. [Cover Image](http://a.abcnews.com/images/International/gty_missing_teens_israel_jc_140630_16x9_992.jpg)
 
 ### Related:
 

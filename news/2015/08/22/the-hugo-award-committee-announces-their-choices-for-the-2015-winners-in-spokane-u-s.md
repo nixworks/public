@@ -8,6 +8,7 @@ The 73rd World Science Fiction Convention, Sasquan, has announced the 2015 Hugo 
 ### Source:
 
 1. [The Hugo Awards](http://www.thehugoawards.org/2015/08/2014-hugo-award-winners-announced/)
+1. [Cover Image](https://s0.wp.com/i/blank.jpg)
 
 ### Related:
 

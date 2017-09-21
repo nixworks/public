@@ -8,6 +8,7 @@ The Spanish PM and members of the royal family attend a funeral Mass for victims
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13385997)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52700000/jpg/_52700137_52700136.jpg)
 
 ### Related:
 

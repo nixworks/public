@@ -8,6 +8,7 @@ Ethiopia declares a six-month state of emergency following months of anti-govern
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-37600225)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14305/production/_91739628_mediaitem91739627.jpg)
 
 ### Related:
 

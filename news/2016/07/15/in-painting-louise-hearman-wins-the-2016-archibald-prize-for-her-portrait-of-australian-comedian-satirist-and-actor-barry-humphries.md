@@ -8,6 +8,7 @@ This year&#039;s Archibald Prize is awarded to Louise Hearman for her portrait o
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-07-15/archibald-2016-prize-won-by-louise-hearman-for-barry-humphries/7631814)
+1. [Cover Image](http://www.abc.net.au/news/image/7575714-1x1-700x700.jpg)
 
 ### Related:
 

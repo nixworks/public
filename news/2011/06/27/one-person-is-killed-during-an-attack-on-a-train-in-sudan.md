@@ -8,6 +8,7 @@ A train carrying South Sudanese back home from the north is attacked by a northe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13925407)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53665000/jpg/_53665202_012190667-1.jpg)
 
 ### Related:
 

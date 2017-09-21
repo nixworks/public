@@ -13,6 +13,7 @@
 4. [Digital Spy](http://www.digitalspy.co.uk/music/news/a215769/oasis-attacker-sentenced-to-house-arrest.html)
 5. [The Globe and Mail](http://www.theglobeandmail.com/news/national/toronto/man-gets-house-arrest-in-oasis-attack/article1541715/)
 6. [Toronto Star](http://www.thestar.com/news/gta/crime/article/798506--no-jail-for-attack-on-oasis-guitarist?bn=1)
+6. [Cover Image](http://static.theglobeandmail.ca/592/migration_catalog/article3953589.ece/ALTERNATES/w620/JER_070908_04530_jp_470223a.jpg)
 
 ### Related:
 

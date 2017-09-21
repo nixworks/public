@@ -8,6 +8,7 @@ Death from heart attack after failed delivery of new drug cocktail forces 14-day
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2014/04/oklahoma-prison-botches-inmate-execution-20144300440698611.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/4/24/2014424231443734_20.jpg)
 
 ### Related:
 

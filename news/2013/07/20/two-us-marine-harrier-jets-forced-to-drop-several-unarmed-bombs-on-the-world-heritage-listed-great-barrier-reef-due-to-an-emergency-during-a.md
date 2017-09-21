@@ -8,6 +8,7 @@ TWO US Marine Corps jets have been forced to drop four unarmed bombs on the Grea
 ### Source:
 
 1. [news.com.au](http://www.news.com.au/national-news/us-marine-harrier-jets-forced-to-drop-unarmed-bombs-on-heritagelisted-great-barrier-reef/story-fncynjr2-1226682400617)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/b2285876becc7a132941ae1d3482ab01)
 
 ### Related:
 

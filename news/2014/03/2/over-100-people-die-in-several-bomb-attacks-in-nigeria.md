@@ -8,6 +8,7 @@ It was another tragic day in Maiduguri, Borno State capital, yesterday, after tw
 ### Source:
 
 1. [Vanguard](http://www.vanguardngr.com/2014/03/boko-haram-bombs-maiduguri-100-feared-dead/)
+1. [Cover Image](http://d19lga30codh7.cloudfront.net/wp-content/uploads/2014/01/Maiduguri-bombing1-2014.jpg)
 
 ### Related:
 

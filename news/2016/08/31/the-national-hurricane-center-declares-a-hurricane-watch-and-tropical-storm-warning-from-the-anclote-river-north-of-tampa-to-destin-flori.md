@@ -9,6 +9,7 @@
 
 1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/282050.shtml?)
 2. [Reuters](http://www.reuters.com/article/us-storm-atlantic-idUSKCN11618M)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160831&t=2&i=1151728562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7U11E)
 
 ### Related:
 

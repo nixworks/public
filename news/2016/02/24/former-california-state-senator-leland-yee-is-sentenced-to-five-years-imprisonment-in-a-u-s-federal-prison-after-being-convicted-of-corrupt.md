@@ -8,6 +8,7 @@ Former state Sen. Leland Yee, a powerhouse in Bay Area politics for a quarter ce
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/crime/article/Former-state-Sen-Leland-Yee-gets-five-years-in-6851830.php)
+1. [Cover Image](http://ww3.hdnux.com/photos/44/03/46/9451922/3/rawImage.jpg)
 
 ### Related:
 

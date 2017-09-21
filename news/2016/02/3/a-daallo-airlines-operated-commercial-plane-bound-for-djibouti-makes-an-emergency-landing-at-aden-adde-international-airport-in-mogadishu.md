@@ -8,6 +8,7 @@ An investigation is launched in Somalia after a plane made an emergency landing 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-35481555)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5F89/production/_88075442_caneogrwyaam7dp.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Thai Visa](http://www.thaivisa.com/forum/topic/506532-thai-pm-says-floods-in-parts-of-bangkok-inevitable/)
+1. [Cover Image](//assets.thaivisa.com/forum/uploads/monthly_2017_03/fb_500x500.png.2b53918dab89853d2d408998f3ce620b.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rescue officials say at least a third of the 30 retrieved bodies are children.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/20101282394383773.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/8/201012824511370360_20.jpg)
 
 ### Related:
 

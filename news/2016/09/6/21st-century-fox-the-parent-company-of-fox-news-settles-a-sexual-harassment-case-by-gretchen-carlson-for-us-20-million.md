@@ -8,6 +8,7 @@ Act II of the Ailes saga may have just begun.
 ### Source:
 
 1. [Vanity Fair](http://www.vanityfair.com/news/2016/09/fox-news-settles-with-gretchen-carlson-for-20-million)
+1. [Cover Image](http://media.vanityfair.com/photos/57ceaedc0b66fcb241956433/16:9/w_1200,h_630,c_limit/gretchen-carlson-roger-ailes-settlement.jpg)
 
 ### Related:
 

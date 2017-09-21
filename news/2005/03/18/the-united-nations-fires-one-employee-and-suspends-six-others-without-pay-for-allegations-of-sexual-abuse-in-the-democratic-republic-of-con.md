@@ -9,6 +9,7 @@
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N17189681.htm)
 2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=13695&Cr=democratic&Cr1=congo)
+2. [Cover Image](/News/dh/photos/large/)
 
 ### Related:
 

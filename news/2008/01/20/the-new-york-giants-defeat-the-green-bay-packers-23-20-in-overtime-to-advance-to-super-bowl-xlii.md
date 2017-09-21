@@ -9,6 +9,7 @@ Despite a shaky Tom Brady, the New England Patriots were still too much for the 
 
 1. [ESPN](http://sports.espn.go.com/nfl/recap?gameId=280120017)
 2. [The New York Times](http://fifthdown.blogs.nytimes.com/2008/01/20/open-thread-giants-at-packers/index.html)
+2. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

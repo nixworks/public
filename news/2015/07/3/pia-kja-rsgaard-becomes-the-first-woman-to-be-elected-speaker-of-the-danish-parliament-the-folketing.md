@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Politiko.dk/Berlingske](http://www.politiko.dk/nyheder/pia-k.-er-valgt-som-folketingets-foerste-kvindelige-formand)
+1. [Cover Image](https://bdk.bmcdn.dk/media/cache/resolve/image_960x545/image/71/712113/9536943-pk.jpg)
 
 ### Related:
 

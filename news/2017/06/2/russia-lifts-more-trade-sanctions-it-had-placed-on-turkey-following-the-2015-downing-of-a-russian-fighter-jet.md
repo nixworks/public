@@ -9,6 +9,7 @@ The Russian government continues to partially remove sanctions on Turkey. A new 
 
 1. [BBC](http://www.bbc.com/news/world-europe-40134701)
 2. [Daily Sabah](https://www.dailysabah.com/economy/2017/06/03/russian-govt-lifts-further-trade-sanctions-on-turkey)
+2. [Cover Image](https://iadsb.tmgrup.com.tr/24a9e6/645/344/0/86/1000/618?u=https://idsb.tmgrup.com.tr/2017/06/02/1496431371423.jpg)
 
 ### Related:
 

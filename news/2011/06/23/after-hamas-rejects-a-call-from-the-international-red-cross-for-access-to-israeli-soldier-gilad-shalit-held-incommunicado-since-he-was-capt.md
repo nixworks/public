@@ -9,6 +9,7 @@ Noam Schalit asks why it took Israeli governments five years to make move; Hamas
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/06/israel-no-more-perks-for-palestinian-prisoners-says-prime-minister-netanyahu.html)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=226363)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=168348)
 
 ### Related:
 

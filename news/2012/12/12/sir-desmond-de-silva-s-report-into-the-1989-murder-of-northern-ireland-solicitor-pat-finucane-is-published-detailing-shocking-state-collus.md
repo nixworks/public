@@ -12,6 +12,7 @@ A review into the murder of Belfast solicitor Pat Finucane in 1989 has found tha
 3. [Irish Independent](http://www.independent.ie/national-news/video-cameron-sorry-at-shocking-collusion-in-finucane-murder-3324553.html)
 4. [RTÉ](http://www.rte.ie/news/2012/1212/pat-finucane-review.html)
 5. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/12/pat-finucane-family-report-sham)
+5. [Cover Image](https://img.rasset.ie/000517bd-1600.jpg)
 
 ### Related:
 

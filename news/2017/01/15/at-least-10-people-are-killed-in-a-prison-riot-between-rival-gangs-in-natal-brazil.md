@@ -8,6 +8,7 @@ Inmates seize control of a jail for 14 hours in the city of Natal, killing at le
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38626821)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/529B/production/_93574112_prisonafp.jpg)
 
 ### Related:
 

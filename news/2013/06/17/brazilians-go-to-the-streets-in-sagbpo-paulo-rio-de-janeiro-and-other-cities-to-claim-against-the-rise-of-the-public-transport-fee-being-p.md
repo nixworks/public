@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22946736)
 2. [News Day](http://www.newsday.com/news/world/another-round-of-protests-in-brazilian-cities-1.5501273)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68228000/jpg/_68228702_68228135.jpg)
 
 ### Related:
 

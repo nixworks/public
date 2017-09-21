@@ -8,6 +8,7 @@ Fifa has handed over computer data to the Swiss authorities investigating the Wo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-33088747)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83550000/jpg/_83550226_police.jpg)
 
 ### Related:
 

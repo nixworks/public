@@ -8,6 +8,7 @@ United Nations condemns killing and wounding of hundreds based on ethnic origins
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/04/un-condemns-ethnic-killings-south-sudan-201442114111722364.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/4/21//2014421143822391734_20.jpg)
 
 ### Related:
 

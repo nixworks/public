@@ -8,6 +8,7 @@ Underwater explorers in Madagascar say they have found what is thought to be the
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-32621444)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82823000/jpg/_82823747_82823745.jpg)
 
 ### Related:
 

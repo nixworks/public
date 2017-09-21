@@ -8,6 +8,7 @@ Taiwan’s president, Ma Ying-jeou, pleads for claimants to put aside their diff
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/may/26/taiwan-proposes-south-china-sea-peace-plan-to-avert-major-conflict)
+1. [Cover Image](https://i.guim.co.uk/img/media/803f35440874b07b5b4d71839b76e5d9e40b1db3/0_50_3701_2221/3701.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=bca051538dfe4bff04967d5f8c8991b5)
 
 ### Related:
 

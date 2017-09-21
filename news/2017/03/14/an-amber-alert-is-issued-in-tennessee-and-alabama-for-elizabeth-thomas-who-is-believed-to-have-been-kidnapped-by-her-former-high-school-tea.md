@@ -8,6 +8,7 @@ A 15-year-old girl is missing out of Maury County and believed to be with a 50-y
 ### Source:
 
 1. [WKRN](http://wkrn.com/2017/03/14/endangered-child-alert-missing-teen-believed-to-be-with-armed-50-year-old-man/)
+1. [Cover Image](https://mgtvwkrn.files.wordpress.com/2017/03/untitled-125.jpg)
 
 ### Related:
 

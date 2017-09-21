@@ -9,6 +9,7 @@ Rebel forces were caught completely off-guard overnight when hundreds of ISIS mi
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/massive-rebel-collapse-daraa-isis-sweeps-several-towns/)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-south-idUSKBN160007)
+2. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2016/03/ISIS-Daraa.jpg)
 
 ### Related:
 

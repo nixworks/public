@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mexico-guzman-usa-idUSKCN0YB2H4?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160520&t=2&i=1138097108&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4J1FY)
 
 ### Related:
 

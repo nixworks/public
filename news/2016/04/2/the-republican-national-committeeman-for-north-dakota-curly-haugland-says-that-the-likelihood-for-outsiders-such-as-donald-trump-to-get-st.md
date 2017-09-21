@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2016/04/donald-trump-delegates-north-dakota-gop-221480#ixzz44cAleGHk)
+1. [Cover Image](http://static.politico.com/82/b8/e600486342cca06718753e131785/160330-donald-trump-gty-1160.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North’s Punggye-ri site appears to be ready for what would be the country’s 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/apr/13/north-korea-preparing-for-nuclear-test-satellite-images-suggest)
+1. [Cover Image](https://i.guim.co.uk/img/media/adf5978bf904ed818ca152382394d1df4530bebe/0_0_4558_2735/master/4558.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5270dc46588c1af25d0d5c7ac84f771b)
 
 ### Related:
 

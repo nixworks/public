@@ -9,6 +9,7 @@ Private company SpaceX has carried out its first test of the Raptor rocket engin
 
 1. [Ars Technica](http://arstechnica.com/science/2016/09/spacexs-interplanetary-transport-system-will-go-well-beyond-mars/)
 2. [BBC](http://www.bbc.com/news/science-environment-37473609)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C0A6/production/_91381394_mediaitem91381393.jpg)
 
 ### Related:
 

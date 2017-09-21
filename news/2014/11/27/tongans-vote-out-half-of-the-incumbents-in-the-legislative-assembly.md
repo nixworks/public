@@ -8,3 +8,4 @@ Tongans have dumped half of their members of parliament in a general election.
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2014-11-29/strong-turnout-for-tonga-election-as-many-mps-dumped/5923790)
+1. [Cover Image](http://www.abc.net.au/news/image/5922290-1x1-700x700.jpg)

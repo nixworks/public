@@ -9,6 +9,7 @@ The British High Court has ruled against a last-ditch bid by Gary McKinnon to av
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/31/british.hacker.mckinnon/index.html)
 2. [RTÉ](http://www.rte.ie/news/2009/0731/mckinnong.html)
+2. [Cover Image](https://img.rasset.ie/00019fe7-1600.jpg)
 
 ### Related:
 

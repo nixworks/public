@@ -8,6 +8,7 @@ The European Commission gives the go-ahead to a major restructuring of four nati
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20523753)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63186000/jpg/_63186101_015804558-1.jpg)
 
 ### Related:
 

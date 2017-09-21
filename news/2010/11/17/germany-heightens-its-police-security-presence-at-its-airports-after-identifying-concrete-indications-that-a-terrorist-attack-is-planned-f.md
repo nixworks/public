@@ -8,6 +8,7 @@ Germany tightens security at airports and railway stations in light of &quot;con
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-europe-11775436)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

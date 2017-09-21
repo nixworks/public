@@ -8,6 +8,7 @@ A manhunt is under way in Paris after a gunman attacks a bank HQ and the newspap
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24985779)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71188000/jpg/_71188811_ya900cf3.jpg)
 
 ### Related:
 

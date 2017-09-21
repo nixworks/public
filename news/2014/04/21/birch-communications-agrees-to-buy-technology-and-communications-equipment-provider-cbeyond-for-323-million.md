@@ -8,6 +8,7 @@ ATLANTA (AP) — Birch Communications Inc. is buying technology and communicatio
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/birch-communications-buying-cbeyond-323m-131534286--finance.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

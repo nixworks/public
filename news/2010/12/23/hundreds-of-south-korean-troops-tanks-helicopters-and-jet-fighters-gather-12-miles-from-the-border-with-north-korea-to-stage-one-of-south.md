@@ -10,6 +10,7 @@ South Korea stages one of its largest ever military drills, as its president war
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/12/201012233479157770.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12065267)
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/23/south.korea.drills/?hpt=T2)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

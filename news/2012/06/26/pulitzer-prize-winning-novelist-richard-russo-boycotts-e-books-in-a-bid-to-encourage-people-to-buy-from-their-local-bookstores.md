@@ -8,6 +8,7 @@ Pulitzer Prize-winning novelist Richard Russo says his new work is a &quot;tribu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18591110)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61168000/jpg/_61168405_015148214-1.jpg)
 
 ### Related:
 

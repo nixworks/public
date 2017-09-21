@@ -8,6 +8,7 @@ Former Lebanese general accused of collaborating with Israeli intelligence; five
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=186810)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=147512)
 
 ### Related:
 

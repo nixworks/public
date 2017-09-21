@@ -8,6 +8,7 @@ The Cabinet Committee on Political Affairs (CCPA) on Thursday raised the cap on 
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/govt-raises-lpg-cap-to-9-cylinders-per-year/article4315848.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article12230821.ece/ALTERNATES/LANDSCAPE_615/LPG)
 
 ### Related:
 

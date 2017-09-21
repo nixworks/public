@@ -9,6 +9,7 @@ Argentina becomes the first Latin American country to legalise gay marriage afte
 
 1. [BBC](http://www.bbc.co.uk/news/10630683)
 2. [France 24](http://www.france24.com/en/20100714-argentine-church-backed-anti-gay-marriage-protest)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

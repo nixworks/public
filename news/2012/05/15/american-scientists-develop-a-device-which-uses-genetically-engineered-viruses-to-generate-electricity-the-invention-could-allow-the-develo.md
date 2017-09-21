@@ -8,6 +8,7 @@ Scientists in the US have developed a way to generate electricity using viruses.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18074644)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60250000/jpg/_60250515_60250514.jpg)
 
 ### Related:
 

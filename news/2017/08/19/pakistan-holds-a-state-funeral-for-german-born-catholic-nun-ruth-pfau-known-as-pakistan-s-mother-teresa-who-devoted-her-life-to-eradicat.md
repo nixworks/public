@@ -8,6 +8,7 @@ Pakistani soldiers on Saturday carried the flag-draped coffin of German-born Cat
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-pakistan-nun-idUSKCN1AZ0AA)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170819&t=2&i=1197773929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7I0CQ)
 
 ### Related:
 

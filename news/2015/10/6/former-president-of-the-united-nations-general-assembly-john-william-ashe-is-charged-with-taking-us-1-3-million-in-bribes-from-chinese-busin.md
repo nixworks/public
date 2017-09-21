@@ -8,6 +8,7 @@ A former president of the UN General Assembly, John Ashe, was arrested on Tuesda
 ### Source:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/former-un-general/2174474.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/2174480/1444152359000/large16x9/640/360/john-ashe.jpg)
 
 ### Related:
 

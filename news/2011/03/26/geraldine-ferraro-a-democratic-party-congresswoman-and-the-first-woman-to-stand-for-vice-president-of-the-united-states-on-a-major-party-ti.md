@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/26/us-usa-ferraro-idUSTRE72P1IL20110326?feedType=RSS&feedName=domesticNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110326&t=2&i=371838969&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-26T172035Z_01_BTRE72P1BOW00_RTROPTP_0_USA-FERRARO)
 
 ### Related:
 

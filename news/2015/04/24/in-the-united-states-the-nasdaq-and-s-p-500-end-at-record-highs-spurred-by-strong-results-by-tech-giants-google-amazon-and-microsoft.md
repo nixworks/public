@@ -8,6 +8,7 @@ The Nasdaq Composite and S&P 500 chalked up record high closes on Friday, propel
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/24/us-markets-stocks-usa-idUSKBN0NF16J20150424)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150424&t=2&i=1043097286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3N0IM)
 
 ### Related:
 

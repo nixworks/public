@@ -9,6 +9,7 @@ Wreckage from an Air France passenger jet lost over the Atlantic in 2009 has bee
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42404976/ns/world_news-europe/)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12953432)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51107000/jpg/_51107846_007426843-1.jpg)
 
 ### Related:
 

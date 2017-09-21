@@ -8,6 +8,7 @@ Greek officials have invited the International Monetary Fund to join talks with 
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/greece-asks-imf-for-new-loan/a-18606708)
+1. [Cover Image](http://www.dw.com/image/18554650_304.jpg)
 
 ### Related:
 

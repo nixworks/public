@@ -8,6 +8,7 @@ Venezuelan self-styled revolutionary &quot;Carlos the Jackal&quot; goes on trial
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15616344)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56515000/jpg/_56515961_56515960.jpg)
 
 ### Related:
 

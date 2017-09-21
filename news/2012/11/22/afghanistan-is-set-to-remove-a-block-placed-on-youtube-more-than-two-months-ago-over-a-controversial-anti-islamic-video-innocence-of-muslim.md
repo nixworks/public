@@ -8,6 +8,7 @@ KABUL (PAN) Afghanistan is set to lift a block placed on Youtube more than two m
 ### Source:
 
 1. [Pajhwok](http://www.pajhwok.com/en/2012/11/22/afghanistan-unblock-youtube)
+1. [Cover Image](http://www.pajhwok.com/sites/pajhwok.com/files/photo/2012/9/23.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A deal has reportedly been reached in the case of the Brisbane mother Sally Faul
 ### Source:
 
 1. [9 News](http://www.9news.com.au/world/2016/04/20/17/05/deal-reportedly-reached-in-60-minutes-case-in-lebanon)
+1. [Cover Image](http://9network-vod-progressive.akamaized.net/media2/664969388001/2016/04/664969388001_4854590649001_8111425-20160421-061834-VIDEO-STILL.jpg)
 
 ### Related:
 

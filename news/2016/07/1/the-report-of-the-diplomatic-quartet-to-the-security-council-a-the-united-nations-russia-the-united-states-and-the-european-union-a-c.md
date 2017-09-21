@@ -10,6 +10,7 @@ UNITED NATIONS (AP) — International mediators trying to promote Mideast peace 
 1. [AP](http://www.bigstory.ap.org/article/b305be251e754682b2ba460c20c641cc/mideast-mediators-questions-israels-commitment-2-states)
 2. [The Times of Israel](http://www.timesofisrael.com/quartets-10-recommendations-to-revive-israel-palestinian-peace-talks/)
 3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=54370#.V3ad-TUVYl0)
+3. [Cover Image](/News/dh/photos/large/2016/June/684023MidEast.jpg)
 
 ### Related:
 

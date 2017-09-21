@@ -8,6 +8,7 @@ Luxembourg has become the latest country to vote in favour of equalising same-se
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/luxembourg-passes-samesex-marriage-and-adoption-bill-in-landslide-vote-9547282.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/06/18/20/gay-marriage.jpg)
 
 ### Related:
 

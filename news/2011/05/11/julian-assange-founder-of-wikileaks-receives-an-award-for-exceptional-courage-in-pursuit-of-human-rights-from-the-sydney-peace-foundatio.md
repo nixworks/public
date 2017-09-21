@@ -8,6 +8,7 @@ WikiLeaks founder Julian Assange is given an award by the Sydney Peace Foundatio
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/05/11/3213310.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2712088-1x1-700x700.jpg)
 
 ### Related:
 

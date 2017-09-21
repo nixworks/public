@@ -10,6 +10,7 @@ INDONESIA has put to death five foreigners and one local woman convicted of drug
 1. [ABC Australia](http://www.abc.net.au/news/2015-01-19/countries-remove-ambassadors-from-indonesia-after-executions/6024100)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-30870558)
 3. [News Limited](http://www.news.com.au/world/asia/six-executed-as-myuran-sukumarans-lawyer-plans-appeal-to-stop-firing-squad/story-fnh81fz8-1227188174626)
+3. [Cover Image](http://cdn.newsapi.com.au/image/v1/eccb0f79e289876b5b77ab3f9323966f)
 
 ### Related:
 

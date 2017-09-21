@@ -9,6 +9,7 @@
 
 1. [Forbes](http://www.forbes.com/markets/feeds/afx/2005/11/24/afx2353457.html)
 2. [Moscow Times](http://www.moscowtimes.ru/stories/2005/11/25/015.html)
+2. [Cover Image](http://moscowtimes.org/img/logo-big.png)
 
 ### Related:
 

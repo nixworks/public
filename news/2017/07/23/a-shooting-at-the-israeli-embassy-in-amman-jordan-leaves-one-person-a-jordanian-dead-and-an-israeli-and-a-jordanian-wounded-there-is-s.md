@@ -10,6 +10,7 @@ The shooting at the compound in Amman may be related to recent protests over the
 1. [BBC](http://www.bbc.com/news/world-middle-east-40700467)
 2. [Reuters](http://www.reuters.com/article/us-jordan-israel-security-idUSKBN1A80SE?il=0)
 3. [The Atlantic](https://www.theatlantic.com/news/archive/2017/07/israeli-embassy-attack/534612/)
+3. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2017/07/RTX3CM87/facebook.jpg?1500848273)
 
 ### Related:
 

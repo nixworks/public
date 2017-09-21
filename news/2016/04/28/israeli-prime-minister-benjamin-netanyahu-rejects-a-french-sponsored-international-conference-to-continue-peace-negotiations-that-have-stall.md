@@ -9,6 +9,7 @@ Office of Binyamin Netanyahu says best way to resolve conflict between Israelis 
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/28/israeli-prime-minister-binyamin-netanyahu-rejects-french-peace-conference-initiative-palestinians)
 2. [The Times of Israel](http://www.timesofisrael.com/israel-cool-on-french-peace-plan-bilateral-direct-talks-are-only-path/)
+2. [Cover Image](https://i.guim.co.uk/img/media/681b0b371fe715b8d29d5111c60645f89c57d293/0_363_5565_3339/5565.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4f8a7ed05fb51da24c3afb024f941dc8)
 
 ### Related:
 

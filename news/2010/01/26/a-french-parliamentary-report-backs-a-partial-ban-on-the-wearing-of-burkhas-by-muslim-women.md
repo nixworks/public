@@ -10,6 +10,7 @@ Panel recommends niqab be outlawed in schools, hospitals and on public transport
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101269170257444.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/26/france.burqa.ban/)
 3. [France 24](http://www.france24.com/en/20100126-parliamentary-report-backs-burqa-ban-0?autoplay=)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

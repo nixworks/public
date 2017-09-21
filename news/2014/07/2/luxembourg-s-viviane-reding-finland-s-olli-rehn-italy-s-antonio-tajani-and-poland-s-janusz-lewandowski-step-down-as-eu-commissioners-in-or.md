@@ -8,6 +8,7 @@ Four out of the seven commissioners who were elected to the EU parliament have q
 ### Source:
 
 1. [EU Observer](http://euobserver.com/institutional/124835)
+1. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/dbace71d66c98f011a304b113136a852-480x.jpg)
 
 ### Related:
 

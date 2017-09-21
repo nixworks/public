@@ -8,6 +8,7 @@ A bill giving same-sex couples the right to adopt has been passed by both houses
 ### Source:
 
 1. [AAP via Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/nsw-upper-house-votes-for-adoption-bill-20100908-1510l.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

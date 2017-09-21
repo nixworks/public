@@ -12,6 +12,7 @@ A series of arrests outside the White House nets actress.
 3. [NPR](http://www.npr.org/2011/08/30/140054844/the-nation-coming-together-in-central-cell-block)
 4. [The Nation](http://www.thenation.com/blog/162987/civil-disobedience-tar-sands-continues-amid-ominous-signs-administration)
 5. [The New York Times](http://www.nytimes.com/cwire/2011/08/26/26climatewire-hansen-says-obama-will-be-greenwashing-about-72041.html)
+5. [Cover Image](http://www.smh.com.au/content/dam/images/1/j/l/3/e/image.related.articleLeadwide.620x349.1jl2g.png/1314757183147.jpg)
 
 ### Related:
 

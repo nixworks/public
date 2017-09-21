@@ -8,6 +8,7 @@ Bangladeshi opposition leader Khaleda Zia calls for a transport blockade after f
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30678474)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80065000/jpg/_80065201_80065200.jpg)
 
 ### Related:
 

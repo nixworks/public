@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Balkan Insight](http://www.balkaninsight.com/en/article/eu-us-advise-postponing-macedonia-election-date-02-21-2016)
+1. [Cover Image](http://www.balkaninsight.com/en/file/show/Images/Banners/BI-FB.png)
 
 ### Related:
 

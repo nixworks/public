@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/09/2009915142916822510.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8257301.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

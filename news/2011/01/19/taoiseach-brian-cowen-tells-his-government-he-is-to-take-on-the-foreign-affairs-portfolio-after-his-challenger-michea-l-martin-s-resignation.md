@@ -10,6 +10,7 @@ Irish prime minister Brian Cowen has told the government he will be taking on th
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12225944)
 2. [RTÉ](http://www.rte.ie/news/2011/0119/harneym.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0119/breaking60.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

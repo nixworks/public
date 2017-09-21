@@ -8,6 +8,7 @@ At least six people are injured in a knife attack at a station in Guangzhou, Chi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-27289398)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74653000/jpg/_74653594_488386179(1).jpg)
 
 ### Related:
 

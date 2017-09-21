@@ -8,6 +8,7 @@ The UN human rights chief urges an investigation into possible involvement of of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12248508)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

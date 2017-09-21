@@ -8,6 +8,7 @@ The Philippine president-elect says he will seek to reintroduce the death penalt
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-36297583)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0C69/production/_89277130_89277129.jpg)
 
 ### Related:
 

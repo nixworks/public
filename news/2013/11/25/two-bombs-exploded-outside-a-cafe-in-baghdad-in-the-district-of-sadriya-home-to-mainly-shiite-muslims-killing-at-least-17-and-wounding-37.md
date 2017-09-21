@@ -8,6 +8,7 @@ Two bombs exploded outside a cafe in Baghdad on Monday, killing 17 people and wo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/25/us-iraq-violence-idUSBRE9AO0OZ20131125)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

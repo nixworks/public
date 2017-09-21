@@ -9,6 +9,7 @@
 
 1. [News.sina.com](http://news.sina.com/ch/nanfangdaily/102-000-101-101/2008-04-17/20422824425.html)
 2. [YouTube](http://www.youtube.com/watch?v=equyaRSr3ac&eurl=http://forum.yorkbbs.ca/viewthread.php?fid=12&tid=630364)
+2. [Cover Image](https://i.ytimg.com/vi/equyaRSr3ac/hqdefault.jpg)
 
 ### Related:
 

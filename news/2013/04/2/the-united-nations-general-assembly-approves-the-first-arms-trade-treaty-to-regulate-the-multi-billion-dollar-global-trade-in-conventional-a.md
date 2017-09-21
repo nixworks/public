@@ -10,6 +10,7 @@ The UN General Assembly adopts a historic treaty to control the trade in convent
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21998394)
 2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=44539)
 3. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/03/c_132280384.htm)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66700000/jpg/_66700762_017569967.jpg)
 
 ### Related:
 

@@ -17,6 +17,7 @@ Mobs had wrecked the buildings in southwest Hunan province and stolen stock. -AF
 8. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/27/c_131877673.htm)
 9. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/26/c_123766533.htm)
 10. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120927004054.htm)
+10. [Cover Image](http://www.asiaone.com/A1MEDIA/news/09Sep12/20120927.191710_chinatn.jpg)
 
 ### Related:
 

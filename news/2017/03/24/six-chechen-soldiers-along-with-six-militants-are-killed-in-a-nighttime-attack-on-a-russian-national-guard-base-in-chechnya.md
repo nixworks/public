@@ -8,6 +8,7 @@ The clashes come as militants try to gain access to a military base, Russian off
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39377409)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/2E17/production/_95299711_gettyimages-466980712.jpg)
 
 ### Related:
 

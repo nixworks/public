@@ -8,6 +8,7 @@ Syrian government forces have regained control of a military airbase on the east
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35097609)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B13A/production/_87207354_87207353.jpg)
 
 ### Related:
 

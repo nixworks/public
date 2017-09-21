@@ -8,6 +8,7 @@ Head of humanitarian affairs warns of acute food shortage in north-central Afric
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/africa/2010/07/201072121514506349.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

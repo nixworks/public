@@ -9,6 +9,7 @@ Barack Obama confronted the divisions between black and white as he sought to di
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5igrYLRrHG3P6lIbs2E7pSH0bxhvgD8VFEFHO0)
 2. [The New York Times](http://www.nytimes.com/2008/03/19/us/politics/19obama.html)
+2. [Cover Image](https://static01.nyt.com/images/2008/03/19/us/19obama0.75.jpg)
 
 ### Related:
 

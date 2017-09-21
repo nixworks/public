@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11117662)
 2. [The Standard](http://www.standardmedia.co.ke/InsidePage.php?id=2000017041&cid=4&ttl=ICC%20to%20report%20Kenya%20to%20UN%20over%20its%20high-profile%20guest%20al-Bashir)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southchinasea-ruling-idUSKCN10D0B1)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160802&t=2&i=1147967174&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7106Z)
 
 ### Related:
 

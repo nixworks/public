@@ -12,6 +12,7 @@ The Arab Spring, take two.
 3. [The Atlantic](http://www.theatlantic.com/international/archive/2013/06/seeking-new-leadership-millions-of-egyptians-take-to-the-streets/277419/)
 4. [The Jerusalem Post](http://www.jpost.com/Middle-East/Egypt-braces-for-storm-of-protest-318205)
 5. [The New York Times](http://www.nytimes.com/2013/07/02/world/middleeast/egypt-protests.html?pagewanted=all&_r=0)
+5. [Cover Image](https://cdn.theatlantic.com/assets/media/mt/international/egypt-thumb.jpg)
 
 ### Related:
 

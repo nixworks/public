@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKBN19805U)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170617&t=2&i=1189399318&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5G03T)
 
 ### Related:
 

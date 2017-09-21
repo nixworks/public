@@ -8,6 +8,7 @@ For most of his 30 years as Pennsylvania&#x27;s longest-serving U.S. senator and
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/longtime-gop-senate-moderate-arlen-specter-dies-165919376--politics.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

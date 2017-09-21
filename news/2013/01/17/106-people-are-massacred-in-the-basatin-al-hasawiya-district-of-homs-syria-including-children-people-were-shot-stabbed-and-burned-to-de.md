@@ -11,6 +11,7 @@ More than 100 people were shot, stabbed or possibly burned to death by governmen
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21073447)
 3. [Reuters](http://www.reuters.com/article/2013/01/17/us-syria-crisis-idUSBRE90G09R20130117)
 4. [The Guardian](http://www.guardian.co.uk/world/2013/jan/17/homs-massacre-syria-basatin-hasawiya)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130117&t=2&i=695234702&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90G184200)
 
 ### Related:
 

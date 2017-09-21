@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Vilaweb](http://www.vilaweb.cat/noticia/4130445/20130629/lindependentisme-esclata-camp.html)
+1. [Cover Image](http://www.vilaweb.cat/media/continguts/000/065/367/367.jpg)

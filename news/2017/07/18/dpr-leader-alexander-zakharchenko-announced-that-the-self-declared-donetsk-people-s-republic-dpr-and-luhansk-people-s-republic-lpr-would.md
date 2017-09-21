@@ -9,6 +9,7 @@ Separatists in eastern Ukraine on Tuesday proclaimed a new state that aspires to
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/ukrainian-separatists-proclaim-state-48695669)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2017/07/18/separatists-ukraine-declare-creation-new-state-malorossiya/)
+2. [Cover Image](http://a.abcnews.com/images/International/WireAP_82ee1f38893e4d92800eec8eb65c3e08_16x9_992.jpg)
 
 ### Related:
 

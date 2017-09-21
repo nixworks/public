@@ -9,6 +9,7 @@ Socialist champion Francois Hollande stamped his authority on the French preside
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/hollande-beats-sarkozy-in-french-vote-both-in-second-round-20120423-1xfk5.html)
 2. [AFP via News Limited](http://www.news.com.au/world/france-votes-in-presidential-poll/story-e6frfkz9-1226335431899)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/x/f/k/7/image.related.articleLeadwide.620x349.1xfk5.png/1335141644170.jpg)
 
 ### Related:
 

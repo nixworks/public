@@ -8,6 +8,7 @@ Solomon Islands prime minister Danny Philip has resigned ahead of a parliamentar
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-11-11/solomon-islands-pm-resigns/3660492)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

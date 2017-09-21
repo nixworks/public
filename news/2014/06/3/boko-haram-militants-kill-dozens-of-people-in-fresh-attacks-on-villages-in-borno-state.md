@@ -8,6 +8,7 @@ Suspected Boko Haram militants. some disguised as soldiers, kill dozens of Niger
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27690687#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75292000/jpg/_75292906_67615370.jpg)
 
 ### Related:
 

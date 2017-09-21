@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2016/0621/80-000-Fallujah-civilians-escape-IS-but-face-new-crisis-in-desert-camps)
+1. [Cover Image](http://images.csmonitor.com/csm/2016/06/987876_1_mahmoud.jpg_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

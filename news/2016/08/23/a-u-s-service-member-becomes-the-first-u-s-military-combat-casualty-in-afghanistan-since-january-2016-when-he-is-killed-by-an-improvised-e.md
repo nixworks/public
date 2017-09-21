@@ -8,6 +8,7 @@ A U.S. service member was killed after their patrol triggered an improvised expl
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/ied-kills-u-s-service-member-patrol-helmand-afghanistan-n636416)
+1. [Cover Image](http://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
 
 ### Related:
 

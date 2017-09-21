@@ -8,6 +8,7 @@ Newly released footage of a gunfight that left three Americans dead in November 
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/24/us/video-shows-us-soldiers-surrendering-before-fatal-shooting-in-jordan.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/25/world/middleeast/25jordan-promo/25jordan-promo-facebookJumbo.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Gunmen kidnapped a team of seven workers from the International Committee of the
 
 1. [Fox News](http://www.foxnews.com/world/2013/10/13/7-red-cross-workers-kidnapped-in-syria/)
 2. [Haaretz](http://www.haaretz.com/news/middle-east/1.552132)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

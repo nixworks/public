@@ -8,6 +8,7 @@ Tens of thousands of Haitians live in the U.S. under Temporary Protected Status.
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/haitian-tps-immigration-trump-decision-deportation-611101)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2017/05/17/haitiimmigration0517.jpg)
 
 ### Related:
 

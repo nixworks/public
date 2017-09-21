@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Security-forces-arrest-18-Palestinians-in-West-Bank-overnight-450848)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

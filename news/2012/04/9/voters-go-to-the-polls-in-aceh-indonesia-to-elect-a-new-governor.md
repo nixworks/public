@@ -8,6 +8,7 @@ Tsunami-devastated region holds elections, testing strength of peace deal betwee
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/04/20124993311249877.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/9/2012499411883734_20.jpg)
 
 ### Related:
 

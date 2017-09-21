@@ -9,6 +9,7 @@ Hundreds of people are feared dead after two boats carrying up to 500 migrants c
 
 1. [BBC](http://www.bbc.com/news/world-africa-34082304)
 2. [Reuters](http://www.reuters.com/article/2015/08/27/us-europe-grants-eu-austria-idUSKCN0QW19H20150827)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/17B45/production/_85239079_vlwmixpz.jpg)
 
 ### Related:
 

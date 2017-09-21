@@ -8,6 +8,7 @@ Uno became the first beagle to win best in show at the Westminster Kennel Club o
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/sports/news/story?id=3243410)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

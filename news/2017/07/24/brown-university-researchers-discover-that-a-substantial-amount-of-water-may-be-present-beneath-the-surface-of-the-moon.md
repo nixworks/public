@@ -9,6 +9,7 @@ Ancient volcanic deposits on the moon indicate the lunar interior has a substant
 
 1. [CNN](http://www.cnn.com/2017/07/24/us/moon-water-study/index.html)
 2. [Space](https://www.space.com/37596-moon-interior-could-have-water.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA2OC8wNDkvb3JpZ2luYWwvbW9vbi1pbnRlcmlvci13YXRlci1hcnQuanBn)
 
 ### Related:
 

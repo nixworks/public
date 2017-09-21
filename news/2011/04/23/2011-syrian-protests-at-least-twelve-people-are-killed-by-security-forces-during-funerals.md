@@ -13,6 +13,7 @@ NATO carried out another series of air strikes on Tripoli early Saturday, Libyan
 4. [CBC](http://www.cbc.ca/news/world/story/2011/04/23/libya-saturday.html)
 5. [RIA Novosti](http://en.rian.ru/world/20110423/163664135.html)
 6. [Reuters](http://www.reuters.com/article/2011/04/23/us-syria-protests-idUSTRE73L1SJ20110423)
+6. [Cover Image](https://i.cbc.ca/1.1937101.1381386417!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-tripoli-620-cp-00552193.jpg)
 
 ### Related:
 

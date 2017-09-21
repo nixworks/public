@@ -10,6 +10,7 @@ With 83,478 votes counted following Saturday&#039;s referendum in Iceland, 78,09
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8552971.stm)
 2. [CNN](http://edition.cnn.com/2010/BUSINESS/03/06/iceland.bailout.vote/)
 3. [IceNews](http://www.icenews.is/index.php/2010/03/07/1-5-voted-yes-in-icesave-referendum/)
+3. [Cover Image](http://www.icenews.is/wp-content/uploads/2010/03/voting4.jpg)
 
 ### Related:
 

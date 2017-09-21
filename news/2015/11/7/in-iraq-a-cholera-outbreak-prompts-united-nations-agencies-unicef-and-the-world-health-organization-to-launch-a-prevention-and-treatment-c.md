@@ -8,6 +8,7 @@ UNICEF and WHO collaborate in major bid to contain disease that risks spiralling
 ### Source:
 
 1. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/launches-campaign-tackle-iraq-cholera-outbreak-151106142858671.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/6/d99d42fc6223409db837d434e2e41931_18.jpg)
 
 ### Related:
 

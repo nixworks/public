@@ -8,6 +8,7 @@ Indian MP Prabha Taviad breaks down and weeps in parliament, alleging she was as
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-17919914)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59984000/jpg/_59984846_pti5_2_2012_000031b.jpg)
 
 ### Related:
 

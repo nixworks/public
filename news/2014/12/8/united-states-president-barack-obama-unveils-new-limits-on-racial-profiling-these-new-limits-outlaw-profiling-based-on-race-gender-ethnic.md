@@ -8,6 +8,7 @@ Attorney General Eric Holder says he hopes state and local police will adopt the
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2014/12/08/369388099/obama-administration-unveils-new-ban-on-racial-profiling)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

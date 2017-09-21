@@ -11,6 +11,7 @@
 2. [CNN](http://www.cnn.com/2006/US/10/11/plane.crash.ap/index.html)
 3. [ESPN](http://sports.espn.go.com/mlb/news/story?id=2621860)
 4. [The New York Times](http://www.nytimes.com/aponline/nyregion/11wire-plane.html?hp&ex=1160625600&en=12537f67b1ec2ff5&ei=5094&partner=homepage)
+4. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fmlb%2Fplayers%2Ffull%2F3645.png)
 
 ### Related:
 

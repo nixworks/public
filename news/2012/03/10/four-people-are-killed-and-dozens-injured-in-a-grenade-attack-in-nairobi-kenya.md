@@ -8,6 +8,7 @@ At least six people are killed in a grenade attack in the Kenyan capital which t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17326086)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58998000/jpg/_58998876_58998872.jpg)
 
 ### Related:
 

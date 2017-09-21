@@ -8,6 +8,7 @@ Plessner: The Turks are opening another front against us.
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=179344)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=145125)
 
 ### Related:
 

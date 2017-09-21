@@ -8,6 +8,7 @@ Two bombs explode in the Thai resort of Hua Hin, killing one woman and injuring 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37049989)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10711/production/_90754376_mediaitem90754375.jpg)
 
 ### Related:
 

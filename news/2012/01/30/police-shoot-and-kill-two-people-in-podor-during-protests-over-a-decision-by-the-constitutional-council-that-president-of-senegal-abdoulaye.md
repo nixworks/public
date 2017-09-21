@@ -8,6 +8,7 @@ Two people are shot dead in northern Senegal during protests after a court ruled
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16801199)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58169000/jpg/_58169127_013856750-1.jpg)
 
 ### Related:
 

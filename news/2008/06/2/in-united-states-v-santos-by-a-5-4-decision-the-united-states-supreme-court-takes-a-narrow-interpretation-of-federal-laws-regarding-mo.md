@@ -9,6 +9,7 @@ The Supreme Court on Monday ruled against the government in two money laundering
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,361561,00.html)
 2. [Sports Illustrated](http://sportsillustrated.cnn.com/2008/baseball/mlb/06/02/scouts.fantasy.ap/index.html?eref=si_mlb)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

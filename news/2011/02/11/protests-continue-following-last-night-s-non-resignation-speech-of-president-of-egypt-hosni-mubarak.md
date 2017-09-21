@@ -20,6 +20,7 @@ Egyptian president stands down and hands over power to the Supreme Council for t
 11. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/11/AR2011021102386.html)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/11/c_13728121.htm)
 13. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4027193,00.html)
+13. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/19/201091983334300734_20.jpg)
 
 ### Related:
 

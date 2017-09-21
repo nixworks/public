@@ -8,6 +8,7 @@ Minister Eitan Cabel of the Labor party will announce his resignation Tuesday, h
 ### Source:
 
 1. [FOX](http://www.foxnews.com/story/0,2933,269313,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

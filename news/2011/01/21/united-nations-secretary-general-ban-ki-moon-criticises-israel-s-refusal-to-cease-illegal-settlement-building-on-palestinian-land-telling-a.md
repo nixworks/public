@@ -12,6 +12,7 @@
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12249297)
 4. [CNN](http://edition.cnn.com/2011/WORLD/meast/01/21/gaza.french.minister/)
 5. [KUNA](http://www.kuna.net.kw/NewsAgenciesPublicSite/ArticleDetails.aspx?id=2139547&Language=en)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

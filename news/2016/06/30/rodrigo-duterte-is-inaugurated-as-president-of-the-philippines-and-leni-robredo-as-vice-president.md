@@ -9,6 +9,7 @@ A sharp increase in killings of criminal suspects since the election of Rodrigo 
 
 1. [The Manila Bulletin](http://www.mb.com.ph/pnp-activates-task-force-for-duterte-robredo-inauguration-on-thursday/)
 2. [The Wall Street Journal](http://www.wsj.com/articles/in-rodrigo-dutertes-philippines-suspects-have-the-right-to-remain-silentforever-1467224121)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-OS021_PHILCR_TOP_20160629112246.jpg)
 
 ### Related:
 

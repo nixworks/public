@@ -8,6 +8,7 @@ PA spokesman retorts that Iran &quot;represses their people,&quot; after Iranian
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Home/Article.aspx?id=187107)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=145446)
 
 ### Related:
 

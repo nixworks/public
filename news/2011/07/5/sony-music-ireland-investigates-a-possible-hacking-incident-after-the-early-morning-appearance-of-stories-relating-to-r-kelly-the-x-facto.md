@@ -9,6 +9,7 @@ Sony Music Ireland has said it is looking into an incident on its website after 
 
 1. [RTÉ](http://www.rte.ie/news/2011/0705/sony.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0705/breaking17.html)
+2. [Cover Image](https://img.rasset.ie/0004bf95-1600.jpg)
 
 ### Related:
 

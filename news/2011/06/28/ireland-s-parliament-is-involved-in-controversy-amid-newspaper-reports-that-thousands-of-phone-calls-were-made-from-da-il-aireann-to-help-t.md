@@ -11,6 +11,7 @@ Independent Kerry South TD Michael Healy-Rae has said he does not know who voted
 2. [Newstalk](http://www.newstalk.ie/2011/news/8healy-rae-rejects-suggestions-over-calls-says-conscience-is-clear59/)
 3. [TV3](http://www.tv3.ie/article.php?article_id=60259&locID=1.2&pagename=news)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0628/breaking30.html?via=mr)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

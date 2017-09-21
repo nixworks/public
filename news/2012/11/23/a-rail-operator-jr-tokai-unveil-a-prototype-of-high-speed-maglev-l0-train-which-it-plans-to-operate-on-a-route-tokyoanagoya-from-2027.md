@@ -9,6 +9,7 @@
 
 1. [The Asahi Shimbun](http://ajw.asahi.com/article/behind_news/social_affairs/AJ201211230028)
 2. [The Japan Times](http://www.japantimes.co.jp/text/nb20121123a3.html)
+2. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2013/01/nb20121123a3a.jpg)
 
 ### Related:
 

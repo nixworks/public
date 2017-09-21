@@ -8,6 +8,7 @@ Kian Loyd de los Santos, the 17-year-old killed by anti-narcotics agents as he k
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/asia/se-asia/over-a-thousand-join-funeral-procession-for-slain-philippine-teenager-kian-loyd-delos)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2017/08/26/lwx260817_phil.jpg?itok=jrMlDvPz)
 
 ### Related:
 

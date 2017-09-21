@@ -8,6 +8,7 @@ Chancellor George Osborne announces that he wants to sell Northern Rock to a sin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13783724)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53432000/jpg/_53432590_006120033-1.jpg)
 
 ### Related:
 

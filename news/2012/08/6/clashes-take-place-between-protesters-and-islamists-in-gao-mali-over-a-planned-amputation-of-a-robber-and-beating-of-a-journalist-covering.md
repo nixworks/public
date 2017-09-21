@@ -8,6 +8,7 @@ Malian youths clashed with ruling Islamists in the city of Gao in a protest agai
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/08/06/us-mali-crisis-idUSBRE8750RH20120806)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

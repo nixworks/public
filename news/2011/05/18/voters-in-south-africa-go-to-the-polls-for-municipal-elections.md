@@ -8,6 +8,7 @@ South Africans go to the polls to vote in local elections after one of the most 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13427900)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52810000/jpg/_52810400_012006850-1.jpg)
 
 ### Related:
 

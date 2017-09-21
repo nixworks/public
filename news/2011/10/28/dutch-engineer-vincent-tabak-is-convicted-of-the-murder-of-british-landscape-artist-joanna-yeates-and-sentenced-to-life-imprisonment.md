@@ -8,6 +8,7 @@ Vincent Tabak is found guilty of the murder of Bristol landscape architect Jo Ye
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-15448121)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56169000/jpg/_56169029_56169028.jpg)
 
 ### Related:
 

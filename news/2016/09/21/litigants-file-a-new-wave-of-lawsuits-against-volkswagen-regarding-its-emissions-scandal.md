@@ -8,6 +8,7 @@ Volkswagen is facing €8.2bn in damages claims from 1,400 German investors over
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37429466)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A5C0/production/_91323424_efqwb957.jpg)
 
 ### Related:
 

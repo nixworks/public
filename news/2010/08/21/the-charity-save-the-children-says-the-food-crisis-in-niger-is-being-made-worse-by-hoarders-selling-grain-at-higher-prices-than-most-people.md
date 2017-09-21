@@ -9,6 +9,7 @@ The lives of hundreds of thousands of children in Niger are being put at risk by
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11045959)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20100821/news_20100821_56_692719.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

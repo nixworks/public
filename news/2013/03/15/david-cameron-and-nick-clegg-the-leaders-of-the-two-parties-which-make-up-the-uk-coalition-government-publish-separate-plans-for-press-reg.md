@@ -8,6 +8,7 @@ The battle lines are drawn on the future of press regulation as Nick Clegg and E
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21796866)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66397000/jpg/_66397147_comp_clegg_mili_cam.jpg)
 
 ### Related:
 

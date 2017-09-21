@@ -9,6 +9,7 @@ Statement cites Turkish president as saying Ankara ‘never had the desire and t
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jun/27/kremlin-says-erdogan-apologises-russian-jet-turkish)
 2. [The Washington Post](https://www.washingtonpost.com/world/turkey-apologizes-for-shooting-down-russian-warplane-last-year/2016/06/27/d969e0ea-3c6d-11e6-9e16-4cf01a41decb_story.html)
+2. [Cover Image](https://i.guim.co.uk/img/media/e746523be580cfa1249a8d9023798489a08ec32c/0_346_5196_3118/5196.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=af60441ff42f921c4cafe231a2b00357)
 
 ### Related:
 

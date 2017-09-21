@@ -8,6 +8,7 @@ The US carries out air strikes in Libya on positions of so-called Islamic State 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-36941934)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/FB54/production/_90604346_mediaitem90604344.jpg)
 
 ### Related:
 

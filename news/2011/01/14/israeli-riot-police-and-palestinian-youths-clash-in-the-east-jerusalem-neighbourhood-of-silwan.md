@@ -8,6 +8,7 @@ Violence linked to influx of Jewish settlers into Silwan in recent years, angeri
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011114165911135572.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/14/201111417324971876_20.jpg)
 
 ### Related:
 

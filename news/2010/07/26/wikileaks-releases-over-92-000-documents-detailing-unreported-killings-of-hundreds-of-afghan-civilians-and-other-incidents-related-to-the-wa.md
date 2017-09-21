@@ -14,6 +14,7 @@ More than 90,000 secret US military records are leaked to the media by Wikileaks
 5. [The Guardian](http://www.guardian.co.uk/world/2010/jul/25/afghanistan-war-logs-military-leaks)
 6. [The New York Times](http://www.nytimes.com/2010/07/26/world/asia/26warlogs.html?_r=1&pagewanted=all)
 7. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-condemns-massive-leak-of-afghan-war-files-20100726-10r8h.html)
+7. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

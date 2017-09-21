@@ -8,6 +8,7 @@ Bollywood screen legend Dev Anand dies in London of a heart attack at the age of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16021433)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57121000/jpg/_57121683_devanandap464.jpg)
 
 ### Related:
 

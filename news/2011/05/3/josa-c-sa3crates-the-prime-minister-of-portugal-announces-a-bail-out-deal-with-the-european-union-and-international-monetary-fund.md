@@ -8,6 +8,7 @@ Portugal has reached a deal on a bail-out from the EU and IMF, its caretaker pri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13275470)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52474000/jpg/_52474905_011895742-1.jpg)
 
 ### Related:
 

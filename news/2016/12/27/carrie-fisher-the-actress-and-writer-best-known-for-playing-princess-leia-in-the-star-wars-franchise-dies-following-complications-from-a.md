@@ -8,6 +8,7 @@
 ### Source:
 
 1. [E! News](http://www.eonline.com/news/817912/carrie-fisher-dead-at-60)
+1. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/20161123/rs_600x600-161223140018-600.Carrie-Fisher-Force-Awakens-2.kg.122316.jpg?downsize=450:*&crop=450:350;left,top)
 
 ### Related:
 

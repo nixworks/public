@@ -13,6 +13,7 @@ The Irish Independent, along with sister newspaper The Belfast Telegraph, have o
 4. [Irish Independent](http://www.independent.ie/video/video-wikileaks/)
 5. [Sociable](http://sociable.co/2011/05/31/irish-newspaper-begins-publishing-wikileaks-ireland-cables/)
 6. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/wikileaks-northern-ireland-secrets-revealed-16006099.html)
+6. [Cover Image](http://sociable.co/wp-content/uploads/2011/05/julian-assange-488x325.jpg)
 
 ### Related:
 

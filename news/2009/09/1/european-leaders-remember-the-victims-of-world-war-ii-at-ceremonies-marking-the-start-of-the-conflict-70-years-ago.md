@@ -12,6 +12,7 @@ Germany&#39;s 1939 invasion of Poland opened the &#39;most tragic chapter&#39; i
 3. [Japan Today](http://www.japantoday.com/category/world/view/poland-marks-anniversary-of-wwii-beginning)
 4. [RTÉ](http://www.rte.ie/news/2009/0901/ww2.html)
 5. [Time](http://www.time.com/time/world/article/0,8599,1919803,00.html)
+5. [Cover Image](https://img.rasset.ie/00028f04-1600.jpg)
 
 ### Related:
 

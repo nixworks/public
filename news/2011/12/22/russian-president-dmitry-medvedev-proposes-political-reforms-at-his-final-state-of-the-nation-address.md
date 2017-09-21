@@ -9,6 +9,7 @@ Simplifying the registration of political parties and presidential candidates, a
 
 1. [New York Times](http://www.nytimes.com/2011/12/23/world/europe/dmitri-medvedev-urges-reforms-for-russia-in-address.html)
 2. [Russia Today](http://rt.com/news/medvedev-russia-political-system-411/)
+2. [Cover Image](https://img.rt.com/files/oldfiles/news/medvedev-russia-political-system-411/address-federal-dmitry-assembly.si.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Zika virus has been associated with a birth defect called microcephaly.
 
 1. [ABC News Australia via MSN](http://www.msn.com/en-au/news/australia/pregnant-queensland-woman-tests-positive-to-zika-virus-after-travelling-overseas/ar-BBpkwrm?ocid=UP94DHP)
 2. [ABC News](http://abcnews.go.com/Health/zika-virus-outbreak-updates-china-reports-case/story?id=36834601)
+2. [Cover Image](http://a.abcnews.com/images/Health/rtr_zika_virus_02_jc_160210_16x9_992.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A truce reached by Yemen’s government and dissidents, who have been locked in 
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2011/Oct-26/152224-15-dead-as-yemen-truce-collapses-immediately.ashx#axzz1bpkc0Dv4)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2011/10/26/31323_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

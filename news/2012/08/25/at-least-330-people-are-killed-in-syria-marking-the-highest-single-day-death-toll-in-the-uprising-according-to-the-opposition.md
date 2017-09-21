@@ -11,6 +11,7 @@ The bodies of at least 200 people were found in a town close to Damascus on Satu
 2. [CNN](http://www.cnn.com/2012/08/25/world/meast/syria-civil-war/index.html)
 3. [Huffington Post](http://www.huffingtonpost.com/2012/08/25/syria-conflict-kidnapped-lebanese_n_1829970.html)
 4. [Reuters](http://www.reuters.com/article/2012/08/25/us-syria-crisis-killings-idUSBRE87O08J20120825)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

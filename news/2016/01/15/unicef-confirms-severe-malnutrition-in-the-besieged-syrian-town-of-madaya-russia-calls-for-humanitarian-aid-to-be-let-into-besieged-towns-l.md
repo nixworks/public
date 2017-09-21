@@ -9,6 +9,7 @@
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3400742/Russia-says-aid-allowed-areas-Syria-blockaded-militants.html#ixzz3xIlzliI3)
 2. [Reuters via Trust](http://news.trust.org/item/20160115084313-l8tj1)
+2. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/5d2d061c-2b8e-4ec3-b0c4-2c064616446e/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

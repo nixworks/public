@@ -8,6 +8,7 @@ A US-British team of astronomers has discovered the first planet with ultra-high
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11942451)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

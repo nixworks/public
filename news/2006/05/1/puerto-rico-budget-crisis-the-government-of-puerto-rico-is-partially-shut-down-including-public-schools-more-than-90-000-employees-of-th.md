@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=domesticNews&storyid=2006-05-01T165746Z_01_N01188448_RTRUKOC_0_US-ECONOMY-PUERTORICO.xml)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

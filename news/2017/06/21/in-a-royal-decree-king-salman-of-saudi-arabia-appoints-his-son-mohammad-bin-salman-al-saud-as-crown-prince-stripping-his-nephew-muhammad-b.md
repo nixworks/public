@@ -8,6 +8,7 @@ Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising po
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jun/21/saudi-king-upends-tradition-by-naming-son-as-first-in-line-to-throne)
+1. [Cover Image](https://i.guim.co.uk/img/media/8ed9b84eecfa077180457c8321fea6bdc41ac221/0_703_3863_2317/master/3863.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=58912e396541a21d82c0bb5ac8fffd33)
 
 ### Related:
 

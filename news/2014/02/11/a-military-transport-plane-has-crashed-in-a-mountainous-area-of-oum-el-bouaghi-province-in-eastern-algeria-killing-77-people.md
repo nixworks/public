@@ -9,6 +9,7 @@ A military transport plane carrying members of the Algerian armed forces and the
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-26138101)
 2. [Reuters](http://www.reuters.com/article/2014/02/11/us-algeria-crash-idUSBREA1A0YK20140211?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140211&t=2&i=837436045&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1A1N5S00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two separate bombings in Kandahar and Kunduz kill at least 10 people, including 
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/09/201094161033100180.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/4/201094161631643734_20.jpg)
 
 ### Related:
 

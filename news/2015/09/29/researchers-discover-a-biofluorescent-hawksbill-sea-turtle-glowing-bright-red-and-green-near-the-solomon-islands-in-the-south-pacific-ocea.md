@@ -9,6 +9,7 @@ A brightly glowing neon green and red sea turtle caught the attention of two div
 
 1. [CNN](http://www.cnn.com/2015/09/29/world/biofluorescent-sea-turtle-discovered/)
 2. [Live Science](http://www.livescience.com/52338-rare-biofluorescent-turtle-glows.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA3OC82Njcvb3JpZ2luYWwvYmlvbHVtaW5lc2NlbnQtdHVydGxlLTEuanBn)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [AP](http://hosted.ap.org/dynamic/stories/I/ISRAEL_PALESTINIANS?SITE=WKHG&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-17T153806Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit=)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Since the federal government reinstated the death penalty in 1988, only three me
 
 1. [CNN](http://edition.cnn.com/2015/06/24/us/tsarnaev-boston-marathon-bombing-death-sentencing/index.html)
 2. [NBC News](http://www.nbcnews.com/storyline/boston-bombing-trial/tsarnaev-joins-death-row-many-members-few-executions-n381126)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_26/1090751/150624-dhzohkar-tsarnaev-mn-1315_3e6e06ed8f0dfe25513de478597045a7.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

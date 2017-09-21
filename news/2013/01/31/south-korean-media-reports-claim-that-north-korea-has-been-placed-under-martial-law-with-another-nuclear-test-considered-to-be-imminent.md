@@ -8,6 +8,7 @@ North Korea has been placed under martial law and Kim Jong-un has told his front
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/9838626/North-Korea-under-martial-law.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02464/Pyongyang_2464045k.jpg)
 
 ### Related:
 

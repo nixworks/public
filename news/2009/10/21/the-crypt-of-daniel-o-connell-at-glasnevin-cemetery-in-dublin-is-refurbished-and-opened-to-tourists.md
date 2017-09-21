@@ -8,6 +8,7 @@ The crypt of Daniel O&#39;Connell at Glasnevin Cemetery in Dublin has been refur
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1021/oconnelld.html)
+1. [Cover Image](https://img.rasset.ie/0002b127-1600.jpg)
 
 ### Related:
 

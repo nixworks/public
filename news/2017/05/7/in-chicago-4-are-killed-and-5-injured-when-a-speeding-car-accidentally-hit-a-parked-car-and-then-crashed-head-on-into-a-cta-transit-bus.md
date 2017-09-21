@@ -8,3 +8,4 @@
 ### Source:
 
 1. [NBC Chicago](http://www.nbcchicago.com/news/local/cta-bus-crash-madison-st-chicago-421555064.html)
+1. [Cover Image](http://media.nbcchicago.com/images/1200*675/bus+crash+west+side+57.png)

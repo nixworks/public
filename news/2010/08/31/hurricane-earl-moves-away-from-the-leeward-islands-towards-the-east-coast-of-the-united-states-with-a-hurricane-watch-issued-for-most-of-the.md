@@ -9,6 +9,7 @@ Powerful Hurricane Earl churned toward the eastern seaboard on Tuesday and looke
 
 1. [MSNBC](http://www.msnbc.msn.com/id/38877306/ns/weather/)
 2. [Reuters](http://www.reuters.com/article/idUSTRE67S0HT20100831?feedType=nl&feedName=usmorningdigest)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100831&t=2&i=193774619&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-31T142421Z_01_BTRE67U140M00_RTROPTP_0_US-WEATHER-STORM-EARL)
 
 ### Related:
 

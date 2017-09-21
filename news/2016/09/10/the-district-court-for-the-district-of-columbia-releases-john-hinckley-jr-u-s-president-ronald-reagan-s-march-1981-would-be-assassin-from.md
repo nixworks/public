@@ -8,6 +8,7 @@ John Hinckley Jr, who tried to kill US President Ronald Reagan in 1981, is freed
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37328612)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/113E9/production/_90533607_mediaitem90533606.jpg)
 
 ### Related:
 

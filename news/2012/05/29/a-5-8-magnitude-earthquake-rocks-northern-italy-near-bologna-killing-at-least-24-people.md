@@ -9,6 +9,7 @@ At least 17 people killed and others trapped under rubble as 5.8-magnitude quake
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iGI7jZUrMS_VNz8oax18KhHw6AsQ?docId=8ab6d00b04c24e7485a98ab98008cfbb)
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/2012529125135315910.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/29//2012529125335131734_20.jpg)
 
 ### Related:
 

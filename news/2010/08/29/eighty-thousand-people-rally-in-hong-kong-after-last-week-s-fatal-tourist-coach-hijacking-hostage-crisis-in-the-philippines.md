@@ -11,6 +11,7 @@ Grief and anger at the killing of eight Hong Kong tourists in a bus siege in Man
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11123869)
 3. [Bangkok Post](http://www.bangkokpost.com/breakingnews/193588/thousands-march-in-hong-kong-over-manila-bloodbath)
 4. [The Independent](http://www.independent.co.uk/news/world/asia/hong-kong-in-bitter-mourning-for-manila-bus-killers-victims-2065490.html)
+4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/08/29/19/442083.bin)
 
 ### Related:
 

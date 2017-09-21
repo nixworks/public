@@ -8,6 +8,7 @@ Turkish warplanes bombed Kurdish insurgent targets overnight after the militants
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/07/us-mideast-crisis-turkey-kurds-idUSKCN0R70BG20150907)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150907&t=2&i=1077510752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8605Z)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Malaysia Today](http://www.malaysia-today.net/thai-constitutional-court-voids-february-election/)
+1. [Cover Image](http://www.malaysia-today.net/wp-content/uploads/2014/03/Thai-Elections.jpeg)
 
 ### Related:
 

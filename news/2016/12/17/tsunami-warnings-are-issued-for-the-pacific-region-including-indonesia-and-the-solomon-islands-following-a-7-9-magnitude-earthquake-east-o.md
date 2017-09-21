@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-papua-quake-idUSKBN1460CF)
 2. [Television New Zealand](https://www.tvnz.co.nz/one-news/world/large-7-9-earthquake-in-papua-new-guinea-sparks-tsunami-warning-nz)
+2. [Cover Image](https://www.tvnz.co.nz/content/dam/images/news/2015/07/03/earthquake-seismograph-generic-red-line-2014.jpg.hashed.7c670fc3.desktop.story.share.jpg)
 
 ### Related:
 

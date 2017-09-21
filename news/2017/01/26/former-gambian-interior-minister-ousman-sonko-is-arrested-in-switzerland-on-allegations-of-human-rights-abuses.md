@@ -8,3 +8,4 @@ Switzerland has detained former Gambian interior minister Ousman Sonko, who is a
 ### Source:
 
 1. [News24](http://www.news24.com/Africa/News/switzerland-arrests-ex-gambian-interior-minister-20170126)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1669/5fc4d744574141e8be5e95919e09ad59.jpg)

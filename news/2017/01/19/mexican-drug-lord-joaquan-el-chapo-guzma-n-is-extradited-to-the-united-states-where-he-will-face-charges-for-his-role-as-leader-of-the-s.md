@@ -8,6 +8,7 @@ The Sinaloa cartel kingpin is reportedly headed for New York City, one of severa
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/mexico-extradites-joaquin-el-chapo-guzman-sinaloa-cartel-kingpin-2017-1)
+1. [Cover Image](http://static3.businessinsider.com/image/58814622f10a9a283f8b687e-1190-625/mexico-has-extradited-sinaloa-cartel-kingpin-joaqun-el-chapo-guzmn-after-months-of-legal-battles.jpg)
 
 ### Related:
 

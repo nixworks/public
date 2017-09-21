@@ -8,6 +8,7 @@ Minister for Foreign Affairs Miche√°l Martin has briefed EU Foreign Ministers ab
 ### Source:
 
 1. [RT…](http://www.rte.ie/news/2010/0306/gaza.html)
+1. [Cover Image](https://img.rasset.ie/00030596-1600.jpg)
 
 ### Related:
 

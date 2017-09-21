@@ -8,6 +8,7 @@ Scotland Yard says it has &quot;new evidence and new witnesses&quot; in the Made
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23179230)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55253000/jpg/_55253854_maddy2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 11 people die in Senegal as a terrace where they were watching a World 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10428304.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

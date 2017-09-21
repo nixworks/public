@@ -8,6 +8,7 @@ A cabinet minister in Uganda, where homosexual acts are illegal, raids a worksho
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17032804)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58502000/jpg/_58502449_uganda-nabagesera-620x310.jpg)
 
 ### Related:
 

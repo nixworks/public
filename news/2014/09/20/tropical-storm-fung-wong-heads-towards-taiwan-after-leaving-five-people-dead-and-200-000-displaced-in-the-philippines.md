@@ -8,6 +8,7 @@ Tropical storm Fung-Wong churns towards Taiwan after killing at least five peopl
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-09-20/storm-leaves-200000-displaced-in-philippines/5758138)
+1. [Cover Image](http://www.abc.net.au/news/image/5758148-1x1-700x700.jpg)
 
 ### Related:
 

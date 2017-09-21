@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/usa-trump-thaad-advisor-idUSL4N1I01LX)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170428&t=2&i=1182536882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3R07T)
 
 ### Related:
 

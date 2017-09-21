@@ -8,6 +8,7 @@ Explosions in southern Thailand have killed at least 10 people, officials say, i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17571133)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59407000/jpg/_59407499_014403114-1.jpg)
 
 ### Related:
 

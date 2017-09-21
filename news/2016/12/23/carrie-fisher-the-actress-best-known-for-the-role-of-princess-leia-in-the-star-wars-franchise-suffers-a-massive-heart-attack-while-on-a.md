@@ -8,6 +8,7 @@ The actress - most famous for playing Princess Leia in the Star Wars franchise -
 ### Source:
 
 1. [Mirror](http://www.mirror.co.uk/3am/celebrity-news/carrie-fisher-heart-attack-latest-9509603)
+1. [Cover Image](http://i3.mirror.co.uk/incoming/article9509847.ece/ALTERNATES/s1200/Star-Wars-Celebration-2015.jpg)
 
 ### Related:
 

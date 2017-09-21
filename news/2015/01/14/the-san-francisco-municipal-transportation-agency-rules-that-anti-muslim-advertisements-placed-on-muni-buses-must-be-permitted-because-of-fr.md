@@ -8,6 +8,7 @@ Get the latest news video clips from NBC Bay Area. Check out breaking video news
 ### Source:
 
 1. [KNTV](http://www.nbcbayarea.com/video/?_osource=SocialFlowTwt_BAYBrand#!/on-air/as-seen-on/Anti-Muslim-Ads-on-Muni-Buses-Stun-Riders/288486491)
+1. [Cover Image](http://media.nbcbayarea.com/designimages/nbcbay_station_logo.jpg?ak=bc)
 
 ### Related:
 

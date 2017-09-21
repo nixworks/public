@@ -11,6 +11,7 @@ A clearer picture of Omar Ismail Mostefai, one of the Bataclan attackers, is sta
 2. [BBC](http://www.bbc.com/news/world-europe-34827541)
 3. [Fox News](http://www.foxnews.com/world/2015/11/15/one-paris-attacker-reportedly-identified-as-ismael-omar-mostefai/)
 4. [Reuters](http://in.reuters.com/article/2015/11/15/france-shooting-idINKCN0T40F420151115)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/152FB/production/_86697768_houseafp.jpg)
 
 ### Related:
 

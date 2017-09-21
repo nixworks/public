@@ -9,6 +9,7 @@ A massive wildfire burning north of Big Sur has scorched more than 33,000 acres 
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-soberanes-fire-20160730-snap-story.html)
 2. [Reuters](http://www.reuters.com/article/us-california-fire-idUSKCN10816V)
+2. [Cover Image](http://www.trbimg.com/img-579d209d/turbine/la-me-ln-soberanes-fire-20160730-snap)
 
 ### Related:
 

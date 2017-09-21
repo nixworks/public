@@ -10,6 +10,7 @@ Khoso, 84, is a venerated officer bearing a reputation of honesty.
 1. [AFP via ''The Express Tribune](http://tribune.com.pk/story/525608/justice-r-mir-hazar-khan-khoso-named-interim-pm-of-pakistan/)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/03/2013323133447571443.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-21914946)
+3. [Cover Image](https://c.tribune.com.pk/2013/03/525608-mirhazarkhankhoso-1364113964-332-640x480.jpg)
 
 ### Related:
 

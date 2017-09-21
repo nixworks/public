@@ -10,6 +10,7 @@ Russian leader makes surprise declaration of support for Field Marshal Sisi&#039
 1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/94184/Egypt/Politics-/Russia-trip-new-start-to-military-cooperation-Egyp.aspx)
 2. [The Hindu](http://www.thehindu.com/news/international/world/russia-egypt-to-boost-defence-ties/article5684901.ece)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10635530/Vladimir-Putin-backs-Egypt-army-chief-Abdulfattah-al-Sisi-for-president.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02820/Abdel-Fattah-al-Si_2820907k.jpg)
 
 ### Related:
 

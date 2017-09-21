@@ -8,6 +8,7 @@ Traffic on the site has dropped to nearly zero, the company said, adding that it
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/03/25/technology/internet/25youtube.html?ref=technology)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ FRANCE-SHOOTING/USA-GOVERNORS (URGENT):White House holds call with 34 governors 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/white-house-plans-call-governors-syrian-refugees-35262385)
 2. [CNN](http://www.cnn.com/2015/11/16/world/paris-attacks-syrian-refugees-backlash/index.html)
 3. [Reuters](http://www.trust.org/item/20151118015212-z9u0v)
+3. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/6b8b87dc-6a01-486e-a890-f7e536877738/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Britain has confirmed a new case of foot-and-mouth disease west of London, in a 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/15/2033743.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/640872-1x1-700x700.jpg)
 
 ### Related:
 

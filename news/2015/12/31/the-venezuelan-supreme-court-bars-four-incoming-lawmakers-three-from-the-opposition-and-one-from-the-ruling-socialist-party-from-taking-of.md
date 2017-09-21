@@ -9,6 +9,7 @@ Responding to a legal challenge filed by supporters of the ruling socialist part
 
 1. [AP via Fox News Latino](http://latino.foxnews.com/latino/news/2015/12/31/venezuelan-supreme-court-bars-four-opposition-legislators-from-taking-office/)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2402697&CategoryId=10717)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/12/31/venezuelan-supreme-court-bars-four-opposition-legislators-from-taking-office/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1480702774797.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ SEOUL, South Korea (AP) — South Korea and the United States began annual milit
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/205124ad4dc744f1994dde31fde3b4c9/s-korea-us-start-drills-despite-n-koreas-nuclear-threat)
+1. [Cover Image](http://binaryapi.ap.org/9882107463274fb4bd6e0c2a9e066d6d/460x.jpg)
 
 ### Related:
 

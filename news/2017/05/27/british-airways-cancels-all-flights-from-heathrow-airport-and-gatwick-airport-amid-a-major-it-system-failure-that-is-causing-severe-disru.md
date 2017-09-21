@@ -8,6 +8,7 @@ All British Airways flights leaving Heathrow and Gatwick are cancelled until 18:
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-40069865)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/9992/production/_96241393_michaelsingh.jpg)
 
 ### Related:
 

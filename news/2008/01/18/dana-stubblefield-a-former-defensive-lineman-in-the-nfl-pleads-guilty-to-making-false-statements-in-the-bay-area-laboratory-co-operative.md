@@ -8,6 +8,7 @@ Dana Stubblefield was the first N.F.L. player charged in the Bay Area Laboratory
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/01/19/sports/football/19balco.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/01/18/sports/football/stubblefield.75.jpg)
 
 ### Related:
 

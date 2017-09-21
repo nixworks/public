@@ -9,6 +9,7 @@ The cholera epidemic in Haiti is spreading much faster than predicted, the UN sa
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hZ0FZie5Xd--iVcGENLMvFd0nD3A?docId=CNG.3dc44dd9702b8e6a6555a2ff8e3c30c9.891)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11826323)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

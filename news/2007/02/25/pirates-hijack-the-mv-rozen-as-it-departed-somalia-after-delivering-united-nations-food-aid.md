@@ -8,6 +8,7 @@ Pirates on Sunday struck a ship that had just dropped off more than 1,800 tons o
 ### Source:
 
 1. [FOX](http://www.foxnews.com/story/0,2933,254499,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

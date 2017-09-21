@@ -12,6 +12,7 @@ Ayatollah Ali Khamenei has declared that the disputed Iran election result will 
 3. [RTÉ](http://www.rte.ie/news/2009/0624/iran.html)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Brits-Arrested-After-Protesters-Clash-With-Police-In-Tehran-Iranian-State-Television-Reports/Article/200906415317566?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15317566_Brits_Arrested_After_Protesters_Clash_With_Police_In_Tehran%2C_Iranian_State_Television_Reports)
 5. [The New York Times](http://www.nytimes.com/2009/06/25/world/middleeast/25iran.html?ref=global-home)
+5. [Cover Image](https://img.rasset.ie/00026534-1600.jpg)
 
 ### Related:
 

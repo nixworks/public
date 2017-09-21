@@ -12,6 +12,7 @@
 3. [Kyiv Post](http://www.kyivpost.com/content/ukraine/parliament-speaker-turchynov-ready-to-resign-for-coalition-government-creation-337362.html)
 4. [The Irish Times](http://www.irishtimes.com/news/world/europe/ukraine-rivals-agree-compromise-deal-1.1700000)
 5. [USA Today](http://www.usatoday.com/story/news/world/2014/02/22/ukraine-protests-kiev-president/5723135/)
+5. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1700675&origw=960)
 
 ### Related:
 

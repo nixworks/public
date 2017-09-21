@@ -8,6 +8,7 @@ In questioning, Treasury Secretary Timothy F. Geithner said the A.I.G. bailout h
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/01/28/business/28aig.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/01/27/us/27cnd-aigspan3/thumbStandard.jpg)
 
 ### Related:
 

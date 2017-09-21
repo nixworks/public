@@ -8,6 +8,7 @@ A passenger coach crashed into the wall of an expressway tunnel in China&#39;s n
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/08/11/least-36-people-dead-bus-crash-china/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/08/11/TELEMMGLPICT000137133809-xlarge_trans_NvBQzQNjv4BqKU-op6n8Xxa2ymKjnWOvoQBL4iPaysraAy7B085YJhk.jpeg)
 
 ### Related:
 

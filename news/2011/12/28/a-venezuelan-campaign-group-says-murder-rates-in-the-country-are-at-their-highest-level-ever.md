@@ -8,6 +8,7 @@ Venezuela experienced a record number of murders this year - 53 a day on average
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16349118)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57597000/jpg/_57597850_013367069-1.jpg)
 
 ### Related:
 

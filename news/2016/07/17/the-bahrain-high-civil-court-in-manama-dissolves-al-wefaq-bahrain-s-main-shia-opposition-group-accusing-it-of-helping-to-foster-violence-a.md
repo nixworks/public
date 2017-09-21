@@ -9,6 +9,7 @@ Manama dissolves main Shia opposition group Al-Wefaq, accusing it of fostering v
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/07/bahrain-dissolves-main-opposition-party-160717132556468.html)
 2. [JURIST](http://www.jurist.org/paperchase/2016/07/bahrain-high-court-orders-shiite-opposition-group-dissolved.php)
+2. [Cover Image](http://www.jurist.org/images/wiki/16/07/manama.JPG)
 
 ### Related:
 

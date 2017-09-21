@@ -8,6 +8,7 @@ A piece of debris narrowly misses the International Space Station in an incident
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-13949956)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53742000/jpg/_53742549_012325718-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Philippines economic growth rate slows in the fourth quarter hurt by Typhoon
 
 1. [BBC](http://www.bbc.co.uk/news/business-25958014)
 2. [Financial Times](http://www.ft.com/intl/cms/s/0/cebc0d6c-83d3-11e3-86c9-00144feab7de.html#axzz2rsy4rsr6)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72615000/jpg/_72615341_459101869.jpg)
 
 ### Related:
 

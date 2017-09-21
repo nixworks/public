@@ -10,6 +10,7 @@ The final hours of campaigning for the French presidential elections have been o
 1. [AP](https://apnews.com/40196d9f917840aeb6efaf06b3300c78/Social-media-timeout-as-French-election-reaches-final-stage)
 2. [Deutsche Welle](http://www.dw.com/en/france-presidential-campaigning-ends-with-security-concerns-after-shooting/a-38541530)
 3. [UPI](http://www.upi.com/Top_News/World-News/2017/04/22/Overseas-polls-open-ahead-of-presidential-election-in-France/8301492882685/)
+3. [Cover Image](http://www.dw.com/image/38530592_304.jpg)
 
 ### Related:
 

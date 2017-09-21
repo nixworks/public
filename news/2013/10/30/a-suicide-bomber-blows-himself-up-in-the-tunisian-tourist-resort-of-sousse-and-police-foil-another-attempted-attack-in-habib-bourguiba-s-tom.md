@@ -8,6 +8,7 @@ A suicide bomber blew himself up in the Tunisian tourist resort of Sousse on Wed
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/30/us-tunisia-blast-idUSBRE99T0DV20131030)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131030&t=2&i=807328472&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99T0U3Z00)
 
 ### Related:
 

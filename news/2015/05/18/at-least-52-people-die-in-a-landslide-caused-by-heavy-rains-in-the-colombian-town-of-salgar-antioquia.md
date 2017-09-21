@@ -8,6 +8,7 @@ A massive landslide tore through a ravine in northwest Colombia Monday before da
 ### Source:
 
 1. [AFP via Yahoo News](http://news.yahoo.com/least-33-dead-colombia-landslide-officials-173746216.html;_ylt=AwrC1DHYb1pVXmoACAXQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/uIu.TbL5rlp11S53jnY7OQ--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-MVD-Mvd6685450-1-1-0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A female suicide bomber has injured at least 11 police officers and civilians, i
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Russia-Female-suicide-bomber-injures-11-20130525)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2219/f0099fc7291b41369fcb5612b69053ff.jpg)
 
 ### Related:
 

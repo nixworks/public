@@ -8,6 +8,7 @@ Labour suspends Lord Ahmed while it investigates reports he blamed his imprisonm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-21783467)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59671000/jpg/_59671010_006639415-1.jpg)
 
 ### Related:
 

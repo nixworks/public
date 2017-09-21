@@ -8,6 +8,7 @@ A $13.4 billion loan to General Motors and Chrysler may be followed by $4 billio
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/12/20/business/20auto.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2008/12/19/business/bailout.75755.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The solid-fuelled missile, which will bring the whole of China as well as other 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Agni-V-Indias-first-ICBM-test-fired-successfully/articleshow/12726732.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/12728584.cms)
 
 ### Related:
 

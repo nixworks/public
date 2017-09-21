@@ -10,6 +10,7 @@ The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal ju
 1. [CNN](http://www.cnn.com/2017/06/12/politics/9th-circuit-travel-ban/index.html)
 2. [NBC News](http://www.nbcnews.com/news/us-news/trump-s-revised-travel-ban-blocked-federal-appeals-court-n771091)
 3. [Reuters](https://www.reuters.com/article/us-usa-court-citizenship-idUSKBN19327F)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_24/2033776/170611-donald-trump-se-1046p_cdc6d18589a10c740c29adf02c9afeda.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

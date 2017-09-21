@@ -9,6 +9,7 @@ The party of German Chancellor Angela Merkel suffers defeats in two of three sta
 
 1. [AP via ''International Business Times](http://www.ibtimes.com/german-state-elections-results-2016-angela-merkels-christian-democrats-brace-refugee-2335502)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-35796831)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/14C99/production/_88754158_88754157.jpg)
 
 ### Related:
 

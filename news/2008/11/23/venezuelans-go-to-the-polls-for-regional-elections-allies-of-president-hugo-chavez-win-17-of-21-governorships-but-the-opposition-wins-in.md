@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7745165.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4AM0O020081123)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081123&t=2&i=6931141&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-11-23T230746Z_01_BTRE4AM1S9400_RTROPTP_0_VENEZUELA-ELECTION)
 
 ### Related:
 

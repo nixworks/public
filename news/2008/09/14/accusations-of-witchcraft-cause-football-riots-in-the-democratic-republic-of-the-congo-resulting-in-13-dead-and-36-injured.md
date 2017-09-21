@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/democraticrepublicofcongo/2962727/Eleven-dead-in-Congo-football-riot-after-use-of-witchcraft.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

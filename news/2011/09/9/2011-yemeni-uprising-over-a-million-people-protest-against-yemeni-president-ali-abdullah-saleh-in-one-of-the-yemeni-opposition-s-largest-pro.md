@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/09/201199113127432919.html)
 2. [CNN](http://edition.cnn.com/2011/WORLD/meast/09/09/egypt.protests/index.html?hpt=hp_t1)
 3. [CNN](http://www.cnn.com/2011/WORLD/meast/09/09/yemen.unrest/)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/09/09/egypt.protests/tzvids.wall.file.afp.gi.jpg)
 
 ### Related:
 

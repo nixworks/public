@@ -9,6 +9,7 @@ In a statement, the Iranian foreign ministry said that Iran was &quot;hoping it 
 
 1. [AP via ABC News](http://abcnews.go.com/Politics/wireStory/us-navy-ships-accompany-us-flagged-ships-gulf-30707791)
 2. [NBC News](http://www.nbcnews.com/news/world/iran-says-seizure-cargo-ship-maersk-tigris-tied-debt-n351246)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_18/999051/150428-maersk-tigris-yh-2pm_fd2a7917c72f678ffe5e7a7889c1cd37.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

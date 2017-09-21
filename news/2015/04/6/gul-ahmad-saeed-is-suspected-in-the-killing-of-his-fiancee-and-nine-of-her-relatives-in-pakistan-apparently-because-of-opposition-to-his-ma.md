@@ -8,6 +8,7 @@ A Pakistani man is suspected of killing his fiancé and nine of her relatives af
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/news/world/gul-ahmad-saeed-accused-killing-14-pakistan-over-marriage-wrangle-n336381)
+1. [Cover Image](http://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
 
 ### Related:
 

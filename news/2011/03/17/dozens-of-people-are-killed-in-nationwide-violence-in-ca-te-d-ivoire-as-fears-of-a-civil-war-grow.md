@@ -9,6 +9,7 @@ Shells are fired at an Abidjan district opposed to disputed President Laurent Gb
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h3DOsNdx9iMq_rUz5Fxchg3s6_gg?docId=CNG.2d4ed292d98a09eb3a5c7b41217ddedc.1a1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12778001)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

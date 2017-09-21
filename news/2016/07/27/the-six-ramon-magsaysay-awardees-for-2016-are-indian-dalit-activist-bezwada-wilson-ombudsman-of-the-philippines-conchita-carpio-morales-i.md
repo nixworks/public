@@ -9,6 +9,7 @@ Bezwada Wilson, who was born to a dalit family in Karnataka, has been lauded for
 
 1. [AP via ''The Jakarta Post](http://www.thejakartapost.com/news/2016/07/27/indonesias-dompet-dhuafa-among-2016-ramon-magsaysay-awardees.html)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Bezwada-Wilson-TM-Krishna-win-Ramon-Magsaysay-Award-for-2016/articleshow/53409879.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/53410198.cms)
 
 ### Related:
 

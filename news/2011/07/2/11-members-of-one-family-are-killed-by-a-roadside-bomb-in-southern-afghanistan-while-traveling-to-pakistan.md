@@ -8,6 +8,7 @@ Members of family travelling through Ghazni reportedly killed, a day after a sim
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/07/201172761852532.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/2/20117272158858621_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A bomb exploded outside the Tunisian consulate in Tripoli on Tuesday, causing da
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/06/26/us-libya-tunisia-attack-idUSBRE85P1BA20120626)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

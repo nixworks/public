@@ -8,6 +8,7 @@ An early morning fire at a hospital in the southern Taiwan city of Tainan kills 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-20038287)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63649000/jpg/_63649659_cylfkekt.jpg)
 
 ### Related:
 

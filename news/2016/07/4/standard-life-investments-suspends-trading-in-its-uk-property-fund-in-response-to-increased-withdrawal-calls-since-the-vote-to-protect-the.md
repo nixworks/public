@@ -8,6 +8,7 @@ Standard Life Investments suspends trading in its UK property fund for the first
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-36708844)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/976C/production/_88346783_476643773.jpg)
 
 ### Related:
 

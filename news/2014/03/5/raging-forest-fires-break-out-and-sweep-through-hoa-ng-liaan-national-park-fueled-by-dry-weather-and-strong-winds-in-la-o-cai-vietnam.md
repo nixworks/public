@@ -8,6 +8,7 @@
 ### Source:
 
 1. [VOV](http://english.vov.vn/Society/Forest-fires-engulf-Hoang-Lien-National-Park/273937.vov)
+1. [Cover Image](http://static.english.vov.vn/w400/Uploaded/maithuy/2014_03_06/chay%20rung.jpg)
 
 ### Related:
 

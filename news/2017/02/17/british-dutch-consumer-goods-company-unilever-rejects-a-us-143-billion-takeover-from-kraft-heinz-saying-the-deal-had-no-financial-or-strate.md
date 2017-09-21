@@ -8,6 +8,7 @@ U.S. food company Kraft Heinz Co made a surprise $143 billion offer for Unilever
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-unilever-m-a-kraft-idUSKBN15W18Y)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170217&t=2&i=1173133622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1G11Y)
 
 ### Related:
 

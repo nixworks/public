@@ -8,3 +8,4 @@ Mr. Clancy’s books were successfully transformed into blockbuster Hollywood fi
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/10/03/books/tom-clancy-best-selling-novelist-of-military-thrillers-dies-at-66.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/10/03/obituaries/CLANCY-refer/CLANCY-refer-videoSixteenByNine600.jpg)

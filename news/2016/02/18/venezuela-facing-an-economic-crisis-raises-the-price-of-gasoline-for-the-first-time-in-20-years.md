@@ -8,6 +8,7 @@ Venezuela raises petrol prices for the first time in 20 years as part of a serie
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-35600921)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/735C/production/_88323592_031524958.jpg)
 
 ### Related:
 

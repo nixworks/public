@@ -9,6 +9,7 @@ Ceann Comhairle John O&#39;Donoghue is to resign next week.
 
 1. [RTÉ](http://www.rte.ie/news/2009/1006/politics.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1006/breaking67.htm)
+2. [Cover Image](https://img.rasset.ie/0002a76b-1600.jpg)
 
 ### Related:
 

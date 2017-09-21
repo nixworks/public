@@ -8,6 +8,7 @@ Reporting from Las Vegas Floyd Mayweather Jr. predicted a cakewalk, and Saturday
 ### Source:
 
 1. [LA Times](http://articles.latimes.com/2010/may/01/sports/la-sp-mayweather-mosley-20100502)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ London&#039;s premier share index powered to a new intraday trading high on Tues
 ### Source:
 
 1. [Sky News United Kingdom](http://news.sky.com/story/ftse-100-hits-record-high-as-pound-weakens-below-123-10613252)
+1. [Cover Image](http://e3.365dm.com/16/06/1600x900/rtx2hxu8-1-2048x1536_3489518.jpg?20160624093809)
 
 ### Related:
 

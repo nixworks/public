@@ -9,6 +9,7 @@ BERLIN (AFP) - The historic vineyards, wine cellars and champagne houses where t
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/world/europe/unesco-lists-champagnes-vineyards-and-wine-cellars)
 2. [UNESCO](http://whc.unesco.org/en/news/1314/)
+2. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/07/05/champagne01.jpg?itok=JA8Gvyv_)
 
 ### Related:
 

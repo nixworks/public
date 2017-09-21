@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-504083_162-57612627-504083/mcstay-family-update-joseph-mcstays-father-calls-probe-of-calif-familys-2010-disappearance-botched-inept/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/11/15/2598a410-58f2-4726-a4bf-812a2d14ecd1/FINAL.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A U.N. investigator has called on the Obama administration to justify its policy
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/06/19/uk-usa-un-drones-idUKBRE85I0FR20120619)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20120619&t=2&i=620538908&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-06-19T092152Z_1_CBRE85I0Q0J00_RTROPTP_0_USA-DRONE-CRASH)
 
 ### Related:
 

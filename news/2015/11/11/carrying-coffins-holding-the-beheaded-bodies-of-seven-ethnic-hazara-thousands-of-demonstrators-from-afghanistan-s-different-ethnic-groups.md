@@ -9,6 +9,7 @@ Afghan President Ashraf Ghani appealed for calm after angry protesters from the 
 
 1. [RAWA News](http://www.rawa.org/temp/runews/2015/11/11/afghans-protest-beheadings-of-ethnic-hazara-by-isil.html)
 2. [Reuters](http://in.reuters.com/article/2015/11/11/afghanistan-hazara-idINKCN0T00G120151111)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151111&t=2&i=1094059942&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAA0Q4)
 
 ### Related:
 

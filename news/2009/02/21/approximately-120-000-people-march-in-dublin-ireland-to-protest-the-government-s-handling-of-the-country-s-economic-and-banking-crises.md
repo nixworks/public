@@ -8,6 +8,7 @@ Up to 120,000 people have marched in Dublin in protest at how the Government is 
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0221/breaking3.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

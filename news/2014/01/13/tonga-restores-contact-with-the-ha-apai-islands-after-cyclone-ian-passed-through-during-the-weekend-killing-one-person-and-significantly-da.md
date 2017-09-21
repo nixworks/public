@@ -8,6 +8,7 @@ Contact has been made with Tonga&#039;s isolated islands as relief efforts get u
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-01-13/an-tonga-monday/5196822)
+1. [Cover Image](http://www.abc.net.au/news/image/5197798-1x1-700x700.jpg)
 
 ### Related:
 

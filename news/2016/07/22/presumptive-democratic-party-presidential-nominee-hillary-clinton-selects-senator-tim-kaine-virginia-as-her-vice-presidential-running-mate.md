@@ -8,6 +8,7 @@ Hillary Clinton on Friday announced Virginia Sen. Timothy Kaine as her running m
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2016/07/22/clinton-names-virginia-sen-kaine-as-running-mate.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/07/23/0/0/694940094001_5047608525001_84d5e94a-2ceb-4a0c-a0c9-e4eedda3a91b.jpg?ve=1)
 
 ### Related:
 

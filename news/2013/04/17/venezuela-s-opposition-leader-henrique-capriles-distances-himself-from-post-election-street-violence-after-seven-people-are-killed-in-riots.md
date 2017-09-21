@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/17/us-venezuela-election-idUSBRE93F0RU20130417)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130417&t=2&i=723316363&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93G14MX00)
 
 ### Related:
 

@@ -8,3 +8,4 @@ The gunman who seized hostages and killed six people in an eight-hour standoff a
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-florida-gunman-hialeah-20130727,0,6627145.story)
+1. [Cover Image](http://www.trbimg.com/img-51f47055/turbine/la-na-nn-florida-gunman-hialeah-20130727)

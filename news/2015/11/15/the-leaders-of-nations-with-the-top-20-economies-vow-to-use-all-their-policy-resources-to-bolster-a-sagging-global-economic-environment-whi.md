@@ -14,6 +14,7 @@ The series of terrorist attacks that killed more than 120 people in Paris on Fri
 5. [RT](https://www.rt.com/news/322199-putin-obama-g20-summit/)
 6. [Reuters](http://uk.reuters.com/article/2015/11/15/uk-g20-turkey-communique-idUKKCN0T40N420151115)
 7. [Reuters](http://www.reuters.com/article/2015/11/15/us-g20-turkey-idUSKCN0T409Y20151115#THuWoeUQXtI6GhXZ.97)
+7. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/151115141511-angela-merkel-g20-780x439.jpg)
 
 ### Related:
 

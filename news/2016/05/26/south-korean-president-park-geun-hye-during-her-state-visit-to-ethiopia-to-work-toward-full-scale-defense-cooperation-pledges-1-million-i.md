@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/05/26/South-Korea-builds-ties-with-Ethiopia-in-bid-to-deter-North/3491464285906/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3491464285906/2016/1/14642860224018/v2.1/South-Korea-builds-ties-with-Ethiopia-in-bid-to-deter-North.jpg)
 
 ### Related:
 

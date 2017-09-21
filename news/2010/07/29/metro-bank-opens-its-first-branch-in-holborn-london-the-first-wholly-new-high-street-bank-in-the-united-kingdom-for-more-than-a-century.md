@@ -8,6 +8,7 @@ The first High Street bank to launch in the UK for more than 100 years opens its
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10790996)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

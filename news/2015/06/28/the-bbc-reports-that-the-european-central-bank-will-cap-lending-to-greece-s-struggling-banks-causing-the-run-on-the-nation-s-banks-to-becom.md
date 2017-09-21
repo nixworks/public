@@ -12,6 +12,7 @@ Greece moved to check the growing strains on its crippled financial system on Su
 3. [CNBC](http://www.cnbc.com/id/102793367)
 4. [Irish Times](http://www.irishtimes.com/news/world/europe/ecb-caps-emergency-funding-to-greek-banks-1.2265580)
 5. [Reuters](http://www.reuters.com/article/2015/06/28/us-eurozone-greece-idUSKBN0P40EO20150628)
+5. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150628&t=2&i=1059870529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB5R0IE)
 
 ### Related:
 

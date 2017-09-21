@@ -9,6 +9,7 @@ Repair work is under way in Co Mayo to roads and bridges damaged by overnight fl
 
 1. [RTÉ](http://www.rte.ie/news/2009/0703/flooding.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0703/breaking32.htm)
+2. [Cover Image](https://img.rasset.ie/00026b4c-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/17/us-lebanon-syria-rocket-idUSBREA0G0IX20140117)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140117&t=2&i=830326775&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0G13M300)
 
 ### Related:
 

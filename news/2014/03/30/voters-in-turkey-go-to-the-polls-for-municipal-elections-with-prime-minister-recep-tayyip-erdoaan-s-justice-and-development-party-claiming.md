@@ -10,6 +10,7 @@ With 45 percent of the votes counted, the governing party leads with 44 percent 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/turkey-holding-critical-local-elections-23116863)
 2. [Haaretz](http://www.haaretz.com/news/middle-east/1.582844)
 3. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=962799&vId=)
+3. [Cover Image](http://www.haaretz.com/polopoly_fs/1.582786.1396251794!/image/372950142.jpg_gen/derivatives/headline_1200x630/372950142.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The FBI and federal prosecutors are investigating how some $600 million of MF Gl
 ### Source:
 
 1. [CNN](http://money.cnn.com/2011/11/01/news/economy/mf_global_fbi_investigation/index.htm?hpt=hp_t1)
+1. [Cover Image](http://i2.cdn.turner.com/money/2011/11/01/news/economy/mf_global_fbi_investigation/corzine-mf-global.gi.01.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tens of thousands of Indian peasants began a 350-kilometre march to New Delhi to
 
 1. [Asia One](http://news.asiaone.com/News/AsiaOne%2BNews/Asia/Story/A1Story20121003-375342.html)
 2. [Zee News](http://zeenews.india.com/news/nation/jan-satyagraha-50-000-people-to-march-to-delhi_803390.html)
+2. [Cover Image](http://www.asiaone.com/A1MEDIA/business/10Oct12/20121003.212619_04reuters_indiatn.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korea is to carry out its second rocket launch this year in December as So
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/01/us-korea-north-launch-idUSBRE8B004P20121201)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121201&t=2&i=680095744&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B00TA000)
 
 ### Related:
 

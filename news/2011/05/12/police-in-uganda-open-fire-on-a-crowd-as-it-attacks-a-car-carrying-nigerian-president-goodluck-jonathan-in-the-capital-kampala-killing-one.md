@@ -9,6 +9,7 @@ UGANDAN police shot at a crowd in the capital Kampala after it attacked a car ca
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74B0H920110512?feedType=RSS&feedName=topNews)
 2. [Vanguard Nigeria](http://www.vanguardngr.com/2011/05/one-killed-as-mob-attack-jonathan-in-uganda/)
+2. [Cover Image](http://d19lga30codh7.cloudfront.net/wp-content/uploads/2011/05/UGANDA-PROTESTERS.jpg)
 
 ### Related:
 

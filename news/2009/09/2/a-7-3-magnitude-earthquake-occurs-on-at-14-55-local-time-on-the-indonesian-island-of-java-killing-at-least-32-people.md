@@ -10,6 +10,7 @@ The death toll from a powerful earthquake in Indonesia, which killed at least 42
 1. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/02/73-magnitude-jolts-w-java-may-lead-tsunami.html)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5811ZL20090902)
 3. [Yahoo News](http://news.yahoo.com/s/ap/20090902/ap_on_re_as/as_indonesia_earthquake)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090902&t=2&i=11451932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-02T214511Z_01_BTRE5811OFF00_RTROPTP_0_INDONESIA-QUAKE)
 
 ### Related:
 

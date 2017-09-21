@@ -8,6 +8,7 @@ The new legislation could force the respected Central European University from t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39493758)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/11C0C/production/_95461727_e0fe9a45-194c-40c7-98ba-33fc6ad2551a.jpg)
 
 ### Related:
 

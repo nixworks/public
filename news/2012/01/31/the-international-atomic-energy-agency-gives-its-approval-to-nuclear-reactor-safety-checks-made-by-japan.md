@@ -8,6 +8,7 @@ The UN watchdog says it is satisfied with series of safety tests carried out by 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/01/2012131104332640466.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/20/20121201183742580_20.jpg)
 
 ### Related:
 

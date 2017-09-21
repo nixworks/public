@@ -9,6 +9,7 @@
 
 1. [Berlingske](http://www.b.dk/politiko/danmark-anerkender-libyens-oproerere)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/22/c_13944106.htm)
+2. [Cover Image](https://bdk.bmcdn.dk/media/cache/resolve/image_960x545/image/54/544947/4295209-udenrigsminister-lene-espersen.jpg)
 
 ### Related:
 

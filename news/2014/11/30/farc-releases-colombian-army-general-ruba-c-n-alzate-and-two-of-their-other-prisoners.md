@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/11/30/colombia-rebels-free-general-whose-capture-led-president-to-suspend-peace-talks/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/11/30/colombia-rebels-free-general-whose-capture-led-president-to-suspend-peace-talks/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449934560953.jpg?ve=1)
 
 ### Related:
 

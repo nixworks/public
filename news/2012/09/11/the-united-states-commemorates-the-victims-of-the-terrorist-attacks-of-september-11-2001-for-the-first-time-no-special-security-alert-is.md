@@ -9,6 +9,7 @@ NEW YORK -- With bagpipes and somber bells sounding a sharp counterpoint to the 
 
 1. [AP via CBS](http://www.cbsnews.com/8301-201_162-57510117/this-years-9-11-commemoration-a-turning-point/)
 2. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-9-11-anniversary-20120911,0,6720322.story)
+2. [Cover Image](http://www.trbimg.com/img-504f44a4/turbine/la-na-nn-9-11-photos-20120911-005/600)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Officials in Pakistan appeal to separatist militant groups to halt attacks in th
 
 1. [Al-Jazeera](http://america.aljazeera.com/articles/2013/9/27/more-than-100-000lefthomelessafterpakistanearthquake.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-24294266)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70145000/jpg/_70145265_70145264.jpg)
 
 ### Related:
 

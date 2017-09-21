@@ -8,6 +8,7 @@ Attacks by five suicide bombers on an Iraqi military base north of Baghdad on Su
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-violence-idUSKBN0UH07F20160103?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

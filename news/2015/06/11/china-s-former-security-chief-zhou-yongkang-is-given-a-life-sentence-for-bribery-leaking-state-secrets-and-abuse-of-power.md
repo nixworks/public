@@ -8,6 +8,7 @@ China&#039;s former domestic security chief is sentenced to life in jail after b
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-06-11/china-jails-former-security-chief-zhou-yongkang-for-life/6540082)
+1. [Cover Image](http://www.abc.net.au/news/image/5355018-1x1-700x700.jpg)
 
 ### Related:
 

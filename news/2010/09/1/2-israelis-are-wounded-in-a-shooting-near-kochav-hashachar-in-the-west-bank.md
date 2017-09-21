@@ -9,6 +9,7 @@
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/09/201091212849992438.html)
 2. [Haaretz](http://www.haaretz.com/news/national/2-israelis-wounded-in-second-west-bank-shooting-attack-in-two-days-1.311583)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/2/20109241125562580_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Britain&#39;s Chief Treasury Secretary David Laws has admitted paying thousands 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201052920321808845.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk/10190326.stm)
 3. [RTÉ](http://www.rte.ie/news/2010/0529/lawsd.html)
+3. [Cover Image](https://img.rasset.ie/000357b3-1600.jpg)
 
 ### Related:
 

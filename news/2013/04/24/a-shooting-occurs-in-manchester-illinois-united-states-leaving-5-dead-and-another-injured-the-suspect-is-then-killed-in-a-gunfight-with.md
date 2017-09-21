@@ -8,6 +8,7 @@ The suspect police say shot and killed five people early Wednesday morning insid
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/04/24/5-reportedly-dead-1-in-custody-in-winchester-ill-shooting/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2013/04/24/5-reportedly-dead-1-in-custody-in-winchester-ill-shooting/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422538592978.jpg?ve=1)
 
 ### Related:
 

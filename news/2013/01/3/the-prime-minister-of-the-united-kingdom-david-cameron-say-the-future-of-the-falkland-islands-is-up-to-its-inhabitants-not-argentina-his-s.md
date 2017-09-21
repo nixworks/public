@@ -8,6 +8,7 @@ Prime Minister David Cameron strongly rebuffs a call by Argentine President Cris
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20897675)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65049000/jpg/_65049899_fernandez-pa.jpg)
 
 ### Related:
 

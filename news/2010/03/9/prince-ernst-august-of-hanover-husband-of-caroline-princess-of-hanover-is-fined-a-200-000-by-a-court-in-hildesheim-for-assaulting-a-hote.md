@@ -12,6 +12,7 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 3. [IOL](http://www.iol.co.za/index.php?from=rss_Europe&set_id=1&click_id=24&art_id=nw20100309145741416C461121)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/monaco/7407401/Princess-Caroline-of-Monacos-husband-fined-for-Kenya-hotel-assault.html)
 5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/princess-carolines-husband-fined-20100310-pw36.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01374/Prince-Ernst-Augus_1374387a.jpg)
 
 ### Related:
 

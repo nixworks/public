@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/07/us-pakistan-bomb-idUSBRE97607420130807?feedType=RSS&virtualBrandChannel=11563)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130807&t=2&i=757913826&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9760PBU00)
 
 ### Related:
 

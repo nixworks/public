@@ -8,6 +8,7 @@ Rupert Murdoch&#039;s 21st Century Fox withdraws its bid to acquire multinationa
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-08-06/21st-century-fox-withdraws-bid-to-acquire-time-warner/5651118)
+1. [Cover Image](http://www.abc.net.au/news/image/77418-1x1-700x700.jpg)
 
 ### Related:
 

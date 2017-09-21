@@ -8,6 +8,7 @@ Researchers have discovered two previously unknown species of bottom-dwelling fi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE66739D20100708)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/10/29/South-Korea-says-it-has-no-plans-to-discuss-THAAD-deployment/8791446169312/?spt=hs&or=tn_int)
 2. [Yonhap News](http://english.yonhapnews.co.kr/national/2015/10/30/0301000000AEN20151030000253315.html)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/8791446169312/2015/1/14461695144521/v2.1/South-Korea-says-it-has-no-plans-to-discuss-THAAD-deployment.jpg)
 
 ### Related:
 

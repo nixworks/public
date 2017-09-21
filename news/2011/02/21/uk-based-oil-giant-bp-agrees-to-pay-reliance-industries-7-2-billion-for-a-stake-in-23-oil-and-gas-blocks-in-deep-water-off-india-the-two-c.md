@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/21/us-bp-reliance-idUSTRE71K1U520110221)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110221&t=2&i=343185502&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-21T180442Z_01_BTRE71K1E7X00_RTROPTP_0_BP-RELIANCE)
 
 ### Related:
 

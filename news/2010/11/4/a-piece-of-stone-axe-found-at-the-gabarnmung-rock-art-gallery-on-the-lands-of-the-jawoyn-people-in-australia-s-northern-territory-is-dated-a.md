@@ -8,6 +8,7 @@ A piece of stone axe found in the Northern Territory has been dated at 35,500 ye
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/11/05/3057775.htm?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/2324858-1x1-700x700.jpg)
 
 ### Related:
 

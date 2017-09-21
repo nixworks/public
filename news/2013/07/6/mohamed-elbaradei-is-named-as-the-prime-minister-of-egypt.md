@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/elbaradei-named-as-interim-egypt-pm/story-e6frfkui-1226675423754)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

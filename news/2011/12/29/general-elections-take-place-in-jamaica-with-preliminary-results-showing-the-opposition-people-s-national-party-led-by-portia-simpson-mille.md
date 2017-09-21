@@ -9,6 +9,7 @@ Jamaicans head to the polls on the tourism-dependent Caribbean island today, wit
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16352120)
 2. [RTÉ](http://www.rte.ie/news/2011/1229/jamaica.html)
+2. [Cover Image](https://img.rasset.ie/00055fff-1600.jpg)
 
 ### Related:
 

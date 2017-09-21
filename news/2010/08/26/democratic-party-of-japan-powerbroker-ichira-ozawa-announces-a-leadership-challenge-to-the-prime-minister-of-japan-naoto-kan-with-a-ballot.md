@@ -8,6 +8,7 @@ REUTERS - Japanese ruling Democratic Party powerbroker Ichiro Ozawa, dubbed the 
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/idINIndia-51072520100826)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100826&t=2&i=189420509&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-08-26T111523Z_01_NOOTR_RTRMDNC_0_India-510725-1)
 
 ### Related:
 

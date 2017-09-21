@@ -12,6 +12,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 3. [CNN](http://www.cnn.com/2006/WORLD/americas/06/03/canada.terror/index.html)
 4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-06-03T181033Z_01_N02209271_RTRUKOC_0_US-CRIME-ARRESTS.xml)
 5. [VOA](http://voanews.com/english/2006-06-03-voa15.cfm)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

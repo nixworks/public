@@ -8,6 +8,7 @@ More than a decade after he tried and failed to become the country&#039;s leader
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/bill-english-is-nzs-new-prime-minister-paula-bennett-new-deputy-20161211-gt8wmf.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/t/8/x/8/x/image.related.articleLeadwide.620x349.gt8wmf.png/1481541769888.jpg)
 
 ### Related:
 

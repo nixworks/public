@@ -8,6 +8,7 @@ VANCOUVER - A man facing a dozen charges following a stabbing rampage at a Vanco
 ### Source:
 
 1. [Huffington Post](http://www.huffingtonpost.ca/2013/02/02/jerome-bonneric-stabbing-vancouver-west-end_n_2607918.html?just_reloaded=1)
+1. [Cover Image](http://i.huffpost.com/gen/971873/images/o-JEROME-BONNERIC-facebook.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Dozens of asylum seekers are feared dead after their boat smashed into rocks and
 2. [ABC News](http://www.abc.net.au/news/stories/2010/12/15/3093766.htm)
 3. [AFP via ''Melbourne Age](http://news.theage.com.au/breaking-news-world/dozens-of-asylum-seekers-feared-drowned-in-australia-20101215-18xon.html)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11997231)
+4. [Cover Image](http://www.abc.net.au/news/image/2374202-1x1-700x700.jpg)
 
 ### Related:
 

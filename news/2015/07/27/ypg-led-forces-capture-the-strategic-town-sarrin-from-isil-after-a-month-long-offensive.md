@@ -8,6 +8,7 @@ The Kurdish YPG militia on Monday captured a town from Islamic State fighters in
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Jul-27/308468-syrian-kurdish-ypg-militia-aided-by-us-led-airstrikes-takes-over-isis-held-town-of-sarrin-in.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/07/27/439262_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

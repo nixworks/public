@@ -8,6 +8,7 @@ Anti-government protesters firebomb a bus full of sleeping passengers in Banglad
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2015-02-03/seven-burnt-to-death-after-bus-firebombed-in-bangladesh/6067508)
+1. [Cover Image](http://www.abc.net.au/news/image/6067944-1x1-700x700.jpg)
 
 ### Related:
 

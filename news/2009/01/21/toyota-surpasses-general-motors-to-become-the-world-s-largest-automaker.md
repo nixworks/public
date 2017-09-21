@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSWNAB174920090121?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090121&t=2&i=7945762&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-01-21T165638Z_01_BTRE50K17P600_RTROPTP_0_GENERAL-MOTORS)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Here&#039;s the latest on Winter Storm Stella.
 ### Source:
 
 1. [The Weather Channel](https://weather.com/storms/winter/news/snow-winter-storm-stella-news-updates)
+1. [Cover Image](http://s.w-x.co/ap_17073829583670.jpg)
 
 ### Related:
 

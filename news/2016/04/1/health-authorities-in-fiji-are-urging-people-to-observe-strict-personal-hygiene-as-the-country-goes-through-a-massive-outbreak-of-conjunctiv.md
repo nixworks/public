@@ -8,6 +8,7 @@ Health authorities in Fiji are urging people to observe strict personal hygiene 
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/programmes/datelinepacific/audio/201795414/fiji-pink-eye-outbreak-sees-5000-cases-in-two-weeks)
+1. [Cover Image](http://www.radionz.co.nz/assets/programmes/icons/355/300_datelinepacific-1400.jpg?1470710242)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Protesters leave St Paul&#039;s after staging a protest in solidarity with Russi
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/997596/occupy-supporters-in-protest-at-st-pauls)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/evs-xtaccess-2012-10-14-cam-c-17h05m01s18-1_3696043.jpg?20160706151759)
 
 ### Related:
 

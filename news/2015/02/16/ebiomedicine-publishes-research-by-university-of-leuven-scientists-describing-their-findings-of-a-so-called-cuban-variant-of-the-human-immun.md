@@ -8,6 +8,7 @@ Scientists have found an aggressive strain of human immunodeficiency virus (HIV)
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/health/2015/02/16/scientists-find-new-aggressive-strain-hiv-in-cuba/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2015/02/16/scientists-find-new-aggressive-strain-hiv-in-cuba/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1427468904521.jpg?ve=1)
 
 ### Related:
 

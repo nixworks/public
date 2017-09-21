@@ -9,6 +9,7 @@ Washington imposed sanctions on eight Venezuelan officials on Wednesday for thei
 
 1. [CBS News](http://www.cbsnews.com/news/new-u-s-penalties-against-8-more-people-over-venezuela-crisis/)
 2. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN1AP1PO?il=0)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170809&t=2&i=1196472726&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7822K)
 
 ### Related:
 

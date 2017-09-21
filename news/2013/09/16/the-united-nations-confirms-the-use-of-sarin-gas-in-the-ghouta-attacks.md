@@ -8,6 +8,7 @@ Follow live updates as a UN report into last month&#x27;s chemical weapons attac
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2013/sep/16/un-inspectors-submit-syria-chemical-weapons-report-live)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2013/9/16/1379340520576/John-Kerry-Laurent-Fabius-015.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=ff534c3b9ce7b399e5df73f9fabc47e3)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Americans had been kidnapped by Bedouin demanding release of uncle allegedly det
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/8301-202_162-57473018/2-u.s-tourists-abducted-in-egypt-freed/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/07/16/be834887-a644-11e2-a3f0-029118418759/RevMichelLouis_LissaAlphonse.jpg)
 
 ### Related:
 

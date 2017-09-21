@@ -11,6 +11,7 @@ The authorities in Taiwan accuse Kenya of using guns and tear gas to force 37 Ta
 2. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-taiwan-beijing-deportations-20160413-story.html)
 3. [The New York Times](http://www.nytimes.com/2016/04/13/world/asia/taiwan-china-kenya.html?_r=0)
 4. [Voice of America](http://www.voanews.com/content/china-accuses-taiwanese-nationals-deported-from-kenya-of-fraud/3283587.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/113D9/production/_89171607_gettyimages-104198570.jpg)
 
 ### Related:
 

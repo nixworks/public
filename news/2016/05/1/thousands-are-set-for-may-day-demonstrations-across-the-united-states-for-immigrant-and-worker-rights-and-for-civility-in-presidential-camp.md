@@ -9,6 +9,7 @@ May Day march organizers are asking participants to remain peaceful while police
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/national/thousands-plan-may-1-marches-in-us-in-heated-election-year/2016/05/01/55fbe2b2-0f5e-11e6-bc53-db634ca94a2a_story.html)
 2. [KPCC](http://www.scpr.org/news/2016/04/29/60138/organizers-police-brace-for-heated-emotions-at-may/)
+2. [Cover Image](http://a.scpr.org/i/8d5a431185e1c7395b25582271b6aa18/83469-full.jpg)
 
 ### Related:
 

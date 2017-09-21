@@ -8,3 +8,4 @@ Heisenberg&#039;s famous Uncertainty Principle may not be as uncertain as once t
 ### Source:
 
 1. [Science World Report](http://www.scienceworldreport.com/articles/5347/20130304/new-discovery-challenges-heisenbergs-uncertainty-principle-advancing-quantum-mechanics.htm)
+1. [Cover Image](http://images.scienceworldreport.com/data/images/full/3865/heisenberg-s-uncertainty-principle.jpg)

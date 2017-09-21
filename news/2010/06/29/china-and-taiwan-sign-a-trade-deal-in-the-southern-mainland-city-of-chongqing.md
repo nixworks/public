@@ -14,6 +14,7 @@ China can maintain its grip on Tibet &quot;forever&quot;, a senior official said
 5. [Reuters](http://in.reuters.com/article/idINIndia-49748220100629?loomia_ow=t0:s0:a49:g43:r1:c0.166667:b35290692:z0)
 6. [The New York Times](http://www.nytimes.com/2010/06/30/technology/30google.html?src=busln)
 7. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-06/29/c_13375674.htm)
+7. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100629&t=2&i=142138264&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-06-29T194011Z_01_NOOTR_RTRMDNC_0_India-497482-2)
 
 ### Related:
 

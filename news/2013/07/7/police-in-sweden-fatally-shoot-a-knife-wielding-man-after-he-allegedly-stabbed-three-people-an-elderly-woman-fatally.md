@@ -8,6 +8,7 @@ Police in Sweden have shot and killed a knife-wielding man after he allegedly st
 ### Source:
 
 1. [AP via News 24](http://www.news24.com/news24/World/News/Police-kill-suspect-after-knife-rampage-20130707)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2386/d5d19459d0d1476e88363941a5a1b78f.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Japanese Prime Minister Shinzo Abe told President Barack Obama he’ll consider 
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-20/japan-considers-sending-navy-to-support-u-s-in-south-china-sea)
 2. [The Diplomat](http://thediplomat.com/2015/11/china-is-on-high-alert-for-japans-intervention-in-south-china-sea/)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYNLUEFVm2N8/v2/1200x749.jpg)
 
 ### Related:
 

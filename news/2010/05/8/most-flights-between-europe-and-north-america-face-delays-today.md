@@ -14,6 +14,7 @@ Irish airports remained open today, but there is disruption in some parts of sou
 5. [RTÉ](http://www.rte.ie/news/2010/0508/travelupdates.html)
 6. [The Daily Telegraph](http://www.telegraph.co.uk/travel/travelnews/7695668/Volcanic-ash-threatens-more-flight-disruption.html)
 7. [The Times of India](http://timesofindia.indiatimes.com/World/Europe/Ash-delays-reroutes-trans-Atlantic-flights-/articleshow/5906704.cms)
+7. [Cover Image](https://img.rasset.ie/00033564-1600.jpg)
 
 ### Related:
 

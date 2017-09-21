@@ -9,6 +9,7 @@ President Mahmoud Ahmadinejad addresses thousands in Tehran, saying that Middle 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010939460259312.html)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/09/03/crowds-attack-home-iranian-opposition-leader.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/3/20109311261201734_20.jpg)
 
 ### Related:
 

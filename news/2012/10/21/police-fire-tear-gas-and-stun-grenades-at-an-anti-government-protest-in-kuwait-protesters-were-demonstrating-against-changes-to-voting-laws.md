@@ -8,6 +8,7 @@ March over changes to voting laws staged after opposition vows to boycott upcomi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/20121021632723537.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/22/2012102211548846734_20.jpg)
 
 ### Related:
 

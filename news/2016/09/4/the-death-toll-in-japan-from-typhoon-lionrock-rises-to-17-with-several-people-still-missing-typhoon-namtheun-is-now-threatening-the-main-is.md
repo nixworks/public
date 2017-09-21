@@ -8,6 +8,7 @@ TOKYO (AFP) - The death toll from Typhoon Lionrock has risen to 17 in Japan, wit
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/east-asia/death-toll-from-typhoon-lionrock-rises-to-17-in-japan-as-it-braces-for-a-new-typhoon)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/09/04/iwaizumi04.jpg?itok=ewlER6Mt)
 
 ### Related:
 

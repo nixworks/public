@@ -9,6 +9,7 @@ Australia will participate in Eurovision 2015! Read all the latest news about Eu
 
 1. [ESC Today](http://esctoday.com/95485/eurovision-2015-australia-joins-eurovision-vienna/)
 2. [Eurovision.tv](http://www.eurovision.tv/page/news?id=australia_to_participate_in_the_2015_eurovision_song_contest)
+2. [Cover Image](http://cdn.esctoday.com.s3.amazonaws.com/wp-content/uploads/2015/02/Australia-in-Eurovision-Vienna2.jpg)
 
 ### Related:
 

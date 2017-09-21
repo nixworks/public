@@ -8,6 +8,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 ### Source:
 
 1. [AP via Newsday](http://www.newsday.com/news/nationworld/world/wire/sns-ap-skorea-new-president-scandal,0,5808949.story)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

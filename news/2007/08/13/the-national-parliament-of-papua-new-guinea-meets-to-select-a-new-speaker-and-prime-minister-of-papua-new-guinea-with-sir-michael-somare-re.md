@@ -9,6 +9,7 @@
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=34347)
 2. [Reuters](http://uk.reuters.com/article/worldNews/idUKSYD7802620070813)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070813&t=2&i=1287322&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-13T060259Z_01_SYD78026_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

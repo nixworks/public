@@ -10,6 +10,7 @@ The first superstar of Bollywood was 69. | Rajesh Khanna passes away
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-18881804)
 2. [The Times of India](http://timesofindia.indiatimes.com/entertainment/bollywood/news-interviews/Rajesh-Khanna-passes-away-at-69/articleshow/15029149.cms)
 3. [rediff.com](http://www.rediff.com/movies/report/rajesh-khanna-passes-away/20120718.htm)
+3. [Cover Image](http://im.rediff.com/300-300/movies/2012/jul/18rajesh-khanna.jpg)
 
 ### Related:
 

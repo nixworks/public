@@ -10,6 +10,7 @@ Thousands flee across the Burmese border to escape clashes between troops and et
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010118479326824.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11708237)
 3. [Bangkok Post](http://www.bangkokpost.com/news/local/205368/fighting-on-thai-burma-border-injures-three-thais)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

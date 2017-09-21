@@ -9,6 +9,7 @@ The trial of former Illinois governor Rod Blagojevich was found......
 
 1. [Chicago Tribune](http://newsblogs.chicagotribune.com/clout_st/2010/08/blagojevich-guilty-of-lying-to-fbi.html)
 2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-ex-governor-rod-blagojevich-verdict,0,215489.story)
+2. [Cover Image](http://www.trbimg.com/img-531d7429/turbine/ct-ex-governor-rod-blagojevich-verdict)
 
 ### Related:
 

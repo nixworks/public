@@ -8,6 +8,7 @@ Toyota returns to the top slot in global vehicle sales after releasing figures f
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-34635468)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1679E/production/_86326029_gettyimages-492429732.jpg)
 
 ### Related:
 

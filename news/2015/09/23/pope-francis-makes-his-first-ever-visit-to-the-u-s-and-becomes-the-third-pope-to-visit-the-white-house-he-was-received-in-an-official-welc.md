@@ -11,6 +11,7 @@ The Pope will arrive at the Basilica of the National Shrine of the Immaculate Co
 2. [CNN](http://www.cnn.com/2015/09/23/politics/pope-francis-washington-visit-updates/index.html)
 3. [The New York Times](http://www.nytimes.com/news-event/pope-francis-us-visit?hp&action=click&pgtype=Homepage&module=above-banner-region&region=above-banner-region&WT.nav=above-banner-region)
 4. [Washington Post](https://www.washingtonpost.com/apps/g/page/world/what-to-watch-for-at-wednesdays-mass/1827/)
+4. [Cover Image](https://www.washingtonpost.com/generic/media/embedder/image/pope-twitter.jpg)
 
 ### Related:
 

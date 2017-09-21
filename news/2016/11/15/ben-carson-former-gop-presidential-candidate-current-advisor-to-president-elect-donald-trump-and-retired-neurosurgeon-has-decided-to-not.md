@@ -10,6 +10,7 @@ Retired neurosurgeon Ben Carson, a former 2016 Republican presidential candidate
 1. [New York Post](http://nypost.com/2016/11/15/three-nyc-buildings-to-scrub-trump-name/)
 2. [Reuters](http://www.reuters.com/article/us-usa-trump-carson-idUSKBN13A26M)
 3. [The Real Deal](http://therealdeal.com/2016/11/15/equity-residential-ditches-trump-name-at-uws-rentals-following-tenant-petition/)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161115&t=2&i=1161816273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAE1DZ)
 
 ### Related:
 

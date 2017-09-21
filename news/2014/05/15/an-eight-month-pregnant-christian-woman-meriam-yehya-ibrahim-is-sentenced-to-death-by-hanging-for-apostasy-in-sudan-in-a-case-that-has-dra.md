@@ -8,6 +8,7 @@ A 27-year-old heavily pregnant woman in Sudan is expected to learn today whether
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/pregnant-christian-woman-sudan-sentenced-death-apostasy-n105961)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2014_22/473466/x_lon_sudanwedding_140529_f96260e6df43349a14c5e50462fe901b.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

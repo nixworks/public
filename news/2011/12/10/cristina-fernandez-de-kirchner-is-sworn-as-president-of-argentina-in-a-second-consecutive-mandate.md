@@ -8,6 +8,7 @@ Argentine President Cristina Fernandez took the oath of office for the second ti
 ### Source:
 
 1. [Yahoo](http://news.yahoo.com/argentinas-cristina-fernandez-sworn-2nd-time-152523440.html;_ylt=Aueevd31iH5Vix0Ygprd1qi3IxIF;_ylu=X3oDMTRiMmh2cThlBG1pdANUb3BTdG9yeSAgV29ybGRTRiBMYXRpbkFtZXJpY2FTU0YEcGtnAzA2YTFjNTgyLTI2MDktM2QxOC05NjNjLWE5NzU5YjdlN2Y1NQRwb3MDMgRzZWMDdG9wX3N0b3J5BHZlcgM4ZjZiMjk3MC0yMzU2LTExZTEtOWZmZi1jZjJiY2RmYzg3OWM-;_ylg=X3oDMTI3Z2FpbDN0BGludGwDdXMEbGFuZwNlbi11cwRwc3RhaWQDBHBzdGNhdAN3b3JsZHxsYXRpbiBhbWVyaWNhBHB0A3NlY3Rpb25zBHRlc3QD;_ylv=3)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

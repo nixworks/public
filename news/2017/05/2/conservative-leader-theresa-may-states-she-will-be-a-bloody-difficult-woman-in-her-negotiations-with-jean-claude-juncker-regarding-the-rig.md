@@ -8,6 +8,7 @@ Theresa May responds to claims she clashed with the EU Commission chief over Bre
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-39784170)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p051s65l.jpg)
 
 ### Related:
 

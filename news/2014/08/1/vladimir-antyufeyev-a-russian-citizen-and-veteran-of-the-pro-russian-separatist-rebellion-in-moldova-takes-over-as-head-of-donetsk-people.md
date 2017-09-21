@@ -8,6 +8,7 @@ A Russian police chief who led separatists in Moldova now claims to be commandin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28546157)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76651000/jpg/_76651436_antyureut.jpg)
 
 ### Related:
 

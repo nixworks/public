@@ -8,6 +8,7 @@ Two service members from the NATO-led force in Afghanistan were killed when a he
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/05/us-afghanistan-crash-idUSTRE7540RK20110605)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

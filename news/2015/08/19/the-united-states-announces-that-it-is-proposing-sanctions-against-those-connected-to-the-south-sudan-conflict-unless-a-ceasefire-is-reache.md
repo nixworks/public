@@ -8,6 +8,7 @@ US says it is consulting with other countries as it urges South Sudan government
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/south-sudan-sign-peace-deal-face-sanctions-150819070307800.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/17/c12252cf4f27405186cdcc5c9bc16f91_18.jpg)
 
 ### Related:
 

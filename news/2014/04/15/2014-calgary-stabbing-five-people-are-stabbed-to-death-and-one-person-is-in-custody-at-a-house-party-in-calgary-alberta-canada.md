@@ -8,6 +8,7 @@ Matthew de Grood, the 22-year-old son of a veteran Calgary police officer, has b
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/canada/calgary/calgary-stabbings-4-male-youths-1-female-dead-1.2610465)
+1. [Cover Image](https://i.cbc.ca/1.2611421.1406032652!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/matthew-de-grood.jpg)
 
 ### Related:
 

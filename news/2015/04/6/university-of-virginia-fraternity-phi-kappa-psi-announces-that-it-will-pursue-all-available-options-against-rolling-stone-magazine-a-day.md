@@ -8,6 +8,7 @@ The Phi Kappa Psi fraternity at the University of Virginia said Monday that it i
 ### Source:
 
 1. [CNN Money](http://money.cnn.com/2015/04/06/media/phi-kappa-psi-rolling-stone-legal-action/index.html)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150402093018-phi-kappa-psi-780x439.jpg)
 
 ### Related:
 

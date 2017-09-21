@@ -10,6 +10,7 @@ A group of 26 former EU leaders urges Brussels to impose sanctions on Israel for
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11968304)
 2. [EUobserver](http://euobserver.com/9/31477)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/former-eu-tougher-stance-israel)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

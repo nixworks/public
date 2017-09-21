@@ -9,6 +9,7 @@ Thousands of documents, photographs and audio-visual recordings relating to the 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11966605)
 2. [Rwanda News Agency](http://rnanews.com/health/4544-new-digital-genocide-archives-launched-/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ BHP Billiton has unveiled a $US12b friendly takeover of US gas producer Petrohaw
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/business/bhp-swoops-on-petrohawk-for-us12b-20110715-1hgph.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/e/y/w/f/image.related.thumbnail.320x214.1hgph.png/1408538673960.jpg)
 
 ### Related:
 

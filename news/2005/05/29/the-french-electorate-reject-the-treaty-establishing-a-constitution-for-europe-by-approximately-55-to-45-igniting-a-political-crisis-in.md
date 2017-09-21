@@ -11,6 +11,7 @@ French voters rejected a proposed European Union constitution Sunday, igniting a
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a3oVPn4tzM84&refer=europe)
 3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-eufrance30may30,1,5607660.story?coll=la-headlines-world)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8637163)
+4. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

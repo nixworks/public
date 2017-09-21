@@ -10,6 +10,7 @@ A loud explosion rocked central Kabul early on Tuesday during rush hour, and a t
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/the-latest-taliban-launches-attack-on-afghan-govt-agency/2016/04/19/5cac171a-0605-11e6-bfed-ef65dff5970d_story.html)
 2. [AP via Fox News](http://www.foxnews.com/world/2016/04/19/latest-taliban-launches-attack-on-afghan-govt-agency.html)
 3. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Heavy-explosion-rocks-Kabul/articleshow/51889024.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/51889273.cms)
 
 ### Related:
 

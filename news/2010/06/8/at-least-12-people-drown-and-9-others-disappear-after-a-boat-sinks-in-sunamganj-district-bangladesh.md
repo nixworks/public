@@ -12,6 +12,7 @@ Twelve people, including schoolchildren, perish as boat capsizes in lake.
 3. [Bangkok Post](http://www.bangkokpost.com/news/asia/180601/at-least-12-dead-in-bangladesh-ferry-accident)
 4. [TIME](http://www.time.com/time/world/article/0,8599,1994960,00.html)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/08/c_13339554.htm)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

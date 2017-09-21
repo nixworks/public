@@ -11,6 +11,7 @@ Nato-led forces have killed more than 50 insurgents on Pakistani soil after a ra
 2. [Reuters](http://www.reuters.com/article/idUSTRE68P1RF20100926)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/27/c_13530862.htm)
 4. [Yahoo! News](http://news.yahoo.com/s/ap/20100927/ap_on_re_as/as_afghanistan)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

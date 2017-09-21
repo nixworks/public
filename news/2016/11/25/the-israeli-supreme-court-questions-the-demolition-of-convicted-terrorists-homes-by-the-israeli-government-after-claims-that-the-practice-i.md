@@ -8,6 +8,7 @@ The Israeli High Court of Justice has questioned the state policy of terrorism d
 ### Source:
 
 1. [RT](https://www.rt.com/news/368111-palestinian-jewish-terrorists-homes)
+1. [Cover Image](https://img.rt.com/files/2016.11/article/583754fcc4618868618b4588.jpg)
 
 ### Related:
 

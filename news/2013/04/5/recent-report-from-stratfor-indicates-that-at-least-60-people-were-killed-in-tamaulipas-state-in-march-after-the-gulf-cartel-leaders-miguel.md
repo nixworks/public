@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Proceso](http://www.proceso.com.mx/?p=338138)
+1. [Cover Image](http://cdn.proceso.com.mx/media/2013/04/Untitled-1-D.jpg)
 
 ### Related:
 

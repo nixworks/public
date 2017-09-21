@@ -9,6 +9,7 @@ There was nothing terribly sophisticated about the denial of service attack exec
 
 1. [MSNBC](http://firstread.msnbc.msn.com/_news/2011/02/28/6154621-anonymous-attack)
 2. [USA Today](http://content.usatoday.com/communities/technologylive/post/2011/03/anonymous-actively-probing-koch-brothers-corporate-networks-/1)
+2. [Cover Image](http://i.usatoday.net/communitymanager/_photos/technology-live/2011/03/01/Koch protestersx-inset-community.jpg)
 
 ### Related:
 

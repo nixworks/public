@@ -8,6 +8,7 @@ Eight convicted drug smugglers are executed by firing squad in Indonesia, but a 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32501712)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82630000/jpg/_82630431_82630430.jpg)
 
 ### Related:
 

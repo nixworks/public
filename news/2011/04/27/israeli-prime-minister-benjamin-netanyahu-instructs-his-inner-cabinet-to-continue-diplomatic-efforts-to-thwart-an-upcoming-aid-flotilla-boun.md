@@ -10,6 +10,7 @@ Rival Palestinian groups announce signing of initial agreement ending four-year-
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israeli-politicians-security-forces-push-ahead-to-thwart-new-gaza-flotilla-1.358434)
 2. [Palestine News Network](http://english.pnn.ps/index.php?option=com_content&task=view&id=9961)
 3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4061418,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

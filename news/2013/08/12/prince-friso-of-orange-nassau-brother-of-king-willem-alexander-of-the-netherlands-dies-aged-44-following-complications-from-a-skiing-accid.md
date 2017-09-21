@@ -11,6 +11,7 @@ Dutch Prince Johan Friso has died after a year and a half in a coma following an
 2. [BBC](http://www.bbc.co.uk/news/world-europe-23669317)
 3. [CNN](http://edition.cnn.com/2013/08/12/world/europe/netherlands-prince-friso-dies/index.html?hpt=ieu_c1)
 4. [Huffington Post](http://www.huffingtonpost.com/2013/08/12/prince-friso-dead_n_3743226.html)
+4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69244000/jpg/_69244834_018939840-1.jpg)
 
 ### Related:
 

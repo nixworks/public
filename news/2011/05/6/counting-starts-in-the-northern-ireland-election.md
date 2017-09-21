@@ -8,6 +8,7 @@ Verification of votes is under way at eight centres across Northern Ireland, in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13299729)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52568000/jpg/_52568388_counting3.jpg)
 
 ### Related:
 

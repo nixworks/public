@@ -8,6 +8,7 @@ MANILA, Philippines (AP) — Philippine officials confirmed Tuesday that Abu Say
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/68666c34eafa45b1a6529d15ce88e5c5/canada-believes-canadian-hostage-killed-philippines)
+1. [Cover Image](http://binaryapi.ap.org/98a87fa9be3a4ea4b5c7c6fa408260fd/460x.jpg)
 
 ### Related:
 

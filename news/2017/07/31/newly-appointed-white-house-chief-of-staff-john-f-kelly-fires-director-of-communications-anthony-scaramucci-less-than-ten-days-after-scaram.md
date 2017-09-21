@@ -9,6 +9,7 @@ The decision to remove Mr. Scaramucci came at request of the new chief of staff,
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-40782299)
 2. [The New York Times](https://www.nytimes.com/2017/07/31/us/politics/anthony-scaramucci-white-house.html)
+2. [Cover Image](https://static01.nyt.com/images/2017/07/31/us/31communication/31communication-facebookJumbo-v2.jpg)
 
 ### Related:
 

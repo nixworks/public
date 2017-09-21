@@ -8,6 +8,7 @@ After searching overnight, security forces find projectile&#8217;s remains in a 
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/missile-from-gaza-falls-near-childrens-bus-stop/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/12/rocket.jpg)
 
 ### Related:
 

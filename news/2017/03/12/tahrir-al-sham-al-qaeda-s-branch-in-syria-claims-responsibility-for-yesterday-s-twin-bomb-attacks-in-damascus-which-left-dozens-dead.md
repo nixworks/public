@@ -8,6 +8,7 @@ The attack killed at least 40 people, mostly Iraqi pilgrims to the Bab al-Saghir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-39250040)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/C0B3/production/_95113394_mediaitem95113393.jpg)
 
 ### Related:
 

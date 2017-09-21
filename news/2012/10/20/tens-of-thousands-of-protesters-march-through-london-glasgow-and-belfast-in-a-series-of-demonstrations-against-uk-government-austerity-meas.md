@@ -10,6 +10,7 @@ Several thousand people have taken part in a march through Belfast city centre i
 1. [BBC](http://www.bbc.co.uk/news/uk-20007496)
 2. [CNN](http://news.blogs.cnn.com/2012/10/20/massive-london-march-against-austerity/)
 3. [RTÉ](http://www.rte.ie/news/2012/1020/anti-austerity-belfast.html)
+3. [Cover Image](https://img.rasset.ie/00068a77-1600.jpg)
 
 ### Related:
 

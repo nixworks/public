@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/11/us-mideast-crisis-iraq-idUSKCN0IV13Y20141111)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141111&t=2&i=991034697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAA0MS)
 
 ### Related:
 

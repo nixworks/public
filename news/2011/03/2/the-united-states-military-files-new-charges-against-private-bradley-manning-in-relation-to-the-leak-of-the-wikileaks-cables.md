@@ -8,6 +8,7 @@ The US military has brought 22 new charges against the junior soldier accused of
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/03/03/3153767.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/894608-1x1-700x700.jpg)
 
 ### Related:
 

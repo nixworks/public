@@ -8,6 +8,7 @@ At least three children were killed and 20 people wounded by a blast in the Liby
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-benghazi-idUSKBN13G1BZ?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161121&t=2&i=1162537381&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAK10D)
 
 ### Related:
 

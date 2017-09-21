@@ -12,6 +12,7 @@ Protests against proposed spending cuts by the Greek government have turned viol
 3. [CBC](http://www.cbc.ca/world/story/2010/05/05/greece-protest-cuts.html)
 4. [Reuters](http://uk.reuters.com/article/idUKLDE6440NQ20100505)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7116511.ece)
+5. [Cover Image](https://i.cbc.ca/1.2073113.1381991225!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-greece-fire-cp-rtr2dhof.jpg)
 
 ### Related:
 

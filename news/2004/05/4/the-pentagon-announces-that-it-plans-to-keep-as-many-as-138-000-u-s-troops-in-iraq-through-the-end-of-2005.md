@@ -10,6 +10,7 @@ Officials say Gen John P Abizaid, commander of American forces in Mideast, has p
 1. [AP](http://www.guardian.co.uk/uslatest/story/0,1282,-4053336,00.html)
 2. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000103&sid=a7blD21HSPzc)
 3. [NYT](http://www.nytimes.com/2004/05/05/international/middleeast/05TROO.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ North Korea has warned of &quot;unexpected consequences&quot; if South Korea goe
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16129633)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2011/12/11/91/0301000000AEN20111211000700315F.HTML)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57256000/jpg/_57256740_57256739.jpg)
 
 ### Related:
 

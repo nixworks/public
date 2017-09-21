@@ -8,6 +8,7 @@ India has carried out the execution of Yakub Memon, the man convicted of financi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-33713407?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/F95C/production/_84563836_84563832.jpg)
 
 ### Related:
 

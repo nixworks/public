@@ -8,6 +8,7 @@ LAS VEGAS - A woman was taken into federal custody yesterday after throwing a sh
 ### Source:
 
 1. [AP via ''Columbus Dispatch](http://www.dispatch.com/content/stories/national_world/2014/04/11/vegas-shoe-toss-doesnt-throw-off-clinton.html)
+1. [Cover Image](http://www.dispatch.com/storyimage/OH/20140411/NEWS/304119767/AR/0/AR-304119767.jpg)
 
 ### Related:
 

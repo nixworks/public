@@ -9,6 +9,7 @@ Honduras de facto leader Roberto Micheleti demanded that Brazil hand over depose
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8269073.stm)
 2. [MercoPress](http://en.mercopress.com/2009/09/22/honduran-de-facto-rulers-demand-brazil-hand-over-zelaya)
+2. [Cover Image](http://en.mercopress.com/imgs.php/noticias/22001/200x200/8a7268f25da788481f96c3cd06c9d1f4.jpg)
 
 ### Related:
 

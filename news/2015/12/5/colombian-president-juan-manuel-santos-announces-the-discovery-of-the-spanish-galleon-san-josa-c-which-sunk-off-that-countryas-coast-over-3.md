@@ -8,6 +8,7 @@ The San Jose sank in 1708. The value of its cargo — believed to include gold, 
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/05/458586878/wreck-of-legendary-spanish-galleon-is-found-colombia-says)
+1. [Cover Image](https://media.npr.org/assets/img/2015/12/05/cartagena_wide-a8eabe5dd8a9ade3354411a76a752e095c4536d5.jpg?s=1400)
 
 ### Related:
 

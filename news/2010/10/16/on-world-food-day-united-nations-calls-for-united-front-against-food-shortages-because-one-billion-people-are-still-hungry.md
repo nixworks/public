@@ -9,6 +9,7 @@
 
 1. [Sina](http://english.sina.com/world/2010/1015/343722.html)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=36456&Cr=hung&Cr1=)
+2. [Cover Image](/News/dh/photos/large/2010/15-10-2010foodday.jpg)
 
 ### Related:
 

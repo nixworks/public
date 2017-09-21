@@ -8,6 +8,7 @@ Two Palestinians are killed and one is injured in an attack by the Israeli milit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14035536)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53878000/gif/_53878064_gaza_maghazi_israel_0711.gif)
 
 ### Related:
 

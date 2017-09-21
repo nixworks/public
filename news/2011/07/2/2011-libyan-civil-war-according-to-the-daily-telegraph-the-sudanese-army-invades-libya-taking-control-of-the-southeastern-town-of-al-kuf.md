@@ -14,6 +14,7 @@ The Sudanese army has seized a town in southern Libya that is the gateway to oil
 5. [Reuters](http://ca.reuters.com/article/topNews/idCATRE76019220110702?sp=true)
 6. [Syrian Arab News Agency](http://www.sana.sy/eng/21/2011/07/02/355963.htm)
 7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8611199/Sudanese-army-seizes-southern-Libyan-town.html)
+7. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

@@ -36,6 +36,7 @@ Three people are killed and hundreds wounded in the Egyptian capital, as support
 27. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206306)
 28. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=206304)
 29. [The Washington Post](http://voices.washingtonpost.com/postpartisan/2011/02/mubarak_unleashes_chaos.html)
+29. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

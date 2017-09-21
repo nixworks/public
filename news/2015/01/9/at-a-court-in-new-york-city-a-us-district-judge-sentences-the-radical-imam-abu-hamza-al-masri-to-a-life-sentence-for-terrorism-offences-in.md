@@ -8,6 +8,7 @@ Radical imam Abu Hamza al-Masri is sentenced to life in prison after being convi
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-10/abu-hamza-gets-life-in-us-prison-for-terror-conviction/6009996)
+1. [Cover Image](http://www.abc.net.au/news/image/5449206-1x1-700x700.jpg)
 
 ### Related:
 

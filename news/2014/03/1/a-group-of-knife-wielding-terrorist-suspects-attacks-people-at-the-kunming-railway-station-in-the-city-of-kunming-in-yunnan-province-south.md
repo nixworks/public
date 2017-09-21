@@ -9,6 +9,7 @@ An attack by knife-wielding men at a railway station in Kunming, south-west Chin
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-26402367)
 2. [xinhuanet.com](http://news.xinhuanet.com/english/indepth/2014-03/02/c_133152792.htm)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/73308000/jpg/_73308788_021352266.jpg)
 
 ### Related:
 

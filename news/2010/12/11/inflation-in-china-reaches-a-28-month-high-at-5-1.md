@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-11975628)
 2. [China Daily](http://www.chinadaily.com.cn/bizchina/2010-12/11/content_11686906.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

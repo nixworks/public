@@ -9,6 +9,7 @@ A well-traveled NASA probe made history Thursday, becoming the first spacecraft 
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-12761025)
 2. [Space via MSNBC](http://www.msnbc.msn.com/id/42142053/ns/technology_and_science-space)
+2. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110317-space-mercury-630p.standard.jpg)
 
 ### Related:
 
@@ -16,9 +17,9 @@ A well-traveled NASA probe made history Thursday, becoming the first spacecraft 
 2. [NASA's MESSENGER spacecraft crashes into Mercury after surpassing its one year primary mission by three years. ](/news/2015/04/30/nasa-s-messenger-spacecraft-crashes-into-mercury-after-surpassing-its-one-year-primary-mission-by-three-years.md) _Context: MESSENGER, Mercury's, NASA_
 3. [ NASA announces discovery of water in the atmosphere of Mercury by its MESSENGER probe. ](/news/2008/07/3/nasa-announces-discovery-of-water-in-the-atmosphere-of-mercury-by-its-messenger-probe.md) _Context: MESSENGER, Mercury's, NASA_
 4. [ MESSENGER, a NASA mission, flies by Mercury, the second spacecraft to do so and the first in thirty-three years. ](/news/2008/01/14/messenger-a-nasa-mission-flies-by-mercury-the-second-spacecraft-to-do-so-and-the-first-in-thirty-three-years.md) _Context: MESSENGER, Mercury's, NASA_
-5. [NASA successfully launches its MAVEN space probe on a mission to study Mars' atmosphere. ](/news/2013/11/18/nasa-successfully-launches-its-maven-space-probe-on-a-mission-to-study-mars-atmosphere.md) _Context: NASA, space probe_
-6. [ The MESSENGER spacecraft makes its second pass of the planet Mercury.](/news/2008/10/6/the-messenger-spacecraft-makes-its-second-pass-of-the-planet-mercury.md) _Context: MESSENGER, Mercury's_
-7. [After 20 years "floating" the Solar System, the "Cassini" space probe to the Saturn system ends the mission with a controlled fall into the atmosphere of the planet. ](/news/2017/09/15/after-20-years-floating-the-solar-system-the-cassini-space-probe-to-the-saturn-system-ends-the-mission-with-a-controlled-fall-into-the.md) _Context: space probe_
-8. [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md) _Context: NASA_
-9. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: NASA_
-10. [NASA announces Saturn's moon Enceladus has the conditions in its global subsurface ocean to support life. ](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.md) _Context: NASA_
+5. [ NASA launches its MESSENGER spacecraft. It is due to reach the planet Mercury in 2011. ](/news/2004/08/3/nasa-launches-its-messenger-spacecraft-it-is-due-to-reach-the-planet-mercury-in-2011.md) _Context: MESSENGER, Mercury's, NASA_
+6. [NASA successfully launches its MAVEN space probe on a mission to study Mars' atmosphere. ](/news/2013/11/18/nasa-successfully-launches-its-maven-space-probe-on-a-mission-to-study-mars-atmosphere.md) _Context: NASA, space probe_
+7. [ The MESSENGER spacecraft makes its second pass of the planet Mercury.](/news/2008/10/6/the-messenger-spacecraft-makes-its-second-pass-of-the-planet-mercury.md) _Context: MESSENGER, Mercury's_
+8. [After 20 years "floating" the Solar System, the "Cassini" space probe to the Saturn system ends the mission with a controlled fall into the atmosphere of the planet. ](/news/2017/09/15/after-20-years-floating-the-solar-system-the-cassini-space-probe-to-the-saturn-system-ends-the-mission-with-a-controlled-fall-into-the.md) _Context: space probe_
+9. [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md) _Context: NASA_
+10. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: NASA_

@@ -8,6 +8,7 @@ Palestinian reports confirmed: PM Netanyahu approved handover of terrorist bodie
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4091029,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

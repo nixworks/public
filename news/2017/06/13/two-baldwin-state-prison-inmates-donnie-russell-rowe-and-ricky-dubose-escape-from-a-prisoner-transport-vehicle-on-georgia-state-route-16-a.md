@@ -8,6 +8,7 @@ The escaped inmates are named Donnie Russell Rowe and Ricky Dubose.
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/georgia-correctional-officers-killed-inmates-run/story?id=48003507)
+1. [Cover Image](http://a.abcnews.com/images/US/HT-Georgia-escaped-inmates-split_16x9_992.jpg)
 
 ### Related:
 

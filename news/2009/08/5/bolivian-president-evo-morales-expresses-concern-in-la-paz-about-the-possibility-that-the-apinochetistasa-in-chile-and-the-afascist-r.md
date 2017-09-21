@@ -8,6 +8,7 @@ Bolivian president Evo Morales said he was quite concerned with the possibility 
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/05/morales)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19724/200x200/4cdfe17e59a619643243cbeeca083746.jpg)
 
 ### Related:
 

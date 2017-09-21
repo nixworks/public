@@ -9,6 +9,7 @@ The church is for the tiny Syriac community and will be built in the Istanbul su
 
 1. [BGN News](http://national.bgnnews.com/turkey-permits-construction-of-first-church-in-90-years-haberi/2622)
 2. [DAWN](http://www.dawn.com/news/1154965/turkish-govt-gives-go-ahead-for-first-church-in-century)
+2. [Cover Image](http://i.dawn.com/medium/2015/01/54a8e5d92d4c0.jpg)
 
 ### Related:
 

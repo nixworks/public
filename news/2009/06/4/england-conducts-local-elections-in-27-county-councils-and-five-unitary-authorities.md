@@ -8,6 +8,7 @@ James Purnell, the work and pensions secretary, dealt a major blow to Gordon Bro
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/gordon-brown/5441946/Gordon-Brown-fights-for-political-life-amid-local-and-European-elections-MPs-expenses.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/00997/08-james-purnell_997307a.jpg)
 
 ### Related:
 

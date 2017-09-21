@@ -8,6 +8,7 @@ The plane was traveling from Cleveland to Columbus.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/12/30/search-underway-missing-plane-ohio/95991432/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

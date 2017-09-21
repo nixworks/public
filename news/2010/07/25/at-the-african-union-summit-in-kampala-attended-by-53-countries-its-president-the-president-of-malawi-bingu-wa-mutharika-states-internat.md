@@ -10,6 +10,7 @@ AU leaders also pledge to beef up an African force fighting al-Shabaab group in 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201072571956380906.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10753009)
 3. [Daily Nation](http://www.nation.co.ke/News/africa/Museveni%20urges%20battle%20against%20terrorism%20as%20meeting%20opens/-/1066/964492/-/i0wcajz/-/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

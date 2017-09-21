@@ -10,6 +10,7 @@ Alexis Tsipras remains hopeful for compromise but opinion is divided as France s
 1. [BBC](http://www.bbc.com/news/world-europe-33497353#)
 2. [Sky News](http://www.skynews.com.au/news/top-stories/2015/07/12/-inconclusive--greek-bailout-talks-suspended.html)
 3. [The Guardian](http://www.theguardian.com/business/2015/jul/12/greek-crisis-european-leaders-begin-talks-with-views-split-over-agreement)
+3. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/7/12/1436717355618/78d1b7c0-ea01-4a20-88f3-98be4e610748-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=03314a3ef433259e13f2fbec7aa77f2d)
 
 ### Related:
 

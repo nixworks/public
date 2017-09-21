@@ -9,6 +9,7 @@ Thousands join fresh protests in the Spanish capital, Madrid, angered by budget 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/20121027185635884352.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20113664)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63759000/jpg/_63759852_2s5p26qf.jpg)
 
 ### Related:
 

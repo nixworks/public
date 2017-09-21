@@ -9,6 +9,7 @@ France says a remark by Fidel Castro that its treatment of Roma migrants amounts
 
 1. [AFP via France24](http://www.france24.com/en/20100911-castro-provokes-french-anger-calling-roma-expulsions-holocaust)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11271064)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

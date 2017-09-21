@@ -8,6 +8,7 @@ Militants launched a string of attacks in the Pakistani heartland and in the tro
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE59E0GY20091015)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091015&t=2&i=11966762&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-15T233757Z_01_BTRE59E1A9100_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

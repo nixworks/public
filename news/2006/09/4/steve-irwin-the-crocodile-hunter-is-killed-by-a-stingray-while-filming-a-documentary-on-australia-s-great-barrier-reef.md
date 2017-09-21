@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [News.com.au](http://www.news.com.au/story/0,23599,20349888-2,00.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-04T053821Z_01_SP34161_RTRUKOC_0_US-AUSTRALIA-IRWIN.xml&WTmodLoc=Home-C2-TopNews-newsOne-4)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

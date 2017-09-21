@@ -8,6 +8,7 @@ As the US election campaign approaches its crescendo, voters in the tiny Pacific
 ### Source:
 
 1. [Radio Australia](http://www.radioaustralia.net.au/international/2012-11-07/palau-votes-for-new-leader-in-shadow-of-us-election/1042298)
+1. [Cover Image](http://www.radioaustralia.net.au/sites/default/files/images/2012/11/7/4357434-4x3-700x525_1.jpg)
 
 ### Related:
 

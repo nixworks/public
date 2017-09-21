@@ -8,6 +8,7 @@ Brazilian police seek charges against US oil company Chevron and drilling contra
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16298344)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56832000/jpg/_56832506_56832505.jpg)
 
 ### Related:
 

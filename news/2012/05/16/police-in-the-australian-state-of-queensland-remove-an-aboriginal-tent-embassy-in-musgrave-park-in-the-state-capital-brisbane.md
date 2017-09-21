@@ -8,6 +8,7 @@ Hundreds of police have broken up an Aboriginal tent embassy in Brisbane, escort
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2012-05-16/police-drag-away-brisbane-tent-embassy-protesters/4013566/?site=indigenous&topic=latest)
+1. [Cover Image](http://www.abc.net.au/news/image/4014146-1x1-700x700.jpg)
 
 ### Related:
 

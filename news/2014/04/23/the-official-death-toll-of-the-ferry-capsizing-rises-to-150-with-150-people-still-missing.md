@@ -8,3 +8,4 @@ More than 3-quarters of 323 students listed as dead or missing as data begins to
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/south-korea-ferry-death-toll-hits-150-grim-recovery-effort-hits-cabin-walls/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/04/23/197ad285-8284-4b62-a51c-b5f99c03af81/south-korea-ferry-search.jpg)

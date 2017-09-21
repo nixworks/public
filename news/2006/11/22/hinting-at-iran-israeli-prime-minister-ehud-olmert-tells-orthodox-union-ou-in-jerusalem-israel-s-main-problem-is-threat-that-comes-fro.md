@@ -8,6 +8,7 @@ Hinting at Iran, Prime Minister Olmert tells Orthodox Union (OU) in Jerusalem: I
 ### Source:
 
 1. [Yedioth Ahronoth](http://www.ynetnews.com/articles/0,7340,L-3331605,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

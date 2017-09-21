@@ -12,6 +12,7 @@ Farmers across the State are today increase efforts to help their colleagues aff
 3. [RTÉ](http://www.rte.ie/news/2009/1127/weather.html)
 4. [The Guardian](http://www.guardian.co.uk/environment/2009/nov/27/prince-charles-visits-cumbria-floods)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1127/breaking10.htm)
+5. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

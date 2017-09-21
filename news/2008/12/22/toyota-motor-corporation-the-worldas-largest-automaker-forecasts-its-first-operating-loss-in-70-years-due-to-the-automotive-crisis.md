@@ -8,6 +8,7 @@ Underscoring how the economic crisis is spreading across the global auto industr
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/12/23/business/worldbusiness/23toyota.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/12/22/business/22toyota-75.jpg)
 
 ### Related:
 

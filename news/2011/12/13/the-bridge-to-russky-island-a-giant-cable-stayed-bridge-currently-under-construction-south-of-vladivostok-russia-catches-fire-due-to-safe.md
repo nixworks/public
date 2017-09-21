@@ -8,6 +8,7 @@ A giant bridge under construction in Russia’s Far East has caught fire due to 
 ### Source:
 
 1. [Russia Today](http://rt.com/news/vladivostok-bridge-construction-fire-681/)
+1. [Cover Image](https://img.rt.com/files/oldfiles/news/vladivostok-bridge-construction-fire-681/fire-zolotoi-bridge-rog.si.jpg)
 
 ### Related:
 

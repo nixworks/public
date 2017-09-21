@@ -9,6 +9,7 @@ The company counting critical votes in Ohio and Colorado has extensive connectio
 
 1. [Salon.com](http://www.salon.com/2012/10/23/romney_linked_voting_machine_company_to_count_votes_in_ohio/)
 2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/us-election/ohio-voting-machines-ndash-brought-to-you-by-the-romneys-16229346.html)
+2. [Cover Image](http://media.salon.com/2012/10/romney_ohio_rect.jpg)
 
 ### Related:
 

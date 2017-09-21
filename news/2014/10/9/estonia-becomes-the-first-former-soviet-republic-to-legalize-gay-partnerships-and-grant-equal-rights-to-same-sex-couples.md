@@ -9,6 +9,7 @@ Estonia on Thursday became the first former Soviet republic to grant equal right
 
 1. [EU Observer](http://euobserver.com/lgbti/125988)
 2. [Instinct Magazine](http://instinctmagazine.com/post/estonia-becomes-first-former-soviet-state-approve-same-sex-relationships)
+2. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/0fe51435c8d9f2e165e32117bb1d8c65-480x.jpg)
 
 ### Related:
 

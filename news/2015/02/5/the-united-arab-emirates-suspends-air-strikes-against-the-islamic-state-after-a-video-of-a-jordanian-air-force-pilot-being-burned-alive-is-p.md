@@ -9,6 +9,7 @@ The United Arab Emirates stops combat missions over Syria because the U.S. wasn&
 
 1. [NBC News](http://www.nbcnews.com/storyline/isis-terror/uae-suspends-syrian-airstrikes-over-lack-rescue-resources-n300381)
 2. [Reuters Trust](http://www.trust.org/item/20150205074448-iu5jo)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_06/874731/150203-approved-pilot-still-jsw-321p_9ce925f8030500a5a57aaa4f730e376e.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

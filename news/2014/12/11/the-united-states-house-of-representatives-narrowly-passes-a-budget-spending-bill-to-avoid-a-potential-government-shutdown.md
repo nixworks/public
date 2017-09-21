@@ -8,6 +8,7 @@ With less than three hours before a government shutdown, the House narrowly pass
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/first-read/deadline-looming-government-funding-bill-passes-house-n266386)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2014_50/804876/141211-boehner-01_5080032c152bef3c5a1412450f41f31b.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

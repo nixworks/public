@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/05/12/twin-suicide-attack-hits-police-station-near-baghdad-kill-5.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/05/12/0/0/694940094001_4890499033001_7f9dd5f9-e5d1-4774-8cc6-f8c5a17b4325.jpg?ve=1)
 
 ### Related:
 

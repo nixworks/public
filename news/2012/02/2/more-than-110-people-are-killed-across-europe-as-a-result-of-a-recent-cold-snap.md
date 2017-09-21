@@ -9,6 +9,7 @@
 
 1. [AP via ''Courier Mail](http://www.couriermail.com.au/news/breaking-news/scores-die-in-icy-weather-across-europe/story-e6freonf-1226260176255)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-16852065)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58257000/jpg/_58257208_013893838-1.jpg)
 
 ### Related:
 

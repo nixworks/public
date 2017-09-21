@@ -8,6 +8,7 @@ The Syrian government agrees to allow UN inspectors immediate access to the site
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23833912)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69477000/jpg/_69477896_69477543.jpg)
 
 ### Related:
 

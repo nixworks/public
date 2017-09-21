@@ -11,6 +11,7 @@ The bomb found on a plane in the UK was designed to go off on the aircraft, the 
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010103017926499781.html)
 3. [BBC](http://www.bbc.co.uk/news/world-us-canada-11657486)
 4. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=193362)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

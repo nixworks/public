@@ -9,6 +9,7 @@ The Syrian army and its allies have broken a three-year rebel siege of two Shiâ€
 
 1. [RT](https://www.rt.com/news/331132-syria-daraa-rocket-attacks/)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN0VC1VQ)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160203&t=2&i=1114666353&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1210B)
 
 ### Related:
 

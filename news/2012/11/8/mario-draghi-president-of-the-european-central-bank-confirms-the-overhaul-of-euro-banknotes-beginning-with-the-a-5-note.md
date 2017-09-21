@@ -8,6 +8,7 @@ The €5 note will be the first to get a facelift, with Europa&#8217;s face in t
 ### Source:
 
 1. [The Journal](http://www.thejournal.ie/euro-banknotes-to-be-redesigned-666459-Nov2012/)
+1. [Cover Image](http://img2.thejournal.ie/article/666459/river/?height=400&version=666522)
 
 ### Related:
 

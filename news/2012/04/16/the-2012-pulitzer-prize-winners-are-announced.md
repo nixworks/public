@@ -10,3 +10,4 @@ The biggest surprises were the awards for two online news outlets, a sign of the
 1. [Associated Press](http://www.ap.org/content/press-release/2012/ap-wins-pulitzer-prize-for-investigative-reporting-on-nypd-surveillance)
 2. [Pulitzer.org](http://www.pulitzer.org/node/8501)
 3. [The New York Times](http://www.nytimes.com/2012/04/17/business/media/2012-pulitzer-prize-winners-announced.html?smid=fb)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

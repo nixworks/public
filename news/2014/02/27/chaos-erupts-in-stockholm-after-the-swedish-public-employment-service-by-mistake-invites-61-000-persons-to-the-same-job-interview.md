@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Dagens Nyheter](http://www.dn.se/sthlm/kokaos-i-centrala-stockholm/)
+1. [Cover Image](http://cached-images.bonnier.news/cms30/UploadedImages/2014/2/26/226bbeae-5021-4cb2-8a5a-b30e068df376/original.jpg)
 
 ### Related:
 

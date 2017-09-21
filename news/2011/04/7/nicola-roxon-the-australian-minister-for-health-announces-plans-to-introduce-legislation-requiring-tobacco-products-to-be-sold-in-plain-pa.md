@@ -8,6 +8,7 @@ Australia will become the first country in the world to require tobacco products
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://www.smh.com.au/lifestyle/lifematters/plain-cigarette-packs-to-only-show-death-and-disease-20110407-1d5e4.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/d/5/e/e/image.related.articleLeadwide.620x349.1d5e4.png/1302146070623.jpg)
 
 ### Related:
 

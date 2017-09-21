@@ -8,6 +8,7 @@ Jeremy Clarkson is to be sacked as Top Gear presenter after a BBC investigation 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/celebritynews/11493270/Jeremy-Clarkson-to-be-sacked-by-the-BBC.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03244/Jeremy_clarkson_3244421k.jpg)
 
 ### Related:
 

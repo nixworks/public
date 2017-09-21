@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Beast](http://www.thedailybeast.com/cheats/2013/05/01/fistfight-breaks-out-at-venezuelan-parliament.html)
+1. [Cover Image](http://cdn.thedailybeast.com/content/dailybeast/cheats/2013/05/01/fistfight-breaks-out-at-venezuelan-parliament/jcr:content/image.img.2000.jpg/1367410215631.cached.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10877110)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Asia&set_id=1&click_id=126&art_id=nw20100805074646859C741399)
 3. [The Asian Age](http://www.asianage.com/international/suicide-attack-kills-six-afghan-police-219)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48234000/jpg/_48234741_009717762-1.jpg)
 
 ### Related:
 

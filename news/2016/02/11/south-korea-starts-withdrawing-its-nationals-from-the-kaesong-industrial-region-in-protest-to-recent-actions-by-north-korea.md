@@ -10,6 +10,7 @@
 1. [AP](http://bigstory.ap.org/article/39d1d9282da046b8b7f9c07d6c7b24ee/north-korea-says-it-will-freeze-all-south-korean-assets-and)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-satellite-kaesong-power-idUSKCN0VK2KV)
 3. [Yonhap](http://english.yonhapnews.co.kr/news/2016/02/11/0200000000AEN20160211002800315.html?input=www.tweeter.com)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160212&t=2&i=1116876987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1B066)
 
 ### Related:
 

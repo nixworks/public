@@ -8,6 +8,7 @@ Six teenagers from a Burundi robotics team have been reported missing after an i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-burundi-missing-usa-idUSKBN1A529Y)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170720&t=2&i=1193774867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6J1CT)
 
 ### Related:
 

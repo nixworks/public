@@ -9,6 +9,7 @@ A pilot and three passengers die when Saudi-registered private jet crashes into 
 
 1. [BBC](http://www.bbc.com/news/uk-england-33745057)
 2. [BBC](http://www.bbc.com/news/uk-england-surrey-33736685)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/17F8E/production/_84609189_plane_tubman.jpg)
 
 ### Related:
 

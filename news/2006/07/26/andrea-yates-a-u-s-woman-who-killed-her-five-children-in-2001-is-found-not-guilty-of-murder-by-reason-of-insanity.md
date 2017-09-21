@@ -8,6 +8,7 @@ By Reason Of Insanity; Will Be Committed To State Mental Hospital
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/07/26/national/main1837248.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/07/26/d45d9a4e-a642-11e2-a3f0-029118418759/image1837414x.jpg)
 
 ### Related:
 

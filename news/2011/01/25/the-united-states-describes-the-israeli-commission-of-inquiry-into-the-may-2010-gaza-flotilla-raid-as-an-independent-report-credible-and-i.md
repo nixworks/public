@@ -9,6 +9,7 @@
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/israeli-probe-of-flotilla-raid-impartial-us/story-e6frg6so-1225994137109)
 2. [The Jerusalem Post](http://www.jpost.com/ArtsAndCulture/Entertainment/Article.aspx?id=205102)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=156820)
 
 ### Related:
 

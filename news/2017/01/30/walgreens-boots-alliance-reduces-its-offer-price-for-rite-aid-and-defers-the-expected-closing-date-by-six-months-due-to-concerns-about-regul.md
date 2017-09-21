@@ -9,6 +9,7 @@ Drugstore chain Walgreens Boots Alliance Inc (WBA.O) said its deal to buy smalle
 
 1. [Reuters](http://www.reuters.com/article/us-rite-aid-m-a-walgreens-boots-idUSKBN15E1HU)
 2. [The New York Times](https://www.nytimes.com/2017/01/30/business/dealbook/walgreens-rite-aid-merger.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170130&t=2&i=1170749151&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0T0VE)
 
 ### Related:
 

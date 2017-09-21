@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MTV](http://www.mtv.com/news/articles/1704813/michael-jackson-wrondful-death-trial-begins.jhtml)
+1. [Cover Image](http://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:107361?quality=0.8&amp;format=jpg&amp;width=1440&amp;height=810&amp;.jpg)
 
 ### Related:
 

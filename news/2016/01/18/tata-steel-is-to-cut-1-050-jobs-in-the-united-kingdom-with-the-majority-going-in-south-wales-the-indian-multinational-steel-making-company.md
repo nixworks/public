@@ -8,6 +8,7 @@ Tata Steel Ltd. will cut another 1,050 jobs in the U.K. in the latest blow to th
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-18/tata-steel-cuts-more-jobs-in-blow-to-u-k-s-shrinking-industry)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixaJ22ME1bXs/v3/1200x800.jpg)
 
 ### Related:
 

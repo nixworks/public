@@ -8,6 +8,7 @@ FRANCE&#039;S political &#039;&#039;trial of the century&#039;&#039;, a case of 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/sarkozys-sexual-history-to-go-on-show-in-court-20090913-fm8p.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

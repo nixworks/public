@@ -8,6 +8,7 @@ For four long years the Damascus suburb of Daraya endured siege, bombardment and
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/08/26/daraya-surrenders-to-assad-regime-after-four-years-of-siege-and/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/1/t/1tb3nqnte61ptqlxnwnjzvczluehkq0-xlarge.jpg)
 
 ### Related:
 

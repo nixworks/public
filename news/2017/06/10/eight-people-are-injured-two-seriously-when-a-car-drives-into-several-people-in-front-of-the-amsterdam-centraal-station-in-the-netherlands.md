@@ -9,6 +9,7 @@ Eight people were injured in an incident involving a car in front of Amsterdam&#
 
 1. [DutchNews.NL](http://www.dutchnews.nl/news/archives/2017/06/eight-injured-in-incident-with-car-at-amsterdam-railway-station/)
 2. [Reuters](https://www.reuters.com/article/us-netherlands-car-crowd-idUSKBN1910XT)
+2. [Cover Image](http://www.dutchnews.nl/wpcms/wp-content/uploads/2017/06/amsterdam-railway-station.jpg)
 
 ### Related:
 

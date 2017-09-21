@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8639588.stm)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE63M1WW20100423?feedType=RSS&feedName=worldNews)
 4. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Ahmadinejad-condemns-satanic-pressures-on-Iran-and-Zimbabwe/articleshow/5846606.cms)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

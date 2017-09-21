@@ -8,6 +8,7 @@ The US military made an unusual public plea for information yesterday in its hun
 ### Source:
 
 1. [The Long War Journal](http://www.longwarjournal.org/archives/2016/04/us-military-searches-for-kabul-attack-network-members.php)
+1. [Cover Image](http://www.longwarjournal.org/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png)
 
 ### Related:
 

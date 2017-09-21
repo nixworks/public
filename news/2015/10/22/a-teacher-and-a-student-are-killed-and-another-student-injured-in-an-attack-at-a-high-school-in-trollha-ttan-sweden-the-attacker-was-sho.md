@@ -9,6 +9,7 @@ A masked man armed with a sword kills a teacher and a pupil at a school in the S
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34602621)
 2. [The Guardian](http://www.theguardian.com/world/2015/oct/22/pupils-wounded-in-sword-attack-at-swedish-school)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/539F/production/_86270412_f0b20f13-7702-4470-9b24-c0fd3acfa936.jpg)
 
 ### Related:
 

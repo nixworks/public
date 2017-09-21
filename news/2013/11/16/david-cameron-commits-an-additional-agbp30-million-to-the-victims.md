@@ -8,6 +8,7 @@ The British government will give an extra £30m in emergency aid - a total of £
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-24970066)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71155000/jpg/_71155033_philippines_getty.jpg)
 
 ### Related:
 

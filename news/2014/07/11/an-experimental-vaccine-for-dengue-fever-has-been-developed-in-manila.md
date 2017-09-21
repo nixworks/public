@@ -8,6 +8,7 @@ A vaccine against dengue fever could protect more than half the children who are
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-28243587?post_id=100001294153256_672460692807063#_=_)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76184000/jpg/_76184632_c0093043-feeding_mosquito-spl.jpg)
 
 ### Related:
 

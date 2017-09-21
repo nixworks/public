@@ -9,6 +9,7 @@ A lawyer who defended a woman sentenced to be stoned to death in Iran is now in 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10870522)
 2. [France24](http://www.france24.com/en/20100804-iran-stoning-lawyer-requests-asylum-turkey-un)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

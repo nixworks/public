@@ -8,6 +8,7 @@ Ride-hailing company Uber Technologies Inc has agreed to pay $20 million to sett
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-uber-ftc-idUSKBN15334C)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170119&t=2&i=1169400743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0I1PW)
 
 ### Related:
 

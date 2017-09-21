@@ -10,6 +10,7 @@ WASHINGTON -- Energy Secretary Steven Chu said he is leaving the Obama administr
 1. [AP via ''The Washington Post](http://www.washingtonpost.com/politics/energy-secretary-steven-chu-resigns/2013/02/01/9809fd8a-6c8f-11e2-8f4f-2abd96162ba8_story.html)
 2. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-energy-secretary-steven-chu-step-down-20130201,0,3894054.story)
 3. [USA Today](http://www.usatoday.com/story/news/politics/2013/02/01/obama-chu-energy-secretary/1883425/)
+3. [Cover Image](http://www.trbimg.com/img-510c04e9/turbine/la-pn-energy-secretary-steven-chu-step-down-20-001/600/600x445)
 
 ### Related:
 

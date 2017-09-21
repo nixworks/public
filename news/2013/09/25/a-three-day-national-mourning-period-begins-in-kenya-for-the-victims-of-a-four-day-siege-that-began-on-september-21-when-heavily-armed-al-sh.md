@@ -8,6 +8,7 @@ Kenya mourns the victims of the militant attack at a Nairobi shopping centre as 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24237180)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70104000/jpg/_70104756_70104755.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A suicide car bomb aimed at African Union (AU) peacekeepers in the Somali capita
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE50N18L20090124)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090124&t=2&i=7982852&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-01-24T112023Z_01_BTRE50N0V6500_RTROPTP_0_SOMALIA-CONFLICT)
 
 ### Related:
 

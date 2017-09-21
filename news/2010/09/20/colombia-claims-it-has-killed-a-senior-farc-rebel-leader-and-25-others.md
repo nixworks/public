@@ -9,6 +9,7 @@ The Colombian armed forces say they killed a senior Farc rebel leader in an atta
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11378351)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/11943-police-raises-farc-bombing-death-toll-to-27.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

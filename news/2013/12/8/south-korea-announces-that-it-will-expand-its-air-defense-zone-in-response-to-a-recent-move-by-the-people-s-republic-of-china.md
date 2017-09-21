@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/12/08/south-korea-announces-expansion-air-defense-zone/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/12/08/south-korea-announces-expansion-air-defense-zone/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422700102359.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ In the four months since Steve Irwin’s tragic death, his widow Terri has done 
 ### Source:
 
 1. [Access Hollywood](http://www.accesshollywood.com/news/ah3485.shtml)
+1. [Cover Image](https://d919ce141ef35c47fc40-b9166a60eccf0f83d2d9c63fa65b9129.ssl.cf5.rackcdn.com/images/18847.2e16d0ba.fill-300x300.jpg)
 
 ### Related:
 

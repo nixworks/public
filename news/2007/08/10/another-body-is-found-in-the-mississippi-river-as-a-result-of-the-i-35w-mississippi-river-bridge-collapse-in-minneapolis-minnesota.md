@@ -8,6 +8,7 @@ Divers in Minneapolis found the remains of someone killed in the disaster, bring
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/10/us/10cnd-bridge2.html?ex=1344398400&en=515f5c3ce0e93726&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

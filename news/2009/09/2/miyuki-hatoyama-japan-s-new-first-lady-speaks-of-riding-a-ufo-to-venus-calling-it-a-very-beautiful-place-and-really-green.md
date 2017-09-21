@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5812DV20090902)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090902&t=2&i=11443349&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-02T113331Z_01_BTRE5810W4000_RTROPTP_0_JAPAN-ELECTION)
 
 ### Related:
 

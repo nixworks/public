@@ -8,6 +8,7 @@ Violence rocked Pakistan&#039;s biggest city today as 13 people were killed in t
 ### Source:
 
 1. [PTI via NDTV](http://www.ndtv.com/article/world/pakistan-13-killed-in-karachi-violence-454189)
+1. [Cover Image](http://i.ndtvimg.com/mt/2013-12/Pakistan_cop_AP_360x270.jpg)
 
 ### Related:
 

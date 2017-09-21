@@ -8,6 +8,7 @@ A top Taiwan court ruled in favor of gay marriage Wednesday, a landmark ruling t
 ### Source:
 
 1. [GMA News](http://www.gmanetwork.com/news/news/world/611965/taiwan-top-court-rules-in-favor-of-gay-marriage/story/)
+1. [Cover Image](http://images.gmanews.tv/webpics/2017/05/2017-05-24T084639Z_1777967236_RC194393A6E0_RTRMADP_3_TAIWAN-LGBT-MARRIAGE_2017_05_24_16_53_07.JPG)
 
 ### Related:
 

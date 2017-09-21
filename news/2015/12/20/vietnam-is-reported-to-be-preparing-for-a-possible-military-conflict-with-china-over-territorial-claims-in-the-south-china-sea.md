@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-vietnam-china-conflict-insight-idUKKBN0U004820151218)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151217&t=2&i=1102921818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBG022)
 
 ### Related:
 

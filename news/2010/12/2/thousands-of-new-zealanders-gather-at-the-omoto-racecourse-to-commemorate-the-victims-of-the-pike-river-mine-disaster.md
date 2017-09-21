@@ -8,6 +8,7 @@ A memorial service has taken place in New Zealand for the 29 miners who were kil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11895068)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-asia-pacific-11895068A/playlist.sxml)
 
 ### Related:
 

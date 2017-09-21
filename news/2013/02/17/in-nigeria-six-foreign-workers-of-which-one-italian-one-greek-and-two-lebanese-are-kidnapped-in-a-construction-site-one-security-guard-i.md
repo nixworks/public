@@ -8,6 +8,7 @@ Seven foreign workers have been kidnapped by gunmen in northern Nigeria, in the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21491628)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65938000/gif/_65938141_nigeria_bauchi_1702.gif)
 
 ### Related:
 

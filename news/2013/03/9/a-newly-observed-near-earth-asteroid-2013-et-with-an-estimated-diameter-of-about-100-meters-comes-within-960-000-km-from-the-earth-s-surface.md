@@ -8,6 +8,7 @@ A newly discovered Asteroid 2013 ET is making a close flyby, just days after ano
 ### Source:
 
 1. [Before It's News](http://beforeitsnews.com/earthquakes/2013/03/asteroid-2013-et-to-make-earth-close-approach-on-march-9-2013-2451870.html)
+1. [Cover Image](http://feeds.feedburner.com/~r/adorraeli/tsEq/~4/_OCDIwejldM)
 
 ### Related:
 

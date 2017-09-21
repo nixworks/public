@@ -8,6 +8,7 @@ Iraqi authorities have revoked the operating licence of the pan-Arab satellite n
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-qatar-aljazeera-iraq-idUSKCN0XO2O8)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160427&t=2&i=1134799908&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3Q1KU)
 
 ### Related:
 

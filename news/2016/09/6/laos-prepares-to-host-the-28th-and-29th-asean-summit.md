@@ -9,6 +9,7 @@ President Barack Obama on Monday became the first sitting U.S. president to step
 
 1. [CNN](http://www.cnn.com/2016/09/05/asia/united-states-laos-secret-war/index.html)
 2. [NBC](http://www.nbcnews.com/news/world/obama-laos-announces-u-s-will-give-90-million-clear-n643156)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_36/1696986/160906-obama-laos-rd-140a_b285fdc9cab2a3fec9e90475f2f63512.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

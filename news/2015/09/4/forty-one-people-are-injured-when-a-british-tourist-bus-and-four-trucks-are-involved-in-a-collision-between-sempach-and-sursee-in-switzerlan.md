@@ -8,6 +8,7 @@ Forty-one people have been injured in central Switzerland when a British tourist
 ### Source:
 
 1. [Reuters via News24](http://www.news24.com/news24/World/News/British-tourist-bus-crashes-in-Switzerland-41-hurt-20150904)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1840/2654e0ab2a10449dace64a4b248f456b.jpg)
 
 ### Related:
 

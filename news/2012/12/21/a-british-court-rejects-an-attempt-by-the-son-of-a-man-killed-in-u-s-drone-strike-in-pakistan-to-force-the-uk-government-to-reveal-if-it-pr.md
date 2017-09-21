@@ -8,6 +8,7 @@ The High Court rejects an attempt by a Pakistani man to force the UK government 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20807934)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63665000/jpg/_63665582_dronebbc.jpg)
 
 ### Related:
 

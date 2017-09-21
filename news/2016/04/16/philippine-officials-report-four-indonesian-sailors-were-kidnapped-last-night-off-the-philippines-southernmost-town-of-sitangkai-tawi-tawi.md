@@ -8,6 +8,7 @@ Islamist militants seized four Indonesian crew of a tugboat in the southern Phil
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/philippines-militants-indonesians-idINKCN0XD0E5)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

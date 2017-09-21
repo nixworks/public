@@ -8,6 +8,7 @@ India has again denied Pfizer Inc a patent on its rheumatoid arthritis drug tofa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/07/us-pfizer-india-patent-idUSKCN0R70UF20150907)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150907&t=2&i=1077509868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB860C5)
 
 ### Related:
 

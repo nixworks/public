@@ -8,6 +8,7 @@ Digital Sky Technologies invested $200 million in the social networking company 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/05/27/technology/internet/27facebook.html?_r=1&ref=technology)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

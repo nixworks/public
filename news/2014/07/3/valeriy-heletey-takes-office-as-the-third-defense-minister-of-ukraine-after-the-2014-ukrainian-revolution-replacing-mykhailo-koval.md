@@ -8,6 +8,7 @@ The Ukrainian Verkhovna Rada has appointed Valeriy Heletei defense minister of U
 ### Source:
 
 1. [Interfax Ukraine](http://en.interfax.com.ua/news/general/211936.html)
+1. [Cover Image](http://images.interfax.com.ua/img/2410_220235.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17580862)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59451000/jpg/_59451616_014425808-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/18/us-southsudan-unrest-idUSBRE9BH0I620131218)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131218&t=2&i=821924616&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BH1GNJ00)
 
 ### Related:
 

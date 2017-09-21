@@ -8,6 +8,7 @@ The overall voter turnout surpassed the previous best of 64.01% in 1984 in the w
 ### Source:
 
 1. [Times Of India](http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Highest-ever-turnout-of-66-38-recorded-in-this-Lok-Sabha-election/articleshow/35028268.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/35023348.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Middle East almost doubles weapons imports, as US and Europe remain the main sup
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/20/global-arms-weapons-trade-highest-point-since-cold-war-era)
+1. [Cover Image](https://i.guim.co.uk/img/media/ac38a22d79e2f43126b8042500a6eff909d57623/0_179_4000_2400/master/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=522bef4f4548c5b2773108a3b02659e2)
 
 ### Related:
 

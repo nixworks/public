@@ -9,6 +9,7 @@ A high-speed TGV train derails on a test run near the French city of Strasbourg,
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34822666)
 2. [Independent](http://www.independent.ie/world-news/europe/seven-dead-after-high-speed-train-catches-fire-and-derails-in-france-34201041.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/7970/production/_86688013_c98e620f-3996-4c4e-99a7-c695400c1ee8.jpg)
 
 ### Related:
 

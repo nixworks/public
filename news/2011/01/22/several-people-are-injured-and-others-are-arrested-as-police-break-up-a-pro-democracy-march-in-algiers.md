@@ -9,6 +9,7 @@ Several injured as police disperse 300 people who defied a ban and attempted to 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011122105819527114.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12258449)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/22/2011122112534173738_20.jpg)
 
 ### Related:
 

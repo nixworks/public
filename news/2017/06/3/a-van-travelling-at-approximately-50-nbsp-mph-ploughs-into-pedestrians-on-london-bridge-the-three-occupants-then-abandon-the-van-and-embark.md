@@ -9,6 +9,7 @@ Police said a vehicle veered off the road and mowed down pedestrians on London B
 
 1. [BBC](http://www.bbc.com/news/uk-40146916)
 2. [CBC](http://www.cbc.ca/news/world/london-bridge-police-respond-incident-1.4145144)
+2. [Cover Image](https://i.cbc.ca/1.4145289.1496544442!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/96095073.jpg)
 
 ### Related:
 

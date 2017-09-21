@@ -8,6 +8,7 @@ The Democrat is under an ethics investigation.
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2014/02/rob-andrews-retirement-103082.html)
+1. [Cover Image](http://s3-origin-images.politico.com/2014/02/04/rob_andrews_ap_605.jpg)
 
 ### Related:
 

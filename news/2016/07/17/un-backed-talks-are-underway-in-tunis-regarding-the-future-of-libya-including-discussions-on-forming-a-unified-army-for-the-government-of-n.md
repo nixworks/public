@@ -8,6 +8,7 @@ The UN is set to host a second day of talks on Libya with the aim of creating a 
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2016/0717/802936-libya-army/)
+1. [Cover Image](https://img.rasset.ie/000c8e21-1600.jpg)
 
 ### Related:
 

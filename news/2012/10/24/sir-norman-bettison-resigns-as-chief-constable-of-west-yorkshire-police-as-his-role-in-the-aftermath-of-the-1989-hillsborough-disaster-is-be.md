@@ -8,6 +8,7 @@ West Yorkshire Police Chief Constable Sir Norman Bettison, whose role in the aft
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-20067716)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63449000/jpg/_63449202_bettison_pa.jpg)
 
 ### Related:
 

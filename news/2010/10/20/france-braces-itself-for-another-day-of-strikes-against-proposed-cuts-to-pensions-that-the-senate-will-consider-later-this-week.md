@@ -9,6 +9,7 @@ French strikers impose new fuel blockades, hours after security forces clear pro
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11580492)
 2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20101020/ts_nm/us_france_pensions)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

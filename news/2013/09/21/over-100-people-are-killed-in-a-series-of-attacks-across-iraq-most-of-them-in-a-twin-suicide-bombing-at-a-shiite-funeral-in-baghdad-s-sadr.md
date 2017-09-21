@@ -8,6 +8,7 @@ At least 60 people have been killed and 120 injured at a funeral in the mainly S
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24190728)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70051000/jpg/_70051653_019386336-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The new 20 euro note, the third in the Europa series, enters into circulation on
 ### Source:
 
 1. [Sofia Globe](http://sofiaglobe.com/2015/11/25/new-20-euro-note-goes-into-circulation-on-november-25/)
+1. [Cover Image](http://sofiaglobe.com/wp-content/uploads/2015/11/THE-NEW-20_discover_banknotes_small.png)
 
 ### Related:
 

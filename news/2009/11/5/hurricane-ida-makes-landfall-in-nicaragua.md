@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/weather/11/05/tropical.storm.ida/)
 2. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSN0599086._CH_.2400)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091106&t=2&i=12228658&w=&fh=545px&fw=&ll=&pl=&sq=&r=NIhurricaneida238)
 
 ### Related:
 

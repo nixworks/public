@@ -8,6 +8,7 @@ Saudi security forces shot dead two alleged Islamic State fighters and two other
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-saudi-security-idUSKCN0XW0ZH)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

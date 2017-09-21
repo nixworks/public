@@ -8,6 +8,7 @@ Mohamed Dionne, an adviser to President Macky Sall, announced as new prime minis
 ### Source:
 
 1. [AlJazeera](http://www.aljazeera.com/news/africa/2014/07/presidential-aide-named-senegal-new-pm-20147714231726490.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/7/10/2014710202521577734_20.jpg)
 
 ### Related:
 

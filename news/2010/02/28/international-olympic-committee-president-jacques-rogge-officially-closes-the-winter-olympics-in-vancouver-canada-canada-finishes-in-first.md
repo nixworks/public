@@ -9,6 +9,7 @@ Canada&rsquo;s fantasy has been brought to vivid life here in Vancouver. In what
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/winter-olympics/7340355/Winter-Olympics-2010-Sidney-Crosby-hands-Canada-ice-hockey-gold-over-rivals-USA.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/sports/2010-03/01/c_13191987.htm)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01587/canada-us_1587750a.jpg)
 
 ### Related:
 

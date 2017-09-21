@@ -8,6 +8,7 @@ Thousands of people turned out in the rain to celebrate the Chinese New Year in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-21403117)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65807000/jpg/_65807966_017182231.jpg)
 
 ### Related:
 

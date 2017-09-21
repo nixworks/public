@@ -8,6 +8,7 @@ Government frees some 400 members of Houthi northern rebels as part of Qatar-med
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/20101230183224974178.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/6/201011613472232436_20.jpg)
 
 ### Related:
 

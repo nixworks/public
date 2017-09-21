@@ -8,6 +8,7 @@ Myanmar state television broadcast a memorial ceremony for opposition leader Aun
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article3656551.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article12722193.ece/ALTERNATES/LANDSCAPE_615/19%20myanmar)
 
 ### Related:
 

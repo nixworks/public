@@ -9,6 +9,7 @@ A spill of around 150,000 litresof diesel oil from a broken pipeline in northwes
 
 1. [China.org.cn](http://www.china.org.cn/environment/2010-01/04/content_19174047.htm)
 2. [Reuters](http://uk.reuters.com/article/idUKTOE6030A020100104)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

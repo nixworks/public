@@ -8,6 +8,7 @@ The European Parliament has voted to end visa-free travel for Americans within t
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/europe-visa-free-travel-americans-european-parliament-vote-a7609406.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/03/12/rtr486rw.jpg)
 
 ### Related:
 

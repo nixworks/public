@@ -10,6 +10,7 @@
 1. [Guardian](http://www.guardian.co.uk/media/2005/dec/04/business.china)
 2. [NYT II](http://www.nytimes.com/2005/11/26/international/asia/26china.html?pagewanted=all)
 3. [NYT I](http://www.nytimes.com/2005/11/25/world/asia/25iht-beijing.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

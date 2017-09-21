@@ -9,6 +9,7 @@ Ghosn denies he confirmed reports of the arrest of Majid bin Mohammad al-Majid, 
 
 1. [Reuters](http://www.reuters.com/article/2013/12/31/us-usa-lebanon-idUSBRE9BU0I920131231)
 2. [The Daily Star](http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-01/242826-ghosn-confirms-chief-of-al-qaeda-linked-group-arrested.ashx)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/01/01/152270_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish media reports that plane wreckage was found in Syrian waters, as NATO sc
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262465711936449.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/25/20126258253148734_20.jpg)
 
 ### Related:
 

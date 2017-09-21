@@ -8,6 +8,7 @@ The number of foreign troops killed in Afghanistan this year has reached at leas
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6850LL20100906)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100906&t=2&i=198118147&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-06T180644Z_01_BTRE6851EBB00_RTROPTP_0_ITALY)
 
 ### Related:
 

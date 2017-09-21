@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/08/31/us-denmark-economy-minister-idUKKBN0GV07A20140831?feedType=RSS&feedName=exxonEnergyNews&virtualBrandChannel=10174)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140831&t=2&i=968997840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7U03G)
 
 ### Related:
 

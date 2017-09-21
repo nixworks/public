@@ -8,6 +8,7 @@ At least 30 people have been killed in an air strike on a market near the Yemeni
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35678326)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/12DE7/production/_88478277_bb154a9b-4fbf-4550-9954-4979457d11d1.jpg)
 
 ### Related:
 

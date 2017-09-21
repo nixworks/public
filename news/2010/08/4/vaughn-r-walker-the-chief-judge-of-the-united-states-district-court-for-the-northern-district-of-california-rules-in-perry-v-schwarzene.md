@@ -11,6 +11,7 @@
 2. [CNN](http://www.cnn.com/2010/US/08/04/prop.8.next/)
 3. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2010/08/prop8-gay-marriage.html)
 4. [Reuters via ''New York Times](http://www.nytimes.com/reuters/2010/08/04/us/news-us-gaymarriage.html?hp)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

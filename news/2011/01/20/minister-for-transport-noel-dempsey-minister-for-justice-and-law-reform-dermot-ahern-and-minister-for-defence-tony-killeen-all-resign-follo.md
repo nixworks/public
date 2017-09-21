@@ -19,6 +19,7 @@ Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning
 10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking50.html)
 11. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking67.html)
 12. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110120-712408.html)
+12. [Cover Image](https://img.rasset.ie/000422ef-1600.jpg)
 
 ### Related:
 

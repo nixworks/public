@@ -10,6 +10,7 @@ Taoiseach Brian Cowen has congratulated Margaret Ritchie on her election as lead
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8502721.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0207/sdlp.html)
 3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/uk-ireland/ritchie-sets-sights-on-top-job-14671472.html)
+3. [Cover Image](https://img.rasset.ie/0002fc02-1600.jpg)
 
 ### Related:
 

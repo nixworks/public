@@ -8,6 +8,7 @@ Coordinated bombings rip through mostly Shiite neighbourhoods in the Baghdad are
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1134051/baghdad-bombings-at-least-51-people-killed)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/178249226-1_3641809.jpg?20160706035522)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP](https://apnews.com/3680d7b868a6464d97aade93fed5f581/Barcelona-cathedral-evacuated-amid-anti-terror-investigation)
+1. [Cover Image](https://apnews.com/dist/assets/images/Twitterlogo.png)
 
 ### Related:
 

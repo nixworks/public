@@ -9,6 +9,7 @@ A number of people are injured in central Moscow as football fans protesting ove
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11976792)
 2. [RIA Novosti](http://en.rian.ru/russia/20101211/161735767.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

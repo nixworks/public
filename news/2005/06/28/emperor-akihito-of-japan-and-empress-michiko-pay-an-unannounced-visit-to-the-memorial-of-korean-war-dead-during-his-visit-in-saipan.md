@@ -10,6 +10,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 1. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200506280111.html)
 2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=9&id=341533)
 3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-06-28T073125Z_01_FOR813391_RTRUKOC_0_JAPAN-EMPEROR-SAIPAN.xml)
+3. [Cover Image](http://www.asahicom.jp/ajw/images/logo_ogp.png)
 
 ### Related:
 

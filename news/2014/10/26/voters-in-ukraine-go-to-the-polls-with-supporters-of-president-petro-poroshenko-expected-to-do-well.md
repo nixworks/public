@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/10/26/ukrainians-go-to-polls-in-snap-parliamentary-election/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/10/26/ukrainians-go-to-polls-in-snap-parliamentary-election/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449269330658.jpg?ve=1)
 
 ### Related:
 

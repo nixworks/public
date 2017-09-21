@@ -8,6 +8,7 @@ The Kenyan air force has destroyed two al Shabaab camps in Somalia, it said on M
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/06/us-kenya-security-military-idUSKBN0MX0EA20150406)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150406&t=2&i=1038322143&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB350C6)
 
 ### Related:
 

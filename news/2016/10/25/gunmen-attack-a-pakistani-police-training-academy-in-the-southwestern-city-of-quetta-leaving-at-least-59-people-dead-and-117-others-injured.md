@@ -13,6 +13,7 @@ Dozens of people are killed after militants mount an attack on a police training
 4. [CNN](http://edition.cnn.com/2016/10/24/world/pakistan-police-academy-attack/index.html)
 5. [Dawn](http://www.dawn.com/news/1291999)
 6. [Reuters](http://www.reuters.com/article/us-pakistan-attack-idUSKCN12O2M6)
+6. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12B71/production/_92075667_4f87f7f5-6808-49e5-8828-b133f67fa576.jpg)
 
 ### Related:
 

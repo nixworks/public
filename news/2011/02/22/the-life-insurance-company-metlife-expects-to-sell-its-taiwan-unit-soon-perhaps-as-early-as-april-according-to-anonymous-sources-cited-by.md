@@ -8,6 +8,7 @@ U.S. life insurer Metlife Inc (MET.N) has drawn three bidders for its Taiwan uni
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/22/us-metlife-taiwan-idUSTRE71L10B20110222)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UPDATED with more from the hearing: Facing five years behind bars for felony and
 ### Source:
 
 1. [Deadline](http://deadline.com/2015/08/Emile-hirsch-plea-deal-paramount-executive-assault-daniele-bernfeld-sundance-film-festival-1201500332/)
+1. [Cover Image](https://pmcdeadline2.files.wordpress.com/2015/08/emile-hirsch-march-16-park-city-hearing.jpg?w=605)
 
 ### Related:
 

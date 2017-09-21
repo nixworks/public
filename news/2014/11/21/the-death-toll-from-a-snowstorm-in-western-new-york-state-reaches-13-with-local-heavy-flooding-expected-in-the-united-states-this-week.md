@@ -8,6 +8,7 @@ A killer snowstorm that has killed 13 people in western New York state could be 
 ### Source:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/2014/11/22/death-toll-climbs-killer-us-snowstorm)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20141122001064630717-original.jpg)
 
 ### Related:
 

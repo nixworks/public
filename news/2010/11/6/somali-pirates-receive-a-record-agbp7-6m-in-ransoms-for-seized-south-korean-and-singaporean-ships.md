@@ -9,6 +9,7 @@ Somali pirates are reported to have received a total of about $12.3m (£7.6m) in
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/2010116231624431468.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11704306)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

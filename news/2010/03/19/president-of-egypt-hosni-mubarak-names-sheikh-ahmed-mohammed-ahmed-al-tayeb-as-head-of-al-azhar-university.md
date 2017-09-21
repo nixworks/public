@@ -8,6 +8,7 @@ Sheikh Ahmed Mohammed Ahmed al-Tayeb named as head of Al-Azhar Islamic instituti
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/2010319165631215994.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

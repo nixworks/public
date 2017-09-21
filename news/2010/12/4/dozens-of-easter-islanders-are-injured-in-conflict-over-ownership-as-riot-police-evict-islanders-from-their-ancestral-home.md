@@ -8,6 +8,7 @@ Dozens reported wounded as authorities move to evict natives from home they clai
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/20101243455185989.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/4/2010124490442360_20.jpg)
 
 ### Related:
 

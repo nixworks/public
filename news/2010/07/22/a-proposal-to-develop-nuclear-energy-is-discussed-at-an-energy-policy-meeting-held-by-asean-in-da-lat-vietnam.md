@@ -8,6 +8,7 @@ Vietnam calls on its neighbours in the Asean regional group to adopt nuclear pow
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10728876)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

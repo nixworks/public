@@ -8,6 +8,7 @@ A plea deal was reached in August, with the former Subway pitchman admitting to 
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/19/456622271/jared-fogle-to-learn-sentence-for-sex-with-minors-child-pornography)
+1. [Cover Image](https://media.npr.org/assets/img/2015/11/19/ap_365484922617_wide-b0bd6c456e10467a4addddb440dc11cdf0eb628b.jpg?s=1400)
 
 ### Related:
 

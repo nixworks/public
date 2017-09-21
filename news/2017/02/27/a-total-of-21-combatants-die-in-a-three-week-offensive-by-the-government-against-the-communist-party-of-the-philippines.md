@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/162605-armed-forces-philippines-new-peoples-army-operations-after-peace-talks)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28ECBCFBEFD34D728402637BFD69F8D1/npa-rebels-dec2013-kmanlupig-img_2238.jpg)
 
 ### Related:
 

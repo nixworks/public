@@ -8,6 +8,7 @@ Thirty-seven people have died in a fire at a psychiatric hospital in Russia’s 
 ### Source:
 
 1. [RT](http://rt.com/news/fire-psychiatric-hospital-russia-797/)
+1. [Cover Image](https://img.rt.com/files/news/20/6b/d0/00/rian_02283300.hr.en.si.jpg)
 
 ### Related:
 

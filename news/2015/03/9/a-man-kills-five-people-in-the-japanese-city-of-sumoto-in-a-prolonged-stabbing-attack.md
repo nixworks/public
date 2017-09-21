@@ -8,6 +8,7 @@ A 40-year-old man described as a social misfit is being questioned by Japanese p
 ### Source:
 
 1. [ABC and AFP via ABC Australia](http://www.abc.net.au/news/2015-03-09/japanese-man-arrested-after-five-people-found-stabbed-to-death/6291812)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

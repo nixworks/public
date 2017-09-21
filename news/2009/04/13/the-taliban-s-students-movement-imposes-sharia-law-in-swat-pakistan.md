@@ -8,6 +8,7 @@ Pakistani Taliban are imposing their rule in a Pakistani mountain valley they to
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE53C1F820090413)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090413&t=2&i=9681038&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-04-13T142852Z_01_BTRE53C0W6200_RTROPTP_0_PAKISTAN-BAJAUR)
 
 ### Related:
 

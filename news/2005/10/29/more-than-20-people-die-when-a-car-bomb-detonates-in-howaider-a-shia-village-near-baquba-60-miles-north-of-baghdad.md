@@ -2,16 +2,12 @@
 
 #  More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. 
 
-NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
+
 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4387604.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4388790.stm)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4387474.stm)
-4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4388292.stm)
-5. [NDTV](http://www.ndtv.com/topstories/showtopstory.asp?slug=Serial+blasts+rock+Delhi&id=18069&category=National)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4388790.stm)
 
 ### Related:
 

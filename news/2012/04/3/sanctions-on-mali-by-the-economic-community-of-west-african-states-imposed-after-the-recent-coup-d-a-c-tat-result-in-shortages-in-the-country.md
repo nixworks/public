@@ -8,6 +8,7 @@ Malians scramble to stockpile fuel and other items as post-coup embargo by West 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/201243124638453622.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/3/2012431315612734_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The death toll from Harvey was rising and officials said their rescue effort was
 1. [The New York Times''²](https://www.nytimes.com/2017/08/30/us/hurricane-harvey-flooding-houston.html?src=trending&module=Ribbon&version=context&region=Header&action=click&contentCollection=Trending&pgtype=article)
 2. [The New York Times](https://www.nytimes.com/2017/08/29/us/harvey-texas-louisiana.html?emc=edit_na_20170830&nl=breaking-news&nlid=80824687&ref=headline&_r=0)
 3. [Weather Channel](https://weather.com/storms/hurricane/news/harvey-houston-hurricane-tropical-storm-south-texas-deadly-flooding-impacts)
+3. [Cover Image](https://static01.nyt.com/images/2017/08/30/us/30storm1/30storm1-facebookJumbo.jpg)
 
 ### Related:
 

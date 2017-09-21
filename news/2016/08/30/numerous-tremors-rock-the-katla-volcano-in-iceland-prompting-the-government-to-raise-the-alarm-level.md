@@ -8,6 +8,7 @@ Iceland raised the alarm after its largest volcano was hit by the biggest tremor
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-08-29/iceland-raises-alarm-after-largest-volcano-starts-to-rumble)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipPDhQv9ltl0/v0/1200x790.jpg)
 
 ### Related:
 

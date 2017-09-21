@@ -8,6 +8,7 @@ The bassist for rock band 3 Doors Down has been charged with vehicular homicide 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/21/entertainment-us-usa-crash-bassist-idUSBRE93K01P20130421)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130421&t=2&i=724381201&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93K08UM00)
 
 ### Related:
 

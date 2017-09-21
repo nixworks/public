@@ -8,6 +8,7 @@ TMX Group, operator of the Toronto Stock Exchange, said on Friday its board has 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/21/us-tmx-maple-idUSTRE74J6WV20110521)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110520&t=2&i=418852748&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-20T213024Z_01_BTRE74J1NQW00_RTROPTP_0_TMX)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Five Royal Marines are charged with murder in connection with an incident in Afg
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19940138)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63443000/jpg/_63443599_63443598.jpg)
 
 ### Related:
 

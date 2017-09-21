@@ -8,6 +8,7 @@ BEIRUT, LEBANON (10:00 P.M.) – Following the capture of Al-Khafsah town earlie
 ### Source:
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/20-villages-liberated-syrian-army-seizes-isis-pocket-stunning-aleppo-offensive/)
+1. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2017/03/17038986_1865553190400681_3453476500112930080_o.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police shoot dead one man and arrest more than 200 people at two mosques they al
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/11/deadly-raids-mosques-kenya-mombasa-2014111715249473661.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/11/17//20141117153447712734_20.jpg)
 
 ### Related:
 

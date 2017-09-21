@@ -9,6 +9,7 @@ The death toll in a bus crash in the northern Indian state of Himachal Pradesh r
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22457396)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2013-05/09/c_124683485.htm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67492000/jpg/_67492322_67492321.jpg)
 
 ### Related:
 

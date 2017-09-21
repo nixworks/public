@@ -8,6 +8,7 @@ The US Justice Department opens a criminal investigation into tax avoidance sche
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-36091549)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15042/production/_89328068_gettyimages-521065198.jpg)
 
 ### Related:
 

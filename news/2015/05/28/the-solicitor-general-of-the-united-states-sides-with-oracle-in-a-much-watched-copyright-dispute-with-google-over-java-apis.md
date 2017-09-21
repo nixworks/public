@@ -8,6 +8,7 @@ The dispute between Google and Oracle revolves around whether Java APIs can be c
 ### Source:
 
 1. [IDG News Service](http://www.javaworld.com/article/2927978/open-source-tools/us-sides-with-oracle-in-java-copyright-dispute-with-google.html)
+1. [Cover Image](http://www.javaworld.com/www.idge.jvw/images/JVW_logo_300x300.png)
 
 ### Related:
 

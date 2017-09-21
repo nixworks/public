@@ -8,6 +8,7 @@ Singer George Michael is jailed for eight weeks for crashing his car while under
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11305611)
+1. [Cover Image](http://playlists.bbc.co.uk/news/uk-11305611A/playlist.sxml)
 
 ### Related:
 

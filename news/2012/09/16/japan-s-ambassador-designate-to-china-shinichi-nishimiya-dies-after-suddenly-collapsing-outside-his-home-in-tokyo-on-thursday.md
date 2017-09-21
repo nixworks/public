@@ -10,6 +10,7 @@
 1. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120916x1.html)
 2. [Reuters](http://www.reuters.com/article/2012/09/16/japan-china-envoy-idUSL3E8KG07F20120916)
 3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Japans-new-envoy-to-China-dead-Officials/articleshow/16418815.cms)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

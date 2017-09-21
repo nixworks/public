@@ -12,6 +12,7 @@ The full list of winners at the 2015 Oscars
 3. [The Guardian](http://www.theguardian.com/film/2015/feb/23/eddie-redmayne-wins-best-actor-oscar-for-the-theory-of-everything)
 4. [The Guardian](http://www.theguardian.com/film/2015/feb/23/ida-wins-oscar-for-best-foreign-language-film)
 5. [The Telegraph](http://www.telegraph.co.uk/culture/film/oscars/11420116/oscars-2015-winners-list.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03208/oscars-director-bi_3208690k.jpg)
 
 ### Related:
 

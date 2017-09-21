@@ -9,6 +9,7 @@ The impetus behind today’s announcement to reveal the Oscar nominees in 24 cat
 
 1. [Deadline](http://deadline.com/2015/01/oscars-academy-announcement-24-categories-1201345681/)
 2. [Washington Post](http://www.washingtonpost.com/blogs/style-blog/wp/2015/01/15/2015-oscar-nominations-complete-coverage/)
+2. [Cover Image](https://pmcdeadline2.files.wordpress.com/2015/01/oscar-nominations-2014.jpg?w=605)
 
 ### Related:
 

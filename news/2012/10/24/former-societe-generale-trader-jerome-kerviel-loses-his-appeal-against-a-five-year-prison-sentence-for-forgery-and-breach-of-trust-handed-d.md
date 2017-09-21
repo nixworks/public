@@ -8,6 +8,7 @@ Former Societe Generale trader Jerome Kerviel loses his appeal against a five-ye
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20067510)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63679000/jpg/_63679081_ukgsd6bj.jpg)
 
 ### Related:
 

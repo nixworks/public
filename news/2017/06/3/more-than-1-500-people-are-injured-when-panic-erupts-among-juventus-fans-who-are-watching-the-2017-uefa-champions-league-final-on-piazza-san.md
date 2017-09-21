@@ -9,6 +9,7 @@
 
 1. [AFP](https://twitter.com/AFP/status/871246349605285888)
 2. [BNO News](http://bnonews.com/news/index.php/news/id5974)
+2. [Cover Image](https://pbs.twimg.com/profile_images/697343883630481408/c08JBfBB_400x400.jpg)
 
 ### Related:
 

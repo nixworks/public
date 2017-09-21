@@ -8,6 +8,7 @@ A magnitude 4.8 earthquake was reported Tuesday afternoon three miles from Wasco
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-earthquakesa-earthquake-49-quake-strikes-near-wasco-calif-o4ghbj-story.html)
+1. [Cover Image](http://www.trbimg.com/img-56ccf5ea/turbine/la-me-earthquakesa-earthquake-49-quake-strikes-near-wasco-calif-o4ghbj)
 
 ### Related:
 

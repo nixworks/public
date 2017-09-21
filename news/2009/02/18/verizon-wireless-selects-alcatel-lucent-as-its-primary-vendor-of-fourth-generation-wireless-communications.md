@@ -8,6 +8,7 @@ Lucent, Ericsson to upgrade radio network
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/UK_SMALLCAPSRPT/idUKLI34523020090218)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

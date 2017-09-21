@@ -8,6 +8,7 @@ In a finale without precedent in world chess championship history, Vladimir Kram
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2006/10/13/crosswords/chess/13cnd-chess.html?_r=1&hp&ex=1160798400&en=7596b78508c4dbf2&ei=5094&partner=homepage&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

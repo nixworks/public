@@ -17,6 +17,7 @@ Russia accused Georgia on Saturday of seeking bloody adventures by trying to ret
 8. [RIA](http://en.rian.ru/russia/20080809/115914161.html)
 9. [Reuters](http://www.reuters.com/article/newsOne/idUSL768040420080809?pageNumber=2&virtualBrandChannel=0)
 10. [The Local](http://www.thelocal.se/13596/20080809/)
+10. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080809&t=2&i=5510085&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-08-09T184908Z_01_L7680404_RTRUKOP_0_PICTURE1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Mongolia has agreed with the International Monetary Fund and other partners for 
 
 1. [IMF](http://www.imf.org/en/news/articles/2017/02/19/pr1754-mongolia-imf-reaches-staff-level-agreement-on-3yr-eff)
 2. [Reuters](http://www.reuters.com/article/us-mongolia-imf-idUSKBN15Y02S?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

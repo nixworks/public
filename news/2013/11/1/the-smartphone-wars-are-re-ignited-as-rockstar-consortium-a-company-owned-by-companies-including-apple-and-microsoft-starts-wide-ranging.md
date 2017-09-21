@@ -9,6 +9,7 @@ The group that owns thousands of former Nortel patents filed a barrage of patent
 
 1. [Ars Technica](http://arstechnica.com/tech-policy/2013/10/patent-war-goes-nuclear-microsoft-apple-owned-rockstar-sues-google/)
 2. [Reuters](http://www.reuters.com/article/2013/10/31/us-google-rockstar-lawsuit-idUSBRE99U1EN20131031)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131031&t=2&i=807842849&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99U1R5500)
 
 ### Related:
 

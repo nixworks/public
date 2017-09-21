@@ -8,6 +8,7 @@ Beijing says 28 workers confirmed dead as hopes to find missing begin to fade.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/2010497473559778.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

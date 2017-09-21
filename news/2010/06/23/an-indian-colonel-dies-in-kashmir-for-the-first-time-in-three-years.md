@@ -11,6 +11,7 @@
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=131757&sectionid=351020402)
 3. [The News International](http://www.thenews.com.pk/top_story_detail.asp?Id=29636)
 4. [The Times of India](http://timesofindia.indiatimes.com/India/First-in-3-years-Colonel-killed-in-Kashmir/articleshow/6084131.cms)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

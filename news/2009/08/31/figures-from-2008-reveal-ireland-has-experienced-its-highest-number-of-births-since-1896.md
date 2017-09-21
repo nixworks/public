@@ -10,6 +10,7 @@ Last year saw the highest number of births recorded in Ireland since 1896.
 1. [Irish Independent](http://www.independent.ie/national-news/boom-time-for-babies-as-births-soar-in-recession-1874312.html)
 2. [RTÉ](http://www.rte.ie/news/2009/0831/cso.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2009/0901/1224253590066.html)
+3. [Cover Image](https://img.rasset.ie/00028de0-1600.jpg)
 
 ### Related:
 

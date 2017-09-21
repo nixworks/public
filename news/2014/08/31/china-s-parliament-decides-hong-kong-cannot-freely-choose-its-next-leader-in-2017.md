@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/08/31/us-china-hongkong-idUSKBN0GU04M20140831)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140831&t=2&i=969097579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7U0EX)
 
 ### Related:
 

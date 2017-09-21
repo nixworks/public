@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-israel-aljazeera-idUSKBN1AM0J6)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170806&t=2&i=1195965806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED750AE)
 
 ### Related:
 

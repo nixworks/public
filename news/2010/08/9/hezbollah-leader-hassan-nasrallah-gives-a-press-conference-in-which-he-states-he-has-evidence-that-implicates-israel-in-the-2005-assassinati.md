@@ -11,6 +11,7 @@ Hezbollah leader Sheikh Hassan Nasrallah reveals what he says is evidence of Isr
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10922045)
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/nasrallah-israel-used-secret-agent-to-turn-lebanon-gov-t-against-hezbollah-1.307008?localLinksEnabled=false)
 4. [Reuters](http://www.reuters.com/article/idUSTRE6784ZV20100809)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

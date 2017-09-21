@@ -23,6 +23,7 @@ Americans in five major states prepared to vote Tuesday in make-or-break preside
 14. [USA Today](http://www.usatoday.com/story/news/2016/03/15/illinois-voters-go-polls-tight-races/81802380/)
 15. [WRAL](http://www.wral.com/voters-without-photo-id-run-into-new-election-rules/15519142/)
 16. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/15/trump-clinton-projected-to-win-florida-primaries/)
+16. [Cover Image](https://s.yimg.com/uu/api/res/1.2/LcwGEpA1F1IgR8wSK5AjZA--/aD00MDA7dz03MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://l.yimg.com/os/publish-images/ivy/2016-03-14/aae5b880-e9f1-11e5-8866-939028278234_trump_chicago_ynl.jpg)
 
 ### Related:
 

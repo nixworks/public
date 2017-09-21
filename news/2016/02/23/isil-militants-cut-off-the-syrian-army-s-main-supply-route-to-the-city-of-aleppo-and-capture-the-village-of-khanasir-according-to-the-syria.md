@@ -8,6 +8,7 @@ Islamic State fighters were reported to have tightened their grip on a Syrian go
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-idUKKCN0VW1IM)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160223&t=2&i=1119678084&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1M0P0)
 
 ### Related:
 

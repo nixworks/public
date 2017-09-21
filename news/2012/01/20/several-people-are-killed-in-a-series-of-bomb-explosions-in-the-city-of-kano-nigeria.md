@@ -8,6 +8,7 @@ KANO (AFP) &#8211; A suicide blast and a series of other strong explosions rocke
 ### Source:
 
 1. [Vanguard](http://www.vanguardngr.com/2012/01/many-feared-dead-as-deadly-suicide-blast-explosions-rock-kano/)
+1. [Cover Image](http://www.vanguardngr.com/vangurad.png)
 
 ### Related:
 

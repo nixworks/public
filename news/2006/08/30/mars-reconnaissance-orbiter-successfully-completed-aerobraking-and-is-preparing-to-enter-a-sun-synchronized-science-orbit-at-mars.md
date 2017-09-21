@@ -8,6 +8,7 @@ BOULDER, Colorado – Ground controllers today successfully performed a major ma
 ### Source:
 
 1. [Space.com](http://www.space.com/missionlaunches/060830_mro_brake.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL3NpdGUvc3BhY2UtYmxhY2sucG5n)
 
 ### Related:
 

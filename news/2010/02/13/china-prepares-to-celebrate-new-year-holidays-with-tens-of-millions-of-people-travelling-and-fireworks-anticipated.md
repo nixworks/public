@@ -9,6 +9,7 @@ Tens of millions of Chinese were marking the start of a lunar New Year.
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE61C0KN20100213)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/7231008/China-celebrates-the-Year-of-the-Tiger.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01577/chinese-new-year_1577966f.jpg)
 
 ### Related:
 

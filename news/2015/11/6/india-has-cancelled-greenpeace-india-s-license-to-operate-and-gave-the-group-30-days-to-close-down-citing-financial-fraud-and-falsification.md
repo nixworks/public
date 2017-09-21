@@ -9,6 +9,7 @@ India has cancelled Greenpeace International&#039;s license to operate and gave 
 
 1. [NDTV](http://www.ndtv.com/india-news/greenpeace-india-claims-its-registration-cancelled-slams-intolerance-1240860)
 2. [Reuters](http://www.reuters.com/article/2015/11/06/india-greenpeace-modi-charity-idUSKCN0SV1OT20151106#ChEWuD1IeoMKODi6.97)
+2. [Cover Image](http://i.ndtvimg.com/mt/2015-01/greenpeace-generic-650.jpg)
 
 ### Related:
 

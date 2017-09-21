@@ -9,6 +9,7 @@ It&#039;s the seventh day of the strike by the pilots of Air India and the passe
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-18055260)
 2. [NDTV](http://www.ndtv.com/article/india/air-india-deadlock-13-international-flights-cancelled-angry-passengers-try-to-block-road-outside-mum-210343)
+2. [Cover Image](http://i.ndtvimg.com/mt/2012-05/air-india-strike-passengers-stranded-295.jpg)
 
 ### Related:
 

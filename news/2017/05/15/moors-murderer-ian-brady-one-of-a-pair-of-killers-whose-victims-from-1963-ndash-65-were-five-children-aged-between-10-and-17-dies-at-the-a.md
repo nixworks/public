@@ -8,3 +8,4 @@ The Moors Murderer Ian Brady has died at a high security psychiatric hospital in
 ### Source:
 
 1. [ITV](http://www.itv.com/news/2017-05-15/moors-murderer-ian-brady-dead-at-age-79/)
+1. [Cover Image](http://news.images.itv.com/image/file/1300180/img.jpg)

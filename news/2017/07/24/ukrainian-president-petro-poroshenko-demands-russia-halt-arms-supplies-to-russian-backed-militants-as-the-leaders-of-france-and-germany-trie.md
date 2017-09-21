@@ -8,6 +8,7 @@ Ukraine leader slams Russia over arms given to rebels
 ### Source:
 
 1. [A News](http://www.anews.com.tr/world/2017/07/24/ukraine-leader-slams-russia-over-arms-given-to-rebels)
+1. [Cover Image](http://ia.tmgrup.com.tr/6e6d95/806/378/0/35/800/410?u=http://i.tmgrup.com.tr/anews/v1/2017/07/24/ukraine-leader-slams-russia-over-arms-given-to-rebels-1500910853939.jpeg)
 
 ### Related:
 

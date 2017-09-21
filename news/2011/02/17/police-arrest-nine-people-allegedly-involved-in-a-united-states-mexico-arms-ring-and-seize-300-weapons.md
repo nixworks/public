@@ -8,6 +8,7 @@ Police arrested nine people and seized 300 firearms, including assault rifles, i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/17/us-phoenix-gunring-idUSTRE71G7SD20110217?feedType=RSS&feedName=domesticNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

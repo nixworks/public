@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Telesurtv](http://www.telesurtv.net/english/analysis/Guyana-Goes-to-the-Polls-in-Presidential-Elections-20150510-0008.html)
+1. [Cover Image](http://www.telesurtv.net/__export/1431272184847/sites/telesur/img/2015/05/13c56b8ed77ca41c05ca94fd50724e6132fd05c5_x1x.jpg_1810791533.jpg)
 
 ### Related:
 

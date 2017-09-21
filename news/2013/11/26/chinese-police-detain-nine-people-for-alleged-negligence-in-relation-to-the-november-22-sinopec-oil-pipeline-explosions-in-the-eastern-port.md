@@ -8,6 +8,7 @@ Chinese police have detained nine people in connection with oil pipeline explosi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/26/us-china-sinopec-blasts-idUSBRE9AP02N20131126)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131126&t=2&i=815081241&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AP05ID00)
 
 ### Related:
 

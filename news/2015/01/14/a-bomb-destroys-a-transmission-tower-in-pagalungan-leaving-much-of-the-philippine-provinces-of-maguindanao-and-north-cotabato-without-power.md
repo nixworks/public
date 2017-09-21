@@ -8,6 +8,7 @@ The bomb, which is planted on the post of Tower 26 in the town of Pagalungan, de
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/80711-bomb-ngcp-tower-maguindanao)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/289CE389363D415B97204382A409535C/maguindanao-explosion-ngcp-20150114.png)
 
 ### Related:
 

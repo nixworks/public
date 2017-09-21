@@ -10,6 +10,7 @@ Theresa May will visit Buckingham Palace to seek to form a government with backi
 1. [BBC](http://www.bbc.com/news/election-2017-40219030)
 2. [The Guardian](https://www.theguardian.com/politics/live/2017/jun/08/general-election-results-2017-uk-live-labour-tories-corbyn-may-election-results-live-news-line)
 3. [The Independent](http://www.independent.co.uk/News/uk/politics/election-results-latest-ukip-seats-vote-share-paul-nuttall-a7780406.html)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/760D/production/_96412203_6d9ec9af-7b82-4631-9cc3-9e1a9a81b92b.jpg)
 
 ### Related:
 

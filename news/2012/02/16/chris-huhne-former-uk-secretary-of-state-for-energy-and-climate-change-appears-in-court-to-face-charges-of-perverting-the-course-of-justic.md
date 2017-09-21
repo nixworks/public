@@ -8,6 +8,7 @@ Former energy secretary Chris Huhne and his ex-wife Vicky Pryce have appeared in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17053575)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58540000/jpg/_58540783_014022329-1.jpg)
 
 ### Related:
 

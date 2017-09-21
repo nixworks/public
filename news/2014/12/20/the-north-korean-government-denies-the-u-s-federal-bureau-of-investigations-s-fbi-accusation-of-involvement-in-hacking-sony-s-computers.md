@@ -11,6 +11,7 @@ Decrying U.S. allegations that it was behind a cyberattack on Sony Pictures as a
 2. [ITV](http://www.itv.com/news/2014-12-20/sony-hackers-mock-fbi-investigation-into-cyber-attack/)
 3. [LA Times](http://www.latimes.com/world/asia/la-fg-north-korea-proposes-joint-investigation-into-sony-hack-20141220-story.html)
 4. [The Daily Beast](http://www.thedailybeast.com/articles/2014/12/20/sony-hackers-guardians-of-peace-troll-fbi-fbi-is-the-best-in-the-world.html)
+4. [Cover Image](http://www.trbimg.com/img-5495b325/turbine/la-fg-north-korea-proposes-joint-investigation-into-sony-hack-20141220)
 
 ### Related:
 

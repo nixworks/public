@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2011/02/04/uk-sudan-protests-idUKTRE7132ZY20110204)
 2. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-68)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110204&t=2&i=327703828&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-04T140254Z_01_BTRE713130X00_RTROPTP_0_UK-SUDAN-PROTESTS)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The President of Poland, Lech Kaczynski, has proposed the creation of a 100,000-
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2006/1106/nato.html)
+1. [Cover Image](https://img.rasset.ie/000062ad-1600.jpg)
 
 ### Related:
 

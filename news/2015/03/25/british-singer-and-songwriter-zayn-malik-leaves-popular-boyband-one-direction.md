@@ -8,6 +8,7 @@ Zayn Malik has spoken of his decision to leave One Direction after being signed 
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/people/zayn-malik-gives-first-interview-since-quitting-one-direction-ive-never-felt-more-in-control-in-my-life-10137740.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/03/25/17/web-zayn-6-getty.jpg)
 
 ### Related:
 

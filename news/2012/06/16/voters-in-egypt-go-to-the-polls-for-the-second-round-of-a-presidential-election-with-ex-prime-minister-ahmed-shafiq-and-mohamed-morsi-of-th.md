@@ -9,6 +9,7 @@ High turnout reported in some governorates as Egyptians turn out to cast ballots
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/political-chaos-as-egypt-chooses-a-new-president/story-e6frfku0-1226397389823)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012616144559963101.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/16/2012616135841114734_20.jpg)
 
 ### Related:
 

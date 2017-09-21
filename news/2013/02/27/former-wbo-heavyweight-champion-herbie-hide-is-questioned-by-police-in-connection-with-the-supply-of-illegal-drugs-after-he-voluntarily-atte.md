@@ -10,6 +10,7 @@ Boxer Herbie Hide has been questioned by police in connection with the supply of
 1. [BBC](http://www.bbc.co.uk/news/uk-england-norfolk-21608418)
 2. [The Sun](http://www.thesun.co.uk/sol/homepage/news/4809904/Herbie-Hide-peddles-cocaine-and-offers-to-throw-title-fight.html)
 3. [WBN](http://www.worldboxingnews.net/news/2013/02/27/herbie-hide-denies-fight-fix-claims-says-hes-retired.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66091000/png/_66091117_herbie.jpg.png)
 
 ### Related:
 

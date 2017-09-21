@@ -8,6 +8,7 @@ Residents say raids were fiercest in last five months, as homes of Houthi politi
 ### Source:
 
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/arab-coalition-steps-air-raids-houthi-held-sanaa-150910180428299.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/10/677cf2e6175b432fbc6fba30db9eb094_18.jpg)
 
 ### Related:
 

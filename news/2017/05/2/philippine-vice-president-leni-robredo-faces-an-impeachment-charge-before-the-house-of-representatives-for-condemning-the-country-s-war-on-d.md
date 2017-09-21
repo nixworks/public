@@ -8,6 +8,7 @@ An impeachment complaint is set to be filed against Vice President Leni Robredo 
 ### Source:
 
 1. [Philippine Star](http://www.philstar.com/headlines/2017/05/02/1695984/impeachment-complaint-be-filed-vs-robredo)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20160803/05_robredo-leni.jpg)
 
 ### Related:
 

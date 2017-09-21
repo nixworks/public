@@ -9,6 +9,7 @@ Romanian Prime Minister Emil Boc has survived the latest no-confidence motion ag
 
 1. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90853/7240928.html)
 2. [euronews](http://www.youtube.com/watch?v=wYaIJqijhnQ)
+2. [Cover Image](https://i.ytimg.com/vi/wYaIJqijhnQ/hqdefault.jpg)
 
 ### Related:
 

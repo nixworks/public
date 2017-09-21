@@ -10,6 +10,7 @@ Heavy rain threatens the Chinese county devastated by landslides, as the death t
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081022256908380.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10934871)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/11/c_13440172.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

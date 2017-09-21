@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Wall Street Journal](http://blogs.wsj.com/riskandcompliance/2014/01/08/treasury-sanctions-sinaloa-cartel-liutenant/)
+1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mother Teresa, revered for her work with the poor in India, is proclaimed a sain
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37269512)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/76C2/production/_91020403_mediaitem91020402.jpg)
 
 ### Related:
 

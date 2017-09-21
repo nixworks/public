@@ -10,6 +10,7 @@ Washington says weapons may remain there after exercise to help Amman deal with 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/201364645929318.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22762613)
 3. [RT](http://rt.com/news/us-jordan-patriot-f16-189/)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/4//2013646817102734_20.jpg)
 
 ### Related:
 

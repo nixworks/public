@@ -9,6 +9,7 @@ SHE was a transcendental performer who had a magic quality that held audiences c
 
 1. [Swissinfo.ch](http://www.swissinfo.ch/eng/news_digest/Joan_Sutherland_dies_in_Geneva.html?cid=28520392)
 2. [Sydney Morning Herald](http://www.smh.com.au/entertainment/opera/the-voice-of-a-century-dead-at-83-20101012-16g8q.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/6/g/5/m/image.related.thumbnail.320x214.16g8q.png/1286836997913.jpg)
 
 ### Related:
 

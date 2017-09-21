@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?view=CN&symbol=&storyID=2006-11-16T165944Z_01_N16319060_RTRUKOC_0_US-USA-CONGRESS-LEADERS-HOYER.xml&WTmodLoc=InvArt-C2-NextArticle-1)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

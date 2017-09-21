@@ -8,6 +8,7 @@ The Modi government has cleared the indigenous construction of seven stealth fri
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Govt-approves-construction-of-7-stealth-frigates-6-nuclear-powered-submarines/articleshow/46281364.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/46281384.cms)
 
 ### Related:
 

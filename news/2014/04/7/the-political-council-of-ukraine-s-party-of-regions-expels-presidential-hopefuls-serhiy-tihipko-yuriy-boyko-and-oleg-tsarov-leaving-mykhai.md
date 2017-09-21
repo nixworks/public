@@ -8,6 +8,7 @@ The political council of the Party of Regions has expelled Sergiy Tigipko, Oleh 
 ### Source:
 
 1. [Interfax Ukraine](http://en.interfax.com.ua/news/general/199490.html)
+1. [Cover Image](http://static.interfax.com.ua/images/placeholder_dark.png)
 
 ### Related:
 

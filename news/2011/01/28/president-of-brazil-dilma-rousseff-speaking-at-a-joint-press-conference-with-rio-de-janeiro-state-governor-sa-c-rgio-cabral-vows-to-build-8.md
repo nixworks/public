@@ -8,6 +8,7 @@ Brazil says it will build 8,000 free houses for people made homeless by floods a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12303930)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

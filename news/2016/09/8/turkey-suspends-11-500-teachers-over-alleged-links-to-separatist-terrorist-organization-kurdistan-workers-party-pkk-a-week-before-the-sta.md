@@ -10,6 +10,7 @@ Turkey is waging the largest operation in its history against Kurdish militants 
 1. [BBC](http://www.bbc.com/news/world-europe-37312116)
 2. [CNN](http://www.cnn.com/2016/09/08/world/turkey-teachers-suspended/)
 3. [Reuters](http://www.reuters.com/article/us-turkey-security-kurds-idUSKCN11E1XU)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Six suspected terrorists killed in a shootout had a stash of explosives and link
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2014-01-01/indonesian-police-in-shootout-with-terrorists/5180656)
+1. [Cover Image](http://www.abc.net.au/news/image/3897398-1x1-700x700.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Kurdish militants look for victory over Islamist rebels in Ras al-Ayn as the Tur
 1. [Daily star News](http://www.dailystar.com.lb/News/Middle-East/2013/Jul-17/223984-turkish-teen-killed-by-gunfire-from-syria-border-clashes.ashx#axzz2ZKEw4AE8)
 2. [Hurriyet Daily News](http://www.hurriyetdailynews.com/kurds-al-nusra-clash-at-turkeys-syrian-border.aspx?pageID=238&nID=50864&NewsCatID=341)
 3. [Sky News](http://news.sky.com/story/1116949/syria-car-bomb-kills-seven-people)
+3. [Cover Image](http://www.hurriyetdailynews.com/images/news/201307/n_50864_1.jpg)
 
 ### Related:
 

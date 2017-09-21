@@ -10,6 +10,7 @@ Aviation agency does not know who owns one-third of the aircraft in US, a gap it
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/20101210111217469799.html)
 2. [CNN](http://edition.cnn.com/2010/US/12/10/faa.re.registration/)
 3. [The Hindu](http://www.thehindu.com/news/article943459.ece)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/10/2010121012144658797_20.jpg)
 
 ### Related:
 

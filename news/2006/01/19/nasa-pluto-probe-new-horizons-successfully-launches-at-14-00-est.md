@@ -9,6 +9,7 @@ New Horizons launched on Jan. 19, 2006 and conducted a six-month-long reconnaiss
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4629486.stm)
 2. [NASA](http://www.nasa.gov/mission_pages/newhorizons/main/index.html)
+2. [Cover Image](http://www.nasa.gov/centers/kennedy/images/content/149060main_newhorizonsar.jpg)
 
 ### Related:
 

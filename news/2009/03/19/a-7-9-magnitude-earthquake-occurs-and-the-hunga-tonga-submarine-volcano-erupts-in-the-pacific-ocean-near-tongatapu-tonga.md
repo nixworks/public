@@ -9,6 +9,7 @@ Scientists sailed Thursday to inspect an undersea volcano that has been erupting
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29769097/)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Tsunami-Warning-After-Earthquake-In-South-Pacific-Near-Tonga/Article/200903315245318?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15245318_Tsunami%3A_Warning_After_Earthquake_In_South_Pacific_Near_Tonga)
+2. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090319-tonga-hlrg-1140p.standard.jpg)
 
 ### Related:
 

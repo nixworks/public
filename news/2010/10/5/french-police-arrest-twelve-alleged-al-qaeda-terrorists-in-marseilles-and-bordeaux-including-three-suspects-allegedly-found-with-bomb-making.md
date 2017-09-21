@@ -9,6 +9,7 @@ Twelve people are detained in two raids targeting groups linked to armed fighter
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010105131833388786.html)
 2. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=190273)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/5/2010105143816179580_20.jpg)
 
 ### Related:
 

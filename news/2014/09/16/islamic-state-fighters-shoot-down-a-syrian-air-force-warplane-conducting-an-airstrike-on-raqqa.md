@@ -8,6 +8,7 @@ Jihadists shot down a Syrian warplane conducting strikes on the Islamic State st
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/world/islamic-state-jihadists-down-syria-warplane-human-rights-monitor-592717)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-09/Islamic_State_militant_Reuters_360.jpg)
 
 ### Related:
 

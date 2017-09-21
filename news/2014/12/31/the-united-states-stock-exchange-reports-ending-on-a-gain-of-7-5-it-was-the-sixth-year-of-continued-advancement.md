@@ -8,6 +8,7 @@ The Dow industrials notched a sixth straight annual gain despite a selloff on We
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/u-s-stock-futures-edge-upward-1420032056)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-GF605_1231pa_G_20141231092348.jpg)
 
 ### Related:
 

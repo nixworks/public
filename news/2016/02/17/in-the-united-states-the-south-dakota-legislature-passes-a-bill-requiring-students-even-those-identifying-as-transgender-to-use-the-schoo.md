@@ -9,6 +9,7 @@ The South Dakota legislature passed a bill requiring students to use the bathroo
 
 1. [CBS News](http://www.cbsnews.com/news/south-dakota-passes-bill-bathrooms-transgender-students/)
 2. [The Christian Science Monitor](http://www.csmonitor.com/USA/Politics/2016/0217/South-Dakota-lawmakers-move-to-ban-transgender-bathrooms)
+2. [Cover Image](http://images.csmonitor.com/csm/2016/02/30358702.sf.jpg?alias=standard_900x600)
 
 ### Related:
 

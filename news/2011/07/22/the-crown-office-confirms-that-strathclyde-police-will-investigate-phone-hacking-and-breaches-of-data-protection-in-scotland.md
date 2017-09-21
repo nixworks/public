@@ -9,6 +9,7 @@ Strathclyde Police are investigating phone hacking and breaches of data protecti
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-14253526)
 2. [The Independent](http://www.independent.co.uk/news/uk/crime/mp-contacts-met-over-murdoch-claims-2318751.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54224000/jpg/_54224063_012483084-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2006/02/22/national/22cnd-dakota.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

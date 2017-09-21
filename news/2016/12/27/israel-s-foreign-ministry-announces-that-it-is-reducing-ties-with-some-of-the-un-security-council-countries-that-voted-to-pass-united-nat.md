@@ -9,6 +9,7 @@ Israel curbed relations with countries that voted in favor of a recent U.N. Secu
 
 1. [Business Insider](http://www.businessinsider.com/israel-suspends-ties-with-12-un-security-council-nations-2016-12)
 2. [NBC News](http://www.nbcnews.com/news/world/israel-curtails-ties-12-countries-over-u-n-settlements-vote-n700426)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_52/1846166/161227-israel-settlement-givat-zeev-1114a_adfcd15c3cb14e5a796f2450c067ba7d.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police say they have arrested a controversial spiritual guru on a rape charge fi
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Guru-arrested-for-rape-20130901)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1949/01a02366e63649b89a27a3d6fe63ee0b.jpg)
 
 ### Related:
 

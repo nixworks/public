@@ -8,6 +8,7 @@ Water-bombers were called in Saturday to try to contain a forest fire burning on
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-25/308264-water-bombers-used-to-douse-forest-fire-on-edge-of-bordeaux.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/07/25/438914_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

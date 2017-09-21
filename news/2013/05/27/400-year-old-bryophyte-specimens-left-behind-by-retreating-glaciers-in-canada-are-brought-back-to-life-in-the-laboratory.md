@@ -9,6 +9,7 @@ Plants covered over by glaciers centuries ago have been seen sprouting new growt
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22656239)
 2. [PNAS](http://www.pnas.org/content/early/2013/05/22/1304199110)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67797000/jpg/_67797387_67797386.jpg)
 
 ### Related:
 

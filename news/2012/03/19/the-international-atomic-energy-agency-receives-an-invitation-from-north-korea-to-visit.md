@@ -8,6 +8,7 @@ The United Nations nuclear watchdog says it received an invitation from North Ko
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/201231920231346831.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/20/201162012111287734_20.jpg)
 
 ### Related:
 

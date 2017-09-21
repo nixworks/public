@@ -8,6 +8,7 @@ Nigerian officials say Boko Haram gunmen have killed seven people in a raid in n
 ### Source:
 
 1. [ENCA](https://www.enca.com/africa/7-killed-nigeria-attack)
+1. [Cover Image](https://images.enca.com/encadrupal/styles/600_383/s3/WEB_PHOTO_NIGBOKO_12012016.jpg)
 
 ### Related:
 

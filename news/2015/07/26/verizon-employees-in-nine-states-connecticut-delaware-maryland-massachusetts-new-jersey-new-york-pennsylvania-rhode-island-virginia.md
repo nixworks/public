@@ -8,6 +8,7 @@ Verizon workers in nine states have voted to go on strike if necessary over a di
 ### Source:
 
 1. [New Haven Register](http://www.nhregister.com/business/20150726/verizon-workers-in-connecticut-8-other-states-authorize-strike)
+1. [Cover Image](http://www.nhregister.com/apps/pbcsi.dll/storyimage/NH/20150726/NEWS/150729620/AR/0/AR-150729620.jpg?Maxh=1500&Maxw=1500)
 
 ### Related:
 

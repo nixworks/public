@@ -8,3 +8,4 @@ Italian news reports say rescue crews have discovered some 17 bodies in the hull
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2014/12/05/reports-at-least-17-bodies-found-in-migrant-ship-off-libya-italy-insists-it/?intcmp=HPBucket)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/12/05/reports-at-least-17-bodies-found-in-migrant-ship-off-libya-italy-insists-it/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449950354847.jpg?ve=1)

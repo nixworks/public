@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Syrian Live Map](http://syria.liveuamap.com/en/2017/27-february-tiger-forces-reached-the-sdf-line--)
+1. [Cover Image](https://syria.liveuamap.com/images/shr/003.png)
 
 ### Related:
 

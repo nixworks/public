@@ -8,6 +8,7 @@ Austria&#x27;s decision to only accept 80 asylum seekers a day while letting tho
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/german-interior-minister-hits-unacceptable-austrian-asylum-cap-233249722.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/hTpByHU1Px5zgualrqEnTQ--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9042d9eae28c8bb9f1bb7ec932fd171b25b39475.jpg)
 
 ### Related:
 

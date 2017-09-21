@@ -8,6 +8,7 @@ Rebels have killed a Russian policeman and injured 14 others in Chechnya, police
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/29/us-russia-chechnya-clash-idUSBRE95S04H20130629)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

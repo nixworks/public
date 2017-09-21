@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Idaho Press-Tribune](http://www.idahopress.com/news/world/socialists-take-french-parliament-sweep-power/article_4802c836-6873-574f-814b-7e085cd8c7d5.html)
+1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/2/26/226f2fac-48aa-52f0-9012-0adbd10ce9da/4fe22f7f42a79.preview-620.jpg?resize=493%2C630)
 
 ### Related:
 

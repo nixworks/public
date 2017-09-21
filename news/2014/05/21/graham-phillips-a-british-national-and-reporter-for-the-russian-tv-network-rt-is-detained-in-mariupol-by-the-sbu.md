@@ -8,6 +8,7 @@ A British national working as a journalist for a Russian TV station is detained 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-27506545)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/75007000/jpg/_75007111_graham.jpg)
 
 ### Related:
 

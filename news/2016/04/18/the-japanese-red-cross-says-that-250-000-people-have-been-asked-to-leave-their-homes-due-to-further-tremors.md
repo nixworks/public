@@ -8,6 +8,7 @@ Nearly 250,000 people are told to leave their homes amid fears of further tremor
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36069405)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1032C/production/_89284366_29ecb1eb-65e3-4bad-af7a-e1df221c3d7a.jpg)
 
 ### Related:
 

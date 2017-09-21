@@ -8,6 +8,7 @@ The suspects were planning to use explosives to free an Al Qaeda sympathizer fro
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2007/12/21/world/europe/22belgium.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

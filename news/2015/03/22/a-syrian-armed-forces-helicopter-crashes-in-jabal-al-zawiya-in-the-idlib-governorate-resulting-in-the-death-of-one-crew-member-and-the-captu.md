@@ -8,6 +8,7 @@ A Syrian government helicopter crashes in Idlib province, with four crew capture
 ### Source:
 
 1. [BBC](http://m.bbc.com/news/world-middle-east-32009863)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81829000/jpg/_81829404_helicopter2.jpg)
 
 ### Related:
 

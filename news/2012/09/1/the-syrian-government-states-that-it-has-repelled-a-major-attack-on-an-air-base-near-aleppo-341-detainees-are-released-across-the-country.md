@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19448107)
 2. [SANA](http://sana.sy/eng/337/2012/09/01/439090.htm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62616000/jpg/_62616686_62616685.jpg)
 
 ### Related:
 

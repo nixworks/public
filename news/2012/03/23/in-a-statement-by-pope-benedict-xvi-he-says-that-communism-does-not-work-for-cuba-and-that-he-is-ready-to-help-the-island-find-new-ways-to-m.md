@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/23/us-cuba-pope-idUSBRE82M0KT20120323)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120323&t=2&i=586262580&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82M0ZE300)
 
 ### Related:
 

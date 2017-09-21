@@ -8,6 +8,7 @@ Inflation in China slowed dramatically in February, as temporary price hikes rel
 ### Source:
 
 1. [CNNMoney](http://money.cnn.com/2012/03/08/news/economy/china_cpi_inflation/)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/03/08/news/economy/china_cpi_inflation/china-cpi-prices.gi.01.jpg)
 
 ### Related:
 

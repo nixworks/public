@@ -8,6 +8,7 @@ Authorities in Alabama say a man opened fire in a hospital, wounding an officer 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/12/15/alabama-hospital-shooting.html)
+1. [Cover Image](https://i.cbc.ca/1.1584943.1379056017!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-alabama-hospital-shootin.jpg)
 
 ### Related:
 

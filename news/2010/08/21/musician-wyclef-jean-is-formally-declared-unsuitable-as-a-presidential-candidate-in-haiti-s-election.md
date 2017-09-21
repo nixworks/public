@@ -11,6 +11,7 @@
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11034608)
 3. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/20/haiti.wyclef.bid/?hpt=T1#fbid=kfQgteZwI1N&wom=false)
 4. [Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5g3O8VKDqyjXetm61QuZ4GOQIPLag)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japan underestimated the tsunamihazard for its nuclear plants, a U.N. nuclear sa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/01/japan-iaea-report-idUST9E7GG01520110601)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

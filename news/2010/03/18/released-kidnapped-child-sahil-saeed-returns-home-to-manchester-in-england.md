@@ -9,6 +9,7 @@ Sahil Saeed, the five-year-old boy freed by kidnappers in Pakistan after his fam
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8575435.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/7471320/Sahil-Saeed-returns-home-with-father-after-kidnapping-in-Pakistan.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01599/saeed6_1599061a.jpg)
 
 ### Related:
 

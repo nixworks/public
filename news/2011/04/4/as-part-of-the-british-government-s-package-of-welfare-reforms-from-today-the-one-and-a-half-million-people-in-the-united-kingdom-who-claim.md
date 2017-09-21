@@ -8,6 +8,7 @@ The 1.5 million people who claim incapacity benefit will start to receive letter
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12954116)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

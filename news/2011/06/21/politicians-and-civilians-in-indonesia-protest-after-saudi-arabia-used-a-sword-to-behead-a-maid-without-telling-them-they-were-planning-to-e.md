@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13860097)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/21/indonesia-%E2%80%98feels-cheated%E2%80%99-saudi-government.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53551000/jpg/_53551163_53545349.jpg)
 
 ### Related:
 

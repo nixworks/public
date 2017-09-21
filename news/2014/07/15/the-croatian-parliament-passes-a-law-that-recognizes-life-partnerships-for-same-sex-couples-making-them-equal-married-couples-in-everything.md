@@ -8,6 +8,7 @@
 ### Source:
 
 1. [queer.de](http://www.queer.de/detail.php?article_id=21946)
+1. [Cover Image](http://www.queer.de/publisher/pics/Kroatien-Parlament-800.jpg)
 
 ### Related:
 

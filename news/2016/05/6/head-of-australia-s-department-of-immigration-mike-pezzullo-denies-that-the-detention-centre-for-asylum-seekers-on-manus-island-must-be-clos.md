@@ -8,6 +8,7 @@ Australia says the Manus Island asylum seeker processing facility in PNG could r
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/303191/australia-immigration-head-denies-manus-must-be-closed)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

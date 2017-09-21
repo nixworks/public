@@ -8,6 +8,7 @@ Iraq will not extend withdrawal deadlines for U.S. troops set out in a bilateral
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5422D320090503)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090503&t=2&i=9957253&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-03T201245Z_01_BTRE5421K5C00_RTROPTP_0_IRAQ)
 
 ### Related:
 

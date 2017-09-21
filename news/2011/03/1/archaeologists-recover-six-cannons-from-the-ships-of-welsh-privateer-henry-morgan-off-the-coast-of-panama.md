@@ -8,6 +8,7 @@ Archaeologists have recovered six cannons from the ships of Welsh privateer Henr
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-sci-morgans-guns-20110301,0,558911.story?track=rss)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

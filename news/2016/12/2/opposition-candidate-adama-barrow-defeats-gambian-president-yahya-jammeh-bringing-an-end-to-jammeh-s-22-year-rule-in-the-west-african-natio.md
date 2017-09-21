@@ -8,6 +8,7 @@ A former security guard at an Argos catalogue store in London has defeated one o
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/12/02/gambian-president-yahya-jammeh-concedes-defeat-22-years-rule/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/02/JS114875576_AFP_Adama-Barrow-xlarge_trans_NvBQzQNjv4BqoNmzp2YP1rCto6mSO2OFXVs8pxOcv4nODg8ZjYkw1-4.jpg)
 
 ### Related:
 

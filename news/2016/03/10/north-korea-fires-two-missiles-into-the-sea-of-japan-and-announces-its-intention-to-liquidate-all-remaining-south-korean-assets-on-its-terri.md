@@ -8,6 +8,7 @@ North Korea looked to ratchet up already elevated tensions on the Korean peninsu
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/north-korea-says-liquidate-south-assets-joint-projects-025316445.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/X62XPiZwCZ0PPztb_VPdNQ--/aD02ODM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/8445a5ea0981d85454460a3be681b780db37f9c8.jpg)
 
 ### Related:
 

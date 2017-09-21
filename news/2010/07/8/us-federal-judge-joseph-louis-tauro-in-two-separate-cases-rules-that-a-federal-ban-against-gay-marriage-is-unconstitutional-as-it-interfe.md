@@ -8,6 +8,7 @@ A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstituti
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/38155762/ns/us_news-life/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

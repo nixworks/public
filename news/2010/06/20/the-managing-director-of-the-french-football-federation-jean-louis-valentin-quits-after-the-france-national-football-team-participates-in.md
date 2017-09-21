@@ -16,6 +16,7 @@ Nigeria midfielder Sani Kaita has revealed he received death threats via e-mail 
 7. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/world-cup-2010/teams/nigeria/7840566/World-Cup-2010-Nigerias-Sani-Kaita-receives-death-threats-after-seeing-red-against-Greece.html)
 8. [The Guardian](http://www.guardian.co.uk/football/2010/jun/20/france-raymond-domenech-nicolas-anelka)
 9. [Xinhua](http://news.xinhuanet.com/english2010/sports/2010-06/21/c_13359747.htm)
+9. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01661/kaita_1661896a.jpg)
 
 ### Related:
 

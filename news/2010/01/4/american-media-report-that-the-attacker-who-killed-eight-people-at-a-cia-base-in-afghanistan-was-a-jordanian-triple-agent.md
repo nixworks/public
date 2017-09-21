@@ -9,6 +9,7 @@ The suicide bomber who killed eight people inside a CIA base in Afghanistan last
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gp1tvZkaEWq2i7mc2yIwKjrUIgtA)
 2. [MSNBC](http://content.usatoday.com/communities/ondeadline/post/2010/01/reports-cia-bomber-was-al-qaeda-double-agent/1)
+2. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2010/01/04/zawahirix-inset-community.jpg)
 
 ### Related:
 

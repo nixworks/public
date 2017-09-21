@@ -8,6 +8,7 @@ Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapp
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/28/colombia-farc-journalist-idUSL1E8GS42120120528)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

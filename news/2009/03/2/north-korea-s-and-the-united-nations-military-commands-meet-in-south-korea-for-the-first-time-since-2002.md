@@ -8,6 +8,7 @@ North Korean generals met the U.S.-led U.N. military command in South Korea for 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5210DA20090302)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090302&t=2&i=8475790&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-02T195704Z_01_BTRE5210ROY00_RTROPTP_0_KOREA-NORTH-USA)
 
 ### Related:
 

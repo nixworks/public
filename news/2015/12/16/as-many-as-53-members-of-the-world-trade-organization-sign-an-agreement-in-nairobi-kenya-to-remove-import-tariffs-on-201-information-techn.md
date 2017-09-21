@@ -9,6 +9,7 @@ More than 50 members of theWorld Trade Organization signed an agreement on Wedne
 
 1. [Reuters](http://www.reuters.com/article/wto-trade-idUSL1N1451JF20151216)
 2. [The Financial Express](http://www.financialexpress.com/article/economy/wto-members-in-agreement-on-1-3-trillion-it-trade-deal/180508/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

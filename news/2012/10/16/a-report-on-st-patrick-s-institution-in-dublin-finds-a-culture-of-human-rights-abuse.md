@@ -8,6 +8,7 @@ A damning report on St Patrick&#39;s Institution in Dublin has found a culture t
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2012/1016/human-rights-of-st-pats-prisoners-violated.html)
+1. [Cover Image](https://img.rasset.ie/0006856f-1600.jpg)
 
 ### Related:
 

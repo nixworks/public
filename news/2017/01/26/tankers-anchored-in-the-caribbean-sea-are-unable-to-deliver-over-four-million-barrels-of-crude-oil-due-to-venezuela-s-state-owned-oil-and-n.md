@@ -8,6 +8,7 @@ More than 4 million barrels of Venezuelan crude and fuels are sitting in tankers
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-venezuela-pdvsa-tankers-idUSKBN15A0JA)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170126&t=2&i=1170220909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0P0AO)
 
 ### Related:
 

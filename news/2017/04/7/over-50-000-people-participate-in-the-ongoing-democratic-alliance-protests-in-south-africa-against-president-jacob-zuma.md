@@ -9,6 +9,7 @@ Desmond Tutu made an appearance at protests in Cape Town
 
 1. [NewsTalk](http://www.newstalk.com/Thousands-protest-in-South-Africa-against-President-Zouma)
 2. [Sowetan Live](http://www.sowetanlive.co.za/news/2017/04/08/zumamustfall-campaign-to-hold-national-day-of-action)
+2. [Cover Image](http://www.newstalk.com/content/000/images/000235/242384_54_news_hub_200299_656x500.jpg)
 
 ### Related:
 

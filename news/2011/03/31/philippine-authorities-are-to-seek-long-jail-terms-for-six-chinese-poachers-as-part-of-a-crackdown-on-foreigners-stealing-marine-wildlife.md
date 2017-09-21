@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Sin Chew Jit Poh](http://www.mysinchew.com/node/55440)
+1. [Cover Image](http://www.mysinchew.com/sites/all/themes/mysinchewv2/img/mysinchew_logo_fbv1.jpg)
 
 ### Related:
 

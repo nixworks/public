@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18622264)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61217000/jpg/_61217697_barclays.logo.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The death toll from a powerful earthquake in south-eastern Turkey rises above 20
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15437014)
 2. [CNN](http://edition.cnn.com/2011/10/23/world/europe/turkey-earthquake/?hpt=wo_c2)
 3. [Reuters and ABC News Australia](http://www.abc.net.au/news/2011-10-24/death-toll-climbs-from-earthquake-in-turkey/3597436)
+3. [Cover Image](http://www.abc.net.au/news/image/3597728-1x1-700x700.jpg)
 
 ### Related:
 

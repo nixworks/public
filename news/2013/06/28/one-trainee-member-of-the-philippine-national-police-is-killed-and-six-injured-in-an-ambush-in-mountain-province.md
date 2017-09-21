@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/06/28/13/1-pnp-trainee-killed-6-wounded-ambush)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/topics/tvpatrol/2012september/121310_npa.jpg)
 
 ### Related:
 

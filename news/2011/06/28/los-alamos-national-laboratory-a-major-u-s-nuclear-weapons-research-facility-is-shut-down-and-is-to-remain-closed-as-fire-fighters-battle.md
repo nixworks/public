@@ -8,6 +8,7 @@ One of the top nuclear weapons research facilities in the US is to remain closed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13937781)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53740000/gif/_53740442_l88ilw0h.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police are on the streets of Tottenham, north London, where overnight riots saw 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-14434318)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54459000/gif/_54459791_r94tfca1.gif)
 
 ### Related:
 

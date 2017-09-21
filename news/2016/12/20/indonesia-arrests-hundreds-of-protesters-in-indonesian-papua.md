@@ -8,6 +8,7 @@
 ### Source:
 
 1. [teleSur](http://www.telesurtv.net/english/news/More-Than-500-Arrested-in-West-Papuan-Independence-Protests--20161220-0008.html)
+1. [Cover Image](http://www.telesurtv.net/__export/1482244230861/sites/telesur/img/news/2016/12/20/trikora-wamena_crop.jpg_1810791533.jpg)
 
 ### Related:
 

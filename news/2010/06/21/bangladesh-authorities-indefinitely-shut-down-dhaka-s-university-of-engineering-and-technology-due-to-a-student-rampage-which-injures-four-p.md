@@ -8,6 +8,7 @@ Bangladesh closes a leading university after students went on a rampage demandin
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10362563.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

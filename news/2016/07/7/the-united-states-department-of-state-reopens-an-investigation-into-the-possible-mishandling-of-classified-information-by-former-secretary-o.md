@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Seattle Times](http://www.seattletimes.com/nation-world/nation-politics/apnewsbreak-state-department-reopens-clinton-emails-probe/)
+1. [Cover Image](https://static.seattletimes.com/wp-content/uploads/2016/07/CLINTON_100_DAYS_1-1200x630.jpg)
 
 ### Related:
 

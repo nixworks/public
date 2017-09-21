@@ -8,6 +8,7 @@ Arrivals and departures to be limited and flight cancellations still expected at
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net//news/europe/2010/12/2010122072125443655.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/19/20101219122854444797_20.bmp)
 
 ### Related:
 

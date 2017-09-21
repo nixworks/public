@@ -8,3 +8,4 @@ DAMASCUS, Syria (AP) — Mortar shells exploded near the Damascus Opera House on
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/mortar-fire-kills-2-near-opera-syrian-capital-080739969.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/BMPwcNei5Ftkshy8Fp_Giw--/aD0xMzQyO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/308d277563aa7e0d500f6a706700fc4c.jpg)

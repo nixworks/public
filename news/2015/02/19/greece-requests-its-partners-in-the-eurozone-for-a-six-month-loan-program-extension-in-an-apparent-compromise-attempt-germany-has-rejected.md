@@ -8,6 +8,7 @@ Germany rejects a Greek request for a six-month extension to its eurozone loan p
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/business-31532755)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81100000/jpg/_81100497_81100496.jpg)
 
 ### Related:
 

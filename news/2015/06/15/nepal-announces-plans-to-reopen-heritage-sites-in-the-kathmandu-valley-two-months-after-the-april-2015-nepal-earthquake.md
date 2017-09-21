@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33130231)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/83625000/jpg/_83625845_durbar.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Detained BBC reporter Urunboy Usmonov is both physically and psychologically fra
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13953216)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53448000/jpg/_53448240_dsc_0160.jpg)
 
 ### Related:
 

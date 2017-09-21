@@ -8,6 +8,7 @@ The Dow posted its worst week in more than three years as oil prices continued t
 ### Source:
 
 1. [FOX Business](http://www.foxbusiness.com/markets/2014/12/12/us-stock-index-futures-lower-as-oil-continues-rout/?intcmp=bigtopmarketfeatures&intcmp=bigtopteaserside)
+1. [Cover Image](http://global.fncstatic.com/static/cq/fb/img/all/og-fox-business.png)
 
 ### Related:
 

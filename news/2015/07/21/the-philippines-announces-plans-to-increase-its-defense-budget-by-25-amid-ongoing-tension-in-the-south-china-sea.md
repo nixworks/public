@@ -8,6 +8,7 @@ MANILA (AFP) - The Philippines is planning a 25 per cent hike in its defence bud
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/se-asia/philippines-hikes-defence-budget-by-25-amid-china-tensions)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/07/21/military210715.jpg?itok=Ab2ZJSnm)
 
 ### Related:
 

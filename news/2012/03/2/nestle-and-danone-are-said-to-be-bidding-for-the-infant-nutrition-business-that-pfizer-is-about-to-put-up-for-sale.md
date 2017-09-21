@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/02/us-pfizer-nutrition-idUSTRE8210VS20120302)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120302&t=2&i=577708643&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE82112Z100)
 
 ### Related:
 

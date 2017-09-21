@@ -8,6 +8,7 @@ Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/29/hijacked-egyptair-passenger-plane-lands-in-cyprus-reports)
+1. [Cover Image](https://i.guim.co.uk/img/media/07ca2b2b432bc48bdd84b9b677c941c2160a8c65/0_0_5381_3229/master/5381.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=19f3600b9794417106763585d0702108)
 
 ### Related:
 

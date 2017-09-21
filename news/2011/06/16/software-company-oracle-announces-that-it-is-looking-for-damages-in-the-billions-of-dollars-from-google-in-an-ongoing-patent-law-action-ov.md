@@ -8,6 +8,7 @@ Oracle Corp is seeking damages &quot;in the billions of dollars&quot; from Googl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/16/us-oracle-google-lawsuit-idUSTRE75F6DI20110616)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110616&t=2&i=440446172&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-16T200859Z_01_BTRE75F1IFN00_RTROPTP_0_GOOGLE-MASTERCARD)
 
 ### Related:
 

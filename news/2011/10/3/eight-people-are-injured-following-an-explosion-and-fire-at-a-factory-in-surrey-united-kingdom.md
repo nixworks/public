@@ -8,6 +8,7 @@ Eight people are treated in hospital, four of them for serious injuries, followi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-surrey-15154314)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55795000/jpg/_55795637_fire2.jpg)
 
 ### Related:
 

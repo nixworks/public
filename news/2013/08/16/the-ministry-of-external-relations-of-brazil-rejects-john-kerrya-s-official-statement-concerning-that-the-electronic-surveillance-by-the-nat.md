@@ -8,6 +8,7 @@ U.S. may lose $4 billion fighter jet deal
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/world/brazil-rejects-kerry-explanation-on-nsa-surveillance/article5022748.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article11902204.ece/ALTERNATES/LANDSCAPE_615/BRAZIL_KERRY)
 
 ### Related:
 

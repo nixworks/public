@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-africa-32261544)
 2. [Deutsche Welle](http://www.dw.de/several-killed-in-nigeria-election-violence/a-18376242)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82250000/jpg/_82250090_82250089.jpg)
 
 ### Related:
 

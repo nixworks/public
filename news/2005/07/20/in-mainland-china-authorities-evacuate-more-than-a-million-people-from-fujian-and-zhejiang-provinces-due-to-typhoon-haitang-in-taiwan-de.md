@@ -12,6 +12,7 @@ Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualti
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/PEK324099.htm)
 4. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/20/2003264219)
 5. [Xinhua](http://news.xinhuanet.com/english/2005-07/20/content_3243247.htm)
+5. [Cover Image](http://www.taipeitimes.com/images/2005/07/20/thumbs/20050719201633.jpeg)
 
 ### Related:
 

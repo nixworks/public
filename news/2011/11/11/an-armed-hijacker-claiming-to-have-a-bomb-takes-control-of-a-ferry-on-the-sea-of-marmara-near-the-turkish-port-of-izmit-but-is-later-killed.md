@@ -9,6 +9,7 @@ Assailant armed with explosives had taken control of ferry carrying 20 people; a
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jYhjEzfeWcoUHJSouTbGZSXwyTSQ?docId=fd2c648f55224d4bb478ace076f48afa)
 2. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=245285)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=178076)
 
 ### Related:
 

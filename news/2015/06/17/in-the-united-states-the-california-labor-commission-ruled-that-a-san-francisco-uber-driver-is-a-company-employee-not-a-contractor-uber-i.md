@@ -10,6 +10,7 @@ An Uber driver in San Francisco will be paid more than $4,000 in expenses.
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/06/17/415262801/california-labor-commission-rules-uber-driver-is-an-employee-not-a-contractor)
 2. [Time Magazine](http://time.com/3924941/uber-california-labor-commission-ruling/)
 3. [U.S. News & World Report](http://www.usnews.com/news/articles/2015/06/18/employee-or-contractor-uber-ruling-could-affect-other-companies?google_editors_picks=true)
+3. [Cover Image](https://media.npr.org/assets/img/2015/06/17/ap175188032273_wide-4e60bb8c6f21968dc8d82e6058dda8c2edca982b.jpg?s=1400)
 
 ### Related:
 

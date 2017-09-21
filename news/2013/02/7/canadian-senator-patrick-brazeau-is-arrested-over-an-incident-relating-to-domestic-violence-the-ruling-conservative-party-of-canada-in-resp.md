@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2013/02/07/pol-brazeau-kicked-out-caucus.html)
+1. [Cover Image](https://i.cbc.ca/1.1386959.1378970573!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-brazeau-patrick-03690375.jpg)
 
 ### Related:
 

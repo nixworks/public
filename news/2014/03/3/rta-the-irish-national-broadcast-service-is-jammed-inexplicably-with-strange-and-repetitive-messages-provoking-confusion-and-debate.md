@@ -8,6 +8,7 @@ RTE’s Prime Time appeared to suffer a technical difficulty this evening during
 ### Source:
 
 1. [Independent](http://www.independent.ie/irish-news/technical-difficulties-at-rte-leave-viewers-stumped-30058868.html)
+1. [Cover Image](http://www.independent.ie/incoming/article30058867.ece/ALTERNATES/h342/ukrainian.PNG)
 
 ### Related:
 

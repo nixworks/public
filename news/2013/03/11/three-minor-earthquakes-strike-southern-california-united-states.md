@@ -8,6 +8,7 @@ Three earthquakes have shaken Southern California, according to the U.S. Geologi
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/03/11/three-earthquakes-hit-southern-california/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

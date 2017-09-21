@@ -8,6 +8,7 @@ Thai Prime Minister Abhisit Vejjajiva insisted on Wednesday that an Asian summit
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUKBKK47086420090408)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090408&t=2&i=9630644&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-04-08T163343Z_01_BTRE5371A0B00_RTROPTP_0_THAILAND-POLITICS)
 
 ### Related:
 

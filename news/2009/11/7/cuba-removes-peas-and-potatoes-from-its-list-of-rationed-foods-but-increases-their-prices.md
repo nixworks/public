@@ -8,6 +8,7 @@ Cubans can enjoy a new freedom from this week - citizens of the communist island
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/cuba/6520656/Cubans-are-finally-free---to-buy-peas-and-potatoes.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01518/cuba_1518550a.jpg)
 
 ### Related:
 

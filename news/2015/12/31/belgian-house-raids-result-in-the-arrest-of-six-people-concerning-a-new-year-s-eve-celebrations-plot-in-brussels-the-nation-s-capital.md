@@ -10,6 +10,7 @@ Jan Bartunek and Philip Blenkinsop
 1. [CNN](http://www.cnn.com/2015/12/31/europe/munich-germany-train-stations/)
 2. [NBC News](http://www.nbcnews.com/storyline/isis-terror/two-munich-germany-train-stations-evacuated-over-terrorism-threat-n488721)
 3. [Reuters](http://www.reuters.com/article/us-belgium-security-idUSKBN0UE0P720151231)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151231&t=2&i=1106075518&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBU0EO)
 
 ### Related:
 

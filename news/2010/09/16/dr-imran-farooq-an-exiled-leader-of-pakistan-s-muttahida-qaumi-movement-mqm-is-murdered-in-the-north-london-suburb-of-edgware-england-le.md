@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-11340976)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8008075/Prominent-Pakistani-politician-murdered-outside-his-London-home.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Deadly storms in NSW and the ACT have claimed three lives amid grave concerns fo
 
 1. [AAP via 9 News](http://www.9news.com.au/national/2016/06/07/09/31/deadly-storms-in-nsw-act-and-tasmania)
 2. [ABC](http://www.abc.net.au/news/2016-06-07/woman's-body-found-latrobe-tasmania-major-flooding-wreaks-havoc/7483726)
+2. [Cover Image](http://9news.static9.net.au/content/images/default-share-image.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Buddhist vigilantes in western Myanmar attacked a bus and killed nine Muslims, p
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/06/04/myanmar-violence-idINDEE85307820120604)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

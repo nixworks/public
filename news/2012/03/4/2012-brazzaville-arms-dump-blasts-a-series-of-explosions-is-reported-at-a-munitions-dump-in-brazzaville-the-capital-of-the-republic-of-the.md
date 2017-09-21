@@ -9,6 +9,7 @@ Three large explosions rocked Brazzaville, the capital of Congo Republic, and a 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17249480)
 2. [Reuters](http://in.reuters.com/article/2012/03/04/congo-explosions-idINDEE82304620120304)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

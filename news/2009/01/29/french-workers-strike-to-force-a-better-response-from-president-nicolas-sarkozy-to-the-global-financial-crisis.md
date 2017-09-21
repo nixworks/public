@@ -8,6 +8,7 @@ Hundreds of thousands of French workers staged a nationwide strike on Thursday t
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE50S1MC20090129)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090129&t=2&i=8040322&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-01-29T082448Z_01_BTRE50S0NDF00_RTROPTP_0_FRANCE)
 
 ### Related:
 

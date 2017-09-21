@@ -8,6 +8,7 @@ Bill meant to deny pension payments from MK who fled Israel after being suspecte
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4028624,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

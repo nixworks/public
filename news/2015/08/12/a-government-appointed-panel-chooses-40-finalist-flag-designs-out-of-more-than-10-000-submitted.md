@@ -9,6 +9,7 @@ New Zealand is considering changing its flag. The public was encouraged to come 
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/article30831906.html)
 2. [The New York Post](http://nypost.com/2015/08/12/new-zealand-will-select-new-flag-from-these-40-designs/)
+2. [Cover Image](http://pics.mcclatchyinteractive.com/news/nation-world/world/dql654/picture30831900/ALTERNATES/LANDSCAPE_1140/New%20Zealand%20Flag)
 
 ### Related:
 

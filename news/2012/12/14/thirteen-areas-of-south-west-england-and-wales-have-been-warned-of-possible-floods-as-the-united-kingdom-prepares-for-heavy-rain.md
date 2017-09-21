@@ -8,6 +8,7 @@ Britain is again on flood alert today as high winds and heavy rainfall begin to 
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/update/2012-12-14/uk-on-flood-alert-ahead-of-heavy-rain/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/134282/732744ceed5aa99d_1355462498_9j-4aaqsk.jpeg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Israeli warplanes raided at leasttwo targets in the Gaza Strip on Friday, Palest
 2. [Reuters](http://www.reuters.com/article/idUSLDE6AI19P20101119)
 3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=196019)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3987012,00.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

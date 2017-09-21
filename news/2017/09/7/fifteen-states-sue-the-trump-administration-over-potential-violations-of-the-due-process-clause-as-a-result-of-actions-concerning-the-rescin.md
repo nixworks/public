@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/09/07/549047054/states-sue-to-block-daca-termination-citing-trumps-racial-animus)
+1. [Cover Image](https://media.npr.org/assets/img/2017/09/07/ap_17249690593396_wide-bf3d4971b15d2787689ca12200615aacf5d2fb00.jpg?s=1400)
 
 ### Related:
 

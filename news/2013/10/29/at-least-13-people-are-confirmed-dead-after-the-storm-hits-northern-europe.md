@@ -8,6 +8,7 @@ A once-in-a-decade storm claims lives in the Netherlands, France, Germany and so
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-10-29/thirteen-dead-in-europes-worst-storm-in-a-decade/5051248)
+1. [Cover Image](http://www.abc.net.au/news/image/5051418-1x1-700x700.jpg)
 
 ### Related:
 

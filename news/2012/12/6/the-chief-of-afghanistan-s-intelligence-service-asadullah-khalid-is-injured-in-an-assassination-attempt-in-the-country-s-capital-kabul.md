@@ -8,6 +8,7 @@ Head of intelligence Asadullah Khalid survives assassination attempt in the capi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/12/2012126135813500308.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/6/2012126143044328734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Myanmar election authorities confirm that landmark polls will go ahead in Novemb
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2015-10-14/myanmar-election-authority-drops-proposed-election-delay/6854626)
 2. [The Guardian](http://www.theguardian.com/world/2015/oct/13/myanmar-election-could-be-postponed-due-to-flooding-fears)
+2. [Cover Image](http://www.abc.net.au/news/image/6854752-1x1-700x700.jpg)
 
 ### Related:
 

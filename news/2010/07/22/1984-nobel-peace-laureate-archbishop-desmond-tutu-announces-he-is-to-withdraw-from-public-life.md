@@ -13,6 +13,7 @@ Nobel&#x20;peace&#x20;laureate&#x20;Archbishop&#x20;Desmond&#x20;Tutu&#x20;annou
 4. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE66L0G020100722)
 5. [The New York Times](http://www.nytimes.com/2010/07/23/world/africa/23tutu.html?_r=1&partner=rss&emc=rss)
 6. [euronews](http://www.euronews.net/2010/07/22/desmond-tutu-to-retire-from-public-duties/)
+6. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/desmond-tutu.jpg)
 
 ### Related:
 

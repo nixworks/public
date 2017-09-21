@@ -9,6 +9,7 @@ Switzerland&amp;#39;s Parliament votes to officially withdraw long-dormant appli
 
 1. [Euronews](http://www.euronews.com/2016/06/16/switzerland-ends-bid-to-join-european-economic-area-after-24-years/)
 2. [Malta Today](http://www.maltatoday.com.mt/news/europe/66539/switzerland_withdraws_application_to_join_eu_#.V2L3kKKxWfg)
+2. [Cover Image](http://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/swiss.png)
 
 ### Related:
 

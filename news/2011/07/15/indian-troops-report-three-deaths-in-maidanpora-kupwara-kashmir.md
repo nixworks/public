@@ -8,6 +8,7 @@ Security forces in Indian-administered Kashmir kill three militants in an ongoin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14164787)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54085000/jpg/_54085952_54085951.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Bafta Film Awards 2012 as it happened: Michael Hogan&#039;s irreverrent revi
 
 1. [The Australian](http://www.theaustralian.com.au/news/arts/silent-movie-the-artist-wins-best-film-at-uk-awards/story-e6frg8n6-1226269415950)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/film/baftas/9075468/Bafta-Awards-2012-as-it-happens.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02136/Streep_2136431a.jpg)
 
 ### Related:
 

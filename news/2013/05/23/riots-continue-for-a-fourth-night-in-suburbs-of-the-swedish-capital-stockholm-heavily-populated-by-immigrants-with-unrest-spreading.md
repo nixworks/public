@@ -8,6 +8,7 @@ Stockholm unrest spreads to south of city as violence continues into fourth nigh
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/news/world/europe/sweden-riots-spread-to-south-of-capital-1.1404176)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1404175&origw=960)
 
 ### Related:
 

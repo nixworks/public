@@ -8,6 +8,7 @@ The Cyprus leaders hold UN-mediated talks aimed at reaching a deal on reuniting 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37895581)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13452/production/_92303987_cyprus.jpg)
 
 ### Related:
 

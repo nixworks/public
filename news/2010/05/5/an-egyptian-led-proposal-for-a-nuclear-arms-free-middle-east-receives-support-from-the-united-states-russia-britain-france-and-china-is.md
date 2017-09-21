@@ -8,6 +8,7 @@ The United States, Russia, Britain, France and China voiced support on Wednesday
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKN0519401520100505)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100505&t=2&i=102452429&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-05T154843Z_01_BTRE6440YQS00_RTROPTP_0_NUCLEAR-TREATY-AHMADINEJAD)
 
 ### Related:
 

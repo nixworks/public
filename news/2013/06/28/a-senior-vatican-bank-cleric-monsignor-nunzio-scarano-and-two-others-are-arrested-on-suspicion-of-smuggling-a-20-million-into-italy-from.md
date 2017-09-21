@@ -8,3 +8,4 @@ Monsignor Nunzio Scarano is arrested over allegations of corruption and fraud in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23094320)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68432000/jpg/_68432123_li74xuac.jpg)

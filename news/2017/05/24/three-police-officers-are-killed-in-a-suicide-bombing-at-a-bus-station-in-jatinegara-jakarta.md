@@ -8,6 +8,7 @@ TWO people have been killed and several injured, including a police officer, fol
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world/asia/explosion-in-east-jakarta-near-bus-station-indonesia-police/news-story/968baaa67dfac2852aa35a93ff7fac9a)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/3d2984372e7ff10ac14f197be0e31c16)
 
 ### Related:
 

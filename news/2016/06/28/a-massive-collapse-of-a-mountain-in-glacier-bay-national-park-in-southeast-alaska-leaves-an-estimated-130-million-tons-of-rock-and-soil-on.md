@@ -8,6 +8,7 @@ The slide in Glacier Bay National Park was the equivalent of about 60 million me
 ### Source:
 
 1. [Alaska Dispatch News](http://www.adn.com/alaska-news/2016/07/02/massive-landslide-crashes-onto-glacier-in-southeast-alaska/)
+1. [Cover Image](https://www.adn.com/resizer/o6zePyN7Mjkt7HZH63IHiqVLydE=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/07/02151353/160702-glacierbay-01.jpg?token=bar)
 
 ### Related:
 

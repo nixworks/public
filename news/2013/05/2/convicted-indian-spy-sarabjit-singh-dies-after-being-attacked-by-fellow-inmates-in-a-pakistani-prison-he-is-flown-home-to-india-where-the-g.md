@@ -8,6 +8,7 @@ A special aircraft carrying the body of Sarabjit Singh, the Indian prisoner who 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/cheat-sheet/sarabjit-singh-dies-after-delays-plane-carrying-his-body-takes-off-from-lahore-361957)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

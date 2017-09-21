@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/syrian-president-bashar-assad-face-bank-note-48403548)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_e25aa6273db242899fb84e6a33215c03_16x9_992.jpg)
 
 ### Related:
 

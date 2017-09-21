@@ -8,6 +8,7 @@ The Tungurahua volcano in Ecuador erupted twice yesterday night
 ### Source:
 
 1. [Daily Mirror](http://www.mirror.co.uk/news/world-news/ecuador-volcano-spectacular-eruption-spews-3376770)
+1. [Cover Image](http://i4.mirror.co.uk/incoming/article3376772.ece/ALTERNATES/s1200/Eruption.png)
 
 ### Related:
 

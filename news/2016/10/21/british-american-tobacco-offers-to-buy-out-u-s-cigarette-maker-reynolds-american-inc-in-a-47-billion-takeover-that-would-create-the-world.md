@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-reynolds-m-a-bat-idUSKCN12L0JO)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161021&t=2&i=1158406196&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9K12L)
 
 ### Related:
 

@@ -9,6 +9,7 @@ NASA’s Cyclone Global Navigation Satellite System (CYGNSS) mission will improv
 
 1. [NASA](https://www.nasa.gov/cygnss)
 2. [SpaceFlight 101](http://spaceflight101.com/pegasus-xl-cygnss-launch-success)
+2. [Cover Image](http://www.nasa.gov/sites/default/files/files/nasa_insignia_300.jpg)
 
 ### Related:
 

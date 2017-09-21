@@ -11,6 +11,7 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4183243.stm)
 3. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=34711)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7347475)
+4. [Cover Image](http://www.catholicculture.org/images/social/fb/CatholicCulture.png)
 
 ### Related:
 

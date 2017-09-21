@@ -8,6 +8,7 @@ German police in the eastern city of Chemnitz detain three people as they contin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37596829)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1757D/production/_91631659_7c2a3439-0781-4c6a-a4b8-86a8b2c77e1f.jpg)
 
 ### Related:
 

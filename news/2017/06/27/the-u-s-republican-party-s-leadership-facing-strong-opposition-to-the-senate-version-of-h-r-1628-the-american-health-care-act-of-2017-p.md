@@ -9,6 +9,7 @@ U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tues
 
 1. [AP via ''The Mercury News](http://www.mercurynews.com/2017/06/27/budget-office-sees-22-million-fewer-covered-with-senate-bill/)
 2. [Reuters](http://www.reuters.com/article/us-usa-healthcare-republican-idUSKBN19I11V)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170627&t=2&i=1190744939&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5Q1PH)
 
 ### Related:
 

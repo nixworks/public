@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/health/ebola-outbreak-sierra-leone-declares-temporary-lockdown-1.2757827)
+1. [Cover Image](https://i.cbc.ca/1.2758080.1410032449!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/doctors-without-borders.jpg)
 
 ### Related:
 

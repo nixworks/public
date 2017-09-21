@@ -8,6 +8,7 @@ The drummer pled guilty to threatening to kill in New Zealand.
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/life/2015/04/20/acdc-drummer-phil-rudd-pleads-guilty-to-threatening-to-kill/26099129/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

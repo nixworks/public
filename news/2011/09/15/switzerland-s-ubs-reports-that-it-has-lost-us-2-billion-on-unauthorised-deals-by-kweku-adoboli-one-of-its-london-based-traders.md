@@ -9,6 +9,7 @@ Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a Lond
 
 1. [Reuters](http://www.reuters.com/article/2011/09/15/us-ubs-idUSTRE78E15I20110915)
 2. [The Guardian](http://www.guardian.co.uk/business/2011/sep/15/ubs-rogue-trader-man-arrested)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110915&t=2&i=501854925&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-15T203746Z_01_BTRE78E1LB100_RTROPTP_0_UBS)
 
 ### Related:
 

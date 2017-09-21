@@ -8,6 +8,7 @@ At least seven people were injured Sunday when a low intensity bomb went off in 
 ### Source:
 
 1. [Deccan Herald](http://www.deccanherald.com/content/351789/seven-injured-bengal-bomb-blast.html)
+1. [Cover Image](http://www.deccanherald.com/images/logo.jpg)
 
 ### Related:
 

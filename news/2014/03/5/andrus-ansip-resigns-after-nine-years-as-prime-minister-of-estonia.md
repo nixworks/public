@@ -8,6 +8,7 @@ After nine years in office, Estonian PM Andrus Ansip announces his resignation t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26430899)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73348000/jpg/_73348676_020403375-1.jpg)
 
 ### Related:
 

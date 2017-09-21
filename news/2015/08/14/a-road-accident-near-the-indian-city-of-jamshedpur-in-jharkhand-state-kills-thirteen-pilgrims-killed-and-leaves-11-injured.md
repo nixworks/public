@@ -8,6 +8,7 @@ Thirteen pilgrims, including six women, on Friday were killed and 11 others inju
 ### Source:
 
 1. [The International Business News Live](http://www.ibnlive.com/news/india/13-pilgrims-killed-11-injured-in-road-accident-in-jharkhand-1039457.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2015/07/jamshedpur.jpg)
 
 ### Related:
 

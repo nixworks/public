@@ -8,6 +8,7 @@ A woman suicide bomber killed at least 31 people and wounded 35 in a crowded mar
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKBN19018K?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170609&t=2&i=1188315781&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED580SV)
 
 ### Related:
 

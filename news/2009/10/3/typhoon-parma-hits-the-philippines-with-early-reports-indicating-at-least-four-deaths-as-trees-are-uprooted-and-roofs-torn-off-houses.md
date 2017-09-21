@@ -9,6 +9,7 @@ A powerful typhoon slammed into the northeastern Philippines on Saturday, killin
 
 1. [Philippine Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091004-228270/Metro-spared-North-hit)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE5910VE20091003)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091002&t=2&i=11818816&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-02T215021Z_01_BTRE5910HGB00_RTROPTP_0_ASIA-TYPHOON)
 
 ### Related:
 

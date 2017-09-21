@@ -8,6 +8,7 @@ Two suicide bombers attack a restaurant in the Somali capital, killing a securit
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2012/Nov-03/193783-double-suicide-attack-in-somali-capital-some-wounded-police-witness.ashx#axzz2BArlJmt8)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/11/03/113897_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

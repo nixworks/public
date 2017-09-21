@@ -8,6 +8,7 @@ The Iraqi prime minister said he had directed the military to conduct airstrikes
 ### Source:
 
 1. [RT](https://www.rt.com/news/378485-iraq-airstrikes-isis-syria/)
+1. [Cover Image](https://img.rt.com/files/2017.02/article/58b025aec46188490c8b462f.JPG)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Former army general Tin Aye resigns from the new Burmese parliament, just two we
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12483025)
 2. [Irrawaddy](http://www.irrawaddy.org/highlight.php?art_id=20770)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

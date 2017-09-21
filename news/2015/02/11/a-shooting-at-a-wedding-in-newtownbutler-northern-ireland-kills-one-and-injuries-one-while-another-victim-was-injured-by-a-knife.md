@@ -8,6 +8,7 @@ A man in his 60s dies after being shot outside a Catholic church in County Ferma
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-31424976)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/80943000/jpg/_80943528_wedding-dress-blurred.jpg)
 
 ### Related:
 

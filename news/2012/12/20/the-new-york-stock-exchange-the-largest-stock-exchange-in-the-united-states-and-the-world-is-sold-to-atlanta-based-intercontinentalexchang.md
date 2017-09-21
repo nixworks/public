@@ -8,6 +8,7 @@ Sale of nearly 200-year-old institution to Intercontinental Exchange comes amid 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2012/dec/20/nyse-sold-8bn-intercontinentalexchange)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/12/20/1356020597148/New-York-Stock-Exchange-008.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=e5dab6621d674f7812708edaa2e54577)
 
 ### Related:
 

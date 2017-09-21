@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Mediafax](http://www.mediafax.ro/social/incendiul-din-clubul-colectiv-29-de-persoane-au-murit-anunta-raed-arafat-legistii-fac-duminica-primele-autopsii-procurorii-incep-audierile-14869510)
+1. [Cover Image](http://storage0.dms.mpinteractiv.ro/media/1/1/1688/14869510/1/incendiu-club-colectiv-bucuresti-marian-ilie-04.jpg?width=300&height=300)
 
 ### Related:
 

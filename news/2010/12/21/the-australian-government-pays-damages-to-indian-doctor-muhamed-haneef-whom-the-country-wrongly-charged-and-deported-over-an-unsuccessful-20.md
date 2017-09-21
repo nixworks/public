@@ -8,3 +8,4 @@ The Australian government is to pay &quot;substantial&quot; damages to an Indian
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12049120)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

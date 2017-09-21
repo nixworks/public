@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/2015/0916/Polygamist-community-in-Utah-devastated-by-once-in-a-century-flood)
+1. [Cover Image](http://images.csmonitor.com/csm/2015/09/935131_1_0916-WFLOODS_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

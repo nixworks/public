@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/maoists-kill-7-forward-bloc-members-73246)
+1. [Cover Image](http://i.ndtvimg.com/mt/2010-12/puruliaattack295.jpg)
 
 ### Related:
 

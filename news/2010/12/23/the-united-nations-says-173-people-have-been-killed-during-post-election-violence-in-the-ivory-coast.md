@@ -8,6 +8,7 @@ Post-election violence kills 173 in Ivory Coast, the UN says, as pressure mounts
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12067318)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

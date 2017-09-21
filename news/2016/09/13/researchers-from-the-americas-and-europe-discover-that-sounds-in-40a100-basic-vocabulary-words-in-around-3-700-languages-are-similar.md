@@ -8,6 +8,7 @@ Humans across the globe may be actually speaking the same language after scienti
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/science/2016/09/12/humans-may-speak-a-universal-language-say-scientists/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/science/2016/09/13/language-news-xlarge_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg)
 
 ### Related:
 

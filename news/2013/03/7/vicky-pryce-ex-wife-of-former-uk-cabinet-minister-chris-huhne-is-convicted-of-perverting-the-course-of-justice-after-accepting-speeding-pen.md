@@ -8,6 +8,7 @@ Vicky Pryce, the former wife of ex-MP Chris Huhne, is found guilty of perverting
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21496566)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66264000/jpg/_66264325_gky75ekd.jpg)
 
 ### Related:
 

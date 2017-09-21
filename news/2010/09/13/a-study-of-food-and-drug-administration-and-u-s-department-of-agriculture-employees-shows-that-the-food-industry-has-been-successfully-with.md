@@ -8,6 +8,7 @@ The food industry is jeopardizing U.S. public health by withholding information 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68C39320100913)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100913&t=2&i=203258548&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-13T212624Z_01_BTRE68C193X00_RTROPTP_0_US-FOOD-SAFETY-STUDY)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Hong Kong police arrested a woman on Monday accused of beating her Indonesian ma
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/01/20/hong-kong-police-arrest-woman-in-indonesian-maid-abuse-case/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

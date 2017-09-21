@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via New Europe](http://neurope.eu/wires/the-latest-greek-police-come-under-fire-as-they-arrest-suspected-migrant-smugglers/)
+1. [Cover Image](https://www.neweurope.eu/wp-content/uploads/2015/09/111InTheNews.jpg)
 
 ### Related:
 

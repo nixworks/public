@@ -10,6 +10,7 @@ Dozens of people were killed on Friday as Syrian protesters demonstrated over of
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/03/syria.unrest/index.html)
 2. [The New York Times](http://www.nytimes.com/2011/06/04/world/middleeast/04syria.html?_r=1)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8555576/Syria-bloody-protests-over-the-slaying-of-30-children.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01912/Syria-sum_1912776a.jpg)
 
 ### Related:
 

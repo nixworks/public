@@ -9,6 +9,7 @@ Charlie Gard has died following his near year-long battle with a rare genetic di
 
 1. [BBC](http://www.bbc.com/news/uk-england-london-40752120)
 2. [Sky News](http://news.sky.com/story/terminally-ill-charlie-gard-dies-in-hospice-10965654)
+2. [Cover Image](http://e3.365dm.com/17/04/1600x900/961ce383447ffdf5b13fa8c4a658931b2d4c11f6a9d68928474016852d917c9f_3921675.jpg?20170411142413)
 
 ### Related:
 

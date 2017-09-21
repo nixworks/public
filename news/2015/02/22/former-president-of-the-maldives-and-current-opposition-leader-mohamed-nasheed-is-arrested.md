@@ -8,6 +8,7 @@ Maldives Police Service (MPS) apprehended former President and opposition leader
 ### Source:
 
 1. [V News](http://vnews.mv/37822)
+1. [Cover Image](http://vnews-assets.s3-website-us-east-1.amazonaws.com/posts/big_61036.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ MP Naomi Long condemns those who put up the flag off Island Street, accusing the
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/uk-news/2014/jul/01/ku-klux-klan-flag-erected-east-belfast-racist-tensions)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/1/1404209589122/Ku-Klux-Klan-flag-erected-009.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=824ffd57ef5351598333b86682bbf521)
 
 ### Related:
 

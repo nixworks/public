@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-10-08/new-zealand-pm-john-key-sworn-in/5798742)
+1. [Cover Image](http://www.abc.net.au/news/image/200208-1x1-700x700.jpg)
 
 ### Related:
 

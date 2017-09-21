@@ -8,6 +8,7 @@ Hundreds of flights in France are cancelled as air traffic controllers launch a 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-04-09/flights-cancelled-as-french-air-traffic-controllers-strike/6379422)
+1. [Cover Image](http://www.abc.net.au/news/image/6379424-1x1-700x700.jpg)
 
 ### Related:
 

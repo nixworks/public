@@ -9,6 +9,7 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/10/15/israeli-military-says-it-has-found-destroyed-second-tunnel-dug-from-gaza-strip/)
 2. [The Times of Israel](http://www.timesofisrael.com/idf-finds-blows-up-explosives-laden-tunnel-from-gaza/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/10/F131013DB004.jpg)
 
 ### Related:
 

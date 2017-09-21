@@ -8,6 +8,7 @@ Muhammadu Buhari was elected president of Nigeria, defeating the incumbent Goodl
 ### Source:
 
 1. [Bloomberg via ''Melbourne Age](http://www.theage.com.au/world/muhammadu-buhari-wins-nigerian-presidency-in-first-power-shift-since-1999-20150331-1mcd1p.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/1/m/c/n/7/b/image.related.articleLeadwide.620x349.1mcd1p.png/1427894938618.jpg)
 
 ### Related:
 

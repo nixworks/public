@@ -9,6 +9,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-12T094127Z_01_L12741661_RTRUKOC_0_US-SYRIA.xml&pageNumber=0&imageid=&cap=&sz=13&WTModLoc=NewsArt-C1-ArticlePage2)
 2. [The Times](http://www.timesonline.co.uk/article/0,,11069-2353683,00.html)
+2. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

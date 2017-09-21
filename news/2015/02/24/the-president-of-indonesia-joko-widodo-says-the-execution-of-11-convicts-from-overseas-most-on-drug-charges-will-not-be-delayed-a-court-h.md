@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/02/24/us-indonesia-australia-president-idUSKBN0LS0AD20150224)
 2. [Voice of America](http://www.voanews.com/content/reu-indonesia-executions-wont-be-delayed-despite-mercy-pleas/2656213.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

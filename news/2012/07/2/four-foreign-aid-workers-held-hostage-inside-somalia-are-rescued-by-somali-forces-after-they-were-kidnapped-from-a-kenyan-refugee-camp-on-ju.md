@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18670091)
 2. [Reuters via Yahoo! News](http://news.yahoo.com/four-foreign-aid-workers-rescued-somalia-army-062948312.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61307000/jpg/_61307219_0324052584b43512140f6a706700de83-1.jpg)
 
 ### Related:
 

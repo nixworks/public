@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-monsanto-m-a-bayer-exclusive-idUSKCN0YF1ZG)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160525&t=2&i=1138671109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4O16X)
 
 ### Related:
 

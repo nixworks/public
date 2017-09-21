@@ -11,6 +11,7 @@ Nationwide shutdown announced after prime minister refused calls to step down.
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8655767.stm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/01/nepal.rally/index.html)
 4. [The News International](http://www.thenews.com.pk/daily_detail.asp?id=237150)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

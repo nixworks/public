@@ -8,6 +8,7 @@ An Egyptian court sentenced 26 people to death for plotting attacks on ships in 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/egypt-court-sentences-26-death-over-suez-canal-bomb-plot-n38936)
+1. [Cover Image](http://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Chinese authorities are imposing an emergency ban on tourists approaching pandas
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/01/16/china-pandas-deadly-virus/21863317/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

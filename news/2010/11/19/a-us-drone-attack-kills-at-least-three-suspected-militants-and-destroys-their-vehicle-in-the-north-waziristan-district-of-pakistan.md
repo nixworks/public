@@ -9,6 +9,7 @@ Islamabad, Nov 19 (IANS) At least three suspected militants were killed in a US 
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5g0EQT2xN2jexniKxN-baG8LEcr_Q?docId=CNG.99861eaf54cf6c0a84ff42586488e7ed.7a1)
 2. [Sify](http://sify.com/news/drone-strike-kills-three-in-pakistan-news-international-kltskxhecgh.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

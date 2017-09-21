@@ -13,6 +13,7 @@
 4. [MarketWatch](http://www.marketwatch.com/News/Story/us-recession-fears-spark-deep/story.aspx?guid=%7BFA34EC4F%2DFFF6%2D4BEE%2DAF28%2DE41F832BF4AC%7D)
 5. [MarketWatch](http://www.marketwatch.com/news/story/stock-futures-pointing-sharp-losses/story.aspx?guid=%7B9A894790%2D5D69%2D48C6%2D8303%2D18EE41CA5D1C%7D)
 6. [thisislondon.co.uk](http://www.thisislondon.co.uk/news/article-23433407-details/Black+Monday+as+biggest+FTSE+crash+since+911+wipes+off+nearly+%A360bn+in+shares/article.do)
+6. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

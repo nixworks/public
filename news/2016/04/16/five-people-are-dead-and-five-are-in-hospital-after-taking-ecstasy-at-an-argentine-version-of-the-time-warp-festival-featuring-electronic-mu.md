@@ -8,6 +8,7 @@ Five people died and another five were hospitalized in critical condition on Sat
 ### Source:
 
 1. [Reuters via Yahoo!](https://www.yahoo.com/news/five-dead-five-hospital-argentine-electronic-music-festival-200518464.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

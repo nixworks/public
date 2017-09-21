@@ -8,6 +8,7 @@ Broadway musical Once is the big winner at the Drama Desk Awards in New York, pi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18345039)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57173000/jpg/_57173487_once3_464ap.jpg)
 
 ### Related:
 

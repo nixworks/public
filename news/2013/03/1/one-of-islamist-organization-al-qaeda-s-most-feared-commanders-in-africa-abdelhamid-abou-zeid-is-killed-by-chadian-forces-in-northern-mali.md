@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21637829)
 2. [Reuters](http://www.reuters.com/article/2013/03/01/uk-mali-rebels-qaeda-idUKBRE9200QB20130301)
 3. [Voice of  America](http://www.voanews.com/content/chad-says-forces-killed-top-alqaida-commander/1613626.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66159000/jpg/_66159829_66159828.jpg)
 
 ### Related:
 

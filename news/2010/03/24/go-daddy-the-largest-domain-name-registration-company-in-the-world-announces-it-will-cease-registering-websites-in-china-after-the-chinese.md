@@ -10,6 +10,7 @@
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hgDCdxtut3UUTo9a9XPrNDx0Tf_AD9EL83S00)
 2. [CNET](http://news.cnet.com/8301-30684_3-20001095-265.html)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/24/AR2010032401543.html)
+3. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

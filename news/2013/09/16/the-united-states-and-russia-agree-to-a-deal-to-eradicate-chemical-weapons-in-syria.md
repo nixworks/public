@@ -8,6 +8,7 @@ Syria will waste no time in making arrangements to eradicate its chemical arms o
 ### Source:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2013-09-15/syria-hails-us-russia-deal/4959286)
+1. [Cover Image](http://www.abc.net.au/news/image/4921550-1x1-700x700.jpg)
 
 ### Related:
 

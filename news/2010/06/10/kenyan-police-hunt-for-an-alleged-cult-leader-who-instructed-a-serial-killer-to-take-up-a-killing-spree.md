@@ -10,6 +10,7 @@ Kenyan police are hunting for an alleged cult leader who instructed a self-confe
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10284299.stm)
 2. [Capital FM](http://www.capitalfm.co.ke/news/Kenyanews/Kenyan-police-hunt-killer-cult-members-8756.html)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100610145712615C979747)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

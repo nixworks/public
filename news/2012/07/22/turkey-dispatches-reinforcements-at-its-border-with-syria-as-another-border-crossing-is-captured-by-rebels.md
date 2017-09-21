@@ -13,6 +13,7 @@ Four Syrian refugees and four members of the Turkish security forces were hurt o
 4. [Rudaw](http://www.rudaw.net/english/news/syria/4984.html)
 5. [The Daily Telegraph'' via ''The Vancouver Sun](http://www.vancouversun.com/news/Assad+forces+regain+control+Damascus/6974193/story.html)
 6. [The Guardian](http://www.guardian.co.uk/world/2012/jul/22/syria-battle-blazes-damascus-aleppo?newsfeed=true)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

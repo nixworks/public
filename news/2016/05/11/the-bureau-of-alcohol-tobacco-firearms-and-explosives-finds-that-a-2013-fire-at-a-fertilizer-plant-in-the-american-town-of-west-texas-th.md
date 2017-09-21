@@ -8,6 +8,7 @@ Officials launched a hunt Wednesday for possible criminal suspects in the 2013 e
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/05/11/fire-in-texas-fertilizer-plant-blast-was-criminal-officials-say.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/05/11/0/0/694940094001_4889099489001_reg.jpg?ve=1)
 
 ### Related:
 

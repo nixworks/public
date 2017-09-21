@@ -8,6 +8,7 @@ This is the best alternative so far.
 ### Source:
 
 1. [VB News](http://venturebeat.com/2014/12/12/isohunt-unofficially-resurrects-the-pirate-bay/)
+1. [Cover Image](https://venturebeat.com/wp-content/uploads/2014/12/the_old_pirate_bay.png?fit=900%2C490&amp;strip=all)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Kyrgyz President Kurmanbek Bakiyev named long-standing ally Daniyar Usenov Wedne
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8318502.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59K1UW20091021)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091021&t=2&i=12024132&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-21T095304Z_01_BTRE59K0RGM00_RTROPTP_0_KYRGYZSTAN-GOVERNMENT)
 
 ### Related:
 

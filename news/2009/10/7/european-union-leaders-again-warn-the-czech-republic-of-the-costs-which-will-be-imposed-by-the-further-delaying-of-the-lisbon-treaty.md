@@ -8,6 +8,7 @@ EU leaders have warned the Czech Republic of the costs of further delaying the L
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1007/eulisbon.html)
+1. [Cover Image](https://img.rasset.ie/0002a54c-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The sale gives Google access to DoubleClick’s software and its relationships w
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/04/14/technology/14DoubleClick.html?ref=technology)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

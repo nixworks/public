@@ -8,6 +8,7 @@ Three women are killed in a stampede at a crowded three-storey nightclub in the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12201916)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

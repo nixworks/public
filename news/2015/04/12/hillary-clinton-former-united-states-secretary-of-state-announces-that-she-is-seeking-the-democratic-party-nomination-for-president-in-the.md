@@ -8,6 +8,7 @@ Low-key announcement on Twitter, video and email will serve as early test of ‘
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/us-news/2015/apr/12/hillary-clinton-presidential-campaign-sunday-announcement-twitter-video-email)
+1. [Cover Image](https://i.guim.co.uk/img/media/9a72ad25b7034ab55e844791617007c02f27ea53/235_141_3117_1872/3117.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=bc5941d69bb2ba885a9bbecd2a20b45a)
 
 ### Related:
 

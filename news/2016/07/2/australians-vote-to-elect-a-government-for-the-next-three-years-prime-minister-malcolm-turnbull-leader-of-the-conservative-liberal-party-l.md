@@ -9,6 +9,7 @@ For Malcolm Turnbull and Bill Shorten, the size of the win or loss will determin
 
 1. [Reuters](http://in.reuters.com/article/australia-election-idINKCN0ZI00H)
 2. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/federal-election-2016-opinion/federal-election-2016-will-malcolm-and-bill-survive-its-all-about-the-margin-20160702-gpwzds.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/g/p/w/u/h/e/image.related.socialLead.620x349.gpwzds.png/1467593887368.jpg)
 
 ### Related:
 

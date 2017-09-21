@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4488849.stm)
 3. [News24](http://www.news24.com/News24/Africa/News/0,6119,2-11-1447_1696571,00.html)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8314991)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

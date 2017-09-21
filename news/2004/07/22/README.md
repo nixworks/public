@@ -1,7 +1,7 @@
 ## [2004-07-22](/news/2004/07/22/index.md)
 
 ### [ Police seal off the Washington, DC, office building housing John Kerry's presidential campaign headquarters after an envelope containing a suspicious white powder is opened by a Kerry staff member. ](/news/2004/07/22/police-seal-off-the-washington-dc-office-building-housing-john-kerry-s-presidential-campaign-headquarters-after-an-envelope-containing-a.md)
-_Context: John Kerry, Washington DC, presidential campaign_
+_Context: John Kerry, Washington DC, presidential candidate_
 
 ### [ Major North American brewers Coors and Molson announce they will go ahead with a proposed merger, creating the world's fifth-biggest brewing company. ](/news/2004/07/22/major-north-american-brewers-coors-and-molson-announce-they-will-go-ahead-with-a-proposed-merger-creating-the-world-s-fifth-biggest-brewin.md)
 _Context: Coors, Merger, Molson, brewing_

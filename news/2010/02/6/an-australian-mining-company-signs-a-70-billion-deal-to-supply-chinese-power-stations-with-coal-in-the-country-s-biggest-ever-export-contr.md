@@ -10,6 +10,7 @@ MINING magnate Clive Palmer has secured Australia&#039;s biggest export deal, wi
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8501777.stm)
 2. [Sydney Morning Herald](http://www.smh.com.au/business/70-billion-export-deal-with-china-20100206-njvz.html)
 3. [The Hindu](http://beta.thehindu.com/news/international/article102174.ece?homepage=true)
+3. [Cover Image](http://www.smh.com.au/content/dam/images/n/k/2/p/image.related.thumbnail.320x214.njvz.png/1265462213707.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/20091123153440928758.html)
 2. [RIA Novosti](http://en.rian.ru/russia/20091123/156954394.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Officers bound man&#39;s hands to a van, and he was dragged along ground on a pu
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/02/28/abuse-police-south-africa/1953283/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

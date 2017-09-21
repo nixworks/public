@@ -13,6 +13,7 @@ Flash floods brought on by torrential rains cause at least 15 deaths in central 
 4. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20100808100453157C478137)
 5. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE67709O20100808?feedType=RSS&feedName=topNews)
 6. [The Age](http://news.theage.com.au/breaking-news-world/14-dead-in-central-europe-floods-20100809-11qqp.html)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

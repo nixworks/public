@@ -8,6 +8,7 @@ Watching the livestream of Monty Python&#039;s last ever performance on GOLD, it
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/culture/tvandradio/tv-and-radio-reviews/10975695/Monty-Python-live-mostly-review-poignant-and-predictable-but-tremendous-fun.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02979/Python_2979202k.jpg)
 
 ### Related:
 

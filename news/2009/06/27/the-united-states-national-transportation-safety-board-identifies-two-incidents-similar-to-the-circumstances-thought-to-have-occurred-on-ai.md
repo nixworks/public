@@ -8,6 +8,7 @@ Two recent Airbus A330 flights may have had similar computer malfunctions to tho
 ### Source:
 
 1. [The Christian Science Monitor](http://www.csmonitor.com/2009/0627/p02s01-usgn.html)
+1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
 ### Related:
 

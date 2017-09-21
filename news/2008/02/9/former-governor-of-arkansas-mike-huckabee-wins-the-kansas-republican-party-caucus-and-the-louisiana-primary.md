@@ -11,6 +11,7 @@
 2. [Reuters](http://www.reuters.com/article/politicsNews/idUSN1055815420080210)
 3. [The Oregonian](http://www.oregonlive.com/news/oregonian/index.ssf?/base/news/1202626509223010.xml&coll=7)
 4. [The Washington Post](http://blog.washingtonpost.com/the-trail/2008/02/09/huckabee_wins_kansas_caucus.html)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080210&t=2&i=3099297&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-10T053830Z_01_N10558154_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The US temporarily pulls out of talks with Pakistan over re-opening vital supply
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18401465)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60834000/jpg/_60834172_exbev1x9.jpg)
 
 ### Related:
 

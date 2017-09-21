@@ -9,6 +9,7 @@ Russia says transsexual and transgender people will be barred from driving on me
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-30735673)
 2. [The Moscow Times](http://www.themoscowtimes.com/news/article/new-russian-regulation-says-transgender-people-unfit-to-drive/514156.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80146000/jpg/_80146544_moscarsafp.jpg)
 
 ### Related:
 

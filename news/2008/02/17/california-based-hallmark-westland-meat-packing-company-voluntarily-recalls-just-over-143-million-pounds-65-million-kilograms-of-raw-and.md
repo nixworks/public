@@ -8,6 +8,7 @@ A video showing sick animals being shoved with forklifts has led to the largest 
 ### Source:
 
 1. [AP](http://www.msnbc.msn.com/id/23212514/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Video/080218/nn_pwilliams_beefrecall_080218.standard.jpg)
 
 ### Related:
 

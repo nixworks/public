@@ -8,6 +8,7 @@ Another diversion attack by Azerbaijan
 ### Source:
 
 1. [panorama.am](http://www.panorama.am/en/society/2012/06/06/diversia/)
+1. [Cover Image](http://panorama.am/news_images/247/739826_3/f55c5e47191c04_55c5e47191ff1.thumb.jpg)
 
 ### Related:
 

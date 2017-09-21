@@ -8,6 +8,7 @@ Subaru is recalling about 199,000 cars and SUVs for a second time to fix rusty b
 ### Source:
 
 1. [NBC Bay Area](http://www.nbcbayarea.com/news/national-international/Subaru-Recalls-199K-Vehicles-to-Fix-Brake-Line-Rust-287919091.html?_osource=SocialFlowTwt_BAYBrand)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*712/subaru+forester+2009.jpg)
 
 ### Related:
 

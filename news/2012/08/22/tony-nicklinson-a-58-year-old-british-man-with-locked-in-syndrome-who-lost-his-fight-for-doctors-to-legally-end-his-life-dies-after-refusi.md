@@ -8,6 +8,7 @@ Tony Nicklinson, a man with locked-in syndrome who fought for the right for doct
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-19341722)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60991000/jpg/_60991966_e0db9773-fa89-4f4b-adb2-82e20da17817.jpg)
 
 ### Related:
 

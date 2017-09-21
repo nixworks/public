@@ -8,6 +8,7 @@ The United States Government has filed its application to have Megaupload founde
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10789958)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20129/SCCZEN_220312NZHSRIDOTCOM02_1024x768.JPG)
 
 ### Related:
 

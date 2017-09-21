@@ -8,6 +8,7 @@ Incumbent Serzh Sargsyan garners 61 percent of vote, according to partial result
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/02/20132184572132556.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/19/20132190255929734_20.jpg)
 
 ### Related:
 

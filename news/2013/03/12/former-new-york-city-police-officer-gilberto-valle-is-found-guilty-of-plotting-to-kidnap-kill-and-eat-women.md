@@ -8,6 +8,7 @@ New York City police officer Gilberto Valle is convicted of plotting to murder h
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21761077)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66245000/jpg/_66245987_66245986.jpg)
 
 ### Related:
 

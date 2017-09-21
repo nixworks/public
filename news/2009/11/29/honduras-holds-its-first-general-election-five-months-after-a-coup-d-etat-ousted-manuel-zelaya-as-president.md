@@ -10,6 +10,7 @@ Hondurans are voting on Sunday for a new president, hoping to unlock a political
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8384874.stm)
 2. [The New York Times](http://www.nytimes.com/2009/11/29/world/americas/29honduras.html)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/11/28/AR2009112802368.html)
+3. [Cover Image](https://static01.nyt.com/images/2009/11/29/world/29honduras_CA0/thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The peace pact outlines steps to end the conflict in the island of Mindanao by 2
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/asia-pacific/2012/10/2012101524117145978.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/15/2012101571122240734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Samsung has announced an unprecedented recall of the Galaxy Note 7 just weeks af
 
 1. [Reuters](http://www.reuters.com/article/us-samsung-elec-smartphones-replacement-idUSKCN1180TV)
 2. [The Verge](http://www.theverge.com/2016/9/2/12767670/samsung-galaxy-note-7-recall-fire-risk)
+2. [Cover Image](https://cdn0.vox-cdn.com/thumbor/K_phezk4-LamCqozzrIjUK4ueos=/0x105:2000x1230/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50629623/samsung-note-7-9899.0.0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President-elect Mohammed Morsi promises crowd of mostly Islamist supporters to w
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57463933/egypt-leader-mohammed-morsi-vows-to-free-omar-abdel-rahman-infamous-blind-sheik-jailed-in-u.s/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/06/29/58456178-a645-11e2-a3f0-029118418759/omar_abdel_rahman_51425197_fullwidth.jpg)
 
 ### Related:
 

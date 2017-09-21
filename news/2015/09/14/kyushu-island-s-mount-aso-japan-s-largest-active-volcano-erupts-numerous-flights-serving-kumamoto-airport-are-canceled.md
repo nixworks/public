@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2015/09/14/travel/aso-volcano-erupts-japan-flights/)
 2. [Reuters via Trust](http://www.trust.org/item/20150914010212-zyw68/)
+2. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/a4984f6d-1cf6-4270-8122-f6db936478bc/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

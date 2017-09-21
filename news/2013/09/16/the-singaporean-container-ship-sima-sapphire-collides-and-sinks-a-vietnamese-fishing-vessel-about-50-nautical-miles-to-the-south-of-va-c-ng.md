@@ -8,6 +8,7 @@ Vietnamese port authorities confirmed that early Monday morning a cargo ship tra
 ### Source:
 
 1. [The Maritime Executive](http://www.maritime-executive.com/article/Ship-Collision-Leaves-1-Dead-7-Missing-Off-Vietnam-2013-09-16/)
+1. [Cover Image](http://maritime-executive.com/media/images/article/archive/sima-sapphire-singapore.jpg)
 
 ### Related:
 

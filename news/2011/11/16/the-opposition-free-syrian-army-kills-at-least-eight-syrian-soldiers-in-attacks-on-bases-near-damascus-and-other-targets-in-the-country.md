@@ -11,6 +11,7 @@ FM Alain Juppe says &#39;vise is tightening&#39; around Assad regime; pro-regime
 2. [Times of India](http://timesofindia.indiatimes.com/France-recalls-Syria-ambassador-violence-grows/articleshow/10760243.cms)
 3. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/-Syrian-army-defectors-attack-base-near-Damascus/articleshow/10753502.cms)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4149348,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

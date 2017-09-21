@@ -4,7 +4,7 @@
 _Context: 2003 invasion of Iraq, Tariq Aziz_
 
 ### [ The Dixie Chicks pose nude on the cover of "Entertainment Weekly", with political slogans on their bodies, in response to their critics' reaction to lead singer Natalie Maines' derogatory remark against U.S. President George W. Bush.](/news/2003/04/24/the-dixie-chicks-pose-nude-on-the-cover-of-entertainment-weekly-with-political-slogans-on-their-bodies-in-response-to-their-critics-re.md)
-_Context: Dixie Chicks, Entertainment Weekly, George W. Bush, Natalie Maines, President, nude_
+_Context: Dixie Chicks, Entertainment Weekly, George W. Bush, Natalie Maines, U.S. President, nude_
 
 ### [ In the Red Lion Area Junior High School cafeteria (Red Lion, Pennsylvania), eighth-grader James Sheets, carrying multiple weapons, fatally shoots the principal, Eugene Segro, and then fatally shoots himself. Two years earlier, the same school district was the site of a machete attack that injured another principal, two teachers and 11 pupils.](/news/2003/04/24/in-the-red-lion-area-junior-high-school-cafeteria-red-lion-pennsylvania-eighth-grader-james-sheets-carrying-multiple-weapons-fatally.md)
 _Context: Red Lion Area Junior High School, Red Lion, Pennsylvania, eighth-grade_

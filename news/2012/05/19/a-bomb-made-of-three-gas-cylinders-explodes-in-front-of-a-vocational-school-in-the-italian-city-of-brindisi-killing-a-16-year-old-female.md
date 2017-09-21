@@ -9,6 +9,7 @@ A bomb outside a school in the southern Italian city of Brindisi kills a teenage
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18128170)
 2. [La Repubblica](http://bari.repubblica.it/cronaca/2012/05/19/news/attentato_esplosivo_in_una_scuola_quattro_strudenti_feriti_a_brindisi_l_esplosione_nell_istituto_professionale_nei_pressi_-35438304/?ref=HREA-1)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60349000/jpg/_60349844_014791179-1.jpg)
 
 ### Related:
 

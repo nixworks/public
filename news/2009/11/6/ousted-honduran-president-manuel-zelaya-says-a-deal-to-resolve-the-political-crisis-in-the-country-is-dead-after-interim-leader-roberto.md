@@ -9,6 +9,7 @@ At each stage, the camps of the ousted president and of the acting president hav
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8345899.stm)
 2. [New York Times](http://www.nytimes.com/2009/11/07/world/americas/07honduras.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

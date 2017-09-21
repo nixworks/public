@@ -9,6 +9,7 @@ Thousands of people who refused orders to evacuate were feared stranded in flatt
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jG1m4XT341oCKXPMIZlKffdhP9vwD936LNM80)
 2. [The New York Times](http://www.nytimes.com/2008/09/15/us/15ike.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

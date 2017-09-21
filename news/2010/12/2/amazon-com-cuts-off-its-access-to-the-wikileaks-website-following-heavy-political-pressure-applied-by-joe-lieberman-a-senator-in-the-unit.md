@@ -12,6 +12,7 @@ Industry&#x20;Minister&#x20;Eric&#x20;Besson&#x20;&#x28;pictured&#x29;&#x20;has&
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/20101224118125377.html)
 4. [Reuters via ''National Post](http://www.nationalpost.com/news/world/Very+difficult+prosecute+WikiLeaks+chief/3915956/story.html)
 5. [The Guardian](http://www.guardian.co.uk/media/2010/dec/01/wikileaks-website-cables-servers-amazon)
+5. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/besson-m.JPG)
 
 ### Related:
 

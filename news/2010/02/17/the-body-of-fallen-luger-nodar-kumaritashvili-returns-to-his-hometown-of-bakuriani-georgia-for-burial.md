@@ -9,6 +9,7 @@ The body of the Georgian luger killed during a practice run at the Vancouver Oly
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8519732.stm)
 2. [ESPN](http://sports.espn.go.com/olympics/winter/2010/luge/news/story?id=4920689)
+2. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

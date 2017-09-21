@@ -23,6 +23,7 @@ Severe storms and tornadoes moving through the Southeast dealt a severe blow to 
 14. [The State](http://www.thestate.com/2011/04/27/1795745/forecasters-say-severe-storms.html)
 15. [Times Daily](http://www.timesdaily.com/article/20110427/NEWS/110429812?Title=Witness-South-part-of-Phil-Campbell-is-just-gone-12-confirmed-dead-or-missing)
 16. [WAFF](http://www.waff.com/story/14527806/very-large-tornado-on-ground-in-tuscaloosa)
+16. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

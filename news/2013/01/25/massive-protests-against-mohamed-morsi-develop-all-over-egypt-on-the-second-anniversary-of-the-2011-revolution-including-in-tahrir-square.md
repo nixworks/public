@@ -11,6 +11,7 @@ Egyptian opposition protesters gather in Cairo&#39;s Tahrir Square to mark the s
 2. [CBS](http://www.cbsnews.com/8301-202_162-57565814/egyptians-clash-on-revolutions-2nd-anniversary/)
 3. [Reuters](http://www.reuters.com/article/2013/01/25/us-egypt-anniversary-idUSBRE90N1E620130125)
 4. [USA Today](http://www.usatoday.com/story/news/world/2013/01/25/egyptians-gather-to-mark-uprising-anniversary/1863775/)
+4. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

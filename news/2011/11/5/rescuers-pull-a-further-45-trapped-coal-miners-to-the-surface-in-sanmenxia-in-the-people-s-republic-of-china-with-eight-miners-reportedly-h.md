@@ -10,6 +10,7 @@ Rescuers in China save the remaining 45 miners who were trapped underground for 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia-pacific/rescuers-pull-42-more-trapped-miners-to-surface-after-cave-in-at-chinese-coal-mine/2011/11/04/gIQAksemnM_story.html?wprss=rss_world)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-china-15604288)
 3. [CNN](http://edition.cnn.com/2011/11/05/world/asia/china-mine-blast/index.html?eref=edition)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56494000/jpg/_56494877_grab304.jpg)
 
 ### Related:
 

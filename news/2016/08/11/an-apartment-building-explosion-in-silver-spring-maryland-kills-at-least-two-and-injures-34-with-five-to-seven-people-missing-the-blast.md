@@ -9,6 +9,7 @@ Thirty-one residents were taken to hospital and up to seven more were missing af
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/maryland-apartment-explosion-30-hurt-7-missing-rubble-n628036)
 2. [The Washington Post](https://www.washingtonpost.com/local/public-safety/firefighters-rescue-multiple-people-from-burning-apartment-complex/2016/08/11/42c76bb4-5f7a-11e6-af8e-54aa2e849447_story.html)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_32/1662506/160811-usnews-silverspring-explosion-ugc-tomhucker-650a_716b4e264eed2cd2e8f7993e0f589cf2.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

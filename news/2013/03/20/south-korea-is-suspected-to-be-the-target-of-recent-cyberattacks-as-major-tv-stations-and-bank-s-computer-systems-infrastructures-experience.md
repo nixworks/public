@@ -9,6 +9,7 @@ Disruption to the computer networks of broadcasters and banks in South Korea app
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/03/20/south-korean-banks-and-media-report-computer-network-crash/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21855051)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66494000/jpg/_66494627_66494626.jpg)
 
 ### Related:
 

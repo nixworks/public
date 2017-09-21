@@ -8,6 +8,7 @@ Director of National Intelligence James Clapper offered his resignation as the O
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/director-national-intelligence-james-clapper-resigns-n685301)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_46/1800131/16117-james-clapper-mn-0950_34f7138d0a18d61fb374e7bc605f5862.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

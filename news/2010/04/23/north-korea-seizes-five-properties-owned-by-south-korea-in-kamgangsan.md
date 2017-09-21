@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042362647903392.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8639065.stm)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5500753,00.html?maca=en-rss-en-all-1573-rdf)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

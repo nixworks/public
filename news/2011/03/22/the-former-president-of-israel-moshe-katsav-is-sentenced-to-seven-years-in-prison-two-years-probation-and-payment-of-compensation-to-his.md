@@ -9,6 +9,7 @@ PM: Nobody is above the law, not even a former president; Livni: I have great ho
 
 1. [Haaretz](http://www.haaretz.com/news/national/former-president-moshe-katsav-gets-7-years-in-jail-for-rape-sexual-offenses-1.351092)
 2. [The Jerusalem Post](http://www.jpost.com/ArtsAndCulture/Entertainment/Article.aspx?id=213278)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=161884)
 
 ### Related:
 

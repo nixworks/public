@@ -9,6 +9,7 @@
 
 1. [Khaskbahar Hindi](http://www.khaskhabar.com/picture-news/news-snow-cold-snap-leave-27-children-dead-in-northern-afghanistan-news-hindi-1-163363-KKN.html)
 2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/afghanistan-cold-snow-deaths/28260614.html)
+2. [Cover Image](https://s3-ap-southeast-1.amazonaws.com/khaskhabar/khaskhabarimages/img500/snow-afghanistan-18-1485503442-163363-khaskhabar.jpg)
 
 ### Related:
 

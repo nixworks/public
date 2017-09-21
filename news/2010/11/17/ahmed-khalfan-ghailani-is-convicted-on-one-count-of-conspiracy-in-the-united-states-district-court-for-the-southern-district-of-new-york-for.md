@@ -8,6 +8,7 @@ The first former Guantánamo detainee tried in a civilian court was acquitted of
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/11/18/nyregion/18ghailani.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

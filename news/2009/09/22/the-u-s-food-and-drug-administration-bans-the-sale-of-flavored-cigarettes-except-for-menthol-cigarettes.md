@@ -8,6 +8,7 @@ The ban is the first major crackdown on cigarettes since the Food and Drug Admin
 ### Source:
 
 1. [The New York TImes](http://www.nytimes.com/2009/09/23/health/policy/23fda.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/09/23/health/policy/23fda.75.jpg)
 
 ### Related:
 

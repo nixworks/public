@@ -9,6 +9,7 @@ Michael Dell will take Dell Inc private for $24.4 billion in the biggest leverag
 
 1. [Reuters](http://www.reuters.com/article/2013/02/05/us-dell-buyout-idUSBRE9140NF20130205)
 2. [The New York Times](http://dealbook.nytimes.com/2013/02/05/dell-sets-23-8-billion-deal-to-go-private/)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130205&t=2&i=701090521&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91414WH00)
 
 ### Related:
 

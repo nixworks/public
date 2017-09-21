@@ -13,6 +13,7 @@ U.S. President George W. Bush on Saturday approved a pre-landfall emergency decl
 4. [La Prensa](http://www.plenglish.com/article.asp?ID=%7B5CF13A10-CD15-4B5D-8E0E-266279EA571A%7D)&language=EN)
 5. [RTT News](http://www.rttnews.com/FOREX/gblnews.asp?date=08/18/2007&item=6)
 6. [Reuters](http://www.reuters.com/article/topNews/idUSN1821403420070818?feedType=RSS&feedName=topNews)
+6. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070818&t=2&i=1318992&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-18T234829Z_01_N18214034_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

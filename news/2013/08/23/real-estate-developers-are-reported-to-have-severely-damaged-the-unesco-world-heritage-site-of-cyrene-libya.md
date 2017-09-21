@@ -8,3 +8,4 @@
 ### Source:
 
 1. [France 24](http://observers.france24.com/content/20130823-ancient-libyan-necropolis-threatened-cyrene)
+1. [Cover Image](http://scd.observers.france24.com/files/imagecache/observers_520_320/article_images/CirenePorticoErme_0.jpg)

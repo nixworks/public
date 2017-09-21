@@ -9,6 +9,7 @@ A bomb killed at least 20 people at a Kurdish wedding in the northeast Syrian ci
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37547144)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-wedding-hall-idUSKCN12325X)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

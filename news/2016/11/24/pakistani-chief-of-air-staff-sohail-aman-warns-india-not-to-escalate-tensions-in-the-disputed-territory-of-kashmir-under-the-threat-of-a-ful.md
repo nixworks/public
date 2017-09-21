@@ -8,6 +8,7 @@ Israeli police have arrested four Palestinians in connection with one of several
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2016/11/24/israel-battles-fires-for-third-day-4-palestinians-arrested.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/11/24/israel-battles-fires-for-third-day-4-palestinians-arrested/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1479977352151.jpg?ve=1)
 
 ### Related:
 

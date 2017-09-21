@@ -8,3 +8,4 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22559105)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67660000/jpg/_67660171_jennycolgan.jpg)

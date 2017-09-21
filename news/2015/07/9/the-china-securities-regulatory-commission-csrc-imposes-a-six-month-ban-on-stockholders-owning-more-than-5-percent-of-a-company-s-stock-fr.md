@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/07/09/us-china-markets-idUSKCN0PI2RT20150709)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150709&t=2&i=1062786397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB68059)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Aftenposten](http://www.aftenposten.no/nyheter/uriks/article1733326.ece)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/6550077.stm)
 3. [VG](http://www.vg.no/pub/vgart.hbs?artid=150245)
+3. [Cover Image](https://1.vgc.no/drpublish/images/article/2007/04/12/22473530/1/430x256/1000758.jpg)
 
 ### Related:
 

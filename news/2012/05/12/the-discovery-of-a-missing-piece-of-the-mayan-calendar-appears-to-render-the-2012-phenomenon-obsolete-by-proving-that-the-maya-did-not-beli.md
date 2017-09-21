@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WBRC](http://www.myfoxal.com/story/18311865/apocalypse-never-newly-discovered-mayan-calendar-disproves-2012-doomsday-myth)
+1. [Cover Image](http://WBRC.images.worldnow.com/images/18311865_BG1.jpg)
 
 ### Related:
 

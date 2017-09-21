@@ -9,6 +9,7 @@ The UN refugee agency (UNHCR) warned on Tuesday that Greece is on the verge of a
 
 1. [Business Standard](http://www.business-standard.com/article/news-ians/unhcr-warns-of-humanitarian-crisis-in-greece-as-influx-rises-116030101311_1.html)
 2. [Kathimerini](http://www.ekathimerini.com/206505/article/ekathimerini/news/europe-on-cusp-of-self-induced-humanitarian-crisis-unhcr-says)
+2. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

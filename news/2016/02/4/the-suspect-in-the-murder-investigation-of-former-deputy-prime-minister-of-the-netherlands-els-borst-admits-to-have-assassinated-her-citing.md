@@ -9,6 +9,7 @@
 
 1. [NOS](http://nos.nl/artikel/2084873-bart-van-u-ik-heb-els-borst-vermoord-om-euthanasiewet.html)
 2. [RTL Nieuws](http://www.rtlnieuws.nl/nieuws/binnenland/bart-van-u-ik-heb-els-borst-vermoord)
+2. [Cover Image](http://www.rtlnieuws.nl/sites/default/files/styles/landscape_2/public/content/images/2015/01/26/Bart_van_U_balk_1.jpg?itok=lxuHsgvu)
 
 ### Related:
 

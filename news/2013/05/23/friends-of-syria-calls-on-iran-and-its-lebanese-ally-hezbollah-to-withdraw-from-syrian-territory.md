@@ -8,6 +8,7 @@ After meeting in Amman, 11 Western and Arab nations also warn of &#39;severe con
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4383243,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/08/11/542798477/it-s-official-kenyan-president-wins-re-election-but-will-opposition-concede)
 2. [Reuters](https://www.reuters.com/article/us-kenya-election-idUSKBN1AR0SK)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170811&t=2&i=1196778755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7A1LR)
 
 ### Related:
 

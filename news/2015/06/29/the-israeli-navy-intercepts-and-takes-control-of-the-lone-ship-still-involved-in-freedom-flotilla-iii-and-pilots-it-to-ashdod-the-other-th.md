@@ -9,6 +9,7 @@ Contact lost with Swedish-registered &#8216;Marianne&#8217; making its way to Pa
 
 1. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/197406#.VZC2EF3D-M8)
 2. [Times Of Israel](http://www.timesofisrael.com/three-of-four-flotilla-vessels-turn-back-one-heads-toward-gaza/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/06/mariane-e1435540974494.jpg)
 
 ### Related:
 

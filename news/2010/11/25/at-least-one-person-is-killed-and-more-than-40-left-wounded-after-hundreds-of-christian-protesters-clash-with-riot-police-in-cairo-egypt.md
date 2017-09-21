@@ -8,6 +8,7 @@ At least one person has been killed and more than 40 have been left wounded afte
 ### Source:
 
 1. [Pravda](http://english.pravda.ru/news/world/25-11-2010/115939-egypt-0/)
+1. [Cover Image](http://pravda-team.ru/eng/image/article/4/8/8/42488.jpeg)
 
 ### Related:
 

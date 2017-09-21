@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8216588.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57L1D020090822)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090822&t=2&i=11325756&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-22T234133Z_01_BTRE57L1TTF00_RTROPTP_0_VENEZUELA-MARCH)
 
 ### Related:
 

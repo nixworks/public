@@ -9,6 +9,7 @@ A look at celebrities with HIV/AIDS
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-34845630)
 2. [CBS](http://www.cbsnews.com/pictures/celebrities-with-hiv-aids/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/10/26/ec2ff607-f774-4b04-b790-5b699eb14919/gettyimages-150291429.jpg)
 
 ### Related:
 

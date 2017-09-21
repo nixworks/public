@@ -8,6 +8,7 @@ At least 20 soldiers are killed and 12 injured in a rebel attack on a troop conv
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-33007086)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83418000/jpg/_83418778_83417780.jpg)
 
 ### Related:
 

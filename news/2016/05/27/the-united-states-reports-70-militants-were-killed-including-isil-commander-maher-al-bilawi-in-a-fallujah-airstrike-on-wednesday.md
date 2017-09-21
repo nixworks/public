@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/05/28/Islamic-States-commander-in-Fallujah-killed-US-says/4991464448170/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/4991464448170/2016/1/14644488219107/v2.1/Islamic-States-commander-in-Fallujah-killed-US-says.jpg)
 
 ### Related:
 

@@ -16,6 +16,7 @@ Tropical Storm Joaquin is expected to strengthen while moving north of the East 
 7. [Reuters](http://www.reuters.com/article/2015/09/29/storm-joaquin-idUSL1N11Z2S420150929)
 8. [UPI](http://www.upi.com/Top_News/US/2015/09/29/Tropical-Storm-Joaquin-could-threaten-East-Coast-early-next-week/2611443558262/?spt=hs&or=tn_us)
 9. [Virginia](https://governor.virginia.gov/newsroom/newsarticle?articleId=12936)
+9. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/2611443558262/2015/1/14435592606452/v2.1/Tropical-Storm-Joaquin-could-threaten-East-Coast-early-next-week.jpg)
 
 ### Related:
 

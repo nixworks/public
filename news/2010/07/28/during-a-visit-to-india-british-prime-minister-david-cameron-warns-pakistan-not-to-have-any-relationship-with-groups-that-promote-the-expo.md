@@ -9,6 +9,7 @@ British PM David Cameron warns Pakistan not to have any relationship with groups
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10791182)
 2. [Indian Express](http://www.indianexpress.com/news/cameron-warns-pak-on-exporting-terror-you-cant-look-both-ways/653289/0)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Poland is continuing to mourn the death of President Lech Kaczynski who died in 
 4. [RIA Novosti](http://en.rian.ru/world/20100412/158532356.html)
 5. [RIA Novosti](http://en.rian.ru/world/20100412/158539458.html)
 6. [RTÉ](http://www.rte.ie/news/2010/0412/kaczynskil.html)
+6. [Cover Image](https://img.rasset.ie/00032f84-1600.jpg)
 
 ### Related:
 

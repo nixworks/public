@@ -8,6 +8,7 @@ London police arrest trader Kweku Adoboli after Swiss bank UBS says unauthorised
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14927432)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55381000/jpg/_55381378_012720609-1.jpg)
 
 ### Related:
 

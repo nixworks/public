@@ -8,6 +8,7 @@ Several officials, including a top aide to Prime Minister Petr Necas, are report
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/06/14/world/europe/czech-police-raid-government.html?_r=1&)
+1. [Cover Image](https://static01.nyt.com/images/2013/06/14/world/14czech-inline/14czech-inline-videoLarge.jpg)
 
 ### Related:
 

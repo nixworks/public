@@ -8,6 +8,7 @@ Islamic State jihadists behead four people and shoot eight dead in the ancient S
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38678189)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E958/production/_93663795_palmyrai_getty_may2016.jpg)
 
 ### Related:
 

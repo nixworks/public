@@ -8,6 +8,7 @@ The nominations for the 2015 Primetime Emmy Awards have been announced, with HBO
 ### Source:
 
 1. [Variety](http://variety.com/2015/tv/news/emmy-award-nominations-2015-game-of-thrones-1201541385/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2015/07/game-of-thrones-emmy-nominations-hbo.jpg?w=1000&amp;h=563&amp;crop=1)
 
 ### Related:
 

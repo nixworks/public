@@ -10,6 +10,7 @@ Former UK Prime Minister Tony Blair is to receive a prestigious US medal and $10
 1. [BBC](http://news.bbc.co.uk/2/hi/politics/10470914.stm)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_547843.html)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/tony-blair-awarded-peace-medal-20100701-znzd.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

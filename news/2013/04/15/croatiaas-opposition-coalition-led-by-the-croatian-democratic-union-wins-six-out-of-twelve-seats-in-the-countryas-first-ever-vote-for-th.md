@@ -8,6 +8,7 @@ Croatia’s opposition right-wing coalition has won most seats in the country’
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2013/04/15/croatia-show-lack-on-interest-in-first-eu-elections/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ His wife, Maria Shriver, moved out of their Brentwood home earlier this year aft
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/la-me-0517-arnold-20110517,0,4552508.story)
+1. [Cover Image](http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600)
 
 ### Related:
 

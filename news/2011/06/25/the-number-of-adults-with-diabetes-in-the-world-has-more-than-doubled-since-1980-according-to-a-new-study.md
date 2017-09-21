@@ -8,6 +8,7 @@ The number of adults with diabetes in the world has more than doubled since 1980
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13917263)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53693000/jpg/_53693193_000168873-1.jpg)
 
 ### Related:
 

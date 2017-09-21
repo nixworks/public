@@ -8,6 +8,7 @@ Junior transport minister Wilma Mansveld has resigned following the publication 
 ### Source:
 
 1. [DutchNews](http://www.dutchnews.nl/news/archives/2015/10/junior-transport-minister-resigns-over-damning-rail-report/)
+1. [Cover Image](http://www.dutchnews.nl/wpcms/wp-content/uploads/2015/05/fyra-train.jpeg)
 
 ### Related:
 

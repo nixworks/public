@@ -10,6 +10,7 @@ A Taliban suicide car bomber attacks a foreign military convoy in the Afghan cap
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-16-AS--Afghanistan/id-34f1a7af46d84e139cb3f1f6423f6257)
 2. [BBC](http://www.bbc.com/news/world-asia-29217167)
 3. [Reuters](http://in.reuters.com/article/2014/09/16/afghanistan-blast-idINL3N0RH1OI20140916)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/77613000/jpg/_77613354_77613353.jpg)
 
 ### Related:
 

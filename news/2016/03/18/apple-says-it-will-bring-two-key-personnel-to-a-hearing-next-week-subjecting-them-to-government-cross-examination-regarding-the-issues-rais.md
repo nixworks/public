@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-apple-encryption-hearing-idUSKCN0WK2A1)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160318&t=2&i=1125920001&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2H1E3)
 
 ### Related:
 

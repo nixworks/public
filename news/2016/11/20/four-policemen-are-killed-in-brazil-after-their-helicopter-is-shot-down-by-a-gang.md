@@ -9,6 +9,7 @@ A police helicopter in Rio de Janeiro crashed Saturday evening, killing four off
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38041847)
 2. [Reuters](http://www.reuters.com/article/us-brazil-violence-helicopter-idUSKBN13F017?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

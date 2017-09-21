@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via NBC News](http://www.nbcnews.com/storyline/isis-terror/isis-truck-bombs-kill-least-50-tel-tamer-syria-n478376)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_50/1336186/151211-syria-turck-bomb-mn-0955_73d261d6dabb09eb3a143b431e62dc26.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

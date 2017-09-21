@@ -8,6 +8,7 @@ Tiny Singapore says it has its own outbreak of Zika virus.
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/storyline/zika-virus-outbreak/zika-starts-take-hold-singapore-n639301)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_33/1650311/ss-160802-florida-zika-response-mbe-845p_11_ccbda6ff757e2a643764e372b3c230a6.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

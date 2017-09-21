@@ -8,6 +8,7 @@ The US welcomes the release by a Rwandan court of genocide lawyer Peter Erlinder
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10348118.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

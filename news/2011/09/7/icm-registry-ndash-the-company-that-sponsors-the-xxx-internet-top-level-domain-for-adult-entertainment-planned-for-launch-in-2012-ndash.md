@@ -8,6 +8,7 @@ Companies and celebrities are being given the chance to protect their names from
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-14821192)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55211000/jpg/_55211617_000367026-1.jpg)
 
 ### Related:
 

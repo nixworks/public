@@ -8,6 +8,7 @@ Typhoon Goni slightly weakened on Saturday as it lashed the northern Philippines
 ### Source:
 
 1. [AP via ''The Hindustan Times](http://www.hindustantimes.com/world-news/philippines-typhoon-goni-weakens-few-people-dead-missing/article1-1382901.aspx)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2015/08/22/Incoming/Pictures/typhoon-goni-philippines_518dfedd-4882-11e5-a8da-005056b4648e.jpg)
 
 ### Related:
 

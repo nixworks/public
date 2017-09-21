@@ -8,6 +8,7 @@ A suicide bomber on Wednesday killed at least 12 people and injured many more in
 ### Source:
 
 1. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9185161/Afghanistan-suicide-blast-leaves-at-least-12-dead.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02185/afghanistan_2185174k.jpg)
 
 ### Related:
 

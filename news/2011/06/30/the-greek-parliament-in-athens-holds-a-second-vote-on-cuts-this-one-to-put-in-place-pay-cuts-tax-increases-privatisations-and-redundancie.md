@@ -10,6 +10,7 @@ Greek MPs pass a second vote on an unpopular austerity programme, as Athens clea
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/2011630144310840607.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/201163015159581624.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-13970916)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53787000/jpg/_53787056_012340265-1.jpg)
 
 ### Related:
 

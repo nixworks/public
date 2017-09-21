@@ -8,6 +8,7 @@ A powerful blast at a prefabricated house in northwestern China on Monday killed
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-china-explosions-shaanxi-idUSKCN12O1RU?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161025&t=2&i=1158800759&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9N17D)
 
 ### Related:
 

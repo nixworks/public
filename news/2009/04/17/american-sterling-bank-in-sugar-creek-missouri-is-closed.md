@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/missouris-american-sterling-bank-seized/story.aspx?guid=%7BEB798D94%2D22D6%2D4D32%2DA4BF%2D7DA5D6E98515%7D&siteid=bnbh)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

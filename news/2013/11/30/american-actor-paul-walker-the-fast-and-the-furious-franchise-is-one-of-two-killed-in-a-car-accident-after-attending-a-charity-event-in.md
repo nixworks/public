@@ -9,6 +9,7 @@ Actor Paul Walker, best known for the Fast and Furious movies, is killed in a fi
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-12-01/fast-and-furious-actor-paul-walker-killed-in-car-crash/5127484)
 2. [CNN](http://www.cnn.com/2013/11/30/showbiz/actor-paul-walker-dies/)
+2. [Cover Image](http://www.abc.net.au/news/image/5127482-1x1-700x700.jpg)
 
 ### Related:
 

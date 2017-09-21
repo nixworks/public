@@ -8,6 +8,7 @@ Claims that a woman was forced to have sex with Prince Andrew when she was 17 ar
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/32210056)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82170000/jpg/_82170375_026628078-1.jpg)
 
 ### Related:
 

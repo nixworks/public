@@ -8,6 +8,7 @@ E.T. cartridges have been discovered, confirming what we always wondered.
 ### Source:
 
 1. [IGN](http://www.ign.com/articles/2014/04/26/the-dig-uncovering-the-atari-et-games-buried-in-new-mexico-desert)
+1. [Cover Image](http://assets1.ignimgs.com/2014/04/25/etartjpg-9aaacf_1280w.jpg)
 
 ### Related:
 

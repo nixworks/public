@@ -8,6 +8,7 @@ CHAD-COUP/(URGENT):Chad government says it foils coup attempt
 ### Source:
 
 1. [Reuters](http://www.trust.org/item/20130502004304-rj2im)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/ad660e4d-61a8-4d36-af63-3aaa66ed7e5b/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Taliban has announced the start of their spring offensive, signaling plans t
 
 1. [AP via News24](http://m.news24.com/news24/World/News/Taliban-announces-spring-offensive-20130427)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22325773)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/293/8a947fd558e644ceb6165de42ea2db00.jpg)
 
 ### Related:
 

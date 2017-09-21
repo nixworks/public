@@ -8,6 +8,7 @@ Plans to offer sentence discounts of up to 50% for an early guilty plea could be
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13691943)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53299000/jpg/_53299177_012171298-1.jpg)
 
 ### Related:
 

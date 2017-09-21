@@ -11,6 +11,7 @@ Rupert Murdoch, unfazed by a foam pie attack in the British parliament, made a &
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-14209990)
 3. [Los Angeles Times](http://latimesblogs.latimes.com/entertainmentnewsbuzz/2011/07/murdochs-struggle-to-defend-themselves-before-parliament.html)
 4. [Reuters](http://www.reuters.com/article/2011/07/19/us-newscorp-idUSTRE76H07P20110719?feedType=RSS&feedName=topNews)
+4. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110719&t=2&i=461999728&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-19T194002Z_01_BTRE76I18PL00_RTROPTP_0_NEWSCORP)
 
 ### Related:
 

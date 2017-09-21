@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-32679820)
 2. [The Economist](http://www.economist.com/news/europe/21650562-weekends-presidential-poll-offers-pointers-general-election-harbinger)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82903000/jpg/_82903112_dudareu.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Ahram](http://english.ahram.org.eg/NewsContent/1/64/89902/Egypt/Politics-/UPDATE--At-least--dead,--injured-in-Egypts-Mansour.aspx)
 2. [Reuters](http://www.reuters.com/article/2013/12/24/us-egypt-explosion-idUSBRE9BM0W420131224)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131224&t=2&i=824119420&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BN1APB00)
 
 ### Related:
 

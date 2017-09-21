@@ -9,6 +9,7 @@ The son of a Russian lawmaker accused of stealing credit card data and other per
 
 1. [Reuters](http://www.reuters.com/article/us-usa-cyber-russia/son-of-russian-lawmaker-pleads-guilty-in-cyber-crime-cases-idUSKCN1BJ2NW)
 2. [Sputnik](https://sputniknews.com/us/201709081057230531-russian-seleznev-guilty/)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

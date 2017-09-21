@@ -11,6 +11,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5361512.stm)
 3. [Forbes](http://www.forbes.com/home/columnists/2006/09/19/thailand-coup-notes-markets-emerge-cx_pm_0919thai.html)
 4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyID=2006-09-20T031354Z_01_BKK255937_RTRUKOC_0_US-THAILAND-1.xml)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

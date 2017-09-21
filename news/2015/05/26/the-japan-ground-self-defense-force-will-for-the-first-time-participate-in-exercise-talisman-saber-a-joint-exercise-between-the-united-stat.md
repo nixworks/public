@@ -8,6 +8,7 @@ Japanese troops will take part in a major US-Australian military exercise for th
 ### Source:
 
 1. [AFP via ABC Australia](http://www.abc.net.au/news/2015-05-26/japan-to-join-major-australia-us-military-training-drill/6498432)
+1. [Cover Image](http://www.abc.net.au/news/image/6498466-1x1-700x700.jpg)
 
 ### Related:
 

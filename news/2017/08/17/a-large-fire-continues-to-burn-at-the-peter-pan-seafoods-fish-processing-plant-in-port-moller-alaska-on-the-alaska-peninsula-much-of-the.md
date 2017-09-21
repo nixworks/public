@@ -8,6 +8,7 @@ Murphy says the plant offices, the processing section and the facility&#39;s lar
 ### Source:
 
 1. [King 5](http://www.king5.com/mobile/article/news/local/peter-pan-seafoods-fish-processing-plant-damaged-by-fire/464946607)
+1. [Cover Image](http://content.wfmynews2.com/photo/2017/08/05/Fire%20Line_1501957088680_10200629_ver1.0.jpg)
 
 ### Related:
 

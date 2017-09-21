@@ -8,6 +8,7 @@ Police say a southwest Missouri man who confessed to plotting to shoot up a scre
 ### Source:
 
 1. [FoxNews.com](http://www.foxnews.com/us/2012/11/17/missouri-man-accused-twilight-movie-shooting-plot-after-mom-contacts-cops/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2012/11/17/missouri-man-accused-twilight-movie-shooting-plot-after-mom-contacts-cops/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1448290342144.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A cargo plane crashes shortly after take-off from the southern Colombian city of
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2016-12-21/cargo-plane-captured-on-camera-crashing-shortly-after-takeoff-/8139524)
+1. [Cover Image](http://www.abc.net.au/news/image/8139672-1x1-700x700.jpg)
 
 ### Related:
 

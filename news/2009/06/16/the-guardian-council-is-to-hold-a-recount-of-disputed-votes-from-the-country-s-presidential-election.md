@@ -14,6 +14,7 @@ Authorities in Iran have banned foreign media from covering &#39;unauthorised&#3
 5. [RTÉ](http://www.rte.ie/news/2009/0616/iran.html)
 6. [Reuters](http://www.reuters.com/article/latestCrisis/idUSDAH617616)
 7. [Xinhua](http://news.xinhuanet.com/english/2009-06/16/content_11550823.htm)
+7. [Cover Image](https://img.rasset.ie/00025f9a-1600.jpg)
 
 ### Related:
 

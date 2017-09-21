@@ -8,6 +8,7 @@ The death toll in the slaying of a family in Armenia blamed on a Russian soldier
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2015/01/19/death-toll-in-slaying-armenian-family-rises-to-7-after-baby-dies-his-wounds-at/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/01/19/death-toll-in-slaying-armenian-family-rises-to-7-after-baby-dies-his-wounds-at/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1427414745035.jpg?ve=1)
 
 ### Related:
 

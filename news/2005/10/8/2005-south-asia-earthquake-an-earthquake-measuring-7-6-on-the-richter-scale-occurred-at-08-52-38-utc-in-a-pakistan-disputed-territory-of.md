@@ -10,6 +10,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 1. [Indian Express](http://www.expressindia.com/fullstory.php?newsid=56159)
 2. [NDTV](http://www.ndtv.com/topstories/showtopstory.asp?slug=Strong+tremors+felt+across+North+India&id=17919&category=National)
 3. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usdyae.htm)
+3. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

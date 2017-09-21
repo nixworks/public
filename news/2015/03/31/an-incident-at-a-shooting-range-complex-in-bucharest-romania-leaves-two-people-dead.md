@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Mediafax](http://www.mediafax.ro/social/incident-armat-la-poligonul-uti-din-capitala-un-instructor-si-un-elev-au-murit-14094805)
+1. [Cover Image](http://storage0.dms.mpinteractiv.ro/media/1/1/1688/14094805/2/uti-incident-dragos-savu.jpg?width=300&height=300)
 
 ### Related:
 

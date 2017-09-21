@@ -12,6 +12,7 @@ The United Nations council unanimously passed a resolution aimed at shoring up c
 3. [China Daily](http://www.chinadaily.com.cn/world/2009-09/24/content_8733432.htm)
 4. [Hindustan Times](http://www.hindustantimes.com/News/world/UNSC-adopts-N-resolution-asks-non-NPT-states-to-join-treaty/Article1-457658.aspx)
 5. [New York Times](http://www.nytimes.com/2009/09/25/world/25prexy.html?hp)
+5. [Cover Image](https://static01.nyt.com/images/2009/09/24/world/obama.75.4.jpg)
 
 ### Related:
 

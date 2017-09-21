@@ -8,6 +8,7 @@ The opinion was released Thursday after a group of local clergy and activists fi
 ### Source:
 
 1. [Cleveland.com](http://www.cleveland.com/metro/index.ssf/2015/06/judge_finds_probable_cause_for.html)
+1. [Cover Image](http://image.cleveland.com/home/cleve-media/width620/img/plain-dealer/photo/2015/05/04/17702267-large.jpg)
 
 ### Related:
 

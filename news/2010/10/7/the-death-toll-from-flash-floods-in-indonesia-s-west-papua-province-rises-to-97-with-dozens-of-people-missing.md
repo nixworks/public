@@ -8,6 +8,7 @@ The death toll from flash floods in a remote region of eastern Indonesia has cli
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/07/3032194.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

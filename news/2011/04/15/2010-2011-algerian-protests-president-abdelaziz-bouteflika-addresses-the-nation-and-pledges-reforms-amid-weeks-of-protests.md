@@ -8,6 +8,7 @@ At least 13 people killed in worst attack by fighters since lifting of longtime 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/2011415191127848291.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/16/201141615209483876_20.jpg)
 
 ### Related:
 

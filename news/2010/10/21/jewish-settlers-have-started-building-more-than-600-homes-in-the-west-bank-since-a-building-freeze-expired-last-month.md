@@ -9,6 +9,7 @@ Jewish settlers have started work on some 600 West Bank homes since an Israeli c
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11596718)
 2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=192225)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 
@@ -20,3 +21,5 @@ Jewish settlers have started work on some 600 West Bank homes since an Israeli c
 6. [ The 17th Maccabiah Games are officially begun with a ceremony in Israel. More than 7000 Jewish athletes will compete on various sporting events. ](/news/2005/07/11/the-17th-maccabiah-games-are-officially-begun-with-a-ceremony-in-israel-more-than-7000-jewish-athletes-will-compete-on-various-sporting-ev.md) _Context: Jewish_
 7. [ A Jewish cemetery in West Ham has been attacked. This was the 117th time a Jewish cemetery in Great Britain has been attacked in 15 years. ](/news/2005/06/16/a-jewish-cemetery-in-west-ham-has-been-attacked-this-was-the-117th-time-a-jewish-cemetery-in-great-britain-has-been-attacked-in-15-years.md) _Context: Jewish_
 8. [ Israeli-Palestinian Conflict: Israel has postponed security talks with Palestinians following a mortar attack by Hamas on the Gush Katif Jewish settlements in the Gaza Strip. Hamas claim the attack was in retaliation for an attack by Jewish settlers which left one man dead. Palestinian leader Mahmoud Abbas responds by firing the top security commanders in the Gaza Strip. ](/news/2005/02/10/israeli-palestinian-conflict-israel-has-postponed-security-talks-with-palestinians-following-a-mortar-attack-by-hamas-on-the-gush-katif-je.md) _Context: Jewish_
+9. [ Jewish settlers in Gaza line a bridge and pelt passing Palestinian cars with rocks, forcing the Israeli army to close the only road from the north into the Gaza Strip. ](/news/2004/09/27/jewish-settlers-in-gaza-line-a-bridge-and-pelt-passing-palestinian-cars-with-rocks-forcing-the-israeli-army-to-close-the-only-road-from-th.md) _Context: Jewish_
+10. [ Arsonists raze a Jewish community centre in Paris, leaving behind menacing graffiti including swastikas and the words "Jews get out." ](/news/2004/08/22/arsonists-raze-a-jewish-community-centre-in-paris-leaving-behind-menacing-graffiti-including-swastikas-and-the-words-jews-get-out.md) _Context: Jewish_

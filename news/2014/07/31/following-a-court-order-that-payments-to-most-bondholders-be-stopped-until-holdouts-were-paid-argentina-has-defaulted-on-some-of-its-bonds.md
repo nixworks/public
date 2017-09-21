@@ -9,6 +9,7 @@ Argentina has defaulted on its debt - for the second time in 13 years - after la
 
 1. [BBC](http://www.bbc.com/news/business-28578179)
 2. [New York Times](http://dealbook.nytimes.com/2014/07/30/in-hedge-fund-argentina-finds-relentless-foe/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76640000/jpg/_76640212_a3ab7431-0dec-4ec8-9b10-cdfa3fe9d7d2.jpg)
 
 ### Related:
 

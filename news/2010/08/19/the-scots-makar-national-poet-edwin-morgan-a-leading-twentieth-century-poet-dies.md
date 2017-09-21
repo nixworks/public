@@ -11,3 +11,4 @@ The Scots Makar - or national poet - Edwin Morgan has died at the age of 90 afte
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-11025826)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/obituaries/culture-obituaries/books-obituaries/7954871/Edwin-Morgan.html)
 4. [The Guardian](http://www.guardian.co.uk/books/2010/aug/19/edwin-morgan-scotland-national-poet)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

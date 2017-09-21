@@ -8,6 +8,7 @@ Italian football club Inter Milan says that a group of Chinese investors will be
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-19090179)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61970000/jpg/_61970756_inter.jpg)
 
 ### Related:
 

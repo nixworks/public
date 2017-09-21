@@ -8,6 +8,7 @@ At least six high-ranking Pakistani army officers, including a lieutenant-genera
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36099794)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/183FF/production/_89372399_89372398.jpg)
 
 ### Related:
 

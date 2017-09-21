@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-panama-china-taiwan-idUSKBN19407Q?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170613&t=2&i=1188726596&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5C043)
 
 ### Related:
 

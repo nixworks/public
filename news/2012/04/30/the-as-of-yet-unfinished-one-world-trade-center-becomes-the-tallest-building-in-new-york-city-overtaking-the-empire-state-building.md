@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57424100/world-trade-center-tower-surpasses-empire-state/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/04/30/7c736925-a644-11e2-a3f0-029118418759/Empire-State-Building-and-World-Trade-One.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Ethiopian and Somali troops capture Baidoa, a strategic stronghold of al-Shabab 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17127353)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/feb/22/somalia-un-peacekeeping-force)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58645000/jpg/_58645215_014008012.jpg)
 
 ### Related:
 

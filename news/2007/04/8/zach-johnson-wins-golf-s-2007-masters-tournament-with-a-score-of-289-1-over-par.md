@@ -8,6 +8,7 @@ Throughout this week, ESPN.com golf editor Jason Sobel will be live-blogging fro
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/golf/masters07/columns/story?columnist=sobel_jason&id=2829944)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Communist state says it is cutting all direct military contact with South Korea.
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/03/20133274430576757.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21950139)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/12/201331210467387734_20.jpg)
 
 ### Related:
 

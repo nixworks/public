@@ -8,6 +8,7 @@ Save the children says it was served a notice, denies it has expatriate staff wo
 ### Source:
 
 1. [Express Tribune](http://tribune.com.pk/story/902072/ngo-save-the-children-ordered-to-leave-pakistan-officials/)
+1. [Cover Image](https://c.tribune.com.pk/2015/06/902072-Save-1434045794-754-640x480.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish warplanes struck Kurdistan Workers&#x27; Party (PKK) targets in northern
 ### Source:
 
 1. [AFP via Yahoo News](http://news.yahoo.com/turkey-launches-overnight-air-raids-against-pkk-army-003648366.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/h_A6a.b0RN06FvPRDxa.Cw--/aD03MDg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/fba65351291a3df4bc5517f3aa0b15db7b8d011c.jpg)
 
 ### Related:
 

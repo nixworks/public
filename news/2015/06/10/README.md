@@ -4,7 +4,7 @@
 A suicide bomber has blown himself up near a tourist site in the Egyptian city of Luxor, security sources and witnesses say. 
 
 ### [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md)
-_Context: Barack Obama, Iraq, President, Sunni Muslim_
+_Context: Barack Obama, Iraq, Sunni Muslim, U.S. President_
 
 ### [At least 43 people have been killed in fighting in Yemen. ](/news/2015/06/10/at-least-43-people-have-been-killed-in-fighting-in-yemen.md)
 _Context: Saudi Arabian-led intervention in Yemen, Yemen_

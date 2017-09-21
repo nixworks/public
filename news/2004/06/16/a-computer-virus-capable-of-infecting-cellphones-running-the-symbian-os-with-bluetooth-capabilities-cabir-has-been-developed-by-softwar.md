@@ -10,6 +10,7 @@ Get the latest technology news, including new product releases, sales figures an
 1. [BBC](http://news.bbc.co.uk/cbbcnews/hi/sci_tech/newsid_3813000/3813397.stm)
 2. [Forbes](https://web.archive.org/web/20081204164030/http://www.forbes.com/technology/feeds/wireless/2004/06/16/wireless01087398037128-20040615-152500.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=5435733)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

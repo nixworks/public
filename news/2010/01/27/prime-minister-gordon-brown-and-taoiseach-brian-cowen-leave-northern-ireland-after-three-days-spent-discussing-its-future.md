@@ -9,6 +9,7 @@ Taoiseach Brian Cowen and British Prime Minister Gordon Brown have left Northern
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8483189.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0127/northpolitics.html)
+2. [Cover Image](https://img.rasset.ie/0002f3ec-1600.jpg)
 
 ### Related:
 

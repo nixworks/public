@@ -8,6 +8,7 @@ Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-bosnia-srebrenica-burial-idUSKCN0ZR1IC)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160711&t=2&i=1144952343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6A0TQ)
 
 ### Related:
 

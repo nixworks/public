@@ -9,6 +9,7 @@ At least 31 people have died in an explosion in the capital of China&#39;s weste
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-27502652#)
 2. [RTE](http://www.rte.ie/news/2014/0522/618857-china-xinjiang-bomb/)
+2. [Cover Image](https://img.rasset.ie/0008f63d-1600.jpg)
 
 ### Related:
 

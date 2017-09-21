@@ -8,6 +8,7 @@ Newly elected MSP Ruth Davidson has been elected as the new leader of the Scotti
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-15580663)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56486000/jpg/_56486980_hi013280921.jpg)
 
 ### Related:
 

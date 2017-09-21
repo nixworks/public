@@ -8,6 +8,7 @@ The increase in tiger numbers is primarily seen in India, Russia, Nepal and Bhut
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/tiger-population-increase-century-southeast-asia-446034)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/04/20/numberstigers.jpg)
 
 ### Related:
 

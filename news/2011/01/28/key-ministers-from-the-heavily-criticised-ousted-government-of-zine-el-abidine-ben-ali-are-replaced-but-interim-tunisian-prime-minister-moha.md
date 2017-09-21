@@ -8,6 +8,7 @@ Key ministers from the heavily criticised former government replaced while inter
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112720356405308.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/5/201125182557856436_20.jpg)
 
 ### Related:
 

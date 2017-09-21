@@ -10,6 +10,7 @@ The Atlantis space shuttle touches down at Kennedy Space Center in Florida after
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10163351.stm)
 2. [CNN](http://www.cnn.com/2010/US/05/26/atlantis.landing/?hpt=Sbin)
 3. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-05/27/c_13318950.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

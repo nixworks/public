@@ -11,6 +11,7 @@ Rwandan President Paul Kagame has said he is confident of re-election as he kick
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10694722)
 3. [News24.com](http://www.news24.com/Africa/News/Kagame-confident-of-win-20100720)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0721/1224275145616.html)
+4. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

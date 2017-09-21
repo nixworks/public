@@ -8,6 +8,7 @@ Three members of a family are killed in a shooting near a swimming pool in Linco
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-36834293)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2FE8/production/_90446221_facebook1976.jpg)
 
 ### Related:
 

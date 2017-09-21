@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/meast/06/13/yemen.unrest/)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/06/13/yemen.unrest/tzvids.yemen.vp.afp.gi.jpg)
 
 ### Related:
 

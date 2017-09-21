@@ -8,6 +8,7 @@ The government is defeated in Parliament over the EU budget after 53 Conservativ
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20157063)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63845000/jpg/_63845852_jex_1545509_de28.jpg)
 
 ### Related:
 

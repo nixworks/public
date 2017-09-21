@@ -11,6 +11,7 @@ For those hoping for a harsher penalty, the compromise verdict was disappointing
 2. [The Christian Science Monitor](http://www.csmonitor.com/USA/USA-Update/2015/1203/Why-coal-CEO-found-guilty-of-misdemeanor-in-miner-deaths)
 3. [The New York Times](http://www.nytimes.com/2015/12/04/us/donald-blankenship-massey-energy-upper-big-branch-mine.html)
 4. [The New Yorker](http://www.newyorker.com/business/currency/don-blankenship-west-virginias-king-of-coal-is-guilty)
+4. [Cover Image](http://www.newyorker.com/wp-content/uploads/2015/12/Osnos-Don-Blankenship-Guilty-1200x630-1449182330.jpg)
 
 ### Related:
 

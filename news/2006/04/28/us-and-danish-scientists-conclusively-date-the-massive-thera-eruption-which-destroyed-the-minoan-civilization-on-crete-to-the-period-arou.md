@@ -9,3 +9,4 @@ A single olive tree, buried alive during an ancient volcanic eruption, has scien
 
 1. [MSNBC](http://msnbc.msn.com/id/12502996/)
 2. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/04/28/wolive28.xml)
+2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/060426/0428_cover.standard.jpg)

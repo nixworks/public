@@ -8,6 +8,7 @@ Fighting in Abidjan between army and militia loyal to deposed leader Laurent Gba
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201153205242427970.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/3/20115321419353734_20.jpg)
 
 ### Related:
 

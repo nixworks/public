@@ -10,6 +10,7 @@ Villagers in Democratic Republic of Congo discovered the remains of two U.N. inv
 1. [BBC](http://www.bbc.com/news/world-africa-39418277)
 2. [Reuters](http://www.reuters.com/article/us-congo-un-idUSKBN16Z1FL)
 3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=56449#.WNswYzFT7-D)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

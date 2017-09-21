@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-storm-colin-idUSKCN0YR0WV?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160606&t=2&i=1140240749&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5519A)
 
 ### Related:
 

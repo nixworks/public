@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-att-justice31,0,1799418.story?track=rss)
+1. [Cover Image](http://www.latimes.com/media/photo/2011-08/64385203.jpg)
 
 ### Related:
 

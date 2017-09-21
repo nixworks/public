@@ -8,6 +8,7 @@ Sudan Friday accused its neighbor Chad of launching two bombing raids on its ter
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54E5GN20090515)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

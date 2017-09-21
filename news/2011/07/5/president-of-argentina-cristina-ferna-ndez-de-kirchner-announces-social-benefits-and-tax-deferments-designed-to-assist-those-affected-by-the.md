@@ -8,6 +8,7 @@ Argentine President Cristina Fernandez unveils economic measures to help the sou
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14027645)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53861000/jpg/_53861378_53861377.jpg)
 
 ### Related:
 

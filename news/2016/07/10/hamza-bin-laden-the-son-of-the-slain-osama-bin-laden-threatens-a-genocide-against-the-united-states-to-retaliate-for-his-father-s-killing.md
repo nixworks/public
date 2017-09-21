@@ -8,6 +8,7 @@ THE son of slain al Qaeda leader Osama bin Laden has threatened revenge against 
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world/north-america/osama-bin-ladens-son-threatens-revenge-against-us/news-story/e1b96dd266b71616ea881add3a6ada12)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/4f6e270b2ce871e69a91edee19413137)
 
 ### Related:
 

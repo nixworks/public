@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-13999509)
 2. [Moscow Times](http://www.themoscowtimes.com/business/article/bank-of-moscow-gets-record-bailout/439955.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53817000/jpg/_53817996_bankofmoscowvtbrussia.jpg)
 
 ### Related:
 

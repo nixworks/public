@@ -8,6 +8,7 @@ Wales says a resounding Yes in the referendum on direct law-making powers for th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-12648649)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/us-europe-migrants-turkey-sinking-idINKCN0V809I)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160131&t=2&i=1113731788&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0U03U)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010105144148123297.html)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Faisal-Shahzad-Failed-Times-Square-Bomber-Is-Jailed-For-Life-In-New-York/Article/201010115752698?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15752698_Faisal_Shahzad%3A_Failed_Times_Square_Bomber_Is_Jailed_For_Life_In_New_York)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/5/2010105144958155580_20.jpg)
 
 ### Related:
 

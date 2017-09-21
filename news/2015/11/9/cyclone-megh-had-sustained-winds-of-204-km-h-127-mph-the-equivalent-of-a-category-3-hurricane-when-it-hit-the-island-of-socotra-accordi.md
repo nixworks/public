@@ -13,6 +13,7 @@ Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on 
 4. [Reuters](http://www.reuters.com/article/2015/11/08/us-yemen-cyclone-idUSKCN0SX0TD20151108#x3ZfgHQ8zQJ5rsA8.97)
 5. [USA Today](http://www.usatoday.com/story/weather/2015/11/08/cyclone-megh-yemen-socotra/75411872/)
 6. [United States Naval Observatory](http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/io0515web.txt)
+6. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

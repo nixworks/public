@@ -9,6 +9,7 @@ U.S. lawmakers on Thursday proposed a bill to give the White House power to fast
 
 1. [Reuters](http://www.reuters.com/article/2014/01/09/us-usa-trade-congress-idUSBREA0817520140109)
 2. [US Senate](http://www.finance.senate.gov/newsroom/chairman/release/?id=7cd1c188-87f1-4a0b-8856-3fc139121ca9)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140109&t=2&i=828118020&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA081GUS00)
 
 ### Related:
 

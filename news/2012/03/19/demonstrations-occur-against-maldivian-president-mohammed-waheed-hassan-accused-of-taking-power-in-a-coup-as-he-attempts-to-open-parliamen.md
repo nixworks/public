@@ -8,6 +8,7 @@ Opposition supporters demonstrate against President Mohammed Waheed Hassan, who 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/03/2012319164024877872.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/19/2012319165612422734_20.jpg)
 
 ### Related:
 

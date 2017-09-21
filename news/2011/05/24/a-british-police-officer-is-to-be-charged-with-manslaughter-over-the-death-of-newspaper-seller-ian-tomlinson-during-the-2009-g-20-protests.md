@@ -8,6 +8,7 @@ A police officer is to be charged with manslaughter over the death of newspaper 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13519281)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52931000/jpg/_52931559_harwoodpa.jpg)
 
 ### Related:
 

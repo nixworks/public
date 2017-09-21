@@ -8,6 +8,7 @@ After admitting to plagiarism and deception in his academic credentials Rabbi Be
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Jewish-World/Jewish-News/French-chief-rabbi-resigns-over-plagiarism-affair-309510)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=216450)
 
 ### Related:
 

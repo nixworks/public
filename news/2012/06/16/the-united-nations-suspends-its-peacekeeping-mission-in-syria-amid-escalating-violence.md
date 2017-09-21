@@ -9,6 +9,7 @@ UN observers in Syria suspend their activities because of the escalating violenc
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012616122032803660.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18471686)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60952000/jpg/_60952912_60952911.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Latvian referendum on whether to give people the right to dismiss parliament o
 
 1. [AFP](http://afp.google.com/article/ALeqM5glLYfLwkvbzbPJScdfqZPHN0851g)
 2. [Reuters](http://uk.reuters.com/article/worldNews/idUKL265890220080802?sp=true)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

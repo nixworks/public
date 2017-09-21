@@ -10,6 +10,7 @@ An official report into the BBC&#39;s Newsnight programme on 2 November has conc
 1. [RTÉ News](http://www.rte.ie/news/2012/1112/bbc-newsnight.html)
 2. [The Guardian](http://www.guardian.co.uk/politics/2012/nov/12/george-entwistle-bbc-payoff-tough-justify)
 3. [The Scotsman](http://www.scotsman.com/lifestyle/tv-and-radio/bbc-turmoil-deepens-as-news-director-and-deputy-quit-1-2628301)
+3. [Cover Image](https://img.rasset.ie/0006a20e-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/03/19/news/companies/wendys-burger-king/index.htm?hpt=hp_t2)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/03/19/news/companies/wendys-burger-king/wendys.gi.01.jpg)
 
 ### Related:
 

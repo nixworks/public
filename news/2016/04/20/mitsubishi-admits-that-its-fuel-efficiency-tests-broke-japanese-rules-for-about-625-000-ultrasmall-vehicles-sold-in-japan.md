@@ -9,6 +9,7 @@ Mitsubishi Motors admits falsifying fuel economy test data for more than 600,000
 
 1. [BBC](http://www.bbc.com/news/business-36089558#)
 2. [UPI](http://www.upi.com/Business_News/2016/04/20/Mitsubishi-admits-falsifying-fuel-reports/6481461180588/?spt=rln&or=1)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1246E/production/_89326847_hi032554397.jpg)
 
 ### Related:
 

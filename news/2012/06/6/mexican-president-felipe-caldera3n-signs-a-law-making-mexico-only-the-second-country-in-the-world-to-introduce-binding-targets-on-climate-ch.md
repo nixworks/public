@@ -8,6 +8,7 @@ President Felipe Calderon signs a law making Mexico only the second country in t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18345079)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60731000/jpg/_60731300_014746746-1.jpg)
 
 ### Related:
 

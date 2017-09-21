@@ -8,6 +8,7 @@ The Poinsettia Fire has burned approximately 400 acres and several homes in Carl
 ### Source:
 
 1. [NBC](http://www.nbcsandiego.com/news/local/Brush-Fire-Carlsbad-Palomar-Airport-San-Diego-Cal-Fire-259251301.html)
+1. [Cover Image](http://media.nbcsandiego.com/images/1200*675/Carlsbad-Homes-Burned.jpg)
 
 ### Related:
 

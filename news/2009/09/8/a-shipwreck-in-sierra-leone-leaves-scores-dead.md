@@ -11,6 +11,7 @@ Schoolchildren and their parents on their way to start the new school year were 
 2. [New York Times](http://www.nytimes.com/2009/09/11/world/africa/11leone.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/sierraleone/6168747/Two-hundred-feared-dead-after-boat-capsizes-off-Sierra-Leone.html)
 4. [The Sydney Morning Herald](http://www.smh.com.au/world/200-missing-in-sierra-leone-boat-tragedy-20090911-fjpq.html)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

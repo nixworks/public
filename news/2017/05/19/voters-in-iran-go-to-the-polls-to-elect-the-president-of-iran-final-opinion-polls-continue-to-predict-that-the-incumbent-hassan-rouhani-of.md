@@ -10,6 +10,7 @@ Voters are to elect a new president, with incumbent Hassan Rouhani up against th
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/05/iran-election-president-hassan-rouhani-takes-lead-170520042625946.html)
 2. [BBC](http://www.bbc.com/news/world-middle-east-39936577)
 3. [Reuters](http://www.reuters.com/article/us-iran-election-idUSKCN18E2Y8)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/06CC/production/_96104710_7a16a5f5-2614-4a4a-a551-e5f9bfe2a063.jpg)
 
 ### Related:
 

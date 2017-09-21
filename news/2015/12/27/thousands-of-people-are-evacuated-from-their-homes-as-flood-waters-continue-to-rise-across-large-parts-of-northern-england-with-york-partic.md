@@ -8,6 +8,7 @@ All the latest news on flooding across the north of England on Monday 28 Decembe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/live/uk-england-35182274#lx-commentary-top)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

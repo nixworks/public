@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/business/5115920.stm)
 2. [Fortune](http://money.cnn.com/2006/06/25/magazines/fortune/charity1.fortune/index.htm)
 3. [NYT](http://www.nytimes.com/2006/06/26/business/26buffett.html?ei=5094&en=11261864a8d424a2&hp=&ex=1151294400&adxnnl=1&partner=homepage&adxnnlx=1151291367-MiPgvjR2owx710xCMlEn9Q)
+3. [Cover Image](https://static01.nyt.com/images/2006/06/26/us/26buffet.75.jpg)
 
 ### Related:
 

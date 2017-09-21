@@ -8,6 +8,7 @@ Strong magnitude-7.4 earthquake has struck off the coast of El Salvador and a ts
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2012/08/27/tsunami-warning-issued-after-74-magnitude-quake-strikes-off-coast-el-salavador/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

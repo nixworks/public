@@ -8,6 +8,7 @@ The European Union and Cuba on Monday signed a deal to normalise ties that had b
 ### Source:
 
 1. [AFP via Yahoo!](https://www.yahoo.com/news/eu-cuba-sign-accord-normalise-relations-090825474.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/csALKJSSNXvhAlFFPYSB5Q--/aD03MTQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/e84b4044ec934d0460e9b972f3b507364ceeca68.jpg)
 
 ### Related:
 

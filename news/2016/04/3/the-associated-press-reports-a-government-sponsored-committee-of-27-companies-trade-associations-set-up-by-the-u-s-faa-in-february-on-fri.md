@@ -8,6 +8,7 @@ WASHINGTON (AP) — A government-sponsored committee is recommending standards t
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/f23e06137ac1406eaa16342ebb772c6f/apnewsbreak-move-ok-commercial-drone-flights-over-people)
+1. [Cover Image](http://binaryapi.ap.org/a915738e65524de7ab1c53f8dbc9bbe7/460x.jpg)
 
 ### Related:
 

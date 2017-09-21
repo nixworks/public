@@ -8,6 +8,7 @@ Attackers controlling a vast collection of internet devices unleashed several ma
 ### Source:
 
 1. [The Wall Street Journal](http://www.wsj.com/articles/denial-of-service-web-attack-affects-amazon-twitter-others-1477056080)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-PX149_0920in_TOP_20160920025827.jpg)
 
 ### Related:
 

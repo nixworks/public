@@ -8,6 +8,7 @@
 ### Source:
 
 1. [San Jose Mercury News](http://www.mercurynews.com/crime-courts/ci_23860385/san-francisco-police-nab-1-5m-worth-ecstasy)
+1. [Cover Image](http://www.mercurynews.com/wp-content/themes/mercurynews/static/images/mercurynews.jpg)
 
 ### Related:
 

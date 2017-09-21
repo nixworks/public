@@ -9,6 +9,7 @@ The ruling is a major victory for LGBTQ community fighting discrimination
 
 1. [AP](http://bigstory.ap.org/article/1fe7c55acba44b4094d0de338db9b8be/court-civil-rights-law-covers-lgbt-workplace-bias)
 2. [USA Today](https://www.usatoday.com/story/news/politics/2017/04/04/federal-court-civil-rights-act-protects-lgbt-workplace-bias/100046514/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

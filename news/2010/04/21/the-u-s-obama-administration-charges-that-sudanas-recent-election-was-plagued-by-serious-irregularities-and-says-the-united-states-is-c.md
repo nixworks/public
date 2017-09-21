@@ -8,6 +8,7 @@ The White House charged that Sudan’s recent election, the first multiparty vot
 ### Source:
 
 1. [ (''The New York Times](http://www.nytimes.com/2010/04/21/world/africa/21briefs-sudan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

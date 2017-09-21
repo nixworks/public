@@ -8,6 +8,7 @@ Rival gangs clashed in a jail in the city of Acapulco, and some of the victims w
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-40527512)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A3F5/production/_96837914_dcd59840-7efe-4b47-b158-b96714646bc6.jpg)
 
 ### Related:
 

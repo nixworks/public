@@ -8,6 +8,7 @@ Two suicide bombers posing as food vendors killed at least 24 people and injured
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nigeria-violence-cameroon-idUSKCN0VS16G?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

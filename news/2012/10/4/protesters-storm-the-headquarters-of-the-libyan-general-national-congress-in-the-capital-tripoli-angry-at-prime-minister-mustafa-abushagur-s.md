@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/10/04/us-libya-government-idUSBRE8930RG20121004)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121004&t=2&i=659913042&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89318NX00)
 
 ### Related:
 

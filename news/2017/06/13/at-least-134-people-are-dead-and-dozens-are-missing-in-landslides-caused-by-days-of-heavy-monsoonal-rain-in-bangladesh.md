@@ -10,6 +10,7 @@ Officials said power and communications were cut in some areas, with weather ham
 1. [AFP via the Star](http://www.thestar.com.my/news/regional/2017/06/13/heavy-rains-kill-at-least-35-in-bangladesh/)
 2. [Al Jazeera](http://www.aljazeera.com/news/2017/06/dozens-killed-bangladesh-landslides-heavy-rain-170613081924125.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-40257913)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/144B/production/_96459150_mediaitem96459149.jpg)
 
 ### Related:
 

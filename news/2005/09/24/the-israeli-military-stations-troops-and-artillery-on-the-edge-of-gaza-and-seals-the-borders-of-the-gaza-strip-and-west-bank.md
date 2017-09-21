@@ -12,6 +12,7 @@ Palestinians fire rockets from Gaza Strip into western Negev, moderately injurin
 3. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1127442021863)
 4. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1127528430593)
 5. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3146445,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

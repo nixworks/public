@@ -10,6 +10,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4360259.stm)
 2. [NDTV](http://www.ndtv.com/template/template.asp?template=Gujaratviolence&slug=Modi+denied+visa+to+visit+US&id=16500&callid=0&category=National)
 3. [times of India](http://timesofindia.indiatimes.com/articleshow/1055543.cms)
+3. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

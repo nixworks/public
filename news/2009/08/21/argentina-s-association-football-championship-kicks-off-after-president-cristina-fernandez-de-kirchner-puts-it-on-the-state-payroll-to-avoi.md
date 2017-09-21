@@ -8,6 +8,7 @@ Argentina&rsquo;s soccer championship kicks Friday night after the government st
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/21/argentine-football-season-begins-with-the-kirchners-scoring)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19899/200x200/5c074cc7374b0bef93547446b4266ba4.jpg)
 
 ### Related:
 

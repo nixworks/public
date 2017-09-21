@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-airstrikes-idUSKBN0U30JV20151220)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-jaramana-idUSKBN0U301G20151220)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151220&t=2&i=1103713608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBJ0HT)
 
 ### Related:
 

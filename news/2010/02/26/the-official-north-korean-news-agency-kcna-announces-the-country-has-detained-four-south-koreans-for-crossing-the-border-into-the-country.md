@@ -10,6 +10,7 @@ State media reports that four South Koreans have been arrested for illegal entry
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/201022634933967767.html)
 2. [KCNA](http://www.kcna.co.jp/item/2010/201002/news26/20100226-05ee.html)
 3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/02/26/71/0401000000AEN20100226006700315F.HTML)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

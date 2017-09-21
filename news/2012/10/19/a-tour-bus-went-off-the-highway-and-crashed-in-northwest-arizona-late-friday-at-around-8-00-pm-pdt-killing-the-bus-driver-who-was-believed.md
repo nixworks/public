@@ -8,6 +8,7 @@ A tour bus careened off the road and crashed in northwest Arizona late Friday, k
 ### Source:
 
 1. [NBC](http://www.msnbc.msn.com/id/49485846/ns/us_news-life/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/121020_ariz_bus_crash.standard.jpg)
 
 ### Related:
 

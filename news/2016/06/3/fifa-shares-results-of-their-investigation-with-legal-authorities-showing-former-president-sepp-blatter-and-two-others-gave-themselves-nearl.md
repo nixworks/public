@@ -8,6 +8,7 @@ Investigators say a series of contract amendments resulted in payouts of tens of
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/06/03/480625592/ex-fifa-head-blatter-2-others-allegedly-gave-themselves-80-million)
+1. [Cover Image](https://media.npr.org/assets/img/2016/06/03/ap_16155450276567_wide-ef2bd0dcd386d5e38f6c88316fbe6ea97f142119.jpg?s=1400)
 
 ### Related:
 

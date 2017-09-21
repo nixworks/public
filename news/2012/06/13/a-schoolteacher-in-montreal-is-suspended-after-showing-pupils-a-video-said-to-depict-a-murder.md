@@ -8,6 +8,7 @@ A Montreal teacher is suspended after showing his students a video believed to s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18435143)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60888000/jpg/_60888230_015019575-1.jpg)
 
 ### Related:
 

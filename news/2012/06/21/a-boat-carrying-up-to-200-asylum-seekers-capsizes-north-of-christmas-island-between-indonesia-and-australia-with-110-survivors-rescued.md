@@ -9,6 +9,7 @@ Rescue efforts are under way after a boat believed to be carrying about 200 asyl
 
 1. [AAP via ''Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-national/110-survivors-plucked-from-asylum-boat-20120622-20rgb.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-18530311)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61044000/gif/_61044067_australia_christmasisland062012.gif)
 
 ### Related:
 

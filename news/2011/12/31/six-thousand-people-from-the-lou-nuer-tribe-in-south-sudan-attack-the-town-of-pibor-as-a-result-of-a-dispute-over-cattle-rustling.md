@@ -8,6 +8,7 @@ Fighters from the Lou Nuer ethnic group in South Sudan attack the town of Pibor,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16375646)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57644000/jpg/_57644039_armed-lou-nuer-youth-in-lik.jpg)
 
 ### Related:
 

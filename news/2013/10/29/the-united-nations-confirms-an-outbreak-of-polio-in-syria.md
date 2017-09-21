@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/syria-hit-by-polio-outbreak-un-confirms-1.2286496)
+1. [Cover Image](https://i.cbc.ca/1.2286506.1383043428!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/turkey-syria.jpg)
 
 ### Related:
 

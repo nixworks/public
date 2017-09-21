@@ -9,6 +9,7 @@ The leader of the deadly 2015 attack on Garissa University in Kenya has been kil
 
 1. [BBC](http://www.bbc.com/news/world-africa-36427289)
 2. [Daily Caller](http://dailycaller.com/2016/06/01/terrorist-responsible-for-killing-148-christians-obliterated-in-an-air-strike/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BEE1/production/_89856884_89856880.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Indonesia will gather with Malaysian and Philippine officials in the capital nex
 ### Source:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2016/04/28/indonesia-malaysia-philippines-join-forces-on-maritime-security-amid-increasing-threats.html)
+1. [Cover Image](http://img.jakpost.net/c/2016/04/28/2016_04_28_3826_1461850214._large.jpg)
 
 ### Related:
 

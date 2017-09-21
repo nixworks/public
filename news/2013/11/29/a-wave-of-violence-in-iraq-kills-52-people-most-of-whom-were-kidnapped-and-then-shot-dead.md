@@ -8,6 +8,7 @@ Most of those killed had been kidnapped and were later shot dead with their corp
 ### Source:
 
 1. [Dawn](http://dawn.com/news/1059399/iraq-death-toll-from-wave-of-attacks-hits-52-officials)
+1. [Cover Image](http://i.dawn.com/medium/2013/11/5298f18210f2d.jpg)
 
 ### Related:
 

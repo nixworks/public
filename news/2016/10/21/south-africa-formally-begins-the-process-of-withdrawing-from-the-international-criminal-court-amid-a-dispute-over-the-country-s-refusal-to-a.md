@@ -8,6 +8,7 @@ South Africa formally begins the process of withdrawing from the International C
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-37724724)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/E920/production/_92008695_mediaitem92008694.jpg)
 
 ### Related:
 

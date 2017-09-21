@@ -8,6 +8,7 @@ Oil giant Royal Dutch Shell looks set to stop refining oil at its Clyde refinery
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/shell-shelves-refining-at-clyde-20110412-1dbxn.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/d/b/p/i/image.related.thumbnail.320x214.1dbxn.png/1302578824790.jpg)
 
 ### Related:
 

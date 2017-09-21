@@ -8,6 +8,7 @@ Six Americans have been killed in a helicopter crash in southern Afghanistan, Fo
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/12/17/6-american-troops-killed-in-afghanistan-plane-crash-nato-says/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/121713/0/0/reporter_powell_121713.jpg?ve=1)
 
 ### Related:
 

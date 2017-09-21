@@ -9,6 +9,7 @@ The jury is hung and the judge declared a mistrial in the trial of Baltimore off
 
 1. [ABC News](http://abcnews.go.com/US/hung-jury-freddie-gray-trial/story?id=35795635)
 2. [NBC News](http://www.nbcnews.com/news/us-news/hung-jury-trial-baltimore-cop-freddie-gray-case-n481296)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_51/1342956/151216-william-porter-yh-0324p_a43f698aa8f88375395ed07ca5fd2321.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

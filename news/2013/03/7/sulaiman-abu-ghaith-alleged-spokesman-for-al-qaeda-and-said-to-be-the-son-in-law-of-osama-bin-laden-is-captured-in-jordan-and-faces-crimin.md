@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Star Tribune](http://www.startribune.com/politics/national/195892481.html)
+1. [Cover Image](http://stmedia.stimg.co/1binladen030813.jpg?h=630&amp;w=1200&amp;fit=crop&amp;bg=999&amp;crop=faces)
 
 ### Related:
 

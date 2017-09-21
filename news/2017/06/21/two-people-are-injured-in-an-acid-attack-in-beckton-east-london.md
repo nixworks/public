@@ -8,6 +8,7 @@ Resham Khan had celebrated her 21st birthday with her cousin when they were atta
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/uk-england-london-40398089)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/C78F/production/_96678015_warmemorial.jpg)
 
 ### Related:
 

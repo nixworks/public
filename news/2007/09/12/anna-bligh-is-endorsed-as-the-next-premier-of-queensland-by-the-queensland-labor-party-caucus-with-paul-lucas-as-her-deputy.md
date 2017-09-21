@@ -8,6 +8,7 @@ Peter Beattie was greeted with thunderous applause as he addressed the Queenslan
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/12/2030769.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/666586-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A general strike was being observed on Sunday in several regions of Syria to ste
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8949130/Syrian-activists-call-general-strike-as-fears-for-Homs-grow.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02081/homs_2081367a.jpg)

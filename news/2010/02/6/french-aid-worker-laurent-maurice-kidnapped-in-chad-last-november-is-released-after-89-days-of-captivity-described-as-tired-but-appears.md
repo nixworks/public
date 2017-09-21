@@ -13,6 +13,7 @@
 4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100207-251751/Kidnappers-free-Red-Cross-worker-held-in-Darfur)
 5. [Reuters South Africa](http://af.reuters.com/article/chadNews/idAFLDE6150AE20100206?feedType=RSS&feedName=chadNews)
 6. [news.com.au](http://www.news.com.au/breaking-news/world/kidnappers-free-darfur-red-cross-worker/story-e6frfkui-1225827495247)
+6. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

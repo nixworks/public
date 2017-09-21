@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world/europe/romanian-woman-andreea-cristea-dies-in-hospital-after-london-terror-attack/news-story/3dfbb1073e634a35079264ab9d32917a)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/647b0a44e6aa431152d46021cfca2401)
 
 ### Related:
 

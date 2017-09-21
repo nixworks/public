@@ -8,6 +8,7 @@ Iraqi forces have launched an offensive to retake Ramadi from Islamic State mili
 ### Source:
 
 1. [The Military Times](http://www.militarytimes.com/story/breaking-news/2015/11/26/iraqis-offensive-retake-ramadi-islamic-state-isis-isil/76411738/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/c5/ab/8e7b14f141478c5f57324d793666/635841348467666496-12304178-1638112963121505-8766724119946329555-ojpg)
 
 ### Related:
 

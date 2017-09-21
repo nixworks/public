@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Ars Technica](http://arstechnica.com/science/2017/01/live-saturday-spacex-will-attempt-a-return-to-flight/)
+1. [Cover Image](https://cdn.arstechnica.net/wp-content/uploads/2017/01/spacex-760x380.jpg)
 
 ### Related:
 

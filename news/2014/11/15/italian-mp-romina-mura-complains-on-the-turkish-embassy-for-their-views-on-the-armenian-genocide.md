@@ -8,6 +8,7 @@ Turkey has reached a point, that it now targets Pope Francis, who called it “t
 ### Source:
 
 1. [Armenpress](http://armenpress.am/eng/news/784125/italian-mp-complains-on-turkish-embassy’s-anti-armenian-activity.html)
+1. [Cover Image](https://armenpress.am/static/news/b/2014/11/784125.jpg)
 
 ### Related:
 

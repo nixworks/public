@@ -9,6 +9,7 @@ The House of Representatives Committee on Justice on Tuesday declared the three 
 
 1. [GMA Network](http://www.gmanetwork.com/news/story/376405/news/nation/only-first-3-impeachment-complaints-vs-pnoy-to-be-considered-tupas)
 2. [The Philippine Star](http://www.philstar.com/headlines/2014/08/26/1361958/3-impeach-raps-vs-aquino-sufficient-form)
+2. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20140826/benigno-aquino-impeachment-complaints.jpg)
 
 ### Related:
 

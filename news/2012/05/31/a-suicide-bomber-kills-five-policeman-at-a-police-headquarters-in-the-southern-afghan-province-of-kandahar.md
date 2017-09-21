@@ -8,6 +8,7 @@ A suicide bomb attack on a police headquarters in the southern Afghan province o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18276859)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60608000/gif/_60608962_afghan_kand_kun_nan_31.05.12.gif)
 
 ### Related:
 

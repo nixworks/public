@@ -8,6 +8,7 @@ All the 16 Indian sailors on board a hijacked vessel off Somalian coast have bee
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/Somali-pirates-release-ship-with-16-Indians-on-board/articleshow/4299004.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

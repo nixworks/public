@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4162084.stm)
 2. [CBS](http://www.cbsnews.com/stories/2005/08/18/terror/main784447.shtml)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2005/08/18/d12f6c0b-a642-11e2-a3f0-029118418759/image784452x.jpg)
 
 ### Related:
 

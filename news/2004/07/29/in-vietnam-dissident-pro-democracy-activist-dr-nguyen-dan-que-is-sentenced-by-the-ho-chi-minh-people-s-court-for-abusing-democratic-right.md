@@ -9,6 +9,7 @@ Things to do in Miami
 
 1. [Miami Herald](http://www.miami.com/mld/miamiherald/news/world/9271340.htm?1c)
 2. [Vietnam News Agency](http://www.vnagency.com.vn/newsA.asp?LANGUAGE_ID=2&CATEGORY_ID=29&NEWS_ID=111191)
+2. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-chile-lgbt-idUSKCN1B81IA?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170828&t=2&i=1198882643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7R11V)
 
 ### Related:
 

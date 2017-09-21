@@ -9,6 +9,7 @@ The weather bureau is warning of phenomenal rainfall as a red alert places parts
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/1741030/Cyclone-puts-Port-Hedland-on-red-alert)
 2. [ABC News Australia](http://www.abc.net.au/news/2013-02-26/pilbara-residents-nervously-monitoring-cyclone-rusty/4539804)
+2. [Cover Image](http://www.abc.net.au/news/image/4541212-1x1-700x700.jpg)
 
 ### Related:
 

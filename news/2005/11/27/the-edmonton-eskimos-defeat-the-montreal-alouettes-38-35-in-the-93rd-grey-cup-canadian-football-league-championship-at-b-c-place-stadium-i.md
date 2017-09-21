@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Game Coverage](http://www.tsn.ca/cfl/news_story.asp?ID=144765&hubName=cfl)
+1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
 
 ### Related:
 

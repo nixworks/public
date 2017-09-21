@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Big pond News](http://bigpondnews.com/articles/World/2011/10/28/WWII_bomb_prompts_German_evacuations_678838.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

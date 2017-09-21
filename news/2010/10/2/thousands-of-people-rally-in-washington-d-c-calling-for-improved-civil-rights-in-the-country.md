@@ -9,6 +9,7 @@ Labour unions, civil rights activists and others gather to show support for Demo
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010102205537639879.html)
 2. [CNN](http://www.cnn.com/2010/POLITICS/10/02/one.nation.rally/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/2/2010102215919199734_20.jpg)
 
 ### Related:
 

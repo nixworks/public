@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/03/18/fbi-know-who-did-580m-boston-art-heist/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/slideshow/2012/11/16/high-profile-art-heists-that-remain-unsolved/_jcr_content/slideshow-par/slide_image/image.img.jpg/0/0/1438977230226.jpg?ve=1)
 
 ### Related:
 

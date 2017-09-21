@@ -8,6 +8,7 @@ Officials cautioned that the peacekeeping force would not be used to disarm Hezb
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2006/08/26/world/middleeast/26force.html?_r=1&ref=todayspaper&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2006/08/25/world/25leba.75.jpg)
 
 ### Related:
 

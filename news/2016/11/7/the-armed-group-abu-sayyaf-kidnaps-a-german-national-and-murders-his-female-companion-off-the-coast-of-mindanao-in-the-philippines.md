@@ -8,6 +8,7 @@ An Islamist militant group has claimed it has abducted a German sailor and kille
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/abu-sayyaf-holds-german-sailor-for-ransom/a-36287000)
+1. [Cover Image](http://www.dw.com/image/19178900_304.png)
 
 ### Related:
 

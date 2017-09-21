@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/29/us-britain-election-idUSKBN0MP0ZW20150329)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150329&t=2&i=1036395802&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2S0I6)
 
 ### Related:
 

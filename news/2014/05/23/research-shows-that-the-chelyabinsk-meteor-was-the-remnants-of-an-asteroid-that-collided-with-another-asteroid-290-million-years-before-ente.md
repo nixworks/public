@@ -8,6 +8,7 @@ An asteroid that exploded over Russia had a force almost 30 times as powerful as
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-05-23/asteroid-samples-analysed-after-earth-collision/5472798)
+1. [Cover Image](http://www.abc.net.au/news/image/5472810-1x1-700x700.jpg)
 
 ### Related:
 

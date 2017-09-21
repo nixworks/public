@@ -8,6 +8,7 @@ The newfound spider family is being named trogloraptor, meaning &quot;cave robbe
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/science/article/New-spider-family-identified-in-Oregon-3791910.php)
+1. [Cover Image](http://ww1.hdnux.com/photos/14/55/76/3334036/3/rawImage.jpg)
 
 ### Related:
 

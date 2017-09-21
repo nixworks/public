@@ -8,6 +8,7 @@ Water fountains at 30 schools in Newark, New Jersey, were shut off on Wednesday 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-new-jersey-lead-idUSKCN0WB2N6)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

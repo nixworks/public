@@ -8,6 +8,7 @@ Key policing services are being left &quot;unfunded&quot; by budget cuts, the pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14009444)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53847000/jpg/_53847535_012373485-1.jpg)
 
 ### Related:
 

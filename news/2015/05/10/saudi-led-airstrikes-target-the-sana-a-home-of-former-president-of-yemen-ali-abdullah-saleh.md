@@ -9,6 +9,7 @@
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3075327/Yemen-accepts-5-day-truce-proposed-Saudi-Arabia--Houthi-allied-army-spokesperson.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 2. [Thomson Reuters Trust](http://www.trust.org/item/20150510033110-q4dgv)
+2. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/a5ec0543-ee9a-4adb-b570-cc5b8ef167e7/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

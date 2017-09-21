@@ -8,6 +8,7 @@ The European Commission says reforms proposed by Greece in a bid to get further 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31599688)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81201000/jpg/_81201506_homelessgetty.jpg)
 
 ### Related:
 

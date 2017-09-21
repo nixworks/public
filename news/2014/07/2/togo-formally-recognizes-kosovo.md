@@ -8,6 +8,7 @@ On this occasion, Minister Hoxhaj met with Turkey&#39;s Ambassador in Kosovo, So
 ### Source:
 
 1. [Ministry of Foreign Affairs of the Republic of Kosovo](http://www.mfa-ks.net/?page=2,4,2381)
+1. [Cover Image](http://www.mfa-ks.net/repository/images/main/14_05_2014_6761558_Foto_1_14052014_v.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A devastating storm swept through eastern China on Sunday, leaving 20 people dea
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/weather/2015/08/09/typhoon-weakens-china/31366767/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

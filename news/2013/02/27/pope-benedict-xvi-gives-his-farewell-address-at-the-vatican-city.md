@@ -8,6 +8,7 @@ On his final full day as the leader of the Roman Catholic Church, Pope Benedict 
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/pope-benedict-xvi-delivers-farewell-address/story?id=18604583)
+1. [Cover Image](http://a.abcnews.com/images/International/ap_Pope2_ac_130227_wmain.jpg)
 
 ### Related:
 

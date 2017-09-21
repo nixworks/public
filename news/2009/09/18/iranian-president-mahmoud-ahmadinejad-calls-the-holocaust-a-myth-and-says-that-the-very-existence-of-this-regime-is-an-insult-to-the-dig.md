@@ -15,6 +15,7 @@ Iranian President Mahmoud Ahmadinejad has said the Holocaust was a &#39;myth&#39
 6. [The Guardian](http://www.guardian.co.uk/world/2009/sep/18/opposition-protests-iran-quds-day)
 7. [Xinhua](http://news.xinhuanet.com/english/2009-09/18/content_12075949.htm)
 8. [Xinhua](http://news.xinhuanet.com/english/2009-09/18/content_12076522.htm)
+8. [Cover Image](https://img.rasset.ie/00029af0-1600.jpg)
 
 ### Related:
 

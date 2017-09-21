@@ -12,6 +12,7 @@ In historic events involving tens of thousands, often hundreds of thousands, som
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/05/turkish-police-arrests-social-media-protest)
 4. [The Huffington Post](http://www.huffingtonpost.co.uk/2013/06/05/turkey-uprising-ceyda-sungur_n_3388712.html?utm_hp_ref=uk)
 5. [The National](http://www.thenational.ae/news/world/europe/ceyda-sungur-the-woman-in-red-becomes-iconic-image-of-turkey-protests)
+5. [Cover Image](http://www.thenational.ae/storyimage/AB/20130606/ARTICLE/306069979/AR/0/AR-306069979.jpg)
 
 ### Related:
 

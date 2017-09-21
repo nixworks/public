@@ -8,6 +8,7 @@ Even the mayor was there. On Wednesday night, Rainforest Farms made the first le
 ### Source:
 
 1. [Juneau Empire](http://juneauempire.com/local/2016-11-24/juneaus-first-marijuana-sale-goes-without-hitch)
+1. [Cover Image](http://juneauempire.com/sites/default/files/images/image/JuneauShare.png)
 
 ### Related:
 

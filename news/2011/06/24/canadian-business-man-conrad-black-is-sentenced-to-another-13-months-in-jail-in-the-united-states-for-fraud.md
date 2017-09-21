@@ -8,6 +8,7 @@ In resentencing former media mogul, judge says stealing from company shareholder
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/americas/black-sent-back-to-jail-for-13-months/article2075395/?from=sec431)
+1. [Cover Image](http://static.theglobeandmail.ca/b7b/incoming/article856011.ece/ALTERNATES/w620/web-conrad-black25nw2.jpg)
 
 ### Related:
 

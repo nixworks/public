@@ -11,6 +11,7 @@ Ousted Thai prime minister Yingluck Shinawatra has fled the country ahead of a v
 2. [Reuters](http://www.reuters.com/article/us-thailand-politics-idUSKCN1B50AR)
 3. [The New York Times](https://www.nytimes.com/2017/08/24/world/asia/thailand-yingluck-shinawatra-trial-verdict-arrest-warrant.html)
 4. [The Sydney Morning Herald](http://www.smh.com.au/world/yingluck-shinawatra-trial-supreme-court-seeks-arrest-of-former-prime-minister-20170825-gy42xb.html)
+4. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170825&t=2&i=1198489267&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7O08O)
 
 ### Related:
 

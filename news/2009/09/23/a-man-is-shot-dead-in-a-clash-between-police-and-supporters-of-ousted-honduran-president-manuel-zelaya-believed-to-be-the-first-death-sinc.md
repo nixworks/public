@@ -8,6 +8,7 @@ A man has been shot dead in a clash between police and supporters of ousted Hond
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0923/honduras.html)
+1. [Cover Image](https://img.rasset.ie/000267ba-1600.jpg)
 
 ### Related:
 

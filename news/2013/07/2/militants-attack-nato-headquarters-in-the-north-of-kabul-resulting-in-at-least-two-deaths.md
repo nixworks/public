@@ -9,6 +9,7 @@ Taliban insurgents including a suicide bomber in a truck killed six people in an
 
 1. [AP via Newsday](http://www.newsday.com/news/world/nato-compound-in-kabul-attacked-6-killed-1.5601208)
 2. [Reuters](http://www.reuters.com/article/2013/07/02/us-afghanistan-blast-idUSBRE96102520130702)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130702&t=2&i=746727259&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9610DBA00)
 
 ### Related:
 

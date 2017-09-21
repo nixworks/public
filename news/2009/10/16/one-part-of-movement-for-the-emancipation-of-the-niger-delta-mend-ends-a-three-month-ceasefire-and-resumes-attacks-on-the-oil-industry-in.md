@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8309980.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20091015130713645C635571)
 3. [Reuters](http://www.reuters.com/article/marketsNews/idUSLG9715920091016)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

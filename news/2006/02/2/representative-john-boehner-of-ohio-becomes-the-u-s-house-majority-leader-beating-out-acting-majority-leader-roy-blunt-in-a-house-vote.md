@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2006/02/02/politics/02cnd-cong.html?hp&ex=1138942800&en=5b186f41a14ac954&ei=5094&partner=homepage)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

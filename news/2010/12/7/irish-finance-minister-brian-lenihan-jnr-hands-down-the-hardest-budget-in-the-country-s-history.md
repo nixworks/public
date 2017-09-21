@@ -18,6 +18,7 @@ The High Court has ordered the release of a man who was placed in custody this m
 9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking76.html)
 10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking79.html)
 11. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1208/1224285029778.html)
+11. [Cover Image](https://img.rasset.ie/0003ffc7-1600.jpg)
 
 ### Related:
 

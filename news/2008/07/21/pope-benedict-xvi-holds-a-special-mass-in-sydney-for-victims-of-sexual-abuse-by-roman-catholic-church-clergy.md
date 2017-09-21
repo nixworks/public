@@ -8,6 +8,7 @@ Benedict XVI holds private mass with victims of clergy sex abuse in Australia.
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/asia-pacific/2008/07/200872111256994255.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

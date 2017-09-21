@@ -11,6 +11,7 @@ Benedict XVI said the Roman Catholic Church was taking action against the scourg
 2. [News24](http://www.news24.com/World/News/Pope-promises-action-on-abuse-20100421)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE63K2KA20100421?feedType=RSS&feedName=worldNews)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/church-acting-against-paedophiles-pope-20100422-t9ai.html)
+4. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23707449)
 2. [R7](http://noticias.r7.com/brasil/aprovado-projeto-que-destina-75-dos-royalties-do-petroleo-para-educacao-e-25-para-saude-14082013)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62005000/jpg/_62005652_jex_1483795_de30-1.jpg)
 
 ### Related:
 

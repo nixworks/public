@@ -8,6 +8,7 @@ The fast-moving Valley Fire that started burning in Lake County yesterday has ex
 ### Source:
 
 1. [ABC News Bay Area](http://abc7news.com/news/valley-fire-50000-acres-zero-percent-contained/982892/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/kgo/images/cms/automation/vod/983275_1280x720.jpg)
 
 ### Related:
 

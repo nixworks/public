@@ -8,6 +8,7 @@ The judge in London’s cricket corruption trial imposed prison sentences on Thu
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/11/04/sports/cricket/judge-sentences-pakistan-cricketers-agent-to-prison.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/11/04/world/4cricket-image2/4cricket-image2-thumbStandard.jpg)
 
 ### Related:
 

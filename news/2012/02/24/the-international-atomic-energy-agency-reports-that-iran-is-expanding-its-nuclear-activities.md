@@ -8,6 +8,7 @@ A report indicated Iran had begun producing fuel inside a new facility near the 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/02/25/world/middleeast/atomic-agency-says-iran-is-making-fuel-at-protected-site.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

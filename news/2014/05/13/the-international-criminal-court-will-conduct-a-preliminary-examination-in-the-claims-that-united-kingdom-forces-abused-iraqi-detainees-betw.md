@@ -8,6 +8,7 @@ An initial investigation into claims that UK forces abused Iraqi detainees is to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-27397695#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74828000/jpg/_74828071_74828067.jpg)
 
 ### Related:
 

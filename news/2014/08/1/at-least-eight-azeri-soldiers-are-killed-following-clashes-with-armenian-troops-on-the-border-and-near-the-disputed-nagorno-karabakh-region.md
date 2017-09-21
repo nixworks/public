@@ -8,6 +8,7 @@ Azerbaijan said Friday eight soldiers had been killed in three days of clashes w
 ### Source:
 
 1. [Yahoo News](http://news.yahoo.com/eight-azeri-troops-killed-clashes-armenia-143329684.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/r7TtmZmPahEq8exYUncm1w--/aD0xOTc4O3c9MzAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/9b6f9e8fb446050b007b88b3a9c5f49b200702b7.jpg)
 
 ### Related:
 

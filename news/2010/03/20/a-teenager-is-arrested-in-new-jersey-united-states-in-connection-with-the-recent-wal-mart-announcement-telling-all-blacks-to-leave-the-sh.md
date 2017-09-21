@@ -10,6 +10,7 @@ Juvenile Arrested in N.J. Bias Incident in Which Blacks Were Told to Leave Store
 1. [CBS News](http://www.cbsnews.com/stories/2010/03/20/national/main6317068.shtml)
 2. [CNN](http://www.cnn.com/2010/CRIME/03/20/walmart.racial.remark/index.html)
 3. [The New York Times](http://www.nytimes.com/2010/03/21/nyregion/21walmart.html?src=me)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/03/18/78ab6fb4-a642-11e2-a3f0-029118418759/image6310950x.jpg)
 
 ### Related:
 

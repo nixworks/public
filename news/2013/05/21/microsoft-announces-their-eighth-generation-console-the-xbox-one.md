@@ -8,6 +8,7 @@ Microsoft has finally revealed its next-generation console, called Xbox One.
 ### Source:
 
 1. [IGN](http://www.ign.com/articles/2013/05/21/xbox-720-is-called-xbox-one)
+1. [Cover Image](http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/05/XboxOneBlogroll-136x77.jpg)
 
 ### Related:
 

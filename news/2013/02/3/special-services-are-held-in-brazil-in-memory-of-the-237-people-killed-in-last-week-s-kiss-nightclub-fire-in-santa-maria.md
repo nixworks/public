@@ -8,6 +8,7 @@ Special services are being held in Brazil in memory of the 237 people who died i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21313969)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65675000/jpg/_65675846_65675845.jpg)
 
 ### Related:
 

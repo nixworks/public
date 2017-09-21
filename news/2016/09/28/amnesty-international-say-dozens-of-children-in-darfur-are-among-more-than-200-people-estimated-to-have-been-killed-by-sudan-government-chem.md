@@ -8,6 +8,7 @@ The Sudanese government is allegedly using chemical weapons against its own peop
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-37497025)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6324/production/_91408352_2cb6cd91-b882-4f21-93d7-ec14db9b81fa.jpg)
 
 ### Related:
 

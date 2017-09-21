@@ -15,3 +15,4 @@
 6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=4406775)
 7. [SF Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2004/02/20/MNGSF54RDD1.DTL)
 8. [WorldNetDaily](http://worldnetdaily.com/news/article.asp?ARTICLE_ID=37223)
+8. [Cover Image](http://ww1.hdnux.com/photos/10/35/07/2216424/5/rawImage.jpg)

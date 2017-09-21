@@ -8,6 +8,7 @@ Education Secretary Michael Gove apologises after his row with the home secretar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-27750921)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75374000/jpg/_75374938_comp.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tokyo tells Beijing to compensate it for patrol boats allegedly damaged in a col
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7219372.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/20109276145288381.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/19/201091914535560734_20.jpg)
 
 ### Related:
 

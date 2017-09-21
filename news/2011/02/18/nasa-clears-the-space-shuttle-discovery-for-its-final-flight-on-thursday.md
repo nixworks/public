@@ -8,6 +8,7 @@ Top NASA officials met today and unanimously agreed to proceed with the planned 
 ### Source:
 
 1. [Space](http://www.space.com/10903-space-shuttle-discovery-launch-date.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwNy84NzAvb3JpZ2luYWwvc2h1dHRsZS1kaXNjb3ZlcnktZmluYWwtcm9sbG91dC0xMTAxMzEuanBn)
 
 ### Related:
 

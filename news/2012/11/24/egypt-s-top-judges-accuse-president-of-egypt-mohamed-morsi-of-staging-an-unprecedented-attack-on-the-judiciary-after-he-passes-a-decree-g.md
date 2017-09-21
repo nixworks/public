@@ -8,6 +8,7 @@ Egyptian judges call for a nationwide strike amid protests against a decree by P
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20476693)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64364000/jpg/_64364108_64364107.jpg)
 
 ### Related:
 

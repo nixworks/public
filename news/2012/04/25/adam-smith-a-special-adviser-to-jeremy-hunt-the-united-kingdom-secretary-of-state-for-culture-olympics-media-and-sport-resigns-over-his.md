@@ -9,6 +9,7 @@ Ex-Prime Minister Gordon Brown denies he &quot;declared war&quot; on News Corpor
 
 1. [AP via ''Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2018062325_apeubritainphonehackinghunt.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-17843752)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59852000/jpg/_59852353_014595371-1.jpg)
 
 ### Related:
 

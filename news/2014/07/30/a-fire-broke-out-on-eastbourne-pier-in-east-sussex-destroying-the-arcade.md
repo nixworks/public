@@ -8,3 +8,4 @@ A devastating fire tears through Eastbourne Pier, leaving the structure an &quot
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-sussex-28571431)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76632000/jpg/_76632856_76632855.jpg)

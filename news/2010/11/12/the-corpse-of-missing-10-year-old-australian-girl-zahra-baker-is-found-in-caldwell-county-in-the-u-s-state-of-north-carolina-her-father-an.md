@@ -8,6 +8,7 @@ The human remains found in North Carolina Wednesday were confirmed to be those o
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2010/11/12/remains-north-carolina-reportedly-confirmed-missing-girl/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

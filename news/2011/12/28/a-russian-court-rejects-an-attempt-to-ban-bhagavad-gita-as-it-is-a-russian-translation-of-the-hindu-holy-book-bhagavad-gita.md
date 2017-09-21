@@ -8,6 +8,7 @@ An edition of the Hindu holy book the Bhagvad Gita escapes a threatened ban in R
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16344615)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54169000/jpg/_54169252_reading_gita_afp304.jpg)
 
 ### Related:
 

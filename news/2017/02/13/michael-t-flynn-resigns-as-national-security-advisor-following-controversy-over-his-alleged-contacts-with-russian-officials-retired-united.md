@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-flynn-idUSKBN15S0BR)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170214&t=2&i=1172632998&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1D13N)
 
 ### Related:
 

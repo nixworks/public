@@ -10,6 +10,7 @@ Infiltrators shot dead in exchange of fire with IDF soldiers.
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061135822164378.html)
 2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=177098)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=177148)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=13824)
 
 ### Related:
 

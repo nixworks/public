@@ -16,6 +16,7 @@ Anti-government protesters have taken to the streets of Yemen, calling for an en
 7. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/02/13/2003495758)
 8. [Times'' LIVE](http://www.timeslive.co.za/world/article909790.ece/Yemen-revolt-begins-in-central-Sanaa)
 9. [Yemen Post](http://yemenpost.net/Detail123456789.aspx?ID=3&SubID=3129&MainCat=3)
+9. [Cover Image](http://playlists.bbc.co.uk/news/world-middle-east-12441246A/playlist.sxml)
 
 ### Related:
 

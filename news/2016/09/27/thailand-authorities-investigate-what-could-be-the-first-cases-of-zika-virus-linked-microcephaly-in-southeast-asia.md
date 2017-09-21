@@ -8,6 +8,7 @@ Thailand is investigating four suspected cases of Zika-related microcephaly in t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-health-zika-thailand-idUSKCN11X0OO?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160927&t=2&i=1155113624&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8Q0EM)
 
 ### Related:
 

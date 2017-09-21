@@ -8,6 +8,7 @@ Political and economic transitions that evolved over centuries in other lands ha
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/a-new-day-dawns-for-png-politics-20120622-20tpa.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/0/u/7/j/image.related.thumbnail.320x214.20tpa.png/1340415662800.jpg)
 
 ### Related:
 

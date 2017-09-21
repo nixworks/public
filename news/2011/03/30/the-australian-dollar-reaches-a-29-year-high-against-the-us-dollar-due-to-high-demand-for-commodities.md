@@ -9,6 +9,7 @@ The Australian dollar has risen to a 29-year high against the US dollar as deman
 
 1. [BBC](http://www.bbc.co.uk/news/business-12903060)
 2. [Market Watch](http://www.marketwatch.com/story/australian-dollar-hits-fresh-post-float-high-2011-03-29?siteid=rss)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

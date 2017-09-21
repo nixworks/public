@@ -8,6 +8,7 @@ Libyan ex-PM al-Baghdadi al-Mahmoudi is extradited by Tunisia, where he fled dur
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18571464)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61108000/jpg/_61108496_012681935-1.jpg)
 
 ### Related:
 

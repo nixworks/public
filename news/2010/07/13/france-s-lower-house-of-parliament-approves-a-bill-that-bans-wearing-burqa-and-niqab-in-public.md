@@ -11,6 +11,7 @@ Lower house passes ban on wearing garment in public places by 336 votes to one.
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10611398.stm)
 3. [France24](http://www.france24.com/en/20100713-french-lawmakers-pass-bill-ban-burqa-public-spaces)
 4. [RTÉ](http://www.rte.ie/news/2010/0713/burqa.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

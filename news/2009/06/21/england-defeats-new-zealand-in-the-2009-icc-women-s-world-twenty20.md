@@ -8,6 +8,7 @@ England have beaten New Zealand twice in World Cup finals in a span of three mon
 ### Source:
 
 1. [Times of India](http://cricket.timesofindia.indiatimes.com/World-Cup-win-at-home-is-special/articleshow/4684255.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/4684255.cms)
 
 ### Related:
 

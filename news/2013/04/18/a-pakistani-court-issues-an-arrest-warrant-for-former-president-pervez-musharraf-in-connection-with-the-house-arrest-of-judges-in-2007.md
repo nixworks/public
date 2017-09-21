@@ -9,6 +9,7 @@ A Pakistani court orders the arrest of ex-military ruler Pervez Musharraf over m
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/news/crime/article/Pakistan-s-Musharraf-on-the-run-after-arrest-order-4443590.php)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22196101)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67078000/jpg/_67078097_67078096.jpg)
 
 ### Related:
 

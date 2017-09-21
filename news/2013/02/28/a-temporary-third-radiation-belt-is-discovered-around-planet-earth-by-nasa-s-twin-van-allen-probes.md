@@ -8,6 +8,7 @@ NASA has discovered a new radiation ring encircling the Earth. The short-lived r
 ### Source:
 
 1. [Space.com](http://www.space.com/20004-earth-radiation-belt-discovery.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyNi82MzYvb3JpZ2luYWwvbmFzYS1lYXJ0aC1yYWRpYXRpb24tYmVsdC1kaXNjb3ZlcnkuanBn)
 
 ### Related:
 

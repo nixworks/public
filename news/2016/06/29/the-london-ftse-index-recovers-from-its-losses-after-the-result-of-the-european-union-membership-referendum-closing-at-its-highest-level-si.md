@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-britain-stocks-idUKKCN0ZF21N)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160701&t=2&i=1143686485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC602E5)
 
 ### Related:
 

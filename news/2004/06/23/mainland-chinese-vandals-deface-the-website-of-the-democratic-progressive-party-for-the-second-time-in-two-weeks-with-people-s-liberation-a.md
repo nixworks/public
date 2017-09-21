@@ -9,6 +9,7 @@ TheINQUIRER publishes daily news, reviews on the latest gadgets and devices, and
 
 1. [Inquirer](http://www.theinquirer.net/?article=16753)
 2. [TaipeiTimes](http://www.taipeitimes.com/News/taiwan/archives/2004/06/23/2003176179)
+2. [Cover Image](//m.theinquirer.net/images/branding_logo.svg)
 
 ### Related:
 

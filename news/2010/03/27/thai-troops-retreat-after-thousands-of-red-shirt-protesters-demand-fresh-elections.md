@@ -9,6 +9,7 @@
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/172969/thai-troops-retreat-in-face-of-80000-protesters)
 2. [Reuters](http://www.reuters.com/article/idUSTRE62Q0C120100327)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100327&t=2&i=82739677&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-27T164431Z_01_BTRE62Q1AIC00_RTROPTP_0_THAILAND-POLITICS)
 
 ### Related:
 

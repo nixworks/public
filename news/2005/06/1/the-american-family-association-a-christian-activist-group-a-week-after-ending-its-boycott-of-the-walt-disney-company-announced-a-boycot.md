@@ -8,6 +8,7 @@ The American Family Association has fired another missile in its long war agains
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/8047423/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/050531/050531_fordad_vmed_130p.standard.jpg)
 
 ### Related:
 

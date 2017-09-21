@@ -8,6 +8,7 @@ An Arizona judge sentenced former waitress Jodi Arias to life in prison with no 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/13/us-usa-crime-arias-idUSKBN0N40VI20150413)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150413&t=2&i=1040133054&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3C0SX)
 
 ### Related:
 

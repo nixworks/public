@@ -8,6 +8,7 @@ The Brazilian Socialist Party names environmental campaigner Marina Silva as its
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-28875205)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77069000/jpg/_77069753_77069752.jpg)
 
 ### Related:
 

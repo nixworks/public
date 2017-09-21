@@ -11,6 +11,7 @@ Gottfrid Svartholm Warg, one of the founders of the popular file-sharing website
 2. [Khmer440.com](http://www.khmer440.com/k/2012/09/pirate-bay-founder-gottried-svartholm-arrested-in-phnom-penh-cambodia/)
 3. [The Local](http://www.thelocal.se/42952/20120901/)
 4. [TorrentFreak](https://torrentfreak.com/pirate-bay-founder-arrested-in-cambodia-120901/)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59105000/jpg/_59105600_pirateeee.jpg)
 
 ### Related:
 

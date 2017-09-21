@@ -8,6 +8,7 @@ Shelling from across the border in Yemen killed three people in Saudi Arabia Fri
 ### Source:
 
 1. [Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Sep-18/315775-shelling-from-yemen-kills-3-in-saudi-border-region.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/09/18/455208_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

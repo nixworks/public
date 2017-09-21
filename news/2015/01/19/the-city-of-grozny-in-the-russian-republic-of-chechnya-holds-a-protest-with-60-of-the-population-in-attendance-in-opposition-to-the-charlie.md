@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/19/us-france-shooting-chechnya-idUSKBN0KS1C920150119)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150119&t=2&i=1017437737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0I0IL)
 
 ### Related:
 

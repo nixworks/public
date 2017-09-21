@@ -9,6 +9,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11111447)
 2. [Hürriyet Daily News](http://www.hurriyetdailynews.com/n.php?n=landslide-kills-7-in-northern-turkey-2010-08-27)
+2. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

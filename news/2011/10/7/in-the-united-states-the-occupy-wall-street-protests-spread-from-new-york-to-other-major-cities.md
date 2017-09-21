@@ -9,6 +9,7 @@ Protests against corporate greed and economic inequality spread across America o
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15160953)
 2. [Reuters](http://www.reuters.com/article/2011/10/07/us-wallstreet-protests-idUSTRE7945JB20111007)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111007&t=2&i=512526484&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7961DX700)
 
 ### Related:
 

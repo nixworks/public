@@ -9,6 +9,7 @@ The Special Tribunal for Lebanon’s most high-profile hearing to date ended in 
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Politics/2011/Nov-12/153845-rival-counsels-trade-blows-over-in-absentia-trials.ashx#axzz1dXvg4bJc)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle-east/prosecutors-tell-court-to-hold-off-on-trial-in-absentia-for-hariri-slaying-suspects/2011/11/11/gIQABWqPBN_story.html)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2011/11/12/33539_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

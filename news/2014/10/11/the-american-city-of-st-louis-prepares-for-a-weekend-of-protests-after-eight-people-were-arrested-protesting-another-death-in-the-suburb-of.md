@@ -8,6 +8,7 @@ Thousands of protesters marched through St. Louis on Saturday as part of a weeke
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/10/11/us-usa-missouri-shooting-idUSKCN0HZ25E20141011?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141011&t=2&i=982702720&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9A0C6)
 
 ### Related:
 

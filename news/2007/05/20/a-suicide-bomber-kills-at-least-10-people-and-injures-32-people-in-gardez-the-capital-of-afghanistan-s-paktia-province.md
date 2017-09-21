@@ -8,6 +8,7 @@ The attack came a day after another suicide bombing killed nine people, among th
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/05/21/world/asia/21afghan.html?_r=1&ref=world&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ It is the second kidnapping in the Philippine region in a week.
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/gunmen-philippines-kidnap-six-vietnamese-sailors-near-abu-sayyaf-heartland-519985)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/11/11/philippine-troops-fighting-against-abu-sayyaf.jpg)
 
 ### Related:
 

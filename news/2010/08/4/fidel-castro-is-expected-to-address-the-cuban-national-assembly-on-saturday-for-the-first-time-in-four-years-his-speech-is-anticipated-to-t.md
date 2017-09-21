@@ -10,6 +10,7 @@ Fidel Castro, the former Cuban leader, is expected to address the communist coun
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10872472)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/cuba/7927275/Fidel-Castro-to-address-Cubas-National-Assembly-for-first-time-in-four-years.html)
 3. [The Star](http://thestar.com.my/news/story.asp?file=/2010/8/5/worldupdates/2010-08-05T022646Z_01_NOOTR_RTRMDNC_0_-506352-1&sec=Worldupdates)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01689/castro_1689819a.jpg)
 
 ### Related:
 

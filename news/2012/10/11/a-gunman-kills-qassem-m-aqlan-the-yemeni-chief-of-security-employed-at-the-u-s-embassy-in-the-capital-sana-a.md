@@ -8,6 +8,7 @@ A Yemeni employee of the US embassy in the capital Sanaa is shot dead in an atta
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19908088)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63437000/jpg/_63437877_63437876.jpg)
 
 ### Related:
 

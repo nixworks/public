@@ -10,6 +10,7 @@ Voyagers 1 and 2 discover that key layer of solar system is flattened on one sid
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jjS-qtx8X81YHf4vp7rtm-MOmAMw)
 2. [Fox News](http://www.foxnews.com/story/0,2933,375447,00.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/07/03/scisolar103.xml)
+3. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

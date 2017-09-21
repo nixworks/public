@@ -8,6 +8,7 @@ Unknown gunmen killed a Sudanese employee of the U.N. World Food Programme (WFP)
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/08/05/us-sudan-un-idUSBRE87404J20120805)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

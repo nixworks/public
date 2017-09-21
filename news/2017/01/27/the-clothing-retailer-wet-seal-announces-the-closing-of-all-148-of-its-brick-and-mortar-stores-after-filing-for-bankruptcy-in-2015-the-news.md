@@ -8,6 +8,7 @@ The retailer already closed two locations in the Dayton area.
 ### Source:
 
 1. [WHIO-TV](http://www.whio.com/business/another-clothing-retailer-closes-all-stores/0MohMmnDjo1OT9mEOZskrJ/)
+1. [Cover Image](http://www.whio.com/rf/image/Pub/p8/WHIO/2017/01/24/Videos/3872599.vpx)
 
 ### Related:
 

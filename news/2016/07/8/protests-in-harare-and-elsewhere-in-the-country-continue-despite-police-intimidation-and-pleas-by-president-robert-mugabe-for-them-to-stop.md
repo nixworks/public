@@ -12,6 +12,7 @@ Zimbabwe&#x27;s President Robert Mugabe on Friday blamed sanctions by Western co
 3. [Reuters via CNBC Africa](http://www.cnbcafrica.com/news/southern-africa/2016/07/08/zimbabwe-social-media-anti-mugabe-protests/)
 4. [Ventures Africa](https://venturesafrica.com/zimbabwe-and-mugabe-till-death-do-them-part-literally/)
 5. [Voice of America Zimbabwe](http://www.voazimbabwe.com/a/protest-leaders-defiant-as-police-orders/3409664.html)
+5. [Cover Image](https://s.yimg.com/uu/api/res/1.2/07uM2tLGlYAVcK7qjliiBA--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/61bfb7370da46aff041cabd34a3023d42b3c76da.jpg)
 
 ### Related:
 

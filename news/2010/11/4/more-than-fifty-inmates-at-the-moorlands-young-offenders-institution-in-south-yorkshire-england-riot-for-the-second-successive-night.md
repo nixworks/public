@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-south-yorkshire-11692208)
+1. [Cover Image](http://news.bbcimg.co.uk/media/images/49786000/jpg/_49786264_img_0078.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two German army pilots have died after their helicopter crashed near Gao, easter
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/german-army-helicopter-crashes-in-mali-on-un-mission/a-39847702)
+1. [Cover Image](http://www.dw.com/image/39848325_304.png)
 
 ### Related:
 

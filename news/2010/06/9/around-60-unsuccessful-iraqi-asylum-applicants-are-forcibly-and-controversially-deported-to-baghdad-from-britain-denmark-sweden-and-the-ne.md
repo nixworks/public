@@ -8,6 +8,7 @@ UN refugee agency condemns removal of failed asylum seekers to Baghdad.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106913162071754.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

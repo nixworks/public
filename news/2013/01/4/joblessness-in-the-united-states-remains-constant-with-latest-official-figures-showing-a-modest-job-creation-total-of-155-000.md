@@ -8,6 +8,7 @@ Unemployment figures remain constant as government struggles with fiscal cliff n
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/01/201314153214148125.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/4/20131415386253734_20.jpg)
 
 ### Related:
 

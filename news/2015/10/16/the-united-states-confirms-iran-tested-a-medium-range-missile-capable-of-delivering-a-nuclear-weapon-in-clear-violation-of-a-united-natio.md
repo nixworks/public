@@ -9,6 +9,7 @@ The United States has confirmed that Iran tested a medium-range missile capable 
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34555008)
 2. [Reuters](http://www.reuters.com/article/2015/10/16/us-iran-missiles-usa-idUSKCN0SA20Z20151016)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151016&t=2&i=1087517209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9F0S1)
 
 ### Related:
 

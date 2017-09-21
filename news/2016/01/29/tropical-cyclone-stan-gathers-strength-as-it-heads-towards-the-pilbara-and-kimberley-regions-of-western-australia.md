@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-29/wa-cyclone-stan-residents-urged-to-brace-for-strong-winds/7122850)
+1. [Cover Image](http://www.abc.net.au/news/image/7125288-1x1-700x700.jpg)
 
 ### Related:
 

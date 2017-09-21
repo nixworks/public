@@ -8,6 +8,7 @@ Israeli Prime Minister Benjamin Netanyahu said his country&#039;s forces took co
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7805732/Israeli-forces-board-Gaza-aid-ship-the-Rachel-Corrie.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01651/rachel-corrie_1651266a.jpg)
 
 ### Related:
 

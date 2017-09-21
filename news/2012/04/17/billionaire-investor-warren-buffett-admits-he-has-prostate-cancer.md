@@ -8,6 +8,7 @@ Billionaire investor Warren Buffett says he has been diagnosed with stage one pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17751171)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59711000/jpg/_59711409_59711408.jpg)
 
 ### Related:
 

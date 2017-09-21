@@ -8,6 +8,7 @@ Syrian forces encircling the city of Homs have issued a 72-hour ultimatum for al
 ### Source:
 
 1. [Daily Telegraph](http://www.independent.ie/world-news/middle-east/protesters-handed-ultimatum-in-syrias-rebel-city-2959876.html?)
+1. [Cover Image](http://www.independent.ie/editorial/facebook_share_logos/FacebookPostImage_158x158_News.jpg)
 
 ### Related:
 

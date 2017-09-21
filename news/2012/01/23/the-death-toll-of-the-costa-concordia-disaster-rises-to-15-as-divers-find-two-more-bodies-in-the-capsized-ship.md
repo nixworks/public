@@ -8,6 +8,7 @@ Discovery raises to 15 the number of people certified dead in Costa Concordia di
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/europe/2012/01/2012123163459275769.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/23/201212317642591580_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President Bush today praised Attorney General Alberto R. Gonzales, whose tenure 
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/08/27/washington/27cnd-gonzales.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/08/27/us/gonzales.1-75.jpg)
 
 ### Related:
 

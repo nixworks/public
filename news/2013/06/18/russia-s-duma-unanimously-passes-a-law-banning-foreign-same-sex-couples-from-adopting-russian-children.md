@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/06/18/russia-lawmakers-back-banning-gay-couple-adoptions/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/06/18/russia-lawmakers-back-banning-gay-couple-adoptions/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422578403805.jpg?ve=1)
 
 ### Related:
 

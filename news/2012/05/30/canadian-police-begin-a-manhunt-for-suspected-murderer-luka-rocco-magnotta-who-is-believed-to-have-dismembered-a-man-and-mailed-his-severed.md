@@ -8,6 +8,7 @@ Investigators on Wednesday identified Luka Rocco Magnotta as a suspect in the my
 ### Source:
 
 1. [Montreal Gazette](http://www.montrealgazette.com/news/Rocco+Luka+Magnotta+sought+torso+case+once+dated+Karla+Homolka/6696060/story.html)
+1. [Cover Image](http://www.montrealgazette.com/cms/binary/6702692.jpg)
 
 ### Related:
 

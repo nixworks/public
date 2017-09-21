@@ -8,6 +8,7 @@ At least 31 people are killed in a series of blasts targeting a Shia election ra
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27165504)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74454000/jpg/_74454400_656xicej.jpg)
 
 ### Related:
 

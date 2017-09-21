@@ -10,6 +10,7 @@ Three people who were being questioned in relation to alleged plot against a Swe
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8565610.stm)
 2. [Irish Independent](http://www.independent.ie/national-news/cartoonist-not-afraid--to-visit-us-despite-plot-2096875.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0312/waterford.html)
+3. [Cover Image](https://img.rasset.ie/00031580-1600.jpg)
 
 ### Related:
 

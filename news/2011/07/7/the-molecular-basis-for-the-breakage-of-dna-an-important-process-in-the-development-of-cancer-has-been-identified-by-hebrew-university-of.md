@@ -8,6 +8,7 @@ Jerusalem scientists identify molecular basis for DNA breakage, which results in
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/HealthAndSci-Tech/Health/Article.aspx?id=228363)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=169385)
 
 ### Related:
 

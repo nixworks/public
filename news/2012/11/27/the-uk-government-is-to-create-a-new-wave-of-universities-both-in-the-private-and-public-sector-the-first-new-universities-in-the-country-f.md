@@ -8,6 +8,7 @@ About a dozen &quot;new&quot; universities are set to be created in England - as
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-20464013)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61835000/jpg/_61835967_regentscollege.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mario Draghi signaled that the European Central Bank is ready to boost its stimu
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-12/draghi-says-inflation-weakening-as-december-policy-choice-nears)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

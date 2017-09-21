@@ -11,6 +11,7 @@ Islamist extremists have beheaded one of three foreigners they took from a high-
 2. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/04/25/news/philippines-all-out-effort-demanded-to-free-hostages/)
 3. [Reuters via EuroNews](http://www.euronews.com/newswires/3185281-philippines-says-severed-head-found-as-captives-ransom-deadline-passes/)
 4. [Straits Times](http://www.straitstimes.com/asia/se-asia/philippine-militants-behead-one-of-three-foreigners-taken-from-resort-identity-of-dead)
+4. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/04/26/pzjohn26e_2x.jpg?itok=OuPCEr3t)
 
 ### Related:
 

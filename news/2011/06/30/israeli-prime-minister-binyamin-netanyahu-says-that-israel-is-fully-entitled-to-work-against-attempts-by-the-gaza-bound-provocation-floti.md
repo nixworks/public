@@ -16,6 +16,7 @@ Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound
 7. [RTÉ](http://www.rte.ie/news/2011/0630/gaza.html)
 8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8609389/Israel-sabotages-two-ships-bound-for-Gaza-activists-claim.html)
 9. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=227367)
+9. [Cover Image](https://img.rasset.ie/0004bb38-1600.jpg)
 
 ### Related:
 

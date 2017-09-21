@@ -9,6 +9,7 @@ More than 250 people die in the mountains of Rio de Janeiro state as flooding an
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12171710)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE70B4MQ20110114)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

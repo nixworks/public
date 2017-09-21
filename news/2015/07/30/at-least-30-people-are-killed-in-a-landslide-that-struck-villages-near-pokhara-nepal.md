@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters UK](http://uk.reuters.com/article/2015/07/30/uk-nepal-landslide-idUKKCN0Q40B520150730)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150730&t=2&i=1068180016&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB6T0OH)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The death toll from weeks of heavy rains across Colombia has risen to 174 and ov
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/12/05/3085077.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

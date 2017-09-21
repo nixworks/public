@@ -8,3 +8,4 @@ The entire nation is forecast to see above-average temperatures for the next thr
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/weather/2016/07/25/entire-usa-heat-wave-warm-forecast/87528944/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

@@ -8,6 +8,7 @@ Google has quietly removed the Chinese name for a South China Sea shoal bitterly
 ### Source:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/news/international/world-news/google-removes-chinese-name-for-south-china-sea-shoal-on-map-after-philippine-furore/articleshow/48064190.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-48064199,width-672,resizemode-4,imglength-37341/news/international/world-news/google-removes-chinese-name-for-south-china-sea-shoal-on-map-after-philippine-furore/google_reuters.jpg)
 
 ### Related:
 

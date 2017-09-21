@@ -9,6 +9,7 @@ Former Foreign Ministry director general and Defense Ministry legal adviser name
 
 1. [Haaretz](http://www.haaretz.com/print-edition/news/ciechanover-tapped-for-un-flotilla-probe-1.306624)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=183973)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.306653.1281221230!/image/808252099.jpg_gen/derivatives/headline_1200x630/808252099.jpg)
 
 ### Related:
 

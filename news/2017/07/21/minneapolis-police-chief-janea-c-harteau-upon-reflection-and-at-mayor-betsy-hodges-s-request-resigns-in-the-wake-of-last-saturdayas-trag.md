@@ -9,6 +9,7 @@
 
 1. [ABC News](http://abcnews.go.com/US/minneapolis-police-chief-resigns-wake-fatal-shooting-bride/story?id=48783798)
 2. [The New York Times](https://www.nytimes.com/2017/07/21/us/minneapolis-police-chief-resigns-days-after-officer-fatally-shot-a-woman.html)
+2. [Cover Image](http://a.abcnews.com/images/US/janee-harteau-minneapolis-police-chief-ap-mt-170721_16x9_992.jpg)
 
 ### Related:
 

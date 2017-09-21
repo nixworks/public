@@ -10,6 +10,7 @@ A man shot and killed his wife and five young children before taking his own lif
 1. [New York Times](http://www.nytimes.com/2009/01/28/us/28family.html?ref=us)
 2. [UPI](http://www.upi.com/Top_News/2009/01/27/Seven_dead_in_apparent_LA_murder-suicide/UPI-14011233080503/)
 3. [mercurynews.com](http://www.mercurynews.com/ci_11569378?nclick_check=1&forced=true)
+3. [Cover Image](https://static01.nyt.com/images/2009/01/28/us/29family-75a.jpg)
 
 ### Related:
 

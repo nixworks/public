@@ -11,6 +11,7 @@ NYC&#39;s narrow reelection&nbsp;makes Dems skeptical.
 2. [CQ Politics](http://www.cqpolitics.com/wmspage.cfm?docID=news-000003238975)
 3. [New York Times](http://www.nytimes.com/2009/11/05/us/politics/05maine.html)
 4. [Politico](http://www.politico.com/news/stories/1109/29113.html)
+4. [Cover Image](http://s3-origin-images.politico.com/news/091103_bloomberg1_ap_297.jpg)
 
 ### Related:
 

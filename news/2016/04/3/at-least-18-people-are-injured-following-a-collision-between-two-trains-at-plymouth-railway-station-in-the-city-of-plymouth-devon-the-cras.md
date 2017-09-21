@@ -8,6 +8,7 @@ Eyewitness described hearing a &quot;huge bang&quot; and said passengers were th
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1672025/nine-hurt-after-trains-collide-at-station)
+1. [Cover Image](http://e3.365dm.com/16/04/1600x900/11606522-1-1-2048x1536_3442265.jpg?20160403170652)
 
 ### Related:
 

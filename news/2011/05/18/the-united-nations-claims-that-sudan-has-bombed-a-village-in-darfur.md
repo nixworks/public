@@ -8,6 +8,7 @@ Sudan has carried out another air strike on a village in the troubled western re
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13446911)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52824000/jpg/_52824969_004820745-1.jpg)
 
 ### Related:
 

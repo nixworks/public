@@ -11,6 +11,7 @@ A plaque will be placed at the site of the torpedoed wartime hospital ship, the 
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8450511.stm)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/shipwreck-hunters-find-centaurs-name-20100111-m0z1.html)
 4. [news.com.au](http://www.news.com.au/national/first-photos-of-hospital-ship-centaur/story-e6frfkwr-1225817748786)
+4. [Cover Image](http://www.abc.net.au/news/image/435230-1x1-700x700.jpg)
 
 ### Related:
 

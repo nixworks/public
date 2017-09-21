@@ -8,6 +8,7 @@ An archaeological excavation in Dublin has uncovered the foundations of a 17th c
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0814/smockalley.html)
+1. [Cover Image](https://img.rasset.ie/00028375-1600.jpg)
 
 ### Related:
 

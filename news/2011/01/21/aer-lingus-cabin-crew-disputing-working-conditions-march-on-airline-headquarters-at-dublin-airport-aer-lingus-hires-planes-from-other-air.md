@@ -9,6 +9,7 @@ Aer Lingus has said it expects to operate its full schedule over the weekend, de
 
 1. [RTÉ](http://www.rte.ie/news/2011/0121/aerlingus.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0121/breaking5.html)
+2. [Cover Image](https://img.rasset.ie/00042467-1600.jpg)
 
 ### Related:
 

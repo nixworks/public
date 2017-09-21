@@ -12,6 +12,7 @@ News organization withdraws photograph of Israeli fighter jet, admits image was 
 3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-07T171031Z_01_L07818860_RTRUKOC_0_US-MIDEAST-LEBANON-DEPLOYMENT.xml)
 4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-08-07T163822Z_01_L07821262_RTRUKOC_0_US-MIDEAST-ISRAEL-DRONE.xml&src=rss&rpc=22)
 5. [YNet](http://www.ynetnews.com/articles/0,7340,L-3287774,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A bus carrying church members hits a low bridge at Miami International Airport, 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20567153)
 2. [NBC News](http://usnews.nbcnews.com/_news/2012/12/01/15596338-tour-bus-hits-miami-airport-overpass-2-dead-others-hurt)
 3. [The Miami Herald](http://www.miamiherald.com/2012/12/01/3121896/several-injured-one-possibly-dead.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64501000/jpg/_64501744_016640761-1.jpg)
 
 ### Related:
 

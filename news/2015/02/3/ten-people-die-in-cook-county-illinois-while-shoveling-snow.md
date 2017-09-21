@@ -8,6 +8,7 @@ At least 13 people have died in Cook and DuPage counties while shoveling &quot;h
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-cook-county-snow-shovelling-deaths-20150203-story.html)
+1. [Cover Image](http://www.trbimg.com/img-54d154e6/turbine/chi-cook-county-snow-shovelling-deaths-20150203)
 
 ### Related:
 

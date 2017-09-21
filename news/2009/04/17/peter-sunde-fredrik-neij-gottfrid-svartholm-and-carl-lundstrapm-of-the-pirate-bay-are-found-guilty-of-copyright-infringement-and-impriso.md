@@ -8,6 +8,7 @@ The Swedish owners of the illegal file&#45;sharing website The Pirate Bay defian
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=10567260)
+1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

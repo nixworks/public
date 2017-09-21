@@ -9,6 +9,7 @@
 
 1. [AP](http://ap.washingtontimes.com/dynamic/stories/U/UZBEKISTAN_ATTACKS?SITE=DCTMS&SECTION=HOME)
 2. [FOXNews](http://www.foxnews.com/story/0,2933,127544,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

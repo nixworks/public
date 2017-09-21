@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4408607.stm)
 2. [Kosovareport commentary](http://kosovareport.blogspot.com/2005/04/top-serb-war-crimes-suspect-arrives-at.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8075313)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

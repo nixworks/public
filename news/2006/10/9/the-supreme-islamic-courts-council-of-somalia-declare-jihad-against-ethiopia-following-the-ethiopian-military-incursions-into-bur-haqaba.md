@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6032907.stm)
 2. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=L09256177)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

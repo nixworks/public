@@ -8,6 +8,7 @@ Gunmen in Afghanistan shoot dead two Finnish women working with an international
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-28453183)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76474000/jpg/_76474911_76474910.jpg)
 
 ### Related:
 

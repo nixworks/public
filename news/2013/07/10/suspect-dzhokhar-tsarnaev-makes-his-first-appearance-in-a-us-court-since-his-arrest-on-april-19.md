@@ -10,3 +10,4 @@ Dzhokhar Tsarnaev, the chief suspect in the April 15th Boston Marathon bombing t
 1. [AP via ''Montreal Gazette](http://www.montrealgazette.com/news/world/Boston+Marathon+bombing+suspect+heads+first+public+court/8638452/story.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-23264940)
 3. [The Verge](http://www.theverge.com/2013/7/10/4511736/boston-marathon-bombing-suspect-dzhokhar-tsarnaev-plea)
+3. [Cover Image](https://cdn0.vox-cdn.com/thumbor/TTcyaLn1Nug7bMSgBCsMqoVNnFc=/0x61:579x387/1600x900/cdn0.vox-cdn.com/assets/2901771/suspect-2-higher-res-1.jpg)

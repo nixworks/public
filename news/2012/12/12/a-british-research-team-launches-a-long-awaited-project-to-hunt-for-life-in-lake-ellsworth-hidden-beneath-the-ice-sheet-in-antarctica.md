@@ -8,6 +8,7 @@ A British research team in Antarctica has launched a long-awaited project to hun
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-20682647)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64618000/jpg/_64618972_flag.jpg)
 
 ### Related:
 

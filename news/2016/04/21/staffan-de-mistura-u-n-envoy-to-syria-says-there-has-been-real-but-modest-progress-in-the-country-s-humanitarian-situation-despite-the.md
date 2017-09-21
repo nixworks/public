@@ -8,6 +8,7 @@ BEIRUT (AP) — The U.N. special envoy for Syria said there was &quot;real but m
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/8be11d7d41074425b32fbaf6949bac17/nato-chief-syria-cease-fire-best-basis-peace)
+1. [Cover Image](http://binaryapi.ap.org/a790099da6a14bc39c065905011dee01/460x.jpg)
 
 ### Related:
 

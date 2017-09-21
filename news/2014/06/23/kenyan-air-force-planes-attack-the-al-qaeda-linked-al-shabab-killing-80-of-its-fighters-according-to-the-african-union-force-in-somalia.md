@@ -8,6 +8,7 @@ Kenyan fighter jets bomb the al-Qaeda-linked al-Shabab group in Somalia, killing
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27976201#TWEET1165191)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70102000/jpg/_70102760_shabab2.jpg)
 
 ### Related:
 

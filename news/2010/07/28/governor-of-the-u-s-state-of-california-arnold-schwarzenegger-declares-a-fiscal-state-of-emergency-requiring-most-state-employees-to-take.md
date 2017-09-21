@@ -8,6 +8,7 @@ California Governor Arnold Schwarzenegger has declared a fiscal state of emergen
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/schwarzenegger-forces-california-workers-to-take-leave-20100729-10wl4.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/0/w/l/d/image.related.articleLeadwide.620x349.10wl4.png/1280365275127.jpg)
 
 ### Related:
 

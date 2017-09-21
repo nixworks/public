@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Telesur TV](http://www.telesurtv.net/english/news/Kirchnerist-Leader-Mercosur-Lawmaker-Detained-in-Argentina-20160116-0027.html)
+1. [Cover Image](http://www.telesurtv.net/__export/1452985133276/sites/telesur/img/news/2016/01/16/milagro-sala.jpg_1810791533.jpg)
 
 ### Related:
 

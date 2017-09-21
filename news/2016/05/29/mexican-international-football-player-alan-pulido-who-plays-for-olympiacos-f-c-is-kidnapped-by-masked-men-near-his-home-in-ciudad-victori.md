@@ -9,6 +9,7 @@
 
 1. [AP via Sun MV](http://english.sun.mv/37838/)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-36409366)
+2. [Cover Image](http://english.sun.mv/uploads/l_3783744.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BoxOfficeMojo](http://boxofficemojo.com/alltime/domestic.htm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6124O320100203)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100203&t=2&i=55223444&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-03T200116Z_01_BTRE6121JM900_RTROPTP_0_OSCARS)
 
 ### Related:
 

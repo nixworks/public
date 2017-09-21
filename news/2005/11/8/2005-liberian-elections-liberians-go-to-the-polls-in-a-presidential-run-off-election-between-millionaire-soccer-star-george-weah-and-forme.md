@@ -9,6 +9,7 @@ People in Liberia were voting for a new president Tuesday, choosing between a fo
 
 1. [CBC](http://www.cbc.ca/world/story/2005/11/08/liberia-051107.html)
 2. [Scotsman](http://news.scotsman.com/latest.cfm?id=2208492005)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

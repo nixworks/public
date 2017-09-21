@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7806062.stm)
 2. [Reuters](http://uk.reuters.com/article/UKNews1/idUKTRE4BT0TI20081230)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20081230&t=2&i=7682501&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-12-30T095634Z_01_BTRE4BT0RMF00_RTROPTP_0_CHINA)
 
 ### Related:
 

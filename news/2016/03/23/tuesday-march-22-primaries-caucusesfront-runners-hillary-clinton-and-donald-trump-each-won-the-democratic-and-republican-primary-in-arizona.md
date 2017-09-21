@@ -10,6 +10,7 @@ Voters go to the polls in three states on Tuesday in another set of Republican a
 1. [BBC](http://www.bbc.com/news/election-us-2016-35869785)
 2. [The Green Papers](http://www.thegreenpapers.com/P16/AS-D)
 3. [caffeinatedthoughts.com](https://caffeinatedthoughts.com/2016/03/four-takeaways-gop-western-tuesday-arizona-utah/)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/75B1/production/_88592103_us2016.jpg)
 
 ### Related:
 

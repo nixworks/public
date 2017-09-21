@@ -8,6 +8,7 @@ Tens of thousands of South Korean and US troops Monday began a military exercise
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/south-korea-us-begin-military-drill-despite-north-004752035.html;_ylt=A0SO8yBMQtFVcDgATnJXNyoA;_ylu=X3oDMTByNWU4cGh1BGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzYw--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/fvNO5tOOngCHEe6DeLbDaw--/aD02NDI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/055f1362ddbaba5c7bf279492c8e3e93ec16eca4.jpg)
 
 ### Related:
 

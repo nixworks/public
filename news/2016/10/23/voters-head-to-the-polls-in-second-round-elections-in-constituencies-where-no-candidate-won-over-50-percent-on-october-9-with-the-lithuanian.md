@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_LITHUANIA_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Reuters](http://www.reuters.com/article/us-lithuania-election-idUSKCN12N0DM)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161023&t=2&i=1158581228&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9M09A)
 
 ### Related:
 

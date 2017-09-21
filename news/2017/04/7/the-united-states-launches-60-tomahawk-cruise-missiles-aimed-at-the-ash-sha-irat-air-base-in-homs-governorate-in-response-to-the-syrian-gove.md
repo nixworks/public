@@ -10,6 +10,7 @@ President Bashar al-Assad &#x27;choked out the lives of helpless men, women and 
 1. [AFP via ''Yahoo News](https://www.yahoo.com/news/four-children-among-nine-civilians-dead-us-syria-113705158.html)
 2. [NBC News](http://www.nbcnews.com/news/us-news/u-s-launches-missiles-syrian-base-after-chemical-weapons-attack-n743636?cid=eml_nbn_20170406)
 3. [The New York Times](https://www.nytimes.com/2017/04/07/world/middleeast/russia-iran-us-strikes-syria.html)
+3. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_14/1957456/170406-navy-handout-syria-strike-se-1051p_b68acb63ea42d6ddefaf1cdc1fceccec.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

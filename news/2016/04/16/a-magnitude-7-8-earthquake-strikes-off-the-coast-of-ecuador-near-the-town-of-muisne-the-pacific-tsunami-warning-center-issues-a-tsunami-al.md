@@ -13,6 +13,7 @@
 4. [Reuters via NBC News](http://www.nbcnews.com/news/world/7-8-magnitude-earthquake-hits-near-ecuador-s-coast-usgs-n557181)
 5. [The Straits Times](http://www.straitstimes.com/world/americas/powerful-74-earthquake-rocks-ecuador-usgs)
 6. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20005j32#general)
+6. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)
 
 ### Related:
 

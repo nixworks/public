@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [Indonesia Relief](http://www.indonesia-relief.org/mod.php?mod=publisher&op=viewarticle&cid=24&artid=656)
 2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050412141048&irec=0)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8151891)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

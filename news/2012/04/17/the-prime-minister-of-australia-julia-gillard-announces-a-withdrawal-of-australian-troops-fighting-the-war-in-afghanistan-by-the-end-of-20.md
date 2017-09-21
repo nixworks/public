@@ -8,6 +8,7 @@ Prime Minister Julia Gillard says Australia will withdraw its troops from Afghan
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17737592)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59692000/jpg/_59692533_014530391-1.jpg)
 
 ### Related:
 

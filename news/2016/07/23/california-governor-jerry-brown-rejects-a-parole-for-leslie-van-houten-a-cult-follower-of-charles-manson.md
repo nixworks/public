@@ -8,6 +8,7 @@ California Gov. Jerry Brown denied parole Friday for Leslie Van Houten, the youn
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/07/22/california-governor-denies-parole-for-manson-follower0.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2016/07/22/california-governor-denies-parole-for-manson-follower0/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1469247116045.jpg?ve=1)
 
 ### Related:
 

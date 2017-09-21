@@ -8,6 +8,7 @@ Kidnapped Australian adventurer Warren Rodwell pleads for his life in a video se
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/national/us2m-ransom-on-australians-life-20120104-1pla7.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/p/l/i/u/image.related.thumbnail.320x214.1pla7.png/1325712934300.jpg)
 
 ### Related:
 

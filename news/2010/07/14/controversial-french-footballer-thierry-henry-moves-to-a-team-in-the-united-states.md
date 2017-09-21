@@ -9,6 +9,7 @@ Red Bull New York signed French forward Thierry Henry to a multi-year contract a
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/8820649.stm)
 2. [Toronto Sun](http://www.torontosun.com/sports/soccer/2010/07/14/14708881.html)
+2. [Cover Image](http://storage.torontosun.com/v1/suns-prod-images/1302506106111_ORIGINAL.jpg?quality=80)
 
 ### Related:
 

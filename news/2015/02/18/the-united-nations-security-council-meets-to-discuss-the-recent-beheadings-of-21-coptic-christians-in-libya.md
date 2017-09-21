@@ -8,6 +8,7 @@ THE UN Security Council will meet Wednesday to discuss the situation in Libya af
 ### Source:
 
 1. [AFP via Newvision](http://www.newvision.co.ug/news/664956-un-security-council-to-meet-wednesday-on-libya.html)
+1. [Cover Image](http://www.newvision.co.ug/w-images/ef4ff8e2-10f7-4177-bfd2-f3203f0c0f0a/7/2015_2largeimg217_Feb_2015_211836210-350x250.jpg)
 
 ### Related:
 

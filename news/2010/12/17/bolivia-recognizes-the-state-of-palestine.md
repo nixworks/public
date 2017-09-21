@@ -8,6 +8,7 @@ Fourth Latin American country recognizes Palestinian state, in line with 1967 bo
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4000744,oo.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2015/04/03/middleeast/iran-nuclear-netanyahu/)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.650803)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.650362.1428359160!/image/578254017.jpg_gen/derivatives/headline_1200x630/578254017.jpg)
 
 ### Related:
 

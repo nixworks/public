@@ -9,6 +9,7 @@ Ethiopia says it needs emergency food aid for 6.2 million people because of a pr
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jdmNUNpcFmrmhmJB1SwEOZU1Uutg)
 2. [CBC](http://www.cbc.ca/world/story/2009/10/22/drought-ethiopia-africa.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

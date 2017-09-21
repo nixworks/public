@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cambridgeshire-40087357)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/34CC/production/_96261531_mediaitem96261530.jpg)
 
 ### Related:
 

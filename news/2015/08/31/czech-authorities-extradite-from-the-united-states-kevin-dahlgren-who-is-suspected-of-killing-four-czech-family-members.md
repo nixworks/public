@@ -9,6 +9,7 @@ An American suspected of killing four Czech family members has been extradited f
 
 1. [AP via Fox news](http://www.foxnews.com/world/2015/08/31/us-murder-suspect-extradited-to-czech-republic/)
 2. [AP via Yahoo](http://news.yahoo.com/us-murder-suspect-extradited-czech-republic-122207203.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

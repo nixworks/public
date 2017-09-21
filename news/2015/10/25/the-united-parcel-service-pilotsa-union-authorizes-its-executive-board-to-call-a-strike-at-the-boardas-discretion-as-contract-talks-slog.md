@@ -8,6 +8,7 @@ The union representing United Parcel Service pilots voted overwhelmingly to stri
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/ups-pilots-union-votes-to-authorize-strike-1445610265)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KX326_1023up_TOP_20151023095219.jpg)
 
 ### Related:
 

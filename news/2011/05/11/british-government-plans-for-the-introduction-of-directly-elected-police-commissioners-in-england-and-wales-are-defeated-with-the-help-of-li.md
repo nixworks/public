@@ -8,6 +8,7 @@ The government suffers a surprise defeat in the House of Lords over plans for di
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13368514)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52669000/jpg/_52669074_011856661-1.jpg)
 
 ### Related:
 

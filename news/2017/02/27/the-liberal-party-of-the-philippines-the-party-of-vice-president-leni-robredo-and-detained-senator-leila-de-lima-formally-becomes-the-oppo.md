@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/162710-senate-revamp-ouster-liberal-party-senators)
+1. [Cover Image](https://assets.rappler.com/9D45399B7E7A46B3AA55558C8BB5A3D5/img/68339D4916824A75BFA9F84AB59E4CE2/recto-pimentel-senate-president-pro-tempore-20170227.jpg)
 
 ### Related:
 

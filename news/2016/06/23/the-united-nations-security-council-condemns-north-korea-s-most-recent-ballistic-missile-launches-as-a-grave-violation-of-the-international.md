@@ -9,6 +9,7 @@ UNITED NATIONS (AP) — The U.N. Security Council on Thursday strongly condemned
 
 1. [AP](http://www.bigstory.ap.org/article/7859731700274d999d9b13c9b5130116/un-strongly-condemns-latest-north-korean-missile-launches)
 2. [Reuters](http://in.reuters.com/article/northkorea-missiles-un-idINKCN0Z9299)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160623&t=2&i=1142574416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5M1LW)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/17/business/17insure.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/09/17/business/17insure01-75.jpg)
 
 ### Related:
 

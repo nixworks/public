@@ -8,6 +8,7 @@ A North Korean shipping company has renamed and reflagged its vessels in an atte
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-31635564)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69531000/jpg/_69531949_a7bad521-37ac-4e74-848b-ac406f6375d3.jpg)
 
 ### Related:
 

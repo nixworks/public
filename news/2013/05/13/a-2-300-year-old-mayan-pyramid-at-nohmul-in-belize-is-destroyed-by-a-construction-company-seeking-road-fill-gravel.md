@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/science/2013/05/13/builders-bulldoze-mayan-pyramid-in-belize/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2013/05/13/builders-bulldoze-mayan-pyramid-in-belize/_jcr_content/par/featured-media/media-3.img.jpg/0/0/1422554812522.jpg?ve=1)
 
 ### Related:
 

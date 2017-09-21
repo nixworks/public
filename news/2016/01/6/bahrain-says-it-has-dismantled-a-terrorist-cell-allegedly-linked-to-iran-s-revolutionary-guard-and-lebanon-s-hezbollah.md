@@ -8,6 +8,7 @@ Meanwhile, Qatar becomes the latest Gulf Arab state to recall its ambassador to 
 ### Source:
 
 1. [The National](http://www.thenational.ae/world/middle-east/bahrain-smashes-iran-linked-terror-cell)
+1. [Cover Image](http://www.thenational.ae/storyimage/AB/20160107/ARTICLE/160109421/AR/0/AR-160109421.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE52A4W120090311)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090311&t=2&i=8604305&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-11T233326Z_01_BTRE52A1TGK00_RTROPTP_0_FRANCE-NATO)
 
 ### Related:
 

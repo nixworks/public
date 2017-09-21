@@ -12,6 +12,7 @@ Mamata says blast led to accident in West Bengal; DGP points to sabotage on trac
 3. [The Hindu](http://www.thehindu.com/news/national/79-killed-as-goods-train-rams-maoistderailed-coaches/article440190.ece)
 4. [Times of India](http://timesofindia.indiatimes.com/india/Blast-derails-13-coaches-of-Gyaneshwari-Express-casualties-feared/articleshow/5983218.cms)
 5. [USA Today](http://www.usatoday.com/news/world/2010-05-27-train-crash-calcutta_N.htm)
+5. [Cover Image](http://www.thehindu.com/migration_catalog/article16296562.ece/ALTERNATES/LANDSCAPE_615/unknown)
 
 ### Related:
 

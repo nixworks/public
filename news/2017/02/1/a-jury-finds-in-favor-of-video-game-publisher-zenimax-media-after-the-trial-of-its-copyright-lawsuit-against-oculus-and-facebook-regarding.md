@@ -8,6 +8,7 @@ A U.S. jury in Texas on Wednesday orderedFacebook Inc, its virtual reality unit 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/facebook-lawsuit-idUSL1N1FM229)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

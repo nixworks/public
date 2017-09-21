@@ -8,6 +8,7 @@ Crimes against humanity charges relate to the deadly violence after the 2010 pre
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39426160)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6CEE/production/_95368872_f8b1afb2-cfdf-46d3-8885-2297c2038eee.jpg)
 
 ### Related:
 

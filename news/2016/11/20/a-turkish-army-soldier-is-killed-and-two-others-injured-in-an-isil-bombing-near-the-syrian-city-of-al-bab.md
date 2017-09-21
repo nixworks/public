@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via LBC](http://www.lbcgroup.tv/news/290773/turkish-soldier-killed-in-islamic-state-attack-in/en)
+1. [Cover Image](http://www.lbcgroup.tv/newsimages/News-P-290773-636152325306668570.jpeg)
 
 ### Related:
 

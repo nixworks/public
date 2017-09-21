@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/05/19/uk-usa-myanmar-idUKBRE94I0E420130519)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130519&t=2&i=733264815&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94I1SCI00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korea announces it will hold a Workers Party congress next month, the firs
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36146887)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2A2B/production/_89459701_89459700.jpg)
 
 ### Related:
 

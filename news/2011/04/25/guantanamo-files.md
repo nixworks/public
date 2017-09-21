@@ -21,3 +21,4 @@ Top-secret files detailing the interrogations of more than 700 suspects at the G
 12. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_660921.html)
 13. [The Sydney Morning Herald](http://www.smh.com.au/world/wikileaks-releases-new-guantanamo-files-20110425-1dtne.html)
 14. [WikiLeaks](http://wikileaks.ch/gitmo/)
+14. [Cover Image](http://www.smh.com.au/content/dam/images/1/d/t/n/k/image.related.thumbnail.320x214.1dtne.png/1303700679113.jpg)

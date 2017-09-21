@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_AFGHANISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2014-11-17-22-45-51)
 2. [Reuters](http://uk.reuters.com/article/2014/11/18/uk-afghanistan-blast-idUKKCN0J206920141118)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141118&t=2&i=992657710&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAH06R)
 
 ### Related:
 

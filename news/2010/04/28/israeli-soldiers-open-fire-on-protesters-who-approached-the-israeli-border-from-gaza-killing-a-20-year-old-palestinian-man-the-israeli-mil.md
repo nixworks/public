@@ -13,6 +13,7 @@ A Palestinian demonstrator was shot dead and at least four other men died in a t
 4. [New York Times](http://www.nytimes.com/2010/04/29/world/middleeast/29mideast.html)
 5. [Press TV](http://www.presstv.ir/detail.aspx?id=124771&sectionid=351020202)
 6. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3882307,00.html)
+6. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

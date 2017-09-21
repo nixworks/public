@@ -8,6 +8,7 @@ Rebels in eastern DR Congo advance to within a few kilometres of the provincial 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20389011)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64222000/jpg/_64222448_64222447.jpg)
 
 ### Related:
 

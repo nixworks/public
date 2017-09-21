@@ -8,6 +8,7 @@ BBC broadcaster Stuart Hall pleads guilty to 14 charges of indecently assaulting
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-22379286)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67381000/jpg/_67381405_hi017886592.jpg)
 
 ### Related:
 

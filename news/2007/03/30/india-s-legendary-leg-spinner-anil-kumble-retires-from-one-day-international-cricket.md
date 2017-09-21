@@ -10,6 +10,7 @@
 1. [Eurosport](http://www.eurosport.com/cricket/world-cup/2007/sport_sto1134620.shtml)
 2. [IHT](http://www.iht.com/articles/ap/2007/03/30/sports/AS-SPT-CRK-India-Kumble-Retires.php)
 3. [Indiatimes](http://worldcup.indiatimes.com/Anil_Kumbles_ODI_innings_over/articleshow/1835604.cms)
+3. [Cover Image](http://i.eurosport.com/2007/01/04/328831-24114980-1600-900.jpg)
 
 ### Related:
 

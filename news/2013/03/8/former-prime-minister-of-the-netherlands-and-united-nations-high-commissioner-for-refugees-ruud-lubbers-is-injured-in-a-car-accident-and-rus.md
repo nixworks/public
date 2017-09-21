@@ -9,6 +9,7 @@
 
 1. [NOS](http://nos.nl/artikel/482596-lubbers-lichtgewond-bij-ongeluk.html)
 2. [Telegraaf](http://www.telegraaf.nl/binnenland/21369051/__Ruud_Lubbers_over_de_kop__.html)
+2. [Cover Image](http://images0.tcdn.nl/binnenland/article21369046.ece/BINARY/u/Lubbers.jpg)
 
 ### Related:
 

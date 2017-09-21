@@ -9,6 +9,7 @@ New Zealand has had its first fatalities linked to the H1N1 flu, with three deat
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=2024&art_id=nw20090704141150874C926337)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0704/breaking5.html?via=rel)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

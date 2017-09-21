@@ -8,6 +8,7 @@ A Pakistani police official says a twin bombing has killed a police officer and 
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2016/05/18/twin-blasts-kill-police-officer-in-northwestern-pakistan.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

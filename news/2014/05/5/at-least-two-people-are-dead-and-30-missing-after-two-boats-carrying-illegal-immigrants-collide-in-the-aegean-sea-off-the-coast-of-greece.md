@@ -8,6 +8,7 @@ ATHENS, Greece &#8211; Greece&#8217;s coast guard says it has recovered 14 bodie
 ### Source:
 
 1. [AP via 680 News](http://www.680news.com/2014/05/05/greece-says-2-dead-30-missing-after-migrant-ships-sink-in-aegean-sea/)
+1. [Cover Image](http://www.680news.com/wp-content/blogs.dir/sites/2/2017/02/07/680newslogo-300x300.png)
 
 ### Related:
 

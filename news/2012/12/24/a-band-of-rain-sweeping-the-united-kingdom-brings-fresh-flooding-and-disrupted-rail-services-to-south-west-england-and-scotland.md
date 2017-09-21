@@ -8,6 +8,7 @@ A band of rain sweeping the UK brings fresh flooding to south-west England and S
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20835094)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64929000/jpg/_64929143_ha0zlu6m.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Three people were killed on Monday and up to eight others wounded when about 20 
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11471185)
 4. [The New York Times](http://www.nytimes.com/2010/10/05/world/asia/05pstan.html?_r=1)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542535.htm)
+5. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

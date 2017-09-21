@@ -8,6 +8,7 @@ In October 1984, a 21-year-old American Airman deserted and hitch-hiked from an 
 ### Source:
 
 1. [Dagens Nyheter](http://www.dn.se/nyheter/sverige/after-28-years-david-a-hemler-tells-the-truth)
+1. [Cover Image](https://cdn01.dn-static.se/dnse/img/dn_black_200x200.jpg)
 
 ### Related:
 

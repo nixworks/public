@@ -8,6 +8,7 @@ Officials say bomb attack killed 11 soldiers in region, where attacks on army ha
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2014/09/egypt-security-forces-killed-sinai-attacks-20149210354214745.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/9/2//201492111413405734_20.jpg)
 
 ### Related:
 

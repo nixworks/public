@@ -8,6 +8,7 @@ The source of the outbreak is unknown, but most who fell ill reported eating sus
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/53-people-9-states-sickened-after-eating-raw-tuna-n362911)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_21/1038021/150521-g-cvr-130221-fish-455p-2109_dfdbcb427bf95303596665c855cdb25f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 10 people dead and many wounded in bombing of restaurant in Baidoa, jus
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/12/deadly-suicide-attack-hits-somali-town-2014125181558189581.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/9/2012491728415734_20.jpg)
 
 ### Related:
 

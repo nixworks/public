@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/22/gaza.basketball.record/)
 3. [People's Daily](http://english.peopledaily.com.cn/90001/90779/90870/7075815.html)
 4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=35394&Cr=gaza&Cr1=)
+4. [Cover Image](/News/dh/photos/large/2010/07-22-gaza-bsktball2.jpg)
 
 ### Related:
 
@@ -23,4 +24,4 @@
 7. [ Former basketball referee Tim Donaghy accuses other referees in the National Basketball Association of rigging games, including Game 6 in the 2002 Western Conference Finals, allowing the Los Angeles Lakers to win that game, the series, and ultimately the 2002 NBA Finals. ](/news/2008/06/11/former-basketball-referee-tim-donaghy-accuses-other-referees-in-the-national-basketball-association-of-rigging-games-including-game-6-in-t.md) _Context: basketball_
 8. [ A collision near Bathurst, New Brunswick results in the deaths of 7 Bathurst High School basketball team members. ](/news/2008/01/12/a-collision-near-bathurst-new-brunswick-results-in-the-deaths-of-7-bathurst-high-school-basketball-team-members.md) _Context: basketball_
 9. [ Five basketball players at Duquesne University in Pittsburgh, Pennsylvania are shot on campus after they tried to calm a disturbed man at a dance in the Student Union. Three of the five are hospitalized, with one in critical condition. ](/news/2006/09/17/five-basketball-players-at-duquesne-university-in-pittsburgh-pennsylvania-are-shot-on-campus-after-they-tried-to-calm-a-disturbed-man-at-a.md) _Context: basketball_
-10. [ Basketball: The Euroleague Final Four tournament will be held in Tel Aviv, Israel despite concerns over Palestinian terrorism. Maccabi Tel Aviv, Israel beats Zalgiris Kaunas, Lithuania to qualify.](/news/2004/04/9/basketball-the-euroleague-final-four-tournament-will-be-held-in-tel-aviv-israel-despite-concerns-over-palestinian-terrorism-maccabi-tel.md) _Context: basketball_
+10. [ The rape prosecution brought against U.S. basketball star Kobe Bryant is dismissed, with prejudice, when it becomes clear that his accuser will refuse to testify. The civil suit filed by his accuser proceeds. ](/news/2004/09/1/the-rape-prosecution-brought-against-u-s-basketball-star-kobe-bryant-is-dismissed-with-prejudice-when-it-becomes-clear-that-his-accuser.md) _Context: basketball_

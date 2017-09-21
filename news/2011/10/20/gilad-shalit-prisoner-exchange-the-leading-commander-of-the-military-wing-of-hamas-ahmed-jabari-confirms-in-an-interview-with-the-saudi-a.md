@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/shalit-prisoner-swap/shalit-s-captors-he-wasn-t-tortured-he-received-medical-care-and-watched-tv-1.391072)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.390689.1318930988!/image/2659804951.jpg_gen/derivatives/headline_1200x630/2659804951.jpg)
 
 ### Related:
 

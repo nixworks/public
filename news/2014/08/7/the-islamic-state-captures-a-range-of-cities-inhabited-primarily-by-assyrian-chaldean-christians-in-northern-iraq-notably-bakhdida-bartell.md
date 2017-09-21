@@ -11,6 +11,7 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 2. [BBC](http://www.bbc.com/news/world-middle-east-28686998)
 3. [NBC News](http://www.nbcnews.com/#/news/video/watch-live-president-obama-delivers-statement-iraq-n175676)
 4. [Washington Examiner](http://washingtonexaminer.com/obama-authorizes-limited-airstrikes-in-iraq/article/2551822)
+4. [Cover Image](https://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
 
 ### Related:
 

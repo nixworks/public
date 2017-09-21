@@ -11,6 +11,7 @@ An avalanche of mud smashed into an orphanage in Malaysia killing at least five 
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/05/2011521101511669287.html)
 3. [Bernama](http://www.bernama.com.my/bernama/v5/newsindex.php?id=588095)
 4. [Reuters](http://uk.reuters.com/article/2011/05/21/us-malaysia-landslide-idUKTRE74K1DS20110521)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110521&t=2&i=419228299&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-21T130832Z_01_BTRE74K10IR00_RTROPTP_0_MALAYSIA)
 
 ### Related:
 

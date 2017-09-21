@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Focus Taiwan](http://focustaiwan.tw/news/aall/201306210025.aspx)
+1. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20130621/201306210025t0002.jpg)
 
 ### Related:
 

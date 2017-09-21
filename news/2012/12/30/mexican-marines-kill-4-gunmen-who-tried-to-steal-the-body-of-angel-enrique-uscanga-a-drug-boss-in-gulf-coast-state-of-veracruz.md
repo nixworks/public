@@ -9,6 +9,7 @@ Mexican marines have slain four gunmen who apparently were trying to steal the b
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10590497)
 2. [Fox News](http://www.foxnews.com/world/2012/12/29/mexican-marines-kill-4-who-tried-to-steal-body-drug-boss-in-gulf-coast-region/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

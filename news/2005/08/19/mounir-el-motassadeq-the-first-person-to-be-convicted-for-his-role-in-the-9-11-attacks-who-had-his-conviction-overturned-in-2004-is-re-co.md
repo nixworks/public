@@ -11,6 +11,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [Chicago SunTimes](http://www.suntimes.com/output/terror/cst-nws-cell20.html)
 3. [Guardian](http://www.guardian.co.uk/september11/story/0,11209,1552975,00.html)
 4. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nL19618150)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

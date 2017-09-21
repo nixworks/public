@@ -10,6 +10,7 @@ China is checking the qualifications of all its commercial pilots, after it emer
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-hza9H6_RDo0OuPcs9rhUOaRCPg)
 2. [BBC](http://www.bbc.co.uk/news/business-11200188)
 3. [China Daily](http://www.chinadaily.com.cn/china/2010-09/06/content_11264286.htm)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48856000/jpg/_48856489_010031915-1.jpg)
 
 ### Related:
 

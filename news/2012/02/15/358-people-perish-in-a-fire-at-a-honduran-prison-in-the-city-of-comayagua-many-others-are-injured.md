@@ -11,6 +11,7 @@ Honduras President Porfirio Lobo suspends prison officials and vows a full inqui
 2. [AP via MSNBC](http://www.msnbc.msn.com/id/46394192#.TzxPHbRnARA)
 3. [BBC](http://www.bbc.co.uk/news/world-latin-america-17038259)
 4. [BBC](http://www.bbc.co.uk/news/world-latin-america-17050795)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58527000/jpg/_58527206_014017863-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News.VA Official Vatican Network](http://www.news.va/en/news/pope-francis-announces-names-of-new-cardinals)
+1. [Cover Image](http://media01.radiovaticana.va/imm/1_0_763352.JPG)
 
 ### Related:
 

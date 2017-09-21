@@ -9,6 +9,7 @@ At least five people were killed as heavy monsoon rain deluged India&#39;s finan
 
 1. [Reuters](https://in.reuters.com/article/us-india-monsoon-idINKCN1BA0GH)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2017/08/30/floods-hit-mumbai-worst-monsoon-years-kills-1200-across-south/)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/08/30/TELEMMGLPICT000138685723-xlarge_trans_NvBQzQNjv4BqZBBY0HLu3IbgpGNGdxVYBMiJlQzZrzFy-N3KVsyIRzw.jpeg)
 
 ### Related:
 

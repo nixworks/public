@@ -8,6 +8,7 @@ Pirates attacked a Polish-owned cargo vessel off the Nigerian coast and kidnappe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/27/us-poland-nigeria-pirates-idUSKBN0TG13O20151127)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

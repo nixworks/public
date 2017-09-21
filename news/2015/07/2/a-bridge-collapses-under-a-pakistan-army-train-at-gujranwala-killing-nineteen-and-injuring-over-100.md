@@ -8,6 +8,7 @@ The deceased include Pakistan Army Engineering Battalion Unit Commander Lt. Col 
 ### Source:
 
 1. [Dawn](http://www.dawn.com/news/1191874/bogies-of-special-train-fall-into-stream-after-bridge-collapse-near-gujranwala)
+1. [Cover Image](http://i.dawn.com/medium/2015/07/55958dda9cc87.jpg)
 
 ### Related:
 

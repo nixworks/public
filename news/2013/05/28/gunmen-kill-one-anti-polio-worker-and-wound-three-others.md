@@ -8,3 +8,4 @@ Pakistani authorities suspended a four-day polio vaccination program Tuesday aft
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/world/female-polio-worker-3-others-shot-dead-in-pakistan-1.1299974)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1300794.1369773082!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

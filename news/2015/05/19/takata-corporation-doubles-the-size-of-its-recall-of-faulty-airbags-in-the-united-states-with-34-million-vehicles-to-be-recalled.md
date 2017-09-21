@@ -8,6 +8,7 @@ In the largest automotive recall in U.S. history, car makers will fix faulty air
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/air-bag-recalls-expand-sharply-1432057549)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-IM509_0519ta_G_20150519111453.jpg)
 
 ### Related:
 

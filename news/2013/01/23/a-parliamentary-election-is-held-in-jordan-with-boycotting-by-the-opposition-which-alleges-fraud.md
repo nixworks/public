@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21158713)
 2. [Reuters](http://www.reuters.com/article/2013/01/23/us-jordan-elections-polls-idUSBRE90M09G20130123)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130123&t=2&i=696966114&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90M0QFH00)
 
 ### Related:
 

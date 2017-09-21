@@ -10,6 +10,7 @@ Angry&#x20;demonstrations&#x20;and&#x20;riots&#x20;over&#x20;an&#x20;anti-Islami
 1. [AdelaideNow](http://www.adelaidenow.com.au/police-use-pepper-spray-on-anti-islamic-film-protesters-in-sydney-at-the-us-consulate/story-e6frea6u-1226474744811)
 2. [France 24](http://www.france24.com/en/20120915-deadly-anti-us-protests-spread-muslim-world-sydney-stevens-embassies-obama)
 3. [ninemsn](http://news.ninemsn.com.au/national/8533359/muslim-protesters-clash-with-police-in-sydney)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/protests-new-m_0.jpg)
 
 ### Related:
 

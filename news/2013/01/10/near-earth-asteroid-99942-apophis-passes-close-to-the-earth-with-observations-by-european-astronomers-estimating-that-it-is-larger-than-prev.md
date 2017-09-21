@@ -8,6 +8,7 @@ Asteroid, which was once deemed a danger to the planet, will return much closer 
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-205_162-57563125/doomsday-asteroid-apophis-flies-by-earth-tonight/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/02/04/3fe8dd3a-a645-11e2-a3f0-029118418759/col.jpg)
 
 ### Related:
 

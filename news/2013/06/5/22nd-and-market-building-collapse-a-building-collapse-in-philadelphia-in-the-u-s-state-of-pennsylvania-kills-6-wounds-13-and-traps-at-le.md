@@ -9,6 +9,7 @@ Two people were believed killed and 13 others were pulled from the rubble of a d
 
 1. [CNN](http://www.cnn.com/2013/06/05/us/pennsylvania-philadelphia-building-collapse/index.html?hpt=hp_t2)
 2. [Jacksonville.com](http://jacksonville.com/news/national/2013-06-05/story/2-likely-dead-13-rescued-philly-building-collapse)
+2. [Cover Image](http://jacksonville.com/sites/default/files/jacksonville-logo.png)
 
 ### Related:
 

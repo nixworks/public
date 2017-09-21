@@ -8,6 +8,7 @@ More newborns die on the first day in India than in any other country, according
 ### Source:
 
 1. [Times of India](http://articles.timesofindia.indiatimes.com/2013-05-07/india/39089243_1_india-pakistan-countries)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/19924597.cms)
 
 ### Related:
 

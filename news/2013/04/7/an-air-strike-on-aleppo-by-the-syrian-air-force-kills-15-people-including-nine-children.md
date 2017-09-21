@@ -10,6 +10,7 @@ The violence in Syria continues. An air strike has killed 15 people in Aleppo. T
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2013/04/07/Nine-children-among-15-killed-in-airstrike-on-Syria-s-Aleppo.html)
 2. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2013/04/07/Syrian-troops-shell-Damascus-neighborhood-with-Toshka-missiles.html)
 3. [Euronews](http://www.euronews.com/2013/04/07/aleppo-air-strike-kills-15/)
+3. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

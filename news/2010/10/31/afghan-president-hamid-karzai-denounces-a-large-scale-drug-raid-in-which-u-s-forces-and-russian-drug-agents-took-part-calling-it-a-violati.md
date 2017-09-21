@@ -8,6 +8,7 @@ Afghan President Hamid Karzai on Saturday denounced a large-scale drug raid in w
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-afghanistan-karzai-20101031,0,596764.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

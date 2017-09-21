@@ -8,6 +8,7 @@ Main opposition Puea Thai Party enjoys clear lead in polls over party of current
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/asia-pacific/2011/07/20117251016934132.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/2/20117252034969734_20.jpg)
 
 ### Related:
 

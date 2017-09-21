@@ -8,6 +8,7 @@ RA fire that raged in a home for abused children in Guatemala killed at least 35
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-guatemala-children-idUSKBN16F243)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170310&t=2&i=1175559700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED290AW)
 
 ### Related:
 

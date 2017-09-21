@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/21/us-france-shooting-azhar-idUSKCN0TA0AF20151121#JUstOjmZx2UE2ZhU.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

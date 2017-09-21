@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/middleeast/2014/December/middleeast_December53.xml&section=middleeast)
+1. [Cover Image](http://www.khaleejtimes.com/images/default/default_490x276.jpg)
 
 ### Related:
 

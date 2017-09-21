@@ -10,6 +10,7 @@ The CAG-estimated loss figure of Rs 10.67 lakh crore is 6 times that of its high
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/03/201232215855749552.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-india-17471359)
 3. [The Times of India](http://timesofindia.indiatimes.com/articleshow/12360183.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/12360236.cms)
 
 ### Related:
 

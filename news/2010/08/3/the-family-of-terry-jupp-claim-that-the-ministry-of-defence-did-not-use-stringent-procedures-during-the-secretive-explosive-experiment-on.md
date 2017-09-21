@@ -11,6 +11,7 @@ A Ministry of Defence bomb expert was killed after &#034;inadequate&#034; safety
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/defence/7924450/MoD-bomb-expert-died-during-tests-of-high-national-importance.html)
 3. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/03/inquest-secret-mod-explosives-trial)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/03/AR2010080300157.html)
+4. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

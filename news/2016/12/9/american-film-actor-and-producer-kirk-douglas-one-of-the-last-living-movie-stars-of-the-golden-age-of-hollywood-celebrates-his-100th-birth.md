@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/pictures/kirk-douglas-100/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/05/27/684efe70-d252-11e2-a43e-02911869d855/KirkDouglas_portrait_promo.jpg)
 
 ### Related:
 

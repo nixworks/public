@@ -12,6 +12,7 @@ Many quickly jumped on trains for Germany, which has agreed to take in tens of t
 3. [The Star - Malaysia](http://www.thestar.com.my/News/World/2015/09/05/UN-demands-Europe-mobilise-on-migrants-Hungary-warns-of-mass-inflow/)
 4. [USA Today](http://www.usatoday.com/story/news/world/2015/09/05/migrants-austria-hungary/71763586/)
 5. [Washington Post](https://www.washingtonpost.com/world/syrian-migrants-reach-austria-as-hungary-retreats-from-harsher-measures/2015/09/05/2a3a6e7e-5333-11e5-b225-90edbd49f362_story.html)
+5. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

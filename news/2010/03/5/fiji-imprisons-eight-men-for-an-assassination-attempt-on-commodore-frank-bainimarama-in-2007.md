@@ -11,6 +11,7 @@
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/170529/eight-jailed-for-plot-to-kill-fiji-military-leader)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/eight-jailed-over-fiji-plot-20100305-poml.html)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/05/AR2010030500923.html)
+4. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Saudi Arabia has cancelled billions of dollars of aid to Lebanon over claims Bei
 ### Source:
 
 1. [Middle East Eye](http://www.middleeasteye.net/news/saudi-arabia-and-uae-tell-citizens-not-go-lebanon-1263867364)
+1. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/000_7Z749.jpg)
 
 ### Related:
 

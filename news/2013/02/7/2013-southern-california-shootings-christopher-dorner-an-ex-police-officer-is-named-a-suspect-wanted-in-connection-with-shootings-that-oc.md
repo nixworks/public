@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2013/02/07/us/lapd-attacks)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2013/02/ex-cop-manhunt-newspaper-delivery-women-shot.html)
+2. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef017ee850259a970d-120pi)
 
 ### Related:
 

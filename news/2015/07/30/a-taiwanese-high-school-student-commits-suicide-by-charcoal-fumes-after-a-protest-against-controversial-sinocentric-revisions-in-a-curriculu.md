@@ -12,3 +12,4 @@ Hundreds of protesters gathered in Taipei early on Friday calling for the educat
 3. [BBC](http://www.bbc.com/news/world-asia-33731411)
 4. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-taiwan-students-protest-20150731-story.html)
 5. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2015/07/31/2003624291)
+5. [Cover Image](https://s.yimg.com/uu/api/res/1.2/.slsUf7yiuPVFcrG_6XIPA--/aD03MDI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8240289-1-1-0.jpg)

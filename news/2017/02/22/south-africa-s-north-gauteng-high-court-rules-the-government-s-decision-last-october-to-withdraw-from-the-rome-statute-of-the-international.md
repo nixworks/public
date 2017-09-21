@@ -9,6 +9,7 @@ JOHANNESBURG (AP) — A South African court ruled Wednesday that the government&
 
 1. [AP](http://bigstory.ap.org/article/109805faac52454283bc57d8fa7006d3/south-african-court-rules-against-icc-withdrawal)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/22/516620190/court-blocks-south-africas-withdrawal-from-international-criminal-court)
+2. [Cover Image](http://binaryapi.ap.org/b80b7bf0ed384830b288791011cfbf2e/460x.jpg)
 
 ### Related:
 

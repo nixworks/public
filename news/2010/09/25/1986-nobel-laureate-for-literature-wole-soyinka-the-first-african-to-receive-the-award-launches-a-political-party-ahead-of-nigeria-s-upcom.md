@@ -9,6 +9,7 @@ Nobel literature laureate Wole Soyinka launches a political party in Nigeria, mo
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11411759)
 2. [Daily Nation](http://www.nation.co.ke/News/africa/Wole%20Soyinka%20launches%20new%20Nigeria%20party%20/-/1066/1018164/-/s7yk4kz/-/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

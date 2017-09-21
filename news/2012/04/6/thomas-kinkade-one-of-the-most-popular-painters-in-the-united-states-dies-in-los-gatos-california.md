@@ -8,6 +8,7 @@ Thomas Kinkade, one of nation&#8217;s most popular painters, dies suddenly in Mo
 ### Source:
 
 1. [San Jose Mercury](http://www.mercurynews.com/los-gatos/ci_20344195/thomas-kinkade-one-nations-most-popular-painters-dies)
+1. [Cover Image](http://www.mercurynews.com/wp-content/uploads/2016/08/20120406__SSJM0407KINKADE1-1.jpg?w=400&amp;h=271)
 
 ### Related:
 

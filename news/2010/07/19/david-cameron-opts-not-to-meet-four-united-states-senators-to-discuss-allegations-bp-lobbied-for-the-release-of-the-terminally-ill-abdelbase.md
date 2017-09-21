@@ -8,6 +8,7 @@ UK Prime Minister David Cameron insists BP should not be blamed for the &quot;co
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10691609)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

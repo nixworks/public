@@ -10,6 +10,7 @@ David Cameron hails the &quot;unbreakable&quot; friendship between Britain and P
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-10888976)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-10897801)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/06/zardari-cameron-pakistan-talks)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

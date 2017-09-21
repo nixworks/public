@@ -8,6 +8,7 @@ Riot police were patrolling the streets of Jos in central Nigeria on Monday afte
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/8227021/Riot-police-out-on-streets-in-Nigerian-city.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01792/Nigeria_1792943a.jpg)
 
 ### Related:
 

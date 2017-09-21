@@ -8,6 +8,7 @@ The largest rocket ever launched from the U.S. West Coast blasted off on Thursda
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70K06Z20110121)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110121&t=2&i=312403372&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-21T040517Z_01_BTRE70K0BCX00_RTROPTP_0_ROCKET-LAUNCH)
 
 ### Related:
 

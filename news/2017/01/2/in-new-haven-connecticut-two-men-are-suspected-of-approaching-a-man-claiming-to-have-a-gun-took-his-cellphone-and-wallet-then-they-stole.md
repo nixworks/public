@@ -8,3 +8,4 @@ NEW HAVEN — Two men suspected of a carjacking in New Haven were killed when th
 ### Source:
 
 1. [Hartford Courant](http://www.courant.com/breaking-news/hc-new-haven-carjacking-crash-20170102-story.html)
+1. [Cover Image](http://www.trbimg.com/img-586aae17/turbine/hc-new-haven-carjacking-crash-20170102)

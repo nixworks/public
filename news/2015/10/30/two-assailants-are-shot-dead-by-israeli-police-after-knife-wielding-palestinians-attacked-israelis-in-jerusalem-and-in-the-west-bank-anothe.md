@@ -9,6 +9,7 @@ Knife-wielding Palestinians attacked Israelis in Jerusalem and the occupied West
 
 1. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/30/palestinian-killed-as-stabbings-and-clashes-continue.html)
 2. [Reuters](http://in.reuters.com/article/2015/10/30/israeli-palestinians-idINKCN0SO1HX20151030)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151030&t=2&i=1090989273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9T0OM)
 
 ### Related:
 

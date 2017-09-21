@@ -8,6 +8,7 @@ Nineteen Muslim separatist rebels have been killed in fresh air strikes carried 
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2008/11/01/2407633.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

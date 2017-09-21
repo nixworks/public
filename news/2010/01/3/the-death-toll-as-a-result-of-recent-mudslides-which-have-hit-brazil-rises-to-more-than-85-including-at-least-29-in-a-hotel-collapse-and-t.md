@@ -9,6 +9,7 @@ Officials in Brazil are now putting the death toll from floods and mudslides at 
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/01/03/2784418.htm?section=world)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8438842.stm)
+2. [Cover Image](http://www.abc.net.au/news/image/1194220-1x1-700x700.jpg)
 
 ### Related:
 

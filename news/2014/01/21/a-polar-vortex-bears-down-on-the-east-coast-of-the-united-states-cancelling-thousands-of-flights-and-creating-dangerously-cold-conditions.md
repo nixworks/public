@@ -9,6 +9,7 @@ A winter storm bearing down on the East Coast Tuesday is bringing forecasts of h
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/01/21/weather-winter-storm-east-coast/4708543/)
 2. [USA Today](http://www.usatoday.com/story/todayinthesky/2014/01/21/airlines-waive-fees-ax-nearly-2000-flights-as-snow-looms/4706213/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

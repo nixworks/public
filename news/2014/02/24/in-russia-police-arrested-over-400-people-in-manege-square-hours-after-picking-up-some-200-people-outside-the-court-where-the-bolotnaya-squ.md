@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26337693)
 2. [RFE/RL](http://www.rferl.org/content/a-specter-is-haunting-russia/25275752.html)
 3. [The Moscow Times](http://www.themoscowtimes.com/news/article/bolotnoye-suspects-get-prison-time/495164.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73201000/jpg/_73201601_73201600.jpg)
 
 ### Related:
 

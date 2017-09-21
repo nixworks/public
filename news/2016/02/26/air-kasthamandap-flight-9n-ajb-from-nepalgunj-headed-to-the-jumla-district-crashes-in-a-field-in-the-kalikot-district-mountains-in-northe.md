@@ -9,6 +9,7 @@ Two days after the fatal Tara Air crash, a plane belonging to Air Kasthamandap c
 
 1. [CNN](http://www.cnn.com/2016/02/26/asia/second-nepal-plane-crash/)
 2. [The Kathmandu Post](http://kathmandupost.ekantipur.com/news/2016-02-26/air-kastamandap-plane-crash-lands-at-kalikots.html)
+2. [Cover Image](http://assets-cdn.ekantipur.com/images/third-party/miscellaneous/26022016062244capt-co-pilot-plane-600x0.jpg)
 
 ### Related:
 

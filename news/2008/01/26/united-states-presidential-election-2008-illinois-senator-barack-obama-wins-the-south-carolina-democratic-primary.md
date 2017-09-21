@@ -8,6 +8,7 @@ Senator Barack Obama’s commanding victory over Senator Hillary Rodham Clinton 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/01/26/us/politics/26cnd-carolina.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/01/27/us/27obama.75b.jpg)
 
 ### Related:
 

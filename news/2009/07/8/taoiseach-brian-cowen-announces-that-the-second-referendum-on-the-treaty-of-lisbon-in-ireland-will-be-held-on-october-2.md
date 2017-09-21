@@ -9,6 +9,7 @@ The Taoiseach has told the Dáil that the second referendum on the Lisbon Treaty
 
 1. [RTÉ](http://www.rte.ie/news/2009/0708/eulisbon.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0708/breaking28.htm)
+2. [Cover Image](https://img.rasset.ie/00026e5f-1600.jpg)
 
 ### Related:
 

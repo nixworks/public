@@ -9,6 +9,7 @@ At least 10 people are killed and more than 100 injured as two passenger trains 
 
 1. [BBC](http://www.bbc.com/news/world-europe-35530538)
 2. [CNN](http://edition.cnn.com/2016/02/09/europe/germany-train-collision/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11CD/production/_88175540_031359481.jpg)
 
 ### Related:
 

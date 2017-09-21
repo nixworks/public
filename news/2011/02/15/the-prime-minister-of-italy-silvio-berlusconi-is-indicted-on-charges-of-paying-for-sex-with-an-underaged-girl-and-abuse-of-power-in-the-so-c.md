@@ -9,6 +9,7 @@ Italian PM Silvio Berlusconi is indicted to stand trial on charges of paying for
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12083491)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/15/AR2011021500612.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

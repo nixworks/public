@@ -8,3 +8,4 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39620056)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/ED5E/production/_95666706_malawiboat.jpg)

@@ -8,6 +8,7 @@ A 61-year-old woman has been killed and 13 other people were injured, including 
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2006/0507/dublin.html)
+1. [Cover Image](https://img.rasset.ie/00008739-1600.jpg)
 
 ### Related:
 

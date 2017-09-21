@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/05/15/us-burundi-politics-idUSKBN0NY0O020150515)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150515&t=2&i=1048522967&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4E09Q)
 
 ### Related:
 

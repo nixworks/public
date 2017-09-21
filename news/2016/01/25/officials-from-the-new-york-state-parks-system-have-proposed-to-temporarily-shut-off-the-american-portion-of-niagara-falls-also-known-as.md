@@ -8,6 +8,7 @@ It would be the second time the famous falls have been shut down as authorities 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1629277/niagara-falls-could-be-shut-off-to-fix-bridges)
+1. [Cover Image](http://e3.365dm.com/16/01/1600x900/gettyimages-463969078-1-2048x1536_3405874.jpg?20160126122706)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Thailand is making preparations for Crown Prince Maha Vajiralongkorn to ascend t
 
 1. [BBC](http://www.bbc.com/news/world-asia-37840391)
 2. [Reuters](http://www.reuters.com/article/us-thailand-king-idUSKBN12V0S5)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161031&t=2&i=1159652253&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9U0H3)
 
 ### Related:
 

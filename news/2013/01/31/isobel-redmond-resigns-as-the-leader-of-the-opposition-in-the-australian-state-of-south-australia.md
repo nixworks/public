@@ -8,6 +8,7 @@ SOUTH Australian Opposition Leader Isobel Redmond has quit the Liberal leadershi
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/national/sa-oppn-leader-isobel-redmond-resigns/story-e6frfku9-1226565727411)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ten people were killed and 15 hurt when a suicide bomber blew up his car outside
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/16/2033967.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

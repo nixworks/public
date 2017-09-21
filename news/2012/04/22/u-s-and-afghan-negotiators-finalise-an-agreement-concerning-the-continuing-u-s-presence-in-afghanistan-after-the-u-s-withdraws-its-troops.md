@@ -8,3 +8,4 @@ US and Afghan negotiators finalise a long-term partnership deal governing the US
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17807262)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59796000/jpg/_59796556_014573300-1.jpg)

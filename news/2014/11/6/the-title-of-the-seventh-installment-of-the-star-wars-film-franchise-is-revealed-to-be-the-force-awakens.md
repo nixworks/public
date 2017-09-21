@@ -8,6 +8,7 @@ The upcoming installment of the &quot;Star Wars&quot; film franchise has finishe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/06/us-film-starwars-idUSKBN0IQ26J20141106)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20141106&t=2&i=989411987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAA50Y0)
 
 ### Related:
 

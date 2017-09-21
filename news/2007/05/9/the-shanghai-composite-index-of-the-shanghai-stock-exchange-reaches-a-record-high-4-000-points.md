@@ -8,6 +8,7 @@ After another feverish day in this country’s amazing bull run, share prices in
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/05/09/business/worldbusiness/09cnd-chinastox.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

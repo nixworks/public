@@ -8,6 +8,7 @@ A new hypersonic spy plane is coming from the company that perfected the technol
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/tech/2013/11/04/lockheed-martin-skunkworks-to-build-successor-to-sr-71-blackbird/?intcmp=obnetwork)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2013/11/04/lockheed-martin-skunkworks-to-build-successor-to-sr-71-blackbird/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1446576418015.jpg?ve=1)
 
 ### Related:
 

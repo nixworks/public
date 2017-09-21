@@ -8,6 +8,7 @@ Teen star Justin Bieber dominates the American Music Awards winning four prizes 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11808878)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

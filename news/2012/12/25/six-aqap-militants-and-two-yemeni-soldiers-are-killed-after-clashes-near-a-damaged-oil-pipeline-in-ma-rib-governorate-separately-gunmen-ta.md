@@ -8,6 +8,7 @@ At least five militants were killed and three soldiers wounded in Yemen on Tuesd
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/25/us-yemen-violence-idUSBRE8BO02O20121225)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

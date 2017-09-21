@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez said that his country will continue exporting o
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/01/chavez-takes-time-to-reply-to-peruvian-president-garca-ironies)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21757/200x200/bc1d74aaf6ac3bb27f72ccc015d75451.jpg)
 
 ### Related:
 

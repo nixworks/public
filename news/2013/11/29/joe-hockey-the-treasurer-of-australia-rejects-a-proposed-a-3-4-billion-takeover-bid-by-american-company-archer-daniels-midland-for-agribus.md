@@ -8,6 +8,7 @@ The Federal Opposition slams the decision to reject the sale of GrainCorp to US 
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2013-11-29/federal-government-rejects-foreign-takeover-of-graincorp/5124262)
+1. [Cover Image](http://www.abc.net.au/news/image/5012290-1x1-700x700.jpg)
 
 ### Related:
 

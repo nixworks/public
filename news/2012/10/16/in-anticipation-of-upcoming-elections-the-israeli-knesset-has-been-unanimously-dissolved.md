@@ -8,6 +8,7 @@ Final reading of bill to dissolve Knesset passes with 100 in favor, none opposed
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=287962)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=199316)
 
 ### Related:
 

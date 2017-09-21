@@ -15,3 +15,4 @@ The northern Syrian town of Jisr al-Shughour braces for an army assault after th
 6. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=224086)
 7. [USA Today](http://www.usatoday.com/news/world/2011-06-07-american-blogger-missing-syria_n.htm)
 8. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304906004576371770088075498.html)
+8. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53274000/jpg/_53274545_53274543.jpg)

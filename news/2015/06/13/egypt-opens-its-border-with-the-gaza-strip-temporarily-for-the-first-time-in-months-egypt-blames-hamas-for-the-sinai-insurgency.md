@@ -8,6 +8,7 @@ Egypt has opened its borders with the Gaza Strip for the first time in months.
 ### Source:
 
 1. [AP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Jun-13/301929-egypt-opens-borders-with-gaza-for-3-days-in-first-time-in-months.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/06/13/425958_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

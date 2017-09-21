@@ -9,6 +9,7 @@ The Sony hackers story has taken a serious turn. A message from the Guardians of
 
 1. [CNN](http://money.cnn.com/2014/12/17/media/the-interview-sony-theater-owners/index.html)
 2. [USA Today](http://www.usatoday.com/story/life/movies/2014/12/16/sony-hackers-threaten-movie-theaters/20485591/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

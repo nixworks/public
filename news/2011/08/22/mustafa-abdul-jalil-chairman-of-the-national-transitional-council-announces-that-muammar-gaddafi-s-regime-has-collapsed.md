@@ -23,6 +23,7 @@ Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and 
 14. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8716171/Libya-Col-Gaddafi-could-flee-to-Venezuela-or-Cuba.html)
 15. [Washington Post](http://www.washingtonpost.com/world/middle-east/libyan-rebels-converging-on-tripoli/2011/08/21/gIQAbF3RUJ_story.html?wpisrc=al_national)
 16. [Yahoo! News](http://news.yahoo.com/libyan-rebels-advance-edge-tripoli-202939434.html)
+16. [Cover Image](http://www.abc.net.au/news/image/2850162-1x1-700x700.jpg)
 
 ### Related:
 

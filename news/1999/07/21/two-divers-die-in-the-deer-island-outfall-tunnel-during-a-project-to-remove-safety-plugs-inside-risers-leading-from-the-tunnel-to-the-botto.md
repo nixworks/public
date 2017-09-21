@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Associated Press](http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/19990722/NEWS/307229950)
+1. [Cover Image](http://www.southcoasttoday.com/Global/images/head/nameplate/fb/southcoast-logo.jpg)
 
 ### Related:
 

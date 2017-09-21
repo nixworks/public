@@ -8,6 +8,7 @@ U.S. stock-market futures were trading sharply lower on Friday as debt problems 
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/us-stock-futures-deep-in-the-red-on-dubai-news-2009-11-27)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

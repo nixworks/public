@@ -9,3 +9,4 @@ News - Your daily dose of information: European and International latest breakin
 
 1. [Euronews](http://www.euronews.com/newswires/2911098-bulgarias-first-democratically-elected-president-zhelev-dies/)
 2. [Novinite](http://www.novinite.com/articles/166247/Bulgaria's+Former+President+Zhelyu+Zhelev+Dies)
+2. [Cover Image](http://www.novinite.com/media/images/2015-01/photo_verybig_166247.jpg)

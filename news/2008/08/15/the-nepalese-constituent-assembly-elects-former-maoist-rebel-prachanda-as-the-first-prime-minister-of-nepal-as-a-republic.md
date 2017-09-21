@@ -8,6 +8,7 @@ Former Maoist rebel leader Prachanda has been elected as Nepal&#039;s first repu
 ### Source:
 
 1. [BBC News via ABC Australia](http://www.abc.net.au/news/stories/2008/08/16/2337302.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/478400-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A large natural gas line in north Texas erupted Monday after utility workers acc
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/37560174/ns/us_news-life?GT1=43001)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100608-gas-explosion-hmed-530a.standard.jpg)
 
 ### Related:
 

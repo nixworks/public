@@ -8,6 +8,7 @@ A suicide bomb attack outside a NATO base killed seven civilians in southeastern
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/30699253/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Video/090513/a_brown_afghan_090513.standard.jpg)
 
 ### Related:
 

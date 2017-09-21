@@ -10,6 +10,7 @@ ICANN forms group to hasten non-English domain names
 1. [AP](http://www.mercurynews.com/business/ci_7353789)
 2. [CBC.ca](http://www.cbc.ca/cp/technology/071102/z110211A.html)
 3. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=5&objectid=10473839)
+3. [Cover Image](http://www.mercurynews.com/wp-content/themes/mercurynews/static/images/mercurynews.jpg)
 
 ### Related:
 

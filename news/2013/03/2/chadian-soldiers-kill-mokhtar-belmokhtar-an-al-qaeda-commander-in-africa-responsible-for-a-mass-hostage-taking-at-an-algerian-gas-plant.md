@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21645769)
 2. [Reuters](http://www.reuters.com/article/2013/03/02/us-mali-belmokhtar-idUSBRE9210B920130302)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66171000/jpg/_66171620_017387572.jpg)
 
 ### Related:
 

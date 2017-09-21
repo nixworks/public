@@ -8,6 +8,7 @@ The collapsed section raised new doubts about the quality of work and training o
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/13/world/asia/tested-section-of-new-high-speed-rail-track-disintegrates-in-china.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

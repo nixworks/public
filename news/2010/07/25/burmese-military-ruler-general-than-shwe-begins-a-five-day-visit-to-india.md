@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10742638)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/Myanmar-military-chief-Than-Shwe-on-goodwill-visit-to-India-/articleshow/6213507.cms)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

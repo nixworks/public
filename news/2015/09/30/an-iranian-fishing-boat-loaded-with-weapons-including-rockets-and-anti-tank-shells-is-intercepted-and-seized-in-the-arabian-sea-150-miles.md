@@ -8,6 +8,7 @@ The Saudi-led coalition battling Houthi rebels in Yemen says it has seized an Ir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34401246)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/93A0/production/_85829773_85829772.jpg)
 
 ### Related:
 

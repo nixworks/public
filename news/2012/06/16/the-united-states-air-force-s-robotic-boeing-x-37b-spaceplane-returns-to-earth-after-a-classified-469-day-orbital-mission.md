@@ -8,6 +8,7 @@ The U.S. Air Force&#039;s secretive X-37B space plane landed after completing it
 ### Source:
 
 1. [Space.com](http://www.space.com/16110-secret-x37b-space-plane-landing.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMC8xMDIvb3JpZ2luYWwvMDkxMDIxLXgzN2ItcmVlbnRlci0wMi5qcGc=)
 
 ### Related:
 

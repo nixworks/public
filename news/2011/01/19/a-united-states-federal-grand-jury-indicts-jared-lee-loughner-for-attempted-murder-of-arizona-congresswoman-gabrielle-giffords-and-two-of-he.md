@@ -9,6 +9,7 @@ A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on char
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/19/AR2011011905340.html?wpisrc=nl_natlalert)
 2. [Reuters](http://www.reuters.com/article/idUSTRE70J09520110120?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110120&t=2&i=311277186&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-20T014435Z_01_BTRE70J02MI00_RTROPTP_0_USA-SHOOTING-CONGRESSWOMAN)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Malaysian authorities said Tuesday they have ordered six bank accounts to be fro
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/malaysia-authorities-order-six-bank-accounts-frozen-tied-to-probe-of-alleged-transfers-to-prime-minister-najib-1436253593)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JG545_0707MA_G_20150707030009.jpg)
 
 ### Related:
 

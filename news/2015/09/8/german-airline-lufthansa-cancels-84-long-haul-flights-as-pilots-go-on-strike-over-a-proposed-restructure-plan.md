@@ -8,6 +8,7 @@ Deutsche Lufthansa AG pilots will resume striking Tuesday, almost six months aft
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-09-07/lufthansa-truce-ends-as-pilot-strike-to-hit-key-long-haul-routes)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

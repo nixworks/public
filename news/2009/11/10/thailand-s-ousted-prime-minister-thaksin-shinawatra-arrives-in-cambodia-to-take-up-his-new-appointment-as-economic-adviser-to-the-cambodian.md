@@ -9,6 +9,7 @@ Former Thai PM stirs up diplomatic tensions as he takes up government advisory r
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/11/10/2738876.htm?section=justin)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/2009111035244522763.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

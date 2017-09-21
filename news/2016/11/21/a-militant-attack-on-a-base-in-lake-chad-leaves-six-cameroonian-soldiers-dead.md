@@ -8,6 +8,7 @@ An attack by Nigeria&#039;s Boko Haram terrorists against a Lake Chad army base 
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/world-news/6-soldiers-killed-in-boko-haram-attack-in-cameroon-1628845)
+1. [Cover Image](http://i.ndtvimg.com/i/2016-10/boko-haram-ap_650x400_41476375890.jpg)
 
 ### Related:
 

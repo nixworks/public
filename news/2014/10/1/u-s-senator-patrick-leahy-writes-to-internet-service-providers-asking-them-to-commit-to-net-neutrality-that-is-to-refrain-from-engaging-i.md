@@ -8,6 +8,7 @@ U.S. Senate Judiciary Committee Chairman Patrick Leahy on Thursday pressed large
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/10/23/us-usa-internet-neutrality-senate-idUSKCN0IC24G20141023)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141023&t=2&i=985792268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9M0U9)
 
 ### Related:
 

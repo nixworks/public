@@ -10,6 +10,7 @@ A new parliament opens in Burma for the first time in 22 years following electio
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12321085)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/219130/burma-opens-junta-dominated-parliament)
 3. [The Independent](http://www.independent.co.uk/news/world/asia/burmese-parliament-spells-out-its-new-democracy-reforms-2199023.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

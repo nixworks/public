@@ -8,6 +8,7 @@ Israel says it could use force to stop a new aid boat to Gaza, as Lebanon refuse
 ### Source:
 
 1. [The Age](http://www.theage.com.au/world/israel-warns-gaza-aid-boat-20100821-139d2.html)
+1. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

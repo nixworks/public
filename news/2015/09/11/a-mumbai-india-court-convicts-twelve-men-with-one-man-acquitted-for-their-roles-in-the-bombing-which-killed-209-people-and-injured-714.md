@@ -9,6 +9,7 @@ A special court convicts 12 out of 13 men accused of planning bombings on commut
 
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/india-court-finds-12-guilty-2006-mumbai-train-blasts-150911073919022.html)
 2. [BBC](http://www.bbc.com/news/world-asia-india-34218396?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/11/064c14fc6f6c4655ae6e0dd11cba3c1a_18.jpg)
 
 ### Related:
 

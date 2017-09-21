@@ -8,6 +8,7 @@ Grand Theft Auto V has crossed the $1 billion sales mark after three days in sto
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/20/entertainment-us-taketwo-gta-idUSBRE98J0O820130920)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130920&t=2&i=795942220&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98J1NII00)
 
 ### Related:
 

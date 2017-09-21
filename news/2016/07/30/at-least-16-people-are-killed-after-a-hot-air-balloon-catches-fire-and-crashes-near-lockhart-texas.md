@@ -8,6 +8,7 @@ A hot air balloon carrying at least 16 people catches fire and crashes in the US
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-36933150)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6B04/production/_90569372_de27.jpg)
 
 ### Related:
 

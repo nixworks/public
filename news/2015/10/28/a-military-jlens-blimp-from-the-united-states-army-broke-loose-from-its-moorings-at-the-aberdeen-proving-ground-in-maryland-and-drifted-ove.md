@@ -9,6 +9,7 @@ The blimp broke loose at Aberdeen proving ground in Maryland and drifted over Pe
 
 1. [NBC](http://www.nbcnews.com/news/us-news/fighter-jets-track-military-blimp-drifting-over-pennsylvania-n453106)
 2. [Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2015/10/28/the-army-lost-control-of-a-giant-unmanned-surveillance-blimp/)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_44/1279941/151028-runaway-blimp-jsw-01-504p_23e14fad38e56591b88360a09d7be657.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

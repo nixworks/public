@@ -10,6 +10,7 @@ Three police officers and 14 civilians die in Kinshasa, capital of DR Congo, dur
 1. [BBC](http://www.bbc.com/news/world-africa-37406407)
 2. [DNA](http://www.dna.fr/actualite/2016/09/19/flambee-de-violence-a-kinshasa-au-moins-31-morts)
 3. [Le Point](http://www.lepoint.fr/monde/kinshasa-au-moins-31-morts-lors-de-violences-et-de-pillages-19-09-2016-2069636_24.php)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C9F4/production/_91300715_mediaitem91300714.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Power is being restored in parts of Taiwan after a powerful typhoon slammed into
 ### Source:
 
 1. [PA via BT](http://home.bt.com/news/world-news/taiwan-recovering-after-typhoon-nepartak-kills-two-11364072397715)
+1. [Cover Image](http://home.bt.com/images/taiwan-recovering-after-typhoon-nepartak-kills-two-136407239766710401-160708111009.jpg)
 
 ### Related:
 

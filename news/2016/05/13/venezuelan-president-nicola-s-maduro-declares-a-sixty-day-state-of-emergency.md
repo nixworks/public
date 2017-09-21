@@ -10,6 +10,7 @@ Nicolas Maduro says ‘Washington is activating measures at the request of Venez
 1. [BBC](http://www.bbc.com/news/world-latin-america-35329617)
 2. [Guardian](http://www.theguardian.com/world/2016/may/14/venezuela-president-declares-60-day-state-of-emergency-blaming-us-for-instability)
 3. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKCN0Y501X)
+3. [Cover Image](https://i.guim.co.uk/img/media/d8b32be1d359660e8bc250f7dcd5ff182c1eca62/0_171_4427_2657/4427.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8451bbb0a8e965bdc3884dbdf95f8e16)
 
 ### Related:
 

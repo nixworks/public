@@ -8,6 +8,7 @@ The United Nations warned that Somalia’s famine had spread and that 750,000 pe
 ### Source:
 
 1. [New YorK Times](http://www.nytimes.com/2011/09/06/world/africa/06somalia.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/09/06/world/06somalia1/06somalia1-thumbStandard.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Three children and a teacher are shot dead by a gunman at a Jewish school in the
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17426313)
 2. [The Times of Israel](http://www.timesofisrael.com/three-reported-killed-at-jewish-school-in-france/)
 3. [The Washington Post](http://www.washingtonpost.com/world/europe/father-two-children-shot-dead-outside-jewish-school-in-france/2012/03/19/gIQAclfUMS_story.html)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59171000/jpg/_59171075_014302284-1.jpg)
 
 ### Related:
 

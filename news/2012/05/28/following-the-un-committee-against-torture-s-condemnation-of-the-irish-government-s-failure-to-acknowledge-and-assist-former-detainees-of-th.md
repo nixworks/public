@@ -8,6 +8,7 @@ The Justice for Magdalenes campaign group has discovered that women were transfe
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0528/group-claims-state-worked-with-magdalene-laundries.html)
+1. [Cover Image](https://img.rasset.ie/0004a680-1600.jpg)
 
 ### Related:
 

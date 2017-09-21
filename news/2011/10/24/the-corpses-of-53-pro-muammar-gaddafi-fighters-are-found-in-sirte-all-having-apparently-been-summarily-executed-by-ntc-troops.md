@@ -8,6 +8,7 @@ The bodies of 53 Gaddafi supporters are found outside a hotel in the city of Sir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15428360)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56246000/jpg/_56246420_img_1451.jpg)
 
 ### Related:
 

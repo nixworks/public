@@ -8,3 +8,4 @@ Desperate for rest in a frenzied world, at least 8.6 million Americans take pres
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/health/sleepless-states-nearly-9-million-pop-pills-shut-eye-8C11026819)
+1. [Cover Image](https://media3.s-nbcnews.com/j/streams/2013/august/130828/8c8777229-130828-ambien-lr-hmed-551p.nbcnews-fp-1200-800.jpg)

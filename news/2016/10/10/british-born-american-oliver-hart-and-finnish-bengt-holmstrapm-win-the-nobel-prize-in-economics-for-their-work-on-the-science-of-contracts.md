@@ -8,6 +8,7 @@ UK-born Oliver Hart and Bengt Holmstrom of Finland have won the Nobel Economics 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37605685)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1117/production/_91757340_gettyimages-comp.jpg)
 
 ### Related:
 

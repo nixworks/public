@@ -9,6 +9,7 @@ Pier Luigi Bersani won a run-off primary election by a huge margin on Sunday to 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20574581)
 2. [Reuters](http://www.reuters.com/article/2012/12/02/us-italy-left-exitpoll-idUSBRE8B10D920121202)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121202&t=2&i=680432584&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B11I0U00)
 
 ### Related:
 

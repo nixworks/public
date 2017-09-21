@@ -8,3 +8,4 @@ The Isle of Man horse tram service is to be terminated after 140 years, Douglas 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-isle-of-man-35380961)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78129000/jpg/_78129918_img_0851.jpg)

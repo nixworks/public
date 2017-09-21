@@ -9,6 +9,7 @@
 
 1. [Reuters](http://in.reuters.com/article/2014/06/25/algeria-egypt-gas-idINL6N0P64KS20140625)
 2. [Voice of America](http://www.voanews.com/content/reu-security-tops-agenda-in-algeria-during-egypt-leaders-first-foreign-trip-/1944747.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

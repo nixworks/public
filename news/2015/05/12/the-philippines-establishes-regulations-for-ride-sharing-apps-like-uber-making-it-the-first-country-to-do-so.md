@@ -8,6 +8,7 @@ The Philippines has just become the first country to develop nationwide ride-hai
 ### Source:
 
 1. [Wired](http://www.wired.com/2015/05/uber-philippines/)
+1. [Cover Image](https://www.wired.com/wp-content/uploads/2015/05/148598387.jpg)
 
 ### Related:
 

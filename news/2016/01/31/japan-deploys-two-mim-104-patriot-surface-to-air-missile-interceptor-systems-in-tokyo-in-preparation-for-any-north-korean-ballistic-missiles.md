@@ -8,6 +8,7 @@ Japan says it has deployed two Patriot missile interceptors in Tokyo to counter 
 ### Source:
 
 1. [RT](https://www.rt.com/news/330742-japan-missile-defense-north-korea/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/56ad29f4c36188c83a8b4592.jpg)
 
 ### Related:
 

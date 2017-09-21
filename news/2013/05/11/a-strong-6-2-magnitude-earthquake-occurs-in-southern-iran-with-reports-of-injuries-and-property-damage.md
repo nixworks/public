@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via AsiaOne](http://www.asiaone.com/News/Latest%2BNews/World/Story/A1Story20130511-421854.html)
+1. [Cover Image](http://www.asiaone.com/A1MEDIA/news/05May13/20130511.131819_quake430tn.jpg)
 
 ### Related:
 

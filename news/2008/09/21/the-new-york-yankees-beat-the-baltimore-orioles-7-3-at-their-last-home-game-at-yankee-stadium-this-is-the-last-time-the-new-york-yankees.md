@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Yankees.com](http://newyork.yankees.mlb.com/news/wrap.jsp?ymd=20080921&content_id=3525626&vkey=wrapup2005&fext=.jsp&team=home&c_id=nyy)
+1. [Cover Image](http://newyork.yankees.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/nyy_1200x630.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [ The New York Yankees beat the Los Angeles Angels 5-2 in Game 6 of the 2009 American League Championship Series to advance to the World Series. ](/news/2009/10/25/the-new-york-yankees-beat-the-los-angeles-angels-5-2-in-game-6-of-the-2009-american-league-championship-series-to-advance-to-the-world-seri.md) _Context: New York Yankees_
 8. [ Pitcher Andy Pettitte of the New York Yankees admits to using human growth hormone to recover from an elbow injury two days after the release of the Mitchell Report. ](/news/2007/12/15/pitcher-andy-pettitte-of-the-new-york-yankees-admits-to-using-human-growth-hormone-to-recover-from-an-elbow-injury-two-days-after-the-relea.md) _Context: New York Yankees_
 9. [ The U.S. National Transportation Safety Board states that a stiff wind blew the plane carrying New York Yankees pitcher Cory Lidle off-course and into an apartment building in New York City. ](/news/2006/11/3/the-u-s-national-transportation-safety-board-states-that-a-stiff-wind-blew-the-plane-carrying-new-york-yankees-pitcher-cory-lidle-off-cour.md) _Context: New York Yankees_
-10. [ During the third inning of a New York Yankees-Boston Red Sox game at Fenway Park, Jason Varitek and Alex Rodriguez get into a fight, igniting a bench-clearing brawl. The Red Sox win the game 11-10 on a walk-off home run by Bill Mueller.](/news/2004/07/24/during-the-third-inning-of-a-new-york-yankees-boston-red-sox-game-at-fenway-park-jason-varitek-and-alex-rodriguez-get-into-a-fight-igniti.md) _Context: New York Yankees_
+10. [ The Boston Red Sox top the Yankees in the 2004 ALCS, and win the series after being down 3-0, winning four straight games in the greatest comeback MLB playoffs history. The Red Sox continue on to face the St. Louis Cardinals in the World Series.](/news/2004/10/20/the-boston-red-sox-top-the-yankees-in-the-2004-alcs-and-win-the-series-after-being-down-3-0-winning-four-straight-games-in-the-greatest-c.md) _Context: New York Yankees_

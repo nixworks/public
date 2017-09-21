@@ -9,6 +9,7 @@ A volcano erupts on an Indonesian island, spewing hot ash on to a nearby beach a
 
 1. [AP](http://bigstory.ap.org/article/indonesia-volcano-erupts-kills-5-people)
 2. [BBC News](http://www.bbc.co.uk/news/world-asia-23646467)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69216000/jpg/_69216276_69216275.jpg)
 
 ### Related:
 

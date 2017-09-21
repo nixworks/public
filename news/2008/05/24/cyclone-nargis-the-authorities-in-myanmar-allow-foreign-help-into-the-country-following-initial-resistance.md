@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKBKK14044220080524)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080523&t=2&i=4507485&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-05-23T114059Z_01_BKK140442_RTRUKOP_0_PICTURE1)
 
 ### Related:
 

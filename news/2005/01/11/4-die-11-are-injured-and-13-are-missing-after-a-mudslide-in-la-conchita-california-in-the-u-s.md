@@ -9,6 +9,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=7287887)
 2. [San Francisco Chronicle](http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/01/11/WEATHER.TMP)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

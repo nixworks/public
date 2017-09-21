@@ -8,6 +8,7 @@ Pakistani opposition party lawmakers tore up the agenda and shouted in a parliam
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-politics-idUSKBN17N0YS?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170421&t=2&i=1181485336&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3K0JU)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Fresh rains compound miseries of survivors in Sindh; meteorologist terms figures
 ### Source:
 
 1. [Express Tribune](http://tribune.com.pk/story/251425/floods-worsen-270-killed-officials/)
+1. [Cover Image](https://c.tribune.com.pk/2011/09/251425-PakistanfloodsBadinAFP-1315913534-414-640x480.jpg)
 
 ### Related:
 

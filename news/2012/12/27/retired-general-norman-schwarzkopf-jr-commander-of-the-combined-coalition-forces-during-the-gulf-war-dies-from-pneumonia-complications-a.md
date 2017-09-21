@@ -9,6 +9,7 @@ General Schwarzkopf, who was lauded for his leadership during the war, was award
 
 1. [AP](http://bigstory.ap.org/article/ap-source-retired-gen-norman-schwarzkopf-dies)
 2. [The New York Times](http://www.nytimes.com/2012/12/28/us/gen-h-norman-schwarzkopf-us-commander-in-gulf-war-dies-at-78.html)
+2. [Cover Image](https://static01.nyt.com/images/2012/12/28/us/28schwarzkopf2_337/28schwarzkopf2_337-videoLarge.jpg)
 
 ### Related:
 

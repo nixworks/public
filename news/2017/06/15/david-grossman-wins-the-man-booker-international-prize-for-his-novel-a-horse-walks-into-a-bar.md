@@ -8,6 +8,7 @@ David Grossman is awarded the Man Booker International Prize for his novel about
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-40286540)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/972B/production/_96499683_manbooker_getty.jpg)
 
 ### Related:
 

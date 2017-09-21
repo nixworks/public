@@ -8,6 +8,7 @@ The Rosetta spacecraft has crashed into a comet, bringing to an end one of the m
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/science/rosetta-to-be-flown-into-a-comet-destroying-itself-as-craft-finishes-historic-mission-a7336981.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/30/16/rosetta-mission-2.jpg)
 
 ### Related:
 

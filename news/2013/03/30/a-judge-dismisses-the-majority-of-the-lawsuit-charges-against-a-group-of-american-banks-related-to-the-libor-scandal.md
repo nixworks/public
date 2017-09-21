@@ -8,6 +8,7 @@ NEW YORK (AP) — A group of banks including Bank of America and JPMorgan Chase 
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/money/business/2013/03/30/banks-win-dismissal-of-most-rate-rigging-claims/2038293/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

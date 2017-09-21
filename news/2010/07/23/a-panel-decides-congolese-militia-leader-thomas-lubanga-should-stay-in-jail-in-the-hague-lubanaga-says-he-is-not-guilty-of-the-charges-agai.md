@@ -9,6 +9,7 @@ Panel says freeing Congolese militia leader could prevent his trial from resumin
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/2010723185546568782.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10746248)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

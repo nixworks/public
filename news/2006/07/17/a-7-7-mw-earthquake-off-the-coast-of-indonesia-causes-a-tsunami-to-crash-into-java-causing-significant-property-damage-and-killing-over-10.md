@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5186844.stm)
 3. [CBS News](http://www.cbsnews.com/stories/2006/07/17/world/main1807316.shtml)
 4. [USA Today](http://www.usatoday.com/news/world/2006-07-17-quake_x.htm)
+4. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/07/17/d3e5c2fc-a642-11e2-a3f0-029118418759/image1812283x.jpg)
 
 ### Related:
 

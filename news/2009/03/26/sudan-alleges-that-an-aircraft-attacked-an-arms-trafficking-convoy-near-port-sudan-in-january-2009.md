@@ -8,6 +8,7 @@ Two senior politicians say unidentified aircraft attacked a convoy of suspected 
 ### Source:
 
 1. [YNET](http://www.ynetnews.com/articles/0,7340,L-3692730,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

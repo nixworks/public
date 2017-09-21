@@ -8,6 +8,7 @@ In announcing a settlement, the agency said the state had misled investors about
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/03/12/business/sec-accuses-illinois-of-securities-fraud.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/03/12/business/12pension/12pension-videoLarge.jpg)
 
 ### Related:
 

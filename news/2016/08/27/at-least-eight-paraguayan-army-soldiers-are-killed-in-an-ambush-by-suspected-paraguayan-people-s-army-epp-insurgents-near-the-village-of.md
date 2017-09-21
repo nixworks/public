@@ -8,6 +8,7 @@ Eight soldiers are killed in an ambush in northern Paraguay in an attack blamed 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-37206562)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2BCF/production/_90951211_mediaitem90951209.jpg)
 
 ### Related:
 

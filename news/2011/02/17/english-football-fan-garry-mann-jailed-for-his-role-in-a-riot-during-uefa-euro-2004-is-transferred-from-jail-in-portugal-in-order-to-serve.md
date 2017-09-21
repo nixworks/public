@@ -8,3 +8,4 @@ An England football fan jailed in Portugal for his role in a riot during Euro 20
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-kent-12491133)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

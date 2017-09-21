@@ -8,6 +8,7 @@ Heavy weapons fire in Bamako as soldiers attacked presidential palace in protest
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/2012321184549658627.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/22/20123225638211734_20.jpg)
 
 ### Related:
 

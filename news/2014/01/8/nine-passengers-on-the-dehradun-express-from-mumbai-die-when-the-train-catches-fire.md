@@ -11,6 +11,7 @@ At least nine people, including a woman, have died after a fire broke out on a t
 2. [CNN](http://edition.cnn.com/2014/01/08/world/asia/india-train-fire/)
 3. [Gulf News](http://gulfnews.com/news/world/india/nine-dead-in-indian-train-fire-near-mumbai-1.1275341)
 4. [UPI](http://www.upi.com/Top_News/World-News/2014/01/08/India-train-fire-death-toll-rises-to-nine/UPI-45181389181560/)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72142000/jpg/_72142643_72142639.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Yemeni President Ali Abdullah Saleh has undergone &quot;successful&quot; surgery
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/06/09/Yemens-Saleh-has-surgery-for-burns/UPI-81491307648831/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/81491307648831/2011/4/96f10c77c390d3b71e924f3a2604a5c5/v2.1/Yemens-Saleh-has-surgery-for-burns.jpg)
 
 ### Related:
 

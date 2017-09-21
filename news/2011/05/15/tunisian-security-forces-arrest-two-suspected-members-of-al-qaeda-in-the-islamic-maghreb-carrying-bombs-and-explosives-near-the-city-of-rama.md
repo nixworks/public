@@ -8,6 +8,7 @@ Tunisian security forces havearrested two people suspected of being members of a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/15/libya-tunisia-arrest-idUSLDE74E08120110515?feedType=RSS&feedName=hotStocksNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

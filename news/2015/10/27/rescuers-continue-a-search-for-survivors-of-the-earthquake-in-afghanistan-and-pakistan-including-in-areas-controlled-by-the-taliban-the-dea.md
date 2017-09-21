@@ -11,6 +11,7 @@ Rescuers pick their way through rugged terrain and pockets of Taliban insurgency
 2. [Daily Star](https://www.dailystar.com.lb/News/World/2015/Oct-27/320411-taliban-vow-to-help-afghanistan-after-deadly-quake.ashx)
 3. [Himalayan Times](http://thehimalayantimes.com/world/death-toll-reaches-339-in-quake-hit-pakistani-afghan-areas/)
 4. [Reuters](http://www.reuters.com/article/2015/10/27/us-earthquake-afghanistan-idUSKCN0SL08I20151027)
+4. [Cover Image](http://www.abc.net.au/news/image/6890726-1x1-700x700.jpg)
 
 ### Related:
 

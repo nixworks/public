@@ -8,3 +8,4 @@ Dozens of people are hurt, eight of them seriously, when a regional train hits a
 ### Source:
 
 1. [BBC News Online](http://www.bbc.co.uk/news/world-europe-37109170)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/409E/production/_90824561_034770517-1.jpg)

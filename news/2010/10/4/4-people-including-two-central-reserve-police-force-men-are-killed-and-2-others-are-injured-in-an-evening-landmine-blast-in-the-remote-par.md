@@ -9,6 +9,7 @@ Four securitymen killed as Naxals trigger blast in Gadchiroli - Initial reports 
 
 1. [DNA](http://www.dnaindia.com/mumbai/report_four-securitymen-killed-as-naxals-trigger-blast-in-gadchiroli_1447648)
 2. [ZEE](http://www.zeenews.com/news659491.html)
+2. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A court in Guatemala sentences ex-soldier Pedro Pimentel to a symbolic 6,060 yea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17349774)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59034000/jpg/_59034672_59034671.jpg)
 
 ### Related:
 

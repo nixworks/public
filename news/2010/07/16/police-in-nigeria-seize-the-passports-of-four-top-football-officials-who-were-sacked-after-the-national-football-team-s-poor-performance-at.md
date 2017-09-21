@@ -8,6 +8,7 @@ Fraud police in Nigeria seize the passports of four top football officials sacke
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-africa-10665791)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

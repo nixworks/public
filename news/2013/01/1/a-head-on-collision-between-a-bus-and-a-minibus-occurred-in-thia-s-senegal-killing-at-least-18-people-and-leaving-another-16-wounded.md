@@ -8,6 +8,7 @@ A minibus and a coach packed with pilgrims collided on Tuesday in western Senega
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/world/senegal-road-accident-kills-18-312138)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

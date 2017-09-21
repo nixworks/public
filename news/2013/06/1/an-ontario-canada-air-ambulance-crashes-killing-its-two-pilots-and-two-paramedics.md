@@ -8,6 +8,7 @@ An Ontario air ambulance on its way to pick up a patient on James Bay crashes, k
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22738454)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67921000/gif/_67921585_31_05_2013_moosonee.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A series of suspected US missile strikes kill at least 17 people in the North Wa
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/20101228124531710613.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/6/201010631555100734_20.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ More details of the missing miners emerge as police wait until it is safe to beg
 3. [Stuff.co.nz](http://www.stuff.co.nz/national/4365223/Rescuers-wait-on-final-all-clear-to-enter-mine)
 4. [Sydney Morning Herald](http://www.smh.com.au/world/i-know-all-of-those-men-personally-workers-trapped-as-blast-rips-through-mine-20101119-180z1.html)
 5. [The Australian](http://www.theaustralian.com.au/news/feared-trapped-underground-in-new-zealand-coal-mine-explosion/story-e6frg6n6-1225956621200)
+5. [Cover Image](https://static2.stuff.co.nz/1290228933/636/4368636.jpg)
 
 ### Related:
 

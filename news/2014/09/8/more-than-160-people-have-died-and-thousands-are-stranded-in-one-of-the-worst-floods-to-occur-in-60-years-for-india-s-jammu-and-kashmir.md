@@ -8,6 +8,7 @@ Nearly 150 people have died and thousands are marooned in Jammu and Kashmir, dev
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/cheat-sheet/thousands-stranded-in-srinagar-160-dead-in-worst-floods-in-60-years-588273)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-09/Kashmir_flood_AP_650.jpg)
 
 ### Related:
 

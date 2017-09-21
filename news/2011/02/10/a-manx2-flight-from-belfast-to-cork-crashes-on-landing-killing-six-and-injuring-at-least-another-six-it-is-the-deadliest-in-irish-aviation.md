@@ -10,6 +10,7 @@ Two Irish citizens, three British passport holders and a Spaniard have been kill
 1. [CBC News](http://www.cbc.ca/world/story/2011/02/10/cork-plane-crash-ireland.html)
 2. [RTÉ](http://www.rte.ie/news/2011/0210/cork.html)
 3. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/10/cork-plane-crash-latest-news)
+3. [Cover Image](https://img.rasset.ie/0004369e-1600.jpg)
 
 ### Related:
 

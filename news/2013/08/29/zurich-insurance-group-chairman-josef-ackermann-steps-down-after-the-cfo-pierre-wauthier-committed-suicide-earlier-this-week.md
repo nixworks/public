@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/29/zurich-cfo-ackermann-idUSL6N0GU09F20130829?feedType=RSS)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

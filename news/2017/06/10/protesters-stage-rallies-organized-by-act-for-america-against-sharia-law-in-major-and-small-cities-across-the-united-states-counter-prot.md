@@ -9,6 +9,7 @@ Protesters held rallies across the United States on Saturday to denounce sharia 
 
 1. [AP via ''Time](http://time.com/4813852/rallies-against-sharia-law-draw-counter-protests/)
 2. [Reuters](https://www.reuters.com/article/us-usa-islam-protests-idUSKBN1910RC)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170610&t=2&i=1188472065&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED590H3)
 
 ### Related:
 

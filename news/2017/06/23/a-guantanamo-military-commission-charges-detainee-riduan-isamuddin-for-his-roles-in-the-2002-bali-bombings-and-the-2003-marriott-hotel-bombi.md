@@ -8,6 +8,7 @@ The war court prosecutor has filed terror charges against an Indonesian captive 
 ### Source:
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article157887649.html)
+1. [Cover Image](http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/kkdqce/picture157887589/alternates/LANDSCAPE_1140/AP_02101302526)
 
 ### Related:
 

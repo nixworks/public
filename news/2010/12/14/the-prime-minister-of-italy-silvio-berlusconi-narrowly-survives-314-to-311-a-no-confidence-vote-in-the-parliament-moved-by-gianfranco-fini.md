@@ -9,6 +9,7 @@ At least 90 people are injured as police and protesters clash in Rome after Ital
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11992034)
 2. [The Guardian](http://www.guardian.co.uk/commentisfree/2010/dec/14/silvio-berlusconi-italy-conflict-too-far)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

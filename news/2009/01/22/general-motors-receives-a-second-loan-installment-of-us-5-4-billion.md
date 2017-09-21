@@ -8,6 +8,7 @@ GM received the second piece of its government loan package Wednesday, a $5.4 bi
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28780943/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/ap/d0d50b4e-5c2b-4924-a255-8c2d58c63694.standard.jpg)
 
 ### Related:
 

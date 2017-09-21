@@ -8,6 +8,7 @@ Officer demonstrated how pin could be removed from detonator moments after assur
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/12/police-officer-accidentally-explodes-grenade-in-pakistan-court)
+1. [Cover Image](https://i.guim.co.uk/img/media/fc129d078be7bddb537328287d60dd5e7ab1fa89/0_15_640_384/640.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=ed47ef86b28146e2ad46fc0534342241)
 
 ### Related:
 

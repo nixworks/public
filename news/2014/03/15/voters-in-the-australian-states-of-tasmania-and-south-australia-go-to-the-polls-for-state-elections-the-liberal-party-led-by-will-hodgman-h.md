@@ -10,6 +10,7 @@ Voting booths open for state elections in South Australia and Tasmania, with the
 1. [AAP via Yahoo!7](http://au.news.yahoo.com/a/21991549/sa-election-still-too-close-to-call/)
 2. [ABC](http://www.abc.net.au/news/2014-03-15/tasmania-votes3a-liberals-snatch-power-ending-16-years-of-lab/5323418)
 3. [Radio Australia](http://www.radioaustralia.net.au/international/2014-03-15/voters-in-tasmania-and-south-australia-head-to-the-polls-in-australian-state-elections/1280036)
+3. [Cover Image](http://www.radioaustralia.net.au/sites/default/files/images/2014/03/15/5323060-3x2-700x467_1.jpg)
 
 ### Related:
 

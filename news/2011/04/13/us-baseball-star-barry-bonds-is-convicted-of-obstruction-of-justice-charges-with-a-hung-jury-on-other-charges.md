@@ -8,6 +8,7 @@ Barry Bonds was found guilty of obstruction of justice but a jury failed to reac
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/sports/2011/04/13/bonds-guilty-obstruction-jury-hung/?cmpid=cmty_twitter_foxnews_bonds-guilty-obstruction-jury-hung/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/sports/2011/04/13/bonds-guilty-obstruction-jury-hung/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1442175494714.jpg?ve=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Mexico&#39;s president has hit back at Donald Trump&#39;s decision to build a bo
 2. [NBC news](http://www.nbcnews.com/news/world/mexican-president-vows-protect-immigrants-inside-united-states-n712321)
 3. [The New York Times](https://www.nytimes.com/2017/01/25/world/americas/trump-mexico-border-wall.html?&hp&action=click&pgtype=Homepage&clickSource=story-heading&module=b-lede-package-region&region=top-news&WT.nav=top-news)
 4. [The Telegraph](http://www.telegraph.co.uk/news/2017/01/25/donald-trump-order-construction-border-wall-crackdown-refugees/)
+4. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/u/3/u3c3a3ote6bsbyfcn7siaixogrjyg7oh-xlarge.jpg)
 
 ### Related:
 

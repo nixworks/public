@@ -9,3 +9,4 @@ Two men have been arrested after gardaí foiled a major dissident bombing operat
 
 1. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5jI9BtcCnzMDpMGUw2CIXEIwfPtJg)
 2. [RTÉ](http://www.rte.ie/news/2010/0522/drogheda.html)
+2. [Cover Image](https://img.rasset.ie/0002810f-1600.jpg)

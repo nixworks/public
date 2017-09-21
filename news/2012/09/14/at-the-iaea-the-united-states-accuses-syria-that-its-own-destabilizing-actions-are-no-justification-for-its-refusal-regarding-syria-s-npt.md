@@ -8,6 +8,7 @@ The United States accused Syria on Friday of using the &quot;brutal repression&q
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/14/us-nuclear-syria-iaea-idUSBRE88D0Q420120914)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120914&t=2&i=652965061&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88D1A3B00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Typhoon Hagupit weakened to a tropical storm as it churned close to the Philippi
 ### Source:
 
 1. [Reuters via Trust](http://www.reuters.com/article/2014/12/08/us-philippines-typhoon-idUSKBN0JM04420141208)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141208&t=2&i=997722866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAB701J)
 
 ### Related:
 

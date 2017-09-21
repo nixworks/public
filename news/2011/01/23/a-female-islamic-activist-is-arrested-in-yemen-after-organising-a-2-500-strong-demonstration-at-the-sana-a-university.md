@@ -11,6 +11,7 @@ Tunisian-style protests erupted in Yemen over the weekend with thousands demandi
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011123103756528513.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12260465)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/yemen/8277054/Tunisian-wind-sweeps-through-Arab-regimes-as-protests-erupt-in-Yemen.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01809/Karman_1809470a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ukraine and pro-Russian rebels reached a ceasefire agreement on Friday, the firs
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/05/us-ukraine-crisis-idUSKBN0GZ18D20140905)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140905&t=2&i=970261220&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA840FS)
 
 ### Related:
 

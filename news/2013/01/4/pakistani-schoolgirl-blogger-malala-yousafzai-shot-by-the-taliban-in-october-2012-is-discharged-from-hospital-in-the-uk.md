@@ -8,6 +8,7 @@ The Pakistani schoolgirl activist shot in the head by the Taliban is discharged 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-20908439)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65074000/jpg/_65074192_65070948.jpg)
 
 ### Related:
 

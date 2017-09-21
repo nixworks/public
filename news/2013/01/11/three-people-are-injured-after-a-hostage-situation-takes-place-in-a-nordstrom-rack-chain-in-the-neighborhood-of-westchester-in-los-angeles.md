@@ -8,6 +8,7 @@ The first 911 call came at 11:08 p.m. A panicked man told an operator the barest
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-0112-nordstrom-rack-hostages-20130112,0,5280846.story)
+1. [Cover Image](http://www.trbimg.com/img-50f0cca8/turbine/la-me-hostages-20130111/600)
 
 ### Related:
 

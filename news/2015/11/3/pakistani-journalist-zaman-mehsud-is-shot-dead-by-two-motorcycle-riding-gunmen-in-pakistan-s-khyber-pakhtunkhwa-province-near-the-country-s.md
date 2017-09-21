@@ -9,6 +9,7 @@
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/03/Pakistani-journalist-killed-by-militants-near-northwestern-tribal-region/6641446587055/?spt=hs&or=tn_int)
 2. [Xinhua](http://news.xinhuanet.com/english/2015-11/03/c_134780340.htm)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/6641446587055/2015/1/14465888746608/v2.1/Pakistani-journalist-killed-by-militants-near-northwestern-tribal-region.jpg)
 
 ### Related:
 

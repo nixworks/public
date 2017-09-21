@@ -14,6 +14,7 @@ Syrian security forces backed by tanks advance into the restive city of Deraa, i
 5. [Press TV](http://www.presstv.ir/detail/176553.html)
 6. [Reuters](http://www.reuters.com/article/2011/04/25/libya-airstrike-compound-idUSLDE73O00720110425)
 7. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/04/syria-seals-jordanian-border-as-tanks-swarm-daraa-killing-at-least-5/1)
+7. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52332000/jpg/_52332659_52332658.jpg)
 
 ### Related:
 

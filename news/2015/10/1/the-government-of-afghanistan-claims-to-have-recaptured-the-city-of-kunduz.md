@@ -12,6 +12,7 @@ Afghan forces retake control of Kunduz from Taliban insurgents after fierce figh
 3. [Al Jazeera](http://www.aljazeera.com/news/2015/10/deadly-military-plane-crashes-afghanistan-151001234453423.html)
 4. [Reuters](http://www.reuters.com/article/2015/10/02/us-afghanistan-usa-crash-idUSKCN0RV5V020151002)
 5. [WVTM](http://www.wvtm13.com/national/officials-afghans-retake-kunduz-from-taliban/35591354)
+5. [Cover Image](http://www.abc.net.au/news/image/6811706-1x1-700x700.jpg)
 
 ### Related:
 

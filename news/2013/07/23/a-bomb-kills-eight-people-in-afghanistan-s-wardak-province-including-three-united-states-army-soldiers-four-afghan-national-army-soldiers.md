@@ -8,6 +8,7 @@ An insurgent riding a donkey detonated a bomb in one of the most hotly contested
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/07/24/world/asia/3-us-soldiers-among-8-killed-in-afghan-bombing.html?_r=0&gwh=B1D8C323C094CF93AF553CBE6D9B5B9A)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

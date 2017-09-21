@@ -8,6 +8,7 @@ Pay and promotions are at the root of a class action case first filed by six wom
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2010/04/27/business/27suit.html?src=busln)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

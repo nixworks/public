@@ -10,6 +10,7 @@ Film director and newspaper columnist Michael Winner dies, aged 77.
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-21123532)
 2. [The Guardian](http://www.guardian.co.uk/culture/2013/jan/21/michael-winner-dead)
 3. [The Telegraph](http://www.telegraph.co.uk/news/obituaries/culture-obituaries/film-obituaries/9816044/Michael-Winner.html)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65420000/jpg/_65420027_winner_getty.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ William Hague says his Burmese counterpart has vowed to free more political pris
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-16417704)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2012-01/05/c_131343804.htm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57702000/jpg/_57702226_57702225.jpg)
 
 ### Related:
 

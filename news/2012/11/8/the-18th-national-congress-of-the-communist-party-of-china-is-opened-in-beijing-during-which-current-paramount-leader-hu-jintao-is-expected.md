@@ -9,6 +9,7 @@ Chinese President Hu Jintao warns starkly on corruption as the ruling Communist 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20233101)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/11/tibetans-china-communist-party-congress-protests.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64026000/jpg/_64026838_edg1ywzg.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Ex-Prime Minister Tony Blair tells the Leveson Inquiry his friendship with Ruper
 3. [MSNBC](http://video.msnbc.msn.com/msnbc-tv/47589503/#47589503)
 4. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/video-blair-interrupted-by-leveson-inquiry-protester-16164743.html)
 5. [UPI](http://www.upi.com/Top_News/World-News/2012/05/28/Protester-calls-Blair-war-criminal/UPI-36811338215492/)
+5. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60538000/jpg/_60538324_blair.jpg)
 
 ### Related:
 

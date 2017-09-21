@@ -8,6 +8,7 @@ A royal mummy discovery in Egypt&#039;s Valley of the Kings includes several pri
 ### Source:
 
 1. [National Geographic News](http://news.nationalgeographic.com/news/2014/05/140501-mummy-royal-tut-discovery-egypt-science/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/photos/000/792/79255.ngsversion.1422284892412.adapt.1900.1.jpg)
 
 ### Related:
 

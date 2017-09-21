@@ -14,6 +14,7 @@ Poland has earmarked 2 billion zlotys ($590 million) from budget reserves to hel
 5. [The Guardian](http://www.guardian.co.uk/world/2010/may/24/warsaw-vistula-river-flood-poland)
 6. [The Hindu](http://beta.thehindu.com/news/international/article438324.ece)
 7. [Voice of America](http://www1.voanews.com/english/news/europe/Polish-PM-Promises-Relief-for-Flood-Victims-94867949.html)
+7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

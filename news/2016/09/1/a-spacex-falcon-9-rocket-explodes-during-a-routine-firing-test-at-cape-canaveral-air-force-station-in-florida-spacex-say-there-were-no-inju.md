@@ -8,6 +8,7 @@ An unmanned SpaceX Falcon 9 rocket exploded on the launch pad during a test in F
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/09/01/explosion-at-spacex-launch-site-in-florida2/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/1/l/1lb2vunte6u3sdhdlmjfbd06fxr0xjqd-xlarge.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Foreign Secretary, William Hague, was forced to issue an extraordinary publi
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-11156963)
 2. [Channel 4](http://www.channel4.com/news/articles/politics/domestic_politics/hague+adviser+resigns+over+aposuntrue+allegationsapos/3758577)
 3. [The Independent](http://www.independent.co.uk/news/uk/politics/hague-denies-rumour-he-is-gay-ndash-but-special-adviser-steps-down-2068151.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/09/01/21/444077.bin)
 
 ### Related:
 

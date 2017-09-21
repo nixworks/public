@@ -9,6 +9,7 @@ MOGADISHU, Somalia (AP) — Two suicide bombers detonated explosives-laden cars 
 
 1. [AP](http://bigstory.ap.org/article/bd560cbd554c43568b6258bdc5cd9ae8/somalia-suicide-car-bomb-un-mine-offices-kills-3)
 2. [Al-Jazeera](http://www.aljazeera.com/news/2016/07/huge-blasts-heard-airport-somalia-mogadishu-160726035504889.html)
+2. [Cover Image](http://binaryapi.ap.org/f0f206be7452422881446078ffba1c70/460x.jpg)
 
 ### Related:
 

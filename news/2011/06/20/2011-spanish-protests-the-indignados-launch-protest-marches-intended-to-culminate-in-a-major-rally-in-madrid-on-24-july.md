@@ -8,6 +8,7 @@ Spain&#39;s &#39;indignant&#39; activists launched protest marches today which w
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0620/spain.html)
+1. [Cover Image](https://img.rasset.ie/0004b159-1600.jpg)
 
 ### Related:
 

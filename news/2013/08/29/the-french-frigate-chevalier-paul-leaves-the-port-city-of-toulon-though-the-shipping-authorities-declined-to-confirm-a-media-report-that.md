@@ -16,6 +16,7 @@ MPs vote against possible military action against Syria, ruling out involvement 
 7. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10273157/Syria-crisis-Britain-sends-six-Typhoon-fighter-jets-to-Cyprus-ahead-of-military-strikes.html)
 8. [Voice of Russia](http://voiceofrussia.com/2013_08_29/France-issues-out-most-up-to-date-naval-vessel-to-Syria-6608/?from=menu)
 9. [Xinhua](http://news.xinhuanet.com/english/video/2013-08/29/c_132672994.htm)
+9. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69556000/jpg/_69556360_019100835.jpg)
 
 ### Related:
 

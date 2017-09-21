@@ -8,6 +8,7 @@ Infrared thermography indicates a hidden chamber in the tomb of King Tutankhamen
 ### Source:
 
 1. [UPI](http://www.upi.com/Science_News/2015/11/07/Infrared-scans-point-to-hidden-chamber-in-King-Tuts-tomb/4881446914226/?spt=mps&or=3)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4881446914226/2015/4/c6ea20ee28b38b41d69f0e568ced0b2f/v1.5/Infrared-scans-point-to-hidden-chamber-in-King-Tuts-tomb.jpg)
 
 ### Related:
 

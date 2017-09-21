@@ -9,6 +9,7 @@ Al-Jazeera says it has been forced to close its English-language bureau in Beiji
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201257195136608563.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-china-17986447)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60089000/jpg/_60089683_014695842-1.jpg)
 
 ### Related:
 

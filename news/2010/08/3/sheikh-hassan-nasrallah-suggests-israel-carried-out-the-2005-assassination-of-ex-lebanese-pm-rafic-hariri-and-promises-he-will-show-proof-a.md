@@ -8,6 +8,7 @@ Hezbollah chief Sheikh Hassan Nasrallah accuses Israel of being behind the 2005 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10860567)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

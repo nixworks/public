@@ -8,6 +8,7 @@ The High Court has refused an application by a Sinn Féin TD seeking to have the
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0530/fiscal-treaty-referendum.html)
+1. [Cover Image](https://img.rasset.ie/000522a3-1600.jpg)
 
 ### Related:
 

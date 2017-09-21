@@ -8,6 +8,7 @@ Mohammad al-Dahabi found guilty of embezzlement and abuse of office and fined $3
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012111173524308960.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/9/20122920495580734_20.jpg)
 
 ### Related:
 

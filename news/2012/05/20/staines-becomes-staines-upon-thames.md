@@ -8,3 +8,4 @@ The Surrey town of Staines officially changes its name to Staines-upon-Thames in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-surrey-18118309)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60357000/jpg/_60357559_60357558.jpg)

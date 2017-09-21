@@ -8,6 +8,7 @@ A 6-year-old child and a man have died in hospital after they were trapped in a 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/2956536/Two-dead-in-Paris-tourist-boat.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Shifa Gardi, of the Iraqi Kurdish channel Rudaw, is killed by a roadside bomb as
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-39089148)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5D92/production/_94845932_snipcut.png)
 
 ### Related:
 

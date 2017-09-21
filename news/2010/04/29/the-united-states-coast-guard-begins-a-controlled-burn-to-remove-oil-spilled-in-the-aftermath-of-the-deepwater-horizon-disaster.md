@@ -9,6 +9,7 @@ Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil g
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/8651624.stm)
 2. [Reuters](http://www.reuters.com/article/idUSN2913409720100430?type=marketsNews)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

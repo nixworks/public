@@ -8,6 +8,7 @@ LAS CRUCES, N. M. -- Explosions about a half hour apart shattered the serenity o
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2015/08/02/new-mexico-church-explosions/31030385/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Get local Miami news plus Miami breaking news, business, green, national, and wo
 ### Source:
 
 1. [AP via WTVJ](http://www.nbc6.net/news/15514702/detail.html)
+1. [Cover Image](http://media.nbcmiami.com/designimages/nbcami_station_logo.jpg?ak=bc)
 
 ### Related:
 

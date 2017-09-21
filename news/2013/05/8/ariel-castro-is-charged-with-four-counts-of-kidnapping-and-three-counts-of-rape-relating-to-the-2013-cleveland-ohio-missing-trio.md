@@ -8,6 +8,7 @@ Cleveland resident Ariel Castro was charged on Wednesday with kidnapping and rap
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/08/us-usa-missing-ohio-idUSBRE94600620130508)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130508&t=2&i=729911674&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9471N4000)
 
 ### Related:
 

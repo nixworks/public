@@ -28,7 +28,7 @@ A major snowstorm in the north-eastern US and eastern Canada leaves to hundreds 
 _Context: Bangladesh, Dhaka, Meghna River, Munshiganj District_
 
 ### [Authorities are investigating how a hacker obtained access to the e-mail accounts of George H. W. Bush as well as several of the former U.S. President's relatives and close friends. ](/news/2013/02/8/authorities-are-investigating-how-a-hacker-obtained-access-to-the-e-mail-accounts-of-george-h-w-bush-as-well-as-several-of-the-former-u-s.md)
-_Context: George H. W. Bush, President, hackers_
+_Context: George H. W. Bush, U.S. President, hackers_
 
 ### [A murder-suicide on Interstate 80, near Salt Lake City, United States, causes the death of two people. ](/news/2013/02/8/a-murder-suicide-on-interstate-80-near-salt-lake-city-united-states-causes-the-death-of-two-people.md)
 _Context: Interstate 80, Salt Lake City, United States, murder-suicide_

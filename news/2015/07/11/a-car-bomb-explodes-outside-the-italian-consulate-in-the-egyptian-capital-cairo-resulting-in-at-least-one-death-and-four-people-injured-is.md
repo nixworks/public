@@ -10,6 +10,7 @@ ISIS claims responsibility for bomb attack against Italian consulate in Cairo
 1. [BBC](http://www.bbc.com/news/world-middle-east-33491512)
 2. [CNN](http://edition.cnn.com/2015/07/11/middleeast/egypt-cairo-explosion/index.html)
 3. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Jul-11/306244-isis-claims-responsibility-for-bomb-attack-against-italian-consulate-in-cairo.ashx)
+3. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

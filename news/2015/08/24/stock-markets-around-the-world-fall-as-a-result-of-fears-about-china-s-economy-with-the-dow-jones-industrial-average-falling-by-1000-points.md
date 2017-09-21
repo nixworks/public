@@ -10,6 +10,7 @@ Hundreds of billions wiped off world’s financial markets today, as Chinese rou
 1. [BBC](http://www.bbc.com/news/world-africa-34039265)
 2. [The Guardian](http://www.theguardian.com/business/live/2015/aug/24/global-stocks-sell-off-deepens-as-panic-grips-markets-live)
 3. [The New York Times](http://mobile.nytimes.com/2015/08/25/business/dealbook/stocks-in-asia-fall-as-china-and-emerging-economies-lose-favor.html?referrer=)
+3. [Cover Image](https://i.guim.co.uk/img/media/c93d0d3821c0c931ee244efd7f3c21fdcc8e7c51/0_92_4096_2461/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a52c8130bf414b58a9802219c1aebe7b)
 
 ### Related:
 

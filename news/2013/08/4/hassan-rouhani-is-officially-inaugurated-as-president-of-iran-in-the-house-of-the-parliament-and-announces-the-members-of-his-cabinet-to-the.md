@@ -10,6 +10,7 @@ Iranian President Hassan Rouhani reveals a cabinet lineup of experienced technoc
 1. [Aljazeera](http://www.aljazeera.com/video/middleeast/2013/08/2013843428202796.html)
 2. [Dailystar](http://www.dailystar.com.lb/News/Middle-East/2013/Aug-04/226206-irans-rowhani-takes-oath-after-vowing-to-ease-sanctions.ashx)
 3. [Reuters](http://www.reuters.com/article/2013/08/04/iran-rouhani-cabinet-idUSL6N0G509G20130804)
+3. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/08/04/196718_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

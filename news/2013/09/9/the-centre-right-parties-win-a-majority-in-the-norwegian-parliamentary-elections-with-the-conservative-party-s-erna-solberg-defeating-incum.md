@@ -9,6 +9,7 @@ Norway&#039;s right wing has won parliamentary elections, with Conservative Part
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2013/09/10/wealthy-norway-swings-right-election)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-24014551)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/1/0/100913m_NorwayElections_800x600.jpg)
 
 ### Related:
 

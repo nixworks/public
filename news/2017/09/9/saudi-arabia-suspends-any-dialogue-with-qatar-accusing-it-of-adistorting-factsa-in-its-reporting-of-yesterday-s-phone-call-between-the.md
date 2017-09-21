@@ -9,6 +9,7 @@ Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot
 
 1. [RT via Newsline](https://newsline.com/saudi-arabia-suspends-all-dialogue-with-doha-after-phone-talks-with-qatar-emir-trump/)
 2. [Reuters](https://www.reuters.com/article/us-gulf-qatar/saudi-arabia-suspends-any-dialogue-with-qatar-spa-idUSKCN1BJ2OW)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170908&t=2&i=1200625876&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED871P1)
 
 ### Related:
 

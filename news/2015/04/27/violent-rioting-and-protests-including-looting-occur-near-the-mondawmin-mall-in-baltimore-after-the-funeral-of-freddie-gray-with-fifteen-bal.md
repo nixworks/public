@@ -11,6 +11,7 @@ Rioters hurled bricks, looted businesses and set fires in Baltimore on Monday in
 2. [AP via ABC News](http://abcnews.go.com/US/wireStory/maryland-governor-puts-national-guard-alert-respond-baltimore-30627594)
 3. [Reuters](http://www.reuters.com/article/2015/04/27/us-usa-police-baltimore-idUSKBN0NI1N720150427)
 4. [USA Today](http://www.usatoday.com/story/news/nation/2015/04/27/baltimore-credible-threat/26454875/)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150427&t=2&i=1043853405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3Q0ZI)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prime Minister Petr Necas of the Czech Republic said Sunday that he would resign
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/06/17/world/europe/czech-premier-to-resign-amid-scandal.html?partner=rss&emc=rss&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/06/17/world/CZECH/CZECH-videoLarge-v3.jpg)
 
 ### Related:
 

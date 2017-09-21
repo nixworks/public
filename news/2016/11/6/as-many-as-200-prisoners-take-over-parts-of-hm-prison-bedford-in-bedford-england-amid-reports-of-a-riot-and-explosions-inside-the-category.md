@@ -8,6 +8,7 @@ Up to 200 prisoners are said to have taken over parts of Bedford Prison amid rep
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-37891190)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16F30/production/_92300049_mediaitem92300045.jpg)
 
 ### Related:
 

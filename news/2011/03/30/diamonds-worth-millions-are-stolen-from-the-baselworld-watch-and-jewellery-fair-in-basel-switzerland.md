@@ -8,6 +8,7 @@ Four diamonds worth millions of pounds have been stolen from the world&#039;s bi
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/switzerland/8417023/Diamonds-worth-millions-stolen-from-Basel-jewel-fair.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01860/bas_1860948a.jpg)
 
 ### Related:
 

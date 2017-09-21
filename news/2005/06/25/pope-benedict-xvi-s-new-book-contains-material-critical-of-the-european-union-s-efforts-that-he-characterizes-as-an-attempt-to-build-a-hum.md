@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Associated Press](http://www.chron.com/cs/CDA/ssistory.mpl/ae/books/news/3240142)
+1. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

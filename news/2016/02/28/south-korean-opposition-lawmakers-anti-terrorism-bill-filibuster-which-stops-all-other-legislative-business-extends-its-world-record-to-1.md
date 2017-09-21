@@ -8,6 +8,7 @@ South Korean opposition lawmakers seeking to block a government-backed &quot;ant
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southkorea-politics-filibuster-idUSKCN0W103V)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160228&t=2&i=1120919370&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1R045)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Both the House and the Senate are backing off their anti-piracy bills that spark
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/01/20/technology/SOPA_PIPA_postponed/)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/01/20/technology/SOPA_PIPA_postponed/sopa-protest-1.01.jpg)
 
 ### Related:
 

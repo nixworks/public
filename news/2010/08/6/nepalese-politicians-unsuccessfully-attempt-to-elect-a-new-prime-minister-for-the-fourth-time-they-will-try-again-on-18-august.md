@@ -8,6 +8,7 @@ Politicians in Nepal again fail to elect a new PM - meaning the country has been
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10898117)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

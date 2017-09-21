@@ -8,6 +8,7 @@ NEW YORK — Sony Pictures Entertainment announced Tuesday a limited theatrical 
 ### Source:
 
 1. [Florida Times-Union](http://jacksonville.com/breaking-news/2014-12-23/story/interview-will-be-debut-some-theaters-thursday-after-groundswell)
+1. [Cover Image](http://jacksonville.com/sites/default/files/jacksonville-logo.png)
 
 ### Related:
 

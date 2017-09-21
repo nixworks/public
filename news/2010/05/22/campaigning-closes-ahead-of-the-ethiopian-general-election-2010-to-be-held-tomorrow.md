@@ -8,3 +8,4 @@ As country prepares to hold vote, ruling party is accused of violence and intimi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201052274135729474.html)
+1. [Cover Image](http://www.aljazeera.com)

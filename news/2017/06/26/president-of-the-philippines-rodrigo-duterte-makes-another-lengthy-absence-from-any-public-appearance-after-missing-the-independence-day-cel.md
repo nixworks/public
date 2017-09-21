@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/173973-duterte-no-public-appearance-6th-straight-day)
+1. [Cover Image](https://assets.rappler.com/917203D48D31414AA7CF63512BE9DEBC/img/2648E5AA51C74D68B078382278B3CCE2/duterte-camp-evangelista-station-hospital-june202017-001.jpg)
 
 ### Related:
 

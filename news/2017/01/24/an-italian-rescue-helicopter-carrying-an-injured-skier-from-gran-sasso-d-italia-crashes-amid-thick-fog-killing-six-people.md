@@ -8,6 +8,7 @@ The helicopter had just picked up an injured skier from a resort in central Ital
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38733593)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/12C13/production/_93791867_mediaitem93791213.jpg)
 
 ### Related:
 

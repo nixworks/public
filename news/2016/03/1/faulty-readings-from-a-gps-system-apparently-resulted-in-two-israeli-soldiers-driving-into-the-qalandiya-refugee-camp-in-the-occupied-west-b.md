@@ -9,6 +9,7 @@ Two Israeli troops were following directions from the Waze app when they drove i
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/12179149/Israeli-soldiers-accidentally-follow-GPS-into-a-Palestinian-refugee-camp-and-spark-night-of-rioting.html)
 2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/battles-erupts-after-israeli-soldiers-follow-apparent-gps-error-into-palestinian-zone/2016/03/01/940307ef-503f-4a98-8abb-01cf6357a850_story.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03586/Qalandiya_3586046k.jpg)
 
 ### Related:
 

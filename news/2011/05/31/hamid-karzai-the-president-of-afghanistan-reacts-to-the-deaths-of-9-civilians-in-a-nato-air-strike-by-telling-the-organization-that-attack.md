@@ -9,6 +9,7 @@ Two officers were injured Tuesday when their police car hit a bomb in northern A
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/31/afghanistan.attack/index.html)
 2. [Reuters](http://www.reuters.com/article/2011/05/31/us-afghanistan-karzai-casualties-idUSTRE74U0RP20110531)
+2. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)
 
 ### Related:
 

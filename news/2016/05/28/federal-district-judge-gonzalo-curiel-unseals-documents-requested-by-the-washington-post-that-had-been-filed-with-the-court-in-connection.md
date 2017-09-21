@@ -11,6 +11,7 @@ It&#39;s unclear whether he knew of Trump&#39;s latest attacks when issuing the 
 2. [Politico](http://www.politico.com/blogs/under-the-radar/2016/05/donald-trump-university-judge-unseals-files-223687)
 3. [The Washington Post](https://www.washingtonpost.com/politics/judge-orders-release-of-internal-trump-university-documents/2016/05/28/2e960e5e-24f9-11e6-8690-f14ca9de2972_story.html)
 4. [UPI](http://www.upi.com/Top_News/US/2016/05/28/Trump-trashes-Mexican-judge-in-Trump-U-civil-trial/7441464457911/?spt=hs&or=tn_us)
+4. [Cover Image](http://static.politico.com/ed/70/9ce11e2a4daf894a2a7d394cfb6a/160520-donald-trump-nra-gty-1160.jpg)
 
 ### Related:
 

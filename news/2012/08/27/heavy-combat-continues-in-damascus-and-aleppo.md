@@ -9,6 +9,7 @@ Syrian rebels shoot down an army helicopter as the UN demands answers over the m
 
 1. [Reuters via ABC](http://www.abc.net.au/news/2012-08-27/helicopter-crashes-in-damascus3a-state-tv/4225872)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/27/c_131810893.htm)
+2. [Cover Image](http://www.abc.net.au/news/image/4225998-1x1-700x700.jpg)
 
 ### Related:
 

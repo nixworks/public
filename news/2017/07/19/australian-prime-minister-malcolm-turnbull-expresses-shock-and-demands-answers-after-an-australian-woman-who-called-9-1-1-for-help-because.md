@@ -8,6 +8,7 @@ Malcolm Turnbull condemns the police shooting of unarmed Australian Justine Damo
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2017-07-19/justine-damond-malcolm-turnbull-demands-answers-shooting/8722652)
+1. [Cover Image](http://www.abc.net.au/news/image/8722078-1x1-700x700.jpg)
 
 ### Related:
 

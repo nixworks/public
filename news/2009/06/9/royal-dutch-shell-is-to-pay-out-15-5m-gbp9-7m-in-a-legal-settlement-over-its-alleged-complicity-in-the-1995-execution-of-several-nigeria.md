@@ -9,6 +9,7 @@ Royal Dutch Shell has agreed to a $15.5m payout to settle a lawsuit alleging com
 
 1. [RTÉ](http://www.rte.ie/news/2009/0609/shell.html)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Royal-Dutch-Shell-Oil-Giant-To-Pay-Millions-Over-Hangings-Of-Nigerian-Environmental-Activists/Article/200906215299072?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15299072_Royal_Dutch_Shell%3A_Oil_Giant_To_Pay_Millions_Over_Hangings_Of_Nigerian_Environmental_Activists)
+2. [Cover Image](https://img.rasset.ie/00025b1f-1600.jpg)
 
 ### Related:
 
@@ -19,6 +20,6 @@ Royal Dutch Shell has agreed to a $15.5m payout to settle a lawsuit alleging com
 5. [ Nigerian Oil Crisis: Nigeria's main rebel group claim to have destroyed an oil installation owned by Shell in the Rivers State region in the south of the country. ](/news/2008/09/15/nigerian-oil-crisis-nigeria-s-main-rebel-group-claim-to-have-destroyed-an-oil-installation-owned-by-shell-in-the-rivers-state-region-in-th.md) _Context: Nigeria, Royal Dutch Shell_
 6. [ Royal Dutch Shell shuts down an offshore oil installation in Nigeria after an attack from the Movement for the Emancipation of the Niger Delta. ](/news/2008/06/19/royal-dutch-shell-shuts-down-an-offshore-oil-installation-in-nigeria-after-an-attack-from-the-movement-for-the-emancipation-of-the-niger-de.md) _Context: Nigeria, Royal Dutch Shell_
 7. [ Conflict in the Niger Delta: Villagers in Nigeria storm and seize three Royal Dutch Shell oil platforms in the Niger Delta, forcing oil production to be shut down at each one. ](/news/2006/10/25/conflict-in-the-niger-delta-villagers-in-nigeria-storm-and-seize-three-royal-dutch-shell-oil-platforms-in-the-niger-delta-forcing-oil-pro.md) _Context: Nigeria, Royal Dutch Shell_
-8. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
-9. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
-10. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
+8. [ A Nigerian militant group threatens "all-out war" against foreign companies in the Niger River delta region if they do not leave by October. The European oil company Royal Dutch/Shell has already evacuated 254 non-essential workers from the area. (BBC: [http://news.bbc.co.uk/2/hi/africa/3688582.stm 1], [http://news.bbc.co.uk/2/hi/africa/3695990.stm 2])](/news/2004/09/28/a-nigerian-militant-group-threatens-all-out-war-against-foreign-companies-in-the-niger-river-delta-region-if-they-do-not-leave-by-october.md) _Context: Nigeria, Royal Dutch Shell_
+9. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
+10. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_

@@ -8,6 +8,7 @@ Armenian President Serge Sarkisian wins re-election, getting nearly 59% of votes
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21495377)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65939000/jpg/_65939445_65939444.jpg)
 
 ### Related:
 

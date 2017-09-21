@@ -8,6 +8,7 @@ Two United States-financed nonprofit groups paid about $4 million in bail to fly
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/02/world/middleeast/travel-ban-lifted-american-defendants-have-yet-to-leave-egypt.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

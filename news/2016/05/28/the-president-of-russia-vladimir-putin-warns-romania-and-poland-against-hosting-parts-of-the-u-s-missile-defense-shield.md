@@ -9,6 +9,7 @@ Romania and Poland are in the potential crosshairs of Russian rockets because th
 
 1. [CNN](http://edition.cnn.com/2016/05/28/europe/putin-threatens-romania/)
 2. [FOX News](http://www.foxnews.com/world/2016/05/28/putin-warns-romania-poland-over-implementing-us-missile-shield.html)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/05/28/putin-warns-romania-poland-over-implementing-us-missile-shield/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1464425318625.jpg?ve=1)
 
 ### Related:
 

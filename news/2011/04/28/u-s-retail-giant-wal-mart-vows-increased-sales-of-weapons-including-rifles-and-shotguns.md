@@ -9,6 +9,7 @@ Retail giant Wal-Mart says it will soon bring back the sale of firearms, includi
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13233100)
 2. [CNN](http://money.cnn.com/2011/04/28/news/companies/walmart_guns/index.htm?cnn=yes&eref=edition_business)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52397000/jpg/_52397893_52397352.jpg)
 
 ### Related:
 

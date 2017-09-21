@@ -8,6 +8,7 @@ A hostage drama at a Greek prison ends peacefully with the surrender of an Alban
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21822775)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66443000/jpg/_66443823_66443822.jpg)
 
 ### Related:
 

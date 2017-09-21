@@ -8,6 +8,7 @@ Pro-Russian rebels paraded European monitors they are holding in eastern Ukraine
 ### Source:
 
 1. [BBC](http://www.reuters.com/article/2014/04/27/us-ukraine-crisis-idUSBREA3O16720140427)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140427&t=2&i=892206302&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3Q1A4C00)
 
 ### Related:
 

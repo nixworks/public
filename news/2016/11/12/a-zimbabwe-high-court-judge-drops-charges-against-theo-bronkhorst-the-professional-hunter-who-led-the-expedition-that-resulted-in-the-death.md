@@ -9,6 +9,7 @@ A high court in Zimbabwe dropped charges against a professional hunter who led t
 
 1. [News24](http://www.news24.com/Africa/Zimbabwe/charges-against-cecil-the-lion-hunter-dropped-lawyer-20161110)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/11/12/Zimbabwe-court-drops-charges-against-hunter-in-Cecil-the-lion-death/3511478970996/?spt=hs&or=tn_int)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3511478970996/2016/1/14789738101364/v2.1/Zimbabwe-court-drops-charges-against-hunter-in-Cecil-the-lion-death.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ China is to relax its policy of restricting most couples to having only a single
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24957303)
 2. [Xinhua](http://news.xinhuanet.com/english/china/2013-11/15/c_132891921.htm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71133000/jpg/_71133897_q2b81if2.jpg)
 
 ### Related:
 

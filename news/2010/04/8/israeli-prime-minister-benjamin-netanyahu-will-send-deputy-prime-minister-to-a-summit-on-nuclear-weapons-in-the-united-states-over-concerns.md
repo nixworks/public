@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8610595.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6375SK20100408?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20100408&t=2&i=88958446&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-08T233556Z_01_BTRE6371TK600_RTROPTP_0_NETANYAHU-ECONOMY)
 
 ### Related:
 

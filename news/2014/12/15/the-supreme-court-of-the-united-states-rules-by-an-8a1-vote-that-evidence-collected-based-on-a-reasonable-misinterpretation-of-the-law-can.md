@@ -9,6 +9,7 @@ The Supreme Court on Monday gave police additional leeway to use evidence they f
 
 1. [Wall Street Journal](http://www.wsj.com/articles/supreme-court-gives-police-more-leeway-in-traffic-stop-case-1418665366?mod=wsj_hppmiddlenexttowhatsnewssecond)
 2. [Washington Post](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/12/15/reasonable-mistake-of-law-can-generate-reasonable-suspicion-supreme-court-holds/)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-GA321_SCOTUS_G_20141215125438.jpg)
 
 ### Related:
 

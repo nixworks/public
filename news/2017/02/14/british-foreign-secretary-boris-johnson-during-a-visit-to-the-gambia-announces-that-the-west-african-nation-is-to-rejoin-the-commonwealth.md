@@ -8,6 +8,7 @@ Adama Barrow, the new president of The Gambia, says he wants to rekindle ties wi
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/gambia-to-rejoin-the-commonwealth-after-four-years-10767332)
+1. [Cover Image](http://e3.365dm.com/16/12/1600x900/42993caab904859bad499233ceb069f260f4bfcd7c3135f0cf23d53252f332c1_3849339.jpg?20161210085326)
 
 ### Related:
 

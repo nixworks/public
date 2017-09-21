@@ -8,6 +8,7 @@ Six&#x20;people&#x20;suspected&#x20;of&#x20;planning&#x20;terrorist&#x20;acts&#x
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20130625-france-arrests-paris-terrorism-radical-islam-attacks-police)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/arrestation-terrorisme.jpg)
 
 ### Related:
 

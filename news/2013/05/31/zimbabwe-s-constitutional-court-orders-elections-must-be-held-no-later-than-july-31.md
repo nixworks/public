@@ -8,3 +8,4 @@
 ### Source:
 
 1. [RTT News](http://www.rttnews.com/2128589/zimbabwe-constitutional-court-orders-elections-by-july-31.aspx)
+1. [Cover Image](http://www.rttnews.com/images/RTTNews_Small_Logo.jpg)

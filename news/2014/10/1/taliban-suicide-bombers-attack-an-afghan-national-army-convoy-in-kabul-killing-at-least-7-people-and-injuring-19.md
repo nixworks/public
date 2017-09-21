@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/taliban-suicide-bombers-kill-seven-injure-19-people-in-kabul-1412141582?mod=ask)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-EU562_1001ka_G_20141001112707.jpg)
 
 ### Related:
 

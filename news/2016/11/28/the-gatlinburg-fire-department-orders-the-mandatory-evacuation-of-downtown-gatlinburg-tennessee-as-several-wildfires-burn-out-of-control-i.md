@@ -8,6 +8,7 @@ Wind conditions worsen and fires grow, threatening resort towns near Smokies.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/11/28/tennessee-wildfires-evacuation-gatlinburg/94580940/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Sgt Alexander Blackman is released after his conviction for murder was reduced t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-39740931)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8FB7/production/_95819763_blackman_ap.jpg)
 
 ### Related:
 

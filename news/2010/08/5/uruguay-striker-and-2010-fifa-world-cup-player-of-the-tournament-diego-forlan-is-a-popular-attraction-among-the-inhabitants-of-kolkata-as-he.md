@@ -8,6 +8,7 @@ Uruguay striker Diego Forlan attracts huge crowds in the Indian city of Calcutta
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-10878378)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48617000/jpg/_48617539_009906203-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ It is &quot;highly unlikely&quot; that three people missing after the Didcot pow
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-oxfordshire-35652621)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/38E2/production/_88426541_hi031637141.jpg)
 
 ### Related:
 

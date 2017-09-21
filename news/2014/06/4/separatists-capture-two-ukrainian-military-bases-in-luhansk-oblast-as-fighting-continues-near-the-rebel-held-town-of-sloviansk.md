@@ -8,6 +8,7 @@ Separatist rebels take Ukrainian military bases in the eastern region of Luhansk
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27693781)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75300000/jpg/_75300272_75300271.jpg)
 
 ### Related:
 

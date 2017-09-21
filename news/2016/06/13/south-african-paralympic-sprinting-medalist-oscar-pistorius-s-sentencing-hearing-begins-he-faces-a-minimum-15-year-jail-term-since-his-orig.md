@@ -9,6 +9,7 @@ Oscar Pistorius is a &quot;broken&quot; man who should not be jailed for the mur
 
 1. [Reuters](http://in.reuters.com/article/safrica-pistorius-sentencing-idINKCN0YZ07O)
 2. [Sky News](http://news.sky.com/story/1669727/oscar-pistorius-faces-sentencing-in-june)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160613&t=2&i=1141080478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5C0FU)
 
 ### Related:
 

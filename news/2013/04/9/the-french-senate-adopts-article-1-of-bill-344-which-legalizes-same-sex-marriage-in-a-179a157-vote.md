@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Libération](http://www.liberation.fr/politiques/2013/04/09/mariage-pour-tous-l-article-1-finalement-vote_894919)
+1. [Cover Image](http://s1.libe.com/newsite/images/social-placeholder.jpg)
 
 ### Related:
 

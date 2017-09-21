@@ -8,6 +8,7 @@ At least seven people die and three more are missing after a swimming hole is st
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-40627025)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1366/production/_96966940_usarizona9760717.png)
 
 ### Related:
 

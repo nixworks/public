@@ -11,6 +11,7 @@
 2. [NBC News](http://www.nbcnews.com/news/us-news/police-officer-shot-tennessee-naval-reserve-center-n393266?cid=eml_nbn_20150716)
 3. [Reuters via MSN](http://www.msn.com/en-us/news/us/chattanooga-shooting-suspect-identified-cbs/ar-AAd3U69)
 4. [WRCB](http://www.wrcbtv.com/story/29563843/officer-involved-shooting-at-us-naval-reserve)
+4. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_29/1126921/150716-chattanooga-shootings-01_64aba71b91bbcf0d76d43beb927f6db0.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

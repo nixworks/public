@@ -8,6 +8,7 @@ A highly radioactive lead ball has gone missing in China, prompting authorities 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0327/china.html)
+1. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

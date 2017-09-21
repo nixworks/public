@@ -8,6 +8,7 @@ Ieuan Wyn Jones reveals he will stand down as Plaid Cymru leader some time in th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-13389407)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52707000/jpg/_52707270_jones464.jpg)
 
 ### Related:
 
@@ -18,4 +19,5 @@ Ieuan Wyn Jones reveals he will stand down as Plaid Cymru leader some time in th
 5. [The Welsh Conservative Party chooses Andrew R. T. Davies as their leader in the Welsh Assembly. ](/news/2011/07/14/the-welsh-conservative-party-chooses-andrew-r-t-davies-as-their-leader-in-the-welsh-assembly.md) _Context: Welsh Assembly_
 6. [Following a Yes vote in the referendum held across Wales on 3 March 2011, the Welsh Assembly obtains primary law-making powers, making it possible for it to legislate without having to consult the United Kingdom parliament, nor the Secretary of State for Wales in 20 previously devolved areas of legislation. ](/news/2011/03/4/following-a-yes-vote-in-the-referendum-held-across-wales-on-3-march-2011-the-welsh-assembly-obtains-primary-law-making-powers-making-it-po.md) _Context: Welsh Assembly_
 7. [Newly released papers show Gwynfor Evans, former Plaid Cymru MP for Carmarthen, said he would fast to death if the British government did not provide a Welsh language television service. S4C resulted. ](/news/2010/12/30/newly-released-papers-show-gwynfor-evans-former-plaid-cymru-mp-for-carmarthen-said-he-would-fast-to-death-if-the-british-government-did-no.md) _Context: Plaid Cymru Party_
-8. [ The first Welsh Assembly for over 600 years opens in Cardiff.](/news/1999/05/26/the-first-welsh-assembly-for-over-600-years-opens-in-cardiff.md) _Context: Welsh Assembly_
+8. [ Welsh nationalist MP Adam Price announces his intention to impeach Prime Minister Tony Blair, with the support of other Welsh and Scottish nationalist MPs. ](/news/2004/08/25/welsh-nationalist-mp-adam-price-announces-his-intention-to-impeach-prime-minister-tony-blair-with-the-support-of-other-welsh-and-scottish.md) _Context: Plaid Cymru Party_
+9. [ The first Welsh Assembly for over 600 years opens in Cardiff.](/news/1999/05/26/the-first-welsh-assembly-for-over-600-years-opens-in-cardiff.md) _Context: Welsh Assembly_

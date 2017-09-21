@@ -8,6 +8,7 @@ Security Council passes resolution that gives Sudan and South Sudan just 48 hour
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/05/201252153527798597.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/2/20125220392622734_20.jpg)
 
 ### Related:
 

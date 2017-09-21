@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/09/us-venezuela-election-chavez-idUSBRE8681CQ20120709)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120709&t=2&i=628346302&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8681OS600)
 
 ### Related:
 

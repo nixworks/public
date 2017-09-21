@@ -11,6 +11,7 @@
 2. [Reuters](http://www.reuters.com/article/idUSLDE62O1QP20100325)
 3. [The Guardian](http://www.guardian.co.uk/media/2010/mar/05/lebedev-buys-independent-newspapers)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking61.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

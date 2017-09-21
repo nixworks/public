@@ -11,6 +11,7 @@
 2. [BBC News](http://news.bbc.co.uk/2/hi/europe/7256158.stm)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSL2087155420080221?feedType=RSS&feedName=topNews)
 4. [The Age](http://news.theage.com.au/belgrades-us-embassy-burned-body-found/20080222-1tsd.html)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080221&t=2&i=3250847&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-21T221729Z_01_L20871554_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

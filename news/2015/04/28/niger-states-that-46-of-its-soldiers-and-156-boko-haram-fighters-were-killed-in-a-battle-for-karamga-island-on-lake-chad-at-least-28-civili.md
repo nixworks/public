@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/04/28/us-nigeria-violence-rescue-idUSKBN0NJ2FK20150428?feedType=RSS&feedName=topNews)
 2. [Thomson Reuters Foundation](http://www.trust.org/item/20150428192254-ebesc)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

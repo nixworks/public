@@ -8,6 +8,7 @@ Five adults and a child were found dead inside a Gage Park home Thursday afterno
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/ct-multiple-people-dead-southwest-side-20160204-story.html)
+1. [Cover Image](http://www.trbimg.com/img-56b3cae5/turbine/ct-multiple-people-dead-southwest-side-20160204)
 
 ### Related:
 

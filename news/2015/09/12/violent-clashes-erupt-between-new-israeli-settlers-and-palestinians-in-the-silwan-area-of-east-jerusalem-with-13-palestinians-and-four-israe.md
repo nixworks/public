@@ -8,6 +8,7 @@ Confrontations erupted on backdrop of new Jewish residents entering neighborhood
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/israel/.premium-1.675789)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.669775.1438801539!/image/3159438438.jpg_gen/derivatives/headline_1200x630/3159438438.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ MANILA, Philippines - The Department of Justice on Tuesday recommended the filin
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/02/09/10/doj-oks-murder-raps-vs-ampatuan-sr-196-others)
 2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iNJaC3hTn25jWZFp-yHVtwC-oGvA)
+2. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/people/others/20091125_dead_maguindanao_massacre.jpg)
 
 ### Related:
 

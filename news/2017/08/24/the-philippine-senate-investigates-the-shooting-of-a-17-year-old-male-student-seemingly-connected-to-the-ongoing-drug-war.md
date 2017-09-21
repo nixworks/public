@@ -8,6 +8,7 @@ Watch the hearing live on Rappler on Thursday, August 24, at 2 pm
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/179763-live-senate-hearing-death-kian-delos-santos)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/C49F9443E9A94D06BAD2153AEE2863CD/senate-hearing-kian-20170823-640.jpg)
 
 ### Related:
 

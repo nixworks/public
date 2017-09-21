@@ -8,6 +8,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 ### Source:
 
 1. [Newsday](http://www.newsday.com/news/nationworld/world/sns-ap-spain-iraq-protest,0,4992788.story?coll=ny-worldnews-headlines)
+1. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

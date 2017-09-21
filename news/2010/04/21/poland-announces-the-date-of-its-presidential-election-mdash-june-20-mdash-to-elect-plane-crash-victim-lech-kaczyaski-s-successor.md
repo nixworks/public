@@ -8,6 +8,7 @@ Opinion surveys give acting president wide lead over other potential candidates.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010421151735482570.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Peter Eastgate shined through the two-day final table and became the 2008 WSOP m
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/espn/poker/columns/story?columnist=wise_gary&id=3697842)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

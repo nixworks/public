@@ -10,6 +10,7 @@ Islamist separatists say they are behind train attack that killed 26 people.
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912283820223578.html)
 2. [RIA Novosti](http://en.rian.ru/russia/20091202/157072744.html)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-12/02/content_12574867.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

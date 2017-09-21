@@ -8,6 +8,7 @@ Militants killed at least 22 members of the security forces in Iraq on Tuesday, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/22/us-iraq-violence-idUSBRE99L12Z20131022)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

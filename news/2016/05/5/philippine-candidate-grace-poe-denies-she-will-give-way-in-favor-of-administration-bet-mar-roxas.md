@@ -12,6 +12,7 @@ Anti-establishment Philippine politician Rodrigo Duterte&#039;s rollicking ride 
 3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/783392/dictator-duterte-facing-coup-rumors)
 4. [Rappler](http://www.rappler.com/nation/politics/elections/2016/131839-iglesia-ni-cristo-leila-de-lima-2016-senatorial-elections)
 5. [Rappler](http://www.rappler.com/nation/politics/elections/2016/131894-grace-poe-denies-withdrawing-race)
+5. [Cover Image](http://www.abc.net.au/news/image/7333320-1x1-700x700.jpg)
 
 ### Related:
 

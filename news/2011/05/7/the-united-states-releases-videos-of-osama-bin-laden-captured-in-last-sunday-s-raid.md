@@ -8,6 +8,7 @@ Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/42941138/ns/world_news-death_of_bin_laden/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Video/110507/n_mik_obl_110507.standard.jpg)
 
 ### Related:
 

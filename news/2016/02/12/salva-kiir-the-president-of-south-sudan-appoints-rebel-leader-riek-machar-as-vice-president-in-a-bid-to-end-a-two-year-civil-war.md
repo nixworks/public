@@ -8,6 +8,7 @@ South Sudanese President Salva Kiir reappointed rebel leader Riek Machar as his 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-02-12/south-sudan-president-kiir-appoints-rebel-leader-as-his-deputy)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

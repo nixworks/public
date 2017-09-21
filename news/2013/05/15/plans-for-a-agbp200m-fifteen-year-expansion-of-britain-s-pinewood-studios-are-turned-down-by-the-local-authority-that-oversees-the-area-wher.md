@@ -8,3 +8,4 @@ Plans for the £200m expansion of film company Pinewood Studios, seen as vital f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-22537468)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65639000/jpg/_65639193_pinewoodstudios.jpg)

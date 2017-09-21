@@ -9,6 +9,7 @@ Kenya will deport jailed Jamaican Muslim cleric Sheikh Abdullah al-Faisal &quot;
 
 1. [Daily Nation](http://www.nation.co.ke/News/-/1056/843574/-/vpbtqf/-/index.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE60F17W20100116)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

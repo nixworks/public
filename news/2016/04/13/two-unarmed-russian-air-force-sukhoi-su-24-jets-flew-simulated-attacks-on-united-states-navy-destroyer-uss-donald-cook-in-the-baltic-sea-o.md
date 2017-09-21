@@ -8,6 +8,7 @@ Two Russian warplanes flew simulated attack passes near a U.S. guided missile de
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-russia-simulatedattack-idUSKCN0XA1UW)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160414&t=2&i=1132832437&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3C1HL)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Adel Safar confirmed as new prime minister as president orders release of protes
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201141414535764169.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/3/20114311447112876_20.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ How graphic images are being used on social media.
 3. [JPost](http://www.jpost.com/Operation-Protective-Edge/WATCH-Israel-thwarts-Palestinian-terrorist-attack-on-major-West-Bank-highway-362266)
 4. [Palestinian Media Watch](http://www.palwatch.org/main.aspx?fi=157&doc_id=11970)
 5. [YouTube](https://www.youtube.com/watch?v=ZMw80GQPXhU)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76102000/jpg/_76102553_syriabrhtsvecqaaoriy.jpg-large.jpg)
 
 ### Related:
 

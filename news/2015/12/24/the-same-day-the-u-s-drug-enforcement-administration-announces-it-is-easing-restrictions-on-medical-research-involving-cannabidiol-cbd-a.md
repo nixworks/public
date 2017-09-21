@@ -10,6 +10,7 @@ Children and young adults responded to investigational drug made with cannabidio
 1. [CBS News](http://www.cbsnews.com/news/marijuana-derived-drug-reduces-seizures-in-hard-to-treat-epilepsy/)
 2. [Health Day'' via U.S. News & World Report](http://health.usnews.com/health-news/articles/2015-12-24/marijuana-chemical-may-help-prevent-epileptic-seizures-in-kids-young-adults)
 3. [Leafly.com](https://www.leafly.com/news/headlines/dea-eases-restrictions-on-cannabidiol-studies)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/12/23/de44a16e-3ce0-4543-9809-99c422b6f9d3/marijuana-plants.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ David Cameron puts the case for air strikes against IS in Syria - with Jeremy Co
 1. [BBC](http://www.bbc.com/news/uk-politics-34927939)
 2. [The Guardian](http://www.theguardian.com/world/2015/nov/26/france-appeals-britain-join-syrian-war-against-isis-french-defence-minister-le-drian?CMP=share_btn_tw)
 3. [Washington Post](https://www.washingtonpost.com/world/russia-targets-turkish-economy-in-retaliation-for-downing-of-warplane/2015/11/26/b0fb7fac-9433-11e5-a2d6-f57908580b1f_story.html?wpmm=1&wpisrc=nl_evening)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/49A0/production/_86884881_f10db312-f0dc-4156-96c9-95d7412a5411.jpg)
 
 ### Related:
 

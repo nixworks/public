@@ -8,6 +8,7 @@ A senior US diplomat on Friday urged Myanmar to extend &quot;citizenship&quot; t
 ### Source:
 
 1. [AFP via Yahoo! News](https://news.yahoo.com/myanmar-navy-carries-first-rescue-migrant-boat-official-062948341.html;_ylt=AwrXnCBn2V5VwAkAXSzQtDMD;_ylu=X3oDMTByb2lvbXVuBGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/sLcua088gEcThfpTrvqQdw--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-REF-TS-Hkg10181686-1-1-0.jpg)
 
 ### Related:
 

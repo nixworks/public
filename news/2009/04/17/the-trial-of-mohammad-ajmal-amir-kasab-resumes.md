@@ -8,6 +8,7 @@ Pakistani national faces death sentence for alleged role in attack on Indian cit
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/04/200941791540552370.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

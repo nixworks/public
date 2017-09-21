@@ -8,6 +8,7 @@ Philippine President BenignoAquino said on Wednesday he was considering constitu
 ### Source:
 
 1. [Reuters](http://uk.mobile.reuters.com/article/idUKL4N0QJ4PU20140813?irpc=932)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v3/images/rcom-default.png)
 
 ### Related:
 

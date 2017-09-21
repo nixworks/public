@@ -9,6 +9,7 @@ The European Union has agreed an &quot;action plan&quot; with Turkey to help ste
 
 1. [ITV](http://www.itv.com/news/2015-10-16/eu-agrees-action-plan-over-turkey-migrants/)
 2. [Reuters](http://www.reuters.com/article/2015/10/16/us-europe-migrants-hungary-croatia-idUSKCN0SA1P620151016)
+2. [Cover Image](http://news-assets.sn.itv.com/image/file/796244/img.jpg)
 
 ### Related:
 

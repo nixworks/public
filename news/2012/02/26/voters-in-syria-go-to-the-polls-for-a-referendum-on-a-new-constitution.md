@@ -8,6 +8,7 @@ At least 59 Syrian civilians and soldiers were killed on Sunday in bloodshed tha
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/26/us-syria-idUSL5E8DB0BH20120226)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120226&t=2&i=575604209&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81P1SZI00)
 
 ### Related:
 

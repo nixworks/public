@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFox2ble4ReEOrUj_1U_PP_tAF1g?docId=CNG.0170e299dccfe0c32de778f254b7d9ad.121)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17083397)
 3. [The Moscow Times](http://www.themoscowtimes.com/news/article/latvians-reject-russian-as-joint-national-language/453301.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58573000/jpg/_58573506_014015506-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Just hours after the worst mass shooting in American history took place inside a
 ### Source:
 
 1. [Los Angeles Daily News](http://www.dailynews.com/general-news/20160612/man-arrested-with-weapons-explosive-materials-wanted-to-harm-people-at-la-pride)
+1. [Cover Image](http://www.dailynews.com/apps/pbcsi.dll/storyimage/LA/20160612/NEWS/160619877/AR/0/AR-160619877.jpg?Maxh=1500&Maxw=1500)
 
 ### Related:
 

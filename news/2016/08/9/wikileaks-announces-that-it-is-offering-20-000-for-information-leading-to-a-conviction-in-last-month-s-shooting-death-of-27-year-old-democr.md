@@ -8,6 +8,7 @@ Julian Assange seemed to suggest Seth Rich was the source of DNC email leak.
 ### Source:
 
 1. [The Hill](http://thehill.com/homenews/news/290885-wikileaks-offers-20k-for-info-on-dnc-staffers-killing)
+1. [Cover Image](http://thehill.com/sites/default/files/blogs/richseth.jpg)
 
 ### Related:
 

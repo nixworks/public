@@ -10,6 +10,7 @@ After a nearly $200 million blunder, one of America’s largest mutual-fund comp
 1. [Financial Times](http://www.ft.com/cms/s/0/b5f52e56-274d-11e6-8b18-91555f2f4fde.html#axzz4AID89y3z)
 2. [Fortune](http://fortune.com/2016/06/04/computer-error-t-rowe-price-dell/?xid=gn_editorspicks&google_editors_picks=true)
 3. [Wall Street Journal](http://www.wsj.com/articles/after-nearly-200-million-flub-t-rowe-price-seeks-a-solution-1464910176)
+3. [Cover Image](https://si.wsj.net/public/resources/images/BN-NR402_Dell04_TOP_20160422055345.jpg)
 
 ### Related:
 

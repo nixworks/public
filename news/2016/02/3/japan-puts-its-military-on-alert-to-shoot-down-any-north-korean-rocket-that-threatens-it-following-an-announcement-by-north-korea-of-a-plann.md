@@ -9,6 +9,7 @@ International pressure grew on North Korea to call off a planned rocket launch, 
 
 1. [Fox News](http://www.foxnews.com/world/2016/02/03/south-korea-warns-north-korea-not-to-launch-long-range-rocket.html)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-satellite-idUSKCN0VB1NY?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160203&t=2&i=1114558466&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1202E)
 
 ### Related:
 

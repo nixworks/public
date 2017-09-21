@@ -8,6 +8,7 @@ Security forces detain a number of protesters in eastern Saudi Arabia, after the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19012830)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61454000/jpg/_61454281_61454280.jpg)
 
 ### Related:
 

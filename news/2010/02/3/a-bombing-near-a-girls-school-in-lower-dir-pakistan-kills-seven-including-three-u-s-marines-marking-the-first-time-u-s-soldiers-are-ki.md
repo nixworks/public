@@ -9,6 +9,7 @@ Three US military personnel and four school girls among eight dead in roadside b
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/201023125741180461.html)
 2. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/02/03/pakistan.blast/index.html?hpt=T2)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

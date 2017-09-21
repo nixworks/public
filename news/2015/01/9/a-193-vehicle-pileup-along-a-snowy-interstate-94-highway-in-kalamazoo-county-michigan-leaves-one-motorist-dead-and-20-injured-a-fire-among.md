@@ -9,6 +9,7 @@ Several vehicles were burning in the pileup west of exit 92, including a truck t
 
 1. [ABC News](http://www.wzzm13.com/story/news/local/kalamazoo/2015/01/09/closed-serious-crash/21493615/)
 2. [CNN](http://edition.cnn.com/2015/01/10/us/michigan-traffic-pileup/)
+2. [Cover Image](http://content.wzzm13.com/photo/2015/01/09/635564395873035504-I-94-wreckage-2_1400212_ver1.0.jpg)
 
 ### Related:
 

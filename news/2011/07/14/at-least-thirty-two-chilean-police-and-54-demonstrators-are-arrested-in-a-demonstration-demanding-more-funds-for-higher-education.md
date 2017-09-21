@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Antara News](http://www.antaranews.com/en/news/1310688968/32-police-wounded-54-arrested-in-chile-student-demo)
+1. [Cover Image](http://img.antaranews.com/new)
 
 ### Related:
 

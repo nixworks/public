@@ -8,6 +8,7 @@ An American football player has shot himself at the Kansas City Chiefs&#039; sta
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/9716347/American-football-player-with-Kansas-City-Chiefs-kills-himself-at-team-stadium.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02415/jovan-belcher_2415662k.jpg)
 
 ### Related:
 

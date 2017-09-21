@@ -8,6 +8,7 @@ The Social Democratic Party of Kyrgyzstan, linked to pro-Moscow President Almazb
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/kyrgyzstan-goes-polls-parliamentary-vote-034905972.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/COpvB1Hpr0nrtY5AJj3DDw--/aD02MTU7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8291826-1-1-0.jpg)
 
 ### Related:
 

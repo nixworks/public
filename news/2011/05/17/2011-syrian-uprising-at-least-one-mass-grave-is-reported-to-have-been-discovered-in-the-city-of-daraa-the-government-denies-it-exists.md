@@ -8,6 +8,7 @@ Syria denies reports of the discovery of at least one mass grave in the southern
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13423418)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52330000/jpg/_52330848_52330847.jpg)
 
 ### Related:
 

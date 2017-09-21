@@ -16,6 +16,7 @@ A colossal winter storm stretching from New Mexico to Maine hit the agricultural
 7. [Reuters](http://www.reuters.com/article/2011/02/01/idINIndia-54572920110201)
 8. [VOA](http://www.voanews.com/english/news/usa/US-Winter-Weather-Forces-6400-Flight-Cancelations-115033949.html)
 9. [Washington Post](http://voices.washingtonpost.com/capitalweathergang/2011/02/amazing_reports_about_massive.html)
+9. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

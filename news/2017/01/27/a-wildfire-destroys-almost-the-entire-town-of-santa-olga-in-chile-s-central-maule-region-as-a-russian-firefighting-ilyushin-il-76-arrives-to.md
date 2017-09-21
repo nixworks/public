@@ -8,6 +8,7 @@ More international help is arriving to help Chile deal with its worst wildfire i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38766681)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5611/production/_93833022_169b998f-75f2-4b7a-90ea-d548fec52a15.jpg)
 
 ### Related:
 

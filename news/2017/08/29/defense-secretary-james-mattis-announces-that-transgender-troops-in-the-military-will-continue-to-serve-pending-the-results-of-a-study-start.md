@@ -9,6 +9,7 @@
 
 1. [The Hill](http://thehill.com/homenews/administration/348484-mattis-halts-trump-transgender-policy-pending-study)
 2. [USA Today](https://www.usatoday.com/story/news/politics/2017/08/29/mattis-orders-pentagon-allow-transgender-troops-continue-serving-pending-study/614711001/)
+2. [Cover Image](http://thehill.com/sites/default/files/article_images/mattis-james-getty.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Britain’s Communist party will not field any general election candidates for t
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/general-election-uk-communist-party-no-candidates-jeremy-corbyn-labour-support-first-1920-a7699761.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/24/16/gettyimages-671202706.jpg)
 
 ### Related:
 

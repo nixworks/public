@@ -8,6 +8,7 @@ More than 100 people are burnt to death in southern Nigeria after rushing to col
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18814738)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61529000/gif/_61529517_nigeria_fire464.gif)
 
 ### Related:
 

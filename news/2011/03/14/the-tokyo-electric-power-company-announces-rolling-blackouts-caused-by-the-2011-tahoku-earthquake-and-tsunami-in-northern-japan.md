@@ -16,6 +16,7 @@ Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on
 7. [Reuters](http://www.reuters.com/article/2011/03/14/japan-quake-chernobyl-idUSWEA841120110314)
 8. [WA Today](http://www.watoday.com.au/environment/new-tsunami-warning-as-another-quake-rocks-tokyo-20110314-1bto7.html?rand=1300069485440)
 9. [Washington Post](http://www.washingtonpost.com/business/economy/at-two-reactors-a-race-to-contain-meltdowns/2011/03/13/ABtdVDU_story.html?wpisrc=nl_natlalert)
+9. [Cover Image](https://www.japantoday.com/img/jt_logo_fb.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/japan-logs-first-trade-deficit-in-almost-two-years-20110223-1b5b4.html)
+1. [Cover Image](http://images.brisbanetimes.com.au/2011/08/09/2545353/facebook-thumb-brisbanetimes.png)
 
 ### Related:
 

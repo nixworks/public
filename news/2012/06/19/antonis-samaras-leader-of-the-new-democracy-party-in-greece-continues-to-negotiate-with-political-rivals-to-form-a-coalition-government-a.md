@@ -8,6 +8,7 @@ Greek politicians face the dual challenges of enforcing Greece’s loan agreemen
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/06/20/world/europe/talks-resume-to-form-coalition-government-in-greece.html?_r=1&pagewanted=all)
+1. [Cover Image](https://static01.nyt.com/images/2012/06/20/world/20greece1_span/20greece1_span-superJumbo.jpg)
 
 ### Related:
 

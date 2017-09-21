@@ -8,6 +8,7 @@ At least four killed and 26 injured in the attack near Umayyad Mosque in Damascu
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/11/mortar-lands-near-ancient-syrian-mosque-20131129174038319409.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/11/29/20131129175636505734_20.jpg)
 
 ### Related:
 

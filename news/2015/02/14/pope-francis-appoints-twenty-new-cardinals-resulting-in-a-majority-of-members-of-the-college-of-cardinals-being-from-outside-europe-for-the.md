@@ -8,6 +8,7 @@ Pope Francis appoints 20 cardinals at a Vatican ceremony, boosting the number of
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31471419)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81009000/jpg/_81009291_81009289.jpg)
 
 ### Related:
 

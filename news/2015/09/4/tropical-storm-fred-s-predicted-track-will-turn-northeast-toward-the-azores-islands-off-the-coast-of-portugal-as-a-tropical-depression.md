@@ -8,6 +8,7 @@ Fred has dissipated after impacting the Republic of Cabo Verde last week.
 ### Source:
 
 1. [Weather.com](http://www.weather.com/storms/hurricane/news/tropical-storm-hurricane-fred-atlantic-2015)
+1. [Cover Image](http://s.w-x.co/fred-global-hawk.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/15/us-egypt-usa-clinton-idUSBRE86D07520120715)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120715&t=2&i=630415825&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86E0PGI00)
 
 ### Related:
 

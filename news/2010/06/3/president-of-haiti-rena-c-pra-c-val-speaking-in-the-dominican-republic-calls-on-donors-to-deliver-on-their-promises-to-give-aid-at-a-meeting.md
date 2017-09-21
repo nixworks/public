@@ -8,6 +8,7 @@ President says donors must deliver on pledges of aid to quake-hit Caribbean nati
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/20106303139653393.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

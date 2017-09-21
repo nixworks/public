@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2015/01/battle-over-ukrainian-airport-intensifies-2015117215650162262.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/1/17/201511722843130734_20.jpg)
 
 ### Related:
 

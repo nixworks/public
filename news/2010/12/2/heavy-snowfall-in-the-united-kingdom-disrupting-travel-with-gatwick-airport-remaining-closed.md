@@ -12,6 +12,7 @@ Gatwick Airport will not reopen today as a continuing onslaught of snow and ice 
 3. [TV3](http://www.tv3.ie/article.php?article_id=49262&locID=1.2.&pagename=news)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/1202/1224284572691.html)
 5. [The Telegraph](http://www.telegraph.co.uk/topics/weather/8175624/UK-Snow-Travel-networks-paralysed-as-deep-freeze-persists.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01776/snow_1776008a.jpg)
 
 ### Related:
 

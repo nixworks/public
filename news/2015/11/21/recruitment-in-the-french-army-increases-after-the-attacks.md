@@ -10,6 +10,7 @@ A Paris medic was battling to save the life of a man outside a restaurant when h
 1. [ (Channel News Asia](http://www.channelnewsasia.com/mobile/world/france-sees-surge-in-army/2280658.html)
 2. [Reuters](http://www.reuters.com/article/2015/11/21/us-france-shooting-idUSKCN0TA0T520151121#lGxohPJIcQbtAdF6.97)
 3. [Sky News](http://news.sky.com/story/1591688/suspected-paris-attacks-scout-held-in-turkey)
+3. [Cover Image](http://e3.365dm.com/16/07/1600x900/gettyimages-497081024-1_3501940.jpg?20160704103122)
 
 ### Related:
 

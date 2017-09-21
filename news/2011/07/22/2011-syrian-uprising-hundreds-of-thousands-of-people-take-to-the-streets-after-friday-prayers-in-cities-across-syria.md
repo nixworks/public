@@ -8,6 +8,7 @@ Syrian forces shot dead at least 11 people during mass protests on Friday agains
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/22/us-syria-idUSTRE76L1P720110722)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110722&t=2&i=463980719&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-22T150142Z_01_BTRE76L15QX00_RTROPTP_0_SYRIA)
 
 ### Related:
 

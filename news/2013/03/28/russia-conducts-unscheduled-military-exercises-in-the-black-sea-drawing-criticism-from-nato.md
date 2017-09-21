@@ -8,6 +8,7 @@ Russia’s unscheduled war games in the Black Sea that began on Thursday without
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/world/russias-war-games-catch-west-off-guard/article4562465.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

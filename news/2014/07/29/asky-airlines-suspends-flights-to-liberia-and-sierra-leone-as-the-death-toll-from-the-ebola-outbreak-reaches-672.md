@@ -9,6 +9,7 @@ A West African airline halts flights to Liberia and Sierra Leone amid concern ab
 
 1. [BBC](http://www.bbc.com/news/world-africa-28550906?ocid=socialflow_twitter)
 2. [Reuters via ABC Australia](http://www.abc.net.au/news/2014-07-30/ebola-fighting-doctor-sheik-umar-khan-dies-from-virus/5633914)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76607000/jpg/_76607950_76607949.jpg)
 
 ### Related:
 

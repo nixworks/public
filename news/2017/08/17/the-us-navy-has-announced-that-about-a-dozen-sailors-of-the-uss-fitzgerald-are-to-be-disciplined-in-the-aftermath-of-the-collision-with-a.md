@@ -8,6 +8,7 @@ The destroyer was damaged in a collision off Japan in June, in which seven sailo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-40970860)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1236B/production/_97430647_damagereu.jpg)
 
 ### Related:
 

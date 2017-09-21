@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Register](http://www.theregister.co.uk/2007/05/03/nothing_you_read_is_true/)
+1. [Cover Image](https://regmedia.co.uk/2013/02/05/default_image-2.png?x=1200&y=794)
 
 ### Related:
 

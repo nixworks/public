@@ -8,6 +8,7 @@ Four college students were killed and at least 51 people were taken to hospitals
 ### Source:
 
 1. [King 5](http://www.king5.com/story/news/traffic/2015/09/24/collision-between-bus-duck-vehicle-several-injured/72746930/)
+1. [Cover Image](http://content.king5.com/photo/2015/09/24/635787068410737539-ducks-buscrash7_1637745_ver1.0.jpg)
 
 ### Related:
 

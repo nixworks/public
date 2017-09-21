@@ -8,6 +8,7 @@ A small number of children in California have contracted polio-like illnesses si
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-polio-like-paralysis-california-20140223,0,4064386.story)
+1. [Cover Image](http://www.trbimg.com/img-530a3c07/turbine/la-me-ln-polio-like-paralysis-california-20140223)
 
 ### Related:
 

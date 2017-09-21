@@ -10,6 +10,7 @@ Officials are investigating after another vehicle was shot at on Interstate 10 o
 1. [ABC 15](http://www.abc15.com/news/region-phoenix-metro/west-phoenix/dps-investigating-11th-shooting-on-phoenix-freeway)
 2. [FOX10 Phoenix](http://www.fox10phoenix.com/arizona-news/19013124-story)
 3. [NBC News](http://www.nbcnews.com/news/us-news/phoenix-sniper-strikes-again-arizona-cops-confirm-11th-freeway-shooting-n424921)
+3. [Cover Image](http://media2.abc15.com/photo/2015/09/10/KNXV%20Arizona%20freeway%20shootings%20_1441943601150_23809335_ver1.0_640_480.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Afghan President Hamid Karzai will give private security firms operating in the 
 4. [Reuters](http://www.reuters.com/article/idUSTRE67F2TY20100816)
 5. [The New York Times](http://atwar.blogs.nytimes.com/2010/08/16/general-mcchrystal-accepts-teaching-post-at-yale/?partner=rss&emc=rss)
 6. [Voice of America](http://www1.voanews.com/english/news/Gates-Petraeus-Differ-on-Flexibility-of-Afghan-Exit-100750549.html)
+6. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

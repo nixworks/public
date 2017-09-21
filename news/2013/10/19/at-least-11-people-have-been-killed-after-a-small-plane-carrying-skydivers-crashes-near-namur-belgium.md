@@ -8,3 +8,4 @@ Three parachutists made a desperate bid to flee a blazing aircraft seconds befor
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/belgium/10390868/Belgium-plane-crash-kills-11-parachutists.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02707/belgium-crash_2707410k.jpg)

@@ -9,6 +9,7 @@ Slovakia joined the euro on Thursday, hoping that membership of the single curre
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7806430.stm)
 2. [Reuters](http://uk.reuters.com/article/businessNews/idUKTRE4BU51Q20081231)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

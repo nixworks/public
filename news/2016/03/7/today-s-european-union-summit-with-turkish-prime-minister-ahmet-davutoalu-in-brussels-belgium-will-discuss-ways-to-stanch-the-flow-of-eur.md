@@ -15,6 +15,7 @@ The EU holds a key summit with Turkey on tackling the refugee crisis, as the Tur
 6. [Kathimerini](http://www.ekathimerini.com/206691/article/ekathimerini/news/eu-set-to-propose-more-greece-aid-as-balkan-route-now-closed)
 7. [Summit website](http://www.consilium.europa.eu/en/meetings/international-summit/2016/07/)
 8. [Voice of America](http://www.voanews.com/content/eu-looks-to-turkey-to-ease-migrant-crisis/3222611.html)
+8. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/51E1/production/_88616902_88616901.jpg)
 
 ### Related:
 

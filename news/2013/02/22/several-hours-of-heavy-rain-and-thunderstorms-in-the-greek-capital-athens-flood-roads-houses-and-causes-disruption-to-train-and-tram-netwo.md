@@ -8,6 +8,7 @@ Heavy rain in the Greek capital Athens floods roads and homes, causing huge traf
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21544991)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66017000/jpg/_66017485_d6x1zzsa.jpg)
 
 ### Related:
 

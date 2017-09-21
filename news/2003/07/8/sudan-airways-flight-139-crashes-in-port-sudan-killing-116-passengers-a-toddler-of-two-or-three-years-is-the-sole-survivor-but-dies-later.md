@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [MSNBC](http://famulus.msnbc.com/FamulusIntl/ap07-10-122117.asp?reg=AFRICA)
 2. [Reuters](http://asia.reuters.com/newsArticle.jhtml?type=topNews&storyID=3052818)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

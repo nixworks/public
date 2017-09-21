@@ -8,6 +8,7 @@ O. J. Simpson was charged with six felonies in connection with a reported armed 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/09/17/us/17simpson.html?ex=1347681600&en=5bdcf44bebac500a&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/09/17/us/17simpson.75.jpg)
 
 ### Related:
 

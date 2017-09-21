@@ -8,6 +8,7 @@ The EU urges members to conduct random DNA tests on processed beef for three mon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-21453370)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65880000/jpg/_65880430_65880275.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nintendo reveals its new video game system, the Wii U, which plays high-def game
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/tech/gaming/2011-06-08-nintendo-wii-u_n.htm)
+1. [Cover Image](http://i.usatoday.net/tech/_photos/2011/06/08/nintendo-wii-u-VR5GI4T-x.jpg)
 
 ### Related:
 

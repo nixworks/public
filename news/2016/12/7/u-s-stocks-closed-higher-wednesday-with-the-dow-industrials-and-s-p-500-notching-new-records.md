@@ -8,3 +8,4 @@ The Dow industrials, S&amp;P 500 and small-cap focused Russell 2000 on Wednesday
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/dow-industrials-aim-for-fresh-all-time-high-2016-12-07)
+1. [Cover Image](http://s.marketwatch.com/public/resources/MWimages/MW-DU747_bio_09_ZG_20150921165341.jpg)

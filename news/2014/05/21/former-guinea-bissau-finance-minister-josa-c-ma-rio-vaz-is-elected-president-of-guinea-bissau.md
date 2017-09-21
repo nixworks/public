@@ -8,6 +8,7 @@ By Alberto Dabo BISSAU (Reuters) - Former finance minister Jose Mario Vaz won a 
 ### Source:
 
 1. [Reuters via Yahoo! News](http://news.yahoo.com/vaz-wins-guinea-bissau-presidential-vote-loser-rejects-073333146.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

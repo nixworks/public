@@ -8,6 +8,7 @@ THE Japanese coastguard says two Chinese government ships have entered waters ar
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/chinese-ships-in-disputed-waters-japan/story-e6frfkui-1226570067955)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ School buses were trapped in near San Antonio and a tornado may have touched dow
 
 1. [NBC News](http://www.nbcnews.com/news/weather/possible-tornadoes-damage-buildings-across-south-texas-officials-n454441)
 2. [Reuters](http://www.reuters.com/article/2015/10/30/us-texas-tornado-idUSKCN0SO1O220151030)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_44/1284361/ss-151030-texas-flood-jsw-tease_61dddce45e5c869a30f5c788a1e16989.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

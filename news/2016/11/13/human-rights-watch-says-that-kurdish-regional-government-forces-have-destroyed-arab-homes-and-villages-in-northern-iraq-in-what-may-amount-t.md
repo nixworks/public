@@ -9,6 +9,7 @@ Iraqi Kurdish fighters battling Islamic State in northern Iraq unlawfully destro
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-kurds-idUSKBN13803V)
 2. [The Guardian](https://www.theguardian.com/world/2016/nov/13/iraqi-troops-capture-nimrud-ancient-assyrian-city-isis)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20161113&t=2&i=1161470432&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAC046)
 
 ### Related:
 

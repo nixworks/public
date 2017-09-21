@@ -12,6 +12,7 @@ An Israeli gunner has posted details of an impending West Bank raid on his Faceb
 3. [RTÉ](http://www.rte.ie/news/2010/0303/israel.html)
 4. [Reuters](http://www.reuters.com/article/idUSTRE6223S220100303)
 5. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/03/israel-cancels-raid-after-soldier-posts-details-on-facebook/1)
+5. [Cover Image](https://img.rasset.ie/00026c93-1600.jpg)
 
 ### Related:
 

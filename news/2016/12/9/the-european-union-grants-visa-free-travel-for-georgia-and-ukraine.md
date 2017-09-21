@@ -8,6 +8,7 @@ The European Union will let Ukrainians and Georgians visit the bloc freely after
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-eu-idUSKBN13X0QI)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161208&t=2&i=1164659169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB70F5)
 
 ### Related:
 

@@ -10,6 +10,7 @@ John Higgins, the snooker world champion, has allegedly been caught agreeing to 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8656905.stm)
 2. [News of the World](http://www.newsoftheworld.co.uk/news/801883/John-Higgins-snooker-match-fixing-scandal.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/snooker/7666170/John-Higgins-accused-of-agreeing-to-fix-snooker-matches.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01628/john_higgins_1628247a.jpg)
 
 ### Related:
 

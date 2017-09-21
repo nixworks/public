@@ -8,6 +8,7 @@ A schoolboy has died after he was reportedly stabbed at a secondary school in Ab
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/uk/home-news/aberdeen-school-attack-pupil-seriously-injured-at-cults-academy-a6712201.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/28/15/Cults-Academy-Aberdeen.jpg)
 
 ### Related:
 

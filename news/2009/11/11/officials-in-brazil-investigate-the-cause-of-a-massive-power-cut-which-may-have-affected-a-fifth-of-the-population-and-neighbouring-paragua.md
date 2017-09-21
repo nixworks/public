@@ -9,6 +9,7 @@ A huge power failure involving the world’s largest operating hydroelectric pla
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8355294.stm)
 2. [New York Times](http://www.nytimes.com/2009/11/12/world/americas/12brazil.html)
+2. [Cover Image](https://static01.nyt.com/images/2009/11/11/world/11cnd-brazilspan/thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prime minister says there is &quot;still time&quot; until general elections; Net
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=255962)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=185345)
 
 ### Related:
 

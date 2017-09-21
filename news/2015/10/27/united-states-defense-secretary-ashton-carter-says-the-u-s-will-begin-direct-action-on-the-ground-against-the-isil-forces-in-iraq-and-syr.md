@@ -10,6 +10,7 @@ Defense Secretary Ash Carter today revealed that the U.S. will openly begin &quo
 1. [AP via Boston Globe](https://www.bostonglobe.com/news/nation/2015/10/27/obama-weighs-moving-troops-closer-front-lines-syria-ira/COeqfPBwQZZnoYrZTL6L8H/story.html)
 2. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/27/usa-to-step-up-airstrikes-ground-raids-against-isil.html)
 3. [NBC News](http://www.nbcnews.com/news/us-news/sec-carter-direct-u-s-action-ground-iraq-syria-n452131)
+3. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_44/1277981/151027-iraq-us-troops-1253_69b75272a0d2b5fa58fa83ac44b01fdc.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

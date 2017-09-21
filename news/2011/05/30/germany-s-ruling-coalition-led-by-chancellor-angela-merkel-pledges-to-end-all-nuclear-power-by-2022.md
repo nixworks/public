@@ -8,6 +8,7 @@ Germany says all of its nuclear power plants will be shut by 2022 in the wake of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13592208)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53060000/jpg/_53060439_012092631-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A magnitude 7.3 earthquake struck late on Monday off the coast of El Salvador an
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/10/14/us-earthquake-el-salvador-idUSKCN0I308P20141014)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141014&t=2&i=983322732&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9D0HW)
 
 ### Related:
 

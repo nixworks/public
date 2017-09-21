@@ -8,6 +8,7 @@ Tens of thousands of people who fled ethnic fighting in Kyrgyzstan earlier this 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/06/29/world/asia/29kyrgyz.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/06/29/world/29kyrgyzspan-cnd/29kyrgyzspan-cnd-thumbStandard.jpg)
 
 ### Related:
 

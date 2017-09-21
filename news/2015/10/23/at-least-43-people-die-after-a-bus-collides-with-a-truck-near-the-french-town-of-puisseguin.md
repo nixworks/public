@@ -8,6 +8,7 @@ Coach carrying pensioners on a day trip collides with truck, causing ‘gigantic
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/oct/23/at-least-40-dead-after-bus-crash-in-south-of-france-puisseguin)
+1. [Cover Image](https://i.guim.co.uk/img/media/4e56162b1ae6cfde67054e6969a3493d184271bd/0_194_4928_2960/master/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=afc3064ee6b2080b71d58474673f7b68)
 
 ### Related:
 

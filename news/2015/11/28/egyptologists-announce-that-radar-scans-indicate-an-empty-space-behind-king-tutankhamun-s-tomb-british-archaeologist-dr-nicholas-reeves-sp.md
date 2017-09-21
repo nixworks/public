@@ -9,6 +9,7 @@ Tests in Egypt were carried out after British archaeologist suggested Queen Nefe
 
 1. [CNN](http://www.cnn.com/2015/11/28/africa/possible-clue-nefertiti-tomb-egypt/)
 2. [Sky News](http://news.sky.com/story/1596180/secret-chamber-likely-behind-king-tuts-tomb)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/rtx1w7x6-1_3501037.jpg?20160704102521)
 
 ### Related:
 

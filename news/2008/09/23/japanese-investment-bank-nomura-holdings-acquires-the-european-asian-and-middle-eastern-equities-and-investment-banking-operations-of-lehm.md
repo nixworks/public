@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/nomura-acquires-european-operations-lehman/story.aspx?guid=%7B3F8882D9%2DD10C%2D4406%2D8979%2D701FA1BB8BD6%7D&dist=hplatest)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of desperate civilians flee a suburb of the Syrian capital Damascus th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24730536)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70789000/jpg/_70789882_70782641a.jpg)
 
 ### Related:
 

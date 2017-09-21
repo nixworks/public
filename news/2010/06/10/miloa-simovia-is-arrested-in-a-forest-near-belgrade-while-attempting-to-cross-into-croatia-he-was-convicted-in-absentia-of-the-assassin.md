@@ -10,6 +10,7 @@ Second man arrested as accomplice in the killing of Serbian PM Zoran Djindjic in
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10276339.stm)
 2. [Miami Herald](http://www.miamiherald.com/2010/06/10/1673032/serbian-police-catch-convicted.html)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE65931Z20100610?feedType=RSS&feedName=worldNews)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

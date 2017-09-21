@@ -11,6 +11,7 @@ Helicopter images of Moore, Oklahoma show tracts of devastated neighborhoods.
 2. [MSN](http://news.msn.com/us/tornado-hits-oklahoma-elementary-school-takes-direct-hit)
 3. [NBC News](http://usnews.nbcnews.com/_news/2013/05/20/18375741-major-damage-as-huge-tornado-rips-through-neighborhoods-south-of-oklahoma-city?lite)
 4. [NPR](http://www.npr.org/blogs/thetwo-way/2013/05/20/185588779/tornado-emergency-declared-in-oklahoma-city)
+4. [Cover Image](https://media.npr.org/assets/img/2013/05/20/ap789530311235_wide-8fe7676d35b10c43b05e108cf63897bf00aad759.jpg?s=1400)
 
 ### Related:
 

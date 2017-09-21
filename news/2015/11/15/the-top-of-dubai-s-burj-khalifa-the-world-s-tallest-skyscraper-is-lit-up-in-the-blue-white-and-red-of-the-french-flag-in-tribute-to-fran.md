@@ -9,6 +9,7 @@ World’s tallest building draped in colours of the French national flag
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_PARIS_ATTACKS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-11-15-14-28-24)
 2. [Arabian Business](http://www.arabianbusiness.com/uae-extends-solidarity-france-with-solemn-tribute-on-burj-khalifa-612407.html)
+2. [Cover Image](http://www.arabianbusiness.com/incoming/article612408.ece/BINARY/Burj-Khalifa--france-flag.jpg)
 
 ### Related:
 

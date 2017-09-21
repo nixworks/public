@@ -8,6 +8,7 @@ AT&T Inc (T.N) reached a deal to buy media company Time Warner Inc (TWX.N) for m
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-time-warner-m-a-at-t-idUSKCN12L1Y0?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161022&t=2&i=1158529558&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9L0EP)
 
 ### Related:
 

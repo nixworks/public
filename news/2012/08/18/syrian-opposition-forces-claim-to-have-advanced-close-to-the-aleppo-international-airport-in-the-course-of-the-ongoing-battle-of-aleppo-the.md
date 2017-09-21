@@ -12,6 +12,7 @@ The insurgents’ seizure of areas near the airport comes as the United Nations 
 3. [CNN](http://www.cnn.com/2012/08/18/world/meast/syria-unrest/index.html)
 4. [Reuters](http://in.reuters.com/article/2012/08/18/syria-crisis-idINL6E8JI0P620120818)
 5. [The New York Times](http://www.nytimes.com/2012/08/18/world/middleeast/Syria.html)
+5. [Cover Image](https://static01.nyt.com/images/2012/08/18/world/syria/syria-superJumbo.jpg)
 
 ### Related:
 

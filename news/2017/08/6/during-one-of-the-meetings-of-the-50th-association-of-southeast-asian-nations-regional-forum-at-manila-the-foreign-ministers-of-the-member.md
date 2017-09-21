@@ -8,6 +8,7 @@ Southeast Asian foreign ministers ended an impasse on Sunday over how to address
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-asean-philippines-southchinasea-state-idUSKBN1AM0IR)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170807&t=2&i=1196024341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7607F)
 
 ### Related:
 

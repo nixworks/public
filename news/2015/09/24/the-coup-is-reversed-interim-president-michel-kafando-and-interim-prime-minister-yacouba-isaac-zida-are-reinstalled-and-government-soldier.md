@@ -10,6 +10,7 @@ The president of Burkina Faso was back in charge on Wednesday and said he would 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/africa/soldiers-leave-capital-burkina-faso-returns-to-calm/2015/09/24/fff67d9c-631d-11e5-8475-781cc9851652_story.html)
 2. [Big News Network](http://www.bignewsnetwork.com/news/237041027/coup-reversal-restores-calm-in-burkina-faso)
 3. [Reuters](http://www.reuters.com/article/2015/09/24/us-burkina-army-president-idUSKCN0RN0U120150924)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150924&t=2&i=1081835600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8M12S)
 
 ### Related:
 

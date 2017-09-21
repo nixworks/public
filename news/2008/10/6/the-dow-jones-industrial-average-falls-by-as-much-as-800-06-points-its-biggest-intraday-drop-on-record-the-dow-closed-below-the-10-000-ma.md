@@ -12,6 +12,7 @@ Stocks slid for a fourth straight day on Monday, leaving the Dow below 10,000 fo
 3. [NASDAQ](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20081006\ACQRTT200810061546RTTRADERUSEQUITY_1313.htm&&mypage=newsheadlines&title=Paulson%20Taps%20Former%20Goldman%20Sachs%20Exec%20To%20Be%20In%20Charge%20Of%20Bailout)
 4. [New York Times](http://www.nytimes.com/2008/10/07/business/economy/07lehman.html?hp)
 5. [Reuters](http://www.reuters.com/article/hotStocksNews/idUSTRE4952D220081006)
+5. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20081006&t=2&i=6271868&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-10-06T211904Z_01_BTRE4951N7V00_RTROPTP_0_MARKETS-STOCKS)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ukrainian President Petro Poroshenko calls on the US to provide military assista
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-29245609)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77673000/jpg/_77673228_77673097.jpg)
 
 ### Related:
 

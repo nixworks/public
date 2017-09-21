@@ -8,6 +8,7 @@ An explosion and fire killed one person and injured 73 at the Williams Olefins c
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/13/us-chemicals-fire-idUSBRE95C0P120130613)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130613&t=2&i=740965567&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95C1DIT00)
 
 ### Related:
 

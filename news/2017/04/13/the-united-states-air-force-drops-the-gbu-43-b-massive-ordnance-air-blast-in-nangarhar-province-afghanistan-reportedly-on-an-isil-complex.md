@@ -8,6 +8,7 @@ The US has deployed the largest non-nuclear bomb in its inventory on an ISIS tar
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/us-moab-mother-of-all-bombs-isis-afghanistan-2017-4)
+1. [Cover Image](http://static2.businessinsider.com/image/58f00d03cf6d8f53008b4685-1190-625/the-us-unleashed-the-mother-of-all-bombs-onto-an-isis-target-in-afghanistan.jpg)
 
 ### Related:
 

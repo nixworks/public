@@ -9,6 +9,7 @@ Iraqi officials say a crowded restaurant boat carrying dozens of guests has sunk
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21625391)
 2. [Fox News](http://www.foxnews.com/world/2013/02/28/crowded-restaurant-boat-sinks-in-central-baghdad-officials-say-8-dead-several/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

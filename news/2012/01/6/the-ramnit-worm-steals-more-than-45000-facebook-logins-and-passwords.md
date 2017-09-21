@@ -10,6 +10,7 @@ http://www.euronews.net/ More than 45,000 Facebook accounts - mostly in the UK a
 1. [CNet](http://news.cnet.com/8301-1009_3-57353528-83/worm-steals-more-than-45000-facebook-logins/)
 2. [Euronews Youtube](http://www.youtube.com/watch?v=0LFN06fLt54)
 3. [Vancouver Sun](http://www.vancouversun.com/malware+worm+targets+Facebook+passwords/5956236/story.html)
+3. [Cover Image](https://i.ytimg.com/vi/0LFN06fLt54/hqdefault.jpg)
 
 ### Related:
 

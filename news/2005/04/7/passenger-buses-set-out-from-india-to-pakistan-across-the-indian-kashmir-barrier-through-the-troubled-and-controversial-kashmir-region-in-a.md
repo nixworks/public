@@ -8,6 +8,7 @@ Buses departed Thursday from both the Indian and Pakistani sides of divided Kash
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/7413326/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Art/COVER/050407/050407_kashmir_hmed_330a.standard.jpg)
 
 ### Related:
 

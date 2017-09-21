@@ -8,6 +8,7 @@ Italian Prime Minister Silvio Berlusconi provoked outrage after an ill-judged jo
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/8040010/Berlusconi-Jewish-joke-slammed-by-the-Vatican.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01730/Berlusconi_1730961a.jpg)
 
 ### Related:
 

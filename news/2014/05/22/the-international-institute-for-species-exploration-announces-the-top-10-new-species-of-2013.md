@@ -8,3 +8,4 @@ Each year, an international committee of taxonomists and related experts form a 
 ### Source:
 
 1. [Red Orbit](http://www.redorbit.com/news/science/1113152735/top-ten-species-2014-compiled-discoveries-052214/)
+1. [Cover Image](http://www.redorbit.com/media/uploads/2014/05/01.jpg)

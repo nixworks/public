@@ -8,6 +8,7 @@ The Sydney Morning Herald 404 Page
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/news/Sport/Ian-Thorpe-quits-competitive-swimming/2006/11/21/1163871366954.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

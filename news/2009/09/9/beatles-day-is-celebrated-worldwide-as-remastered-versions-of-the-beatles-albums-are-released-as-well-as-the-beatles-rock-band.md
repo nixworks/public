@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Newsday](http://www.newsday.com/news/world/beatlemania-back-as-britain-celebrates-b-day-1.1432598)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

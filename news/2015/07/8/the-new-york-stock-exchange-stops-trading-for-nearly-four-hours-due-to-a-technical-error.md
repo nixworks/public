@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2015/07/08/investing/nyse-suspends-trading/index.html)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150626115525-nyse-stocks-premarket-june-2015-780x439.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11559890)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/10/17/17/0301000000AEN20101017000900315F.HTML)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

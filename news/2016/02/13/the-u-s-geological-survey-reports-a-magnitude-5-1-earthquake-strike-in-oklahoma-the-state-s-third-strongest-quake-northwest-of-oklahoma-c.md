@@ -9,6 +9,7 @@ Oklahoma was struck by a magnitude 5.1 earthquake on Saturday morning, the third
 
 1. [Reuters](http://www.reuters.com/article/us-oklahoma-quake-idUSKCN0VM0ST)
 2. [USGS](http://www.usgs.gov/blogs/features/usgs_top_story/magnitude-5-1-earthquake-in-oklahoma/?from=title)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

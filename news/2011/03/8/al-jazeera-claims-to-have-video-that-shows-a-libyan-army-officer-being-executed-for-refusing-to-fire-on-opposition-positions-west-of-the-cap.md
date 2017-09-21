@@ -10,6 +10,7 @@ Opposition video said to show Gaddafi soldiers killed for refusing to fire on re
 1. [Al Jazeera](http://english.aljazeera.net//video/middleeast/2011/03/20113804519741512.html#)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12673956)
 3. [Reuters](http://www.reuters.com/article/2011/03/08/us-libya-usa-britain-idUSTRE7275VT20110308)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/8/20113805221374734_20.jpg)
 
 ### Related:
 

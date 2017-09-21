@@ -8,6 +8,7 @@ From the editors of TIME
 ### Source:
 
 1. [Time](http://time.com/time-person-of-the-year-2016-donald-trump-choice/)
+1. [Cover Image](https://timedotcom.files.wordpress.com/2016/12/donald-trump-time-magazine-person-of-the-year-2016-facebook.jpg?quality=85&amp;w=1200&amp;h=628&amp;crop=1)
 
 ### Related:
 

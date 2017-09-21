@@ -8,6 +8,7 @@ Hundreds of students protesting against an education bill in Myanmar have defied
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-31716169)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81373000/jpg/_81373367_81373365.jpg)
 
 ### Related:
 

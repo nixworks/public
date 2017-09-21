@@ -8,6 +8,7 @@ Singer, comedian and actor Max Bygraves has died in Australia at the age of 89.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-19450696)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62620000/jpg/_62620569_002384864-1.jpg)
 
 ### Related:
 

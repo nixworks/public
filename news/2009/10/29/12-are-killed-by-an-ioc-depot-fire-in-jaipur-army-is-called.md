@@ -8,6 +8,7 @@ A devastating fire swept through an Indian Oil fuel storage and distribution ter
 ### Source:
 
 1. [The Times Of India](http://timesofindia.indiatimes.com/city/jaipur/12-killed-in-Jaipur-IOC-depot-fire-Army-called/articleshow/5178346.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/5178707.cms)
 
 ### Related:
 

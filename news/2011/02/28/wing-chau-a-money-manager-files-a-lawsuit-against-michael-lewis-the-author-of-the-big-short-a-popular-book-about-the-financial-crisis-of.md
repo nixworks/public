@@ -8,3 +8,4 @@ Michael Lewis, best-selling author of &quot;The Big Short&quot; about the mortga
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/28/us-books-defamation-lewis-idUSTRE71R4XX20110228)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

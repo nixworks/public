@@ -8,6 +8,7 @@ Party supports fixed-term parliaments but says it will not stand in the way of a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-scotland-scotland-politics-39640394)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E3BB/production/_95699285_snp.jpg)
 
 ### Related:
 

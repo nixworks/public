@@ -10,6 +10,7 @@ By Aleksandar Vasovic and Maria Kiselyova SEVASTOPOL, Ukraine/MOSCOW (Reuters) -
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jq6AJP9rKDHisbAkdfMZ6HEI75_g?docId=19352a11-739b-41c4-a193-d9b9b21a70d9)
 2. [AP](http://bigstory.ap.org/article/russia-eu-hampers-talks-ukraine)
 3. [Reuters via Yahoo! News](http://news.yahoo.com/russian-forces-storm-ukraine-naval-headquarters-crimea-121414731--finance.html;_ylt=AwrBJR__AipTeUIABwPQtDMD)
+3. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

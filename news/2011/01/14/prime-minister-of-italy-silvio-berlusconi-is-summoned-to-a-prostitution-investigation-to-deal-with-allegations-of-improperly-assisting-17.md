@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011114124929346350.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/jan/14/berlusconi-investigated-teenage-prostitution-case)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/14/20101214133258813738_20.jpg)
 
 ### Related:
 

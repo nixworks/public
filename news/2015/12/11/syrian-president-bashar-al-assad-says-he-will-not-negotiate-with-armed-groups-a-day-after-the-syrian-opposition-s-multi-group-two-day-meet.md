@@ -9,6 +9,7 @@ Syrian President Bashar al-Assad declared on Friday that he would not negotiate 
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKBN0TU2F920151211#mHxMtl1qTu26eLs3.97)
 2. [Syria Online](http://www.syriaonline.sy/?f=Details&catid=12&pageid=19986)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151211&t=2&i=1101655230&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBA1CX)
 
 ### Related:
 

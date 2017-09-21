@@ -9,6 +9,7 @@ The Immigration Department says Indonesian crewmen being held at the Darwin immi
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/29/2996383.htm?section=justin)
 2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100829/wl_asia_afp/australiaindonesiaimmigrationriot)
+2. [Cover Image](http://www.abc.net.au/news/image/961768-1x1-700x700.jpg)
 
 ### Related:
 

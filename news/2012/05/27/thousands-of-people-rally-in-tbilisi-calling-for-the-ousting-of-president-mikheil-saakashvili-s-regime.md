@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/2012527144143318434.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/27/2012527151026873734_20.jpg)
 
 ### Related:
 

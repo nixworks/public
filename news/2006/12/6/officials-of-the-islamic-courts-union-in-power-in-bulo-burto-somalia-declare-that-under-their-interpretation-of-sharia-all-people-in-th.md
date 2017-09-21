@@ -8,6 +8,7 @@ Residents of a southern Somalia town who do not pray five times a day will be be
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,234817,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

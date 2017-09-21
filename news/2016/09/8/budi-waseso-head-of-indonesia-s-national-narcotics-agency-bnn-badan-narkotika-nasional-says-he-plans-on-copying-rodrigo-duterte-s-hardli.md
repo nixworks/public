@@ -8,6 +8,7 @@ Indonesia&#039;s anti-drugs chief says he supports implementing a bloody crackdo
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/2016-09-08/indonesian-official-wants-philippine-style-drug-war/7824696)
+1. [Cover Image](http://www.abc.net.au/news/image/6940072-1x1-700x700.jpg)
 
 ### Related:
 

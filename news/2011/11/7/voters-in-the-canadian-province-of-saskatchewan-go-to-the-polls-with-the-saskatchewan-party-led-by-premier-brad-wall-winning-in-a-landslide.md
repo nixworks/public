@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/canada/skvotes2011/story/2011/11/07/sk-sask-election-main-111107.html)
+1. [Cover Image](https://i.cbc.ca/1.2029875.1381640066!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-wall-celebrates-111107.jpg)
 
 ### Related:
 

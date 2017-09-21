@@ -9,6 +9,7 @@ Prince William says he and wife Catherine are &quot;very happy&quot; after the b
 
 1. [BBC](http://www.bbc.com/news/uk-32562117?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-3044227/Kate-Middleton-Prince-William-s-new-royal-baby-GIRL.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82729000/jpg/_82729197_82729196.jpg)
 
 ### Related:
 

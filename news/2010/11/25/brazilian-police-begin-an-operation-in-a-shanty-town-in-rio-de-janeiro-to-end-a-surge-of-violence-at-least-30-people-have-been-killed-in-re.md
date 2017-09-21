@@ -9,6 +9,7 @@ Brazilian police say they have regained control of the Vila Cruzeiro shanty town
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11838472)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101126/news_20101126_56_715449.htm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News America](http://abcnews.go.com/US/jennifer-hudson-family-murder-trial-verdict-reached/story?id=16312497#.T62J-uj9Oiw)
+1. [Cover Image](http://a.abcnews.com/images/Entertainment/ap_Jennifer_Hudson_Slayings_nt_120405_wmain.jpg)
 
 ### Related:
 

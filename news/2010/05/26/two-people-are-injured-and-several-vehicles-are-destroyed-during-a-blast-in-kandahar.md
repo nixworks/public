@@ -8,6 +8,7 @@ Vehicles damaged in blast in southern province of Kandahar but no deaths reporte
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201052682429305825.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

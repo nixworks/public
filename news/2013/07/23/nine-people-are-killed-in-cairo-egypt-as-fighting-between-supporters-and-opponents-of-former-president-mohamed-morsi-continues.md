@@ -8,6 +8,7 @@ Nine people are killed in Cairo in violent overnight clashes, as supporters of o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23417025)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68896000/jpg/_68896569_hi018698575.jpg)
 
 ### Related:
 

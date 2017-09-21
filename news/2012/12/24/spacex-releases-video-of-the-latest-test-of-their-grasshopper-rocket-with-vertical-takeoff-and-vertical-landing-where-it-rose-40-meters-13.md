@@ -11,6 +11,7 @@ SpaceX recently released video of the latest test of their Grasshopper Vertical 
 2. [Today Online](http://www.todayonline.com/World/EDC121225-0000036/US-firm-launches-reusable-space-rocket)
 3. [Universe Today](http://www.universetoday.com/99143/spacex-grasshopper-takes-off-and-lands-vertically-in-new-12-story-hop/)
 4. [Wacotrib.com](http://www.wacotrib.com/news/184730161.html)
+4. [Cover Image](http://www.universetoday.com/wp-content/uploads/2012/12/cowboy-spacex.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A &ldquo;vibrational&rdquo; chemical bond predicted in the 1980s is demonstrated
 ### Source:
 
 1. [Scientific American](http://www.scientificamerican.com/article/chemists-confirm-the-existence-of-new-type-of-bond/)
+1. [Cover Image](https://www.scientificamerican.com/sciam/cache/file/EE748640-DBAB-4435-9361CA7894BF6078_agenda.jpg?w=600&amp;h=335)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [ (CNN](http://edition.cnn.com/2007/US/09/14/pace.iraq/index.html?eref=rss_us)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSL1477322720070915?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070915&t=2&i=1762085&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-15T173710Z_01_L14773227_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

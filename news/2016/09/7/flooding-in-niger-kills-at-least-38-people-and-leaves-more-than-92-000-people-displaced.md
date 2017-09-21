@@ -8,6 +8,7 @@ At least 38 people have been killed and more than 92,000 left homeless since Jun
 ### Source:
 
 1. [The New Indian Express](http://www.newindianexpress.com/world/38-dead-92000-left-homeless-by-Niger-floods/2016/09/08/article3616205.ece)
+1. [Cover Image](http://images.newindianexpress.com/uploads/user/imagelibrary/logo/nie_logo_600X390.jpg)
 
 ### Related:
 

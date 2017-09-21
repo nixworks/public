@@ -8,6 +8,7 @@ Excavations at site of home for unmarried mothers and their children where it is
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/03/mass-grave-of-babies-and-children-found-at-tuam-orphanage-in-ireland)
+1. [Cover Image](https://i.guim.co.uk/img/media/e8079e8ee383bf264feca2648f437f3c27adc447/0_117_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=17ffca5429e0cbbc817c48a3eb02f7a5)
 
 ### Related:
 

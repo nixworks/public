@@ -8,6 +8,7 @@ Queensland Premier Anna Bligh has called a snap state election for March 21.
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/02/23/2498604.htm?section=australia)
+1. [Cover Image](http://www.abc.net.au/news/image/304878-1x1-700x700.jpg)
 
 ### Related:
 

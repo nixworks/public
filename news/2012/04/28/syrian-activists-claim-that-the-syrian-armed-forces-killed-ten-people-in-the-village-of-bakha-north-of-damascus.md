@@ -11,6 +11,7 @@ Vessel originally from Libya, loaded with arms reportedly destined for Syrian op
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242813737244536.html)
 3. [Reuters](http://www.reuters.com/article/2012/04/28/us-syria-killings-idUSBRE83R06720120428)
 4. [euronews](http://www.euronews.com/newswires/1498704-gunmen-attack-syrian-army-unit-from-sea-several-dead/)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/28/2012428172542533580_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-election-mexico-idUSKCN0X22R5)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160406&t=2&i=1130722128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC341DT)
 
 ### Related:
 

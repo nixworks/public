@@ -12,6 +12,7 @@ Explosions took place as a leader of the al-Shabab anti-government group gave se
 3. [Reuters](http://uk.reuters.com/article/idUKTRE6400JK20100501)
 4. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/05/01/international/i040741D81.DTL&tsp=1)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article7113832.ece#cid=OTC-RSS&attr=797093)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

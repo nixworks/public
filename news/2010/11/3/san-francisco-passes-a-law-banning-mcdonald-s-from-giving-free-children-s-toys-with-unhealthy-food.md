@@ -8,6 +8,7 @@ San Francisco has become the first major U.S. city to pass a law that cracks dow
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A25P220101103)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

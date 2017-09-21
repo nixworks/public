@@ -9,6 +9,7 @@ An Egyptian court sentences 21 people to death over 2012 clashes between footbal
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21209808)
 2. [Reuters](http://www.reuters.com/article/2013/01/26/us-egypt-court-idUSBRE90P06920130126)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65524000/jpg/_65524549_65524548.jpg)
 
 ### Related:
 

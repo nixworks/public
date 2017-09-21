@@ -8,6 +8,7 @@ An army intelligence analyst jailed on charges of leaking United States governme
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article1981399.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

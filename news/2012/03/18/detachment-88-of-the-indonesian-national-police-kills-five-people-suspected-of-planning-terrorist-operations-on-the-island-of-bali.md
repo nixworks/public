@@ -8,6 +8,7 @@ Bali police say five people believed to have been planning terrorist attacks hav
 ### Source:
 
 1. [AAP and ''Sydney Morning Herald](http://www.smh.com.au/world/five-killed-in-terror-raids-in-bali-20120319-1ve7b.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/v/f/0/d/image.related.articleLeadwide.620x349.1ve7b.png/1332140684303.jpg)
 
 ### Related:
 

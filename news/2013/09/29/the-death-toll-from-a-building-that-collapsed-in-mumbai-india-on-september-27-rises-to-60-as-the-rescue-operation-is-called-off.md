@@ -8,6 +8,7 @@ The rescue operation at a collapsed four-storey building in the Indian city of M
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-24321409)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70174000/jpg/_70174313_xgec82fl.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ PESHAWAR Jan 26 AP - A Pakistani official says clashes between two Islamic milit
 ### Source:
 
 1. [AP via News Limited](http://www.news.com.au/breaking-news/world/militant-groups-clash-kills-24-in-pakistan/story-e6frfkui-1226562510726)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

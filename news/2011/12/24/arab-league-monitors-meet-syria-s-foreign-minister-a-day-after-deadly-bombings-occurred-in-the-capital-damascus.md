@@ -8,6 +8,7 @@ Meeting comes as funerals for 44 victims of twin car bombs in Damascus turn into
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/20111224104726563812.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/24/2011122413659798580_20.jpg)
 
 ### Related:
 

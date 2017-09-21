@@ -8,6 +8,7 @@ People&rsquo;s Consultative Assembly (MPR) speaker Zulkifli Hasan said the prese
 ### Source:
 
 1. [The Jakarta Post](http://www.thejakartapost.com/news/2016/12/02/mass-prayer-becomes-cooler-with-jokowis-presence-mpr.html)
+1. [Cover Image](http://img.jakpost.net/c/2016/12/02/2016_12_02_17017_1480647675._large.jpg)
 
 ### Related:
 

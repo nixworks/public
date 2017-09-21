@@ -9,6 +9,7 @@ Rafa Nadal swept into the Australian Open third round under the Rod Laver Arena 
 
 1. [New Zealand Stuff](http://www.stuff.co.nz/southland-times/news/9613064/Health-warnings-amid-Australian-heat-wave)
 2. [Reuters](http://uk.reuters.com/article/2014/01/16/uk-tennis-open-idUKBREA0F0YL20140116)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140116&t=2&i=830015325&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0F13I700)
 
 ### Related:
 

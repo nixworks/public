@@ -8,6 +8,7 @@ Military alliance says besieged town is now its top priority after rebels accuse
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/201146821269546.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/6/20114685540830360_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A huge suicide bomb attack on an Iraqi police base killed at least 37 people Mon
 ### Source:
 
 1. [Yahoo](http://news.yahoo.com/suicide-attack-iraq-police-kills-least-37-officers-131318624.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/GJrZKweUxA7VlhGmvF3ZOg--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6457638-1-1-0.jpg)
 
 ### Related:
 

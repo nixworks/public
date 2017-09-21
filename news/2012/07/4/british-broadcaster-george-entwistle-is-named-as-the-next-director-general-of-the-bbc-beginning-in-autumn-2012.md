@@ -8,6 +8,7 @@ Current director of BBC Vision, George Entwistle, is announced as the 15th BBC d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18702085)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61352000/jpg/_61352456_entwistlepatten.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Allahabad HC on Thursday ruled by a majority verdict that the disputed land 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11433481)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/09/28/india.ayodhya.backgrounder/index.html?hpt=Mid)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/Ayodhya-verdict-Disputed-land-to-be-divided/articleshow/6658400.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/6658475.cms)
 
 ### Related:
 

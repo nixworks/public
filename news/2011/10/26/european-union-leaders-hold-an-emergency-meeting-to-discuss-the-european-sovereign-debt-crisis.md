@@ -8,6 +8,7 @@ Eurozone leaders holding a summit on the debt crisis find agreement on recapital
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15449149)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56307000/jpg/_56307505_013229464-1.jpg)
 
 ### Related:
 

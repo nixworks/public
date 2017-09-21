@@ -9,6 +9,7 @@ A tragedy has occurred at the main Havana Psychiatric Hospital with 26 patients 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8462844.stm)
 2. [Havana Times](http://www.havanatimes.org/?p=18263)
+2. [Cover Image](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/t1.0-1/c23.23.290.290/s160x160/206765_10150154077610762_2477526_n.jpg)
 
 ### Related:
 

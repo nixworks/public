@@ -8,6 +8,7 @@ Pope Francis hosts a joint prayer meeting with Israeli and Palestinian leaders, 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27754663)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75385000/jpg/_75385849_75385848.jpg)
 
 ### Related:
 

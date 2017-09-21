@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Fox News](http://www.foxnews.com/world/2015/07/01/russia-highest-court-approves-holding-next-year-parliamentary-election-3-months/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

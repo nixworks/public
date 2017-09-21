@@ -8,6 +8,7 @@ More than 4,200 migrants trying to reach Europe are rescued from boats in the Me
 ### Source:
 
 1. [AFP/Reuters via ABC Online](http://www.abc.net.au/news/2015-05-31/more-than-4000-migrants-rescued-off-italian-coast/6509818)
+1. [Cover Image](http://www.abc.net.au/news/image/6509844-1x1-700x700.jpg)
 
 ### Related:
 

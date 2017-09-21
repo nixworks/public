@@ -8,6 +8,7 @@ The Jamat-ul-Ahrar faction of the Pakistani Taliban has claimed responsibility f
 ### Source:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/2015/01/10/suicide-blast-kills-seven-pakistan)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/pakistan_blast_090115_aap.jpg)
 
 ### Related:
 

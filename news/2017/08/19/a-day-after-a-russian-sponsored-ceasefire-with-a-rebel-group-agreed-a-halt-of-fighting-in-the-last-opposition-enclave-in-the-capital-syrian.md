@@ -10,6 +10,7 @@
 1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKCN1AZ0Q8)
 2. [SN4HR](http://sn4hr.org/blog/2017/08/19/civilians-killed-syrian-regime-forces-hamouriya-town-damascus-suburbs-august-19/)
 3. [US News](https://www.usnews.com/news/world/articles/2017-08-19/syrian-army-pounds-rebel-areas-near-damascus-after-russian-brokered-truce)
+3. [Cover Image](http://sn4hr.org/wp-content/uploads/2017/08/طفلل-قُتل-بقصف-النظام-السوري-على-حمورية-بريف-دمشق-19-8-2017.jpg)
 
 ### Related:
 

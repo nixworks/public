@@ -8,6 +8,7 @@ A Ugandan gay rights group sues a US minister accusing him of involvement in a c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17387887)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59104000/jpg/_59104415_59104414.jpg)
 
 ### Related:
 

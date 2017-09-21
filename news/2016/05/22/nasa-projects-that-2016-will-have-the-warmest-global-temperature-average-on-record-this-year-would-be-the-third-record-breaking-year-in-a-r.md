@@ -8,6 +8,7 @@ The streak of record warm months continues, thanks to El Ni&ntilde;o and global 
 ### Source:
 
 1. [Scientific American](http://www.scientificamerican.com/article/99-percent-chance-2016-will-be-the-hottest-year-on-record/)
+1. [Cover Image](https://www.scientificamerican.com/sciam/cache/file/C4013E55-1D0F-43B0-960BE3BD320F439A_agenda.jpg?w=600&amp;h=335)
 
 ### Related:
 

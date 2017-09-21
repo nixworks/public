@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times-Picayune](http://www.nola.com/crime/index.ssf/2016/11/1_dead_9_wounded_on_bourbon_st.html#incart_big-photo)
+1. [Cover Image](http://image.nola.com/home/nola-media/width620/img/tpphotos/photo/2016/11/27/21602751-large.jpg)
 
 ### Related:
 

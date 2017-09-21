@@ -9,6 +9,7 @@ Law enforcement officials Tuesday afternoon arrested the leaders of the Oregon w
 
 1. [CNN](http://edition.cnn.com/2016/01/26/us/oregon-wildlife-refuge-siege-arrests/index.html)
 2. [Oregon Live](http://www.oregonlive.com/oregon-standoff/2016/01/bundys_in_custody_one_militant.html)
+2. [Cover Image](https://i.ytimg.com/vi/N1DiMtcZXCA/hqdefault.jpg)
 
 ### Related:
 

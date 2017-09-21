@@ -8,6 +8,7 @@ New Labour leader Jacinda Ardern says the party is about to &quot;run the campai
 ### Source:
 
 1. [Stuff](https://www.stuff.co.nz/national/politics/95305769/andrew-little-drops-out-of-media-engagements)
+1. [Cover Image](https://resources.stuff.co.nz/content/dam/images/1/k/r/4/n/8/image.related.StuffLandscapeSixteenByNine.620x349.1kqqeh.png/1501554879117.jpg)
 
 ### Related:
 

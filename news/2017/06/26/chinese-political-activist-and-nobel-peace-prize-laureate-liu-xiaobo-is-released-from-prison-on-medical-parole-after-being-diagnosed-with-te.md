@@ -8,6 +8,7 @@ Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inc
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jun/26/nobel-laureate-liu-xiaobo-released-from-chinese-prison-after-cancer-diagnosis)
+1. [Cover Image](https://i.guim.co.uk/img/media/2b9c5ca7903bbaf4a4cfcaf7d3c93ad16b1243fd/0_218_2994_1797/master/2994.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fc0b1019e0cee9702bc365bf9f6a6d5d)
 
 ### Related:
 

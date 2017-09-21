@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/russia-high-tech-surveillance-plane-flights-over-us-open-skies-treaty/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/12/03/1a3b9400-f117-47ab-92fe-6b3d1ea4d851/vladimir-putin-2015-12-03t101708z.jpg)
 
 ### Related:
 

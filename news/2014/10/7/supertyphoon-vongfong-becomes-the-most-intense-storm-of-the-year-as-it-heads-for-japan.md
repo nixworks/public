@@ -8,6 +8,7 @@ Typhoon Vongfong in the Western Pacific rapidly strengthened overnight into the 
 ### Source:
 
 1. [Live Science](http://www.livescience.com/48185-typhoon-vongfong-most-powerful-storm.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA3MC84Mzkvb3JpZ2luYWwvdm9uZ2ZvbmcuanBlZw==)
 
 ### Related:
 

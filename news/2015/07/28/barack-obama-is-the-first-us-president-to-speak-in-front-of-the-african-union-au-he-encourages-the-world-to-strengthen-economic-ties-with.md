@@ -8,6 +8,7 @@ President Barack Obama became the first American president to address the Africa
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/obama-becomes-first-u-s-president-to-address-african-union-1438090849)
+1. [Cover Image](https://si.wsj.net/public/resources/images/WO-AX294_OBAAFR_G_20150728194843.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Royal palace issues rare statement raising fears for the health of King Bhumibol
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/10/thai-king-bhumibol-adulyadej-condition-stable-treatment-161009210509941.html)
 2. [Reuters](http://www.reuters.com/article/us-thailand-king-idUSKCN1290R8)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161010&t=2&i=1156847219&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC990N3)
 
 ### Related:
 

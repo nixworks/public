@@ -10,6 +10,7 @@
 1. [AhramOnline](http://english.ahram.org.eg/NewsContent/36/122/45876/Presidential-elections-/Presidential-elections-news/BREAKING-Shafiq-to-be-named-president-on-Sunday,-c.aspx)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126224915845417.html)
 3. [CNN](http://edition.cnn.com/2012/06/22/world/meast/egypt-politics/index.html?hpt=hp_t1)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/22/2012622182149521734_20.jpg)
 
 ### Related:
 

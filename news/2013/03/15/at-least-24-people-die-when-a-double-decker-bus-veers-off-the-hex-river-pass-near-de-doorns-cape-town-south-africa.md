@@ -9,6 +9,7 @@ Another two fatalities have increased the death toll in a bus accident on the He
 
 1. [SAPA via News24](http://www.news24.com/news24/SouthAfrica/News/Western-Cape-bus-crash-toll-rises-to-20-20130315)
 2. [The Times South Africa](http://www.timeslive.co.za/local/2013/03/15/western-cape-bus-crash-toll-rises-to-24)
+2. [Cover Image](http://www.timeslive.co.za/incoming/2012/06/02/bus-wheel-xgold-2012/ALTERNATES/crop_630x432/bus%20wheel%20xgold%202012)
 
 ### Related:
 

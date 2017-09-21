@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-37107442)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-defector-idUSKCN10S0CY?il=0)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11487/production/_90819707_mr_thae_gettyimages-458384074.jpg)
 
 ### Related:
 

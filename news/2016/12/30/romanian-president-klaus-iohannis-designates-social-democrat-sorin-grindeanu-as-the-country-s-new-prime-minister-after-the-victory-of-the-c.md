@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP by ''The Indian Express](http://indianexpress.com/article/world/romania-gets-new-pm-sorin-grindeanu-ending-political-turmoil-4451842/)
+1. [Cover Image](http://images.indianexpress.com/2016/12/sorin-grindeanu-480.jpg?w=480)
 
 ### Related:
 

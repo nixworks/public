@@ -8,6 +8,7 @@ The far-right mayor of a southern Hungarian village has banned the open expressi
 ### Source:
 
 1. [RT](https://www.rt.com/news/368202-burqas-mosques-gay-banned-hungarian)
+1. [Cover Image](https://img.rt.com/files/2016.11/article/58387832c36188db778b4621.jpg)
 
 ### Related:
 

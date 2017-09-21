@@ -9,6 +9,7 @@
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57508088/official-family-feud-suspected-in-brutal-murder-of-4-in-french-alps/)
 2. [CNN](http://edition.cnn.com/2012/09/07/world/europe/france-shooting-probe/index.html)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/09/07/e7cb8f72-a644-11e2-a3f0-029118418759/french_alps_murders_151435652_fullwidth.jpg)
 
 ### Related:
 

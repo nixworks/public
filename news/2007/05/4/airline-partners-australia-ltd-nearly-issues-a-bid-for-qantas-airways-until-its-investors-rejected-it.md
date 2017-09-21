@@ -12,6 +12,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 3. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=fundsFundsNews&storyID=2007-05-04T131518Z_01_SYD228221_RTRIDST_0_QANTAS-BID-UPDATE-4-REPEAT.XML)
 4. [Sydney Morning Herald](http://www.smh.com.au/news/business/fasten-seatbelts-as-qantas-fingerpointing-begins/2007/05/04/1177788400238.html)
 5. [The Age](http://www.theage.com.au/articles/2007/05/04/1177788399964.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

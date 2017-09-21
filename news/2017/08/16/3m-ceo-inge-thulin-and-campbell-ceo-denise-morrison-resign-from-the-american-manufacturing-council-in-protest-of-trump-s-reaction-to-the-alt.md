@@ -11,6 +11,7 @@ Campbell Soup CEO Denise Morrison resigned from the president&#039;s manufacturi
 2. [Business Insider](http://www.businessinsider.in/The-members-of-Trumps-main-business-council-are-reportedly-scrapping-the-group-altogether/articleshow/60091510.cms)
 3. [CNBC](https://www.cnbc.com/2017/08/16/3m-ceo-resigns-from-trumps-panel.htm)
 4. [CNBC](https://www.cnbc.com/2017/08/16/campbell-ceo-resigns-from-trumps-manufacturing-council.html)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/38B9/production/_97412541_gettyimages-633684078.jpg)
 
 ### Related:
 

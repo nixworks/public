@@ -8,3 +8,4 @@ Officials in Belgium and France say Mehdi Nemmouche displayed the weapons he all
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/suspected-brussels-gunman-admitted-to-attack-on-film/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/06/Mehdijoint-e1403770164722.jpg)

@@ -8,6 +8,7 @@ The financial crisis entered a potentially dangerous new phase as investors worl
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/18/business/18markets.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/09/17/business/18markets_75.jpg)
 
 ### Related:
 

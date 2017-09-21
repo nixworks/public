@@ -11,6 +11,7 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 2. [Catholic News Service](http://www.catholicnews.com/data/stories/cns/0501484.htm)
 3. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=35873)
 4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-03-15T180221Z_01_L15123548_RTRIDST_0_ENTERTAINMENT-ARTS-VATICAN-DAVINCI-DC.XML)
+4. [Cover Image](http://www.catholicculture.org/images/social/fb/CatholicCulture.png)
 
 ### Related:
 

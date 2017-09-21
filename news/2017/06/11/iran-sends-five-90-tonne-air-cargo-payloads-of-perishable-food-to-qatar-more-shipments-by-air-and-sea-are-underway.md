@@ -8,6 +8,7 @@ Three ships loaded with 350 tonnes of food were also set to leave an Iranian por
 ### Source:
 
 1. [AFP via ''Ńew Indian Express](http://www.newindianexpress.com/world/2017/jun/11/iran-has-sent-five-planes-of-food-to-qatar-airline-1615449.html)
+1. [Cover Image](http://images.newindianexpress.com/uploads/user/imagelibrary/2017/6/7/w600X390/Qatar-skyline-AP.jpg)
 
 ### Related:
 

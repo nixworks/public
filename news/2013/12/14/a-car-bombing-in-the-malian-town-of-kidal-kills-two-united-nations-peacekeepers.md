@@ -8,6 +8,7 @@ Two UN peacekeepers are killed and others are injured in a car bomb blast in the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25379618)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71740000/jpg/_71740782_71740781.jpg)
 
 ### Related:
 

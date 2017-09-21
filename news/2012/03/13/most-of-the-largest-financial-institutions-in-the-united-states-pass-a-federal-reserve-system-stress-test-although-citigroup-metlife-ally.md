@@ -8,6 +8,7 @@ Most of the largest banks passed their annual stress test, the Federal Reserve r
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/13/us-usa-banks-stresstests-idUSBRE82C19020120313?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120313&t=2&i=582107195&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82C1M0700)
 
 ### Related:
 

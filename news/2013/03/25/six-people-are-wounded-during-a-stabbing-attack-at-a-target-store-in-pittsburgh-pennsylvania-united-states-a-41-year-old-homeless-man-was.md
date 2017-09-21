@@ -9,6 +9,7 @@ A 16-year-old Tennessee girl on spring break was stabbed Monday inside a downtow
 
 1. [AP via Fox News](http://www.foxnews.com/us/2013/03/26/suspect-named-in-western-pa-target-store-stabbings-16-year-old-victim-in/)
 2. [The Huffington Post](http://www.huffingtonpost.com/2013/03/25/east-liberty-target-stabb_n_2951959.html)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2013/03/26/suspect-named-in-western-pa-target-store-stabbings-16-year-old-victim-in/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422521865818.jpg?ve=1)
 
 ### Related:
 

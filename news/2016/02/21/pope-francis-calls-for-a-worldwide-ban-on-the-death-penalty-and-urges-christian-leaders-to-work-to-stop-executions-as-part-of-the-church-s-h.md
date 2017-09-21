@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/02/21/Pope-Francis-calls-for-worldwide-death-penalty-ban/1691456075650/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/1691456075650/2016/1/b4b70eea23205f2b17c7518fd27f6d57/v1.5/Pope-Francis-calls-for-worldwide-death-penalty-ban.jpg)
 
 ### Related:
 

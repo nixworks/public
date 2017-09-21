@@ -8,6 +8,7 @@ The authorities in Italy issue fresh safety warnings as storms and torrential ra
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15615202)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56514000/jpg/_56514487_013284458-1.jpg)
 
 ### Related:
 

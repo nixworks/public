@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=technologyNews&storyID=2006-11-16T131905Z_01_PEK60024_RTRUKOC_0_US-CHINA-INTERNET.xml&src=111606_0854_ARTICLE_PROMO_also_on_reuters)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ James Rothman, Randy Schekman and Thomas Sudhof honoured for research on how the
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/10/nobel-prize-laureates-for-medicine-named-20131079281877835.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/10/7/2013107112128554621_20.jpg)
 
 ### Related:
 

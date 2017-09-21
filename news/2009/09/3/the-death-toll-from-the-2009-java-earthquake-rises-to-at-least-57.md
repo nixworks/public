@@ -9,6 +9,7 @@ Magnitude seven earthquake leave at least 46 people dead and thousands homeless.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099325923404861.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235100.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

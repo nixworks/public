@@ -8,6 +8,7 @@ Millions of Indians vote in the biggest day of the general election pitting the 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-27045770)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74298000/jpg/_74298855_74298854.jpg)
 
 ### Related:
 

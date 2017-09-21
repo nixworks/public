@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16598861)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57939000/gif/_57939010_haiti_portauprince_1010_304.gif)
 
 ### Related:
 

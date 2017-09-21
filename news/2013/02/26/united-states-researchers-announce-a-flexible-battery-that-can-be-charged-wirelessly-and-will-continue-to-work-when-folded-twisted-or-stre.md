@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Science_News/Technology/2013/02/26/Stretchable-battery-for-flexible-circuits/UPI-68851361910101/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/68851361910101/2013/1/13619092786194/v2.1/Stretchable-battery-for-flexible-circuits.jpg)
 
 ### Related:
 

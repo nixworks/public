@@ -8,6 +8,7 @@ The&#x20;UN&#x20;Security&#x20;Council&#x20;has&#x20;authorised&#x20;military&#x
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20121220-un-authorises-african-led-military-intervention-mali-al-qaeda-islamist-militants)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Mali%20new_0.jpg)
 
 ### Related:
 

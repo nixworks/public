@@ -8,6 +8,7 @@ Abhisit Vejjajiva orders investigation after eight soldiers killed in two days.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107341458143137.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

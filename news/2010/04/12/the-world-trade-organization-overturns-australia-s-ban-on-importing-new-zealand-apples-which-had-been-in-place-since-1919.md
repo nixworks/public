@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Age](http://news.theage.com.au/breaking-news-world/wto-overturns-aussie-ban-on-nz-apples-20100412-s45u.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

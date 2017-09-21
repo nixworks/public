@@ -9,6 +9,7 @@ Fiat Chrysler Automobiles NV (FCAU.N)(FCHA.MI) and the United Auto Workers said 
 
 1. [Detroit Free Press](http://www.freep.com/story/money/cars/chrysler/2015/10/08/uaw-strike-2015-fca/73550246/)
 2. [Reuters](http://www.reuters.com/article/2015/10/08/us-autos-uaw-idUSKCN0S11LV20151008)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151008&t=2&i=1085403785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB960ZQ)
 
 ### Related:
 

@@ -4,7 +4,7 @@
 _Context: Egypt, Gaza, Israeli-Palestinian conflict, Palestinian, electricity facilities, fighter jet_
 
 ### [ President George W. Bush proposes a change in United States Fish and Wildlife Service regulations which would allow American citizens to travel abroad to capture, kill, and import endangered species. The regulation would not allow Americans to do the same to endangered species inside the United States.](/news/2003/10/11/president-george-w-bush-proposes-a-change-in-united-states-fish-and-wildlife-service-regulations-which-would-allow-american-citizens-to-tr.md)
-_Context: George W. Bush, President, USFWS, endangered animal parts_
+_Context: George W. Bush, U.S. President, USFWS, endangered animal parts_
 
 ### [ German magazine "Der Spiegel" reports that Israel is preparing an attack on Iranian atomic plants.](/news/2003/10/11/german-magazine-der-spiegel-reports-that-israel-is-preparing-an-attack-on-iranian-atomic-plants.md)
 _Context: Der Spiegel, Iran, Israel_

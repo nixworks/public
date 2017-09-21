@@ -10,6 +10,7 @@ Gay and lesbian activists eluded Russian security services in a five-hour game o
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hBGJvxQRf-x0H3-hqRJknJhL4qRwD9G0FS0O1)
 2. [Reuters](http://www.reuters.com/article/idUSTRE64S0Y220100529)
 3. [Russia Today](http://rt.com/Top_News/2010-05-29/moscow-gay-pride-parade.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

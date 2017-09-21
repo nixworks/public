@@ -8,6 +8,7 @@ Tyrannosaurs had sensitive snouts that they may have enjoyed rubbing together wh
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/science/2017/mar/30/tyrannosaurus-rex-was-a-sensitive-lover-new-dinosaur-discovery-suggests)
+1. [Cover Image](https://i.guim.co.uk/img/media/b0f29f8a13e50a18a00f615d83e02f75d4ce90ab/105_0_2895_1737/master/2895.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fb532d9be16460aad137f3f9323f1d2f)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Eight blasts ripped through Patna on the day Narendra Modi held his Hunkar Rally
 ### Source:
 
 1. [Firstpost](http://www.firstpost.com/india/patna-blasts-live-eighth-explosion-hits-gandhi-maidan-at-5-10-pm-1196755.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2013/10/Patna_Blast.jpg)
 
 ### Related:
 

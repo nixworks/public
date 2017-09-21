@@ -8,6 +8,7 @@ Iranian president tells crowds celebrating anniversary of 1979 revolution to exp
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201221192922203166.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/11/201221194710639734_20.jpg)
 
 ### Related:
 

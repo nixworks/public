@@ -8,6 +8,7 @@ The remains of Hurricane Gonzalo will hit the UK tonight, bringing gales and tor
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/home-news/hurricane-gonzalo-when-and-where-will-it-hit-the-uk-and-how-strong-will-it-be-9805272.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/10/17/22/Hurricane-Gonzalo-6.jpg)
 
 ### Related:
 

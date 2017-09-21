@@ -8,6 +8,7 @@ On Wednesday, U.S. and Cuban officials signed an environmental accord in Havana,
 ### Source:
 
 1. [UPI](http://www.upi.com/Science_News/2015/11/18/Cuba-US-sign-first-environmental-accord-since-diplomatic-thaw/9021447879699/?spt=hs&or=sn)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/9021447879699/2015/1/14478842112885/v2.1/Cuba-US-sign-first-environmental-accord-since-diplomatic-thaw.jpg)
 
 ### Related:
 

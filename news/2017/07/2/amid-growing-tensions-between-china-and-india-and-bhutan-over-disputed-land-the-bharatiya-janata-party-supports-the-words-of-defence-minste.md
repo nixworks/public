@@ -8,6 +8,7 @@ Arun Jaitley&#039;s statement on China 1962 War &#039;self-explanatory&#039; BJP
 ### Source:
 
 1. [DNA India](http://www.dnaindia.com/india/report-arun-jaitley-s-statement-on-china-1962-war-self-explanatory-bjp-2489906)
+1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)
 
 ### Related:
 

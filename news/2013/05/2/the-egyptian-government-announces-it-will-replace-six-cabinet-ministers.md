@@ -8,6 +8,7 @@ A limited cabinet reshuffle will see six ministers replaced in Egypt, state news
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/01/us-egypt-cabinet-reshuffle-idUSBRE94016J20130501)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130501&t=2&i=727792475&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9401SEV00)
 
 ### Related:
 

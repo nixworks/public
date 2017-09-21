@@ -8,6 +8,7 @@ The U.S. State Department has approved a package of potential arms sales worth m
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-bahrain-defense/u-s-state-department-approves-3-8-billion-in-arms-sales-to-bahrain-u-s-official-idUSKCN1BJ2L9)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

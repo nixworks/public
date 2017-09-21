@@ -9,6 +9,7 @@ The state of Israel is responsible for the death of a Palestinian girl hit by a 
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108171426594613.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10994441)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

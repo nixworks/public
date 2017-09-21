@@ -8,6 +8,7 @@ Chinese President Hu Jintao goes to Central Asia on Tuesday for a summit and war
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-28967620070814)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070814&t=2&i=1292522&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2007-08-14T080510Z_01_NOOTR_RTRMDNC_0_India-289676-1)
 
 ### Related:
 

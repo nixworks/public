@@ -8,6 +8,7 @@ Sen. Patrick Leahy was officially sworn in as the third-in-line for the presiden
 ### Source:
 
 1. [The Hill](http://thehill.com/video/senate/273461-biden-swears-in-leahy-as-third-in-line-for-the-presidency)
+1. [Cover Image](http://thehill.com/sites/default/files/LehaeySwearingin-MovieThumbnail.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Times Live](http://www.timeslive.co.za/world/2016/04/04/Icelandic-PM-refuses-to-resign-over-Panama-Papers-leak)
+1. [Cover Image](http://www.timeslive.co.za/Feeds/Reuters_Images/2016/04/04/2016-04-04t132517z_01_ink13_rtridsp_3_panama-tax-iceland-04-04-2016-15-04-47-901.jpg/ALTERNATES/crop_630x432/2016-04-04T132517Z_01_INK13_RTRIDSP_3_PANAMA-TAX-ICELAND-04-04-2016-15-04-47-901.jpg)
 
 ### Related:
 

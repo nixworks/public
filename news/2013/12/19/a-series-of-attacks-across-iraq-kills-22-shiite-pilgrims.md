@@ -8,6 +8,7 @@ Three suicide bombers detonate explosives belts among Shiite pilgrims in Iraq, k
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Dec-19/241675-suicide-bomber-hits-shiites-as-iraq-unrest-kills-15.ashx#axzz2nv7kHFew)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/12/19/234651_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

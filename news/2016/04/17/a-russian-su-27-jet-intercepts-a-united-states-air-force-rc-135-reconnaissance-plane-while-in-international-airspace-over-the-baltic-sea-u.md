@@ -8,6 +8,7 @@ WASHINGTON • A United States Air Force reconnaissance plane was intercepted by
 ### Source:
 
 1. [AFP via ''The Strait Times](http://www.straitstimes.com/world/united-states/close-call-as-russian-jet-intercepts-us-recon-plane)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

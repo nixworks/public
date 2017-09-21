@@ -8,6 +8,7 @@ U.S. president Barak Obama promised Monday to veto any efforts to get rid of aut
 ### Source:
 
 1. [ (CBC](http://www.cbc.ca/news/world/story/2011/11/21/us-supercommittee-deadline.html)
+1. [Cover Image](https://i.cbc.ca/1.2015324.1381652304!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-obama-supercommittee-cp.jpg)
 
 ### Related:
 

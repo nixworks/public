@@ -8,6 +8,7 @@ International concern is raised over a Kosovo police bid to take over border cro
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-europe-14303165)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54285000/jpg/_54285755_012536408-2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A convicted child killer is found guilty of the murder of a teenager in Berkshir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-berkshire-18861198)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61246000/jpg/_61246234_yolandewaddingtonschoolphoto.jpg)
 
 ### Related:
 

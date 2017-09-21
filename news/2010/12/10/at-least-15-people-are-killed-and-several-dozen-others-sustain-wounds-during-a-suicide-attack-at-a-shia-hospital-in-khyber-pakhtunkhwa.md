@@ -8,6 +8,7 @@ Suicide attack at Shia hospital in Khyber Pakhtunkhwa province kills at least 15
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/2010121012392823908.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/10/20101210125851830833_20.jpg)
 
 ### Related:
 

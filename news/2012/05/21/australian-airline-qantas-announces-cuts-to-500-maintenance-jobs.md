@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/business/breaking-news/get-behind-job-cuts-qantas-tells-unions/story-e6frfkur-1226362458740)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

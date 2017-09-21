@@ -8,6 +8,7 @@ A top U.N. official warned on Wednesday of &quot;ethnic-religious cleansing&quot
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/12/us-central-african-idUSBREA1B1PF20140212)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140212&t=2&i=837763221&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1B1CT900)
 
 ### Related:
 

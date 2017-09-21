@@ -10,6 +10,7 @@ Three Russian citizens have been arrested in southern Turkey during a raid on a 
 1. [ABC News](http://abcnews.go.com/International/russians-arrested-turkey-isis-terror-links/story?id=36261418)
 2. [Leader Call](http://leadercall.com/2016/01/turkish-police-detain-3-russians-suspected-of-isil-links/)
 3. [Reuters](http://www.reuters.com/article/us-turke-blast-arrests-idUSKCN0UR0PM20160113)
+3. [Cover Image](http://a.abcnews.com/images/International/GTY_turkey_attack_mm_160113_16x9_992.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Associated Press](http://www.foxnews.com/story/0,2933,202512,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

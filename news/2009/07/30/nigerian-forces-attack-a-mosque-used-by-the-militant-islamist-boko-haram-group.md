@@ -11,6 +11,7 @@
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6732982.ece)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6734046.ece)
 4. [This Day](http://www.thisdayonline.com/nview.php?id=150176)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

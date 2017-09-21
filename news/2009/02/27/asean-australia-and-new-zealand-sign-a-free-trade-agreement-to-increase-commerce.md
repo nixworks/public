@@ -13,6 +13,7 @@
 4. [MarketWatch](http://www.marketwatch.com/news/story/Government-boost-its-stake-Citigroup/story.aspx?guid=%7B325D60CB%2DF602%2D40B4%2DA746%2DFBDA4917EB50%7D)
 5. [MarketWatch](http://www.marketwatch.com/news/story/Japans-January-industrial-output-tumbles/story.aspx?guid=%7BD08AF8DF%2D6E16%2D4572%2DBD02%2D3724DDB45719%7D&dist=hplatest)
 6. [MarketWatch](http://www.marketwatch.com/news/story/us-economy-contracts-worse-than-projected-62/story.aspx?guid=%7BF68D38CA%2D2BAE%2D45B0%2DA247%2D760432E0BF1A%7D&siteid=bnbh)
+6. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

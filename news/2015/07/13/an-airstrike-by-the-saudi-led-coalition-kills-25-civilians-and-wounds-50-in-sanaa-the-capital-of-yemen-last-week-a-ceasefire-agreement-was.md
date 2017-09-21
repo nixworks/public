@@ -9,6 +9,7 @@
 
 1. [CTV News via AP](http://www.ctvnews.ca/world/saudi-led-airstrike-kills-25-civilians-in-yemen-despite-un-truce-1.2466948)
 2. [STL Today](http://www.stltoday.com/news/yemen-officials-saudi-led-coalition-strike-kills-people/article_bd2cd354-6513-55a9-adf7-15b1eb05f0f0.html)
+2. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.2466957.1436806910!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

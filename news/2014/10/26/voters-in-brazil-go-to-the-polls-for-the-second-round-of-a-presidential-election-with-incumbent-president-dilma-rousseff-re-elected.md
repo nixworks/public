@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_BRAZIL_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Belfast Tellegraph](http://www.belfasttelegraph.co.uk/news/world-news/incumbent-leads-presidential-race-30694703.html)
+2. [Cover Image](http://www.belfasttelegraph.co.uk/news/world-news/article30694702.ece/ALTERNATES/h342/PANews%20BT_P-03861887-8135-42f8-b969-ab90405bd665_I1.jpg)
 
 ### Related:
 

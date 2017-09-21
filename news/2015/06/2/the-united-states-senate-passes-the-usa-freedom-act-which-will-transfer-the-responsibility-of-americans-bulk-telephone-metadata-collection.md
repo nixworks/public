@@ -8,6 +8,7 @@ Bulk collection of Americans’ phone records to end as US Senate passes USA Fre
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/us-news/2015/jun/02/congress-surveillance-reform-edward-snowden)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/1/1433196976935/37794c31-6dbf-4b16-a0e3-db39c4d99ebb-620x372.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a62024170eff28c27f8f868df323f0d3)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez flew to Cuba on Monday for cancer surgery, with
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/10/us-venezuela-chavez-idUSBRE8B90CB20121210)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121210&t=2&i=683135778&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B9176B00)
 
 ### Related:
 

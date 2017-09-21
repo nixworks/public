@@ -8,6 +8,7 @@ Hamilton is being targeted this weekend by striking postal workers, the second c
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2011/06/02/canada-post-strike.html)
+1. [Cover Image](https://i.cbc.ca/1.2009892.1381564040!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-post-solo-wpg-cp-852-3col.jpg)
 
 ### Related:
 

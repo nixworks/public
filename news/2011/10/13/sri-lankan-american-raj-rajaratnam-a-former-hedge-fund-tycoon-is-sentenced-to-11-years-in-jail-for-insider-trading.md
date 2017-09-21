@@ -8,6 +8,7 @@ Raj Rajaratnam, a self-made hedge fund tycoon convicted in the biggest Wall Stre
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/13/us-galleon-rajaratnam-idUSTRE79C0MC20111013?feedType=RSS&feedName=domesticNews&dlvrit=60573)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111013&t=2&i=515269370&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79C1I7Z00)
 
 ### Related:
 

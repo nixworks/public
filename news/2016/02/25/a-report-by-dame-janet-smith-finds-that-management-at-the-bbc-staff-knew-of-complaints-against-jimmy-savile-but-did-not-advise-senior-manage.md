@@ -8,6 +8,7 @@ The BBC missed opportunities to stop &quot;monstrous&quot; abuse by DJ Jimmy Sav
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-35658398)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CDA4/production/_88444625_savile-hall-compo-2.jpg)
 
 ### Related:
 

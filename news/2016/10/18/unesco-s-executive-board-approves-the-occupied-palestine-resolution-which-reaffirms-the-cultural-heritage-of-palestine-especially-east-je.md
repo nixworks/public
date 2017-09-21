@@ -10,6 +10,7 @@ PARIS (AP) — UNESCO&#039;s executive board on Tuesday approved a resolution th
 1. [AP](http://bigstory.ap.org/article/d14dbd765a804f76b7dd63d8d7487e42/unesco-expected-adopt-controversial-jerusalem-resolution)
 2. [BBC](http://www.bbc.com/news/world-middle-east-37697108)
 3. [Haaretz](http://www.haaretz.com/israel-news/.premium-1.748013)
+3. [Cover Image](http://binaryapi.ap.org/2f663bc38c444359809f9989da57ae45/460x.jpg)
 
 ### Related:
 

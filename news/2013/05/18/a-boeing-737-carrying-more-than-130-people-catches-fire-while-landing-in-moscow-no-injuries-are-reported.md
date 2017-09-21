@@ -8,6 +8,7 @@ A plane belonging to UTair has caught fire landing at Moscow airport.
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/737-catches-fire-landing-in-Moscow-20130518)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2128/c3a98ad64f5c4128bedb4e586b774fbd.jpg)
 
 ### Related:
 

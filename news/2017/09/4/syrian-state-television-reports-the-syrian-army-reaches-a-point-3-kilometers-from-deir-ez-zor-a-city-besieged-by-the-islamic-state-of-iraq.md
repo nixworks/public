@@ -9,6 +9,7 @@ With a sudden lunge through jihadist lines, the Syrian military and its allies o
 
 1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-russia/two-russian-soldiers-killed-by-shelling-in-syrias-deir-al-zor-province-ifax-idUSKCN1BF2F7)
 2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria/syrian-army-thrusts-east-to-break-siege-of-deir-al-zor-city-idUSKCN1BF1G0)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170904&t=2&i=1199898232&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED830WE)
 
 ### Related:
 

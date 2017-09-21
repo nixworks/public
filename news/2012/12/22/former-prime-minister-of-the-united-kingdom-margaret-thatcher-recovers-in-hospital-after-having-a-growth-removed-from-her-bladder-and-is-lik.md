@@ -9,6 +9,7 @@ Former UK prime minister Margaret Thatcher is recovering in hospital after havin
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/2012122251711402952.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-20820887)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64909000/jpg/_64909799_64909798.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@ Former UK prime minister Margaret Thatcher is recovering in hospital after havin
 7. [Personal documents released from the papers of Margaret Thatcher show the former British Prime Minister held a private meeting with Rupert Murdoch at Chequers weeks before his purchase of Times Newspapers in 1981. ](/news/2012/03/17/personal-documents-released-from-the-papers-of-margaret-thatcher-show-the-former-british-prime-minister-held-a-private-meeting-with-rupert-m.md) _Context: Margaret Thatcher, Prime Minister_
 8. [Government documents reveal then-Prime Minister of the United Kingdom Margaret Thatcher was told a senior Merseyside police officer blamed "drunken Liverpool fans" for causing the Hillsborough disaster. Police have since been found to blame. ](/news/2012/03/15/government-documents-reveal-then-prime-minister-of-the-united-kingdom-margaret-thatcher-was-told-a-senior-merseyside-police-officer-blamed.md) _Context: Margaret Thatcher, Prime Minister_
 9. [ Former Prime Minister of the United Kingdom Margaret Thatcher has left hospital after being given a clean bill of health by doctors after feeling faint yesterday. ](/news/2005/12/8/former-prime-minister-of-the-united-kingdom-margaret-thatcher-has-left-hospital-after-being-given-a-clean-bill-of-health-by-doctors-after-f.md) _Context: Margaret Thatcher, Prime Minister_
-10. [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md) _Context: Prime Minister_
+10. [ Former British Prime Minister Margaret Thatcher posts a 2 million rand (USD 300,000) bond for her son, Sir Mark Thatcher, who was under house arrest in Cape Town, South Africa for allegedly funding a coup plot in Equatorial Guinea. ](/news/2004/09/1/former-british-prime-minister-margaret-thatcher-posts-a-2-million-rand-usd-300-000-bond-for-her-son-sir-mark-thatcher-who-was-under-hou.md) _Context: Margaret Thatcher, Prime Minister_

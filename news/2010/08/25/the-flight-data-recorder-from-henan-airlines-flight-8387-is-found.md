@@ -8,6 +8,7 @@ The flight recorder of the plane that crashed in the north-eastern Chinese provi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11080216)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48856000/jpg/_48856489_010031915-1.jpg)
 
 ### Related:
 

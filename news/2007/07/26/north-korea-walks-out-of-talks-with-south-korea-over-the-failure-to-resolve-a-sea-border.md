@@ -8,6 +8,7 @@ North Korean officials stormed out of talks with their South Korean counterparts
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,290853,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

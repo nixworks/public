@@ -8,6 +8,7 @@ JAKARTA, Indonesia (AP) — Tens of thousands of Indonesians rallied in the cent
 ### Source:
 
 1. [AP via WTOP](http://wtop.com/asia/2016/12/indonesians-rally-for-tolerance-after-blasphemy-protests/)
+1. [Cover Image](http://wtop.com/wp-content/uploads/2016/12/Indonesia-Unity-Rally.jpeg)
 
 ### Related:
 

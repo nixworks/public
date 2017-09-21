@@ -9,6 +9,7 @@ U.S. officials are divided over the recent violence in South Ossetia. The U.S. S
 
 1. [RT via YouTube](http://www.youtube.com/watch?v=vIZu-rLLtlY)
 2. [RT](http://www.russiatoday.com/news/news/30197)
+2. [Cover Image](https://i.ytimg.com/vi/vIZu-rLLtlY/hqdefault.jpg)
 
 ### Related:
 

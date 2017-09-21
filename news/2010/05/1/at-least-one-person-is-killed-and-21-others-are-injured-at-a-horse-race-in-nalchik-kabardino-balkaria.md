@@ -8,6 +8,7 @@ At least one person killed and 21 others injured at horse race in Kabardino-Balk
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/20105111349544713.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

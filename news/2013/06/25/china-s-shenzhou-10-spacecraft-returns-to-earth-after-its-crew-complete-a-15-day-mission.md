@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-205_162-57591038/chinese-astronauts-complete-space-mission-return-to-earth/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/06/25/e39e400b-1c50-11e3-9918-005056850598/china-landing-2.jpg)
 
 ### Related:
 

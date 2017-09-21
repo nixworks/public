@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-malaysia-scandal-protests-idUSKBN13D2IM)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161119&t=2&i=1162312794&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAI02Y)
 
 ### Related:
 

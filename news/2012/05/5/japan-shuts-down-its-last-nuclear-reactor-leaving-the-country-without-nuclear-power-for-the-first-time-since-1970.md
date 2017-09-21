@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/05/05/uk-nuclear-japan-idUKBRE84405B20120505)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20120505&t=2&i=603276999&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-05-05T084429Z_1_CBRE8440OAB00_RTROPTP_0_JAPAN-NUCLEAR)
 
 ### Related:
 

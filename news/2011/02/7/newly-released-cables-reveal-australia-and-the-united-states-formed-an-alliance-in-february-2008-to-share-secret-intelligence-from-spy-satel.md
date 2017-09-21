@@ -10,6 +10,7 @@ AUSTRALIA and the US have formed a partnership to share top-secret intelligence 
 1. [The Guardian](http://www.guardian.co.uk/media/2011/feb/07/guardian-moscow-correspondent-expelled-from-russia?CMP=twt_gu)
 2. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/australia-and-the-us-agree-on-a-spy-satellite-deal-20110206-1aii0.html)
 3. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/poodle-who-holds-key-to-a-nations-future-20110206-1aii6.html)
+3. [Cover Image](http://www.smh.com.au/content/dam/images/1/6/k/s/d/image.related.thumbnail.320x214.1aii0.png/1299813621407.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A local resident of the town where a train derailed, killing 78 people, says the
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/07/28/spain-train-driver-speed/2593407/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

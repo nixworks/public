@@ -9,6 +9,7 @@ An emerging Egyptian terrorist group has claimed responsibility for a bombing th
 
 1. [Reuters](http://www.reuters.com/article/us-egypt-violence-blast-idUSKBN13Y0SU)
 2. [The Independent](http://www.independent.co.uk/news/world/africa/cairo-bombing-giza-pyramids-explosion-hasm-movement-claim-police-killed-isis-attacks-egypt-a7465386.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/09/13/cairo-bombing.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The incident occurred in Gaddafi Town Landhi when Zakaria Express collided with 
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN_TRAIN_ACCIDENT?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Geo tv](https://www.geo.tv/latest/119554-At-least-21-killed-65-injured-in-Karachi-train-collision)
+2. [Cover Image](https://www.geo.tv/assets/uploads/updates/2016-11-03/119554_122628_updates.JPG)
 
 ### Related:
 

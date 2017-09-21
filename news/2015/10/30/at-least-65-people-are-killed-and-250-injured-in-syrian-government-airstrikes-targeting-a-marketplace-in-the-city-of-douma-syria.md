@@ -12,6 +12,7 @@ Another 250 people also wounded in airstrikes and missile attacks on crowded mar
 3. [Reuters](http://www.reuters.com/article/2015/10/30/us-mideast-crisis-syria-missile-idUSKCN0SO0W020151030?feedType=RSS&feedName=topNews)
 4. [Reuters](http://www.reuters.com/article/2015/10/30/us-mideast-crisis-syria-usa-idUSKCN0SO1VD20151030)
 5. [WSJ](http://www.wsj.com/articles/at-least-50-syrians-killed-in-government-attack-1446205919)
+5. [Cover Image](https://si.wsj.net/public/resources/images/BN-LA177_syria1_TOP_20151030080246.jpg)
 
 ### Related:
 

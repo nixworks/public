@@ -8,6 +8,7 @@ The suspect, a Belgian of Moroccan origin, was arrested in the port city of Moha
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1625074/paris-attacks-suspect-arrestd-in-morocco)
+1. [Cover Image](http://e3.365dm.com/16/01/1600x900/rtx1v9p9-1-2048x1536_3402067.jpg?20160118145414)
 
 ### Related:
 

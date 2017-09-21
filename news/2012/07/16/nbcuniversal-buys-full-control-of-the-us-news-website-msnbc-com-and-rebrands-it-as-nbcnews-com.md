@@ -8,6 +8,7 @@ NBC News has acquired full control of msnbc.com and its digital network from Mic
 ### Source:
 
 1. [NBC News](http://www.msnbc.msn.com/id/48180815/ns/business-us_business/#.UANxyfXjI)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Sections/NEWS/z_Personal/AJohnson/z_Archive/ELECTION RUNNING/120713-capus-v.standard.jpg)
 
 ### Related:
 

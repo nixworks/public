@@ -8,6 +8,7 @@ The Milky Way is set to collide with its closest neighbor, the Andromeda galaxy,
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-milky-way-andromeda-galaxy-hubble-milkomeda-20120531,0,2464034.story)
+1. [Cover Image](http://www.trbimg.com/img-4fc81831/turbine/la-sci-sn-milky-way-andromeda-galaxy-hubble-mi-001/600)
 
 ### Related:
 

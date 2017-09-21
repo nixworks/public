@@ -9,6 +9,7 @@ Twelve people die and dozens are injured as a storm hits the US Midwest, bringin
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hDOejM_NICVTDxd3OwIIQ3i8LFDw?docId=da1b2e72cd1b4f73ae34e7bbd071966f)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-17210325)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58795000/jpg/_58795953_58795952.jpg)
 
 ### Related:
 

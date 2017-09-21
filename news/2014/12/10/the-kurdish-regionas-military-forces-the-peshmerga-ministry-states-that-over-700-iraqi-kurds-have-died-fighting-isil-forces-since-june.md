@@ -8,6 +8,7 @@ Iraq’s autonomous Kurdish region said Wednesday that 727 of its fighters had b
 ### Source:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Dec-11/280639-over-700-iraqi-kurd-fighters-killed-since-june-isis-offensive.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/12/10/372681_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

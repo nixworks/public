@@ -9,6 +9,7 @@ A 97-year-old Hungarian, Sandor Kepiro, goes on trial in Budapest accused of mas
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13292464)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=219327)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52540000/jpg/_52540608_52540607.jpg)
 
 ### Related:
 

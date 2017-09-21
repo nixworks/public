@@ -8,6 +8,7 @@ India said on Friday it would give Tanzania $180 million to upgrade water suppli
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2011/05/27/idINIndia-57339020110527)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110527&t=2&i=423400240&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-05-27T214320Z_01_NOOTR_RTRMDNC_0_India-573390-1)
 
 ### Related:
 

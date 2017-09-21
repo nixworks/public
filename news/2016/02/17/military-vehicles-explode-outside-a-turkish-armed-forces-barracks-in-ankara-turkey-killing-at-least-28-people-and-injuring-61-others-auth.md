@@ -11,6 +11,7 @@ A large explosion in the Turkish capital, Ankara, has left at least 28 people de
 2. [CNN](http://www.cnn.com/2016/02/17/asia/turkey-ankara-explosion/index.html)
 3. [Haaretz](http://www.haaretz.com/middle-east-news/1.703936)
 4. [Time](http://time.com/4227608/ankara-turkey-explosion/)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10ACE/production/_88320386_c76b23c9-c914-43b2-94aa-95b516dc384c.jpg)
 
 ### Related:
 

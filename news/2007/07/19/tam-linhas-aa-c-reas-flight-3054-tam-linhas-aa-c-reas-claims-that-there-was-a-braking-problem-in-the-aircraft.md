@@ -8,6 +8,7 @@ The passenger plane that crashed and burned on landing in Brazil killing about 2
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/20/1983888.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

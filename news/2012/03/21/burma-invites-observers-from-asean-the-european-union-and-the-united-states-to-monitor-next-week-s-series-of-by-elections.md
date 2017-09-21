@@ -8,6 +8,7 @@ The Burmese government has cleared the way for international observers to monito
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/9157981/Burma-clears-way-for-international-observers-for-elections.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02173/burma_2173699k.jpg)
 
 ### Related:
 

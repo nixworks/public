@@ -8,6 +8,7 @@ A state-affiliated broadcaster in Ethiopia says at least 50 people have been kil
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2016/05/10/dozens-killed-in-ethiopia-landslides-flooding-amid-rains.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

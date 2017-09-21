@@ -9,6 +9,7 @@ A plane has crashed in Malta, killing all five people on board in the country&#0
 
 1. [The Guardian](https://www.theguardian.com/world/2016/oct/24/plane-carrying-eu-border-officials-crashes-in-malta-five-dead)
 2. [The Independent](http://www.independent.co.uk/news/world/europe/malta-plane-cras-eu-frontex-border-officials-killed-light-aircraft-luqa-libya-after-takeoff-a7377216.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/10/24/08/malta-plane-crash.jpg)
 
 ### Related:
 

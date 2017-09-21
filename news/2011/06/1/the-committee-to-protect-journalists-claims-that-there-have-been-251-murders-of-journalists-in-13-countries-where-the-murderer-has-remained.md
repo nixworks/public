@@ -8,6 +8,7 @@ More than 251 journalists in 13 countries were killed &quot;with impunity&quot; 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13611500)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53090000/jpg/_53090217_journomurderedafp-casket464x261.jpg)
 
 ### Related:
 

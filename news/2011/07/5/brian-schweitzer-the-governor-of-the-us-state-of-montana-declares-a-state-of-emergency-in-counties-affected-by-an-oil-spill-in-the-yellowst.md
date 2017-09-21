@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/US/07/05/montana.oil.spill/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/07/05/montana.oil.spill/tzvids.mont.gov.gi.jpg)
 
 ### Related:
 

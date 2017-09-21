@@ -8,6 +8,7 @@ Sinai is facing a series of terrorist attacks by Islamists since the ouster of e
 ### Source:
 
 1. [Indian Express](http://indianexpress.com/article/world/middle-east-africa/8-killed-25-injured-in-explosions-in-egypts-sinai/)
+1. [Cover Image](http://images.indianexpress.com/2014/07/bomb-blast-t.jpg?w=209)
 
 ### Related:
 

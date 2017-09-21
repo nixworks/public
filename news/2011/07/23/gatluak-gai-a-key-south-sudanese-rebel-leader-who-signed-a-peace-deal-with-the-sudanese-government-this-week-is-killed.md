@@ -8,6 +8,7 @@ South Sudan rebel leader Col Gatluak Gai is killed, a week after he agreed to a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14261525)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54229000/jpg/_54229509_012414230-1.jpg)
 
 ### Related:
 

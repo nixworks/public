@@ -9,6 +9,7 @@ A Tibetan environmentalist becomes the third brother in his family to be jailed 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10498734.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6620EZ20100703)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

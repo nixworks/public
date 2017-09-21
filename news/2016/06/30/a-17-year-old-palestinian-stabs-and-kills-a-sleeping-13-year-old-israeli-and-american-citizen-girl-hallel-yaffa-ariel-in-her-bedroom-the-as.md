@@ -10,6 +10,7 @@ A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a set
 1. [AP via ''Post-Bulletin](http://www.postbulletin.com/news/world/palestinian-kills-israeli-girl-sleeping-in-her-bedroom/article_55bfca06-268a-5bf0-9f2e-6766f32c14cb.html)
 2. [Fox](http://www.foxnews.com/world/2016/06/30/israeli-girl-13-stabbed-to-death-in-bedroom-by-palestinian-attacker.html)
 3. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKCN0ZG0R4)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160630&t=2&i=1143617891&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5T1JF)
 
 ### Related:
 

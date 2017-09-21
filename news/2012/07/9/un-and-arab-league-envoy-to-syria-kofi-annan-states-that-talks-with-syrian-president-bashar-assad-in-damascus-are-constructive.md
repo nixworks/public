@@ -10,6 +10,7 @@
 1. [Al Arabiya](http://english.alarabiya.net/articles/2012/07/09/225391.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18764789)
 3. [Yahoo! News](http://news.yahoo.com/homs-qusayr-battered-31-killed-syria-ngo-160525893.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61448000/jpg/_61448707_61448706.jpg)
 
 ### Related:
 

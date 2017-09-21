@@ -8,6 +8,7 @@
 ### Source:
 
 1. [India Today](http://indiatoday.intoday.in/story/china-releases-new-map-territorial-claims-stand-off-site/1/991733.html)
+1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/china_video_647_070117102441.jpg)
 
 ### Related:
 

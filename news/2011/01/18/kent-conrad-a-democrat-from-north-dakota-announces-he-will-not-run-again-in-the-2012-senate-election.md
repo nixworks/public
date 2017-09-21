@@ -9,6 +9,7 @@ Sen. Kent Conrad said Tuesday he wants to concentrate on the problems facing Ame
 
 1. [Fox News](http://www.foxnews.com/politics/2011/01/18/sen-kent-conrad-announce-retirement-tuesday/)
 2. [The New York Times](http://cityroom.blogs.nytimes.com/2011/01/18/lieberman-will-not-run-for-re-election/?hp)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2011/01/18/sen-kent-conrad-announce-retirement-tuesday/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1447049808344.jpg?ve=1)
 
 ### Related:
 

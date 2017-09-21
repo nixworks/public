@@ -8,6 +8,7 @@ A powerful earthquake struck northeast Iran on Wednesday near the holy city of M
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-iran-quake-idUSKBN1770K7)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

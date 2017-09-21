@@ -10,6 +10,7 @@ US defence secretary expresses deep concern about China’s push to claim resour
 1. [AP via News24](http://www.news24.com/news24/World/News/Chinese-weaponry-spotted-on-artificial-island-20150530)
 2. [CNN](http://edition.cnn.com/2015/05/28/politics/china-ashton-carter-south-china-sea-islands/index.html)
 3. [The Guardian](http://www.theguardian.com/us-news/2015/may/30/us-defense-chief-ash-carter-says-chinas-island-building-erodes-security)
+3. [Cover Image](https://i.guim.co.uk/img/media/5420613a351b644dd962d85b405a75d1fd969208/0_0_2124_1275/2124.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fc3e818183f1d58fec5da51bbc848718)
 
 ### Related:
 

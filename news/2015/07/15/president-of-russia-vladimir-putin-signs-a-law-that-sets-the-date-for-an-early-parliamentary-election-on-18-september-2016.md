@@ -8,6 +8,7 @@ Russian President Vladimir Putin set the date for early parliamentary elections 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-07-15/putin-signs-law-on-early-parliamentary-elections-amid-recession)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

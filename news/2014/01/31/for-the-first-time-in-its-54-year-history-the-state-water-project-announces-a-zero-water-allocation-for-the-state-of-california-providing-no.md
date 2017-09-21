@@ -9,6 +9,7 @@ Officials Friday said that for the first time ever, the State Water Project that
 
 1. [LA Times](http://www.latimes.com/local/lanow/la-me-ln-california-drought-zero-water-allocation-20140131,0,4678128.story#axzz2s1jCLQsL)
 2. [Mercury News](http://www.mercurynews.com/science/ci_25036886/california-drought-state-water-project-will-deliver-no)
+2. [Cover Image](http://www.trbimg.com/img-52ec20bd/turbine/la-me-ln-california-drought-zero-water-allocation-20140131)
 
 ### Related:
 

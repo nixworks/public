@@ -8,6 +8,7 @@ South Sudanese rebels and the army have accused each other for the second time t
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/08/28/southsudan-unrest-idINKCN0QX0LP20150828)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

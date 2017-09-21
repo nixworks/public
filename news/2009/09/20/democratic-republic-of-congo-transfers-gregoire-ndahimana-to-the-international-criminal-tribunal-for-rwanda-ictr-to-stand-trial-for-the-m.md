@@ -8,6 +8,7 @@ Democratic Republic of Congo transferred to the International Criminal Tribunal 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE58J1E520090920)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

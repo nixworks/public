@@ -14,6 +14,7 @@
 5. [Sky News](http://news.sky.com/skynews/Home/World-News/Kyrgyzstan-Appeals-For-Russian-Help-As-Ethnic-Fighting-Kills-At-Least-69-People/Article/201006215648290?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_15648290_Kyrgyzstan_Appeals_For_Russian_Help_As_Ethnic_Fighting_Kills_At_Least_69_People)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/jun/12/kyrgyzstan-russia-help-ethnic-riots)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/12/c_13347621.htm)
+7. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

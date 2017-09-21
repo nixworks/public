@@ -9,6 +9,7 @@
 
 1. [CBS News](http://www.cbsnews.com/news/young-girl-killed-car-plows-into-pizzeria-france/)
 2. [The Independent](http://www.independent.co.uk/news/world/girl-killed-seine-et-marne-france-paris-car-slams-into-crowd-pizzeria-a7893481.html)
+2. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/08/14/bc7a8409-360c-4ca7-898c-f7b4e3e0ae23/rts1bsyi.jpg)
 
 ### Related:
 

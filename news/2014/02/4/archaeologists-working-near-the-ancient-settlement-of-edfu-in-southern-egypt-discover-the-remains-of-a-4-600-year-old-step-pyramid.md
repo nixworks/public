@@ -8,6 +8,7 @@ Archaeologists working near the ancient settlement of Edfu, in southern Egypt, h
 ### Source:
 
 1. [LiveScience via Fox News](http://www.foxnews.com/science/2014/02/04/4600-year-old-step-pyramid-uncovered-in-egypt/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2014/02/04/4600-year-old-step-pyramid-uncovered-in-egypt/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422653179258.jpg?ve=1)
 
 ### Related:
 

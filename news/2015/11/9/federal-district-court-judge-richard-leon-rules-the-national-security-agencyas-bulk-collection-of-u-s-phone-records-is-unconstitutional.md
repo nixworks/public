@@ -9,6 +9,7 @@ A U.S. federal judge on Monday for the first time ordered the National Security 
 
 1. [Foreign Policy](http://foreignpolicy.com/2015/11/09/judge-orders-limits-on-nsa-spy-program-20-days-before-it-ends/)
 2. [Reuters](http://in.reuters.com/article/2015/11/09/us-usa-nsa-injunction-idINKCN0SY2EA20151109)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

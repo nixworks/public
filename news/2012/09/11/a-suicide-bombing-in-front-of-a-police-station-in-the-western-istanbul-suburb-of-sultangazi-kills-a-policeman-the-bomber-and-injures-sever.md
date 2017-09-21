@@ -8,6 +8,7 @@ A Turkish leftist group says it carried out a suicide bombing outside a police s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19555413)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62816000/jpg/_62816345_62816344.jpg)
 
 ### Related:
 

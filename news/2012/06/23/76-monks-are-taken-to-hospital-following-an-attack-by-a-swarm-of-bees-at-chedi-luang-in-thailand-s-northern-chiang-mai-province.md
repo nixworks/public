@@ -8,6 +8,7 @@ Dozens of novice monks are taken to hospital, some in a serious condition, after
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18568448)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61103000/gif/_61103505_thailand_chiangmai_1608.gif)
 
 ### Related:
 

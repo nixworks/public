@@ -11,6 +11,7 @@ Document detailing attacks by Rwandan and Ugandan troops against civilians toned
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/2010101129611907.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-11450093)
 4. [The Guardian](http://www.guardian.co.uk/law/2010/oct/01/uganda-un-war-crimes-congo)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/1/201010113376458734_20.jpg)
 
 ### Related:
 

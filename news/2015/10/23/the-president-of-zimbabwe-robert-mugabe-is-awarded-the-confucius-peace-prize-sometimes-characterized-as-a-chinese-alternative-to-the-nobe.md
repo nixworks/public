@@ -8,6 +8,7 @@ Confucius peace prize chairman defends decision to give award to leader accused 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/oct/22/zimbabwes-robert-mugabe-awarded-chinas-nobel-peace-prize)
+1. [Cover Image](https://i.guim.co.uk/img/media/77a9041e39bc1516b073c1f53c9428b3dbb08a7b/0_45_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=67b90347f7900ac33c7dc58f7e1883a2)
 
 ### Related:
 

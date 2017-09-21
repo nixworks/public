@@ -8,6 +8,7 @@ At least 43 people are killed when a powerful suicide bombing rips through the Y
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Oct-09/273454-at-least-20-killed-in-suicide-bombing-in-yemeni-capital-witness.ashx#axzz3FdAGRdqq)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/10/09/354688_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

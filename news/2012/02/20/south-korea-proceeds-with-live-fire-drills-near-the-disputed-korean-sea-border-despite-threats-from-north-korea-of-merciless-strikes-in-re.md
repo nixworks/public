@@ -8,6 +8,7 @@ NORTH Korea has threatened to launch &quot;merciless&quot; strikes if South Kore
 ### Source:
 
 1. [AP via News Limited](http://www.news.com.au/breaking-news/nkorea-warns-south-over-live-fire-drill/story-e6frfku0-1226275768599)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

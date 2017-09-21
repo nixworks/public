@@ -8,6 +8,7 @@ The blast occurred at a checkpoint near the presidential palace just as the new 
 ### Source:
 
 1. [Citizen](http://citizen.co.za/news/news-africa/1463969/powerful-explosion-rocks-mogadishu-say-police/)
+1. [Cover Image](http://citizen.co.za/wp-content/uploads/sites/18/2017/02/Shabaab-militants-were-driven-out-of-Mogadishu-in-2011-but-continue-to-launch-terror-attacks-inside-389x259.jpg)
 
 ### Related:
 

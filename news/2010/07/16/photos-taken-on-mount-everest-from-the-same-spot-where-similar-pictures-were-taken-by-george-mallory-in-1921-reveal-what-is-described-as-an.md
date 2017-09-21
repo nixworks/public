@@ -8,6 +8,7 @@ Photos taken by a mountaineer on Everest from the same spot where similar pictur
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10660130)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48382000/jpg/_48382781_48382782.jpg)
 
 ### Related:
 

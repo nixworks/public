@@ -8,6 +8,7 @@ A United Nations human rights body accused Israeli forces on Thursday of mistrea
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/20/us-palestinian-israel-children-idUSBRE95J0FR20130620)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130620&t=2&i=743101734&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95J0VOH00)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [Big Pond News](http://bigpondnews.com/articles/World/2010/09/26/Airline_bomb_suspect_released_517979.html)
 3. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/09/25/pakistan.canada.flight/index.html?eref=rss_topstories)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Sweden-Plane-Bomb-Scare-Boeing-777-Lands-In-Stockholm-After-Tip-Off-Passenger-Has-Explosives/Article/201009415743151?lpos=World_News_Carousel_Region_2&lid=ARTICLE_15743151_Sweden_Plane_Bomb_Scare%3A_Boeing_777_Lands_In_Stockholm_After_Tip-Off_Passenger_Has_Explosives)
+4. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

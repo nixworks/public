@@ -12,6 +12,7 @@
 3. [RTÉ](http://www.rte.ie/arts/2010/0526/u2.html)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE64P46S20100526)
 5. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/festivals/article7137140.ece)
+5. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100526&t=2&i=113335108&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-26T163443Z_01_BTRE64P1A2000_RTROPTP_0_USA)
 
 ### Related:
 

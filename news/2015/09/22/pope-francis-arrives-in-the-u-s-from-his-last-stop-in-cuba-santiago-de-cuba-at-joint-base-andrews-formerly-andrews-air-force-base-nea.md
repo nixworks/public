@@ -8,6 +8,7 @@ Obama greets pontiff as Washington wonders about ‘culture war’ as Francis pr
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/live/2015/sep/22/pope-francis-journeys-to-washington-dc-to-begin-historic-us-visit-live-updates)
+1. [Cover Image](https://i.guim.co.uk/img/media/ec0a7112ed204ac17f491f77dcd772467dd5a695/5_184_1637_982/master/1637.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9e625269014bb4eaf91588a12fa99085)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Anti-Semitism, &#39;Islamophobia,&#39; Durban II and the U.N.
 1. [Forbes](http://www.forbes.com/2009/03/01/obama-israel-anti-semitism-opinions-contributors_durban_islam.html)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/1067506.html)
 3. [Jewish News Weekly](http://www.jewishsf.com/content/2-0-/module/displaystory/story_id/37160/format/html/displaystory.html)
+3. [Cover Image](https://images.forbes.com/media/2009/01/15/0115_obama_170x170.jpg)
 
 ### Related:
 

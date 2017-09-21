@@ -8,6 +8,7 @@ Vietnam hosts leaders including US secretary of state for crucial talks amid dip
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010103053356791681.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/30/201010308555553784_20.jpg)
 
 ### Related:
 

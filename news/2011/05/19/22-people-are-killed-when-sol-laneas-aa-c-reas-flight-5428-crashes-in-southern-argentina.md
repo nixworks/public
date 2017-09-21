@@ -8,6 +8,7 @@ All 22 people aboard a commuter plane were killed when it crashed in southern Ar
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/05/19/argentina.plane.crash/)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/05/19/argentina.plane.crash/tzvids.argentina.plane.crash.gi.jpg)
 
 ### Related:
 

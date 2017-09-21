@@ -9,6 +9,7 @@ The nine slain followers of the town mayor killed in a police anti-narcotics ope
 
 1. [The New York Times](http://www.nytimes.com/2016/10/29/world/asia/philippines-duterte-mayor-police.html?_r=0)
 2. [The Philippine Star](http://www.philstar.com/nation/2016/10/28/1638270/2-security-killed-along-narco-mayor-just-hired-private-firm)
+2. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20161028/Datu-Saudi-Mayor-Samsudin-Dimaukom-killed.jpg)
 
 ### Related:
 

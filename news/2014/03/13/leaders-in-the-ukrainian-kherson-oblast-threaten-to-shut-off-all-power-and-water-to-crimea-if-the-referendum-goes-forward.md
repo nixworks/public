@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-26564846)
 2. [FOX](http://www.foxnews.com/world/2014/03/13/vote-to-join-russia-could-leave-crimea-dry-in-dark/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73567000/jpg/_73567451_73567450.jpg)
 
 ### Related:
 

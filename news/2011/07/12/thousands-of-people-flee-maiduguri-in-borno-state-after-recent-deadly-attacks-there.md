@@ -8,6 +8,7 @@ Residents of Maiduguri flee the Nigerian city following a spate of recent attack
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14122175)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54034000/jpg/_54034281_012329276-1.jpg)
 
 ### Related:
 

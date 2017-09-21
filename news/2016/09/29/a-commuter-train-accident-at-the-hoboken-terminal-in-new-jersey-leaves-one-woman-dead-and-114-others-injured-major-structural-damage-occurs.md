@@ -10,6 +10,7 @@ One person was killed and 108 were hurt after a crowded train slammed into a bus
 1. [AP via ''The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11719698)
 2. [FOX News](http://www.foxnews.com/us/2016/09/29/train-crashes-at-hoboken-nj-station-multiple-injuries-reported.html)
 3. [NorthJersey.com](http://www.northjersey.com/news/report-3-dead-up-to-100-injured-after-nj-transit-train-hits-hoboken-station-1.1668790)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/29/0/0/694940094001_5147320273001_One-fatality-confirmed-in-New-Jersey-train-crash.jpg?ve=1)
 
 ### Related:
 

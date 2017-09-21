@@ -8,6 +8,7 @@ Ships, aircraft and a submarine hunt for an Indian air force plane which has gon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-36865297)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/117D6/production/_90483617_a1648047-7a18-441a-923c-c44260e5b19e.jpg)
 
 ### Related:
 

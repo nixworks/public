@@ -8,6 +8,7 @@ Posthumous pardons are granted for offences that are no longer a crime on a &quo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-38814338)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14987/production/_93895348_mediaitem93895347.jpg)
 
 ### Related:
 

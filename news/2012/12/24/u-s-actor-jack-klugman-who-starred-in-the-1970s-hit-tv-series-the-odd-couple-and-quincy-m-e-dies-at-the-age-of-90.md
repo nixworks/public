@@ -8,6 +8,7 @@ US actor Jack Klugman, who starred in the 1970s hit TV series The Odd Couple and
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20840475)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64936000/jpg/_64936961_64936960.jpg)
 
 ### Related:
 

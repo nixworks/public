@@ -8,6 +8,7 @@ Office Depot Inc ODP.N said it would close at least 400 stores in the United Sta
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/06/us-office-depot-results-idUSBREA450DC20140506)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140506&t=2&i=894628255&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA450V9K00)
 
 ### Related:
 

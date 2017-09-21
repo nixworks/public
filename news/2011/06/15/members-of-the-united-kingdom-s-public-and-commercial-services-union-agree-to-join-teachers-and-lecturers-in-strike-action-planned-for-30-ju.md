@@ -8,6 +8,7 @@ Up to 750,000 public sector workers will strike on 30 June after members of the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13772326)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53412000/jpg/_53412108_011623884-1.jpg)
 
 ### Related:
 

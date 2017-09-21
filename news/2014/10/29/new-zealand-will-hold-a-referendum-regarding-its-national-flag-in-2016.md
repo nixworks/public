@@ -8,6 +8,7 @@ New Zealand is to hold a binding referendum in 2016 on whether to change the des
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-29812549)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78599000/jpg/_78599231_143345872.jpg)
 
 ### Related:
 

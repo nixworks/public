@@ -8,6 +8,7 @@ New Zealand&#039;s Prime Minister confirms that unwittingly or not, Barnaby Joyc
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2017-08-14/barnaby-joyce-is-a-new-zealand-citizen-nz-government-confirms/8804620)
+1. [Cover Image](http://www.abc.net.au/news/image/8805240-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Yoweri Museveni re-elected president for fourth term, but opposition rejects pol
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011220144451681103.html)
 2. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/20/uganda.election/#)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/20/2011220144055629150_20.jpg)
 
 ### Related:
 

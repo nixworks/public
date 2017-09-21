@@ -8,6 +8,7 @@ THE AFRICAN Union has suspended Mali following Thursday&rsquo;s military coup, w
 ### Source:
 
 1. [The Guardian'' via the ''Irish Times](http://www.irishtimes.com/newspaper/world/2012/0324/1224313819032.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

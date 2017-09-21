@@ -8,6 +8,7 @@ The UK returns to recession, after a sharp fall in construction leads to the eco
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17836624)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59843000/jpg/_59843622_builders2_getty.jpg)
 
 ### Related:
 

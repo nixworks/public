@@ -8,6 +8,7 @@ California lawmakers approve financing for a bullet train that would eventually 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18748717)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61423000/jpg/_61423248_61423247.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Police in Guatemala arrest two men in connection with the killing of Argentine s
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14102856)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-14108924)
 3. [BBC](http://www.bbc.co.uk/news/world-latin-america-14131705)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54043000/jpg/_54043206_012437261-1.jpg)
 
 ### Related:
 

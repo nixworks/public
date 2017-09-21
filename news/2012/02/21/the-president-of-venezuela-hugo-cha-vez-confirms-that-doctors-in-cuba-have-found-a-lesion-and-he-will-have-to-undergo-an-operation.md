@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez, who had cancer last year, says he will have to
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17120914)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58641000/jpg/_58641248_014061212-1.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/07/16/india.fire/index.html)
 3. [Rediff News](http://in.rediff.com/news/2004/jul/16tn.htm)
 4. [Times of India](http://articles.timesofindia.indiatimes.com/2004-07-16/india/27151834_1_kumbakonam-rescuers-tn)
+4. [Cover Image](http://im.rediff.com/300-300/news/2004/jul/16map.gif)
 
 ### Related:
 

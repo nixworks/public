@@ -11,6 +11,7 @@ Leading Indian filmmaker Mani Kaul dies in the capital, Delhi, aged 66.
 2. [Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/media/entertainment-/media/mani-kaul-pioneer-of-new-age-cinema-dead/articleshow/9129846.cms)
 3. [The Telegraph](http://www.telegraphindia.com/1110706/jsp/frontpage/story_142022490.jsp)
 4. [The Times of India](http://timesofindia.indiatimes.com/entertainment/bollywood/news-interviews/Mani-Kaul-was-by-far-our-most-original-filmmaker/articleshow/9127838.cms)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

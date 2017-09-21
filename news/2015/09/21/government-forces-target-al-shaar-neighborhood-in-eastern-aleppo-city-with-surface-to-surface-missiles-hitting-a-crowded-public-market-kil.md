@@ -9,6 +9,7 @@ ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the 
 
 1. [Ara News](http://aranews.net/2015/09/pro-assad-forces-target-aleppo-public-market-with-missiles-dozens-killed/)
 2. [Reuters](http://www.reuters.com/article/2015/09/21/us-mideast-crisis-syria-drones-idUSKCN0RL1CI20150921)
+2. [Cover Image](http://aranews.net/wp-content/uploads/2015/09/2015-09-20T212008Z_527217106_GF10000214347_RTRMADP_3_MIDEAST-CRISIS-SYRIA.jpg)
 
 ### Related:
 

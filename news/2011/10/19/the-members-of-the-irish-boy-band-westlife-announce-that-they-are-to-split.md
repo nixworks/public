@@ -10,6 +10,7 @@ Chart-topping act Westlife are to split &#039;&#039;amicably&#039;&#039; after 1
 1. [RTE](http://www.rte.ie/ten/2011/1019/westlife.html)
 2. [Sky News](http://news.sky.com/home/showbiz-news/article/16092386)
 3. [The Telegraph](http://www.telegraph.co.uk/culture/music/music-news/8837077/Westlife-announce-split-after-14-years-together.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02031/wsumm_2031672a.jpg)
 
 ### Related:
 

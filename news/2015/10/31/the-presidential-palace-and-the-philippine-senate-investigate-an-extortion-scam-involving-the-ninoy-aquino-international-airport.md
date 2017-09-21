@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-34671118)
 2. [Manila Bulletin](http://www.mb.com.ph/uproar-over-naia-bullet-mess-widens/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1785D/production/_86394369_gettyimages-81642393.jpg)
 
 ### Related:
 

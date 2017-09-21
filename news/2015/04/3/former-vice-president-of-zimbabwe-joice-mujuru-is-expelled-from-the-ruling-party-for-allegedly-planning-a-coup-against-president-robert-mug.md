@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-africa-32176164)
 2. [Herald](http://www.herald.co.zw/zanu-pf-expels-joice-mujuru%E2%80%A2-slew-of-allegations-cited-%E2%80%A2-plots-traced-as-far-back-as-2004/)
 3. [NewZimbabwe](http://www.newzimbabwe.com/news-21634-Zanu+PF+expells+Mujuru+as+Grace+returns/news.aspx)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79604000/jpg/_79604707_79604706.jpg)
 
 ### Related:
 

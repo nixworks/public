@@ -8,6 +8,7 @@ Ferdinand Piech, a towering figure at Volkswagen (VOWG_p.DE) for more than two d
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/25/us-volkswagen-ceo-chairman-idUSKBN0NG0N720150425)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150425&t=2&i=1043294668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3O0BC)
 
 ### Related:
 

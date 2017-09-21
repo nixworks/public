@@ -8,6 +8,7 @@ The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;cal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-40361857)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/AAEE/production/_96585734_mediaitem96585733.jpg)
 
 ### Related:
 

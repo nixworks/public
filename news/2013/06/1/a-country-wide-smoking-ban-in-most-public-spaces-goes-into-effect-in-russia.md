@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2013/06/01/russia-smoking-idINL5N0EC3TP20130601)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -19,3 +20,5 @@
 6. [ Scotland becomes the first part of the United Kingdom to introduce a full smoking ban in enclosed public places and workplaces. ](/news/2006/03/26/scotland-becomes-the-first-part-of-the-united-kingdom-to-introduce-a-full-smoking-ban-in-enclosed-public-places-and-workplaces.md) _Context: smoking ban_
 7. [ The British Government, after several days of debating, confirms its plans to ban smoking in public places in England with the exemption of pubs and clubs not serving food. ](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.md) _Context: smoking ban_
 8. [ A smoking ban comes into effect in Italy, prohibiting smoking in public places. It has been reported that some businesses and smokers intend to defy the ban. ](/news/2005/01/10/a-smoking-ban-comes-into-effect-in-italy-prohibiting-smoking-in-public-places-it-has-been-reported-that-some-businesses-and-smokers-inten.md) _Context: smoking ban_
+9. [ The First Minister of Scotland, Jack McConnell, announces to the Scottish Parliament that the Executive intends to introduce a law to prohibit smoking in all public enclosed spaces in Scotland. Both of the ruling coalition parties, as well as the main opposition party, the SNP, are in favour and the move is likely to come into effect in spring 2006. ](/news/2004/11/9/the-first-minister-of-scotland-jack-mcconnell-announces-to-the-scottish-parliament-that-the-executive-intends-to-introduce-a-law-to-prohi.md) _Context: smoking ban_
+10. [ The British Government details a white paper to implement a smoking ban in public places to combat the risks of tobacco smoking. ](/news/2004/11/16/the-british-government-details-a-white-paper-to-implement-a-smoking-ban-in-public-places-to-combat-the-risks-of-tobacco-smoking.md) _Context: smoking ban_

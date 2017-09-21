@@ -8,6 +8,7 @@ Mathematician lost his job and was given experimental &#x27;chemical castration&
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/science/2013/dec/24/enigma-codebreaker-alan-turing-royal-pardon)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/12/23/1387821031433/Alan-Turing-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=ee5f6b1f71d94d21d58fa8d4ce0cfd72)
 
 ### Related:
 

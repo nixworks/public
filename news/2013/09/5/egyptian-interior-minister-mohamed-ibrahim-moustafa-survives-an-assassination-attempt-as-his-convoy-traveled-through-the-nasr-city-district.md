@@ -9,6 +9,7 @@ Mohammed Ibrahim, who is charge of the country&#x27;s police force, targeted as 
 
 1. [The Guardian](http://www.theguardian.com/world/2013/sep/05/egyptian-interior-minister-survives-car-bomb)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424127887323623304579056500017476432.html)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2013/9/6/1378465174095/Egyptian-interior-ministe-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=bfea1bdb93e0af3b32ebcfc6a25d40f9)
 
 ### Related:
 

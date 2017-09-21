@@ -8,6 +8,7 @@ U.S. Vice President Dick Cheney visited Afghanistan on Thursday and met Presiden
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSSP28376520080320?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080320&t=2&i=3593453&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-20T101935Z_01_SP283765_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

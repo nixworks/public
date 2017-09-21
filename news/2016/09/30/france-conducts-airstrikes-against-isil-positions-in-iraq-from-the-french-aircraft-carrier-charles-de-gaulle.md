@@ -8,6 +8,7 @@ France is carrying out operations against so-called Islamic State in Iraq from t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37515992?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A5CD/production/_91454424_gettyimages-611054650.jpg)
 
 ### Related:
 

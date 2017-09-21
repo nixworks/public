@@ -9,6 +9,7 @@ Hopes of a UN-sponsored ceasefire in Syria recede as Damascus shows little sign 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17661878)
 2. [Reuters via ''The Star](http://thestar.com.my/news/story.asp?file=/2012/4/10/worldupdates/2012-04-10T091600Z_26_BRE83602D_RTROPTT_0_UK-SYRIA&sec=Worldupdates)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59571000/jpg/_59571178_014475034-1.jpg)
 
 ### Related:
 

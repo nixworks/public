@@ -8,3 +8,4 @@ A bystander to a botched robbery at a Texas jewelry store was killed on Sunday, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-texas-shooting-idUSKBN15616J)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

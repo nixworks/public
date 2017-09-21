@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-07-15/uk-foreign-minister-william-hague-steps-down-from-post-in-surpr/5597004)
+1. [Cover Image](http://www.abc.net.au/news/image/2239002-1x1-700x700.jpg)
 
 ### Related:
 

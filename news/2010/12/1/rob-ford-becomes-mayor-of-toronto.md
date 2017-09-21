@@ -9,6 +9,7 @@ Neophyte Mayor Rob Ford may be facing a brand new headache of a moniker on only 
 
 1. [CBC](http://www.cbc.ca/canada/toronto/story/2010/12/01/toronto-ford.html)
 2. [Toronto Sun](http://www.torontosun.com/news/columnists/michele_mandel/2010/12/01/16393146.html)
+2. [Cover Image](http://www.torontosun.com/assets/img/interface/sun.com.png)
 
 ### Related:
 

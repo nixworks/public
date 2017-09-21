@@ -9,6 +9,7 @@ The elections could take place on January 10th, 2016, according to sources close
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/the_americas/haiti-officials-postpone-vote-set-for-this-weekend/2015/12/21/f6de6da6-a845-11e5-b596-113f59ee069a_story.html)
 2. [Haitian-Caribbean News Network](http://hcnn.ht/en/2015_10/politics/489/Haiti-presidential-and-partial-legislative-runoff-elections-postponed.htm)
+2. [Cover Image](http://hcnn.ht/images/cms-image-000000616.jpg)
 
 ### Related:
 

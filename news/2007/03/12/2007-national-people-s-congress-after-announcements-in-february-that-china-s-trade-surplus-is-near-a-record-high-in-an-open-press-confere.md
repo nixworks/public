@@ -9,6 +9,7 @@ The size of the surplus, $23.76 billion, surprised economists because Chinese ex
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6441059.stm)
 2. [The New York Times](http://www.nytimes.com/2007/03/13/business/13yuan.html?ref=worldbusiness)
+2. [Cover Image](https://static01.nyt.com/images/2007/03/13/business/13yuan.75.jpg)
 
 ### Related:
 

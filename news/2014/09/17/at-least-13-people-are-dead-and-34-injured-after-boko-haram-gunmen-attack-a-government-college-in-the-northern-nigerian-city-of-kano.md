@@ -8,6 +8,7 @@ At least 13 people have been killed and 34 others wounded when police fought a b
 ### Source:
 
 1. [AFP via ''The Age](http://www.theage.com.au/world/13-dead-after-suspected-boko-haram-gunmen-attack-college-in-north-nigerias-kano-20140918-10ig1x.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/3/f/z/g/p/image.related.articleLeadwide.620x349.10ig1x.png/1410980770803.jpg)
 
 ### Related:
 

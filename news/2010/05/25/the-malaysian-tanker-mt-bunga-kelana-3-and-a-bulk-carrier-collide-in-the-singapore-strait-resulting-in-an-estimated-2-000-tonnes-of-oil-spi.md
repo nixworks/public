@@ -10,6 +10,7 @@
 1. [Reuters](http://www.reuters.com/article/idUSTRE64O0JE20100525)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_531158.html)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7135742.ece)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100525&t=2&i=112720940&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-25T132529Z_01_BTRE64O0YG500_RTROPTP_0_SINGAPORE-OILSPILL)
 
 ### Related:
 

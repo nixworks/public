@@ -8,6 +8,7 @@ European Union foreign policy chief Catherine Ashton said yesterday that events 
 ### Source:
 
 1. [Sunday Independent](http://www.independent.ie/world-news/middle-east/eu-says-mideast-events-make-peace-top-priority-2527389.html)
+1. [Cover Image](http://www.independent.ie/editorial/facebook_share_logos/FacebookPostImage_158x158_News.jpg)
 
 ### Related:
 

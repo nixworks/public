@@ -8,6 +8,7 @@ Judges at the International Criminal Court want action on crimes committed durin
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/africa-mideast/sudan-protecting-war-crime-suspects-icc-tells-un/article1581193/)
+1. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
 
 ### Related:
 

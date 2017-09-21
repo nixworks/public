@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23462310)
 2. [News Limited](http://www.news.com.au/breaking-news/world/cambodian-pms-party-claims-election-win/story-e6frfkui-1226687224782)
+2. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Five men aged between 21 and 35 are arrested in Luton on suspicion of the commis
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17825583)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59825000/jpg/_59825978_scotlandyard_pa.jpg)
 
 ### Related:
 

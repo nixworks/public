@@ -9,6 +9,7 @@ Items belonging to abducted British aid worker Margaret Hassan have been found d
 
 1. [CBC](http://www.cbc.ca/world/story/2005/05/01/hassan-arrests050501.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8353762)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,25571316-1702,00.html?from=public_rss?ref=BPNT)
 2. [BigPond News](http://bigpondnews.com/articles/TopStories/2009/06/01/Jet_with_215_on_board_drops_off_radar_337883.html?ref=BPNT)
+2. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

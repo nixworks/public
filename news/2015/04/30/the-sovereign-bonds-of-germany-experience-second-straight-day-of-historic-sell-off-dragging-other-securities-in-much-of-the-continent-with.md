@@ -8,6 +8,7 @@ Germany’s 10-year bonds suffered their deepest two-day loss in more than three
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-04-30/euro-area-bonds-slump-for-second-day-extending-61-billion-loss)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

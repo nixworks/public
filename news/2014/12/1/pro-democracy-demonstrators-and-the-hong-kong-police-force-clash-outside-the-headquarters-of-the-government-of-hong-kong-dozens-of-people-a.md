@@ -9,6 +9,7 @@
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/12/01/dozens-arrested-after-hong-kong-protesters-clash-with-police/)
 2. [New York Times](http://www.nytimes.com/2014/12/01/world/asia/protesters-storm-hong-kong-leaders-office-as-movement-flags.html?_r=0)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/120114/0/0/120114_piper_hongkong_640.jpg?ve=1)
 
 ### Related:
 

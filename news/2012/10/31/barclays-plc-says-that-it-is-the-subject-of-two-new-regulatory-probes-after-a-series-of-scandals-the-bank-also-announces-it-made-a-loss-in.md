@@ -8,6 +8,7 @@ Barclays says that it is the subject of two new regulatory probes after a series
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20150754)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62568000/jpg/_62568071_015728225-1.jpg)
 
 ### Related:
 

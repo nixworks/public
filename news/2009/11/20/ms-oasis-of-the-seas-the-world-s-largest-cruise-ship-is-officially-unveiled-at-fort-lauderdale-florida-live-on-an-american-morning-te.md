@@ -8,6 +8,7 @@ The world&#039;s biggest cruise ship - boasting its own open air park and amphit
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/travel/news-and-advice/worlds-biggest-cruise-ship-goes-on-display-1824596.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/11/20/14/oasis1.jpeg)
 
 ### Related:
 

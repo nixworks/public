@@ -11,6 +11,7 @@ A suicide bomber has blown himself up near a tourist site in the Egyptian city o
 2. [BBC](http://www.bbc.com/news/world-middle-east-33077862)
 3. [Fox News](http://www.foxnews.com/world/2015/06/10/suicide-bombing-targets-ancient-egyptian-temple-popular-with-tourists/)
 4. [ITV News](http://www.itv.com/news/update/2015-06-10/egypts-luxor-temple-targeted-in-suicide-bomb-attack/)
+4. [Cover Image](http://news-assets.sn.itv.com/image/file/686566/img.jpg)
 
 ### Related:
 

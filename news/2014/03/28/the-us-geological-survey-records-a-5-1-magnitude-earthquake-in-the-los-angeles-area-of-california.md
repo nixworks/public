@@ -8,6 +8,7 @@ A shallow 5.1-magnitude earthquake has hit the Los Angeles area of California, t
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2014/0329/605333-la-earthquake/)
+1. [Cover Image](https://img.rasset.ie/0008b750-1600.jpg)
 
 ### Related:
 

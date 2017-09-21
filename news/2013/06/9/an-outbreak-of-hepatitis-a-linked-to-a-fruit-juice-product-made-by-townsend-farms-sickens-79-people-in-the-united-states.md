@@ -8,3 +8,4 @@
 ### Source:
 
 1. [RTT News](http://www.rttnews.com/2132700/hepatitis-a-outbreak-linked-to-berry-mix-sickens-79-people-cdc.aspx)
+1. [Cover Image](http://www.rttnews.com/images/RTTNews_Small_Logo.jpg)

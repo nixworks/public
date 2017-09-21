@@ -8,6 +8,7 @@ A teenager is arrested in New Mexico over the fatal shootings of two adults and 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21110435)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65400000/gif/_65400996_us_newmexico_albuquerque_0113.gif)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Jyoti Basu, the patriarchof Indian communism whose pragmatic politics twice brou
 4. [Reuters](http://in.reuters.com/article/domesticNews/idINLDE60G06920100117)
 5. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5iHLbnejCqxFHR6gZbWCPp6I8gJDQ)
 6. [The Hindu](http://beta.thehindu.com/news/article81481.ece)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

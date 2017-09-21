@@ -8,6 +8,7 @@ A monitoring group says Islamic State fighters have abducted at least 400 civili
 ### Source:
 
 1. [Sky News](http://www.skynews.com.au/news/top-stories/2016/01/17/is-militants-kidnap-400-civillians-in-syria.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/news/top-stories/2016/01/18/skynews_1907752048.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

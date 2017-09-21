@@ -8,6 +8,7 @@ Justice Eric Leach said the sprinter &quot;never offered an acceptable explanati
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/oscar-pistorius-convicted-murder-appeal-faces-15-years-prison-n472771?cid=eml_nbn_20151203)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2014_50/186116/140214-oscar-reeva-4a_91b4ade8ea9cbf219c9bbf60ebcbab13.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

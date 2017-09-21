@@ -9,6 +9,7 @@ The anti-drug offensive in the Jamaican capital claims at least 44 lives as batt
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10164623.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/05/26/jamaica/index.html?hpt=T2)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

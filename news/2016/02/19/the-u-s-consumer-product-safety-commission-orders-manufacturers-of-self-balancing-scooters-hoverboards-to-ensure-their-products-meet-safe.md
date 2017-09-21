@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/business/consumer/u-s-government-agency-declares-hoverboards-unsafe-n521881)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_50/1334091/hoverboard_fire_485b88ea5e8e88b2fead8c5e8e7df196.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

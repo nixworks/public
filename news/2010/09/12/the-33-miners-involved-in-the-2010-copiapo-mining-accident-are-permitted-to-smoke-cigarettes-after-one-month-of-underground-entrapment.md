@@ -9,6 +9,7 @@ Miners trapped underground in Chile for more than a month are allowed to smoke f
 
 1. [AFP via ''The Sydney Morning Herald](http://www.smh.com.au/world/stubbed-out-ideal-chance-for-miners-to-quit-smoking-20100912-1571n.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11274224)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

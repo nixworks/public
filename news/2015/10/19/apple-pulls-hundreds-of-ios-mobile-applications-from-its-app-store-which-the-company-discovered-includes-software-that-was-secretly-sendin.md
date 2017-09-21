@@ -9,6 +9,7 @@ Apple has banned 256 apps, with an estimated total of 1 million downloads among 
 
 1. [NBC News](http://www.nbcnews.com/tech/security/apple-bans-hundreds-apps-hid-chinese-spyware-n447236)
 2. [TechCrunch](http://techcrunch.com/2015/10/19/hundreds-of-apps-banned-from-app-store-for-accessing-users-personal-information/)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_30/1133851/150721-teh-iphone_97fe8a1b40d83e7631078ec2dbebe5ee.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@ Apple has banned 256 apps, with an estimated total of 1 million downloads among 
 7. [Apple Inc unveils iPhone 5 and iOS 6. ](/news/2012/09/12/apple-inc-unveils-iphone-5-and-ios-6.md) _Context: Apple Inc., iOS_
 8. [Computer firm Apple removes an application from its App Store that called for a "Third Intifada" against Israel. ](/news/2011/06/23/computer-firm-apple-removes-an-application-from-its-app-store-that-called-for-a-third-intifada-against-israel.md) _Context: App Store, Apple Inc._
 9. [Apple launches a subscription service for magazines, newspapers, videos, and music bought through its App Store. ](/news/2011/02/15/apple-launches-a-subscription-service-for-magazines-newspapers-videos-and-music-bought-through-its-app-store.md) _Context: App Store, Apple Inc._
-10. [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md) _Context: Apple Inc._
+10. [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md) _Context: Apple Inc._

@@ -11,6 +11,7 @@
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE67J0CH20100820)
 3. [TIME](http://www.time.com/time/world/article/0,8599,2011985,00.html)
 4. [Wall Street Journal](http://online.wsj.com/community/groups/europes-question-day-695/topics/one-year-later-do-you)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

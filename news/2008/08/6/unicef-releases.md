@@ -11,6 +11,7 @@ UN report highlights healthcare worries as gap widens between rich and poor.
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/DEL62785.htm)
 3. [The State of Asia-Pacific’s Children 2008](http://www.unicef.org/sapc08/index.php)
 4. [The Straits Times](http://www.straitstimes.com/Latest%2BNews/Asia/STIStory_264738.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

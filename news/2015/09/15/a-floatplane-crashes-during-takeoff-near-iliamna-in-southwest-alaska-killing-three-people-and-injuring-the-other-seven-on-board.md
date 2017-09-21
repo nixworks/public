@@ -8,6 +8,7 @@ ANCHORAGE, Alaska (AP) - The day started out as a perfect Alaska excursion: Exci
 ### Source:
 
 1. [AP via Fairbanks Daily News-Miner](http://www.newsminer.com/news/alaska_news/updated-floatplane-with-aboard-crashes-in-alaska-dead/article_350eafdc-5bd9-11e5-815f-7ba3fa3fa35c.html)
+1. [Cover Image](http://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/custom/image/f0ce76da-6e03-11e5-9cfe-9779f34a6e84.jpg?_dc=1444339890)
 
 ### Related:
 

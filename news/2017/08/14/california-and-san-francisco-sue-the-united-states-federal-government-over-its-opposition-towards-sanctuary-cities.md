@@ -8,6 +8,7 @@ California is joining two localities already suing over the policy change the Tr
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2017/08/14/california-trump-sanctuary-city-grant-lawsuit-241623)
+1. [Cover Image](http://static.politico.com/d0/81/ec1821eb462bb1f04358418c0761/170814xavier-becerra.jpg)
 
 ### Related:
 

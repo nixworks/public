@@ -8,3 +8,4 @@ Schools, hospitals and public transport would be covered by ban, but Dutch prime
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/may/22/netherlands-islamic-veil-niqab-ban-proposal-dutch-cabinet)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/22/1432307983661/949e9e30-1a8c-49cf-9c49-c789eb66f164-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f064d0a9c4e23fe0a6e0259fbaa5a351)

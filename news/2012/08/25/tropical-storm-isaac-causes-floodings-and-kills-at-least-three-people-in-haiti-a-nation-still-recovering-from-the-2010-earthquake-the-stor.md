@@ -9,6 +9,7 @@ At least 3 dead in Haiti; Forecasters say storm with 60-mph winds will build str
 
 1. [CBS](http://www.cbsnews.com/8301-33816_162-57500319/isaac-expected-to-become-hurricane-as-it-nears-florida/)
 2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/08/25/ddb0a230-a644-11e2-a3f0-029118418759/Isaac_082412.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 2. [Expo 2005](http://www.expo2005.or.jp/)
 3. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=1861559&PageNum=0)
 4. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5618603)
+4. [Cover Image](http://www.asahicom.jp/ajw/images/logo_ogp.png)
 
 ### Related:
 

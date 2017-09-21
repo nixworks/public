@@ -11,6 +11,7 @@ The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb att
 2. [China Post](http://www.chinapost.com.tw/asia/japan/2010/08/05/267428/US-to.htm)
 3. [The Age](http://news.theage.com.au/breaking-news-world/us-attends-abomb-event-for-first-time-20100806-11l4c.html)
 4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10664040&ref=rss)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

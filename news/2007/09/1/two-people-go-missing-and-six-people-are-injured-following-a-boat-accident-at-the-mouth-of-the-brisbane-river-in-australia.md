@@ -8,6 +8,7 @@ Queensland Police say two people are missing and six people are injured followin
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/01/2021441.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

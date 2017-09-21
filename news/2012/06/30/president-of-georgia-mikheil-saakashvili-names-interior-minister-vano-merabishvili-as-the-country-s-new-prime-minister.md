@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-georgia-governmentbre85t0d6-20120630,0,7779265.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

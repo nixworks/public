@@ -8,6 +8,7 @@ France and Germany follow the US and Britain in withdrawing civilian staff from 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17171798)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58726000/jpg/_58726773_014093538-1.jpg)
 
 ### Related:
 

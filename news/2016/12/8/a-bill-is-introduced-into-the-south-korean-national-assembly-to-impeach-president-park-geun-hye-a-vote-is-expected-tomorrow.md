@@ -8,6 +8,7 @@ min Park and Jack Kim
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southkorea-politics-idUSKBN13X0DF)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161208&t=2&i=1164635529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB7058)
 
 ### Related:
 

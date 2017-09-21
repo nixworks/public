@@ -10,6 +10,7 @@ Workers in China are continuing to fish dead pigs from a river near Shanghai, wi
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21732457)
 2. [BusinessWeek](http://www.businessweek.com/news/2013-03-16/shanghai-retrieves-more-dead-pigs-as-total-rises-to-9-000)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/mar/13/dead-pigs-shanghai-huangpu-river)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66307000/jpg/_66307073_017452922-1.jpg)
 
 ### Related:
 

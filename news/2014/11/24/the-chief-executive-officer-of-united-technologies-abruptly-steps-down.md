@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/24/us-united-tech-managementchanges-idUSKCN0J814Z20141124)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141124&t=2&i=994242922&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAN0NH)
 
 ### Related:
 

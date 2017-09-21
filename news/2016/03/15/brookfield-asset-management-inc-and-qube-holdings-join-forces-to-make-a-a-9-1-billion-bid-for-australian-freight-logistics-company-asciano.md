@@ -8,6 +8,7 @@ Former rival groups led by Brookfield Asset Management Inc. and Qube Holdings Lt
 ### Source:
 
 1. [ (Bloomberg](http://www.bloomberg.com/news/articles/2016-03-15/brookfield-qube-groups-join-forces-in-a-9-1-billion-asciano-bid)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

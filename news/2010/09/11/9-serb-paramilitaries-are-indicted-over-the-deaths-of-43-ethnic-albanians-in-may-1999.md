@@ -8,6 +8,7 @@ Belgrade charges former paramilitaries over killing of at least 43 ethnic Albani
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/20109111535606107.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/11/201091115229636734_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [China Dialy](http://www.chinadaily.com.cn/world/2010-04/21/content_9758617.htm)
 2. [China.org](http://www.china.org.cn/world/2010-04/21/content_19875954.htm)
 3. [Kazinform](http://www.inform.kz/eng/article/2260679)
+3. [Cover Image](http://www.inform.kz/lenta/img/logo_en.png)
 
 ### Related:
 

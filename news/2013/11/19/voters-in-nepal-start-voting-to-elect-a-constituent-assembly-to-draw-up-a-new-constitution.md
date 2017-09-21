@@ -8,6 +8,7 @@ Nepalis voted on Tuesday for an assembly that will draft a constitution aimed at
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/19/us-nepal-election-idUSBRE9AI03X20131119)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131119&t=2&i=813045053&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AI08WQ00)
 
 ### Related:
 

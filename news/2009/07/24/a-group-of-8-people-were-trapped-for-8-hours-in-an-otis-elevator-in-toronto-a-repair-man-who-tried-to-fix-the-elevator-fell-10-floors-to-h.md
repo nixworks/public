@@ -8,3 +8,4 @@ A group of eight people were stuck in a sweltering elevator for about eight hour
 ### Source:
 
 1. [CityNews](http://www.citynews.ca/2009/06/24/worker-dies-passengers-trapped-for-hours-after-elevator-accident-at-td-towers/)
+1. [Cover Image](http://www.citynews.ca/wp-content/blogs.dir/sites/10/2009/01/f380a10e4c2a9139dd8fd8305e87.jpeg)

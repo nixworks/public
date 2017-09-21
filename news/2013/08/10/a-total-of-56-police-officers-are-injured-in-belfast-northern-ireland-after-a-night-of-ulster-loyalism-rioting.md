@@ -8,6 +8,7 @@ More than 50 police officers are injured in what have been described as &quot;sh
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-northern-ireland-23645607)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69216000/jpg/_69216324_trouble_flares_at_republican_parade_28.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 20 student leaders are released after being held across Burma over pla
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18751203)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61425000/jpg/_61425995_61425994.jpg)
 
 ### Related:
 

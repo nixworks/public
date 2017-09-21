@@ -10,6 +10,7 @@ Politicians in Haiti reach an agreement to install a transitional government hou
 1. [BBC](http://www.bbc.com/news/world-latin-america-35514812)
 2. [Reuters](http://www.reuters.com/article/us-haiti-election-idUSKCN0VG11L)
 3. [The Guardian](http://www.theguardian.com/world/2016/feb/07/haiti-carnival-delayed-government-protest-michel-martelly)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10F44/production/_88144496_88144495.jpg)
 
 ### Related:
 

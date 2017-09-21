@@ -9,6 +9,7 @@ The newly detected â€˜kingâ€™ of supernovas might be evidence of a new 
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/6633609.stm)
 2. [Space.com](http://www.space.com/scienceastronomy/070507_brighest_sn.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMi80NDYvb3JpZ2luYWwvc24yMDA2Z3lfbWFpbl8wMi5qcGc=)
 
 ### Related:
 

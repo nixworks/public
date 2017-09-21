@@ -8,6 +8,7 @@ Tunisian lawmakers voted on Saturday to dismiss Prime Minister Habib Essid from 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-tunisia-politics-idUSKCN10A0PZ)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160730&t=2&i=1147728942&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6T0DU)
 
 ### Related:
 

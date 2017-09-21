@@ -8,6 +8,7 @@ China arrests 21 people involved in an online finance scam alleged to have robbe
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-35457111)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5CC8/production/_88025732_chinamoneytradepicture.jpg)
 
 ### Related:
 

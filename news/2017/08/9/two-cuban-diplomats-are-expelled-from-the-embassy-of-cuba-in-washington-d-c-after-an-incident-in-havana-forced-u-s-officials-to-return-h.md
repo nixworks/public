@@ -8,6 +8,7 @@ Two Cuban diplomats were kicked out of their embassy in Washington by the State 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2017/08/09/cuban-diplomats-kicked-out-us-after-americans-experience-physical-symptoms-in-cuba.html)
+1. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2017/08/09/cuban-diplomats-kicked-out-us-after-americans-experience-physical-symptoms-in-cuba/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1502318298541.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Commons votes overwhelmingly to support UN-backed action in Libya, after Dav
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12799937)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

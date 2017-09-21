@@ -8,3 +8,4 @@ Syrian rebels from an Islamist alliance formed last month have occupied bases an
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2013/12/07/syria-crisis-fsa-idINDEE9B608A20131207)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

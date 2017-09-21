@@ -8,6 +8,7 @@ EU foreign policy chief Federica Mogherini says they have &quot;turned a new pag
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36061664)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/66F4/production/_89265362_89265361.jpg)
 
 ### Related:
 

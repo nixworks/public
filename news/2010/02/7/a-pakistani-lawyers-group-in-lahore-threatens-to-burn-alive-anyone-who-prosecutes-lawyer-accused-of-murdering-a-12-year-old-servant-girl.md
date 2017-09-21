@@ -8,6 +8,7 @@ No lawyer comes forward to defend Shazia Bashir, the servant girl murdered by he
 ### Source:
 
 1. [Asia News](http://www.asianews.it/news-en/Lahore,-Muslim-lawyers-will-burn-alive-anyone-who-defends-murdered-12-year-old-Christian-17559.html)
+1. [Cover Image](http://www.asianews.it/files/img/PAKISTAN__avvocati_scalmanatiok.jpg)
 
 ### Related:
 

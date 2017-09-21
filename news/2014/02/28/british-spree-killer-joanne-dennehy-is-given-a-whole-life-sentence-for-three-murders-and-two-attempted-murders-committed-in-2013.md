@@ -8,3 +8,4 @@ Triple killer Joanne Dennehy is handed a whole-life sentence by a judge, who sai
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-26389479)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73276000/jpg/_73276654_newdennehy.jpg)

@@ -8,6 +8,7 @@ A major winter storm in the US Midwest that is already blamed for two deaths bla
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21541856)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66011000/jpg/_66011785_66011784.jpg)
 
 ### Related:
 

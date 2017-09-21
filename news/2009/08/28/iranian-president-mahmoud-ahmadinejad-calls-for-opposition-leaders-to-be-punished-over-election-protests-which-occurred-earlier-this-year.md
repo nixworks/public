@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/2009828113929586731.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=104678&sectionid=351020101)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

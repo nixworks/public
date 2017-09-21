@@ -8,6 +8,7 @@ A 6.0-magnitude earthquake struck offshore some 58 miles south-southwest of Valp
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/07/15/chile.earthquake/index.html?eref=edition)
+1. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@ A 6.0-magnitude earthquake struck offshore some 58 miles south-southwest of Valp
 7. [ A medium-sized earthquake, registering 4.9, shook central Chile, rattling buildings, but there were no immediate reports of injuries or damages. ](/news/2006/02/10/a-medium-sized-earthquake-registering-4-9-shook-central-chile-rattling-buildings-but-there-were-no-immediate-reports-of-injuries-or-dam.md) _Context: Chile, earthquake_
 8. [ An earthquake of magnitude 7.9 hits Chile with epicenter in the northern region of Tarapaca near the Bolivian border, killing at least 8 people. ](/news/2005/06/13/an-earthquake-of-magnitude-7-9-hits-chile-with-epicenter-in-the-northern-region-of-tarapaca-near-the-bolivian-border-killing-at-least-8-pe.md) _Context: Chile, earthquake_
 9. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: earthquake_
-10. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_
+10. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued, at least 226 dead, at least 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _Context: earthquake_

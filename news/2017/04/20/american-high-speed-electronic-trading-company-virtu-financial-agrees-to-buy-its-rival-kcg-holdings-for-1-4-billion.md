@@ -8,3 +8,4 @@ The following bids, mergers,acquisitions and disposals were reported by 1300 GMT
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/deals-day-idUSL3N1HS3P0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -8,6 +8,7 @@ World Bank looks for &#x27;orderly&#x27; reversion of west&#x27;s monetary polic
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2014/jan/15/developing-countries-stimulus-world-bank-monetary-policies)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/14/1389719330189/World-Bank-president-Jim--009.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9a4f35bb657ef4c3c209d22cfce62a2d)
 
 ### Related:
 

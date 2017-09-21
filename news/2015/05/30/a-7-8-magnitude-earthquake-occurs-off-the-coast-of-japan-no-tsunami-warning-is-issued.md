@@ -8,6 +8,7 @@ A powerful undersea earthquake south of Japan shakes buildings in the capital To
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32943904)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83318000/png/_83318324_japanquake052015.png)
 
 ### Related:
 

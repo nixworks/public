@@ -9,6 +9,7 @@ The Egyptian army mounted a major operation against Islamist militants in North 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24001833)
 2. [Reuters](http://www.reuters.com/article/2013/09/07/us-egypt-sinai-idUSBRE9860DU20130907)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

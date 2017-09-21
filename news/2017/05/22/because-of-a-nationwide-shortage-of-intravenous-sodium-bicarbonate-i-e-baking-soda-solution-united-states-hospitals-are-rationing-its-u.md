@@ -9,6 +9,7 @@
 
 1. [FiercePharma.com](http://www.fiercepharma.com/pharma/hospitals-scramble-for-sodium-bicarbonate-1-8-drugs-pfizer-says-it-currently-has-a-shortage)
 2. [The New York Times](https://www.nytimes.com/2017/05/21/health/sodium-bicarbonate-solution-critical-shortage-hospitals.html?module=ArrowsNav&contentCollection=Health&action=keypress&region=FixedLeft&pgtype=article)
+2. [Cover Image](http://qtxasset.com/2017-03/LSNE lyophilization .jpg?JwCAWiVmxWEiuUj64DnNAkZLNoUo7axa)
 
 ### Related:
 

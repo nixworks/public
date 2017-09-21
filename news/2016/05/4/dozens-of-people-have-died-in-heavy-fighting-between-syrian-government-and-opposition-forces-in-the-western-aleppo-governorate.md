@@ -8,6 +8,7 @@ The United States said on Wednesday it had agreed with Russia to extend a cessat
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN0XV0NT?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160505&t=2&i=1135832915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4400U)
 
 ### Related:
 

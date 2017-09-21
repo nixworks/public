@@ -9,6 +9,7 @@ A Danish inventor is accused of the negligent manslaughter of a Swedish journali
 
 1. [BBC](http://www.bbc.com/news/world-europe-40922750)
 2. [Reuters via MSN](http://www.msn.com/en-us/news/world/danish-police-identify-torso-as-missing-submarine-journalist/ar-AAqzgvj?li=BBnb7Kz&ocid=iehp)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11B03/production/_97315427_mediaitem97315426.jpg)
 
 ### Related:
 

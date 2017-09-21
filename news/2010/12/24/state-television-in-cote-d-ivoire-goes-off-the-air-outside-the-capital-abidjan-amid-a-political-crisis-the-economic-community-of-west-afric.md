@@ -9,6 +9,7 @@ State television in Ivory Coast goes off air outside the main city, Abidjan, ami
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12074006)
 2. [IOL](http://www.iol.co.za/news/africa/ivory-coast-state-tv-off-the-air-1.1005014)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

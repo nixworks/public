@@ -8,6 +8,7 @@ The service member was not identified.
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/us-service-member-killed-explosion-syria/story?id=43765880)
+1. [Cover Image](http://a.abcnews.com/images/International/GTY-american-flag-army-military-uniform-jt-161124_16x9_992.jpg)
 
 ### Related:
 

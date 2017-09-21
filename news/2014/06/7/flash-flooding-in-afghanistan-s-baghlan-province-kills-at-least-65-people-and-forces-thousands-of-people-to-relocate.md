@@ -8,6 +8,7 @@ Flash flooding in the remote northern Afghan province of Baghlan kills at least 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27745771)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75372000/jpg/_75372858_75372857.jpg)
 
 ### Related:
 

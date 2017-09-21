@@ -8,6 +8,7 @@ The Paraguayan Congress is not interested in considering the protocol for Venezu
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/07/paraguayan-senate-not-interested-in-having-venezuela-in-mercosur)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19753/200x200/68de460c338dea11909bd12144f305c4.jpg)
 
 ### Related:
 

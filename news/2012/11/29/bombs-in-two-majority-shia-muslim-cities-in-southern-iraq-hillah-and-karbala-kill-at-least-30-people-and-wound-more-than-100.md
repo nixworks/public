@@ -9,6 +9,7 @@ The deadliest of Thursday&#39;s attacks was in the city of Hillah where a police
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2012/11/29/iraq-bombs-hillah-shiite/1734143/)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/nov/29/iraq-explosions-dozens-dead-wounded)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

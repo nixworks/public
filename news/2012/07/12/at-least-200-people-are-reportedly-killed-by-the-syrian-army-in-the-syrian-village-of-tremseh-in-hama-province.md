@@ -8,6 +8,7 @@ Some 200 people are reported killed in the central Syrian village of Tremseh, in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18823303)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61545000/jpg/_61545820_syriantank.jpg)
 
 ### Related:
 

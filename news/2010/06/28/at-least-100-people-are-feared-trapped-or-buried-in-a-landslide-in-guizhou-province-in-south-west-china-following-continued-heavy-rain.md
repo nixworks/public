@@ -9,6 +9,7 @@ Officials say about 107 buried in southern China with little chances of survival
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/2010628143821877675.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10433706.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

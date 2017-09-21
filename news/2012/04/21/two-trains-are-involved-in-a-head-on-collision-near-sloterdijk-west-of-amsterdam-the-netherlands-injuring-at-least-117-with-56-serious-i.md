@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17799940)
 2. [Channel Asia News](http://www.channelnewsasia.com/stories/afp_world_business/view/1196717/1/.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59790000/jpg/_59790175_014567987-1.jpg)
 
 ### Related:
 

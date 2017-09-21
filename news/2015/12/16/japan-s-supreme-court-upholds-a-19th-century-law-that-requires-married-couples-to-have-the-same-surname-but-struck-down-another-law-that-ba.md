@@ -8,6 +8,7 @@ Court decision is a setback for campaigners who argued 19th-century law violates
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/16/japanese-court-rules-married-women-cannot-keep-their-surnames)
+1. [Cover Image](https://i.guim.co.uk/img/media/a2df5136907a7a5f4f3331786ab7a677a966926a/0_71_4644_2786/master/4644.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7013067062be5f86af2c4847ce0bc69c)
 
 ### Related:
 

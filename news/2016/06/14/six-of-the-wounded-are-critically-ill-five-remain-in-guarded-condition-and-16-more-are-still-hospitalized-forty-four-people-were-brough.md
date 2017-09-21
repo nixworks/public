@@ -8,6 +8,7 @@ Investigators from the FBI peered deeper Tuesday into the life of the Orlando ni
 ### Source:
 
 1. [The Washington Post'' via ''The Providence Journal](http://www.providencejournal.com/news/20160614/six-people-injured-in-orlando-shooting-still-critically-ill-hospital-says)
+1. [Cover Image](http://www.providencejournal.com/storyimage/PJ/20160614/NEWS/160619698/AR/0/AR-160619698.jpg)
 
 ### Related:
 

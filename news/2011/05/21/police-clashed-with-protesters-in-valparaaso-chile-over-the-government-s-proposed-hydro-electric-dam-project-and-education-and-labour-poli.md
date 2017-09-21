@@ -8,6 +8,7 @@ Police and protesters opposing government policies in Chile clash in the central
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13487338)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52882000/jpg/_52882368_protestors.jpg)
 
 ### Related:
 

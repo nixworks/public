@@ -8,6 +8,7 @@ A leading member of the conservation group Sea Shepherd, who was detained aboard
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/environment/whale-watch/tokyos-angry-reception-for-antiwhaling-activist-20100312-q46s.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/q/4/f/v/image.related.articleLeadwide.620x349.q46s.png/1268409601000.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russian Airborne Troops are planning to expand their military exercises into the
 ### Source:
 
 1. [UPI](http://www.upi.com/Business_News/Security-Industry/2015/11/30/Russian-airborne-forces-to-hold-exercises-in-the-Arctic/2831448902143/?spt=rln&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/2831448902143/2015/1/c6ccf5387b408b3b752297e73f413a52/v1.5/Russian-airborne-forces-to-hold-exercises-in-the-Arctic.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gordon Gee once said he had &quot;no business talking college football.&quot; Bu
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/sports/ncaaf/bigten/2013/06/04/college-football-ohio-state-president-gordon-gee-retires/2390019/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

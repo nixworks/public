@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/20/us-biogen-alzheimers-idUSKBN0MG1OU20150320)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150320&t=2&i=1034023708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2J0S4)
 
 ### Related:
 
@@ -19,5 +20,5 @@
 6. [ "Discworld" author Terry Pratchett, who has Alzheimer's disease, criticises new guidelines on assisted suicide. ](/news/2009/09/27/discworld-author-terry-pratchett-who-has-alzheimer-s-disease-criticises-new-guidelines-on-assisted-suicide.md) _Context: Alzheimer's disease_
 7. [ The body of Noam Moskovich, an Alzheimer's patient who was claimed to be abducted by Palestinian militants, is found in Rishon LeZion. Police ruled out both criminal and terrorist motives. ](/news/2006/06/29/the-body-of-noam-moskovich-an-alzheimer-s-patient-who-was-claimed-to-be-abducted-by-palestinian-militants-is-found-in-rishon-lezion-poli.md) _Context: Alzheimer's disease_
 8. [ The College of American Pathologists asks laboratories worldwide to destroy a flu sample they sent in their testing kits. The Canadian National Microbial Laboratory identified it as a strain of Asian flu virus that killed millions in 1957. People born after 1969 would have no antibodies to resist it. The World Health Organization supports the plea. ](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.md) _Context: antibody_
-9. [ Former U.S. President Ronald Reagan dies at the age of 93 from complications of Alzheimer's disease. ](/news/2004/06/5/former-u-s-president-ronald-reagan-dies-at-the-age-of-93-from-complications-of-alzheimer-s-disease.md) _Context: Alzheimer's disease_
-10. [ Charlton Heston, movie actor and president of the National Rifle Association, announces that he has Alzheimer's disease.](/news/2002/08/10/charlton-heston-movie-actor-and-president-of-the-national-rifle-association-announces-that-he-has-alzheimer-s-disease.md) _Context: Alzheimer's disease_
+9. [ French scientists at the Institut Pasteur announce they have successfully stimulated antibodies to block HIV from infecting human cells "in vitro". The achievement is a significant breakthrough towards the goal of an HIV vaccine. ](/news/2004/11/16/french-scientists-at-the-institut-pasteur-announce-they-have-successfully-stimulated-antibodies-to-block-hiv-from-infecting-human-cells-in.md) _Context: antibody_
+10. [ Former U.S. President Ronald Reagan dies at the age of 93 from complications of Alzheimer's disease. ](/news/2004/06/5/former-u-s-president-ronald-reagan-dies-at-the-age-of-93-from-complications-of-alzheimer-s-disease.md) _Context: Alzheimer's disease_

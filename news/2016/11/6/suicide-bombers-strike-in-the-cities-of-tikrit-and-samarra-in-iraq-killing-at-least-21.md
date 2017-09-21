@@ -10,6 +10,7 @@ Explosives-laden ambulances are used to kill 21 people in the Iraqi cities of Ti
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37888028)
 2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3909882/Suicide-bombers-strike-two-Iraqi-cities-killing-11--officials.html)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blasts-idUSKBN13107V)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E839/production/_92294495_mediaitem92294494.jpg)
 
 ### Related:
 

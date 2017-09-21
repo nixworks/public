@@ -10,6 +10,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4959416.stm)
 2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2006%5C05%5C02%5Cstory_2-5-2006_pg4_24)
 3. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/05/02/wsri02.xml&sSheet=/news/2006/05/02/ixworld.html)
+3. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

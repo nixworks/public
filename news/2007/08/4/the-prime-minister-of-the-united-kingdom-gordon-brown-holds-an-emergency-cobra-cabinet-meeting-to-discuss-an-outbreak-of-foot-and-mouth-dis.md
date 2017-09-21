@@ -9,6 +9,7 @@ Britain tried to contain an outbreak of highly infectious foot and mouth on Satu
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6931639.stm)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSL037131720070804?feedType=RSS)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070804&t=2&i=1246771&w=&fh=545px&fw=&ll=&pl=&sq=&r=1246771)
 
 ### Related:
 

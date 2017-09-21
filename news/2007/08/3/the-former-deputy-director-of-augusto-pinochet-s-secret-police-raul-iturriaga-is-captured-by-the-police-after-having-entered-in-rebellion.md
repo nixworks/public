@@ -8,6 +8,7 @@ A fugitive ex-general from the Pinochet era was captured Thursday, Chilean autho
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-chile3aug03,0,1144327.story?coll=la-home-world)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

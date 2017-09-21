@@ -8,6 +8,7 @@ Share prices of South Korea’s talent agencies have plummeted, and tears have b
 ### Source:
 
 1. [The Wall Street Journal](http://www.wsj.com/articles/china-makes-song-and-dance-over-missile-defense-in-south-korea-1470307432)
+1. [Cover Image](https://si.wsj.net/public/resources/images/OJ-AN422_KPOPCH_TOP_20160804061309.jpg)
 
 ### Related:
 

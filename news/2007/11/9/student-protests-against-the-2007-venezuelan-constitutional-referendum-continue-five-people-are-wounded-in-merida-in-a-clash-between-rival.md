@@ -8,6 +8,7 @@ A leader of the nascent Venezuelan student movement protesting President Hugo Ch
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/11/10/world/americas/10venez.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/11/10/world/10venez.75.jpg)
 
 ### Related:
 

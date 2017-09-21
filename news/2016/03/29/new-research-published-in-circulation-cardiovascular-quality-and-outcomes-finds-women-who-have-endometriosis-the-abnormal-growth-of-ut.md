@@ -9,6 +9,7 @@ Women who have endometriosis may face a 60 percent higher risk of developing hea
 
 1. [NBC News](http://www.nbcnews.com/health/womens-health/endometriosis-increases-risk-heart-disease-young-women-n547381)
 2. [UPI](http://www.upi.com/Health_News/2016/03/29/Endometriosis-linked-to-heart-disease-in-study/4411459284938/?spt=rln&or=4)
+2. [Cover Image](http://media.healthday.com/Images/icimages/33191.jpg?resize=800:600)
 
 ### Related:
 

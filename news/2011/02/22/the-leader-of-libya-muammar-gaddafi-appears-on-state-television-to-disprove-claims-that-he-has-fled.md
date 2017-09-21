@@ -17,6 +17,7 @@ LIBYAN leader Muammar Gaddafi, facing the greatest challenge to his four-decade 
 8. [The Australian](http://www.theaustralian.com.au/news/breaking-news/peru-snaps-ties-with-libya/story-fn3dxity-1226010583957)
 9. [The Guardian](http://www.guardian.co.uk/world/2011/feb/22/libya-crisis-un-security-council)
 10. [The Local](http://www.thelocal.se/32204/20110222/)
+10. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Mortgages gone sour have led the Bloomington company to reduce its Minnesota wor
 ### Source:
 
 1. [Minneapolis-St Paul Star-Tribune](http://www.startribune.com/business/27813299.html)
+1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1490813369)

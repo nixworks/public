@@ -8,6 +8,7 @@ Kurdish fighters killed 13 Turkish soldiers in an ambush Thursday and seven mili
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2011/07/14/uk-turkey-kurds-idUKTRE76D3WF20110714)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

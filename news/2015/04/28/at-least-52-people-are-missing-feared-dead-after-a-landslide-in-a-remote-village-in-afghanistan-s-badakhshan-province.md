@@ -8,6 +8,7 @@ At least 52 people are missing and feared dead following a landslide in a remote
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/28/us-afghanistan-landslide-idUSKBN0NJ1GS20150428)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

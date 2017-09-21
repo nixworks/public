@@ -8,6 +8,7 @@ Suicide bombers struck Kurdish protesters in Kirkuk and Shiite pilgrims in Baghd
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/07/29/world/middleeast/29iraq.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/07/29/world/29iraq-span-75.jpg)
 
 ### Related:
 

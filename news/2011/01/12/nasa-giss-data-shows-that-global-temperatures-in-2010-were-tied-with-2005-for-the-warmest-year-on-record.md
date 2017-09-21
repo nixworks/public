@@ -10,6 +10,7 @@ WASHINGTON, Jan. 12, 2011 /PRNewswire-USNewswire/ -- Global surface temperatures
 1. [GISS Research News](http://www.giss.nasa.gov/research/news/20110112/)
 2. [PR Newswire](http://www.prnewswire.com/news-releases/nasa-research-finds-2010-tied-for-warmest-year-on-record-113389654.html)
 3. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iP5ADEAhfNez-Nq6gy4GjEMAOUhw)
+3. [Cover Image](http://photos.prnewswire.com/prnvar/20081007/38461LOGO)
 
 ### Related:
 

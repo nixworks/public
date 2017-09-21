@@ -8,6 +8,7 @@ An air strike by warplanes from a Saudi-led coalition, which said it targeted a 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/30/us-yemen-security-idUSKCN0QZ09P20150830)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150830&t=2&i=1075638961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7T0CK)
 
 ### Related:
 

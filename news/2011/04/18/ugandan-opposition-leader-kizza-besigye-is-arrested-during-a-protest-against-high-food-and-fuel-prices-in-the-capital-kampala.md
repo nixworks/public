@@ -9,6 +9,7 @@ Kizza Besigye, who challenged incumbent president, among those arrested for stag
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/201141874445864220.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE73H00420110418)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/18/201141889134734_20.jpg)
 
 ### Related:
 

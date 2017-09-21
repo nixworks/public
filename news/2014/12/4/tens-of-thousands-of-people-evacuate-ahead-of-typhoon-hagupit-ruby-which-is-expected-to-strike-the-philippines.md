@@ -8,6 +8,7 @@ Tens of thousands seek shelter as powerful Typhoon Hagupit heads towards parts o
 ### Source:
 
 1. [BBC](http://m.bbc.com/news/world-asia-30324209)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79525000/jpg/_79525833_79525832.jpg)
 
 ### Related:
 

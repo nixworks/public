@@ -8,6 +8,7 @@ Banca Monte dei Paschi di Siena SpA said its exposure to Nomura Holdings Inc exc
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-04-11/monte-paschi-exposure-to-nomura-exceeds-regulatory-capital-limit)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

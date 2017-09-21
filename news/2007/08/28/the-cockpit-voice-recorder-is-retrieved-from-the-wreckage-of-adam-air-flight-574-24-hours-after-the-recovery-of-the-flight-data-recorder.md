@@ -8,6 +8,7 @@ Black box data recorders from an Adam Air jet have been found, eight months afte
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/28/2017951.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

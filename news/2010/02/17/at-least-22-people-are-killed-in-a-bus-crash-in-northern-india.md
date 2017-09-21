@@ -9,6 +9,7 @@ At least 22 people have died after a bus filled with wedding guests plunged into
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/02/17/2822851.htm?section=justin)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8519365.stm)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

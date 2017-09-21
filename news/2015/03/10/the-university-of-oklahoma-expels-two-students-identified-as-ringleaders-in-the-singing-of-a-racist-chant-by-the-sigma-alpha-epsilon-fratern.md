@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/university-oklahoma-expels-two-students-tied-racist-chant-video-n320831)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_11/921741/150309-oklahoma-fraternity-mn-1000_ad375d71981e397b92bf180c9dce03a3.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

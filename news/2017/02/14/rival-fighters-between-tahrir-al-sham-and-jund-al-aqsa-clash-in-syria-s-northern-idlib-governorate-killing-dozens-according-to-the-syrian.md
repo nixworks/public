@@ -8,6 +8,7 @@ Hardline Islamist factions turn on each other in an apparent battle for influenc
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38966601)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/F264/production/_93825026_gettyimages-586398676.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Afghan officials say at least four people have been killed and more than 20 woun
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23573956)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69117000/jpg/_69117486_69117083.jpg)
 
 ### Related:
 

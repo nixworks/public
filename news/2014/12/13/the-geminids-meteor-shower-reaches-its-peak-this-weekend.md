@@ -8,6 +8,7 @@ The 2014 Geminids peak over the next few days, and it&#8217;s likely to be a par
 ### Source:
 
 1. [Boing Boing](http://boingboing.net/2014/12/12/geminid-meteor-showers-peak-th.html)
+1. [Cover Image](http://media.boingboing.net/wp-content/uploads/2014/12/Geminids_Art_725x572.jpg)
 
 ### Related:
 

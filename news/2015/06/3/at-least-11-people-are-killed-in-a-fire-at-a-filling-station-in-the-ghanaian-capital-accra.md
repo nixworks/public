@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Kasapa](http://www.kasapafmonline.com/update-11-dead-in-goil-filling-station-fire-number-could-go-up/)
+1. [Cover Image](http://kasapafmonline.com/wp-content/uploads/2015/06/20150603_225940.jpg)
 
 ### Related:
 

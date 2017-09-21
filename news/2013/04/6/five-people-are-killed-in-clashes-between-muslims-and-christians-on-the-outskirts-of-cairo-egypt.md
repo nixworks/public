@@ -8,6 +8,7 @@ Egyptian security officials say five people have been killed in clashes between 
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/04/06/5-killed-in-clashes-between-muslims-christians-in-egypt-just-outside-cairo/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

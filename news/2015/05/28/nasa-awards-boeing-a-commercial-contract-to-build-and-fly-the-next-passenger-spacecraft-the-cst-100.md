@@ -8,6 +8,7 @@ Nasa has awarded Boeing a commercial human spaceflight mission to include the co
 ### Source:
 
 1. [Fin24](http://www.news24.com/fin24/Companies/Industrial/Boeing-aims-for-human-spaceflight-20150528)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3205/e2149468c78a44ea97674b3eadec9361.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ USA TODAY delivers current local and national news, sports, entertainment, finan
 ### Source:
 
 1. [AP via ''USA Today](http://content.usatoday.net/dist/custom/gci/InsidePage.aspx?cId=indystar&sParam=30818741.story)
+1. [Cover Image](https://www.gannett-cdn.com/uxstatic/usatoday/usat-web-static-2933.0/images/logos/home.png)
 
 ### Related:
 

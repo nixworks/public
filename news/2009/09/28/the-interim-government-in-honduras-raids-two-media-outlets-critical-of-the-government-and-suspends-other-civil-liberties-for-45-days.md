@@ -10,6 +10,7 @@ Station loyal to ousted president is raided after civil liberties are suspended.
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/09/2009928124228951255.html)
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jAkMGKIUDg_ngUiZboxQbYj5_DPwD9B0D6P80)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8279243.stm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

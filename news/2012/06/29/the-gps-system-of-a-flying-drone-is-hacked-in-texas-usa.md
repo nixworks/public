@@ -8,6 +8,7 @@ US researchers take control of a flying drone by sending a &quot;spoof&quot; sig
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-18643134)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61257000/jpg/_61257971_drpme.jpg)
 
 ### Related:
 

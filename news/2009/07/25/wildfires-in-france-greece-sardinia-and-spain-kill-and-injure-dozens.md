@@ -8,6 +8,7 @@ Fires which have raged across swathes of southern Europe are being brought under
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0725/weather.html)
+1. [Cover Image](https://img.rasset.ie/000277ee-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/business/s-p-downgrades-us-1080498.html)
 2. [Reuters](http://www.reuters.com/article/2011/08/06/us-usa-debt-downgrade-idUSTRE7746VF20110806)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110806&t=2&i=474050489&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-06T171027Z_01_BTRE7741OWB00_RTROPTP_0_MARKETS-STOCKS)
 
 ### Related:
 

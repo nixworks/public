@@ -8,6 +8,7 @@ All is not lost for the Prime Minister, who has shown that he can make a virtue 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/politics/david-cameron/10930806/David-Camerons-defeat-over-Juncker-could-work-in-his-favour.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02957/juncker_2957169k.jpg)
 
 ### Related:
 

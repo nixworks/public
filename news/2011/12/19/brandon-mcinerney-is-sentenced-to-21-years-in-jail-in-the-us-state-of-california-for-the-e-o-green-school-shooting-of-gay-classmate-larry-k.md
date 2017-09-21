@@ -8,6 +8,7 @@ A Southern California teenager was sentenced on Monday to 21 years in state pris
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2011/12/19/california-teen-sentenced-to-21-years-for-killing-gay-student/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201004260010&Type=aSOC)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/26/c_13267581.htm)
+2. [Cover Image](http://focustaiwan.tw)
 
 ### Related:
 

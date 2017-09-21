@@ -8,3 +8,4 @@ When Zion Harvey was a toddler, he developed a serious infection that resulted i
 ### Source:
 
 1. [ABC](http://abcnews.go.com/Health/maryland-boy-makes-history-1st-dual-hand-transplant/story?id=32747248)
+1. [Cover Image](http://a.abcnews.com/images/US/AP_Zion_Harvey_ml_150729_16x9_992.jpg)

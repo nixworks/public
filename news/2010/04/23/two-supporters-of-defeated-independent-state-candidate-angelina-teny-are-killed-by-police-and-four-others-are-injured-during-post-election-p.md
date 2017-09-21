@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8641331.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE63M52Z20100423?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

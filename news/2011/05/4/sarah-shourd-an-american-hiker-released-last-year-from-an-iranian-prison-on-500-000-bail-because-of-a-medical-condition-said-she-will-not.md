@@ -8,6 +8,7 @@ An American hiker released last year from an Iranian prison said Wednesday she w
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/04/iran.hikers.trial/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/04/iran.hikers.trial/tzvids.sarah.shourd.cnn.jpg)
 
 ### Related:
 

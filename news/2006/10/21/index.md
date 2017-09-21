@@ -13,7 +13,7 @@ _Context: Boac, Manila, Marinduque, Philippines, Richter scale, earthquake, epic
 _Context: Cabo Corrientes, Jalisco, Mexico, Pacific Ocean, hurricane_
 
 ### [ President of the United States George W. Bush confers with his top Iraq commanders. The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in-sectarian-violence.md)
-_Context: George W. Bush, Iraq, President, Sectarian war in Iraq_
+_Context: George W. Bush, Iraq, Sectarian war in Iraq, U.S. President_
 
 ### [ Fighting has broken out between Somalian troops and a local militia in alliance with the country's new Islamic movement. ](/news/2006/10/21/fighting-has-broken-out-between-somalian-troops-and-a-local-militia-in-alliance-with-the-country-s-new-islamic-movement.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

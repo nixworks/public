@@ -8,6 +8,7 @@ Human rights group accuses Khartoum of using torture and abuse to quell politica
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071913112863816.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

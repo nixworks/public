@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/06/07/nyregion/07terror.html?src=mv)
+1. [Cover Image](https://static01.nyt.com/images/2010/06/07/nyregion/07terror01_span/07terror01_span-thumbStandard.jpg)
 
 ### Related:
 

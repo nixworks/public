@@ -9,6 +9,7 @@ Mutinous soldiers said they seized power in Mali on Thursday and ordered its bor
 
 1. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFL6E8EM04O20120322)
 2. [Reuters](http://uk.reuters.com/article/2012/03/22/uk-mali-army-palace-idUKBRE82K1EZ20120322)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20120322&t=2&i=585680786&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-03-22T130644Z_1_CBRE82L0XS500_RTROPTP_0_MALI-ARMY)
 
 ### Related:
 

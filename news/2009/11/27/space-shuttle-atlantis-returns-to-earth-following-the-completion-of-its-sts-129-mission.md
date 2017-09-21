@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE5AO1EC20091127)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091127&t=2&i=20856440&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-27T134052Z_01_BTRE5AQ120I00_RTROPTP_0_SPACE-SHUTTLE)
 
 ### Related:
 

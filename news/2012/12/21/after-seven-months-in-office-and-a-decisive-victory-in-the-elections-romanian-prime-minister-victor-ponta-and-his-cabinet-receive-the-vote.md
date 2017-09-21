@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2012/12/21/romanian-parliament-approves-new-center-left-government/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2012/12/21/romanian-parliament-approves-new-center-left-government/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449150750988.jpg?ve=1)
 
 ### Related:
 

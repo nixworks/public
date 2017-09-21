@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11540547)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/10/13/AR2010101301545.html?waporef=obinsite)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

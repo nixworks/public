@@ -10,6 +10,7 @@
 1. [Reuters via Trust](http://news.trust.org/item/20160502101758-l9lrf/)
 2. [Reuters](http://in.reuters.com/article/mideast-crisis-iraq-blast-idINKCN0XT0Q7)
 3. [Washington Post](https://www.washingtonpost.com/world/middle_east/iraq-car-bombing-kills-at-least-13-pilgrims-in-baghdad/2016/05/02/2a06a4a0-1056-11e6-a9b5-bf703a5a7191_story.html)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160502&t=2&i=1135449032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC41103)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UTV](http://www.u.tv/News/Sectarian-gangs-riot-in-east-Belfast/93477fab-1c46-4f3b-81b8-085d7180ca28)
+1. [Cover Image](http://www.itv.com/entity/32aa2a6e-046e-4ccd-bb89-9147c581dc43/image.jpg.ashx?q=80&amp;format=jpg&amp;w=1366&amp;h=769)
 
 ### Related:
 

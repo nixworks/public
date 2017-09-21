@@ -8,6 +8,7 @@ Detained Ukrainian servicewoman Nadiya Savchenko is on board a plane returning t
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-ukraine-crisis-savchenko-airplane-idUKKCN0YG14U)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160525&t=2&i=1138636606&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4O0P2)
 
 ### Related:
 

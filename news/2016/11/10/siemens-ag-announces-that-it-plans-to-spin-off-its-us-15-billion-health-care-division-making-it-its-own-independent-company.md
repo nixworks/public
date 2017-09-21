@@ -8,6 +8,7 @@ Siemens AG announced plans to spin off its $15 billion health-care division in o
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-10/siemens-profit-gains-company-plans-health-care-unit-listing)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-markets-3d32d2f713.jpg)
 
 ### Related:
 

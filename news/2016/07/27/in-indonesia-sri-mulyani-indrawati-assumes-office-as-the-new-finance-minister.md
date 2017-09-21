@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-indonesia-politics-energy-idUSKCN1062TI?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160727&t=2&i=1147239043&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6Q0RN)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Federal prosecutors have shelved a criminal investigation of Angelo R. Mozilo af
 ### Source:
 
 1. [L.A. Times](http://articles.latimes.com/2011/feb/18/business/la-fi-mozilo-20110219)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Angry Mogadishu residents protested for a second day on Tuesday against food tra
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL0511343220080506?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080506&t=2&i=4146523&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-05-06T144250Z_01_L05113432_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

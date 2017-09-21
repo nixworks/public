@@ -8,6 +8,7 @@ Afghan leader in Moscow to explore military and business deals with former foe, 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112014297833879.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/20/201112014165460876_20.jpg)
 
 ### Related:
 

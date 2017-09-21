@@ -9,6 +9,7 @@ Turkey scrambles six fighters after Syrian helicopters fly near the border, the 
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gAgt_n_QRiowGiz6mLziaF9ImLcQ?docId=4d8c034f77504f5c9869140d2ee53d09)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-18666165)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61286000/jpg/_61286907_turkishf-16_2003_getty.jpg)
 
 ### Related:
 

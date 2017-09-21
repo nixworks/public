@@ -8,6 +8,7 @@ Eccentric real-estate heir Robert Durst faced an extradition hearing on a murder
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2015/03/16/durst-hbo-murder-hearing/24837005/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A paroled burglar was found guilty Tuesday of murdering a mother and her two dau
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2010/10/05/connecticut-man-face-death-jury-convicts-deadly-home-invasion/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2010/10/05/connecticut-man-face-death-jury-convicts-deadly-home-invasion/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449015150816.jpg?ve=1)
 
 ### Related:
 

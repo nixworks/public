@@ -9,6 +9,7 @@ Israeli Prime Minister Benjamin Netanyahu pledges that the occupied Golan Height
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36067643)
 2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2016/Apr-18/347891-netanyahu-vows-golan-will-remain-israels-forever.ashx)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/2A2D/production/_89279701_89279700.jpg)
 
 ### Related:
 

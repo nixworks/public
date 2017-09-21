@@ -8,6 +8,7 @@ PREMIER Anna Bligh says authorities are watching the Mary River in southern Quee
 ### Source:
 
 1. [News Limited](http://www.news.com.au/breaking-news/national/mary-river-could-flood-gympie/story-e6frfku9-1226281399996)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

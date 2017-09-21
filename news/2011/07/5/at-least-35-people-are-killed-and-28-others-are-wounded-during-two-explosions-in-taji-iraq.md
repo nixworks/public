@@ -9,6 +9,7 @@ Successive explosions kill at least 35 and injure 28 others outside an Iraqi gov
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/20117594835341657.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14026896)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/5/201175153532242734_20.jpg)
 
 ### Related:
 

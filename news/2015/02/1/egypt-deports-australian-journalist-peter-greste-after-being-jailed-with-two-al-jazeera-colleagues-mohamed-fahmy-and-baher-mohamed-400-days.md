@@ -8,6 +8,7 @@ Australian al-Jazeera and ex-BBC journalist Peter Greste is deported from Egypt 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-31083890)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80711000/jpg/_80711027_h5h9d6rm.jpg)
 
 ### Related:
 

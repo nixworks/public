@@ -9,6 +9,7 @@ Iraq is searching for &quot;highly dangerous&quot; radioactive material whose th
 
 1. [AFP via Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2016/02/17/-ISIS-shoots-down-Iraqi-army-helicopter-killing-one-Officials-.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-radiation-idUSKCN0VQ22F)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160217&t=2&i=1118220106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1G12A)
 
 ### Related:
 

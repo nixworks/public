@@ -8,6 +8,7 @@ The U.S. government has announced plans to sell billions of dollars worth of wea
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/world/story/2008/10/03/taiwan-arms.html)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

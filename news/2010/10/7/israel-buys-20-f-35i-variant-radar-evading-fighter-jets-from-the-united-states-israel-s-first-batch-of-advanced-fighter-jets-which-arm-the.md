@@ -10,6 +10,7 @@ Agreement signed for deal worth &#036;2.75 billion including Israeli industries 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i5xNZLCcEKZxAWqYdE7ETMOspESw?docId=CNG.6f30bc546f63595bb7c3371011b8e415.781)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israel-u-s-finalize-f-35-stealth-fighter-purchase-1.317766)
 3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3966219,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

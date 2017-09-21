@@ -8,6 +8,7 @@ The candidates prepare to go head-to-head for the first presidential debate whic
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/clinton-vs-trump-90-minute-debate-could-change-america-10593674)
+1. [Cover Image](http://e3.365dm.com/16/06/1600x900/clinton-trump-1-2048x1536_3483596.jpg?20160802073820)
 
 ### Related:
 

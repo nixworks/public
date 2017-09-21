@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2013/02/02/world/turkey-embassy-bombing)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2013/02/02/16818679-report-turkish-far-left-group-claims-responsibility-for-us-embassy-attack)
 3. [Reuters](http://www.reuters.com/article/2013/02/02/us-turkey-usa-bomb-claim-idUSBRE91107R20130202)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130202&t=2&i=700312823&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91114J100)
 
 ### Related:
 

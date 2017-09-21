@@ -10,6 +10,7 @@ The best of British &amp; international news, opinion, sport, people &amp; busin
 1. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-april-18)
 2. [Ottawa Citizen](http://www.ottawacitizen.com/news/Gadhafi+weapon+choice+rape/4631608/story.html)
 3. [The First Post](http://www.thefirstpost.co.uk/77824,news-comment,news-politics,gaddafis-men-use-rape-as-weapon-of-war)
+3. [Cover Image](https://i1.sndcdn.com/avatars-000089015317-gz9jj0-t500x500.jpg)
 
 ### Related:
 

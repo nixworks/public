@@ -19,6 +19,7 @@ South Africa latest country to express anger over Israeli attack on Gaza aid con
 10. [The Sydney Morning Herald](http://www.smh.com.au/national/freed-journos-tell-of-israeli-commandos-like-hyenas-hunting-20100603-x1mr.html?autostart=1)
 11. [VideoPedia](http://reshet.ynet.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/News/Domestic/internal/Article,44895.aspx)
 12. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3898826,00.html)
+12. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@ China sends its first woman into space as 33-year-old fighter pilot Liu Yang is 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/06/2012616104437633910.html)
 2. [BBC](http://www.bbc.co.uk/news/science-environment-18458544)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60952000/jpg/_60952528_60952527.jpg)
 
 ### Related:
 

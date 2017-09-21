@@ -12,6 +12,7 @@ Does the NSA have any secrets left? First there was PRISM—the network that&amp
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/08/nsa-boundless-informant-global-datamining#)
 4. [The Guardian](http://www.guardian.co.uk/world/2013/jun/08/nsa-surveillance-prism-obama-live#block-51b33af7e4b0cc6424372258)
 5. [The New York Times](http://www.nytimes.com/2013/06/08/technology/tech-companies-bristling-concede-to-government-surveillance-efforts.html?ref=global-home&_r=2&pagewanted=all&)
+5. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/s--YDgQP5N6--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18q7ojwcl1iwbjpg.jpg)
 
 ### Related:
 

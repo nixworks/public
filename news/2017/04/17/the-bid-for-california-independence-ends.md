@@ -8,6 +8,7 @@ The leader of the &quot;Calexit&quot; movement announced in a 1,600-word stateme
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/calexit-leader-louis-marinelli-russia-2017-4)
+1. [Cover Image](http://static4.businessinsider.com/image/58f540b6c75d4a62008b4f09-1190-625/the-leader-of-calexit-just-announced-hes-abandoning-the-movement-and-settling-permanently-in-russia.jpg)
 
 ### Related:
 

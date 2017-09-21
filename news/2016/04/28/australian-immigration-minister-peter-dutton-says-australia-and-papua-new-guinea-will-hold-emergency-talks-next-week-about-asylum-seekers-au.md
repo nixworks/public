@@ -9,6 +9,7 @@ Australia and Papua New Guinea will hold urgent talks over asylum seekers held a
 
 1. [BBC](http://www.bbc.com/news/world-australia-36156753)
 2. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/302485/burnt-iranian-in-critical-condition-on-nauru)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/143D1/production/_89479828_86066760.jpg)
 
 ### Related:
 

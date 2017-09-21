@@ -8,6 +8,7 @@ At least 23 people are killed and 32 injured after a bus plunges into a river in
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2016-04-09/peru-bus-crash/7313044)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

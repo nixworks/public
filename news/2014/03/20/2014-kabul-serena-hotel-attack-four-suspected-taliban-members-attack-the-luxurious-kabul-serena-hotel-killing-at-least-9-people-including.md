@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2014/03/20/us-afghanistan-blast-idUSBREA2J06320140320)
 2. [Yahoo News](http://news.yahoo.com/least-eight-civilians-killed-kabul-hotel-attack-035801809.html;_ylt=AwrBJSAnyCtTFU8AMjLQtDMD)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140320&t=2&i=866665170&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2J0TDA00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Hundreds of residents fled an Indonesian port town for higher ground on Monday w
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/magnitude67-earthquake-strikes-off-indonesia-20110404-1cthe.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/04/c_13812038.htm)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

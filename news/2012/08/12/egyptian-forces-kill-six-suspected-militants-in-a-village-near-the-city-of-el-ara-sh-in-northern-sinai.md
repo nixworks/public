@@ -8,6 +8,7 @@ At least six gunmen are killed by the Egyptian army in the Sinai peninsula durin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19232094)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62220000/jpg/_62220671_62220670.jpg)
 
 ### Related:
 

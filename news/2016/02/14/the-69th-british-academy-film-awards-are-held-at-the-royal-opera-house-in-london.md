@@ -9,6 +9,7 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 
 1. [AP via Yahoo! News](http://news.yahoo.com/dicaprio-favored-best-actor-prize-britains-baftas-101447922.html)
 2. [Deadline](http://deadline.com/2016/02/bafta-awards-live-blog-2016-british-film-academy-1201702474/)
+2. [Cover Image](https://pmcdeadline2.files.wordpress.com/2016/02/john-boyega-bafta.jpg?w=605)
 
 ### Related:
 

@@ -9,6 +9,7 @@ U.S. Secretary of State John Kerry on Monday called his visit to a memorial to v
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/hiroshima-in-focus-as-top/2681586.html)
 2. [Reuters](http://www.reuters.com/article/us-g7-japan-idUSKCN0X802S)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160411&t=2&i=1131948363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3A0VX)
 
 ### Related:
 

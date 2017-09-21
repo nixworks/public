@@ -9,6 +9,7 @@ Judge Mark Goldsmith said he had the power to order the government to keep Iraqi
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/u-s-judge-halts-iraqis-deportation-until-court-review-n782036)
 2. [The Wire](https://thewire.in/156910/us-judge-halts-deportation-iraqi-immigrants/)
+2. [Cover Image](https://thewire.in/wp-content/uploads/2017/07/2017-07-11T225355Z_1_LYNXMPED6A1VP_RTROPTP_3_USA-IMMIGRATION-IRAQ.jpg)
 
 ### Related:
 

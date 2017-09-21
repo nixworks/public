@@ -8,6 +8,7 @@ Four Army bases are to close as part of a shake-up to accommodate thousands of t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21665240)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66213000/jpg/_66213787_66213786.jpg)
 
 ### Related:
 

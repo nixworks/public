@@ -8,6 +8,7 @@ The Zika virus behind an outbreak in Singapore was not imported from South Ameri
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-09-04/zika-virus-in-singapore-likely-evolved-from-southeast-asia)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6GoZLzrjQOk/v0/1200x800.jpg)
 
 ### Related:
 

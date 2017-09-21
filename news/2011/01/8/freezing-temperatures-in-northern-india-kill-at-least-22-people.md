@@ -9,6 +9,7 @@ New Delhi, Jan 8 (IANS) Severe cold and fog Saturday continued to haunt the peop
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iJozv8AKZXJumz_IrI_Om7BUFKvA?docId=71883e833e0645b4b0a57be1b99c0651)
 2. [Sify India](http://www.sify.com/news/no-reprieve-from-cold-and-fog-6-more-die-in-up-news-national-lbiuahieeei.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

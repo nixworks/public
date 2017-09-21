@@ -8,6 +8,7 @@ The former mayor of New York City revealed his decision in a column for Bloomber
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/michael-bloomberg-rules-out-2016-presidential-run/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/01/25/2a449f1d-67cf-41db-a4bb-f815639b8fd6/0125cbsnresbloomberg486058640x360.jpg)
 
 ### Related:
 

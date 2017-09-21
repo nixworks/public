@@ -14,6 +14,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 5. [Reuters](http://uk.reuters.com/article/2012/02/10/uk-syria-idUKL6E8C52E220120210)
 6. [UPI](http://www.upi.com/Top_News/Special/2012/02/10/Egyptians-march-on-Defense-Ministry/UPI-17981328888930/)
 7. [Washington Post](http://www.washingtonpost.com/world/middle-east/bahrain-anti-government-protesters-seek-new-freedom-square-for-uprising-anniversary/2012/02/10/gIQAh4pv3Q_story.html)
+7. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20120210&t=2&i=569149906&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-02-10T143722Z_2_BTRE8190UWJ00_RTROPTP_0_SYRIA-ALEPPO-EXPLOSIONS)
 
 ### Related:
 

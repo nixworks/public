@@ -8,6 +8,7 @@ Force-feeding&#x20;is&#x20;&quot;torture&quot;&#x20;and&#x20;breaks&#x20;interna
 ### Source:
 
 1. [AFP via France24](http://www.france24.com/en/20130501-force-feeding-torture-un-law-guantanamo-hunger-strike)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Guantanamo_3.jpg)
 
 ### Related:
 

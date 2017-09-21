@@ -8,6 +8,7 @@ President Barack Obama&#39;s uncle was stopped on suspicion of drunken driving i
 ### Source:
 
 1. [Peoria Journal Star](http://www.pjstar.com/news/x1698392937/Obamas-uncle-arrested-on-drunken-driving-charge)
+1. [Cover Image](http://www.pjstar.com/storyimage/IP/20110829/NEWS/308299876/AR/0/AR-308299876.jpg)
 
 ### Related:
 

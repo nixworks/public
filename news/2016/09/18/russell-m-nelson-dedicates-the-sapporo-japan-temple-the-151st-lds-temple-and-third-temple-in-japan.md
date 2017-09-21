@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Deseret News](http://www.deseretnews.com/article/865660691/President-Nelson-dedicates-Sapporo-Japan-Temple.html)
+1. [Cover Image](https://cdn.deseretnews.com/images/article/hires/1730820/1730820.jpg)

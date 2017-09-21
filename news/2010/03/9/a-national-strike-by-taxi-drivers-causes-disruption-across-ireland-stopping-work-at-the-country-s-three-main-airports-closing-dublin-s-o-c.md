@@ -10,6 +10,7 @@ Two men who had been staging a sit-in at the offices of the Taxi Regulator in Du
 1. [Ireland Online](http://breakingnews.iol.ie/news/ireland/taxi-drivers-protest-at-three-main-airports-449304.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0309/taxi.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0309/breaking22.html)
+3. [Cover Image](https://img.rasset.ie/0003159c-1600.jpg)
 
 ### Related:
 

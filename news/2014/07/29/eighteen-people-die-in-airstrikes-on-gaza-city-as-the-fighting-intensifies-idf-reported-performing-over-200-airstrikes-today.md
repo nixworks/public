@@ -11,6 +11,7 @@ IDF carries out heaviest strikes to date in northern Gaza. Territory plunged int
 2. [StarTribune](http://www.startribune.com/world/268985901.html)
 3. [The Times of Israel](http://www.timesofisrael.com/israel-hits-symbols-of-hamas-rule-as-128-killed/)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4551809,00.html)
+4. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/07/000_Nic6355908-e1406682814479.jpg)
 
 ### Related:
 

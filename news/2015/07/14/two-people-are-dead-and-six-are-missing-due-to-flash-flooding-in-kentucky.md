@@ -9,6 +9,7 @@ One person was killed and several others were missing as a band of severe thunde
 
 1. [Fox News](http://www.foxnews.com/weather/2015/07/14/2-dead-6-missing-in-eastern-kentucky-floods/)
 2. [NBC News](http://www.nbcnews.com/news/us-news/thunderstorms-roll-across-midwest-1-dead-kentucky-flood-n391616)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_29/1120566/150714-usnews-weather-kentucky-floods-ema-350a_c0f4f91549c8e1e6bcbc11940e9c6cb1.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

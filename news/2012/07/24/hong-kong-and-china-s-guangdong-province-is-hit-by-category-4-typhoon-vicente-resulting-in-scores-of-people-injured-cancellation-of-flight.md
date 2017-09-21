@@ -9,6 +9,7 @@
 
 1. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/hong-kong-battens-down-for-typhoon/story-e6frf7k6-1226433447412)
 2. [Reuters](http://www.reuters.com/article/2012/07/24/us-hongkong-typhoon-idUSBRE86N02620120724)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633582200&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86N047700)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Cheap but toxic synthetic drugs blamed for 2,300 emergency room visits in the la
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/synthetic-marijuana-ring-busted-in-nyc/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/09/16/3c816b64-a378-4be6-8c66-09b08b4503dd/en0916axelrodsynthdrugs.jpg)
 
 ### Related:
 

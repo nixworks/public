@@ -8,6 +8,7 @@ The U.S. State Department today confirmed that an American citizen was &ldquo;in
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Blotter/us-american-citizen-involved-suicide-bombing-syria/story?id=23932535)
+1. [Cover Image](http://a.abcnews.com/images/Blotter/ht_abu_huraira_al_amriki_kb_140530_16x9_992.jpg)
 
 ### Related:
 

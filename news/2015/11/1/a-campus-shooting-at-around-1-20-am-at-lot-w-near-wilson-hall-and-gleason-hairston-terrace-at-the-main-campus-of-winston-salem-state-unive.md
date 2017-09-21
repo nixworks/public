@@ -10,6 +10,7 @@ One student was fatally shot and another injured on the campus of Winston-Salem 
 1. [CNN via MSN](http://www.msn.com/en-us/news/us/winston-salem-state-university-shooting-leaves-1-dead/vi-BBmGL0j?ocid=iehp)
 2. [University note](http://www.wssu.edu/about/featured-stories/advisory-notification.aspx)
 3. [Winston-Salem Journal](http://www.journalnow.com/news/local/shooting-on-wssu-campus-leaves-dead-injured-police-still-looking/article_bfe3bfe0-8090-11e5-8313-d3af20a430e8.html)
+3. [Cover Image](http://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/0/6f/06f525e4-80ab-11e5-b771-bb127f5f8a9c/56362bf6e18ae.image.jpg?crop=1140%2C855%2C30%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize)
 
 ### Related:
 

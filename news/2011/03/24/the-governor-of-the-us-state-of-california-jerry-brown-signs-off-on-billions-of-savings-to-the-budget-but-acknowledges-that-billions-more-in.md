@@ -8,6 +8,7 @@
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/03/24/BA7U1IIV2H.DTL&tsp=1)
+1. [Cover Image](http://ww4.hdnux.com/photos/07/21/33/1906383/18/rawImage.jpg)
 
 ### Related:
 

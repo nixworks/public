@@ -9,6 +9,7 @@
 
 1. [El Espectador](http://www.elespectador.com/noticias/judicial/procuraduria-general-destituyo-e-inhabilito-15-anos-gus-articulo-463082)
 2. [The Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702303330204579248373992786270)
+2. [Cover Image](https://si.wsj.net/img/WSJ_Logo_black_social.gif)
 
 ### Related:
 

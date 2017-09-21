@@ -8,6 +8,7 @@ People across the world give 67 minutes of public service to pay tribute to Mand
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071853612813416.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

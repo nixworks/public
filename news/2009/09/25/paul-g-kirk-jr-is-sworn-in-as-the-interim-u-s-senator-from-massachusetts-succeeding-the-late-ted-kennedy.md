@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Roll Call](http://www.rollcall.com/news/38951-1.html)
+1. [Cover Image](http://cdn.images2.rollcall.com/image/27cf5635a9671932facf9eaaf28bb860456d2c0d8fa9d892971ca7752284a2a3f694222a45edf4131ed6bf50844a038a/images/logos/roll-call-news.png)
 
 ### Related:
 

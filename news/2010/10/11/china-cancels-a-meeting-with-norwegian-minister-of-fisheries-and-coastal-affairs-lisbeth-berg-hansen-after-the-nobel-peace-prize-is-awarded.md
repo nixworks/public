@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/11/china.nobel.wife/index.html?eref=edition)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69A15920101011)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

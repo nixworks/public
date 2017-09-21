@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iCQXkVq-9enu6eaZg4PFfVYldv0A?docId=ea053a7200d2482ca82ad6c9b0f67ec2)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/07/AR2011010700856.html)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

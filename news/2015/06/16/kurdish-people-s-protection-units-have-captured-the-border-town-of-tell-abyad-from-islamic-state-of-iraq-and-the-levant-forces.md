@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/syrian-kurdish-units-close-tal-abyad-150615155954847.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/16/bf9e8e60f4d24671a0c253cf331b548d_18.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Researchers say imprints left by the large bird, which lived in Peru more than 3
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/10/01/science/01penguin.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/10/01/science/01penguin1/01penguin1-thumbStandard.jpg)
 
 ### Related:
 

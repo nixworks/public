@@ -8,6 +8,7 @@ The EU has threatened trade sanctions against Iceland and the Faroe Islands over
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2012/0319/fishing.html)
+1. [Cover Image](https://img.rasset.ie/00055577-1600.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ In her Christmas message this year, the Queen has praised the bravery and commit
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8430564.stm)
 2. [Boston Globe](http://www.boston.com/news/world/europe/articles/2009/12/25/queen_elizabeth_praises_forces_in_afghanistan/?rss_id=Boston.com+--+Latest+news)
 3. [Full text from ''The Daily Telegraph](http://www.telegraph.co.uk/news/newsvideo/royalfamilyvideo/6880071/The-Queens-Christmas-message-2009-in-full.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01549/queen460_1549155a.jpg)
 
 ### Related:
 

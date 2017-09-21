@@ -9,3 +9,4 @@ More than one million websiteaddresses have been compromised by a sophisticated 
 
 1. [Reuters](http://www.reuters.com/article/2011/04/01/hackers-idUSN0116927520110401)
 2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/04/mass-scareware-attack-hits-15m-websites-so-far/1)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

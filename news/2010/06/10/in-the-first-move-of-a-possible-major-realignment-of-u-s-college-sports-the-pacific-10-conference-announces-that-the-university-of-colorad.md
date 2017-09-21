@@ -8,6 +8,7 @@ Colorado is leaving the Big 12 to join the Pac-10.
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5271438)
+1. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F142.png)
 
 ### Related:
 

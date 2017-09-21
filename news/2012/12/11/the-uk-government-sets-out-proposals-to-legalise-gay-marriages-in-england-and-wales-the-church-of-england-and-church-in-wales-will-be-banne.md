@@ -8,6 +8,7 @@ The Church of England and Church in Wales will be banned in law from offering sa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20680924)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64696000/jpg/_64696243_64696242.jpg)
 
 ### Related:
 

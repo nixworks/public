@@ -8,6 +8,7 @@ Delegates at a UN climate conference in Paris have approved a new draft text tha
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-35015765)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11A85/production/_87052327_87052325.jpg)
 
 ### Related:
 

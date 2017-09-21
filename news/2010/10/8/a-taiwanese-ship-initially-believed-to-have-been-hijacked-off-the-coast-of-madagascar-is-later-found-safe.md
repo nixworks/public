@@ -10,6 +10,7 @@ A Taiwanese ship reported to have been seized by pirates east of Madagascar had 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11501657)
 2. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201010070049)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/08/c_13547394.htm)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

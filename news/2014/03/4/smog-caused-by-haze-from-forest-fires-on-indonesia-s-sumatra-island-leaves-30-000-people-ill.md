@@ -8,6 +8,7 @@ SMOG from forest and brush fires on Indonesia’s Sumatra island has triggered r
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/world/asia/smog-leaves-30000-ill-in-indonesias-sumatra-island/story-fnh81fz8-1226844881879)
+1. [Cover Image](http://api.news.com.au/content/1.0/newscomau/images/1226844881794?format=jpg)
 
 ### Related:
 

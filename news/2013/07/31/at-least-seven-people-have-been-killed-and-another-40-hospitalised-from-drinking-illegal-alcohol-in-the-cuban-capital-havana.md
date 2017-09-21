@@ -8,6 +8,7 @@ Eleven people die and more than 40 others are admitted to hospital in the Cuban 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23526369)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69053000/jpg/_69053407_zu01eg3b.jpg)
 
 ### Related:
 

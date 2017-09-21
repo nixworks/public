@@ -13,6 +13,7 @@ A U.S. call for NATO to launch direct attacks on the drugs trade fueling the Tal
 4. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7662127.stm)
 5. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4980BC20081009)
 6. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4983OQ20081009)
+6. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081009&t=2&i=6322209&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-10-09T185238Z_01_BTRE4980PBE00_RTROPTP_0_AFGHANISTAN)
 
 ### Related:
 

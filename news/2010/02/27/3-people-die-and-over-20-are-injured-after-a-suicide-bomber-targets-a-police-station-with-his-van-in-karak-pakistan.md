@@ -8,3 +8,4 @@ Three people are dead and more than 20 injured after a suicide bomber rammed a v
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/suicide-bomber-kills-three-in-pakistan-20100227-pa07.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

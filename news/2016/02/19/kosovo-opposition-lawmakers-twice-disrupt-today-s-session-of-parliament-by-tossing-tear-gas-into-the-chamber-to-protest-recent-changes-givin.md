@@ -9,6 +9,7 @@ PRISTINA: Despite security checks at the entrance, Kosovo opposition lawmakers o
 
 1. [ (Arab News](http://www.arabnews.com/world/news/883191)
 2. [AFP via ''GlobalPost](http://www.globalpost.com/article/6735229/2016/02/19/kosovo-mps-stage-new-tear-gas-protest-parliament)
+2. [Cover Image](http://www.arabnews.com/sites/default/files/2016/02/19/file-19-1455886353145715500.jpg)
 
 ### Related:
 

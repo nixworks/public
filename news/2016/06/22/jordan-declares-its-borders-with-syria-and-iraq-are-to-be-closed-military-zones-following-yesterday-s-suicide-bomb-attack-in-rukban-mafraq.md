@@ -8,6 +8,7 @@ Jordan declares its border regions with Syria and Iraq to be closed military zon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-36593579)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/F6B3/production/_90055136_mediaitem90055135.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jakarta Globe](http://jakartaglobe.beritasatu.com/news/76-rescued-five-missing-bali-ferry-capsizes/)
+1. [Cover Image](http://img.thejakartaglobe.com/2016/03/Dua-Korban-Kapal-Tenggeam-Ditemukan-050416-BCS-2-1024x682.jpg)
 
 ### Related:
 

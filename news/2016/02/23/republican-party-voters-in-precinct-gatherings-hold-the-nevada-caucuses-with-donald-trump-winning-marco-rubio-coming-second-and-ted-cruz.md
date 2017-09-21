@@ -10,6 +10,7 @@ Republicans brace for the Nevada caucus Tuesday, while South Carolina Democrats 
 1. [ABC 7](http://abc7chicago.com/politics/republicans-brace-for-nevada-caucus/1213234/)
 2. [Oregon Live](http://www.oregonlive.com/today/index.ssf/2016/02/nevada_republican_caucus_live.html)
 3. [Washington Examiner](http://www.washingtonexaminer.com/caucus-chaos-in-nevada-voters-report-possible-fraud/article/2584025)
+3. [Cover Image](http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/1213226_1280x720.jpg)
 
 ### Related:
 

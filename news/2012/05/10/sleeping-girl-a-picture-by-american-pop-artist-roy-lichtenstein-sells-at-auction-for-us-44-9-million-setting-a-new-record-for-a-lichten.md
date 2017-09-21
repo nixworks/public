@@ -8,6 +8,7 @@ A work by Pop Art icon Roy Lichtenstein sells for a record $45 million at a New 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18016495)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60137000/jpg/_60137289_sleepingelvis_464reutersap.jpg)
 
 ### Related:
 

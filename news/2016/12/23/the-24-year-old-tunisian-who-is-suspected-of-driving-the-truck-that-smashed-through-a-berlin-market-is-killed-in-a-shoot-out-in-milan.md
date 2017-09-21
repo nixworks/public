@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-germany-truck-idUSKBN14C0JP)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161223&t=2&i=1166517593&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBM0JA)
 
 ### Related:
 

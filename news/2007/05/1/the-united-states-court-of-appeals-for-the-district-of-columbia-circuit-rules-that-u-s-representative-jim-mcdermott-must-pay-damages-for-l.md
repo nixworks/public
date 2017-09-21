@@ -8,6 +8,7 @@ The case arose arose from a conference call that Representative Jim McDermott, D
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/05/02/washington/02court.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

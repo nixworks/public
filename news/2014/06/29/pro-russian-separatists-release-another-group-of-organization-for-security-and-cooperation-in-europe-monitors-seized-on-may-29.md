@@ -8,6 +8,7 @@ Pro-Russian separatist rebels in eastern Ukraine on June 29 released a second gr
 ### Source:
 
 1. [Reuters via Huriyet](http://www.hurriyetdailynews.com/pro-russian-rebels-in-ukraine-free-second-group-of-osce-monitors.aspx?pageID=238&nID=68416&NewsCatID=351)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201406/n_68416_1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Stagehands belonging to the Local One of the International Alliance of Theatrica
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,310336,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

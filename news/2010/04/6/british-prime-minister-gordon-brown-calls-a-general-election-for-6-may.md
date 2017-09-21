@@ -10,6 +10,7 @@ Prime minister confirms May 6 as date for vote that could see his Labour party o
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010469427936924.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8603591.stm)
 3. [RTÉ](http://www.rte.ie/news/2010/0406/ukpolitics.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

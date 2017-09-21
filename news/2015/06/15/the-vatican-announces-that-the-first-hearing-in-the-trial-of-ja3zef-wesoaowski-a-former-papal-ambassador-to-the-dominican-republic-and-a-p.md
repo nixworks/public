@@ -9,3 +9,4 @@ The Vatican orders the trial of a former archbishop over paedophilia charges.
 
 1. [ABC News](http://www.abc.net.au/news/2015-06-15/vatican-to-hold-first-trial-of-senior-cleric-for-paedophilia/6548170)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2015/06/15/414590808/vatican-prosecutor-indicts-defrocked-priest-on-pedophilia-charges)
+2. [Cover Image](http://www.abc.net.au/news/image/5764946-1x1-700x700.jpg)

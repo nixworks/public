@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2015/10/04/us/east-coast-rain-flood/)
 2. [NBC News](http://www.nbcnews.com/news/weather/stay-your-house-officials-warn-residents-during-unprecedented-1000-year-n438306)
 3. [Sydney Tenplay](http://tenplay.com.au/news/national/october/seven-people-have-died-in-us-storm)
+3. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_41/1248836/151005-south-carolina-flooding-rd-1210a_1b39a901553283e98c43764ed0fce2c7.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

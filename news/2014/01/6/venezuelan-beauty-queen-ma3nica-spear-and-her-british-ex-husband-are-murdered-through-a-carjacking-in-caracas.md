@@ -8,6 +8,7 @@ Former Miss Venezuela Monica Spear and British ex-husband murdered and daughter 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2014/01/venezuelan-beauty-queen-shot-dead-robbers-20141722109839433.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/1/7//20141723175390734_20.jpg)
 
 ### Related:
 

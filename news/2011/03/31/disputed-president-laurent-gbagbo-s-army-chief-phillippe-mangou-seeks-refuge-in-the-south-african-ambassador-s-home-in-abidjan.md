@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12923496)
 2. [CNN](http://edition.cnn.com/2011/WORLD/africa/03/31/ivory.coast.unrest/index.html?hpt=T1)
 3. [Reuters](http://af.reuters.com/article/southAfricaNews/idAFLDE72U00420110331?sp=true)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

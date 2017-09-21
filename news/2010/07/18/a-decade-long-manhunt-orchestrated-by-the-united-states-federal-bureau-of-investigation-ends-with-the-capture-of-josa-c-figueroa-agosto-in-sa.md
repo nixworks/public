@@ -9,6 +9,7 @@ An alleged drug kingpin, known as the Pablo Escobar of the Caribbean, has been a
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10675333)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/cocaine-kingpin-nabbed-after-10-years-20100718-10fly.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

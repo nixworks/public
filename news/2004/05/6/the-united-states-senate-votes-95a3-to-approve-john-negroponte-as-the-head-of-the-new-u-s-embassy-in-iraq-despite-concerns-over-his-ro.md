@@ -11,6 +11,7 @@ The Senate on Thursday easily confirmed John D. Negroponte as the first U.S. amb
 2. [IPS](http://www.commondreams.org/headlines04/0430-03.htm)
 3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-negroponte7may07,1,5504289.story?coll=la-home-world)
 4. [NYT](http://www.nytimes.com/aponline/international/AP-Iraq.html)
+4. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

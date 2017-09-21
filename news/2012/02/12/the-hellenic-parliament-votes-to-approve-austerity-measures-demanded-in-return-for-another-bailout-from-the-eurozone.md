@@ -13,6 +13,7 @@ Protests grow in the Greek capital, Athens, with buildings set alight as MPs vot
 4. [CNN](http://edition.cnn.com/2012/02/12/world/europe/greece-debt-crisis/index.html?eref=edition)
 5. [Ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_wsite3_1_13/02/2012_427392)
 6. [Reuters](http://www.reuters.com/article/2012/02/13/us-greece-idUSTRE8120HI20120213)
+6. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58466000/jpg/_58466333_fire_ap464.jpg)
 
 ### Related:
 

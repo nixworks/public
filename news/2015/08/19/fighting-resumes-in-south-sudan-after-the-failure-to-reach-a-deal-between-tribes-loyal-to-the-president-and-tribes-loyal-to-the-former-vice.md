@@ -8,6 +8,7 @@ A military spokesman says fighting has resumed between South Sudanese troops and
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/08/19/fighting-resumes-in-south-sudan-after-president-declines-to-sign-peace-deal/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

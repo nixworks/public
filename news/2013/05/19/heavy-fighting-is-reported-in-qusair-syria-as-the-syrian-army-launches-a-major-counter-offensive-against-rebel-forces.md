@@ -8,3 +8,4 @@ Fierce fighting is reported in the strategic Syrian town of Qusair, as rebels an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22592627)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67704000/jpg/_67704532_67704531.jpg)

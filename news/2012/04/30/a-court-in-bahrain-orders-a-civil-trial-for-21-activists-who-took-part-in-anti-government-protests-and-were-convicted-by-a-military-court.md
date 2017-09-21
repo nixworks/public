@@ -8,6 +8,7 @@ Appeals court rules that opposition activists, including hunger striker Abdulhad
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201243063120131864.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/7/201247174432125734_20.jpg)
 
 ### Related:
 

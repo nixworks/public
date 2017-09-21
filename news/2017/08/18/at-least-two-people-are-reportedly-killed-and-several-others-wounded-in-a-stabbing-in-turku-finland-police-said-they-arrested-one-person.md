@@ -9,6 +9,7 @@ Several people were stabbed in the Finnish city of Turku, police said on Friday,
 
 1. [HS](http://www.hs.fi/kotimaa/art-2000005331688.html)
 2. [Reuters](http://www.reuters.com/article/us-finland-stabbing-idUSKCN1AY1IS)
+2. [Cover Image](https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

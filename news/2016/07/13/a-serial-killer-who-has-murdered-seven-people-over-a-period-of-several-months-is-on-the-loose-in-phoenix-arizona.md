@@ -8,6 +8,7 @@ Police say they have now connected eight shootings since March.
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/news/us-news/phoenix-serial-shootings-four-more-crimes-added-deadly-pattern-n608236)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_28/1617371/160712-phoenix-suspect-sketch-mn-1530_424793b3aad73f8a2ff4391ec193a309.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

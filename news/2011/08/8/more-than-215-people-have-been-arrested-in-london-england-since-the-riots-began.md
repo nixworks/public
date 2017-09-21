@@ -14,6 +14,7 @@ Rioting has spread across London with cars and buildings set alight on a third n
 5. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/100-arrests-after-riots-and-looting-16033689.html)
 6. [Daily Mail](http://www.dailymail.co.uk/news/article-2023554/LONDON-RIOTS-Third-night-violence-police-consider-banning-Notting-Hill-carnival.html)
 7. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8689570/London-riots-Boris-Johnson-agrees-to-return-to-London.html)
+7. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54492000/jpg/_54492983_croydon.jpg)
 
 ### Related:
 

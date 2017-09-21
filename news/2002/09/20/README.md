@@ -1,7 +1,7 @@
 ## [2002-09-20](/news/2002/09/20/index.md)
 
 ### [ U.S. plan to invade Iraq: White House and Pentagon officials announce that Gen. Tommy Franks presented detailed war plans to President Bush in early September.](/news/2002/09/20/u-s-plan-to-invade-iraq-white-house-and-pentagon-officials-announce-that-gen-tommy-franks-presented-detailed-war-plans-to-president-bush.md)
-_Context: 2003 invasion of Iraq, Gen. Tommy Franks, George W. Bush_
+_Context: 2003 invasion of Iraq, George W. Bush, Tommy Franks_
 
 ### [ Spirited Away was released in the US.](/news/2002/09/20/spirited-away-was-released-in-the-us.md)
 _Context: Spirited Away_

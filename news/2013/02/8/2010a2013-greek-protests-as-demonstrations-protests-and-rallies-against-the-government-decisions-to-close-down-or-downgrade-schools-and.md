@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Zougla.gr](http://www.zougla.gr/greece/article/ierapetra-maziki-simetoxi-sto-silalitirio)
+1. [Cover Image](http://www.zougla.gr/assets/images/400x300/930542.jpg)
 
 ### Related:
 

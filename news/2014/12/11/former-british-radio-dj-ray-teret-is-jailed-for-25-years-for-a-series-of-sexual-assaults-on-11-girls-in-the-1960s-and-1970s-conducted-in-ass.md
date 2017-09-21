@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Billboard](https://www.billboard.com/biz/articles/news/legal-and-management/6405570/radio-dj-ray-teret-friend-of-jimmy-savile-jailed-for)
+1. [Cover Image](http://www.billboard.com/files/media/ray-teret-2013-billboard-650-b.jpg)
 
 ### Related:
 

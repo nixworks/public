@@ -8,6 +8,7 @@ Bill that would ban Americans from adopting Russian children comes after US pass
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121219151717690939.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/19/2012121915594152580_20.jpg)
 
 ### Related:
 

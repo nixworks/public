@@ -8,6 +8,7 @@ The injunction preventing the removal of asylum seekers to Malaysia has been ext
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2011-08-08/high-court-asylum-swap-decision/2829446?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/2824734-1x1-700x700.jpg)
 
 ### Related:
 

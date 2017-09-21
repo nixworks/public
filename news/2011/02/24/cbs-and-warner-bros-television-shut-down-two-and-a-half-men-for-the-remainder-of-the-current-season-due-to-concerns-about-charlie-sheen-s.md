@@ -8,6 +8,7 @@ CBS has pulled the plug on “Two and a Half Men”… for now.
 ### Source:
 
 1. [Access Hollywood](http://www.accesshollywood.com/breaking-news-cbs-cancels-production-on-sheens-two-and-a-half-men-for-remainder-of-season-following-actors-radio-rant_article_44366)
+1. [Cover Image](https://d919ce141ef35c47fc40-b9166a60eccf0f83d2d9c63fa65b9129.ssl.cf5.rackcdn.com/images/137804.2e16d0ba.fill-300x300.jpg)
 
 ### Related:
 

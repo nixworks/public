@@ -8,6 +8,7 @@ EU members states have accepted Bosnia&#39;s membership application, starting a 
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/eu-accepts-bosnia-and-herzegovinas-membership-application/a-19563808)
+1. [Cover Image](http://www.dw.com/image/19563817_304.jpg)
 
 ### Related:
 

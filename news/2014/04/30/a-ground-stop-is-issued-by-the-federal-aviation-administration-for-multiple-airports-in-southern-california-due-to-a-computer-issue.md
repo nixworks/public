@@ -8,6 +8,7 @@ Travelers scrambled on Wednesday to make alternate plans after a computer glitch
 ### Source:
 
 1. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/LAX-ground-stop-flights-257410331.html)
+1. [Cover Image](http://media.nbclosangeles.com/images/1200*675/lax-flights-grounded.jpg)
 
 ### Related:
 

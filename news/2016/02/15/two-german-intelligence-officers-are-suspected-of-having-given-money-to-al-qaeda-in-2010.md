@@ -9,6 +9,7 @@
 
 1. [Berliner Morgenpost](http://www.morgenpost.de/incoming/article207041801/Bundesanwaelte-ermitteln-gegen-Verfassungsschuetzer.html)
 2. [Sputniknews](http://sputniknews.com/europe/20160215/1034773754/germany-agents-al-qaeda.html)
+2. [Cover Image](http://img.morgenpost.de/img/panorama/crop207042585/9442608885-w820-cv16_9-q85/14907E00216F0726.jpg)
 
 ### Related:
 

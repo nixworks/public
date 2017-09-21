@@ -9,6 +9,7 @@ Hip-hop pop collective Gorillaz - who are fronted by Damon Albarn - announce the
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10729062)
 2. [Brisbane Times](http://www.brisbanetimes.com.au/entertainment/stage/experience-the-gorillaz-live-20100722-10m37.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

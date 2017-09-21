@@ -11,6 +11,7 @@ London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extr
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/WikiLeaks-Julians-Mother-Christine-Defends-Him-And-Says-He-Is-Not-Guilty-Of-Rape/Article/201012215851184?lpos=World_News_First_Home_Page_Feature_Teaser_Region_0&lid=ARTICLE_15851184_WikiLeaks:_Julians_Mother_Christine_Defends_Him_And_Says_He_Is_Not_Guilty_Of_Rape)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8195120/WikiLeaks-Julian-Assange-could-face-spying-charges.html)
 4. [The Guardian](http://www.guardian.co.uk/media/2010/dec/10/julian-assange-lawyers-us-charges)
+4. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

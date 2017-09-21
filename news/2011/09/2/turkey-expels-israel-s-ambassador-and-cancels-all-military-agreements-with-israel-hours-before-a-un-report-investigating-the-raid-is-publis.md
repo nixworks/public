@@ -10,6 +10,7 @@ The move came after Israel’s refusal to apologize for a raid last year in whic
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14762475)
 2. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=236380)
 3. [The New York Times](http://www.nytimes.com/2011/09/03/world/middleeast/03turkey.html?hp)
+3. [Cover Image](https://static01.nyt.com/images/2011/09/03/world/03turkey/03turkey-thumbStandard.jpg)
 
 ### Related:
 

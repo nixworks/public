@@ -8,6 +8,7 @@ China said on Wednesday a third infant had died after drinking contaminated milk
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/26755023/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Malaysian soldiers launch an assault on armed members of a Filipino clan in an o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21665135)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66201000/jpg/_66201683_66201682.jpg)
 
 ### Related:
 

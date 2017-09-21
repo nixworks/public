@@ -8,6 +8,7 @@ The army in Bangladesh foils a coup planned against the government of Prime Mini
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16627852)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57980000/jpg/_57980772_013751182-1.jpg)
 
 ### Related:
 

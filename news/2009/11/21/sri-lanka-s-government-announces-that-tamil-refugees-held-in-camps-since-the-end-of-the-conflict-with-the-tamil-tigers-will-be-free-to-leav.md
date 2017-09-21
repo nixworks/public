@@ -10,6 +10,7 @@ Government official says last batch of inmates of detention camps to go home in 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/200911219933906785.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8371820.stm)
 3. [The Island](http://www.island.lk/2009/11/21/news9.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

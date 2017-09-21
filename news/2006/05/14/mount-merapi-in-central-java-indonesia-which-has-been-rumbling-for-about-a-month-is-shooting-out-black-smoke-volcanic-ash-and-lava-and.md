@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4769489.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/14/indonesia.volcano/)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-14T053348Z_01_JAK109650_RTRUKOC_0_US-INDONESIA-VOLCANO.xml)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

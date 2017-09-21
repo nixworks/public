@@ -4,7 +4,7 @@
 _Context: Illinois, Ray LaHood, Republican, Secretary of Transportation, United States House of Representatives_
 
 ### [ U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. ](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.md)
-_Context:  subsidies, Bush Administration, China, George W. Bush, President, World Trade Organization, export_
+_Context:  subsidies, Bush Administration, China, George W. Bush, U.S. President, World Trade Organization, export_
 
 ### [ Rangzieb Ahmed, the highest-ranked al-Qaeda operative in the United Kingdom, becomes the first person convicted of the charge of directing terrorism. ](/news/2008/12/19/rangzieb-ahmed-the-highest-ranked-al-qaeda-operative-in-the-united-kingdom-becomes-the-first-person-convicted-of-the-charge-of-directing.md)
 _Context: Rangzieb Ahmed, United Kingdom, al-Qaeda, terrorism_

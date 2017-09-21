@@ -8,6 +8,7 @@ Pluto&#039;s fourth and fifth moons, discovered in 2011 and 2012, have been name
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/technology/sci-tech/manyheaded-dog-goddess-lend-names-to-pluto-moons-20130703-2paqd.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/p/a/s/g/image.related.articleLeadwide.620x349.2paqd.png)
 
 ### Related:
 

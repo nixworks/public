@@ -8,6 +8,7 @@ Somalia&rsquo;s Al Qaeda linked Al Shabaab militants have taken back strategic I
 ### Source:
 
 1. [Garowe Online](http://www.garoweonline.com/page/show/post/831/somalia-al-shabaab-militants-take-back-strategic-kudhaa-island)
+1. [Cover Image](http://www.garoweonline.com/upload/images/Article/1453119494.792a4/main/og.jpeg)
 
 ### Related:
 

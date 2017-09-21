@@ -8,6 +8,7 @@ A student armed with a makeshift crossbow and a knife kills a teacher at a schoo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-32380705)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82432000/jpg/_82432308_026840575-1.jpg)
 
 ### Related:
 

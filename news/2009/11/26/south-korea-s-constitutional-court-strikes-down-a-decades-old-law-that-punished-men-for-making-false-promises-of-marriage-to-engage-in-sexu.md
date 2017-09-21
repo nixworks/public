@@ -10,6 +10,7 @@
 1. [Korea Herald](http://www.koreaherald.co.kr/NEWKHSITE/data/html_dir/2009/11/27/200911270029.asp)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/SKorea-scraps-decades-old-sex-law-targeting-men/articleshow/5271779.cms)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2009/11/26/76/0302000000AEN20091126005200315F.HTML)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

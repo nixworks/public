@@ -8,6 +8,7 @@ Volcano in Philippines erupts into life, killing four climbers and trapping othe
 ### Source:
 
 1. [AP via New Zealand Stuff](http://www.stuff.co.nz/world/asia/8642733/Volcano-kills-climbers-in-Philippines)
+1. [Cover Image](https://static2.stuff.co.nz/1367895282/744/8642744.jpg)
 
 ### Related:
 

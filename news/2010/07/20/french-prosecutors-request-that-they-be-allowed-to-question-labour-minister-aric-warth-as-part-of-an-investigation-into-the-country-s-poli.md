@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10705320)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE66J4YS20100720?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100720&t=2&i=159284578&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-20T175844Z_01_BTRE66J1DY000_RTROPTP_0_FRANCE)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nearly 20 Kansas sixth-grade girls were injured Wednesday afternoon when their s
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/08/21/kansas-bus-crash-bonner-springs/2681647/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

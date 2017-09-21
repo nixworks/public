@@ -12,6 +12,7 @@ Donald Trump says he will deport or jail up to three million &quot;criminal&quot
 3. [Sky News](http://news.sky.com/story/donald-trump-makes-extreme-right-stephen-bannon-his-chief-strategist-10657033)
 4. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/11/13/kellyanne-conway-its-up-to-hillary-clinton-obama-to-calm-anti-trump-protesters/)
 5. [The Washington Post](https://www.washingtonpost.com/world/europe/eu-foreign-ministers-meet-to-figure-out-what-to-do-now-that-trump-has-won/2016/11/13/c0c95ed8-a9bb-11e6-8f19-21a1c65d2043_story.html)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7032/production/_92422782_mediaitem92422781.jpg)
 
 ### Related:
 

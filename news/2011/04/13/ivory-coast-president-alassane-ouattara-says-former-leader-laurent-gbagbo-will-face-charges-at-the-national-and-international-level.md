@@ -8,6 +8,7 @@ Former president to face charges while Ouattara pledges to ask ICC to probe alle
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/20114131271630353.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/13/2011413124511331784_20.jpg)
 
 ### Related:
 

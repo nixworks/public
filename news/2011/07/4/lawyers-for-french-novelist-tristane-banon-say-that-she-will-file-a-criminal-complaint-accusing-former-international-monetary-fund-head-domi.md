@@ -8,6 +8,7 @@ Dominique Strauss-Kahn faced a new sexual assault investigation on Tuesday when 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/43631294)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_rossen_dsk_110704.standard.jpg)
 
 ### Related:
 

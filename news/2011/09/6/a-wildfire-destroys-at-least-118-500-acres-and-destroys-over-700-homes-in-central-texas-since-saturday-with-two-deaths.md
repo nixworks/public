@@ -9,6 +9,7 @@ A raging wildfire near Austin, Texas, killed two people, officials said Tuesday,
 
 1. [CNN](http://edition.cnn.com/2011/US/09/06/texas.fires/index.html)
 2. [Houston Chronicle](http://www.chron.com/news/houston-texas/article/Texas-wildfires-claim-2-lives-2158303.php)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/09/06/texas.fires/tzvids.texas.wildfires.gi.jpg)
 
 ### Related:
 

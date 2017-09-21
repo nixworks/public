@@ -8,6 +8,7 @@
 ### Source:
 
 1. [US Daily Mail](http://usdailymail.com/2016/12/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-ahead-of-snow/)
+1. [Cover Image](http://usdailymail.com/wp-content/uploads/2016/12/Alaska.jpg)
 
 ### Related:
 

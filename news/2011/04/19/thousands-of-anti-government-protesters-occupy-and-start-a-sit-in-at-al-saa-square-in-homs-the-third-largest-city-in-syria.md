@@ -10,6 +10,7 @@
 1. [AlJazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011419135036463804.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13124591)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-13134322)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52238000/jpg/_52238644_homs.jpg)
 
 ### Related:
 

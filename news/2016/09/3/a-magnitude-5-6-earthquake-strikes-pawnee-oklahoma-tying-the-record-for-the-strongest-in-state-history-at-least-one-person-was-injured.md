@@ -11,6 +11,7 @@ Officials with the Pawnee County Emergency Management say buildings there suffer
 2. [KOKI-TV](http://www.fox23.com/news/pawnee-building-collapses-during-massive-earthquake/436463982)
 3. [KOTV 6](http://www.news9.com/story/33008800/state-responds-to-56-earthquake)
 4. [The New York Times](http://www.nytimes.com/2016/09/04/us/earthquake-ties-record-for-strongest-in-oklahoma-history.html?_r=0)
+4. [Cover Image](http://mediaweb.fox23.com/photo/2016/09/03/pawnee_20160903125542984_5858733_ver1.0_640_360.jpg)
 
 ### Related:
 

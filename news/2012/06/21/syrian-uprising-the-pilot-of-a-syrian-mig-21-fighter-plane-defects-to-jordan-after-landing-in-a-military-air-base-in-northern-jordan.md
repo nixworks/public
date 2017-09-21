@@ -12,6 +12,7 @@ A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet acr
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18535330)
 4. [IBN Live](http://ibnlive.in.com/news/mubarak-health-issues-adds-to-egypt-uncertainty/267198-2.html)
 5. [The Independent](http://www.independent.co.uk/news/world/africa/toppled-president-hosni-mubarak-clings-to-life-after-suffering-stroke-7870083.html)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61055000/jpg/_61055738_015117730-1.jpg)
 
 ### Related:
 

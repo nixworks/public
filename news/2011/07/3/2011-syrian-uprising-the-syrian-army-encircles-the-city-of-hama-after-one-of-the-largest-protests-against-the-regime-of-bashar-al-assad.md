@@ -12,6 +12,7 @@ The Syrian military has encircled the central city of Hama, according to media r
 3. [BBC](http://www.bbc.co.uk/news/world-africa-14009206)
 4. [CBC](http://www.cbc.ca/news/world/story/2011/07/03/syria-sunday.html)
 5. [The Financial Times](http://www.ft.com/cms/s/0/f5da391a-a59a-11e0-83b2-00144feabdc0.html#axzz1R4zgzb00)
+5. [Cover Image](https://i.cbc.ca/1.2006212.1381643442!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-syria-troops-852-ap-00817392.jpg)
 
 ### Related:
 

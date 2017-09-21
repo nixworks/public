@@ -8,6 +8,7 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27018199)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74220000/jpg/_74220927_74220926.jpg)
 
 ### Related:
 

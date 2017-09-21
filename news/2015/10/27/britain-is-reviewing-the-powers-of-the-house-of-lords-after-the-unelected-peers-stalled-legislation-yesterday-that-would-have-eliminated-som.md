@@ -9,6 +9,7 @@
 
 1. [AP via Washington Post](https://www.washingtonpost.com/world/europe/uk-reviews-powers-of-house-of-lords-after-tax-vote/2015/10/27/7de24570-7c9f-11e5-bfb6-65300a5ff562_story.html)
 2. [BBC](http://www.bbc.com/news/uk-politics-34647544)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8FB0/production/_86348763_daviddavis.jpg)
 
 ### Related:
 

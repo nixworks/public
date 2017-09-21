@@ -9,6 +9,7 @@ The biggest leak of military records in US history, released by Wikileaks, shows
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11611319)
 2. [New York Times](http://www.nytimes.com/2010/10/23/world/middleeast/23iran.html?_r=1&pagewanted=all)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/49626000/jpg/_49626755_000777526-1.jpg)
 
 ### Related:
 

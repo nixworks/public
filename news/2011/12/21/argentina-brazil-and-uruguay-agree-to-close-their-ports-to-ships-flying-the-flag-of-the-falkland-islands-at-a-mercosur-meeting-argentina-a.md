@@ -8,6 +8,7 @@ Brazil, Argentina and Uruguay agree to close their ports to shipping bearing fla
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2011/12/201112215617760856.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/21/2011122153639154734_20.jpg)
 
 ### Related:
 

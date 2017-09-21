@@ -9,6 +9,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/german-woman-killed-bali-boat-explosion-20-injured-42104312)
 2. [The Jakarta Post](http://www.thejakartapost.com/news/2016/09/15/boat-explosion-in-bali-injures-20-kills-one.html)
+2. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

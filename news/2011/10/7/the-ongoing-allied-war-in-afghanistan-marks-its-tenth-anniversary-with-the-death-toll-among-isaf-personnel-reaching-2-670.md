@@ -8,6 +8,7 @@ Afghanistan is marking 10 years since the start of the US-led war against the Ta
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/afghanistan-marks-10-years-since-war-20111007-1ld00.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

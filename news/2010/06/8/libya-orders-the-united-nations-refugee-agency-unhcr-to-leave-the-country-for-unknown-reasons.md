@@ -10,6 +10,7 @@ UNHCR says it was told to cease operations without explanation.
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/06/201068125618708673.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10264625.stm)
 3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6570CJ20100608)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

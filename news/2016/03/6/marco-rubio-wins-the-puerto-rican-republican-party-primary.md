@@ -9,6 +9,7 @@ Bernie Sanders beats Hillary Clinton in the Maine caucuses, the latest contest i
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_2016_ELECTION_MAINE_DEM?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/election-us-2016-35741360)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BA69/production/_88612774_86255b89-91f3-4497-874b-e7b4bfa1521e.jpg)
 
 ### Related:
 

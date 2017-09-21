@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/2015/09/10/britney-spears-popular-show--staying--vegas-two-more-years/72001670/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

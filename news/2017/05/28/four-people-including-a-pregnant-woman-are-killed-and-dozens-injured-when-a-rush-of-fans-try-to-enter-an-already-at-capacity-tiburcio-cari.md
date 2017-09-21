@@ -10,6 +10,7 @@ A tragic stampede ahead of the Clausura final between Motagua and Progreso cost 
 1. [AP](http://apnews.com/bb2f14d9512241558c7b6db481adf00a/Mueren-5-en-estampida-en-estadio-de-Honduras)
 2. [Sporting  News](http://www.sportingnews.com/au/football/news/motagua-progreso-honduras-stempede-clausura/1henut2tjr6xk1vctvj3qxvgxu)
 3. [The Sun](https://www.thesun.co.uk/sport/football/3672354/died-injured-honduras-motagua-honduras-progreso-tragedy/)
+3. [Cover Image](http://images.performgroup.com/di/library/GOAL/8c/31/motagua-progreso-honduras-stampede_mxcoqum65ne41dwry5tlwdzrq.jpg?t=1394152292)
 
 ### Related:
 

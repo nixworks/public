@@ -8,6 +8,7 @@ Prime minister says cost of changing the flag, removing British colonial symbol,
 ### Source:
 
 1. [Guardian](https://www.theguardian.com/world/2016/aug/18/fiji-to-keep-union-jack-flag-british)
+1. [Cover Image](https://i.guim.co.uk/img/media/53afbd1b9aca30692af8b0a7671a568d62da429d/0_0_2560_1536/2560.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=06a542c5c3c68d8a1178d303ff9f33a0)
 
 ### Related:
 

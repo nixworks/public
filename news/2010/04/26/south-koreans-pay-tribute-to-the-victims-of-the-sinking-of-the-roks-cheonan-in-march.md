@@ -10,6 +10,7 @@ Five-day mourning begins for 46 navy personnel who died aboard warship that sank
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042665814361110.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/26/c_13267777.htm)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/04/26/64/0301000000AEN20100426002800315F.HTML)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

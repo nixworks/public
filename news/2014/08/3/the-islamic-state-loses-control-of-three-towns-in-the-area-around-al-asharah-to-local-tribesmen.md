@@ -8,6 +8,7 @@ Villagers in eastern Syria drive out Islamic State militants, in a rare display 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28622809)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76699000/jpg/_76699254_5f6dc067-ba82-4250-abc8-b9dcd73cdaca.jpg)
 
 ### Related:
 

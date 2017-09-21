@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11802821)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1438515&lang=eng_news)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

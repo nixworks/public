@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/09/24/us-bahrain-vote-idUSTRE78N1C620110924)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110924&t=2&i=506137941&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-24T132425Z_01_BTRE78N118W00_RTROPTP_0_BAHRAIN-VOTE)
 
 ### Related:
 

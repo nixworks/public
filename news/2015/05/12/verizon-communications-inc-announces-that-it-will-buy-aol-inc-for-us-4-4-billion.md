@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox Business](http://www.foxbusiness.com/industries/2015/05/12/verizon-to-acquire-aol-in-44-billion-deal/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2015/05/12/verizon-to-acquire-aol-in-44-billion-deal/_jcr_content/image.img.png/0/0/1452107038432.png?ve=1)
 
 ### Related:
 

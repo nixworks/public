@@ -8,6 +8,7 @@ A chlorine gas leak at a Chinese chemical plant sends 164 people to the hospital
 ### Source:
 
 1. [Associated Press](http://www.foxnews.com/story/0,2933,202714,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Syngenta AG, the world’s largest maker of agricultural chemicals, rejected a 4
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-05-08/syngenta-rejects-45-billion-takeover-offer-from-monsanto)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9MY4DUf5EUM/v3/1200x800.jpg)
 
 ### Related:
 

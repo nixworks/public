@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_YEMEN?SITE=AP&CTIME=2015-03-25-12-20-57)
 2. [CBS News](http://www.cbsnews.com/news/saudia-arabia-begins-airstrikes-against-shiite-houthi-rebels-in-yemen/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/02/06/c59ca87a-4371-4d62-bb66-9e1a7cf15594/yemenhouthirebels.jpg)
 
 ### Related:
 

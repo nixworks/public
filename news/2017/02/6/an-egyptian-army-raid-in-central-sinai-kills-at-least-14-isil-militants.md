@@ -8,6 +8,7 @@ Egyptian soldiers killed 14 militants and arrested ten others in a raid in centr
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-egypt-insurgency-sinai-idUSKBN15L154)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

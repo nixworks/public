@@ -8,6 +8,7 @@ The International Monetary Fund, which manages global financial crises, has been
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/finance/8571306/IMF-hit-by-major-cyber-attack.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01918/monetary_1918942a.jpg)
 
 ### Related:
 

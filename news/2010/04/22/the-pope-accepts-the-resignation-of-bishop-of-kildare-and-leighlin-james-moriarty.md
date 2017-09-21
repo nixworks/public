@@ -16,6 +16,7 @@ Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leig
 7. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0423/1224268953594.html)
 8. [The New Zealand Herald](http://www.nzherald.co.nz/religion-and-beliefs/news/article.cfm?c_id=301&objectid=10640327)
 9. [Times Online](http://www.timesonline.co.uk/tol/comment/faith/article7104591.ece#cid=OTC-RSS&attr=797093)
+9. [Cover Image](https://img.rasset.ie/0002de5a-1600.jpg)
 
 ### Related:
 

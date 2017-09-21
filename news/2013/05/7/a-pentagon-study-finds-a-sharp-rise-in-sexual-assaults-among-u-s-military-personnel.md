@@ -8,6 +8,7 @@ An angry President Obama and Congress demanded action after a Pentagon survey es
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/05/08/us/politics/pentagon-study-sees-sharp-rise-in-sexual-assaults.html?pagewanted=all)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

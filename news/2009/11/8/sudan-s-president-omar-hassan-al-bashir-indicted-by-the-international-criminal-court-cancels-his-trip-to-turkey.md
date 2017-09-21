@@ -11,6 +11,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 2. [Hurriyet](http://www.hurriyetdailynews.com/n.php?n=a-muslim-can-never-commit-genocide-erdogan-defends-bashir-2009-11-08)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091108223742660C694039)
 4. [Sudan News Agency](http://www.sunanews.net/english-latest-news/6188-president-al-bashir-postpones-his-visit-to-turkey.html)
+4. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

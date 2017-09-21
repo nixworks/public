@@ -8,6 +8,7 @@ Several senior US lawmakers allege that intelligence leaker Edward Snowden may h
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-us-canada-25806855)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72389000/jpg/_72389914_72389913.jpg)
 
 ### Related:
 

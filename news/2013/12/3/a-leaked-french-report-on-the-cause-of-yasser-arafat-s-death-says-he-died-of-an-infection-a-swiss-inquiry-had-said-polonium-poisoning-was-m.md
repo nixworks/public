@@ -10,6 +10,7 @@ French scientists say it is most likely that Palestinian leader Yasser Arafat di
 1. [AFP](http://www.afp.com/en/news/topstories/arafat-was-not-poisoned-say-french-experts)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-25205170)
 3. [LA Times](http://www.latimes.com/world/worldnow/la-fg-wn-report-doubt-arafat-poisoning-20131203,0,7939059.story)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70986000/jpg/_70986764_019889282.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=112089&sectionid=351020101)
 2. [Reuters](http://www.reuters.com/article/mediaNews/idUSGEE5AN2T620091124)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

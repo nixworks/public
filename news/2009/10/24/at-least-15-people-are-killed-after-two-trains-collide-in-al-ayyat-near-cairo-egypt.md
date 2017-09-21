@@ -9,6 +9,7 @@ At least 18 people killed after two trains collide southwest of Cairo.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/10/20091024181043439993.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8324269.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

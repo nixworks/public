@@ -8,6 +8,7 @@ An earthquake of magnitude 7.3 has struck off Japan&#39;s east coast.
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/Green/News/Tsunami-warning-as-73-magnitude-quake-rocks-Japan-20131025)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2437/e6d02a66074249b38c12bb995fe0a668.jpg)
 
 ### Related:
 

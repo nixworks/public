@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3IDyieNsoTtKhMEg1VCPDSDt9lQ)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10965099)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=nw20100812222833503C590286)
+3. [Cover Image](http://news.bbcimg.co.uk/media/images/48726000/jpg/_48726114_bodies_screengrab304.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish police detain two British journalists from Vice News covering the unrest
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-08-29/turkish-police-detain-two-british-vice-news-journalists/6734288)
+1. [Cover Image](http://www.abc.net.au/news/image/6687192-1x1-700x700.jpg)
 
 ### Related:
 

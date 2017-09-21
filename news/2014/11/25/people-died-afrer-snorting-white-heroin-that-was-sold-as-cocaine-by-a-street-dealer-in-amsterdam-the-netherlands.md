@@ -8,6 +8,7 @@ Health authorities in Amsterdam are warning of dangerous drugs being sold to tou
 ### Source:
 
 1. [Washington Times](http://www.washingtontimes.com/news/2014/nov/27/amsterdam-warns-of-dangerous-drugs-after-3-deaths/)
+1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2014/11/27/abf453649ef29c2e660f6a706700057b.jpg)
 
 ### Related:
 

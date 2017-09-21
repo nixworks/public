@@ -11,6 +11,7 @@
 2. [CBC](http://www.cbc.ca/news/world/ukraine-prime-minister-mykola-azarov-submits-resignation-1.2513611)
 3. [NBC News](http://worldnews.nbcnews.com/_news/2014/01/28/22478912-ukraine-anti-protest-laws-repealed-pm-offers-to-resign)
 4. [New York Times](http://www.nytimes.com/2014/01/29/world/europe/ukraine-prime-minister-resign.html?_r=0)
+4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72576000/jpg/_72576433_72576432.jpg)
 
 ### Related:
 

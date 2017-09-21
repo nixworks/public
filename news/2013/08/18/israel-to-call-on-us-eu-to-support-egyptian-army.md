@@ -11,3 +11,4 @@ An intensified campaign with foreign leaders and diplomats this week will press 
 2. [ (New York Times](http://www.nytimes.com/2013/08/19/world/middleeast/israel-puts-more-urgency-on-shaping-allies-actions.html?ref=middleeast)
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013818175824286257.html)
 4. [Reuters](http://www.reuters.com/article/2013/08/18/us-egypt-protests-prison-idUSBRE97H0A420130818)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

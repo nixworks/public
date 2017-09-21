@@ -9,6 +9,7 @@ The space company backed by Amazon.com founder Jeff Bezos announced a historic c
 
 1. [WSJ](http://www.wsj.com/articles/blue-origin-succeeds-in-vertically-landing-spent-rocket-back-at-texas-launch-site-1448372666)
 2. [press release](https://www.blueorigin.com/news/news/blue-origin-makes-historic-rocket-landing)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-LK685_1124BL_G_20151124110554.jpg)
 
 ### Related:
 

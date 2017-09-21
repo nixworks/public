@@ -8,6 +8,7 @@ China extends its national defence perimeter to include islands in the East Chin
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-asia-25062525)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71298000/jpg/_71298074_e4739517-4b93-445e-ac3f-e84f805b54aa.jpg)
 
 ### Related:
 

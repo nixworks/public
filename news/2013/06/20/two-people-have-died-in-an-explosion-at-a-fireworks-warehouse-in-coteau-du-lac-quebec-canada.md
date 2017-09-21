@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2013/06/20/quebec-fireworks-factory-explosion-coteau-du-lac.html)
+1. [Cover Image](https://i.cbc.ca/1.1383078.1378967100!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-explosion-coteau-du-lac.jpg)
 
 ### Related:
 

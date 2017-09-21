@@ -8,6 +8,7 @@ Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest poin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-40353118)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/DF8C/production/_96582275_hot_battersea_rey.jpg)
 
 ### Related:
 

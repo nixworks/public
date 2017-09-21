@@ -10,6 +10,7 @@ Houthi fighters offer a ceasefire after three months of fighting along the borde
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201012517527990120.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8479495.stm)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=117035&sectionid=351020206)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

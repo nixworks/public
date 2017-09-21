@@ -8,6 +8,7 @@ In a shock announcement, former NSW premier Bob Carr is the new Foreign Affairs 
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/bob-carr-to-take-foreign-affairs-role-20120302-1u731.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/u/7/4/t/image.related.articleLeadwide.620x349.1u731.png/1330665157227.jpg)
 
 ### Related:
 

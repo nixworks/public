@@ -8,6 +8,7 @@ First look at Kuiper Belt object also reveals no shroud of gases
 ### Source:
 
 1. [The Register](http://www.theregister.co.uk/2012/11/21/makemake_has_no_atmopshere_says_eos/)
+1. [Cover Image](https://regmedia.co.uk/2012/11/21/makemake_surface.jpg?x=1200&y=794)
 
 ### Related:
 

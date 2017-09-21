@@ -8,6 +8,7 @@ Exclusive: Perfectly preserved HMS Terror vessel sank during disastrous expediti
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/sep/12/hms-terror-wreck-found-arctic-nearly-170-years-northwest-passage-attempt)
+1. [Cover Image](https://i.guim.co.uk/img/media/757f8fcc49dafe57a16addc8d8f3ad2d85d537a8/0_154_5687_3414/5687.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b77b37eb62750f1021f1d99a6fc8daf0)
 
 ### Related:
 

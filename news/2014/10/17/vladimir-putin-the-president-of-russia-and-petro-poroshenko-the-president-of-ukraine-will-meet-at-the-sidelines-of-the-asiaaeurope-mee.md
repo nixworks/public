@@ -8,6 +8,7 @@ The most anticipated meeting of the Asia-Europe summit (ASEM) in Milan will take
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/10/16/putin-and-poroshenko-to-discuss-gas-and-ceasefire-in-milan/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

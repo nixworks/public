@@ -8,6 +8,7 @@ Toyota Motor on Monday began recalling more than 91,000 vehicles in Japan becaus
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/toyota-begins-recalls-in-japan-over-faulty-engines-20100705-zwqb.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

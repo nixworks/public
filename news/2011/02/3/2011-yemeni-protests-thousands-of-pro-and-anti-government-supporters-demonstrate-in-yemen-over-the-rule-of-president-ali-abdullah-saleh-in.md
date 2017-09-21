@@ -8,6 +8,7 @@ Anti-government demonstrators reiterate calls for president to stand down while 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201123105140512715.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/3/201123112024458112_20.jpg)
 
 ### Related:
 

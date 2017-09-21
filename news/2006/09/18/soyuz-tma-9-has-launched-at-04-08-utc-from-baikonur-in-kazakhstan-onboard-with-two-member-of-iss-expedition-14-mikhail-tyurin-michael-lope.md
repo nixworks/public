@@ -9,6 +9,7 @@ Get the latest news, images, videos and more from humanity&#039;s home in orbit 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/5355022.stm)
 2. [NASA](http://www.nasa.gov/mission_pages/station/main/index.html)
+2. [Cover Image](http://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The European Court Of Justice has declared the data retention directive, which r
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/business/technology/data-retention-directive-declared-invalid-by-european-court-of-justice-30165968.html)
+1. [Cover Image](http://www.independent.ie/migration_catalog/article25188336.ece/ALTERNATES/h342/N0038811291826024064A_1)
 
 ### Related:
 

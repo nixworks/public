@@ -9,6 +9,7 @@ A couple in Pakistani-administered Kashmir are arrested for murdering their teen
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20173484)
 2. [The Express Tribune](http://tribune.com.pk/story/459277/parents-kill-daughter-with-acid-in-muzaffarabad-police/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63865000/jpg/_63865584_63865583.jpg)
 
 ### Related:
 

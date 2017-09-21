@@ -8,6 +8,7 @@ Move comes as Caracas rejects Colombian charges that it hosts rebels on its terr
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010716153616990995.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

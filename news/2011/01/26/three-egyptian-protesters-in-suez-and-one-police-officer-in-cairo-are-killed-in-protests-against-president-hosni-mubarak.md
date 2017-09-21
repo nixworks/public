@@ -13,6 +13,7 @@ More than 500 demonstrators arrested as thousands return to streets in protest o
 4. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/26/egypt.protests/index.html)
 5. [The Guardian](http://www.guardian.co.uk/world/audio/2011/jan/26/egypt-violence-jack-shenker-arrest-audio)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/26/c_13707868.htm)
+6. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/26/2011126151744189790_20.jpg)
 
 ### Related:
 

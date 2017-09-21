@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8599567.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKHEA16232320100401)
 3. [The Star](http://thestar.com.my/news/story.asp?file=/2010/4/2/worldupdates/2010-04-02T012527Z_01_NOOTR_RTRMDNC_0_-473765-4&sec=Worldupdates)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

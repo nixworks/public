@@ -9,6 +9,7 @@ A major chunk of the funding &ndash; US$1.5 billion &ndash; has been committed b
 
 1. [TIME](http://time.com/4853372/melinda-gates-trump-cuts-family-planning/)
 2. [The Hindustan Times](http://www.hindustantimes.com/health/contraception-is-a-great-anti-poverty-inventon-family-planning-summit-rolls-out-with-2-5-billion-funding-commitment/story-2y37hgReMpfdWV7xKStdVO.html)
+2. [Cover Image](http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/07/11/Pictures/_bb7bf5c0-6609-11e7-95fb-ec6334583ea6.png)
 
 ### Related:
 

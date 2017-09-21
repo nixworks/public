@@ -8,6 +8,7 @@ Police say Christine Sharp faces no further action in relation to her 12-year-ol
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1022247/tia-sharps-grandmother-wont-face-charges)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/evs-xtaccess-2012-08-09-cam-c-15h05m11s19-1_3675990.jpg?20160706105441)
 
 ### Related:
 

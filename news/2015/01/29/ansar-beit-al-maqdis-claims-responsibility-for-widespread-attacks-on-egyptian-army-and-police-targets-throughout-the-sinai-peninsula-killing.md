@@ -8,6 +8,7 @@ Islamic State-linked Ansar Beit al-Maqdis claims responsibility for wide-ranging
 ### Source:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4620994,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/01/29/5848289/584827801001799640360no.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Yemeni military plane has crashed in the capital, Sanaa, killing all 10 people
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20426767)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64279000/jpg/_64279778_64279777.jpg)
 
 ### Related:
 

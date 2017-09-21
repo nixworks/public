@@ -8,6 +8,7 @@ Palestinian officials announce plans to sue Britain over the 1917 Balfour Declar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-36893974)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7649/production/_90518203_faa8d3ef-0f29-4788-9b03-50f39829056d.jpg)
 
 ### Related:
 

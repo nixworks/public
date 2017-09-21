@@ -10,6 +10,7 @@
 1. [Al-Jazeera](http://blogs.aljazeera.net/live/africa/live-blog-libya-march-1#)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12606855)
 3. [Reuters via ''Hindustan Times](http://www.hindustantimes.com/Gaddafi-forces-mass-world-raises-pressure-on-Libya/Article1-668028.aspx#)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

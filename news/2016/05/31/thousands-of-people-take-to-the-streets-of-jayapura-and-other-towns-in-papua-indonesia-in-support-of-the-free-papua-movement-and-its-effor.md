@@ -8,6 +8,7 @@ There have been more demonstrations in Indonesia&#39;s Papua region today, in su
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/305303/more-mass-demos-in-west-papua)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

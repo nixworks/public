@@ -8,6 +8,7 @@ A man dressed in a vintage military uniform emblazoned with a Nazi symbol and to
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/09/26/as-many-as-7-may-be-wounded-in-houston-shooting-report-says.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/26/0/0/694940094001_5141524126001_Disgruntled-lawyer-suspected-in-Houston-shooting.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The paedophile singer of Welsh rock band Lostprophets is sentenced to 35 years f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-25412675)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71358000/jpg/_71358817_ianwatkins.jpg)
 
 ### Related:
 

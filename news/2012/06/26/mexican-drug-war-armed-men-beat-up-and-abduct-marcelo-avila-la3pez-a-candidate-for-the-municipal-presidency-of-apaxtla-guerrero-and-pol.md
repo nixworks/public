@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNNMéxico](http://mexico.cnn.com/nacional/2012/06/26/el-candidato-del-pri-al-municipio-de-apaxtla-guerrero-fue-secuestrado)
+1. [Cover Image](http://cdn.expansion.mx/media/2012/06/24/accidente-de-simpatizantes-de-izquierda-en-guerrero.jpg)
 
 ### Related:
 

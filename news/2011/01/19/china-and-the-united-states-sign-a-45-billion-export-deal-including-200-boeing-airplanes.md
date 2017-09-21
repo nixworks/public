@@ -9,6 +9,7 @@ China and the US sign a trade deal that includes the $19bn purchase of 200 Boein
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011119143513239307.html)
 2. [BBC](http://www.bbc.co.uk/news/business-12229585)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

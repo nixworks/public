@@ -10,6 +10,7 @@ Rising rates of obesity among young Americans could pose a risk to the future of
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8655651.stm)
 2. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/05/01/1248033b7e2b)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10642108)
+3. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

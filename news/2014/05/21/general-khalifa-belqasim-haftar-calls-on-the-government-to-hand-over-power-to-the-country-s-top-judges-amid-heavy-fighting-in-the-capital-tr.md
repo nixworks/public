@@ -9,6 +9,7 @@ Warfalli and Ahmed Elumami
 
 1. [Reuters](http://www.reuters.com/article/2014/05/22/us-libya-violence-idUSBREA4K0QP20140522)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/libyan-prime-minister-refuses-to-step-down-confrontation-with-ex-general-grows/2014/05/21/9350fd00-e125-11e3-9743-bb9b59cde7b9_story.html)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140522&t=2&i=898806747&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA4L017T00)
 
 ### Related:
 

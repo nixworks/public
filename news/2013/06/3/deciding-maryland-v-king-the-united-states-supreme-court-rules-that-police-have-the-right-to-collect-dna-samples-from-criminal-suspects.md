@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/ct-met-court-dna-0604-20130604,0,5246185.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

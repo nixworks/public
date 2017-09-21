@@ -11,6 +11,7 @@ Manila residents waded through waist-deep floodwaters and dodged flying debris T
 2. [AFP via Inquirer](http://newsinfo.inquirer.net/65799/pedring-slams-luzon-baby-drowns)
 3. [AP via Fox News](http://www.foxnews.com/world/2011/09/27/at-least-seven-dead-after-massive-typhoon-hits-manila/)
 4. [Reuters](http://www.reuters.com/article/2011/09/27/philippines-weather-idUSL3E7KR0M920110927)
+4. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/slideshow/2011/09/27/massive-typhoon-slams-philippines/_jcr_content/slideshow-par/slide_image/image.img.jpg/0/0/1421446138609.jpg?ve=1)
 
 ### Related:
 

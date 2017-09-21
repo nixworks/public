@@ -8,6 +8,7 @@ JERUSALEM, July 12 — An Israeli soldier was killed early this morning during a
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/07/12/world/middleeast/12cnd-mideast.html?ex=1341892800&en=02f19cca6a591fed&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

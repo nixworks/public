@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/national/breaking-news/png-treasurer-sacked-by-pm-oneill/story-e6frfku9-1226850700461?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15715256)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/11/32-arrested-at-occupy-oakland-camp.html)
 3. [New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10765993)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56692000/jpg/_56692585_013335551-1.jpg)
 
 ### Related:
 

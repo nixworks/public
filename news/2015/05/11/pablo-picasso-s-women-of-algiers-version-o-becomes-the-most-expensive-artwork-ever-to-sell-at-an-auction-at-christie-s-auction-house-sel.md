@@ -9,6 +9,7 @@
 
 1. [AP via ''Business Insider](http://www.businessinsider.com/this-picasso-just-became-the-most-expensive-piece-of-art-sold-at-auction-2015-5?IR=T)
 2. [BBC](http://www.bbc.com/news/entertainment-arts-32700575?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82926000/jpg/_82926047_82925047.jpg)
 
 ### Related:
 

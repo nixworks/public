@@ -10,6 +10,7 @@ Chinese dissident Chen Guangcheng leaves his refuge in the US embassy in Beijing
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/47249786)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-china-17920910)
 3. [Xinhua](http://news.xinhuanet.com/english/china/2012-05/02/c_131564088.htm)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59985000/jpg/_59985005_59985004.jpg)
 
 ### Related:
 

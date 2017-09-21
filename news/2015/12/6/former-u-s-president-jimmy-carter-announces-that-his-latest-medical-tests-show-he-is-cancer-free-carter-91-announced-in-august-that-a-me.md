@@ -9,6 +9,7 @@ Former President Jimmy Carter said Sunday his cancer is gone. Carter said in a s
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/06/458680791/former-president-jimmy-carter-says-he-is-cancer-free)
 2. [The Atlantic Journal-Constitution](http://www.ajc.com/news/news/carter-cancer-is-gone/npdFQ/)
+2. [Cover Image](/rw/PortalConfig/np-free/assets/ajc/images/AJC_200x200.png)
 
 ### Related:
 

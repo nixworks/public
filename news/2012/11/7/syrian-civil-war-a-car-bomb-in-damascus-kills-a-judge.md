@@ -8,6 +8,7 @@ The missiles could provide protection for rebel fighters in the north by creatin
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/11/08/world/middleeast/syria-war-developments.html?pagewanted=all)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

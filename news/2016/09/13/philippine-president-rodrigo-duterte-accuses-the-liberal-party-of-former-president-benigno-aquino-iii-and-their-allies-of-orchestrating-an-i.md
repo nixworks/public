@@ -8,6 +8,7 @@ President Rodrigo Duterte on Monday virtually accused forces loyal to his predec
 ### Source:
 
 1. [Interaksyon](http://interaksyon.com/article/132358/watch--duterte-accuses-yellow-forces-of-using-human-rights-to-sow-intrigue)
+1. [Cover Image](http://interaksyon.com/assets/images/articles/original_1473477368.jpg)
 
 ### Related:
 

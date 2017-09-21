@@ -8,6 +8,7 @@ Ukrainian MPs and the European Parliament are set to ratify a key EU association
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-29211344)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77613000/jpg/_77613618_flag.jpg)
 
 ### Related:
 

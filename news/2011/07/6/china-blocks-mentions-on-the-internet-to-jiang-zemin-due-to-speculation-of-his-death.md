@@ -8,6 +8,7 @@ Chinese censors block internet references to former leader Jiang Zemin, whose na
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14054456)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52488000/jpg/_52488336_computer.jpg)
 
 ### Related:
 

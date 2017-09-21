@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/india/news/uk-falls-into-recession-first-time-in-18-yrs/21/09/53560/on)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

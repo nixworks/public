@@ -9,6 +9,7 @@ Haitian police have opened fire on a group of looters, killing at least one of t
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Strong-Aftershock-Hits-Haiti-Forcing-Port-Au-Prince-Residents-To-Run-In-Fear-From-Unstable-Buildings/Article/201001315525844)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/7005853/Haiti-earthquake-UN-says-worst-disaster-ever-dealt-with.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01560/policeman_1560626a.jpg)
 
 ### Related:
 

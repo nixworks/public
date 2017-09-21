@@ -9,6 +9,7 @@ The deluge left thousands homeless and renewed tensions as politicians blamed on
 
 1. [The New York Times](http://www.nytimes.com/2013/04/04/world/americas/record-flooding-kills-dozens-in-Argentina.html)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324600704578400592340888724.html)
+2. [Cover Image](https://static01.nyt.com/images/2013/04/04/world/americas/04argentina/04argentina-videoLarge-v2.jpg)
 
 ### Related:
 

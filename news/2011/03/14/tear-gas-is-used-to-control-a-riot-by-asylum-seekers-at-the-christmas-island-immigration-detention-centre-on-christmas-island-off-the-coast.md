@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/03/14/3163406.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/2654496-1x1-700x700.jpg)
 
 ### Related:
 

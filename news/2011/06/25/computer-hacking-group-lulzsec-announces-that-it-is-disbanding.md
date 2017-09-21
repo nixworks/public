@@ -8,6 +8,7 @@ After 50 days of anarchy.
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/lulzsec-finished-2011-6)
+1. [Cover Image](http://static3.businessinsider.com/image/4e0468eb49e2ae9477040000-1190-625/notorious-hacker-group-lulzsec-just-announced-that-its-finished.jpg)
 
 ### Related:
 

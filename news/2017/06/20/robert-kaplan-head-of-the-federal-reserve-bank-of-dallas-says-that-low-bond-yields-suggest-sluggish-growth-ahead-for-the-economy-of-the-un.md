@@ -9,6 +9,7 @@ With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve n
 
 1. [Reuters](http://www.reuters.com/article/us-usa-fed-kaplan-idUSKBN19B2XO)
 2. [The New York Times](https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

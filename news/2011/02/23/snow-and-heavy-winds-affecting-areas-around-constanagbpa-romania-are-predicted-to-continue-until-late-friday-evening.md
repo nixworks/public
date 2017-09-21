@@ -8,6 +8,7 @@ Romanian weather officials announced on Wednesday that snow and wind will intens
 ### Source:
 
 1. [EnglishHotNews](http://english.hotnews.ro/stiri-top_news-8331003-snow-and-heavy-winds-affect-romania-until-friday-evening.htm)
+1. [Cover Image](http://media.hotnews.ro/media_server1/image-2013-02-2-14134436-0-sigla-hotnews-2.jpg)
 
 ### Related:
 

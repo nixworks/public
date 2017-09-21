@@ -8,6 +8,7 @@ Bomb and gun attacks across Iraq kill more than 30 people, many of them members 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23279275)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68684000/jpg/_68684939_68684938.jpg)
 
 ### Related:
 

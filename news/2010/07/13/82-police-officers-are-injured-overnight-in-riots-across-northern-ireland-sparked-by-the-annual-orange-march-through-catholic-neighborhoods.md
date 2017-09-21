@@ -8,6 +8,7 @@ A policewoman suffers a head injury in a riot following an Orange parade through
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/northern_ireland/10609517.stm)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48337000/jpg/_48337297__48336778_009795953-1-1.jpg)
 
 ### Related:
 

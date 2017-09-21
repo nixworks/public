@@ -17,6 +17,7 @@ Pope Benedict XVI has today signed off on a pastoral letter to the Irish faithfu
 8. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/brazilian-priests-child-sex-abuse-claims)
 9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0319/breaking10.html)
 10. [The Sydney Morning Herald](http://www.smh.com.au/world/catholic-church-sex-scandal-rocks-faithful-in-brazil-20100317-qcwl.html)
+10. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

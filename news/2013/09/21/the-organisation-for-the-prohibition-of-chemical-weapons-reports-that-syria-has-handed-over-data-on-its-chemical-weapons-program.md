@@ -8,6 +8,7 @@ The international chemical weapons watchdog says it has received &quot;the expec
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24186928#)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70033000/jpg/_70033851_70033850.jpg)
 
 ### Related:
 

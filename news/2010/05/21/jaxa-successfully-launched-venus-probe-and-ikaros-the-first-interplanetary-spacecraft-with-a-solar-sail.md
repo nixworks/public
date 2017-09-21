@@ -8,6 +8,7 @@ Japan sends a sophisticated probe - Akatsuki - to Venus to study its atmosphere 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/science_and_environment/10135158.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

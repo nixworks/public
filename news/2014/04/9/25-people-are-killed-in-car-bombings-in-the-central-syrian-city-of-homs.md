@@ -8,6 +8,7 @@ Two car bombs kill at least 25 people in Homs, Syrian state media say, hours aft
 ### Source:
 
 1. [Reuters](http://www.bbc.co.uk/news/world-middle-east-26959088)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74144000/jpg/_74144963_021849399.jpg)
 
 ### Related:
 

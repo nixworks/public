@@ -9,6 +9,7 @@ A long-awaited agreement with the largest UK banks on lending and bonuses is ann
 
 1. [BBC](http://www.bbc.co.uk/news/business-12402469)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-12411664)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

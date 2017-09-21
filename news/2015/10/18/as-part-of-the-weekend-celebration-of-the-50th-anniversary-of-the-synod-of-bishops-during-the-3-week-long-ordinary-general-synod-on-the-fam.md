@@ -10,6 +10,7 @@
 1. [AP via C TV](http://www.ctvnews.ca/world/pope-francis-canonizes-first-married-couple-in-modern-times-1.2615416)
 2. [The Vatican](http://press.vatican.va/content/salastampa/it/bollettino/pubblico/2015/10/18/0796/01759.html#en)
 3. [Voice of America](http://www.voanews.com/content/reu-pope-proclaims-new-saints-calls-for-humble-church-leadership/3012407.html)
+3. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.2615417.1445174032!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

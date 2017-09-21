@@ -8,6 +8,7 @@ GENEVA (Reuters) - Three people were killed and two wounded late on Wednesday wh
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-swiss-shootingbre90202z-20130102,0,1757932.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

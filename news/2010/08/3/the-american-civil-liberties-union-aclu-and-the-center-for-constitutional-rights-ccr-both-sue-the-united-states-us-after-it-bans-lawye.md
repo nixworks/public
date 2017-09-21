@@ -9,6 +9,7 @@ A civil rights group files a legal challenge to obtain a licence to represent Mu
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10855869)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6724LQ20100803?type=domesticNews)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

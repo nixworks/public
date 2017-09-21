@@ -8,6 +8,7 @@ South-east Asian states join forces to search waters between Malaysia and Vietna
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26492748)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73451000/jpg/_73451255_73451254.jpg)
 
 ### Related:
 

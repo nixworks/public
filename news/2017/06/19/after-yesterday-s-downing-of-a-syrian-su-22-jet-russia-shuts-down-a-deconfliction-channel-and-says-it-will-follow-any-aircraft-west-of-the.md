@@ -8,6 +8,7 @@ An American aircraft shot down a Syrian air force fighter jet Sunday, prompting 
 ### Source:
 
 1. [PBS](http://www.pbs.org/newshour/bb/fallout-u-s-strike-syrian-jet-complicates-messy-battlefield/)
+1. [Cover Image](http://d3i6fh83elv35t.cloudfront.net/newshour/wp-content/uploads/2017/06/RTS14EG3.jpg)
 
 ### Related:
 

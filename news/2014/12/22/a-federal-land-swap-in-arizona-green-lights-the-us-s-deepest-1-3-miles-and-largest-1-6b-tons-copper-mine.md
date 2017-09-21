@@ -8,6 +8,7 @@ In Arizona’s Copper Triangle, 1.6 billion tons of copper ore has been trapped 
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/politics/2014/12/23/fed-land-swap-gives-go-ahead-to-arizona-16b-ton-copper-mega-mine/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2014/12/23/fed-land-swap-gives-go-ahead-to-arizona-16b-ton-copper-mega-mine/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446951489986.jpg?ve=1)
 
 ### Related:
 

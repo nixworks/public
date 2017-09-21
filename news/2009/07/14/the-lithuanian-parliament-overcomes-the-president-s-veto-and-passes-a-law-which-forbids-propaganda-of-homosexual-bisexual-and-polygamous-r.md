@@ -9,6 +9,7 @@
 
 1. [Delfi](http://www.delfi.lt/news/daily/lithuania/article.php?id=23095158)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/14/AR2009071401649.html)
+2. [Cover Image](http://g4.dcdn.lt/images/pix/file23095360_728b04a5c40f52d3f4.jpg)
 
 ### Related:
 

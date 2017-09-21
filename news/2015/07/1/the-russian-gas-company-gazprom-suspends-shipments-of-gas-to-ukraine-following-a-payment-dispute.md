@@ -8,6 +8,7 @@ Russian gas firm Gazprom halts gas supplies to Ukraine after Kiev suspends energ
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33341322)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17397/production/_83972159_83972158.jpg)
 
 ### Related:
 

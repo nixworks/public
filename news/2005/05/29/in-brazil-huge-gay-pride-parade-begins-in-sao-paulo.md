@@ -10,6 +10,7 @@ Hundreds of thousands of people march in the Brazilian city of Sao Paulo, in wha
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4592541.stm)
 2. [CBC](http://www.cbc.ca/world/story/2005/05/29/brazil-gay-050529.html)
 3. [CNN](http://edition.cnn.com/2005/WORLD/americas/05/29/brazil.gaypride.ap/)
+3. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

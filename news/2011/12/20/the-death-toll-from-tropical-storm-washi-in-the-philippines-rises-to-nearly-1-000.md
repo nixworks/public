@@ -8,6 +8,7 @@ The Philippine government shipped more than 400 coffins to two flood-stricken ci
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2011/12/20/philippines-storm-death-toll.html)
+1. [Cover Image](https://i.cbc.ca/1.2025136.1381637319!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-philippines-rtr2vh3o.jpg)
 
 ### Related:
 

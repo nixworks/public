@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-iran-anniversary-idUSKBN15P0QV)
 2. [The New York Times](https://www.nytimes.com/2017/02/10/world/middleeast/iran-revolution-anniversary.html?_r=0)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170210&t=2&i=1172155859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED190M2)
 
 ### Related:
 

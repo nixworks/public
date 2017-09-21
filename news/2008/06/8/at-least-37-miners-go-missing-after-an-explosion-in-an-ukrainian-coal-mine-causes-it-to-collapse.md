@@ -9,6 +9,7 @@ At least 37 miners are missing after an underground gas explosion at a colliery 
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7443107.stm)
 2. [RTÉ](http://www.rte.ie/news/2008/0608/ukraine.html)
+2. [Cover Image](https://img.rasset.ie/00018579-1600.jpg)
 
 ### Related:
 

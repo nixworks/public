@@ -9,6 +9,7 @@ Explosion sent boiler from box company nearly a block, where it crashed into the
 
 1. [St. Louis Post-Dispatch](http://www.stltoday.com/news/local/crime-and-courts/dead-injured-after-explosion-sends-boiler-flying-through-roof-of/article_61510e02-abac-5ce4-b087-8c2a174a1456.html)
 2. [St. Louis Public Radio](http://news.stlpublicradio.org/post/boiler-explosion-kills-3-injures-4-others-soulard-neighborhood#stream/0)
+2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/3b/b3bf3ade-ea00-54d8-83db-4c181f625eb0/58e276e9d54bd.image.jpg?crop=1604%2C1203%2C58%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize)
 
 ### Related:
 

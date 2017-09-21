@@ -8,6 +8,7 @@ A series of explosions at a fireworks factory in northern Vietnam has killed at 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24507158)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70442000/gif/_70442283_vietnam_phutho_1013.gif)
 
 ### Related:
 

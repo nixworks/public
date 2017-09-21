@@ -8,6 +8,7 @@ Women will be allowed to serve in frontline combat roles within five years under
 ### Source:
 
 1. [ABC News Online](http://www.abc.net.au/news/2011-09-27/women-on-the-frontline/2946258)
+1. [Cover Image](http://www.abc.net.au/news/image/2946524-1x1-700x700.jpg)
 
 ### Related:
 

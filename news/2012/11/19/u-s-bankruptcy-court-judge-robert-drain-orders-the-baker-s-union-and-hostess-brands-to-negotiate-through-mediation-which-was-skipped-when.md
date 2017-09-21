@@ -8,6 +8,7 @@ The execution of the Twinkies brand hasn&#39;t been called off, but it has been 
 ### Source:
 
 1. [Peoria Journal Star](http://www.pjstar.com/free/x719495023/Judge-orders-Hostess-to-mediate-with-Bakers-Union-on-Tuesday)
+1. [Cover Image](http://www.pjstar.com/storyimage/IP/20121120/NEWS/311209873/AR/0/AR-311209873.jpg)
 
 ### Related:
 

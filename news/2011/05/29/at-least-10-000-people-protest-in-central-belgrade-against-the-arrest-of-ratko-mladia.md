@@ -8,6 +8,7 @@ Lawyers for ex-Bosnian Serb general says he is too ill as nationalists rally in 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/05/2011529185053412564.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/30/20115306958253734_20.jpg)
 
 ### Related:
 

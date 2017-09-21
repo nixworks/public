@@ -8,6 +8,7 @@ A prolonged dry season has left the Amazon region facing its worst dry spell for
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010101704539981971.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/17/2010101704035721734_20.jpg)
 
 ### Related:
 

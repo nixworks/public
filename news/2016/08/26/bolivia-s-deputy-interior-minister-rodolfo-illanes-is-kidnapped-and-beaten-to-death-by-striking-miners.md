@@ -8,6 +8,7 @@ Bolivian authorities say the deputy interior minister has been kidnapped and kil
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37192790)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16407/production/_90934119_rodolfoillanesmingob.jpg)
 
 ### Related:
 

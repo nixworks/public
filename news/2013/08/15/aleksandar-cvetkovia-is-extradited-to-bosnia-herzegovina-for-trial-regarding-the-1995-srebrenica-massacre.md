@@ -8,6 +8,7 @@ Defendant &quot;stunned by charges&quot;; fellow soldiers testify Serb-Israeli p
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Diplomacy-and-Politics/Israel-extradites-Serb-Israeli-to-Bosnia-Herzegovina-for-genocide-323230)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=224784)
 
 ### Related:
 

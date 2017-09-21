@@ -8,6 +8,7 @@ President Michael D Higgins has led tributes for Fine Gael Minister of State Sha
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/1221/shane-mcentee-td.html)
+1. [Cover Image](https://img.rasset.ie/0006cdbf-1600.jpg)
 
 ### Related:
 

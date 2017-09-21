@@ -8,6 +8,7 @@ Tropical Storm Fay was downgraded to a tropical depression Saturday night, but c
 ### Source:
 
 1. [AP via ''Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-fay24-2008aug24,0,7641352.story?track=rss)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

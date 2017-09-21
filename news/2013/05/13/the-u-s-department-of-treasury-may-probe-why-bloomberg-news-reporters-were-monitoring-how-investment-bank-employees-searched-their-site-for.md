@@ -9,6 +9,7 @@ Reporters at Bloomberg News were told to use the terminals to get an edge in the
 
 1. [BBC](http://www.bbc.co.uk/news/business-22508473)
 2. [The New York Times](http://www.nytimes.com/2013/05/13/business/media/bloomberg-admits-terminal-snooping.html?pagewanted=all&_r=0)
+2. [Cover Image](https://static01.nyt.com/images/2013/05/13/business/sub-jp-bloomberg/sub-jp-bloomberg-videoLarge.jpg)
 
 ### Related:
 

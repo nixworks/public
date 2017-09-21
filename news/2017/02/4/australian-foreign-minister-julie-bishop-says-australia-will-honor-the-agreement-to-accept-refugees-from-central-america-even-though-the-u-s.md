@@ -9,6 +9,7 @@ Australian Foreign Minister Julie Bishop said on Saturday that a controversial r
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-australia-refugees-idUSKBN15J0AG?il=0)
 2. [The Washington Examiner](http://www.washingtonexaminer.com/australia-sticking-to-refugee-deal-despite-trumps-criticism/article/2613913)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170204&t=2&i=1171400957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1305T)
 
 ### Related:
 

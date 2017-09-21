@@ -8,6 +8,7 @@ A video posted by North Korea is taken offline after games maker Activision make
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-21351051)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65731000/jpg/_65731008_158344971.jpg)
 
 ### Related:
 
@@ -18,6 +19,6 @@ A video posted by North Korea is taken offline after games maker Activision make
 5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: North Korea_
 6. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: North Korea_
 7. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: New York City_
-8. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: North Korea_
-9. [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md) _Context: North Korea_
-10. [North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md) _Context: North Korea_
+8. [U.S. President Donald Trump defends U.S. sovereignty and threatens to "totally destroy" North Korea if it attacks the U.S. or its allies. ](/news/2017/09/19/u-s-president-donald-trump-defends-u-s-sovereignty-and-threatens-to-totally-destroy-north-korea-if-it-attacks-the-u-s-or-its-allies.md) _Context: North Korea_
+9. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: North Korea_
+10. [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md) _Context: North Korea_

@@ -13,7 +13,7 @@ _Context: Israel, Israeli-Palestinian conflict, Jerusalem, Palestinian, Rishon L
 _Context: SARS, Singapore, West Nile virus, quarantine_
 
 ### [ 2004 U.S. presidential election: The nine Democrats competing for the Democratic Party nomination for President of the United States clashed in a live televised debate, which was co-sponsored by the Congressional Black Caucus and the Fox News Channel. The debate was held at the historic Morgan State University in Baltimore, Maryland.](/news/2003/09/9/2004-u-s-presidential-election-the-nine-democrats-competing-for-the-democratic-party-nomination-for-president-of-the-united-states-clashe.md)
-_Context: 2004 Presidential Election, Baltimore, Maryland, Congressional Black Caucus, Democratic, Fox News, Morgan State University, President, television_
+_Context: 2004 Presidential Election, Baltimore, Maryland, Congressional Black Caucus, Democratic, Fox News, Morgan State University, U.S. President, television_
 
 ### [ The United States Department of the Treasury revamps its $20 bill as part of its never-ending quest to foil counterfeiters, including the addition of a peach-hued background to the denomination. (Many non-US citizens regard the US dollar as "hard currency" and keep much of their wealth in it as a hedge against inflation.)](/news/2003/09/9/the-united-states-department-of-the-treasury-revamps-its-20-bill-as-part-of-its-never-ending-quest-to-foil-counterfeiters-including-the-a.md)
 _Context: United States Treasury Department, hard currency_

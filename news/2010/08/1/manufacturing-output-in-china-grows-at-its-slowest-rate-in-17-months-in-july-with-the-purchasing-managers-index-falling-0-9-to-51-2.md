@@ -9,6 +9,7 @@ Chinese manufacturing output grew at its slowest rate for 17 months in July, as 
 
 1. [BBC](http://www.bbc.co.uk/news/business-10831139)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/01/c_13424601.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

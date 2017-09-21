@@ -8,6 +8,7 @@ Closing statements were heard today in the fraud trial of the celebrity chef&#39
 ### Source:
 
 1. [E!](http://www.eonline.com/news/492275/nigella-lawson-should-be-considered-drug-user-not-celebrity-defense-claims-in-fraud-case)
+1. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/2013114/rs_300x300-131204080924-600-Nigella-Lawson-Isleworth-Crown-Court-London-England..jpg?downsize=600:*&crop=600:315;left,top)
 
 ### Related:
 

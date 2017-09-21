@@ -8,6 +8,7 @@ Iraqi officials say 14 killed in overnight clashes at Ministry of Interior, incl
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2011/05/08/iraqi-officials-say-14-killed-overnight-clashes-ministry-interior-including-6/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

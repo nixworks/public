@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSL0650378120070906)
 2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007gybt.php)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070906&t=2&i=1666211&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-06T184757Z_01_L06503781_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

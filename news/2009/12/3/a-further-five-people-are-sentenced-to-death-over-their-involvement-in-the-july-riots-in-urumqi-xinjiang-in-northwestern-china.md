@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/20091239238969424.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8392460.stm)
 3. [Global Times](http://china.globaltimes.cn/society/2009-12/489415.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

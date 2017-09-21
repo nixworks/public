@@ -8,6 +8,7 @@ Officials say a major earthquake of 6.8 magnitude or larger has hit southwest Pa
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/09/28/new-massive-earthquake-rocks-southwest-pakistan/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/09/28/new-massive-earthquake-rocks-southwest-pakistan/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422638578722.jpg?ve=1)
 
 ### Related:
 

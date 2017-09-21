@@ -8,6 +8,7 @@ A man who admitted in court to wanting to kill Jews was found guilty on Monday o
 ### Source:
 
 1. [AP via Yahoo](http://news.yahoo.com/murder-charges-against-white-supremacist-jury-kansas-193612145.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

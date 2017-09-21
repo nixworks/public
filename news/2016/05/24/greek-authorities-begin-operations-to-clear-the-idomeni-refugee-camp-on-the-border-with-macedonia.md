@@ -8,6 +8,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/greek-authorities-begin-evacuation-idomeni-refugee-camp-39323742)
+1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

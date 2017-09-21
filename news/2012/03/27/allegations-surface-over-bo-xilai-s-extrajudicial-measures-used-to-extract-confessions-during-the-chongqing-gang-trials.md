@@ -8,6 +8,7 @@ Disturbing new details are emerging about an anticrime initiative led by the ous
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/03/27/world/asia/bo-xilais-china-crime-crackdown-adds-to-scandal.html?_r=1&hpw)
+1. [Cover Image](https://static01.nyt.com/images/2012/03/27/world/JP-BO-4/JP-BO-4-thumbStandard.jpg)
 
 ### Related:
 

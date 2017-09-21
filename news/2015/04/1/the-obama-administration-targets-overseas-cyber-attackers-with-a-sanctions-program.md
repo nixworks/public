@@ -8,6 +8,7 @@ President Barack Obama launched a sanctions program on Wednesday to target indiv
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/01/us-usa-cybersecurity-idUSKBN0MS4DZ20150401)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150401&t=2&i=1037266621&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB301SO)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/20109922058670653.html)
 2. [AllAfrica.com](http://allafrica.com/stories/201009090034.html)
 3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Islamists-free-hundreds-of-inmates-in-Nigerian-jail-attack/articleshow/6522702.cms)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/9/2010992254475734_20.jpg)
 
 ### Related:
 

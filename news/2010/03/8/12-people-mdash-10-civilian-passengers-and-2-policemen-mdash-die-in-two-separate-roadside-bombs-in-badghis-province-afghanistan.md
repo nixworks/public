@@ -9,6 +9,7 @@ Two homemade bombs exploding in quick succession killed 12 people, including 10 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8555203.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE62721D20100308)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

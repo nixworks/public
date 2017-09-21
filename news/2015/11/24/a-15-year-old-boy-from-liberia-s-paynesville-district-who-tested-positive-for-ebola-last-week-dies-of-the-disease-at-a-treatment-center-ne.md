@@ -10,6 +10,7 @@ A 15-year-old boy has died of Ebola in Liberia, the first such fatality for mont
 1. [AP via ABC News](http://abcnews.go.com/Health/girl-fights-rare-case-breast-cancer-age/story?id=35392011)
 2. [BBC](http://www.bbc.com/news/world-africa-34909949)
 3. [Reuters](http://www.reuters.com/article/2015/11/25/us-health-ebola-liberia-idUSKBN0TE0TM20151125#4ZVUa5Z6Rs7ZfuCQ.97)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151125&t=2&i=1097570808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAO0E6)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At CBS News/National Journal Republican presidential debate, candidates split on
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-503544_162-57323686-503544/romney-gingrich-at-gop-debate-wed-go-to-war-to-keep-iran-from-getting-nuclear-weapons/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

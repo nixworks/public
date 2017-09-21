@@ -9,6 +9,7 @@ Fifty years after he started his creative journey, Sampooran Singh Kalra, better
 
 1. [Hindustan Times](http://www.hindustantimes.com/entertainment/music/gulzar-gets-phalke-award-says-it-s-better-than-oscar/article1-1207517.aspx)
 2. [The Times of India](http://m.timesofindia.com/city/mumbai/Gulzar-Bollywoods-favourite-lyricist-wins-Dadasaheb-Phalke-award/articleshow/33670936.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

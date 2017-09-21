@@ -8,6 +8,7 @@ A car bomb ripped through Srinagar, killing six. | First Look: The Srinagar blas
 ### Source:
 
 1. [Rediff](http://in.rediff.com/news/2005/nov/02look.htm)
+1. [Cover Image](http://im.rediff.com/300-300/news/2005/nov/02nlook.jpg)
 
 ### Related:
 

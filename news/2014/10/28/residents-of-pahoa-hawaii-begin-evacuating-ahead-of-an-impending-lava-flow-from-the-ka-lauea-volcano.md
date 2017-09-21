@@ -8,6 +8,7 @@ Residents of a Hawaiian village threatened by the Kilauea volcano are evacuated 
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-us-canada-29805102)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78587000/jpg/_78587943_78585050.jpg)
 
 ### Related:
 

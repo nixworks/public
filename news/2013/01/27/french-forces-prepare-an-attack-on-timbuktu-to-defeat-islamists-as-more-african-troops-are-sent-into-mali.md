@@ -8,6 +8,7 @@ French and Malian forces move on Timbuktu after recapturing other northern towns
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21218003)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65532000/jpg/_65532505_65532504.jpg)
 
 ### Related:
 

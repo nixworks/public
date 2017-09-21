@@ -8,6 +8,7 @@ The Philippines says it will challenge Chinese claims in the South China Sea at 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21137144)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60425000/jpg/_60425310_014498112-1.jpg)
 
 ### Related:
 

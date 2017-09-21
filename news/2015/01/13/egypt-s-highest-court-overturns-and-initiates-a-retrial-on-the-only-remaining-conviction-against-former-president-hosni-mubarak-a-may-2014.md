@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/13/us-egypt-mubarak-idUSKBN0KM0O620150113)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150113&t=2&i=1015880564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0C09C)
 
 ### Related:
 

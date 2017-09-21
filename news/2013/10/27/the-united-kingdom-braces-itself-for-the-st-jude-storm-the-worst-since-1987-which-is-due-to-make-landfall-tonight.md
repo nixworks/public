@@ -8,6 +8,7 @@ Commuters are being warned of travel disruption on Monday as a storm bringing se
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-24690552)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70741000/jpg/_70741593_marianamonteirolondonn9.jpg)
 
 ### Related:
 

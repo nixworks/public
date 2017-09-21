@@ -8,6 +8,7 @@ Ozzy and Sharon Osbourne reveal that son Jack has the incurable neurological con
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18478530)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60963000/jpg/_60963734_jackosbourne2.jpg)
 
 ### Related:
 

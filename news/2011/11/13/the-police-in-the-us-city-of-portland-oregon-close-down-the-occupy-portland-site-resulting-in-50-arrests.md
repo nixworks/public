@@ -8,6 +8,7 @@ Portland Police arrested more than 50 people on Sunday as the authorities cleare
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/11/14/us-usa-protests-idUSTRE7AB05L20111114?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111114&t=2&i=531969685&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7AD07D500)
 
 ### Related:
 

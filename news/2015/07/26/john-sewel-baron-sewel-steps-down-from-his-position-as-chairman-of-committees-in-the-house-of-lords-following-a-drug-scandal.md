@@ -8,6 +8,7 @@ Lord Sewel is facing a police inquiry after quitting as House of Lords deputy sp
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-33667676)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1F03/production/_84493970_84493969.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The chilled Tropika that Salama al-Kishawi proudly serves guests in his office t
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/gaza-factories-remain-paralysed-despite-israel-pledge-to-ease-blockade-2011018.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/06/25/22/401498.bin)
 
 ### Related:
 

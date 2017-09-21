@@ -9,6 +9,7 @@ Ukrainian opposition leader Yulia Tymoshenko has been charged with misusing stat
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12042561)
 2. [Ukrainian News Agency](http://un.ua/eng/article/303479.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

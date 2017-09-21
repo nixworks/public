@@ -8,6 +8,7 @@ THE GREEN Party and gay rights organisations have defended plans to introduce ci
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0824/1224253139515.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

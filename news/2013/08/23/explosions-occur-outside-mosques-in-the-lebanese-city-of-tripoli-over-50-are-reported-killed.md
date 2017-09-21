@@ -8,6 +8,7 @@ At least 47 killed and 500 wounded after car bombings target two mosques in Trip
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/201382311249855388.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/23/2013823201017404734_20.jpg)
 
 ### Related:
 

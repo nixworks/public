@@ -9,6 +9,7 @@
 
 1. [CS Monitor](http://www.csmonitor.com/Innovation/Horizons/2010/1215/Mark-Zuckerberg-in-Assange-out.-Did-Time-choose-the-wrong-person-of-the-year)
 2. [Time](http://www.time.com/time/specials/packages/0,28757,2036683,00.html)
+2. [Cover Image](http://images.csmonitor.com/csmarchives/2010/12/afplivethree657582-US-DIPLOMACY-INT.jpg?alias=standard_900x600)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Nasa scientists are planning to capture a 500,000kg asteroid, relocate it and tr
 1. [Caltech Report](http://kiss.caltech.edu/study/asteroid/asteroid_final_report.pdf)
 2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-2252489/Nasa-plans-lasso-asteroid-size-double-decker-buses-turn-space-station-orbit-moon.html)
 3. [The Times of India](http://articles.timesofindia.indiatimes.com/2012-12-25/science/35998747_1_nasa-plan-space-station-human-presence)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/17750905.cms)
 
 ### Related:
 

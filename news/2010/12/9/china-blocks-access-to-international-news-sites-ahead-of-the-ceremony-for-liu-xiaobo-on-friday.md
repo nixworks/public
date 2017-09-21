@@ -13,6 +13,7 @@ China steps up its campaign to try to discredit the Nobel committee, ahead of th
 4. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2010/12/9/worldupdates/2010-12-09T163525Z_01_NOOTR_RTRMDNC_0_-534540-1&sec=Worldupdates)
 5. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2010/12/10/2003490553)
 6. [Times of India](http://timesofindia.indiatimes.com/world/europe/Whos-staying-away-from-Nobel-ceremony/articleshow/7072455.cms)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

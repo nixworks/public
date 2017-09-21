@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-21T103604Z_01_B405032_RTRUKOC_0_US-SPACE-SHUTTLE.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Moscow Times offers everything you need to know about Russia: breaking news,
 
 1. [Mosnews](http://www.mosnews.com/news/2005/01/20/kurskclaim.shtml)
 2. [St.Petersburg Times](http://www.sptimes.ru/archive/times/1037/news/n_14642.htm)
+2. [Cover Image](https://themoscowtimes.com/static/uploads/portal/2016/7/6/76f00fc9f7b246fdb1893ba8c416585e.png)
 
 ### Related:
 

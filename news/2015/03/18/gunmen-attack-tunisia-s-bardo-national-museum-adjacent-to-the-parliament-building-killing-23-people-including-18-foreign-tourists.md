@@ -9,6 +9,7 @@ Tourists from Poland and France among those killed, as Tunisian PM says one of g
 
 1. [AP via MSN](http://www.msn.com/en-us/news/world/tunisia-death-toll-in-museum-attack-rises-to-23/ar-BBiqmqN)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/tunisia/11479898/Tunisia-attack-tourists-taken-hostage-at-museum-near-Tunis-parliament-live.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03236/tunis-police-3_3236709k.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A massive wildfire burning out of control in the foothills of central California
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-wildfires-idUSKCN0ZB0V5)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160625&t=2&i=1142878685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5O0NH)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/08/us-greece-idUSTRE8120HI20120208?feedType=RSS&feedName=topNews&rpc=71&google_editors_picks=true)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120208&t=2&i=568245468&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8171B2E00)
 
 ### Related:
 

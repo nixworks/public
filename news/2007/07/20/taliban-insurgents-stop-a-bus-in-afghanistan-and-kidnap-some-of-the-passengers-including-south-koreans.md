@@ -8,6 +8,7 @@ Taliban insurgents have kidnapped 23 Korean Christians from a bus in Afghanistan
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSISL13294820070720?feedType=RSS)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

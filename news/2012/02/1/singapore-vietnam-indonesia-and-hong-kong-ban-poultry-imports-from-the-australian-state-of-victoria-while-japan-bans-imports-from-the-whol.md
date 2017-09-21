@@ -9,6 +9,7 @@ Japan has temporarily banned poultry imports from Australia following an outbrea
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-02-01/avian-flu-outbreak-leads-to-ban-on-poultry-imports/3804526?section=vic)
 2. [VoA](http://blogs.voanews.com/breaking-news/2012/02/01/australia-kills-24000-ducks-to-stop-bird-flu/)
+2. [Cover Image](http://www.abc.net.au/news/image/3803440-1x1-700x700.jpg)
 
 ### Related:
 

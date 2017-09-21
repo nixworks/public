@@ -8,6 +8,7 @@ Officials believe one of the four people who survived yesterday&#039;s deadly pl
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-10-13/plane-crashes-in-png/3570522?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/3570544-1x1-700x700.jpg)
 
 ### Related:
 

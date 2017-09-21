@@ -9,6 +9,7 @@ At least four protesters are killed in violence between police and anti-governme
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10961817)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_World&set_id=1&click_id=3&art_id=nw20100813201058613C769454)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

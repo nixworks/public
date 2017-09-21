@@ -10,6 +10,7 @@
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601068&sid=a5ko9LvUcbCM&refer=home)
 2. [MarketWatch](http://www.marketwatch.com/news/story/sec-extends-selective-ban-short/story.aspx?guid=%7B4D342D9C%2D3CC8%2D4FE2%2DA68F%2DE855BA4DC6A5%7D)
 3. [MarketWatch](http://www.marketwatch.com/news/story/us-stock-futures-lower-after/story.aspx?guid=%7BE9014660%2DB15E%2D4876%2DBE8A%2DD83DB50C1545%7D)
+3. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

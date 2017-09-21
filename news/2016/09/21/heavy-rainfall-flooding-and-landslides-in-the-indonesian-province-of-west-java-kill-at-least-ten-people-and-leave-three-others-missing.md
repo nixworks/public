@@ -8,6 +8,7 @@ JAKARTA - Ten people have been killed in flash flooding and landslides in Indone
 ### Source:
 
 1. [AFP via AsiaOne](http://news.asiaone.com/news/asia/10-dead-3-missing-indonesian-floods-landslides-official)
+1. [Cover Image](http://news.asiaone.com/sites/default/files/original_images/Sep2016/20160920_landslide_afp.jpg)
 
 ### Related:
 

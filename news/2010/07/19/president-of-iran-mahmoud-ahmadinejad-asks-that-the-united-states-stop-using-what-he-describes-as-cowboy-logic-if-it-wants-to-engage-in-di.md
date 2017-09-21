@@ -8,6 +8,7 @@ The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10683549)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

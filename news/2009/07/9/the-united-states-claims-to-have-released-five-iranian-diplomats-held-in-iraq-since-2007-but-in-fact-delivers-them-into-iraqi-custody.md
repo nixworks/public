@@ -9,6 +9,7 @@ Seizure of five men in Irbil in 2007 raised diplomatic tensions between US and I
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/07/2009799735634723.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/meast/07/09/iraq.iranians.released/)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

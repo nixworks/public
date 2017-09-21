@@ -8,6 +8,7 @@ Fifty-eight foot American-owned yacht seized off the coast of Oman with four US 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121991647312822.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/19/2011219121222580_20.jpg)
 
 ### Related:
 

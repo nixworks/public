@@ -8,6 +8,7 @@ Small aircraft carrying a married couple and three teenagers &quot;nosedives&quo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39117744)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/C7E9/production/_94877115_riversideplane.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Outspoken and divisive president dies after two-year battle with cancer, leaving
 3. [CBS News](http://www.cbsnews.com/8301-202_162-57572677/hugo-chavez-venezuelan-leader-and-u.s-foil-dies/)
 4. [RTÉ News](http://www.rte.ie/news/2013/0305/373306-hugo-chavez/)
 5. [The Guardian](http://www.guardian.co.uk/world/2013/mar/05/hugo-chavez-dies-cuba)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/6/20133661914972734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 65m people worldwide are displaced by conflict and war, the UN refugee
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-36573082)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D4E7/production/_90030545_mediaitem90030544.jpg)
 
 ### Related:
 

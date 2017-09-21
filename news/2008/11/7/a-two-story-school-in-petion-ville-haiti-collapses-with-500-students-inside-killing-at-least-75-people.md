@@ -8,6 +8,7 @@ AU-PRINCE (Reuters) - The death toll rose to at least 75 on Saturday in the coll
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-36398920081108)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20081108&t=2&i=6719358&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-11-08T191515Z_01_NOOTR_RTRMDNC_0_India-363989-1)
 
 ### Related:
 

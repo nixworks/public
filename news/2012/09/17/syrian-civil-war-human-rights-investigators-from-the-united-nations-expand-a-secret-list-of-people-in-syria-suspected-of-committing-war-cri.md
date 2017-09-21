@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/09/17/uk-syria-crisis-warcrimes-idUKBRE88G08A20120917)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120917&t=2&i=653713428&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88G0SLI00)
 
 ### Related:
 

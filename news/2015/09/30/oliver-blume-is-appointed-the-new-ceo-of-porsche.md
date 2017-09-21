@@ -8,6 +8,7 @@ Volkswagen AG Chief Executive Officer Matthias Mueller will brief the leadership
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-09-30/volkswagen-ceo-will-brief-board-leaders-on-diesel-investigation)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

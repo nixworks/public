@@ -8,6 +8,7 @@ Al Jazeera journalists Mohamed Fahmy and Baher Mohamed are released from prison 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34337595?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/175F2/production/_85703759_85703758.jpg)
 
 ### Related:
 

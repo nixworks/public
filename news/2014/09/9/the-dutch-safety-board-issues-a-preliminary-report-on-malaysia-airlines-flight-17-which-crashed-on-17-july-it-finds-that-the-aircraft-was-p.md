@@ -9,6 +9,7 @@ Dutch experts say Malaysia Airlines flight MH17 crashed in east Ukraine after be
 
 1. [BBC](http://www.bbc.com/news/world-europe-29119024#)
 2. [The Australian](http://www.theaustralian.com.au/in-depth/mh17/mh17-flight-hit-by-multiple-highenergy-objects-says-dutch-report/story-fno88it0-1227053010195)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77467000/jpg/_77467839_76387109.jpg)
 
 ### Related:
 

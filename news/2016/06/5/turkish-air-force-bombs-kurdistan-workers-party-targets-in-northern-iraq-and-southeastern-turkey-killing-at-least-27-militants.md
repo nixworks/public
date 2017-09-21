@@ -8,6 +8,7 @@ Turkish warplanes struck Kurdish militant targets in northern Iraq and southeast
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-security-kurds-idUSKCN0YR0BZ?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160605&t=2&i=1140067125&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC540AM)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-nato-montenegro-idUSKCN0YB0W2)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160520&t=2&i=1138042550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4J0HO)
 
 ### Related:
 

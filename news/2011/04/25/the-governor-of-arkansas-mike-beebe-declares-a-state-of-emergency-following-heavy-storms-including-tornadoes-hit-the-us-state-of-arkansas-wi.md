@@ -9,6 +9,7 @@ A tornado destroyed 50 to 80 houses and killed at least one person in an Arkansa
 
 1. [Arkansas Online](http://www.arkansasonline.com/news/2011/apr/25/flash-flood-warnings-issued-arkansas-oklahoma/?latest)
 2. [Reuters](http://www.reuters.com/article/2011/04/26/us-weather-floods-idUSTRE73O4JJ20110426?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

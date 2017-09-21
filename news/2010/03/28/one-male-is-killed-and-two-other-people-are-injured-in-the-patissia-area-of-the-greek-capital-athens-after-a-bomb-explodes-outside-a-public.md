@@ -13,6 +13,7 @@ A 15-year-old boy was killed and his mother and sister injured late Sunday after
 4. [Reuters](http://uk.reuters.com/article/idUKTRE62R1TG20100328)
 5. [Sky News](http://news.sky.com/skynews/Home/World-News/Bomb-Blast-In-Athens-Greece-Teenage-Boy-Killed/Article/201003415586465?f=rss)
 6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/greece/7533523/Teenager-killed-and-two-injured-in-Athens-bomb-attack.html)
+6. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100328&t=2&i=83346056&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-28T231827Z_01_BTRE62R1SQU00_RTROPTP_0_GREECE-BOMB)
 
 ### Related:
 

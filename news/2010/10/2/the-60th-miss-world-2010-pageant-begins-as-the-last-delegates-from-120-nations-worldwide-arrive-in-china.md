@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Globalbeauties](http://globalbeauties.com/world/2010/schedule/)
+1. [Cover Image](http://globalbeauties.com/world/wp-content/uploads/2012/07/indocult-150x145.jpg)
 
 ### Related:
 

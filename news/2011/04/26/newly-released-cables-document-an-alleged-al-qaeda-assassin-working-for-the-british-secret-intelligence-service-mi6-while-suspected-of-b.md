@@ -12,6 +12,7 @@ Two reports of Wikileaks files claim an alleged al-Qaeda &quot;assassin&quot; wa
 3. [BBC](http://www.bbc.co.uk/news/uk-13191959)
 4. [PA via ''The Independent](http://www.independent.co.uk/news/world/americas/wikileaks-terror-suspect-was-british-agent-2274870.html)
 5. [Reuters](http://www.reuters.com/article/2011/04/26/usa-wikileaks-assange-idUSN2629178720110426)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52339000/jpg/_52339546_explosion-site-afp-640x480.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/145920-philippines-official-gazette-ferdinand-marcos-photo-historical-revisionism)
+1. [Cover Image](https://assets.rappler.com/7B156D5A6C6B44AABE335C46014BBBEB/img/BA7B752214AE4CFA9F9F09038D814494/20160911-gazette-statement.png)
 
 ### Related:
 

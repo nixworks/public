@@ -16,6 +16,7 @@
 7. [Novy Region](http://www.nr2.ru/south/190935.html)
 8. [Reuters](http://blogs.reuters.com/trail08/2008/08/13/georgia-on-my-mind-mccain/)
 9. [Reuters](http://www.reuters.com/article/topNews/idUSLC65989020080812)
+9. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The death toll in this week&#39;s rail disaster in Italy rose to 21 after a woma
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0703/viareggio.html)
+1. [Cover Image](https://img.rasset.ie/00026b5f-1600.jpg)
 
 ### Related:
 

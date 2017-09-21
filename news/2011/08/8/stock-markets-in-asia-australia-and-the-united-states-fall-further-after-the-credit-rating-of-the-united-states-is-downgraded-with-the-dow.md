@@ -13,6 +13,7 @@ The Australian share market has dropped again following its recovery from earlie
 4. [Market Watch](http://www.marketwatch.com/story/japan-stocks-open-sharply-lower-on-us-downgrade-2011-08-07)
 5. [News Limited](http://www.news.com.au/business/australia-faces-market-test-of-nerves/story-e6frfm1i-1226111305525)
 6. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/08/us-stocks-poised-to-fall-sharply-at-the-opening/1)
+6. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/5/5/5587_asx-110804-aap.jpg)
 
 ### Related:
 

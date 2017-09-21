@@ -8,6 +8,7 @@ Police have arrested disgraced ex-detective Roger Rogerson at his home in Sydney
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/nsw/roger-rogerson-arrested-over-alleged-murder-of-jamie-gao-20140527-390x2.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/3/9/1/6/i/image.related.articleLeadwide.620x349.390x2.png/1401156686477.jpg)
 
 ### Related:
 

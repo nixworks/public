@@ -9,6 +9,7 @@ Former child star Gary Coleman is reportedly in a critical condition in a Utah H
 
 1. [CNN](http://edition.cnn.com/2010/SHOWBIZ/TV/05/27/gary.coleman.hospitalized/index.html)
 2. [The Sydney Morning Herald](http://www.smh.com.au/lifestyle/people/gary-coleman-critically-hurt-after-falling-and-hitting-his-head-20100528-wiab.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/w/i/b/9/image.related.articleLeadwide.620x349.wiab.png/1275002475897.jpg)
 
 ### Related:
 

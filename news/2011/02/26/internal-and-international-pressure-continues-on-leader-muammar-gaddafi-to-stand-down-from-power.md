@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://blogs.aljazeera.net/live/africa/live-blog-libya-feb-26)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201122641559301766.html)
 3. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/26/libya-protests-middle-east-gaddafi)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/26/2011226195744179954_20.jpg)
 
 ### Related:
 

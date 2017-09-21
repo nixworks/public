@@ -9,6 +9,7 @@ A Serbian court has fined President Boris Tadic €400 for drinking champagne to
 
 1. [RTÉ](http://www.rte.ie/news/2009/1208/serbia.html)
 2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/offbeat/president-fined-for-world-cup-drink-14589994.html)
+2. [Cover Image](https://img.rasset.ie/0002d09f-1600.jpg)
 
 ### Related:
 

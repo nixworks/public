@@ -8,6 +8,7 @@ The Agriculture Department said on Friday it has deregulated a variety of corn g
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/11/us-agriculture-usda-corn-idUSTRE71A71L20110211)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

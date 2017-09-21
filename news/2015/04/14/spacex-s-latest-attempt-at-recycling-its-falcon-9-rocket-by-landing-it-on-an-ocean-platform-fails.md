@@ -8,6 +8,7 @@ SpaceX&#x27;s latest attempt at recycling its Falcon 9 rocket by landing it upri
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/spacex-cargo-ship-blasts-off-toward-space-station-201526000.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/mcfbZuLORLLp74XARsCdxg--/aD01Nzc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8917804-1-1-0.jpg)
 
 ### Related:
 

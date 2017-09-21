@@ -8,6 +8,7 @@ Volkswagen AG (VOWG_p.DE) and U.S. officials have reached a framework deal under
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-volkswagen-emissions-usa-idUSKCN0XH2CX)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160420&t=2&i=1133769857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3J1C1)
 
 ### Related:
 

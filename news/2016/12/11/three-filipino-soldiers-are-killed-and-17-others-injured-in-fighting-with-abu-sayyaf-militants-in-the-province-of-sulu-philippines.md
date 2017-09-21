@@ -8,6 +8,7 @@ Three Filipino soldiers were killed and 17 others wounded in nearly two hours of
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2016/12/11/3-filipino-soldiers-killed-17-injured-in-clash-with-militants.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

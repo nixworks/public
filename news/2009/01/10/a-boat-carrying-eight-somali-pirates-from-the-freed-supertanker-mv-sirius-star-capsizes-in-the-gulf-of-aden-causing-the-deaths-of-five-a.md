@@ -8,6 +8,7 @@ Five Somali pirates who released a Saudi supertanker have drowned with their sha
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/piracy/4213168/Somali-pirates-drown-with-ransom-after-freeing-Saudi-supertanker.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01235/sirius_1235588f.jpg)
 
 ### Related:
 

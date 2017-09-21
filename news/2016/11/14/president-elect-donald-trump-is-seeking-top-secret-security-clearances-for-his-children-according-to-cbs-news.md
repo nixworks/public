@@ -9,6 +9,7 @@ His children would need to fill out a security questionnaire and go through back
 
 1. [CBS News](http://www.cbsnews.com/news/trump-team-seeks-top-secret-security-clearances-for-trump-children/)
 2. [Reuters](http://www.reuters.com/article/us-usa-trump-children-idUSKBN1392OQ?il=0)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/11/14/0e454a74-47a3-47c9-a60e-c21e5c0de84a/rtx2qkoz.jpg)
 
 ### Related:
 

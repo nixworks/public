@@ -8,6 +8,7 @@ Separatist Kurdish rebels are reported to have claimed responsibility for an exp
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/11/23/2427244.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

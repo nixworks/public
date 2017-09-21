@@ -10,6 +10,7 @@ Twenty-five prisoners, including several Islamic militants, have escaped from a 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11057127)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/192514/25-militants-escape-prison-in-tajikistan)
 3. [ITAR-TASS](http://itar-tass.com/eng/level2.html?NewsID=15424966)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

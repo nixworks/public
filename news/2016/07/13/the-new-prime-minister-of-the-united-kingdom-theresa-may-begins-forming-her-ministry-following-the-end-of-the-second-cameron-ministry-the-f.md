@@ -8,6 +8,7 @@ Theresa May is forming her government after becoming prime minister. Who is in -
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-36785814)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15D17/production/_90376398_may10.jpg)
 
 ### Related:
 

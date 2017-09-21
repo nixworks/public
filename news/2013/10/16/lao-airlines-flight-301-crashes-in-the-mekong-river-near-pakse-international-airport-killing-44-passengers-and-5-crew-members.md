@@ -8,6 +8,7 @@ Dozens of people including foreign nationals are killed in Laos as a plane crash
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24554128)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70521000/jpg/_70521045_70521044.jpg)
 
 ### Related:
 

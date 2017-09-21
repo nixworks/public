@@ -8,6 +8,7 @@ The only other parchment copy is maintained by the National Archives in Washingt
 ### Source:
 
 1. [The Boston Globe](http://www.bostonglobe.com/metro/2017/04/21/harvard-researchers-uncover-second-parchment-copy-declaration-independence-england/ByjMR9FS1HrsR8LKx2VOzK/story.html)
+1. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2017/04/21/BostonGlobe.com/Metro/Images/the_sussex_declaration._west_sussex_add_ms_8981.jpg)
 
 ### Related:
 

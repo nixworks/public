@@ -10,6 +10,7 @@ The UN warns of an &quot;alarming deterioration&quot; in the human rights situat
 1. [BBC](http://www.bbc.com/news/world-europe-27438422)
 2. [New York Times](http://www.nytimes.com/2014/05/16/world/europe/ukraine-workers-take-to-streets-to-calm-Mariupol.html?hp&_r=4)
 3. [U.S. News & World Report](http://www.usnews.com/news/world/articles/2014/05/16/pro-russian-insurgents-retreat-in-ukraines-east)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74899000/jpg/_74899635_74899634.jpg)
 
 ### Related:
 

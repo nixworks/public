@@ -9,6 +9,7 @@ A cleaning woman accused of stealing an empty commuter train in a suburb of Stoc
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21088672)
 2. [Dagens Nyheter](http://www.dn.se/sthlm/sl-ber-om-ursakt)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65287000/jpg/_65287842_65287841.jpg)
 
 ### Related:
 

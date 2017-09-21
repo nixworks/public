@@ -8,6 +8,7 @@ Seventeen people are killed as a fire tears through a building housing elderly p
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36407736)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1448A/production/_89828038_89828036.jpg)
 
 ### Related:
 

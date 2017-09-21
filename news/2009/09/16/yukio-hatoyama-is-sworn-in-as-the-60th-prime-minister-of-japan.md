@@ -9,6 +9,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 1. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200909160216.html)
 2. [Radio Australia](http://www.radioaustralia.net.au/asiapac/stories/200909/s2688162.htm)
+2. [Cover Image](http://www.asahicom.jp/ajw/images/logo_ogp.png)
 
 ### Related:
 

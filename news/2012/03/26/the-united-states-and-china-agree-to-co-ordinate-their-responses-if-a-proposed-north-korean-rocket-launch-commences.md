@@ -8,6 +8,7 @@ China and the US will co-ordinate their response to a controversial North Korean
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17509349)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59300000/jpg/_59300212_014361103-1.jpg)
 
 ### Related:
 

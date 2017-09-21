@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/suspicious-letter-white-powder-donald-trumps-son/story?id=37738571)
+1. [Cover Image](http://a.abcnews.com/images/US/AP_Eric_Trump_160317_16x9_992.jpg)
 
 ### Related:
 

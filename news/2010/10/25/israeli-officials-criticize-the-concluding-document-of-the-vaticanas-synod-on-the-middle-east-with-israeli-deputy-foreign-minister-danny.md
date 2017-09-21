@@ -10,6 +10,7 @@ THE VATICAN&rsquo;s two-week long synod on the Middle East ended on a polemical 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iOJS-4W6YYFmDf86_T_ClVcoYDgw?docId=94a65f0853fe41b2a182f57194563510)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1025/1224281952401.html)
 3. [The Jerusalem Post](http://www.jpost.com/international/Article.aspx?id=192590)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

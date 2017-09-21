@@ -8,6 +8,7 @@ Tajikistan holds presidential elections, with incumbent leader Emomali Rakhmon w
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24830415)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70934000/jpg/_70934680_70934679.jpg)
 
 ### Related:
 

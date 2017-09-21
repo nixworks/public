@@ -4,7 +4,7 @@
 _Context: LTTE, Sattahip, Sri Lanka, Thailand_
 
 ### [ Archaeologists use a remote-controlled robot to access a hitherto sealed chamber within the Great Pyramid of Giza: the robot drilled a hole in a long-sealed door and poked a fiber-optic camera through. Unfortunately, all that was revealed was another closed door.](/news/2002/09/18/archaeologists-use-a-remote-controlled-robot-to-access-a-hitherto-sealed-chamber-within-the-great-pyramid-of-giza-the-robot-drilled-a-hole.md)
-_Context: Great Pyramid of Giza_
+_Context: Great Pyramid_
 
 ### [ Nazi collaborator Maurice Papon is released from jail due to health reasons.](/news/2002/09/18/nazi-collaborator-maurice-papon-is-released-from-jail-due-to-health-reasons.md)
 _Context: Maurice Papon, Nazi collaborator_

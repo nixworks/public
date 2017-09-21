@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2017/08/31/investing/wells-fargo-fake-accounts/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170330100649-wells-fargo-magnifying-glass-investigation-780x439.jpg)
 
 ### Related:
 

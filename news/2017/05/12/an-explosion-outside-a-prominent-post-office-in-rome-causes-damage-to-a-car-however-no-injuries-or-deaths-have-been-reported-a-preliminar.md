@@ -8,6 +8,7 @@ Explosion outside building near Aventine hill, which damaged a car but caused no
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/may/12/italian-police-investigate-reports-of-bomb-explosion-in-rome)
+1. [Cover Image](https://i.guim.co.uk/img/media/acb5b3720d26007acafd1633f9ac7650c895d63d/0_88_4928_2957/master/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=af541bd35fcaf46911716ff591feb090)
 
 ### Related:
 

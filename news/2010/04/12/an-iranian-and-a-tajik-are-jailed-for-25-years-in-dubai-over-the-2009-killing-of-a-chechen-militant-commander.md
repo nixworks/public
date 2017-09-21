@@ -13,6 +13,7 @@ A Dubai court convicted two men Monday of involvement in the 2009 assassination 
 4. [Reuters](http://uk.reuters.com/article/idUKTRE63B0Z720100412?feedType=RSS&feedName=worldNews)
 5. [The Star](http://thestar.com.my/news/story.asp?file=/2010/4/12/worldupdates/2010-04-12T162207Z_01_NOOTR_RTRMDNC_0_-476164-2&sec=Worldupdates)
 6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/12/AR2010041201464.html)
+6. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

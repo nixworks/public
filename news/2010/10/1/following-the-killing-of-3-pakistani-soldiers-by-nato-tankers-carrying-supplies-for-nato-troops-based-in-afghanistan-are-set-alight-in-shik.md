@@ -8,6 +8,7 @@ Attack on tankers carrying supplies to troops in Afghanistan follows deaths of P
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/20101014133433742.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/1/20101018237545734_20.jpg)
 
 ### Related:
 

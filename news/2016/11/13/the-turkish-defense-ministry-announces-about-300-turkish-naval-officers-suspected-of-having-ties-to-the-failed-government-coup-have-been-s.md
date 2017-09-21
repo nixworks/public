@@ -8,6 +8,7 @@ Some 300 Turkish naval officers have been suspended or dismissed as part of a cr
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/11/13/Turkey-suspends-dismisses-300-naval-personnel-over-coup-attempt/5711479064094/?spt=hts&or=1)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/5711479064094/2016/1/5f7cbe53bb709059b3d14d5c352ab9c9/v1.5/Turkey-suspends-dismisses-300-naval-personnel-over-coup-attempt.jpg)
 
 ### Related:
 

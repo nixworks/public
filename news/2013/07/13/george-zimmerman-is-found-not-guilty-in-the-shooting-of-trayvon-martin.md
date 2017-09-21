@@ -10,6 +10,7 @@ The jury deciding George Zimmerman&#x27;s fate began its deliberations about 2:3
 1. [AP via CBC](http://www.cbc.ca/news/world/story/2013/07/13/zimmerman-jury.html)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2013/07/13/george-zimmerman-found-not-guilty/2514163/)
 3. [Yahoo! News](http://news.yahoo.com/george-zimmerman-murder-trial--live-video-and-chat-222843188.html)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/HW_LDgM89CNB1wMZwAwLfQ--/aD0zNzA7dz02NTg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.abcnewsplus.com/c159c032ffecd8ba8b1a7069525d08ec)
 
 ### Related:
 

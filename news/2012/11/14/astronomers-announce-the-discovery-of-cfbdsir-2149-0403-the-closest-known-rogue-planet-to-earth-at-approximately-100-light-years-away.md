@@ -8,6 +8,7 @@ Astronomers spot a planet wandering the cosmos without a host star about 100 lig
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-20309762)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64113000/jpg/_64113352_64113351.jpg)
 
 ### Related:
 

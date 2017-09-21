@@ -1,7 +1,7 @@
 ## [2007-01-15](/news/2007/01/15/index.md)
 
 ### [ The President of the United States George W. Bush declares a state of emergency in Oklahoma following the death of 11 people in a midwinter storm. Twenty-five people have died in the midwestern United States as a result of the storm. ](/news/2007/01/15/the-president-of-the-united-states-george-w-bush-declares-a-state-of-emergency-in-oklahoma-following-the-death-of-11-people-in-a-midwinter.md)
-_Context: George W. Bush, Oklahoma!, President, midwestern, states of emergency_
+_Context: George W. Bush, Oklahoma!, U.S. President, midwestern, states of emergency_
 
 ### [ Colombian police arrest Eugenio Montoya, also known as Don Hugo, suspected of being a leader of the Norte del Valle syndicate, which is described by the Federal Bureau of Investigation as the "most powerful and violent drug-trafficking organization in Colombia". ](/news/2007/01/15/colombian-police-arrest-eugenio-montoya-also-known-as-don-hugo-suspected-of-being-a-leader-of-the-norte-del-valle-syndicate-which-is-des.md)
 The Age 404 Page

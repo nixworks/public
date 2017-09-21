@@ -8,6 +8,7 @@ Critics say changing the rules may mean some data travels on &quot;fast lanes&qu
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-39973787)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/E963/production/_90974795_mediaitem90974794.jpg)
 
 ### Related:
 

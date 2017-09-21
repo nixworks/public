@@ -8,6 +8,7 @@ Opposition leaders threaten not to recognise the new parliament as thousands ral
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/11/2012115134229319119.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/5/2012115135137787734_20.jpg)
 
 ### Related:
 

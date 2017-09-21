@@ -8,6 +8,7 @@ Eleven inmates are missing and two guards injured after gunmen attack a Greek pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21911229)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66569000/jpg/_66569175_66569174.jpg)
 
 ### Related:
 

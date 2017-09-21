@@ -8,6 +8,7 @@ Scientists report the development of a novel material that soaks up gases like a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18396655)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60842000/jpg/_60842625_60842624.jpg)
 
 ### Related:
 

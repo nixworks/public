@@ -8,6 +8,7 @@ Gunmen killed 12 people in a raid on a northeastern Nigerian village on Saturday
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/23/us-nigeria-bokoharam-idUSBRE9AM0AT20131123)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

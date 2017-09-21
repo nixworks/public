@@ -8,6 +8,7 @@ Jewish Home MK lone &#8216;no&#8217; vote on bill to levy criminal sanctions on 
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/bill-to-draft-ultra-orthodox-into-idf-passes-knesset/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/03/lapid-bennett-e1394625857662.jpg)
 
 ### Related:
 

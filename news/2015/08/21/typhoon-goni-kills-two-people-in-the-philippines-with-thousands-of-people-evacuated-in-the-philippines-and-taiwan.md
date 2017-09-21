@@ -8,6 +8,7 @@ Two people are dead and thousands evacuated as powerful typhoon Goni approaches 
 ### Source:
 
 1. [AFP via ABC Australia](http://www.abc.net.au/news/2015-08-21/two-killed-thousands-flee-as-typhoon-nears-philippines-taiwan/6716552)
+1. [Cover Image](http://www.abc.net.au/news/image/6716564-1x1-700x700.jpg)
 
 ### Related:
 

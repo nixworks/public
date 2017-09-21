@@ -12,6 +12,7 @@ A passenger train came off the rails in northeastern Iran Saturday, killing at l
 3. [RTÉ](http://www.rte.ie/news/2010/0123/iran.html)
 4. [Reuters](http://www.reuters.com/article/idUSTRE60M0MU20100123)
 5. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5j43KJtMpHskJVKclkHJPb_Kzyn1w)
+5. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100123&t=2&i=49805800&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-23T192326Z_01_BTRE60M1HVC00_RTROPTP_0_IRAN-TRAIN-DERAIL)
 
 ### Related:
 

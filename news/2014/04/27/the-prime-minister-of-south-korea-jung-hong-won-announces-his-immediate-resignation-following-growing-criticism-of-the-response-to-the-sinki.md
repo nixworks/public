@@ -8,6 +8,7 @@ Prime Minister Chung Hong-won announces resignation amid criticism of government
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/04/south-korea-pm-resigns-over-ferry-disaster-201442703119736746.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/4/27/2014427397967734_20.jpg)
 
 ### Related:
 

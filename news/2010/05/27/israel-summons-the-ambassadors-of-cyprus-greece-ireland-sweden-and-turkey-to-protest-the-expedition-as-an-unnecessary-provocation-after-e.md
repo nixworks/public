@@ -18,6 +18,7 @@ Pro-Palestinian activists have vowed to break through the Israeli blockade of Ga
 9. [Voice of America](http://www1.voanews.com/english/news/middle-east/Israel-Aid-Ships-are-Cheap-Political-Stunt--95023784.html)
 10. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3895077,00.html)
 11. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3895287,00.html)
+11. [Cover Image](https://img.rasset.ie/000311d2-1600.jpg)
 
 ### Related:
 

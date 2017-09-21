@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5120NN20090203)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090203&t=2&i=8102293&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-03T112113Z_01_BTRE5120VJG00_RTROPTP_0_IRAN-SATELLITE)
 
 ### Related:
 

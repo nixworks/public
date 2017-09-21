@@ -8,6 +8,7 @@ U.S. Senate BankingCommittee Chairman Christopher Dodd said on Tuesday thatCongr
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSN1622429420100316)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

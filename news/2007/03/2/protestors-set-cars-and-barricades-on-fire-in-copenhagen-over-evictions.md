@@ -8,6 +8,7 @@ Violent demonstrations continued in Copenhagen, Denmark on Saturday, sparked by 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,256247,00.html?sPage=fnc.world/europe)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

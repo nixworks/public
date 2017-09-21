@@ -11,6 +11,7 @@ San Bernardino shooters Syed Farook and Tashfeen Malik first met in person and b
 2. [Fox News](http://www.foxnews.com/politics/2015/12/08/bank-records-show-28500-deposit-to-syed-farooks-account-two-weeks-before-shooting-source-says.html?intcmp=hpbt1)
 3. [New York Times](http://www.nytimes.com/2015/12/08/us/fbi-says-san-bernardino-assailants-were-radicalized.html)
 4. [SBS](http://www.sbs.com.au/news/storystream/bank-deposit-28500-made-california-shooter-reports)
+4. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20151208001207351674-original_0.jpg)
 
 ### Related:
 

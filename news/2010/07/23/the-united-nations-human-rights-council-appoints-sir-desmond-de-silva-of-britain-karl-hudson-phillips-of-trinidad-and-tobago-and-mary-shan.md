@@ -9,6 +9,7 @@ Three-person team expected to travel to Israel, Turkey and Gaza to investigate r
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010723142931310192.html)
 2. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/07/24/124810850d3f)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A US man died of a rare African virus in New Jersey after returning from West Af
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/us-man-dies-lassa-fever-165520606.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/r.lPR1oIrE483hi1sLBTxQ--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/eac01cad48b8709731b2ea2e20042f9ea7a9260c.jpg)
 
 ### Related:
 

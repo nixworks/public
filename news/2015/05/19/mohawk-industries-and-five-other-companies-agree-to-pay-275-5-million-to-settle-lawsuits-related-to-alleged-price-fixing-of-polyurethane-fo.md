@@ -8,3 +8,4 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/05/19/polyurethane-settlement-idUSL1N0YA2IT20150519)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

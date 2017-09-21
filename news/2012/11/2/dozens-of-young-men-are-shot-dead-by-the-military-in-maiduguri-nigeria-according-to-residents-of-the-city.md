@@ -8,6 +8,7 @@ Dozens of young men have been shot dead in Nigeria by the military in Maiduguri,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20178356)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63859000/jpg/_63859749_afp.jpg)
 
 ### Related:
 

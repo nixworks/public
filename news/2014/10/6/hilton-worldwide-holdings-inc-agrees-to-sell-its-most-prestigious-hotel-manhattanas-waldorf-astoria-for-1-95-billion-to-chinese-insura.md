@@ -8,6 +8,7 @@ Landmark building’s $1.95 billion price tag is among the highest ever for any 
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/hilton-to-sell-waldorf-astoria-new-york-to-chinese-insurer-2014-10-06)
+1. [Cover Image](http://s.marketwatch.com/public/resources/MWimages/MW-CV683_waldor_ZG_20141006085532.jpg)
 
 ### Related:
 

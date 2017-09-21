@@ -8,6 +8,7 @@ Commons Deputy Speaker Nigel Evans says he &quot;refutes all allegations&quot; a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-22968566#TWEET794874)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68260000/jpg/_68260164_68260163.jpg)
 
 ### Related:
 

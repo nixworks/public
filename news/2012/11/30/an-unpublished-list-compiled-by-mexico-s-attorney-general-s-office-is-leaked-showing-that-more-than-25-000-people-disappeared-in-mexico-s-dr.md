@@ -8,6 +8,7 @@ Mexico&#039;s Attorney General has compiled a list showing that more than 25,000
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/mexico-more-than-25000-people-disappear-in-six-years-8372482.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/30/19/mexico.2.afp.jpg)
 
 ### Related:
 

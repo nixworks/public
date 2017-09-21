@@ -8,6 +8,7 @@ At least 10 people killed on Eid, day after suicide bomber killed 37 and amid US
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/08/201388112836903870.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/9/20138992322653734_20.jpg)
 
 ### Related:
 

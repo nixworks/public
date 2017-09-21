@@ -8,6 +8,7 @@ What may be the earliest creature yet discovered on the evolutionary line to bir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22695914)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67878000/jpg/_67878837_reconstruction_hattori.jpg)
 
 ### Related:
 

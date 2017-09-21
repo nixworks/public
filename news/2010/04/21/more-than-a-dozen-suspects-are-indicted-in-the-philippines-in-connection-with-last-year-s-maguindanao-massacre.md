@@ -9,6 +9,7 @@ More suspects in Philippines massacre indicted as suspected ring-leader denies g
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104215823215889.html)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1232978&lang=eng_news)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

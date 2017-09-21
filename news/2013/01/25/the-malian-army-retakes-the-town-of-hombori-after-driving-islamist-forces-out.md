@@ -11,6 +11,7 @@ French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Ga
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21203731)
 3. [RFI](http://www.english.rfi.fr/africa/20130125-french-mali-troops-take-town-head-gao-and-timbuktu)
 4. [Xinhua](http://news.xinhuanet.com/english/africa/2013-01/25/c_132128234.htm)
+4. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/tag-reuters_4.jpg)
 
 ### Related:
 

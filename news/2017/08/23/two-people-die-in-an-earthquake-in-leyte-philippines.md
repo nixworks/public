@@ -8,6 +8,7 @@ Aftershocks are expected from the quake; no injuries or damage yet reported.
 ### Source:
 
 1. [CNN Philippines](http://cnnphilippines.com/news/2017/08/23/earthquake-Albuera-Leyte.html)
+1. [Cover Image](http://cnnphilippines.com/incoming/ylpiun-magnitude-5.1-quake-leyte_CNNPH.png/ALTERNATES/LANDSCAPE_640/magnitude-5.1-quake-leyte_CNNPH.png)
 
 ### Related:
 

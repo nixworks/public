@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Saab-Automobile-files-creditor-protection/story.aspx?guid=%7BDDDDAE65%2D9911%2D4289%2D8644%2DD23BEEDB5CFF%7D)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

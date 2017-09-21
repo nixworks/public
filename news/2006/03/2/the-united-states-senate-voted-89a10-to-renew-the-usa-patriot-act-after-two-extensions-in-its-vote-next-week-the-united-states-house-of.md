@@ -8,6 +8,7 @@ With the Senate voting Thursday to renew the USA Patriot Act on Thursday, the me
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11638713/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Video/060302/n_viq_patriotact_060302.standard.jpg)
 
 ### Related:
 

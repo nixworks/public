@@ -8,6 +8,7 @@ Tube staff go on strike across the entire London Underground network in a row ov
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-33440369)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6E23/production/_84159182_9be1e6e2-91b3-4a48-b584-20d1819583a2.jpg)
 
 ### Related:
 

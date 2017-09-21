@@ -8,6 +8,7 @@ Leader of former Marxist rebels restores ties with Cuba in first act as presiden
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/06/200961221751885291.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

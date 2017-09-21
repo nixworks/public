@@ -8,6 +8,7 @@ The trial over the drowning of 35 residents was the only prosecution to result f
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/08/us/nationalspecial/08nursing.html?ex=1346904000&en=22813c6e10158017&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

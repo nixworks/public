@@ -9,6 +9,7 @@ Millions of Egyptians vote in a referendum on constitutional reforms, a month af
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113196242356485.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12793484)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

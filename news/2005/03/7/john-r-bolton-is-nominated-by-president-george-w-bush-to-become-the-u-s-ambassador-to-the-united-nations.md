@@ -9,6 +9,7 @@ President Bush intends to nominate Undersecretary of State John R. Bolton to be 
 
 1. [CNN](http://www.cnn.com/2005/US/03/07/bolton/index.html)
 2. [Fox News](http://www.foxnews.com/story/0,2933,149633,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

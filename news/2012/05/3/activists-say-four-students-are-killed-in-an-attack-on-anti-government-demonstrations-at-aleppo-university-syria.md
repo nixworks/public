@@ -8,6 +8,7 @@ Activists say four students killed and 200 arrested when security forces raid un
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/20125317175710737.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/3/20125382446582734_20.jpg)
 
 ### Related:
 

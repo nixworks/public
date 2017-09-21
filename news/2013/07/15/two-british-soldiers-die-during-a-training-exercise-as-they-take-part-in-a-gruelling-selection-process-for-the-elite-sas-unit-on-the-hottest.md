@@ -8,6 +8,7 @@ Two British soldiers have died during a training exercise over the weekend as th
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/UK-soldiers-die-in-heat-wave-during-trials-20130715)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/291/7c534c8c132941a09e9dcc9c8c0c0343.jpg)
 
 ### Related:
 

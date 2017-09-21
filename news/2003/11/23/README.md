@@ -25,7 +25,7 @@ _Context: SARS_
 _Context: Free Trade Area of the Americas, Miami_
 
 ### [ Three US troops are killed in Iraq, two of them in a civilian vehicle in Mosul and the third in a roadside bombing in Baquba. A mob desecrates the bodies of the Mosul victims and loots their gear. A female acting ambassador to the US is chosen by Iraq's Governing Council: Rend al-Rahim Francke, an Iraqi/American educated in Britain, France and Lebanon.](/news/2003/11/23/three-us-troops-are-killed-in-iraq-two-of-them-in-a-civilian-vehicle-in-mosul-and-the-third-in-a-roadside-bombing-in-baquba-a-mob-desecra.md)
-_Context: Baquba, Governing Council, Mosul, Rend al-Rahim Francke, ambassador_
+_Context: Ambassador, Baquba, Governing Council, Mosul, Rend al-Rahim Francke_
 
 ### [ A US military helicopter crashes near Bagram, Afghanistan, killing five soldiers and wounding seven.](/news/2003/11/23/a-us-military-helicopter-crashes-near-bagram-afghanistan-killing-five-soldiers-and-wounding-seven.md)
 _Context: Afghanistan, Bagram_

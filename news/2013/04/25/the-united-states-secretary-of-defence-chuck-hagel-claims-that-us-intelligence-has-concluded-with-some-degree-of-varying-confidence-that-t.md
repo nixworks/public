@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57581393/syria-has-likely-used-chemical-weapons-on-a-small-scale-chuck-hagel-says/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/04/25/78e17701-c411-11e2-a43e-02911869d855/hagel_abu_dhabi_167431314.jpg)
 
 ### Related:
 

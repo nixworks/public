@@ -10,6 +10,7 @@ Today the Member States of WHO elected Dr Tedros Adhanom Ghebreyesus as the new 
 1. [The Washington Post](https://www.washingtonpost.com/world/who-assembly-set-to-choose-next-chief-among-3-candidates/2017/05/23/a632e046-3faa-11e7-b29f-f40ffced2ddb_story.html)
 2. [Time](http://time.com/4790283/world-health-organization-director-tedros-adhanom-ghebreyesus/)
 3. [World Health Organization](http://www.who.int/mediacentre/news/releases/2017/director-general-elect/en/)
+3. [Cover Image](http://www.who.int/entity/mediacentre/news/releases/2017/who-logo.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Xi Jinping says China’s ‘territorial sovereignty and marine rights’ in the
 3. [CNN](http://www.cnn.com/2016/07/12/asia/china-philippines-south-china-sea/index.html?adkey=bn)
 4. [The Guardian](https://www.theguardian.com/world/2016/jul/12/philippines-wins-south-china-sea-case-against-china)
 5. [The New York Times](http://www.nytimes.com/2016/07/13/world/asia/south-china-sea-hague-ruling-philippines.html)
+5. [Cover Image](https://i.guim.co.uk/img/media/12aa6c0437b346f38f1d40e96557739f0596002a/186_198_2985_1791/2985.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=473d54ef6db94d5d033d68b7b386f0a3)
 
 ### Related:
 

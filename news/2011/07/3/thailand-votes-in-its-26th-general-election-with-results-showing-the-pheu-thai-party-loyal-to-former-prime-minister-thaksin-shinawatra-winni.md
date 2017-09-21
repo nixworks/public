@@ -13,6 +13,7 @@ Thailand will have its first female prime minister after the Red Shirt-backed op
 4. [Bangkok Post](http://www.bangkokpost.com/news/politics/245126/poll-result-to-be-known-around-10pm)
 5. [Bloomberg](http://www.bloomberg.com/news/2011-07-03/pro-thaksin-party-to-win-parliamentary-majority-thailand-exit-poll-shows.html)
 6. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/232248.html)
+6. [Cover Image](http://www.abc.net.au/news/image/2783096-1x1-700x700.jpg)
 
 ### Related:
 

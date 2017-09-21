@@ -8,6 +8,7 @@ Authorities in West Virginia say a fire broke out at a home, killing six childre
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/news/nation/story/2012-03-24/fatal-west-virginia-fire/53748836/1)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2012/03/24/6-kids-2-adults-killed-in-WVa-fire-9G16P69V-x.jpg)
 
 ### Related:
 

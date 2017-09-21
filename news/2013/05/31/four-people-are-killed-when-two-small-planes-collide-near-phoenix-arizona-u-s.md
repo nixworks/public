@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/31/phoenix-plane-crash-kills-four-people/2377561/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

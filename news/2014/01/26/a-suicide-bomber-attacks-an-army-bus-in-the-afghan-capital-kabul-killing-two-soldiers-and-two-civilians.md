@@ -8,6 +8,7 @@ A suicide bomber blows himself up near a bus carrying soldiers in the Afghan cap
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25900737)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72528000/jpg/_72528514_72528513.jpg)
 
 ### Related:
 

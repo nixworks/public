@@ -9,6 +9,7 @@ EU leaders holding late-night talks on the Mediterranean migrant crisis agree to
 
 1. [BBC](http://www.bbc.com/news/world-europe-33276443?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFB5N0ZA02X20150626)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F3BC/production/_83869326_027853271.jpg)
 
 ### Related:
 

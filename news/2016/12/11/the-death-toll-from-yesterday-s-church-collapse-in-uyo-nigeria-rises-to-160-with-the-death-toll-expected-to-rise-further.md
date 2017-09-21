@@ -8,6 +8,7 @@ The roof of a crowded church collapses in southern Nigeria, reportedly killing a
 ### Source:
 
 1. [AP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-12-11/nigeria-church-collapse/8110692)
+1. [Cover Image](http://www.abc.net.au/news/image/8110722-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ South Korea launches a massive new government agency this week to handle emergen
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/18/us-southkorea-ferry-idUSKCN0J20B720141118?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141118&t=2&i=992648478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAH05I)
 
 ### Related:
 

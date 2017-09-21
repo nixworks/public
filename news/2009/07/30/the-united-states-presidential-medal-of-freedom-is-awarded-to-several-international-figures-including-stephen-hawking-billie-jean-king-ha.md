@@ -10,6 +10,7 @@
 1. [Boston Globe](http://www.boston.com/news/politics/politicalintelligence/2009/07/kennedy_gets_hi.html)
 2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/blogs/sfgate/detail?blogid=14&entry_id=44566)
 3. [The Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-obama-medal-freedom31-2009jul31,0,1309581.story)
+3. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

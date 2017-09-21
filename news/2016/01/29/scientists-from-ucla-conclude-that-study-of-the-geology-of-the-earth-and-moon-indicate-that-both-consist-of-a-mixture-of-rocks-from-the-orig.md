@@ -8,6 +8,7 @@ The early Earth was mixed with a baby planet called Theia following a head on co
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/science/space/12129549/Earth-is-actually-two-planets-scientists-conclude.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02372/BMBA29_2372236k.jpg)
 
 ### Related:
 

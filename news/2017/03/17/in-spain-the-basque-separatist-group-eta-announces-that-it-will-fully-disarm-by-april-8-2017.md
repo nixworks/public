@@ -8,6 +8,7 @@ Sources say the now-weakened Basque militant group is due to announce its comple
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39305685)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/78A0/production/_95208803_mediaitem95208802.jpg)
 
 ### Related:
 

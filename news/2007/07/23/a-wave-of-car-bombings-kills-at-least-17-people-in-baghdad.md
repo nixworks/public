@@ -8,6 +8,7 @@ The United States accused Iran in talks on Tuesday of increasing support for mil
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSYAT71336220070724?feedType=RSS)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070724&t=2&i=1181750&w=&fh=545px&fw=&ll=&pl=&sq=&r=1181750)
 
 ### Related:
 

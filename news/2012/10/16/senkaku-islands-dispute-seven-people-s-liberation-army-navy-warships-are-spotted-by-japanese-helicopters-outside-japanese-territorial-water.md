@@ -8,6 +8,7 @@ The Japanese government&#8217;s Defense Ministry stated on Tuesday that as many 
 ### Source:
 
 1. [Japan Daily Press](http://japandailypress.com/7-chinese-naval-ships-found-in-waters-near-okinawa-1616134)
+1. [Cover Image](http://japandailypress.com/wp-content/uploads/2012/10/Chinese-navy101.jpeg)
 
 ### Related:
 

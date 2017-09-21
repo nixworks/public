@@ -9,6 +9,7 @@ AUTHORITIES in eastern China have banned live poultry sales after an increase in
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-25923508#)
 2. [News Limited](http://www.news.com.au/world/live-poultry-sales-banned-in-china-as-bird-flu-cases-increase/story-fndir2ev-1226812227573)
+2. [Cover Image](http://api.news.com.au/content/1.0/newscomau/images/1226812227546?format=jpg)
 
 ### Related:
 

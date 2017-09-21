@@ -8,6 +8,7 @@ Google built its reputation by helping people sift through a deluge of informati
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/business/la-fi-tn-google-news-20161014-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-58010f27/turbine/la-fi-tn-google-news-20161014-snap)
 
 ### Related:
 

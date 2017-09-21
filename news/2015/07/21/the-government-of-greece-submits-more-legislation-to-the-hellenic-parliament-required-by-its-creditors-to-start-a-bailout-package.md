@@ -8,6 +8,7 @@ Greek Prime Minister Alexis Tsipras tried to rally his Syriza party on Tuesday b
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/07/21/us-eurozone-greece-idUSKCN0PV0G620150721?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20150721&t=2&i=1065858880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB6K07A)
 
 ### Related:
 

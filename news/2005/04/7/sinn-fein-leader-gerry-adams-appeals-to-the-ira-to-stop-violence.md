@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Irish Times](http://www.ireland.com/newspaper/front/2005/0407/2228363515HM1ADAMS.html)
 3. [Reuters UK](http://today.reuters.co.uk/News/newsArticle.aspx?type=topNews&storyID=2005-04-07T003845Z_01_JON651546_RTRUKOC_0_IRISH.xml)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8107813)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

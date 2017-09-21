@@ -8,6 +8,7 @@ A South Korean court sentenced the captain of a ferry -- which sank in April, ki
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/11/11/south-korea-ferry-disaster-verdict/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/111114/0/0/111114_ferry_captain_640.jpg?ve=1)
 
 ### Related:
 

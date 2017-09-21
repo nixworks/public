@@ -9,6 +9,7 @@ SpaceX on Saturday blasted off a shipment of food and supplies for the astronaut
 
 1. [Phys.org](https://phys.org/news/2017-06-spacex-blasts-cargo-recycled-spaceship.html)
 2. [Space.com](http://www.space.com/37072-spacex-first-used-dragon-launch.html)
+2. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/thespacexfal.jpg)
 
 ### Related:
 

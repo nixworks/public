@@ -8,6 +8,7 @@ State media says police arrested a 41-year-old ex-convict in the early hours of 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/10434851/Man-arrested-for-bombing-Communist-Party-HQ.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02725/china-bomb-street-_2725179k.jpg)
 
 ### Related:
 

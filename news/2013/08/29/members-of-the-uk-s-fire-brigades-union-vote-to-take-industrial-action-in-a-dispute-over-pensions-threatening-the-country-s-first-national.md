@@ -8,3 +8,4 @@ Members of the Fire Brigades Union vote in favour of industrial action, in a row
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23884078)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69543000/jpg/_69543118_emergingfireengine_pa.jpg)

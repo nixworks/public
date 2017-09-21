@@ -9,6 +9,7 @@ Voters express the hope that Egypt will some day become a land of opportunity li
 
 1. [AP via ''The Florence Times Daily](http://www.timesdaily.com/news/world/voting-begins-in-egypt-s-parliamentary-election/article_231267e5-d9b6-5c49-9db1-d5175054f38e.html)
 2. [Gulf News](http://gulfnews.com/news/mena/egypt/egyptians-in-the-uae-vote-in-parliamentary-elections-1.1601896)
+2. [Cover Image](http://static.gulfnews.com/polopoly_fs/1.1601895!/image/2060159802.jpg_gen/derivatives/box_460346/2060159802.jpg)
 
 ### Related:
 

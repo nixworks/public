@@ -8,6 +8,7 @@ Seven persons were today killed and 30 others injured after a bus overturned nea
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/india-news/7-dead-30-injured-in-bus-accident-in-ranchi-1404278)
+1. [Cover Image](http://i.ndtvimg.com/i/2016-05/jharkhand-map_650x400_71462769879.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ There are now conflicting reports about whether an Australian tourist is among a
 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110217/ap_on_re_as/as_vietnam_tourist_boat_sinks)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2011/02/17/3141614.htm)
+2. [Cover Image](http://www.abc.net.au/news/image/1947348-1x1-700x700.jpg)
 
 ### Related:
 

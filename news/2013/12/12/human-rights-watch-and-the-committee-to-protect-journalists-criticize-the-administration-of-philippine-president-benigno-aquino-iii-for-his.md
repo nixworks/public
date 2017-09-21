@@ -9,6 +9,7 @@ Three reporters killed and one injured in two weeks
 
 1. [CPJ](http://www.cpj.org/2013/12/in-philippines-third-journalist-killed-in-two-week.php#more)
 2. [Time](http://world.time.com/2013/12/11/12-journalists-killed-in-the-philippines-this-year-says-human-rights-watch/)
+2. [Cover Image](https://s0.wp.com/wp-content/themes/vip/time2012/library/assets/images/time-logo-og.png)
 
 ### Related:
 

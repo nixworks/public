@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Local](http://www.thelocal.se/20140917/reports-king-carl-gustav-xvi-in-car-crash)
+1. [Cover Image](https://www.thelocal.se/userdata/images/article/36c89b2e9d8704664a67be034282b5a7facc6227cde2862839eff06ee784c0cf.jpg)
 
 ### Related:
 

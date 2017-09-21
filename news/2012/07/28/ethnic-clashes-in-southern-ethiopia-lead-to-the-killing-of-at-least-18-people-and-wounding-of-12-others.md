@@ -8,6 +8,7 @@ Deadly clashes between two communities in southern Ethiopia cause 20,000 people 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19028609)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61870000/jpg/_61870319_borana_2.jpg)
 
 ### Related:
 

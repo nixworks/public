@@ -8,6 +8,7 @@ At least 73 people have been killed in a series of bomb attacks in central Iraq,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25742184)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72306000/jpg/_72306831_72306830.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Russian military has launched cruise missiles against Islamic State position
 
 1. [RT](https://www.rt.com/news/322881-russia-cruise-missiles-isis/)
 2. [Sky News](http://news.sky.com/story/1591362/video-shows-russia-firing-cruise-missiles-at-is)
+2. [Cover Image](https://img.rt.com/files/2015.11/article/564f3909c461885d728b4596.jpg)
 
 ### Related:
 

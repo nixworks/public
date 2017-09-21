@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/17/us-japan-okinawa-base-idUSKCN0T60BN20151117#sWbrWbG5dqS8zYUe.97)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151117&t=2&i=1095538722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAG060)
 
 ### Related:
 

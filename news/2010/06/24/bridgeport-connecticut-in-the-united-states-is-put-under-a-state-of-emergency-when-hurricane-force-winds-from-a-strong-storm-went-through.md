@@ -9,6 +9,7 @@
 
 1. [CNN](http://news.blogs.cnn.com/2010/06/24/bridgeport-conn-in-stage-of-emergency-after-severe-weather/)
 2. [CTPost](http://www.ctpost.com/news/article/Storm-rips-through-region-535832.php)
+2. [Cover Image](http://ww3.hdnux.com/photos/66/37/223214/3/rawImage.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A man who shot at a group of Muslims on their way to a mosque has been charged. 
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/world/americas/man-faces-up-to-7-years-for-shooting-muslims-on-their-way-to-prayer-a7155431.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/07/25/18/minnesotashooting.jpg)

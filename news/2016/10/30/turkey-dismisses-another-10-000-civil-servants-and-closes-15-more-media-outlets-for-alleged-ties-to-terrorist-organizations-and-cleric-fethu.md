@@ -8,6 +8,7 @@ Turkey said it had dismissed a further 10,000 civil servants and closed 15 more 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-security-dismissals-idUSKBN12U04L)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161030&t=2&i=1159551174&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9T099)
 
 ### Related:
 

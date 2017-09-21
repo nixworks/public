@@ -10,6 +10,7 @@ Russia announced it would begin withdrawing forces from Georgia on Monday after 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7566199.stm)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSL768040420080817)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Russian-Forces-In-Georgia-Digging-In-Despite-Dmitry-Medvedev-Agreeing-To-Ceasefire-Agreement/Article/200808315080534?lpos=World%2BNews_2&lid=ARTICLE_15080534_Russian%2BForces%2BIn%2BGeorgia%2BDigging%2BIn%2BDespite%2BDmitry%2BMedvedev%2BAgreeing%2BTo%2BCeasefire%2BAgreement)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080817&t=2&i=5630228&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-08-17T212518Z_01_L7680404_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

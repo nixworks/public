@@ -8,6 +8,7 @@ A suicide bombing in the Afghan capital Kabul on Wednesday killed eight people a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN17Z05S)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170503&t=2&i=1183021175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4207L)
 
 ### Related:
 

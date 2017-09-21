@@ -8,6 +8,7 @@ The General Synod of the Church of England votes to allow women to become bishop
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-28300618#TWEET1183643)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76258000/jpg/_76258416_vote.jpg)
 
 ### Related:
 

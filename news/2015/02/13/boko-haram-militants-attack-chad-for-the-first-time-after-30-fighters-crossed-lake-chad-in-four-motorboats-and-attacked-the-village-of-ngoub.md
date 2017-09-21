@@ -8,6 +8,7 @@ Boko Haram militants from Nigeria attack a village on the shores of Lake Chad ov
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-31453951)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80983000/jpg/_80983142_80983141.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russian security forces have killed an al Qaeda emissary who fought alongside Ch
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/05/04/russia.al.qaeda.killed/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/05/04/russia.al.qaeda.killed/tzvids.chechen.rebels.1995.gi.afp.jpg)
 
 ### Related:
 

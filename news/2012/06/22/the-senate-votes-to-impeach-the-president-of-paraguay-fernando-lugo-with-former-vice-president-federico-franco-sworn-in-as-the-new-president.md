@@ -9,6 +9,7 @@ Paraguay&#x27;s Senate removed President Fernando Lugo from office in a rapid im
 
 1. [AP via Yahoo News](http://news.yahoo.com/paraguays-president-ousted-impeachment-trial-230006395.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18553813)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

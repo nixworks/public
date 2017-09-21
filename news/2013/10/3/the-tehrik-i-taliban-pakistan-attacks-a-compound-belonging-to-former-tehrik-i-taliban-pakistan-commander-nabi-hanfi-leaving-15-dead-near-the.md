@@ -8,6 +8,7 @@ Fifteen people are killed as five attackers, including at least three suicide bo
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1149702/pakistan-taliban-bombing-targets-militia-leader)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/scene-1_3635421.jpg?20160706012800)
 
 ### Related:
 

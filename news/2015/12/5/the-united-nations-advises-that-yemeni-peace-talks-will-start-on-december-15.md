@@ -8,6 +8,7 @@ YEMEN-SECURITY/:Yemen peace talks to convene Dec. 15, Yemeni minister tells Saud
 ### Source:
 
 1. [Reuters](http://www.trust.org/item/20151205220955-ivkdz)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/96310373-2457-4b30-a972-eae6b4eb1cc4/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

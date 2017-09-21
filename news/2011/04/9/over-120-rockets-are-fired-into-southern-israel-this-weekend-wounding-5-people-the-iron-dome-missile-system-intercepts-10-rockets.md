@@ -10,6 +10,7 @@ Iron Dome intercepts 10 rockets; Israel reviewing cease-fire proposal; Hamas fig
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13014046)
 2. [Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=215882)
 3. [The Sydney Morning Herald](http://www.smh.com.au/world/israel-plans-more-strikes-in-gaza-strip-20110408-1d7qz.html)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=162260)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Government launches investigation into cause of Manila blaze which killed at lea
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/05/dozens-missing-philippines-factory-fire-manila-150513092030065.html)
 2. [CNN](http://www.cnn.com/2015/05/14/asia/philippines-factory-fire/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/5/14/6137a40868964e048fec1e81387a86fe_18.jpg)
 
 ### Related:
 

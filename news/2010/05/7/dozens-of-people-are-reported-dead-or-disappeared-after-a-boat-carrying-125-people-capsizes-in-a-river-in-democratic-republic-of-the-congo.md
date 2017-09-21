@@ -10,6 +10,7 @@ UN officials say the final death toll could reach as high as 80.
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h1JZvVfDsScP51TUWiW7nz829KWAD9FHCO680)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201057141922359559.html)
 3. [TVNZ](http://tvnz.co.nz/world-news/many-feared-dead-in-congo-boat-accident-3530591)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 150 people drowned when a boat leaving Libya capsized off the Tunisian 
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/africa/06/03/libya.migrants/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/06/03/libya.migrants/tzvids.lampedusa.boat.people.jpg)
 
 ### Related:
 

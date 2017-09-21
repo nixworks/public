@@ -8,6 +8,7 @@ Republican U.S. Sen. Kay Bailey Hutchison has announced that she will retire aft
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/politics/2011/01/13/hutchison-announces-plans-retire/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2011/01/13/hutchison-announces-plans-retire/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446930999143.jpg?ve=1)
 
 ### Related:
 

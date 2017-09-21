@@ -8,6 +8,7 @@ Yahya Jammeh quits after trying to cling to power, paving the way for his electe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-38706426)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/01C5/production/_93735400_037430116.jpg)
 
 ### Related:
 

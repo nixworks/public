@@ -8,6 +8,7 @@ Peter Cosgrove is sworn in as the Governor-General and becomes a knight in the O
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2014-03-28/peter-cosgrove-sworn-in-governor-general/5351436)
+1. [Cover Image](http://www.abc.net.au/news/image/5352092-1x1-700x700.jpg)
 
 ### Related:
 

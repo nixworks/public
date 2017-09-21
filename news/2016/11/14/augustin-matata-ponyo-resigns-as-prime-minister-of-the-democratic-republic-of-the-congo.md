@@ -8,6 +8,7 @@ Congolese Prime Minister Augustin Matata Ponyo resigned on Monday as part of the
 ### Source:
 
 1. [Africa News](http://www.africanews.com/2016/11/14/dr-congo-prime-minister-matata-ponyo-resigns-as-part-of-peace-agreement/)
+1. [Cover Image](http://static.euronews.com/articles/349516/1024x538_349516.jpg?1479119048)
 
 ### Related:
 

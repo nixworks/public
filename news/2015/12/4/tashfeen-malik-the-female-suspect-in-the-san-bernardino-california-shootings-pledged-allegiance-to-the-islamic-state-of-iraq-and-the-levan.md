@@ -8,6 +8,7 @@ A mass shooting in San Bernardino, California, that left 14 people dead, is bein
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-35006404#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17DC6/production/_87043779_030428891.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korea and the US agree on restarting efforts to recover the remains of US 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-15413272)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54687000/jpg/_54687932_000043208-1.jpg)
 
 ### Related:
 

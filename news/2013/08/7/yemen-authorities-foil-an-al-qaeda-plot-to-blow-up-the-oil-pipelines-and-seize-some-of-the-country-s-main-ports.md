@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23598516)
 2. [Radio Free Europe Radio Liberty](http://www.rferl.org/content/yemen-al-qaeda-foiled/25068888.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69157000/jpg/_69157182_69157181.jpg)
 
 ### Related:
 

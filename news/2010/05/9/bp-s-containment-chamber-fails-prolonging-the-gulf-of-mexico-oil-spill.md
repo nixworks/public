@@ -8,6 +8,7 @@ BP Plc said on Monday it will again attempt to contain oil gushing deep in the G
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6430AR20100510?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100510&t=2&i=105044823&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-10T162406Z_01_BTRE6481M8V00_RTROPTP_0_OIL-RIG-LEAK)
 
 ### Related:
 

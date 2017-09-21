@@ -9,6 +9,7 @@ Rahul Gandhi, appointed the Congress&#039; number 2 on Saturday evening, will be
 
 1. [NDTV](http://www.ndtv.com/article/india/at-congress-meet-all-eyes-on-new-vice-president-rahul-gandhi-319735)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/Rahul-Gandhi-gets-bigger-role-in-Congress-appointed-party-vice-president/articleshow/18080828.cms)
+2. [Cover Image](http://i.ndtvimg.com/mt/2013-01/AICC_meet_jaipur_PTI_600.jpg)
 
 ### Related:
 

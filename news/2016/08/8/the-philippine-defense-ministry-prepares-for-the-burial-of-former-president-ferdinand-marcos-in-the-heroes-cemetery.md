@@ -9,6 +9,7 @@ The Palace confirms preparations for the burial of late dictator Ferdinand Marco
 
 1. [GMA News](http://www.gmanetwork.com/news/story/576699/news/nation/defense-chief-tells-afp-to-prepare-marcos-burial-at-libingan-ng-mga-bayani)
 2. [Rappler](http://www.rappler.com/nation/142266-philippines-malacanang-preparations-ferdinand-marcos-burial-libingan-ng-mga-bayani)
+2. [Cover Image](https://assets.rappler.com/BBFFDECC6D9A419C9A9FD98294939E02/img/893600FFDFD94989A10933ED5AC441B7/20160807-delfin-lorenzana-memo.jpeg)
 
 ### Related:
 

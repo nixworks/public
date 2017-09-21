@@ -9,6 +9,7 @@ Officials warn the number of dead could rise - as a witness describes the devast
 
 1. [Sky News](http://news.sky.com/story/1601474/mumbai-slum-fire-destroys-1000-homes)
 2. [The Hindu](http://www.thehindu.com/news/cities/mumbai/fire-breaks-out-in-a-godown-in-mumbais-kandivali-area/article7957850.ece)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/mihir-bijur-1_3499703.jpg?20160704101637)
 
 ### Related:
 

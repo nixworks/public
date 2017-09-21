@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13789029)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53440000/jpg/_53440578_sunflower.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Red Cross says the floods are becoming one of the worst regional humanitaria
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-40975232)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C01F/production/_97438194_mediaitem97438193.jpg)
 
 ### Related:
 

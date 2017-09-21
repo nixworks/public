@@ -14,6 +14,7 @@ Russia&#x20;warned&#x20;that&#x20;a&#x20;military&#x20;intervention&#x20;in&#x20
 5. [Fox News](http://www.foxnews.com/world/2013/08/27/hollande-says-france-ready-to-punish-syria-over-gas-attack/)
 6. [NBC](http://worldnews.nbcnews.com/_news/2013/08/26/20192545-kerry-accuses-syria-of-using-chemical-agents-us-preparing-to-release-evidence?lite)
 7. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10268547/Syria-Russia-evacuates-citizens-ahead-of-military-strikes-in-the-next-few-days.html)
+7. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/syrie_229.jpg)
 
 ### Related:
 

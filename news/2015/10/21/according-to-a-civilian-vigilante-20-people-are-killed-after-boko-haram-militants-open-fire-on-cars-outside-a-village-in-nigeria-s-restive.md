@@ -8,6 +8,7 @@ Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road 
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/20-shot-dead-suspected-islamists-ne-nigeria-witnesses-224347258.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/wa0Y_koJ3tNEd3M6tdNMwg--/aD02ODA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/955df9d7829450868dfdd7747fb1e7f4cde9768b.jpg)
 
 ### Related:
 

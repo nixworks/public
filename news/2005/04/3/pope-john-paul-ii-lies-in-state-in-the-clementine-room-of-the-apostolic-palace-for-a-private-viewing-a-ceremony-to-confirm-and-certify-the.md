@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,152298,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 
@@ -18,6 +19,6 @@
 5. [ Cuba announces three days of national mourning for Pope John Paul II. ](/news/2005/04/4/cuba-announces-three-days-of-national-mourning-for-pope-john-paul-ii.md) _Context: Pope, Pope John Paul II_
 6. [ Pope John Paul II died at 9:37 p.m. Vatican time (CEST) at the age of 84, thus beginning the period of "Sede vacante". (Wikinews)](/news/2005/04/2/pope-john-paul-ii-died-at-9-37-p-m-vatican-time-cest-at-the-age-of-84-thus-beginning-the-period-of-sede-vacante-wikinews.md) _Context: Pope, Pope John Paul II_
 7. [ Pope John Paul II is on the verge of death as a result of his recent health problems. The Vatican announces that the pope has suffered cardiovascular collapse and septic shock. ](/news/2005/04/1/pope-john-paul-ii-is-on-the-verge-of-death-as-a-result-of-his-recent-health-problems-the-vatican-announces-that-the-pope-has-suffered-card.md) _Context: Pope, Pope John Paul II_
-8. [The Vatican announces that Pope John Paul&nbsp;II has accepted the resignation of Boston's Cardinal Bernard Francis Law due to widespread outcry among Boston Catholics over Law's role in covering up pedophilia-related and other sex crimes among priests in his diocese.](/news/2002/12/13/the-vatican-announces-that-pope-john-paul-nbsp-ii-has-accepted-the-resignation-of-boston-s-cardinal-bernard-francis-law-due-to-widespread-ou.md) _Context: Pope, Pope John Paul II_
-9. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: state funeral_
-10. [ Pope Francis meets with the Grand Imam of al-Azhar Ahmed el-Tayeb in the Vatican. ](/news/2016/05/23/pope-francis-meets-with-the-grand-imam-of-al-azhar-ahmed-el-tayeb-in-the-vatican.md) _Context: Vatican_
+8. [ Pope John Paul&nbsp;II beatifies five persons, including Anne Catherine Emmerich, a German nun, and Karl&nbsp;I, last emperor of the Austro-Hungarian Empire, in a ceremony in Rome. John Paul&nbsp;II has made a total of 1,340 beatifications (including today's), more than all previous popes combined. ](/news/2004/10/3/pope-john-paul-nbsp-ii-beatifies-five-persons-including-anne-catherine-emmerich-a-german-nun-and-karl-nbsp-i-last-emperor-of-the-austro.md) _Context: Pope, Pope John Paul II_
+9. [The Vatican announces that Pope John Paul&nbsp;II has accepted the resignation of Boston's Cardinal Bernard Francis Law due to widespread outcry among Boston Catholics over Law's role in covering up pedophilia-related and other sex crimes among priests in his diocese.](/news/2002/12/13/the-vatican-announces-that-pope-john-paul-nbsp-ii-has-accepted-the-resignation-of-boston-s-cardinal-bernard-francis-law-due-to-widespread-ou.md) _Context: Pope, Pope John Paul II_
+10. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: state funeral_

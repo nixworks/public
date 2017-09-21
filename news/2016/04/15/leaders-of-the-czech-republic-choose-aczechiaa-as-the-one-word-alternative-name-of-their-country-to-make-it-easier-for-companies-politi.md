@@ -8,6 +8,7 @@ Czech Republic’s leaders settle on official short name for country and await c
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/15/czech-republic-czechia-new-name)
+1. [Cover Image](https://i.guim.co.uk/img/media/ef0ea1faf54977199aca479a41dd9c0c35574d5c/125_56_3526_2116/3526.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b3aeb1c938eaf07e0f0a09b2f7d92864)
 
 ### Related:
 

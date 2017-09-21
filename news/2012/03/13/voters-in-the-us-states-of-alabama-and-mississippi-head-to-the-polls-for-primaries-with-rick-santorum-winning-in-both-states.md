@@ -12,6 +12,7 @@ Rick Santorum won the Alabama and Mississippi primaries, holding off stiff chall
 3. [Fox News](http://www.foxnews.com/politics/2012/03/13/hawaii-republicans-to-vote-in-first-ever-gop-caucuses/)
 4. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=66729)
 5. [USA Today](http://content.usatoday.com/communities/onpolitics/post/2012/03/romney-gingrich-alabama-mississippi-results-/1)
+5. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-politics/2012/03/13/1rick-santorumx-inset-community.jpg)
 
 ### Related:
 

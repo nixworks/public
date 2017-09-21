@@ -13,6 +13,7 @@ Irish billionaire businessman Denis O&#039;Brien and a former Irish government m
 4. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0324/1224292956367.html)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2011/0324/1224292954590.html)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2011/0324/1224292954595.html)
+6. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01854/denis_1854892a.jpg)
 
 ### Related:
 

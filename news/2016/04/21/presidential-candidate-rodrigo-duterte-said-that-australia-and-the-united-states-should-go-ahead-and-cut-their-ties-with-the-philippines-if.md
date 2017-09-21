@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/130271-duterte-cut-ties-australia-us)
+1. [Cover Image](https://assets.rappler.com/941C0BD160E54DCF825D81D5E23E7514/img/2F3E333258B74775B15E514612F78EC5/Duterte-Sorti-Amoranto-LRED-20140412-041.jpg)
 
 ### Related:
 

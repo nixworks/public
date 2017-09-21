@@ -8,6 +8,7 @@ Evan Biddell&#x27;s new collection weighs 81 pounds — the same amount the aver
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/arts/tv/story/2010/08/12/international-emmy-awards-nominees.html)
+1. [Cover Image](https://i.cbc.ca/1.4030406.1489779619!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/evan-biddell.png)
 
 ### Related:
 

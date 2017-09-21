@@ -8,6 +8,7 @@ Twelve bodies have been recovered from a factory fire in eastern Moscow, Russiaâ
 ### Source:
 
 1. [RT](https://www.rt.com/news/330741-moscow-factory-fire-deaths/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/56ad6851c46188a35d8b458e.jpg)
 
 ### Related:
 

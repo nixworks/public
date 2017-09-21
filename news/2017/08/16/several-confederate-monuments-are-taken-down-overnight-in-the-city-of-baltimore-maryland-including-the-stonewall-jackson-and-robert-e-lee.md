@@ -8,6 +8,7 @@ City leaders had vowed to remove the city&#x27;s four Confederacy-linked monumen
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/baltimore-takes-down-four-confederate-statues-after-charlottesville-violence-n793101)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_33/2121641/170816-baltimore-confederate-statue-njs-753a_bcf05fe3b46ff95d2f639921fe204b24.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

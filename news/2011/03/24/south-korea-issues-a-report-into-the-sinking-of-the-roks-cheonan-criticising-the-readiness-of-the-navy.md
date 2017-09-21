@@ -8,6 +8,7 @@ South Korea issues a report criticising its lack readiness which allowed a North
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12844507)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of demonstrators on Tuesday evening staged one of the strongest protes
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/thousands-protest-brazilian-president-ahead-of-vote-on-public-spending-cap-1480454223)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-QZ569_2Rimc_TOPPER_20161129162800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Lib Dem Business Secretary Vince Cable attacks the Conservatives as &quot;ruthle
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13320029)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52595000/jpg/_52595312_zvince_304.jpg)
 
 ### Related:
 

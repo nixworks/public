@@ -8,6 +8,7 @@ Malian forces appeared close to recapturing key town of Diabaly where bands of a
 ### Source:
 
 1. [AP via CBS](http://www.cbsnews.com/8301-202_162-57564884/islamists-flee-mali-town-after-french-airstrikes/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/01/20/ac4bd1df-8b97-11e2-9400-029118418759/Mali_tAP94927062821.jpg)
 
 ### Related:
 

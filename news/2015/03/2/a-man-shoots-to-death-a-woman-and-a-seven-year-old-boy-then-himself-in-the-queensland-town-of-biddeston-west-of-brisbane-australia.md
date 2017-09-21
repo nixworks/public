@@ -8,6 +8,7 @@ Three people die in a shooting at a house on the Darling Downs, west of Brisbane
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2015-03-02/three-dead-in-shooting-near-toowoomba/6275670?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/6276080-1x1-700x700.jpg)
 
 ### Related:
 

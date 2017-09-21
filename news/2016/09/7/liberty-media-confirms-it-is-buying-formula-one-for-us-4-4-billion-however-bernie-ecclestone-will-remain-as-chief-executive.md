@@ -8,6 +8,7 @@ US firm Liberty Media is buying the racing business Formula 1, with Bernie Eccle
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37303230)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13E90/production/_91025518_gettyimages-599190222.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Britain will cut its military presence in Iraq by more than half to leave 2,500 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/10/09/2054199.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/94132-1x1-700x700.jpg)
 
 ### Related:
 

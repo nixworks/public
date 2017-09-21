@@ -8,6 +8,7 @@ A fragment of the world&#39;s oldest known ground-edge axe is found in the remot
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-05-11/world's-oldest-known-ground-edge-stone-axe-fragments-found/7401728)
+1. [Cover Image](http://www.abc.net.au/cm/rimage/7403204-1x1-large.jpg?v=2)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The State Department will finance programs to help Internet users around the wor
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/02/15/world/15clinton.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/02/15/world/CLINTON_337-span/CLINTON-thumbStandard.jpg)
 
 ### Related:
 

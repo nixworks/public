@@ -9,6 +9,7 @@ Delawar Hossain Sayedee, a top leader of a fundamentalist Islamic political part
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21623170)
 2. [The New York Times](http://www.nytimes.com/2013/03/01/world/asia/islamic-leader-sentenced-to-death-in-bangladesh.html)
+2. [Cover Image](https://static01.nyt.com/images/2013/03/01/world/bangladesh1/bangladesh1-videoLarge.jpg)
 
 ### Related:
 

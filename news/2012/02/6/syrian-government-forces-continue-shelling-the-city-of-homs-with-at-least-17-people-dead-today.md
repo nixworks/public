@@ -12,6 +12,7 @@ The closure of the embassy comes after weeks of concern about the safety of thos
 3. [Haaretz](http://www.haaretz.com/print-edition/news/bashar-assad-emails-leaked-tips-for-abc-interview-revealed-1.411445)
 4. [Hurriyet Daily News](http://www.hurriyetdailynews.com/turkey-opens-its-doors-to-all-syrians-fleeing-regime--.aspx?PageID=238&NID=13091&NewsCatID=409)
 5. [Washington Post](http://www.washingtonpost.com/world/us-pulls-diplomats-out-of-syria-as-violence-intensifies/2012/02/06/gIQAN1CxtQ_story.html)
+5. [Cover Image](http://www.haaretz.com/polopoly_fs/1.411457.1328574645!/image/2349077637.jpg_gen/derivatives/headline_1200x630/2349077637.jpg)
 
 ### Related:
 

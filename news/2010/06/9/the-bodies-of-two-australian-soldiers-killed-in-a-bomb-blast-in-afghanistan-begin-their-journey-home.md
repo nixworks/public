@@ -15,6 +15,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 6. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=471523&articleID=1517380)
 7. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/09/AR2010060901648.html)
 8. [thisislondon](http://www.thisislondon.co.uk/standard/article-23724738-dead-soldiers-return-home-from-afghanistan.do)
+8. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

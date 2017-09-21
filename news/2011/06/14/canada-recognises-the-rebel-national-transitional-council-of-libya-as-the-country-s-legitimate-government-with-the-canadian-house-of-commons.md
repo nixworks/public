@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/06/14/pol-libya-debate.html)
+1. [Cover Image](https://i.cbc.ca/1.2024138.1381636725!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-libya00396978.jpg)
 
 ### Related:
 

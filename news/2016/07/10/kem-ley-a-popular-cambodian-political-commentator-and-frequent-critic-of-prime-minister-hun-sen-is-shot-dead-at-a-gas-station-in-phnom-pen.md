@@ -8,6 +8,7 @@ Kem Ley, a popular political commentator and frequent critic of Prime Minister H
 ### Source:
 
 1. [Cambodia Daily](https://www.cambodiadaily.com/news/popular-political-analyst-kem-ley-shot-dead-115246/)
+1. [Cover Image](https://www.cambodiadaily.com/cdfiles/wp-content/uploads/2016/07/21B3775.jpg)
 
 ### Related:
 

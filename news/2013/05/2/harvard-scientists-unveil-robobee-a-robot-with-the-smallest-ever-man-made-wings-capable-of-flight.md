@@ -8,6 +8,7 @@ Harvard scientists have introduced what may be the cutest flying robots ever: Ro
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-flying-robot-robobee-smallest-ever-20130502,0,5469981.story)
+1. [Cover Image](http://www.trbimg.com/img-5183fccd/turbine/la-sci-sn-flying-robot-robobee-smallest-ever-20130502)
 
 ### Related:
 

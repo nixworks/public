@@ -12,6 +12,7 @@ The ambushing of the Prime Minister with the names of rumoured Tory paedophiles 
 3. [The Daily Telegraph](http://blogs.telegraph.co.uk/news/tomchiversscience/100188747/david-cameron-phillip-schofield-and-mob-justice-in-the-age-of-the-internet/)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/politics/9667947/BBC-in-chaos-as-abuse-victim-says-Lord-McAlpine-was-not-my-attacker.html)
 5. [The Independent](http://www.independent.co.uk/news/media/tv-radio/itv-faces-ofcom-investigation-after-phillip-schofield-ambushes-david-cameron-with-internetsourced-paedophile-list-during-live-broadcast-of-this-morning-8300240.html)
+5. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/08/12/this-morning.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police use teargas and batons to disperse thousands protesting against changes t
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/201210226313671734.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/22/2012102261443869734_20.jpg)
 
 ### Related:
 

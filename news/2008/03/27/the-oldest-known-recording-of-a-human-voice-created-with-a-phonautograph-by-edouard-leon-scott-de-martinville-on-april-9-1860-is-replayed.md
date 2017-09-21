@@ -8,3 +8,4 @@ A recording found in Paris is believed to predate Thomas Edison’s invention of
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/27/arts/27soun.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

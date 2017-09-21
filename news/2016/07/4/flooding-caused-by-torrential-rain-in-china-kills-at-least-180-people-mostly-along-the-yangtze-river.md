@@ -8,6 +8,7 @@ More than 180 people are killed in flooding along the Yangtze River, following t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36702293)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/083C/production/_90280120_mediaitem90280119.jpg)
 
 ### Related:
 

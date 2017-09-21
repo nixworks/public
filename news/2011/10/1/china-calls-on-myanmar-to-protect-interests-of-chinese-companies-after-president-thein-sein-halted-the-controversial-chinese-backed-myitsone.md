@@ -9,6 +9,7 @@ China called on Saturday for talks with Myanmar after the government there suspe
 
 1. [Reuters](http://www.reuters.com/article/2011/10/01/us-china-myanmar-dam-idUSTRE7900N120111001)
 2. [Spokesperson's remarks](http://www.fmprc.gov.cn/eng/xwfw/s2510/t864761.htm)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ AU-PRINCE (Reuters) - Haiti on Thursday heeded foreign pressure and amended the 
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12342870)
 2. [Reuters](http://uk.reuters.com/article/2011/02/03/uk-haiti-elections-idUKTRE7123AM20110203?feedType=RSS&feedName=worldNews)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110203&t=2&i=326806790&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-03T151037Z_01_BTRE712165R00_RTROPTP_0_HAITI-ELECTIONS)
 
 ### Related:
 

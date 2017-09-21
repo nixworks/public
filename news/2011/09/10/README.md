@@ -4,7 +4,7 @@
 At least 187 people are killed, but 620 are rescued after a ship carrying at least 800 people sinks near the Tanzanian island of Zanzibar.
 
 ### [U.S. President Barack Obama declares a state of emergency in the state of Texas, amid wildfires that have already destroyed at least 1,300 homes. ](/news/2011/09/10/u-s-president-barack-obama-declares-a-state-of-emergency-in-the-state-of-texas-amid-wildfires-that-have-already-destroyed-at-least-1-300-h.md)
-_Context: Barack Obama, President, Texas, states of emergency, wildfires_
+_Context: Barack Obama, Texas, U.S. President, states of emergency, wildfires_
 
 ### [G8 nations pledge at least $40 billion to help Arab countries reconstruct and implement democracy following the turmoil of the Arab Spring. ](/news/2011/09/10/g8-nations-pledge-at-least-40-billion-to-help-arab-countries-reconstruct-and-implement-democracy-following-the-turmoil-of-the-arab-spring.md)
 _Context: Arab Spring, Arab countries, Group of Eight, democratic progress_

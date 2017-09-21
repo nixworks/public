@@ -8,6 +8,7 @@ Police have reclaimed control of Bali&#039;s infamous Kerobokan prison, which la
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/inmates-take-control-as-riot-erupts-at--balis-kerobokan-prison-20120222-1tmez.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/t/m/z/a/image.related.articleLeadwide.620x349.1tmez.png/1329952014233.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A rogue Thai general leading a militant wing of anti-government protesters was s
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/2010513124016864505.html)
 2. [Bangkok Post](http://www.bangkokpost.com/news/local/177791/maj-gen-khattiya-shot-in-the-right-temple)
 3. [Reuters](http://www.reuters.com/article/idUSTRE64C0L620100513)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100513&t=2&i=106818486&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-13T195209Z_01_BTRE64C12Q100_RTROPTP_0_THAILAND)
 
 ### Related:
 

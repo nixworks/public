@@ -8,6 +8,7 @@ The decision to hold a new round of talks on May 23 appeared to reflect what off
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/04/15/world/europe/iran-begins-nuclear-talks-with-six-nations.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/04/15/world/iran/iran-superJumbo.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Scientists have found an ancient burial shroud in Jerusalem which they say is ve
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1216/breaking19.htm)
 2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1260894117527&pagename=JPost%2FJPArticle%2FShowFull)
 3. [Zee News](http://www.zeenews.com/news587971.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

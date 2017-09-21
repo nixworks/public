@@ -10,6 +10,7 @@ Shares of world No. 3 platinum producer Lonmin (LONJ.J) rose 3.5 percent on Mond
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i9bwhRtk_I9Zn1SPbjzgeOerNwIg?docId=CNG.1ca6bfa3448a60a3204b960c4a6388fa.4e1)
 2. [AP via Yahoo! News](http://news.yahoo.com/four-wounded-shooting-african-gold-mine-132856366.html)
 3. [Reuters](http://in.reuters.com/article/2012/09/03/us-safrica-mines-shares-idINBRE88209920120903)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

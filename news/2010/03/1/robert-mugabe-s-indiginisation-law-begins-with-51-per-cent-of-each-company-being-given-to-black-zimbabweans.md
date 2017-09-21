@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/20103181150873119.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/8542966.stm)
 3. [Voice of America](http://www1.voanews.com/english/news/economy-and-business/New-Law-Forces-White-Owned-Companies-in-Zimbawe-to-Relinguish-51-Percent-Stake-85818977.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

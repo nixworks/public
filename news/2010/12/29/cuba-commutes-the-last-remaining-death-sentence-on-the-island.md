@@ -9,6 +9,7 @@ Havana, Dec 29 (DPA) Cubas only death row inmate will not receive capital punish
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ilArtBgGa8YD4S5ZnV9L8yL3DH4A?docId=CNG.bdf9ddce1297325e1b97e06696026e73.331)
 2. [Sify India](http://www.sify.com/news/cuban-court-commutes-death-sentence-against-cuban-american-news-international-km3nangbhhb.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

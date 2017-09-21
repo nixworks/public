@@ -8,6 +8,7 @@ A newly found asteroid will pass just inside the orbit of the Moon, with its clo
 ### Source:
 
 1. [Universe Today](http://www.universetoday.com/100440/newly-found-asteroid-to-pass-within-moons-orbit-on-march-4-2013/)
+1. [Cover Image](http://www.universetoday.com/wp-content/uploads/2013/03/small-asteroid-2.jpg)
 
 ### Related:
 

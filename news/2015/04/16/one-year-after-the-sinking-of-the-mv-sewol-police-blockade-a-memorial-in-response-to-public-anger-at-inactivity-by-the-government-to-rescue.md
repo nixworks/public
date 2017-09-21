@@ -8,6 +8,7 @@ The unnecessary use of force by South Korean police against families of the Sewo
 ### Source:
 
 1. [Amnesty.org](https://www.amnesty.org/en/articles/news/2015/04/south-korea-clampdown-against-sewol-ferry-anniversary-protest-an-insult-to-the-victims/)
+1. [Cover Image](https://www.amnesty.org/remote.axd/amnestysgprdasset.blob.core.windows.net/media/9312/470010500.jpg&amp;preset=fixed_1200_630)
 
 ### Related:
 

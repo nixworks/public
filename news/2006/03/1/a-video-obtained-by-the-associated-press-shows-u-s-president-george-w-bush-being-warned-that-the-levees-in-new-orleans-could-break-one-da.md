@@ -8,6 +8,7 @@ The public release of confidential video shot during high-level government brief
 ### Source:
 
 1. [MSNBC.com](http://www.msnbc.msn.com/id/11640594/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060302/nn_meyers_tapes_060302.standard.jpg)
 
 ### Related:
 

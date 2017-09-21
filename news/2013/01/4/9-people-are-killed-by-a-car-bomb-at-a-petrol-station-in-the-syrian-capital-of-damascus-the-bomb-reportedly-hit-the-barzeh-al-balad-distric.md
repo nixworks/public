@@ -8,6 +8,7 @@ At least nine people have been killed and many injured by a car bomb at a petrol
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20906858)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65070000/jpg/_65070198_65070197.jpg)
 
 ### Related:
 

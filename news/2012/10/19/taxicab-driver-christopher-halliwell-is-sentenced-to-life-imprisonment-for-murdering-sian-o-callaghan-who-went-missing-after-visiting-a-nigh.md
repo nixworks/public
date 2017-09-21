@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-wiltshire-20003766)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63600000/jpg/_63600030_63600029.jpg)
 
 ### Related:
 

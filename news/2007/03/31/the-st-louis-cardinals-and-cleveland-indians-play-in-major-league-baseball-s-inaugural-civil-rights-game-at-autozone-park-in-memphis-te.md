@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MLB](http://mlb.mlb.com/mlb/events/civil_rights_game/y2007/)
+1. [Cover Image](http://mlb.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/mlb_1200x630.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ NEWLY appointed West Australian Governor Malcolm McCusker AO QC says he plans to
 ### Source:
 
 1. [Perth Now](http://www.perthnow.com.au/news/western-australia/malcolm-mccusker-announced-as-new-wa-governor/story-e6frg14c-1226025500122)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/e82bd03047d139ccf78d01f8a11923bf)

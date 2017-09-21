@@ -9,6 +9,7 @@
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/7423530/Duke-of-Edinburgh-asks-female-sea-cadet-if-she-works-at-a-strip-club.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/prince-philip-in-strip-club-gaffe-20100312-q4hy.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

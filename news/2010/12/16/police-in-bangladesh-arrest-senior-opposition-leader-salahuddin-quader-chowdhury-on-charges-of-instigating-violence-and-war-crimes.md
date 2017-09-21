@@ -9,6 +9,7 @@ Police in Bangladesh arrest senior opposition politician Salahuddin Quader Chowd
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12006442)
 2. [BDNews24](http://bdnews24.com/details.php?id=181793&cid=3)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

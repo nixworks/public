@@ -8,6 +8,7 @@ A propane tank on a food truck in Philadelphia exploded into a fireball, critica
 ### Source:
 
 1. [FOX](http://www.foxnews.com/us/2014/07/01/12-people-injured-after-food-truck-explodes-in-philadelphia/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/070214/0/0/070214_foodtruck_explosion_640.jpg?ve=1)
 
 ### Related:
 

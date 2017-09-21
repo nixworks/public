@@ -8,6 +8,7 @@ The families of 29 miners killed in a New Zealand pit explosion said Thursday th
 ### Source:
 
 1. [AFP via Fox News](http://www.foxnews.com/world/2013/07/17/no-manslaughter-charges-over-new-zealand-mine-disaster/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/07/17/no-manslaughter-charges-over-new-zealand-mine-disaster/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1422590262399.jpg?ve=1)
 
 ### Related:
 

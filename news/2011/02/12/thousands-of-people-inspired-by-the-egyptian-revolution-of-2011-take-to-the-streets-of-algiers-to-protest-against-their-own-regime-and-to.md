@@ -22,6 +22,7 @@ In&#x20;the&#x20;Algerian&#x20;capital&#x20;of&#x20;Algiers&#x20;on&#x20;Saturda
 13. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/12/c_13729299.htm)
 14. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/13/c_13729471.htm)
 15. [euronews](http://www.youtube.com/watch?v=HltzgRQYjgM)
+15. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/top-algerie-fr.jpg)
 
 ### Related:
 

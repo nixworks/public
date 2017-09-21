@@ -9,6 +9,7 @@ The British woman stabbed and beheaded in a shop on the Spanish island of Teneri
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13401045)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/may/14/british-woman-beheaded-tenerife-named)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52724000/jpg/_52724426_011975708-1.jpg)
 
 ### Related:
 

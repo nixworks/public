@@ -8,6 +8,7 @@ A New Zealand soldier has been awarded the Victoria Cross for the first time sin
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/02/1967390.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

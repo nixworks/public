@@ -9,6 +9,7 @@ Both sides appear to be trying to maximise gains before a cessation of hostiliti
 
 1. [CNN](http://edition.cnn.com/2016/09/11/middleeast/syria-airstrikes-idlib/)
 2. [Sky News](http://news.sky.com/story/us-and-russia-announce-syria-peace-plan-10571819)
+2. [Cover Image](http://e3.365dm.com/16/09/1600x900/f0546ea448cbcd4fa4f8684903847268310478b3b050776d652d9fa8ca8ec269_3783894.jpg?20160911050842)
 
 ### Related:
 

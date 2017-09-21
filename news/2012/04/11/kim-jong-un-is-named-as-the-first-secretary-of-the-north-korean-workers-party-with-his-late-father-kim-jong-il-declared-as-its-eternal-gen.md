@@ -8,6 +8,7 @@ North Korea fueled up a rocket Wednesday in preparation for what appeared to be 
 ### Source:
 
 1. [AP via Yahoo News](http://news.yahoo.com/nkoreas-kim-jong-un-named-top-party-post-084216512.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

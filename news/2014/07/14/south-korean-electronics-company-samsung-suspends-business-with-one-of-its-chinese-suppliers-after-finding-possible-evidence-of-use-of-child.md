@@ -8,6 +8,7 @@ Samsung said on Monday it had temporarily suspended business with one of its sup
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/world/samsung-finds-evidence-of-child-labour-at-china-plant-558119)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

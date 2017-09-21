@@ -8,6 +8,7 @@ PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters 
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/national/breaking-news/abbotts-plea-to-wa-voters/story-e6frfku9-1226875372351?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Arutz Sheva](http://www.israelnationalnews.com/News/News.aspx/141122)
+1. [Cover Image](http://f.a7.org/pictures/248/248068.jpg)
 
 ### Related:
 

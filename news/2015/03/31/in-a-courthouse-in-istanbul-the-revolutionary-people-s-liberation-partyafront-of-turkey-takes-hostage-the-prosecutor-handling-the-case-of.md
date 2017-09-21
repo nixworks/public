@@ -8,6 +8,7 @@ A Turkish prosecutor and two gunmen who took him hostage have been killed after 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32129012)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82037000/jpg/_82037697_026568375-1.jpg)
 
 ### Related:
 

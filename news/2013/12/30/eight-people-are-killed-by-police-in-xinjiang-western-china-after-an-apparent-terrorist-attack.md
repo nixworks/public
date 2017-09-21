@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/12/chinese-police-gun-down-terrorists-201312304312685695.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/16/2013121652312721734_20.jpg)
 
 ### Related:
 

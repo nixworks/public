@@ -9,6 +9,7 @@ Most of the victims suffered from smoke inhalation or suffocated
 
 1. [Dawn News](http://www.dawn.com/news/1300614)
 2. [The Express Tribune'' Pakistan](http://tribune.com.pk/story/1253711/11-killed-fire-erupts-karachis-regent-plaza-hotel/)
+2. [Cover Image](https://c.tribune.com.pk/2016/12/1253711-regent-1480917732-252-640x480.jpg)
 
 ### Related:
 

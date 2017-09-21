@@ -8,6 +8,7 @@ A Somali member of parliament is shot dead by al-Shabab militants in Mogadishu a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31295958?ocid=socialflow_twitter)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80878000/jpg/_80878840_al-shabab.jpg)
 
 ### Related:
 

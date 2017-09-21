@@ -9,6 +9,7 @@ Two Louisiana officers face charges of attempted second-degree murder over killi
 
 1. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/police-officers-arrested-fatal-shooting-boy-151107063934987.html)
 2. [BBC](http://www.bbc.com/news/world-us-canada-34754889)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/7/f221da5902ff486fb8b135ee1e0af856_18.jpg)
 
 ### Related:
 

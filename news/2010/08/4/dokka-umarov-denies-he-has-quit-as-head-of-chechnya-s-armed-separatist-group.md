@@ -8,6 +8,7 @@ Doku Umarov appears in new video posting saying he will not step down from his p
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201084123832188820.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

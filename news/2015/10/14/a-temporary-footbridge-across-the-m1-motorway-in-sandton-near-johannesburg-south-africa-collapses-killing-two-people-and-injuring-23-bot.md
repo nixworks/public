@@ -8,6 +8,7 @@ Rescuers are still trying to retrieve a body trapped under the collapsed tempora
 ### Source:
 
 1. [News24](http://www.news24.com/news24/SouthAfrica/News/Rescuers-still-trying-to-retrieve-body-under-collapsed-bridge-20151014)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/750/d188c885b9054bdea7920acb74bbc2fe.jpg)
 
 ### Related:
 

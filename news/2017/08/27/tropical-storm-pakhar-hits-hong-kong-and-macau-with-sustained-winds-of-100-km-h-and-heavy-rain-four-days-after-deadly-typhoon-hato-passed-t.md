@@ -8,6 +8,7 @@ Tropical storm Pakhar brought strong winds and heavy rain to Hong Kong and Macau
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-asia-storm-idUSKCN1B60SA)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170827&t=2&i=1198737755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7Q0CQ)
 
 ### Related:
 

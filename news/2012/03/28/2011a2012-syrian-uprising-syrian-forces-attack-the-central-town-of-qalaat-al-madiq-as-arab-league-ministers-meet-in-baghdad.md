@@ -9,6 +9,7 @@ Fighting continues in Syria as the Arab League meets over the crisis, with the g
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17541186)
 2. [SAPA via IOL](http://www.iol.co.za/news/world/syrian-army-storms-central-town-1.1265954)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59354000/jpg/_59354012_014380413-1.jpg)
 
 ### Related:
 

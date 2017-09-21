@@ -8,6 +8,7 @@ Egypt election officials fail to confirm the date of the first presidential elec
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17089433)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58585000/jpg/_58585502_013930716-1.jpg)
 
 ### Related:
 

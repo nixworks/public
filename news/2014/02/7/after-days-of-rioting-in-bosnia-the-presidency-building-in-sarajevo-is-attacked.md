@@ -8,6 +8,7 @@ Protesters smash windows and set ablaze section of government building in Saraje
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2014/02/bosnia-braces-more-protests-20142754844558298.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/2/7/20142721619711734_20.jpg)
 
 ### Related:
 

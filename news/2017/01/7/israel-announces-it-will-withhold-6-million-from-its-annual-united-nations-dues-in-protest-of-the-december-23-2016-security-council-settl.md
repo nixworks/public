@@ -8,6 +8,7 @@ Israel announced it will withhold $6 million from its United Nations dues in pro
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2017/01/07/Israel-to-withhold-6M-in-UN-dues-after-settlement-resolution/3201483815266/?spt=hts&or=3)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3201483815266/2017/1/5c39b28f7e6e27b40d13a3fc7dfb2110/v1.5/Israel-to-withhold-6M-in-UN-dues-after-settlement-resolution.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former Australian Prime Minister Kevin Rudd backs Julia Gillard - the woman who 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10877774)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

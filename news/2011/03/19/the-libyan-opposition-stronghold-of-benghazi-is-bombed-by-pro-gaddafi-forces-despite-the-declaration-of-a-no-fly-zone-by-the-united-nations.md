@@ -18,6 +18,7 @@ A French plane has fired the first shots on a military vehicle in Libya, as the 
 9. [Reuters](http://www.reuters.com/article/2011/03/19/us-libya-idUSTRE7270JP20110319)
 10. [Reuters](http://www.reuters.com/article/2011/03/19/us-libya-usa-strike-idUSTRE72I3N120110319?feedType=RSS&feedName=topNews)
 11. [Tunis Afrique Press News Agency](http://www.tap.info.tn/en/index.php?option=com_content&task=view&id=16175&Itemid=56)
+11. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/51752000/jpg/_51752299_011569117-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ How far the country has come since the fall of apartheid is undeniable, but it c
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/may/06/south-africa-elections-20-years-democracy-apartheid)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/6/1399390946733/A-boy-walks-past-ANC-elec-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1b5ad7b3bc7b70d53af3d4b8228e8848)
 
 ### Related:
 

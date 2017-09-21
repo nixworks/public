@@ -8,6 +8,7 @@ Snap elections are being called in Turkey after efforts to form a coalition gove
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34018497)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BD75/production/_85110584_027466733-1.jpg)
 
 ### Related:
 

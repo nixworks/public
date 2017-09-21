@@ -8,6 +8,7 @@ F1 champion Jenson Button praises the actions of his police driver after armed m
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11704802)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/49831000/jpg/_49831335_getty2button.jpg)
 
 ### Related:
 

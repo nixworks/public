@@ -8,6 +8,7 @@ Private equity-backed Allison Transmission has hired banks and is planning an in
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/24/us-allisontransmission-ipo-exclusive-idUSTRE71N5JG20110224)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

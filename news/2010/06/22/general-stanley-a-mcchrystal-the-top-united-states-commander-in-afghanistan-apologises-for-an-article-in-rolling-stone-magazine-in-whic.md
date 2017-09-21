@@ -9,6 +9,7 @@ In a new magazine profile, the top commander in Afghanistan, Army Gen. Stanley A
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10372558.stm)
 2. [The Los Angeles Times](http://www.latimes.com/news/politics/la-fg-mcchrystal-20100622,0,3049196.story)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

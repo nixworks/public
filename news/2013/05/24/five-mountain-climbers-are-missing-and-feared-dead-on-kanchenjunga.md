@@ -8,6 +8,7 @@ Five climbers have disappeared from the world&#39;s third-highest mountain, in N
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/05/24/climbers-missing-kanchenhjunga-nepal-mountain/2359291/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

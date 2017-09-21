@@ -9,6 +9,7 @@ Rescuers are trying to reach 172 miners trapped in a flooded coal mine in east C
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/18/2008538.htm)
 2. [ChinaDaily](http://www.chinadaily.com.cn/china/2007-08/18/content_6032617.htm)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

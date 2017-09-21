@@ -8,6 +8,7 @@ A Japanese researcher at the centreof discredited research initially hailed as a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/08/05/japan-scientist-idUSL4N0QB3CV20140805)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

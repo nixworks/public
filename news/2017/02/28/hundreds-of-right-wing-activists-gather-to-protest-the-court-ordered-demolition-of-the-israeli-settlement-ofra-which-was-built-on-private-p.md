@@ -8,6 +8,7 @@ Hundreds of right-wing activists gathered in the West Bank settlement of Ofra, a
 ### Source:
 
 1. [RT](https://www.rt.com/news/378892-west-bank-settlers-evacuation/)
+1. [Cover Image](https://img.rt.com/files/2017.02/article/58b575f8c46188476f8b4592.jpg)
 
 ### Related:
 

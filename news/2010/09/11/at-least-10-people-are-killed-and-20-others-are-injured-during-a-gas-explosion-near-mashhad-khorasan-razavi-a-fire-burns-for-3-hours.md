@@ -11,6 +11,7 @@ Accidental rupture leaves 10 workers dead and 20 injured, as firefighters bring 
 2. [Press TV](http://www.presstv.ir/detail/142116.html)
 3. [Tehran Times](http://www.tehrantimes.com/Index_view.asp?code=226425)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/11/c_13490269.htm)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/11/201091111399230734_20.jpg)
 
 ### Related:
 

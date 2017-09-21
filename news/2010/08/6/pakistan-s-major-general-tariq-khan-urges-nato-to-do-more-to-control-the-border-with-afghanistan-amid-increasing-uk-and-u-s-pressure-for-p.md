@@ -8,6 +8,7 @@ A senior Pakistani security official calls on Nato forces to do more to control 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10891034)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

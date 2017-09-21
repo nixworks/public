@@ -8,6 +8,7 @@ There was no immediate claim of responsibility for the attack, but the Pakistani
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/11/world/asia/gunman-kills-policeman-guarding-polio-workers-in-pakistan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

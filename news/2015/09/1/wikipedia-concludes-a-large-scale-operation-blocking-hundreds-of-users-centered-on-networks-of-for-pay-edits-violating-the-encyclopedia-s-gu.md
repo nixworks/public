@@ -10,6 +10,7 @@ Rogue editors charged businesses and celebrities for Wikipedia entries and deman
 1. [Ars Technica](http://arstechnica.com/tech-policy/2015/09/wikipedia-blocks-hundreds-of-linked-accounts-for-suspect-editing/)
 2. [BBC](http://www.bbc.com/news/technology-34127466)
 3. [The Guardian](http://www.theguardian.com/technology/2015/sep/02/wikipedia-blocks-editor-accounts-linked-to-extortion-scam)
+3. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/9/2/1441187630972/263fbea7-05f5-4b33-a64f-eb9a4879640b-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=806ba9b7a31a4dc7195cb67a917fb868)
 
 ### Related:
 

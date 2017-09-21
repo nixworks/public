@@ -8,6 +8,7 @@ Computer systems at South Korea&#039;s nuclear plant operator have been hacked, 
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/it-pro/security-it/south-korea-nuclear-plant-hacked-says-operator-20141222-12chrb.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/2/c/h/t/7/image.related.articleLeadwide.620x349.12chrb.png/1419283116951.jpg)
 
 ### Related:
 

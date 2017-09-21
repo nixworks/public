@@ -9,6 +9,7 @@ U.S. military veterans were building barracks on Friday at a protest camp in Nor
 
 1. [NBC News](http://www.nbcnews.com/storyline/dakota-pipeline-protests/brutal-winter-conditions-deepen-pipeline-protesters-resolve-n690791)
 2. [Reuters](http://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13R0WM)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161202&t=2&i=1163915718&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB10G2)
 
 ### Related:
 

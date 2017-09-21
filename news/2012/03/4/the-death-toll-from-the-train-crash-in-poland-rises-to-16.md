@@ -8,6 +8,7 @@ Two passenger trains collided at high speed in Poland late on Saturday, killing 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/05/world/europe/head-on-train-crash-kills-16-in-poland.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/03/05/world/05POLAND/05POLAND-thumbStandard.jpg)
 
 ### Related:
 

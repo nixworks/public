@@ -9,6 +9,7 @@ Seven suspected militants are killed in two separate gun battles with security f
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-37335889)
 2. [The Hindu](http://www.thehindu.com/news/national/militant-killed-in-jks-poonch-district/article9099406.ece)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3656/production/_85101931_85101928.jpg)
 
 ### Related:
 

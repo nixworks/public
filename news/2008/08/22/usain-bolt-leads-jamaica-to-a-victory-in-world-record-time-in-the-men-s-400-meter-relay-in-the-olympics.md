@@ -8,6 +8,7 @@ U.S. decathlete Bryan Clay was walking slowly next to the Olympic Stadium track 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/sports/la-sp-olytrack23-2008aug23,0,7820552.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

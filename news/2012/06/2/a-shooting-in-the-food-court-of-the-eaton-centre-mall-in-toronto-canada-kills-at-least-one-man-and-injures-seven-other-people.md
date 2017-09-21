@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18312636)
 2. [The Canadian Press via Canada.com](http://www.canada.com/news/Shots+fired+Toronto+Eaton+Centre+media+reports/6720888/story.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60667000/jpg/_60667392_60667391.jpg)
 
 ### Related:
 

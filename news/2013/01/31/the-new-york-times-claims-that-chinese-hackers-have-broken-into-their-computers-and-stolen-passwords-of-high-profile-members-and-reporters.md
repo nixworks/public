@@ -9,6 +9,7 @@ The timing of the attacks coincided with reporting for an investigation that fou
 
 1. [CNN](http://www.cnn.com/2013/01/31/tech/china-nyt-hacking)
 2. [The New York Times](http://www.nytimes.com/2013/01/31/technology/chinese-hackers-infiltrate-new-york-times-computers.html)
+2. [Cover Image](https://static01.nyt.com/images/2013/01/31/technology/31hack-web/31hack-web-superJumbo-v2.jpg)
 
 ### Related:
 

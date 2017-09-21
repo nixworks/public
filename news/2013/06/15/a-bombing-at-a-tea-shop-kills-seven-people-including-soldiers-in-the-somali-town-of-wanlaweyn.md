@@ -8,6 +8,7 @@ At least seven people were killed when a bomb exploded in a tea shop popular wit
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/15/us-somalia-bomb-idUSBRE95E0A020130615)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/28/indonesia.quake/index.html)
 4. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4898004,00.html)
 5. [USGS](http://earthquake.usgs.gov/eqinthenews/2005/usweax/)
+5. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Authorities in Oakland say they arrested 75 people from a raid; Brooklyn man dev
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-20125200/riot-police-arrest-occupy-oakland-protesters/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/10/25/a3f1f01a-a643-11e2-a3f0-029118418759/Oakland_arrest.jpg)
 
 ### Related:
 

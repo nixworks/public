@@ -8,6 +8,7 @@ US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15349335)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56122000/jpg/_56122158_013175483-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-38278868)
 2. [Reuters](http://www.reuters.com/article/us-kenya-accident-idUSKBN13Z0TK?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

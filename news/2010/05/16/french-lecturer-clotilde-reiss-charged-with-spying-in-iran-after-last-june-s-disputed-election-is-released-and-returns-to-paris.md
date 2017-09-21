@@ -10,6 +10,7 @@ Woman arrested after disputed presidential poll, released and on her way home.
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/201051642716856614.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8685071.stm)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7127970.ece)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

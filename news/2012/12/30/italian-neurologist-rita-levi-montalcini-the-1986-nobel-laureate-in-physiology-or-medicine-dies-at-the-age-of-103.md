@@ -10,6 +10,7 @@ The Italian neurologist Rita Levi-Montalcini, who won the Nobel prize for her wo
 1. [ANSA.it](http://www.ansa.it/web/notizie/rubriche/scienza/2012/12/30/morta-Rita-Levi-Montalcini_8011133.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20871120)
 3. [Bloomberg](http://www.bloomberg.com/news/2012-12-30/rita-levi-montalcini-nobel-prizewinner-in-medicine-dies-at-103.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65014000/jpg/_65014800_65014799.jpg)
 
 ### Related:
 

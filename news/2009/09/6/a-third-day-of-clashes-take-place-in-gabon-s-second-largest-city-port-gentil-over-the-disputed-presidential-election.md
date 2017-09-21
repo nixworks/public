@@ -9,6 +9,7 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gae1gawFUqRm2WJMEOf2u3Q6mU3g)
 2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL6362961)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

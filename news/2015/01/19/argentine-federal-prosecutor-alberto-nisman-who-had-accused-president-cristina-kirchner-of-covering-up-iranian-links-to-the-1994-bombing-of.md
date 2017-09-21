@@ -8,6 +8,7 @@ An Argentine prosecutor was found dead just hours before giving what was expecte
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/argentine-prosecutor-accused-kirchner-found-dead-media-081022005.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/GrS4vOI_TCos1u9iG4S31g--/aD04NDQ7dz0xNDU0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-MVD-Mvd6659563-1-1-0.jpg)
 
 ### Related:
 

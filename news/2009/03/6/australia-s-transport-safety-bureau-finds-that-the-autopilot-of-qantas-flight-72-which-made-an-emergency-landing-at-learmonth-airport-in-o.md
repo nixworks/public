@@ -8,6 +8,7 @@ Safety investigator&#039;s report finds electronic error led to dangerous plunge
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/wa-news/bad-data-forced-jet-plunge-20090306-8qj3.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/8/q/j/l/image.related.articleLeadwide.620x349.8qj3.png/1236393536950.jpg)
 
 ### Related:
 

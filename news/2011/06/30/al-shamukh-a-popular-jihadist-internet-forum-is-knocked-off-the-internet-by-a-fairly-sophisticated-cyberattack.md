@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2011/06/29/501364/main20075647.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/06/20/62012361-a644-11e2-a3f0-029118418759/hackers_1010961.jpg)
 
 ### Related:
 

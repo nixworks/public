@@ -10,6 +10,7 @@ Trump says Putin is &#39;smart&#39; for not reciprocating Obama&#39;s diplomat e
 1. [Newshub](http://www.newshub.co.nz/home/world/2016/12/no-tit-for-tat-from-russia-after-diplomat-expulsion.html)
 2. [The Boston Globe](https://www.bostonglobe.com/news/nation/2016/12/30/russian-hackers-penetrated-electricity-grid-through-utility-vermont/6hZ3wnpIM7x76CsH9oAimN/story.html)
 3. [The New York Times](http://www.nytimes.com/2016/12/30/world/europe/russia-diplomats-us-hacking.html)
+3. [Cover Image](http://www.newshub.co.nz/home/world/2016/12/no-tit-for-tat-from-russia-after-diplomat-expulsion/_jcr_content/par/brightcovevideo/image.img.1280.high.jpg/v0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A South Florida jury has convicted a 23-year-old man of second-degree murder in 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/sports/2013/11/04/fla-man-convicted-second-degree-murder-in-killing-redskins-star-taylor-during/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

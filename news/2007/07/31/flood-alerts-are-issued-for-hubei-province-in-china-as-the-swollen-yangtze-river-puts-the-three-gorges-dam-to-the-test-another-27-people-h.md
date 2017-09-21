@@ -9,6 +9,7 @@
 
 1. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/31/AR2007073100050.html)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSPEK28461320070731)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070731&t=2&i=1219854&w=&fh=545px&fw=&ll=&pl=&sq=&r=1219854)
 
 ### Related:
 

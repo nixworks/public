@@ -11,6 +11,7 @@ One man seriously injured after car explodes in West Bank settlement; man believ
 2. [Haaretz](http://www.haaretz.com/hasen/spages/599195.html)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3111730,00.html)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3111750,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

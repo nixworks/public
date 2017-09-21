@@ -9,6 +9,7 @@ Dozens killed as female suicide bomber targets Shia Muslims on their way to Karb
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/02/2010219555454789.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iraq/7128730/Female-suicide-bomber-kills-41-in-Iraq.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 14 people are killed and dozens wounded in a series of car bomb attacks
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18623620)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61218000/jpg/_61218234_015066344-1.jpg)
 
 ### Related:
 

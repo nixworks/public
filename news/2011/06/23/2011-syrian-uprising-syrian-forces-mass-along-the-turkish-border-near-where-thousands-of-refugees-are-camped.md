@@ -9,6 +9,7 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13886598)
 2. [Reuters](http://www.reuters.com/article/2011/06/23/syria-turkey-troops-idUSLDE75M0E520110623)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

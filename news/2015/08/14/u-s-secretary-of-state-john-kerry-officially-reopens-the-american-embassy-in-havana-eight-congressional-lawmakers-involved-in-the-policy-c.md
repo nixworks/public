@@ -11,6 +11,7 @@ Washington&#039;s top diplomat came to Havana on Friday to raise the Stars and S
 2. [CNN](http://www.cnn.com/2015/08/14/politics/cuba-embassy-opening-john-kerry-visit/)
 3. [NBC](http://www.nbcnews.com/storyline/u-s-cuba-relations/kerry-see-u-s-flag-fly-over-cuba-embassy-after-n409726)
 4. [The Washington Post](http://www.washingtonpost.com/news/powerpost/wp/2015/08/14/cuba-congressional-delegation-who-traveled-with-john-kerry-to-havana/)
+4. [Cover Image](https://shawglobalnews.files.wordpress.com/2015/08/cuba-us-embassy.jpg?quality=70&strip=all&w=720&h=480&crop=1)
 
 ### Related:
 

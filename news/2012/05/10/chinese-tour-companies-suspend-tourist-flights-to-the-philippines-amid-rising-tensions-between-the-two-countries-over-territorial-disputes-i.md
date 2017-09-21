@@ -8,6 +8,7 @@ Most travel agencies in China are suspending tours to the Philippines amid tensi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18015538)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60135000/jpg/_60135020_magpodll.jpg)
 
 ### Related:
 

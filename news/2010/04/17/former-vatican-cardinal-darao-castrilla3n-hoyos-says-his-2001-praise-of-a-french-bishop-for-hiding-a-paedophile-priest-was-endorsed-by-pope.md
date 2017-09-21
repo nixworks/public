@@ -13,6 +13,7 @@ A cardinal who congratulated a French bishop for hiding a sexually abusive pries
 4. [The New York Times](http://www.nytimes.com/2010/04/18/world/europe/18pope.html)
 5. [The Observer](http://www.guardian.co.uk/world/2010/apr/18/pope-cover-up-aide-took-blame-munich)
 6. [The Times of India](http://timesofindia.indiatimes.com/world/europe/Cardinal-justifies-praise-for-French-bishops-silence-over-abusive-priest/articleshow/5826601.cms)
+6. [Cover Image](https://img.rasset.ie/0002bc2b-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and tra
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/dec/10/the-gambia-troops-deployed-to-streets-as-president-rejects-election-defeat)
+1. [Cover Image](https://i.guim.co.uk/img/media/0c7237671bab737dd4b464e51f205457b14201d7/0_217_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4a9e6b32b474756a8204f3bc8b38840d)
 
 ### Related:
 

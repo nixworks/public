@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2011/0901/Libya-rebels-postpone-attack-on-Qaddafi-stronghold-in-show-of-confidence)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2011/09/0901-Libya-rebels-Sirte.jpg?alias=standard_900x600)
 
 ### Related:
 

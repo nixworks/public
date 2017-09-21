@@ -9,6 +9,7 @@ Russian President Dmitry Medvedev on Thursday ordered a one fifth cut to the sta
 
 1. [RIA Novosti](http://en.rian.ru/russia/20091224/157344130.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE5BN27Y20091224)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091224&t=2&i=36096877&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-24T165018Z_01_BTRE5BN1AS700_RTROPTP_0_BELARUS)
 
 ### Related:
 

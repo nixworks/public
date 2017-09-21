@@ -8,6 +8,7 @@ David Cameron publishes details of all donors he has had dinner with in his Down
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17508271)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59304000/jpg/_59304249_cameronfour.jpg)
 
 ### Related:
 

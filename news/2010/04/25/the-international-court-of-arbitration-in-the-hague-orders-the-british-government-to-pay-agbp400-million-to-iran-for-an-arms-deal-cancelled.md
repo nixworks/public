@@ -10,6 +10,7 @@ The British government has confirmed that it has been ordered to pay back $650 m
 1. [ABC News](http://www.abc.net.au/news/stories/2010/04/25/2882122.htm?section=justin)
 2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1165316.html)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=124353&sectionid=351020101)
+3. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Islamic State (IS) group says it targeted Shia Muslims at a Baghdad shopping
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/01/12/least-48-killed-iraq-attacks-claimed)
 2. [BBC](http://www.bbc.com/news/world-middle-east-35285605)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-violence-idUSKCN0UP1R420160111)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16937/production/_87617429_87617428.jpg)
 
 ### Related:
 

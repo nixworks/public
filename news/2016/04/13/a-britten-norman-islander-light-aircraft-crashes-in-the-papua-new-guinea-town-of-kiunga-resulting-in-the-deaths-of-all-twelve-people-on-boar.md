@@ -8,6 +8,7 @@ An Australian is among 12 people killed after a light plane crashed while trying
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-04-14/plane-crash-in-papua-new-guinea-12-people-reported-dead/7325226)
+1. [Cover Image](http://www.abc.net.au/news/image/7327216-1x1-700x700.jpg)
 
 ### Related:
 

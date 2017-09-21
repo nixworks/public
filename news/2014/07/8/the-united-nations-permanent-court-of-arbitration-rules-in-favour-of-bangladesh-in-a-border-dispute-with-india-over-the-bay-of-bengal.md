@@ -8,6 +8,7 @@ A U.N. tribunal has awarded Bangladesh nearly four-fifths of an area sprawling o
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/07/08/uk-bangladesh-india-seaborder-idUKKBN0FD15N20140708)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

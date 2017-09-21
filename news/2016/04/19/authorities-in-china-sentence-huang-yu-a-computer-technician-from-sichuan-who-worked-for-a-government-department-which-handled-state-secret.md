@@ -8,6 +8,7 @@ Huang Yu convicted of leaking state secrets to unidentified foreign power, state
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/19/chinese-man-sentenced-to-death-for-leaking-150000-classified-documents)
+1. [Cover Image](https://i.guim.co.uk/img/media/33167cfcab7b5881c88455133527cef46258c598/0_210_3500_2101/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b869272c30b27eb758f947e6f146b550)
 
 ### Related:
 

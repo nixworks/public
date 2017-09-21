@@ -8,6 +8,7 @@ Pakistan Taliban claim responsibility for attack on vehicle that killed four sec
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134461151544811.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/4/20134462527850621_20.jpg)
 
 ### Related:
 

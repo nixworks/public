@@ -10,6 +10,7 @@ MPs approve same-sex marriage in England and Wales in a key Commons vote, althou
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-21346220)
 2. [Sky News](http://news.sky.com/story/1048058/gay-marriage-mps-back-bill-in-commons-vote)
 3. [The Guardian](http://www.guardian.co.uk/politics/blog/2013/feb/05/gay-marriage-debate-politics-live-blog)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65722000/jpg/_65722159_65722156.jpg)
 
 ### Related:
 

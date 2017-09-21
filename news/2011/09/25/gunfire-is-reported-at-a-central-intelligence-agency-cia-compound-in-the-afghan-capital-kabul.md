@@ -8,6 +8,7 @@ An Afghan employee kills one US citizen and wounds another before being shot dea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15055705)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55580000/gif/_55580273_afghan_kabul_100810.gif)
 
 ### Related:
 

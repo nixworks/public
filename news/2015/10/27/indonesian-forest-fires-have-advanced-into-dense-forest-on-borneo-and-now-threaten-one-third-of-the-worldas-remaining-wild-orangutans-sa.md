@@ -9,6 +9,7 @@ A species of the Great Apes is among the biggest casualties of the fires ravagin
 
 1. [ABC news](http://abcnews.go.com/US/thousands-orangutans-threatened-indonesia-wildfires/story?id=34765173)
 2. [South China Morning Post](http://www.scmp.com/news/asia/southeast-asia/article/1872835/indonesias-forest-fires-spread-third-worlds-wild-orangutans)
+2. [Cover Image](http://a.abcnews.com/images/International/ht_Borneo_Orangutan_released_hb_151027_16x9_992.jpg)
 
 ### Related:
 

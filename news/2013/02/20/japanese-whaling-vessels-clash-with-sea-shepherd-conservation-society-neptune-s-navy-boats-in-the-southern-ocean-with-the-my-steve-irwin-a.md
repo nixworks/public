@@ -8,6 +8,7 @@ Dramatic images have been sent from the Antarctic of the Japanese whaling factor
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/environment/whale-watch/whalers-ramming-damages-sea-shepherd-ship-20130220-2eqyg.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/e/r/y/5/image.related.thumbnail.320x214.2eqyg.png/1361338747930.jpg)
 
 ### Related:
 

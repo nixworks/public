@@ -8,6 +8,7 @@ Secretary General Kofi Annan said today that U.N. critics were treating unproven
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/04/22/international/middleeast/22CND-NATI.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

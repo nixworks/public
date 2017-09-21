@@ -9,6 +9,7 @@
 
 1. [IDG](http://internetworld.idg.se/2.1006/1.53959)
 2. [Spamfo.co.uk](http://www.spamfo.co.uk/component/option,com_content/task,view/id,313/Itemid,2/)
+2. [Cover Image](https://dqgk3k39phgji.cloudfront.net/editorial/1200/path/2.1005.1490596942!shareImage/imageTypeSelector/localImage/3917463905.png)
 
 ### Related:
 

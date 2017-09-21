@@ -8,6 +8,7 @@ Bertie Ahern has formally tendered his resignation as Taoiseach to President Mar
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0506/northpolitics.html)
+1. [Cover Image](https://img.rasset.ie/000175c5-1600.jpg)
 
 ### Related:
 

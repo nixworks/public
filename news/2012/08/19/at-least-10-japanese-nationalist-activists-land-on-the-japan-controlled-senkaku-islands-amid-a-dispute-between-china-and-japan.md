@@ -9,6 +9,7 @@ At least 10 Japanese nationalist activists have landed on a group of disputed is
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/08/201281910499960568.html)
 2. [BBC](http://www.bbc.co.uk/news/world-19310650)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62367000/jpg/_62367105_62366417.jpg)
 
 ### Related:
 

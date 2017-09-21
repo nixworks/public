@@ -8,6 +8,7 @@ Police are searching for three men in connection with a &#36;6 million New Year&
 ### Source:
 
 1. [ABC NYC](http://abc7ny.com/news/watch-police-searching-for-3-men-involved-in-$6-million-midtown-jewelry-heist/1683131/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/wabc/images/cms/automation/vod/1683137_1280x720.jpg)
 
 ### Related:
 

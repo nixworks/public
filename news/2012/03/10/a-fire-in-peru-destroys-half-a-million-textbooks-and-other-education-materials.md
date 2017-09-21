@@ -8,6 +8,7 @@ A fire at an education ministry warehouse in Peru destroys 500,000 textbooks and
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17320251)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58988000/gif/_58988274_peru_lima_jan12.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ China accuses the US of &quot;prejudice&quot; for urging Beijing to provide a fu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-22744242)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67929000/jpg/_67929768_67929767.jpg)
 
 ### Related:
 

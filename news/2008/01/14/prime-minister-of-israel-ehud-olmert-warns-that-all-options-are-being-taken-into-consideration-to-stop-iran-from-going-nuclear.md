@@ -9,6 +9,7 @@ In one of his harshest remarks against Islamic republic, prime minister tells Kn
 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080114/ap_on_re_mi_ea/israel_iran)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3493934,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

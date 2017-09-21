@@ -11,6 +11,7 @@ At least 18 people have been killed and 40 injured after rainstorms in Sicily wa
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/20091021421972343.html#)
 3. [RTÉ](http://www.rte.ie/news/2009/1002/sicily.html)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-10/03/content_12175458.htm)
+4. [Cover Image](https://img.rasset.ie/0002a4f9-1600.jpg)
 
 ### Related:
 

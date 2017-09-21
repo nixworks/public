@@ -8,6 +8,7 @@ Twin suicide attacks have targeted the Pakistani military, killing 45 people in 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/03/12/2844698.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/360322-1x1-700x700.jpg)
 
 ### Related:
 

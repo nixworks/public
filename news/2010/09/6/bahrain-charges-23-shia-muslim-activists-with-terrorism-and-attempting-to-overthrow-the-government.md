@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/201095201748804676.html)
 2. [Bahrain News Agency](http://english.bna.bh/?ID=89484)
 3. [Bloomberg](http://www.bloomberg.com/news/2010-09-06/bahrain-charges-23-activists-with-terrorism-tied-to-anti-monarchy-group.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/5/20109563958188621_20.jpg)
 
 ### Related:
 

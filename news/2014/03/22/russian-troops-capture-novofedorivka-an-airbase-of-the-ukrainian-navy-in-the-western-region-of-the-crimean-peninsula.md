@@ -8,6 +8,7 @@ Russian troops storm a Ukrainian airbase in Crimea throwing stun grenades and fi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-26698754)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/73749000/jpg/_73749145_73748770.jpg)
 
 ### Related:
 

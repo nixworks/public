@@ -8,6 +8,7 @@ Los Angeles prosecutors have formally charged Robert Durst, subject of HBO&#8217
 ### Source:
 
 1. [Variety](http://variety.com/2015/tv/news/robert-durst-officially-charged-with-murder-of-susan-berman-1201453882/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2015/03/the-jinx-robert-durst.jpg?w=640&amp;h=360&amp;crop=1)
 
 ### Related:
 

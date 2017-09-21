@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/specials/census-2011/)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

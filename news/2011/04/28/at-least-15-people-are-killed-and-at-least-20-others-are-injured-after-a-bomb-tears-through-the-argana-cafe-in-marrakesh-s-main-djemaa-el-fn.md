@@ -9,6 +9,7 @@ A bomb attack in the main square in the Moroccan city of Marrakesh kills 15 peop
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/2011428112155783843.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13226117)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52397000/jpg/_52397200_011849806-2.jpg)
 
 ### Related:
 

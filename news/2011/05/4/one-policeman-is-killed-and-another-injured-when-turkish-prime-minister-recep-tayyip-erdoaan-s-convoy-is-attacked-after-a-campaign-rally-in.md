@@ -9,6 +9,7 @@ Turkish Prime Minister Recep Tayyip Erdogan said Wednesday one policeman was kil
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/04/turkey.erdogan.attack/index.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/8493923/Explosives-thrown-at-police-escort-kills-officer-after-Erdogan-rally.html)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/04/turkey.erdogan.attack/tzvids.turkey.pm.erdogan.gi.jpg)
 
 ### Related:
 

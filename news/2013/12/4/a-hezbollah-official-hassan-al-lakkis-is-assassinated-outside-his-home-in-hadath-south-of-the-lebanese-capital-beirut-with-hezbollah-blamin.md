@@ -8,6 +8,7 @@ A Hezbollah commander was gunned down overnight outside his home south of Beirut
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Lebanon-News/2013/Dec-04/239853-hezbollah-official-assassinated-outside-his-beirut-home.ashx#axzz2mIdcjbPq)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/12/04/230314_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

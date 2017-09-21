@@ -8,6 +8,7 @@ Influential Brazilian environmentalist Marina Silva backs opposition candidate A
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-29590608)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78168000/jpg/_78168012_024175955-1.jpg)
 
 ### Related:
 

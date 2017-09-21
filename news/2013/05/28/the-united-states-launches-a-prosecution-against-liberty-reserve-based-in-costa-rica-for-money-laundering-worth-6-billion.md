@@ -8,6 +8,7 @@ US prosecutors have announced what they say is the biggest international money l
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/it-pro/security-it/westpac-caught-up-in-worlds-biggest-money-laundering-sting-20130529-2naa8.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/n/a/b/f/image.related.articleLeadwide.620x349.2naa8.png/1369782139320.jpg)
 
 ### Related:
 

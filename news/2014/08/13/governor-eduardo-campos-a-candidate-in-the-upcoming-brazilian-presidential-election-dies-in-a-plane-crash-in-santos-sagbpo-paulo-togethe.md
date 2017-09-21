@@ -9,6 +9,7 @@ Brazilian presidential candidate Eduardo Campos died Wednesday when his campaign
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/brazil-presidential-candidate-campos-dies-jet-crash-161732155.html)
 2. [Reuters](http://www.trust.org/item/20140813151726-32ly2/)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/eQMuKLcF05icKVzId5.ZYw--/aD01NDA7dz05NjA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.reutersnews.com/2014-08-13T160956Z_1_LOVEA7C18WJGL_RTRMADP_BASEIMAGE-960X540_BRAZIL-PLANE-CRASH-ROUGH-CUT-O.JPG)
 
 ### Related:
 

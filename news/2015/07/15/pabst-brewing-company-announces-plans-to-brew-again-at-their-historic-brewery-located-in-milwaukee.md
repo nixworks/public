@@ -8,6 +8,7 @@
 ### Source:
 
 1. [JS](http://www.jsonline.com/business/pabst-will-brew-beer-again-in-milwaukee-at-site-of-historic-brewery-b99537547z1-315341321.html)
+1. [Cover Image](http://media.jrn.com/images/b99537547z.1_20150715230322_000_g67brp4s.1-1.jpg)
 
 ### Related:
 

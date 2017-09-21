@@ -8,6 +8,7 @@ The Australian dollar fell to its lowest since 2010 after a round of selling tha
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/markets/late-selloff-caps-brutal-quarter-for-dollar-20130627-2oycj.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/o/j/w/5/image.related.thumbnail.320x214.2oycj.png/1372465507173.jpg)
 
 ### Related:
 

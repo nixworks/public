@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/01/15/egyptians-turn-out-for-second-day-constitution-vote-despite-violence/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/011514/0/0/011514_hn_egypt_640.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UK media regulator Ofcom says BSkyB is &quot;fit and proper&quot; to hold a broa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-19658811)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63001000/jpg/_63001585_016027198-1.jpg)
 
 ### Related:
 

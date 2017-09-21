@@ -8,6 +8,7 @@ Rights groups raise concerns as Hungary approves the automatic detention of asyl
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39196105)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1451B/production/_94972238_hungarymigrants2.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/05/27/movies/fast-furious-6-opens-as-huge-hit.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/05/27/arts/boxoffice/boxoffice-videoLarge.jpg)

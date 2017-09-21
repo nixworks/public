@@ -8,6 +8,7 @@ Ford Motor Co (F.N) will idle its auto plant in Genk, Belgium, for five days sta
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/26/us-ford-belgium-shutdown-idUSTRE72P23F20110326)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

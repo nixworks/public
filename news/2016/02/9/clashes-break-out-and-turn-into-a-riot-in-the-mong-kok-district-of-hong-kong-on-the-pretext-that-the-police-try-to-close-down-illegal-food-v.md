@@ -8,6 +8,7 @@ HONG KONG • Scores of police officers were hurt yesterday when a riot erupted 
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/east-asia/nearly-90-hong-kong-police-officers-injured-in-mongkok-riot)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/media-brightcove/4841557378001.jpg)
 
 ### Related:
 

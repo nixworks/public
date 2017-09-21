@@ -9,6 +9,7 @@ Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial s
 
 1. [AP via ''Cleveland Plain-Dealer](http://www.cleveland.com/newsflash/index.ssf/story/merkel-risks-setback-in-german-state-vote/c6fdf6b2aa684b2c92405ef8176379ca)
 2. [Reuters via ABC Australia](http://www.abc.net.au/news/2012-05-14/merkels-party-routed-in-state-polls/4008830)
+2. [Cover Image](http://www.abc.net.au/news/image/2854798-1x1-700x700.jpg)
 
 ### Related:
 

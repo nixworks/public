@@ -8,6 +8,7 @@ An erupting volcano displaces almost 20,000 people in Indonesia as it shoots lav
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2013-12-31/192c000-flee-erupting-volcano-in-indonesia/5180216)
+1. [Cover Image](http://www.abc.net.au/news/image/5180222-1x1-700x700.jpg)
 
 ### Related:
 

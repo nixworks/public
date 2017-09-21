@@ -9,6 +9,7 @@ Get the latest News news with exclusive stories and pictures from Rolling Stone.
 
 1. [Editor and Publisher](http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1002612100)
 2. [Rolling Stone](http://www.rollingstone.com/news/story/10432334/was_the_2004_election_stolen)
+2. [Cover Image](//assets.wennermedia.com/rollingstone/img/social/default-rollingstone.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Atlanta police arrest a man as he tries to board a flight to Israel, after some 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10956042)
 2. [Haaretz](http://www.haaretz.com/news/international/suspected-israeli-serial-killer-arrested-in-u-s-1.307598)
 3. [Japan Today](http://www.japantoday.com/category/world/view/stabbing-spree-suspect-arrested-at-atlanta-airport)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

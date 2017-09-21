@@ -8,6 +8,7 @@ Rochester, NY - Rural/Metro in Rochester reported to WGRZ news partners at the D
 ### Source:
 
 1. [WGRZ](http://www.wgrz.com/story/news/2015/08/20/3-dead-4-wounded-shooting-boys-and-girls-club/32037567/)
+1. [Cover Image](http://content.wgrz.com/photo/2015/08/20/635756526654314536-Raekwon----ROC-shooting_1469572_ver1.0.jpg)
 
 ### Related:
 

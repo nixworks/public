@@ -8,6 +8,7 @@ A Duke neuroscientist says he has connected the brains of two rats in such a way
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/03/01/science/new-research-suggests-two-rat-brains-can-be-linked.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

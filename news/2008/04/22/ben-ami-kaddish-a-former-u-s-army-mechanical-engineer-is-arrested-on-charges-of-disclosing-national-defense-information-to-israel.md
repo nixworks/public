@@ -8,6 +8,7 @@ A U.S. Army mechanical engineer has been arrested on charges that he slipped cla
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,352118,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

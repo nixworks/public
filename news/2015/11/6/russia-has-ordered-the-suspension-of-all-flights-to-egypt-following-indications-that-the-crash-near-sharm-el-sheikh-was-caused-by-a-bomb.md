@@ -8,6 +8,7 @@ Russia orders the suspension of all flights to Egypt following indications that 
 ### Source:
 
 1. [ (BBC](http://www.bbc.com/news/world-europe-34743216)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FC17/production/_86553546_86553545.jpg)
 
 ### Related:
 

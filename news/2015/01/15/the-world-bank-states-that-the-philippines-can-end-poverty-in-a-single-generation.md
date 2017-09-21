@@ -8,6 +8,7 @@ The World Bank said yesterday the Philippines can eliminate poverty within a gen
 ### Source:
 
 1. [AP via ''The Philippine Star](http://www.philstar.com/business/2015/01/15/1413174/world-bank-philippines-can-end-poverty-within-generation)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20140922/blackout-manila-poverty-typhoon.jpg)
 
 ### Related:
 

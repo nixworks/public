@@ -9,6 +9,7 @@ At least three more bodies have been recovered from a ferry that capsized in cho
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/se-asia/overloading-a-possible-cause-of-philippine-ferry-sinking-official)
 2. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2015/07/03/philippine-ferry-death-toll/29657733/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

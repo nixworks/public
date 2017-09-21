@@ -8,6 +8,7 @@ Former US vice president Dick Cheney, who has a long history of heart problems, 
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/former-us-vp-cheney-hospitalised-20100626-zafn.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

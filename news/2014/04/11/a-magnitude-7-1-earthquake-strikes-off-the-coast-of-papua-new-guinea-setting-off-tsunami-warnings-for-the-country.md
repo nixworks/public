@@ -8,6 +8,7 @@ A powerful magnitude 7.1 earthquake has struck off Papua New Guinea with a 6.7-m
 ### Source:
 
 1. [Australia Network News](http://www.abc.net.au/news/2014-04-11/an-powerful-73-magnitude-quake-hits-off-papua-new-guinea/5385182)
+1. [Cover Image](http://www.abc.net.au/news/image/214452-1x1-700x700.jpg)
 
 ### Related:
 

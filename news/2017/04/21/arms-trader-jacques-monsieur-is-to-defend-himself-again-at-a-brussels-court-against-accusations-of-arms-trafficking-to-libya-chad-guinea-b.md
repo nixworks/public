@@ -9,6 +9,7 @@
 
 1. [Het Nieuwsblad](http://www.nieuwsblad.be/cnt/dmf20170421_02843921)
 2. [RTL Info](http://www.rtl.be/info/belgique/faits-divers/tc-bruxelles-le-parquet-federal-assigne-a-nouveau-le-trafiquant-d-armes-jacques-monsieur-911118.aspx)
+2. [Cover Image](https://nbocdn.akamaized.net/Assets/Images_Upload/2017/04/21/edfb62d2-2645-11e7-bfbb-9a07c06c15e1_web_scale_0.7_0.7__.jpg)
 
 ### Related:
 

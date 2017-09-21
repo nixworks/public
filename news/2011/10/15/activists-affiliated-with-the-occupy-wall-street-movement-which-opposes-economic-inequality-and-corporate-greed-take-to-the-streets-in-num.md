@@ -19,6 +19,7 @@ About 2,000 protesters with the Occupy Wall Street movement marched through New 
 10. [Toronto Sun](http://www.torontosun.com/2011/10/15/occupy-wall-street-protests-continue-in-nyc)
 11. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204002304576633542169585716.html)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-10/16/c_131193593.htm)
+12. [Cover Image](http://storage.torontosun.com/v1/suns-prod-images/1297205330349_ORIGINAL.jpg?quality=80)
 
 ### Related:
 

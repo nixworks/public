@@ -11,6 +11,7 @@
 2. [Hindustan Times](http://www.hindustantimes.com/India-news/NewDelhi/Declare-Bhagavad-Gita-as-national-book-demands-BJP/Article1-784744.aspx)
 3. [The Economic Times](http://articles.economictimes.indiatimes.com/2011-12-20/news/30538106_1_bhagavad-gita-alexander-kadakin-russian-court)
 4. [The Statesman](http://www.thestatesman.net/index.php?option=com_content&view=article&id=393903&catid=36)
+4. [Cover Image](http://img.etimg.com/photo/19555866.cms)
 
 ### Related:
 

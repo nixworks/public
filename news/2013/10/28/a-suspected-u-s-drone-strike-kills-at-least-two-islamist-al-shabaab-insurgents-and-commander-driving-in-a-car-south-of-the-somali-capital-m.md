@@ -9,6 +9,7 @@ A suspected U.S. drone strike killed at least two Islamist al Shabaab insurgents
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24717220)
 2. [Reuters](http://www.reuters.com/article/2013/10/28/us-somalia-drone-idUSBRE99R0Q320131028)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

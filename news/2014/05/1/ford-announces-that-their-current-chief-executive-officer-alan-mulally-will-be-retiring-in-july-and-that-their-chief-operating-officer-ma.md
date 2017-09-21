@@ -8,6 +8,7 @@ Ford chief executive Alan Mulally is to retire in July, and will be replaced by 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-27238248)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71826000/jpg/_71826959_ford.good.logo.g.jpg)
 
 ### Related:
 

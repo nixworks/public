@@ -8,6 +8,7 @@ Authorities in Niger will attempt to evacuate to a hospital in the capital jaile
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/niger-election-idUSL5N16N00C)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160315&t=2&i=1124883914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2E00Y)
 
 ### Related:
 

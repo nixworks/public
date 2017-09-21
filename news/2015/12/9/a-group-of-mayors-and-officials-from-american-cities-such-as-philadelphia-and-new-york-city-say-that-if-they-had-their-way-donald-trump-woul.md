@@ -8,6 +8,7 @@ While city officials acknowledged that they can&#x27;t legally stop Trump from t
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/politics/2016-election/american-mayors-want-ban-donald-trump-cities-message-hate-n476566)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_50/1331221/151208-trump-0309_6f919c79b7611da6fcff8b3c17f490a0.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

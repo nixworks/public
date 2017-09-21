@@ -8,6 +8,7 @@ Solemn services were held in Belgium, France, Britain, Australia and other count
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/33851558/ns/world_news/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/091111-armistice-vmed-3a.standard.jpg)
 
 ### Related:
 

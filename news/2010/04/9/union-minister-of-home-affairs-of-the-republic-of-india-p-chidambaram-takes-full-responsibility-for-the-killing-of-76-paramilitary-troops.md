@@ -9,6 +9,7 @@ Home Minister Palaniappan Chidambaram offered to resign after Maoist insurgents 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8611166.stm)
 2. [Reuters India](http://in.reuters.com/article/topNews/idINIndia-47563120100409)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100409&t=2&i=89255344&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-04-09T184101Z_01_NOOTR_RTRMDNC_0_India-475631-2)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Five Saudi soldiers have died on the border with Yemen, the Saudi-led coalition 
 1. [AFP via Yahoo!](http://news.yahoo.com/five-saudi-troops-die-yemen-border-coalition-223835915.html)
 2. [AP via Yahoo!](http://news.yahoo.com/5-saudi-soldiers-killed-while-helicopter-crash-kills-081727248.html)
 3. [Reuters](http://in.reuters.com/article/2015/09/14/yemen-security-idINL5N11K2XZ20150914)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/qkxEhBReWwzGDVgYPZVRHw--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/8922389144850f714d81f70bc1fb9ac2ded7a38c.jpg)
 
 ### Related:
 

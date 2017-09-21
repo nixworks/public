@@ -8,6 +8,7 @@ The International Olympic Committee said Monday that it would set up a special p
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/nsw/state-election-2011)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

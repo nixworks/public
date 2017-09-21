@@ -8,6 +8,7 @@ Falling commodity prices are prompting land grabs by mining and forestry compani
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/deadliest-year-ever-for-environmental-activism/a-19339193)
+1. [Cover Image](http://www.dw.com/image/19343481_304.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Four soldiers were killed and one injured in an explosion at a military firing r
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-hungary-blast-idUSKCN0ZH56V)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

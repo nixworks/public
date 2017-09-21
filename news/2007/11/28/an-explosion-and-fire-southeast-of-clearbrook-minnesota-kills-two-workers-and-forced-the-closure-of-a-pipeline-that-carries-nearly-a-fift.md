@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/crude-oil-futures-surge-after-explosion/story.aspx?guid=%7B388CB6C3%2DE833%2D4C6A%2D995C%2D145FCCC4CFF6%7D&dist=TNMostRead)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

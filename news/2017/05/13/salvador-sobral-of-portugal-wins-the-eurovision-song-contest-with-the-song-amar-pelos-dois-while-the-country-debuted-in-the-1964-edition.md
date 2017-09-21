@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/culture/music/eurovision-portugal-s-sweet-number-ends-49-year-losing-run-1.3082548)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.3082547&origw=1440)
 
 ### Related:
 

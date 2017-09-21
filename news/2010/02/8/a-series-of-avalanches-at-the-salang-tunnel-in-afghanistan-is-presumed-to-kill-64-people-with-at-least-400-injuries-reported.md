@@ -9,6 +9,7 @@ The authorities said a sudden storm with heavy wind and rain set off waves of sn
 
 1. [The New York Times](http://www.nytimes.com/2010/02/10/world/asia/10avalanche.html)
 2. [Toronto Sun](http://www.torontosun.com/news/world/2010/02/09/12803311.html)
+2. [Cover Image](https://static01.nyt.com/images/2010/02/10/world/10avalanche_CA0/10avalanche_CA0-thumbStandard.jpg)
 
 ### Related:
 

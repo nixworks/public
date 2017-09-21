@@ -8,6 +8,7 @@ Russia said on Saturday it had sent a fighter plane on Friday to intercept a U.S
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-russia-fighters-idUSKCN0XR07V)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160430&t=2&i=1135205549&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3T04C)
 
 ### Related:
 

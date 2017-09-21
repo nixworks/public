@@ -8,6 +8,7 @@ The Olympic torch visited the fictional London borough of Walford when it appear
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18960862)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61760000/jpg/_61760663_torchpa.jpg)
 
 ### Related:
 

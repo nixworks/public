@@ -8,6 +8,7 @@ Iraqi officials say a car bomb in Baghdad has killed at least 23 people and woun
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2017/03/20/baghdad-bomb-kills-at-least-23-wounds-dozens.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

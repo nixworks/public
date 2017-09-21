@@ -9,6 +9,7 @@ The African Union suspends Ivory Coast, following a disputed presidential electi
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=136791)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11963694)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

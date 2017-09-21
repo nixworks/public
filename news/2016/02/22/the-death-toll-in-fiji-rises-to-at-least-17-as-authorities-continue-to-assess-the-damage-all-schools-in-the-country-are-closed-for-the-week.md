@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2016/02/21/asia/fiji-tropical-cyclone-winston/index.html)
 2. [Weatherzone](http://www.weatherzone.com.au/news/cyclone-winston-death-toll-reaches-10-as-authorities-continue-to-assess-damage/458662)
+2. [Cover Image](http://wz5.resources.weatherzone.com.au/images/logos/wz-512x512.jpg)
 
 ### Related:
 

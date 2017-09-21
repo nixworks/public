@@ -9,6 +9,7 @@ BRASILIA - Brazil&#039;s Supreme Court decided on Thursday to ban corporate dona
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/09/17/brazil-top-court-bans-corporate-campaign-contributions-amid-scandal-involving/)
 2. [Singapore Today Online](http://www.todayonline.com/world/brazils-top-court-bans-corporate-money-election-campaigns)
+2. [Cover Image](http://www.todayonline.com/sites/all/themes/today/FacebookPantalla.png)
 
 ### Related:
 

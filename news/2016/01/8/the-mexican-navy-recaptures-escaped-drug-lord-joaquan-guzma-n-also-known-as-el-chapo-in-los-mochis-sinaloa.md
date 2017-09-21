@@ -8,6 +8,7 @@ The notorious Mexican drug lord Joaquin “El Chapo” Guzman has been arrested 
 ### Source:
 
 1. [RT](https://www.rt.com/news/328304-druglord-chapo-captured-mexico/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/569001f7c36188c86b8b45d8.jpg)
 
 ### Related:
 

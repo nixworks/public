@@ -11,6 +11,7 @@ Sci-fi epic&#039;s international boxoffice reaches $1.288 billion
 2. [HollywoodReporter](http://www.hollywoodreporter.com/hr/content_display/news/e3i84347827022cc7930e4d1b870cb249a4)
 3. [Reuters](http://www.reuters.com/article/idUSN2414728620100124?type=marketsNews)
 4. [Variety](http://www.variety.com/article/VR1118014209.html)
+4. [Cover Image](http://cdn5.thr.com/sites/default/files/2014/12/thr_placeholder-landscapea.jpg)
 
 ### Related:
 

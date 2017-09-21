@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Post](http://dailypost.ng/2017/05/06/36-feared-dead-passenger-buses-collide-lagos-ibadan-expressway/)
+1. [Cover Image](http://cdn1.dailypost.ng/wp-content/uploads/2016/03/truck-accident-in-madison.jpg)
 
 ### Related:
 

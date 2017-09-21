@@ -8,6 +8,7 @@ Hundreds of thousands of Cubans turn out for May Day parades in what was billed 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13256327)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52447000/jpg/_52447400_52447399.jpg)
 
 ### Related:
 

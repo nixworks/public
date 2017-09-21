@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/rugby_union/15714042.stm)
 2. [Bigpond News](http://bigpondnews.com/articles/Sport/2011/11/14/Sth_African_rugby_player_reported_shot_684816.html)
+2. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

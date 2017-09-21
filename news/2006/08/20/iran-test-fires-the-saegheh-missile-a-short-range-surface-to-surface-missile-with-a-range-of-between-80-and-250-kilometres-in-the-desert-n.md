@@ -9,6 +9,7 @@ Iran on Sunday test-fired a surface-to-surface short-range missile a day after i
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/14432175/)
 2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20060820/ap_on_re_mi_ea/iran_war_games)
+2. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060820/nn_Iran_Daniels_060820.standard.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Woman killed, 25 injured in accident in Uttarakhand - The incident took place wh
 ### Source:
 
 1. [DNA](http://www.dnaindia.com/india/report_woman-killed-25-injured-in-accident-in-uttarakhand_1449125)
+1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)

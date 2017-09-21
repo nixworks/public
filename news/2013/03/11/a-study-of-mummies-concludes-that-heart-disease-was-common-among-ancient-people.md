@@ -8,6 +8,7 @@ Long thought to be a modern disease related to contemporary lifestyles, atherosc
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Health/HeartHealth/mummies-heart-disease-study-finds/story?id=18702609)
+1. [Cover Image](http://a.abcnews.com/images/Health/ap_mummy_mi_130311_wmain.jpg)
 
 ### Related:
 

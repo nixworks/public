@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Diplomat](http://thediplomat.com/the-editor/2013/10/30/what-do-north-korea-and-mongolia-have-in-common/)
+1. [Cover Image](http://thediplomat.com/wp-content/uploads/2013/10/19095_5280a23234389-552x350.png)
 
 ### Related:
 

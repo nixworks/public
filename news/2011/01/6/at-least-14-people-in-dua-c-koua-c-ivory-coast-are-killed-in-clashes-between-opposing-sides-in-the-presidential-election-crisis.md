@@ -10,6 +10,7 @@ At least 14 people have been killed in ethnic clashes in the western Ivory Coast
 1. [ABC News](http://www.abc.net.au/news/stories/2011/01/07/3107954.htm)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12129875)
 3. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/06/ivory.coast.crisis/)
+3. [Cover Image](http://www.abc.net.au/news/image/2381178-1x1-700x700.jpg)
 
 ### Related:
 

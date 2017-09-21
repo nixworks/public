@@ -9,6 +9,7 @@ The United States and Britain called on Sunday for an immediate and unconditiona
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-britain-usa-idUSKBN12G0MX)
 2. [The Guardian](https://www.theguardian.com/world/2016/oct/16/britain-and-us-call-for-yemen-ceasefire-within-hours)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161016&t=2&i=1157647486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9F0II)
 
 ### Related:
 

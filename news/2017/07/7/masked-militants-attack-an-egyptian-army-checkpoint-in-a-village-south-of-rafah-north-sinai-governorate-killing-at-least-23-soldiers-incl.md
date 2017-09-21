@@ -8,6 +8,7 @@ Militants rammed military compound with car before opening fire in village of el
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jul/07/egyptian-soldiers-killed-in-attack-on-sinai-checkpoint)
+1. [Cover Image](https://i.guim.co.uk/img/media/efc60959264b9c3b0541601d16358f49e3d5a3e7/348_253_1246_747/master/1246.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=deec101ac983e44d42f8a7ee9fb9bef1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Oscar-winning 1991 thriller The Silence of the Lambs is to be preserved by the U
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-16344420)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57589000/jpg/_57589620_hannibal1.jpg)
 
 ### Related:
 

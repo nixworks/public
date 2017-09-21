@@ -8,6 +8,7 @@ AUSTRIAN environmentalists are trying to stop an AC/DC concert from going ahead 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/environment/conservation/rare-birds-at-risk-in-acdc-lark-20100220-omqb.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/o/l/b/g/image.related.thumbnail.320x214.omqb.png/1266681601000.jpg)
 
 ### Related:
 

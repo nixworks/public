@@ -8,6 +8,7 @@ A suicide bomber blew himself up at a bank close to the heavily protected U.S. e
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN1B90H4)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170829&t=2&i=1199000917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7S0HS)
 
 ### Related:
 

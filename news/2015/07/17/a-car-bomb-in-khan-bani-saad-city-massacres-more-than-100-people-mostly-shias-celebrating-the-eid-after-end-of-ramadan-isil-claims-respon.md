@@ -8,6 +8,7 @@ More than 100 people were killed in a suicide car bombing at a busy market in an
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/07/17/us-mideast-crisis-iraq-blast-idUSKCN0PR21A20150717)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ British Airways reports a profit of £158m, its first in two years, as the compa
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/business-11649792)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

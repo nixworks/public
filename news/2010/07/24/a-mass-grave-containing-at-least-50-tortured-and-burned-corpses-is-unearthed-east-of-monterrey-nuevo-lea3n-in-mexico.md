@@ -8,6 +8,7 @@ At least 50 bodies are recovered from a mass grave in a part of northern Mexico 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10747300)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

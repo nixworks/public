@@ -8,6 +8,7 @@ The prime minister says she is confident of overturning court ruling that parlia
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/politics/2016/nov/06/theresa-may-brexit-response-tie-our-hands-negociations)
+1. [Cover Image](https://i.guim.co.uk/img/media/580c8a6ae2d33aaa8bd809e5f11d2a7410477a53/0_0_2944_1766/master/2944.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=bfcb1800620aba28e8201352f746791a)
 
 ### Related:
 

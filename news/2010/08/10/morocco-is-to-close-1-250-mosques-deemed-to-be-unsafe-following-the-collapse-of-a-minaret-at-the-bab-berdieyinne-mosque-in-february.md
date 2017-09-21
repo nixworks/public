@@ -9,6 +9,7 @@ Morocco will close 1,256 unsafe mosques to avoid a repeat of the collapse of a m
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5joppWXrItd9d9oYAledygWxNNEIQ)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10929683)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [La Nación](http://www.lanacion.com.ar/1664875-en-el-vaticano-el-papa-francisco-tramito-el-pasaporte-y-el-dni-argentino)
+1. [Cover Image](http://bucket.glanacion.com/anexos/fotos/88/1841288.jpg)
 
 ### Related:
 

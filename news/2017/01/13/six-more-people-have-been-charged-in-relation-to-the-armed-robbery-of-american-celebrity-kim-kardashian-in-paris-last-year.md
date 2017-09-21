@@ -8,6 +8,7 @@ Three people are being formally investigated for the armed robbery of Kim Kardas
 ### Source:
 
 1. [9 News](http://www.9news.com.au/world/2017/01/13/05/12/three-investigated-over-kardashian-robbery)
+1. [Cover Image](http://prod.static9.net.au/_/media/2017/01/13/10/53/170113_kardash-(2).ashx)
 
 ### Related:
 

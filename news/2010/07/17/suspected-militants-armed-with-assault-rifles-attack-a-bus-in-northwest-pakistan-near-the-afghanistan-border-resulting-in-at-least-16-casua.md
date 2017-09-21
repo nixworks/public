@@ -8,6 +8,7 @@ Suspected militants armed with assault rifles have killed up to 16 bus passenger
 ### Source:
 
 1. [ABC Australia Online](http://www.abc.net.au/news/stories/2010/07/17/2956676.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

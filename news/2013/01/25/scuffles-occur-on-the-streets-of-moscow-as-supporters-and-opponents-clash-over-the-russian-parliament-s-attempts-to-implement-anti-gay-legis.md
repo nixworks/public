@@ -10,6 +10,7 @@ The Russian parliament backs a ban on the promotion of homosexuality among child
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/russian-police-detain-20-gay-rally-18312425)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21194710)
 3. [Reuters](http://www.reuters.com/article/2013/01/25/us-russia-gay-idUSBRE90O0GA20130125)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65503000/jpg/_65503590_65503589.jpg)
 
 ### Related:
 

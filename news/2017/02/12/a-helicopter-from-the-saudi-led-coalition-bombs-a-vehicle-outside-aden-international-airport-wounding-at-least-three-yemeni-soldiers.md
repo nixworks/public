@@ -8,6 +8,7 @@ An Apache helicopter from a Saudi-led military coalition wounded three Yemeni so
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKBN15R0SQ)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

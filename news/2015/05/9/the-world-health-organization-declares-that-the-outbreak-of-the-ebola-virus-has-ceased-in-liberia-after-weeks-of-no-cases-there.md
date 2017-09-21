@@ -8,6 +8,7 @@ The World Health Organization (WHO) declares Liberia free of the Ebola virus, as
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-32671520#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82879000/jpg/_82879227_82879223.jpg)
 
 ### Related:
 

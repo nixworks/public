@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6BQ2Y920101227)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101227&t=2&i=288163926&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-27T193830Z_01_BTRE6BQ1IK800_RTROPTP_0_STANFORD)
 
 ### Related:
 

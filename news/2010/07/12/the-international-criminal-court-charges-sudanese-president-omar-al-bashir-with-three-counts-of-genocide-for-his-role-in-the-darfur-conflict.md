@@ -12,6 +12,7 @@ The International Criminal Court (ICC) yesterday charged Sudanese President Omar
 3. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10603559.stm)
 4. [Japan Today](http://www.japantoday.com/category/world/view/international-criminal-court-charges-sudan-president-with-genocide)
 5. [The Independent](http://www.independent.co.uk/news/world/politics/darfur-genocide-charges--for-sudans-president-2025101.html)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

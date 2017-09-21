@@ -9,6 +9,7 @@ Clashes reported across the country, as security forces and government supporter
 
 1. [AFP via France 24](http://www.france24.com/en/20110216-14-injured-libya-clashes)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/20112167051422444.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/16/201121685813647621_20.jpg)
 
 ### Related:
 

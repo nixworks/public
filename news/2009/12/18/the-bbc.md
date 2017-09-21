@@ -11,6 +11,7 @@ The BBC has apologised after complaints about an online debate which asked: &quo
 2. [The Daily Telegraph](http://blogs.telegraph.co.uk/culture/michaelwhite/100005629/how-dare-the-bbc-run-a-debate-on-whether-murdering-homosexuals-is-acceptable/)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10616187)
 4. [apologises](http://www.bbc.co.uk/blogs/theeditors/2009/12/africa_debate.html)
+4. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

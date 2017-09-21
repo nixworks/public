@@ -8,6 +8,7 @@ U.S. Secretary of State Condoleezza Rice and Defense Secretary Robert Gates head
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN3043506420070730?feedType=RSS)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070730&t=2&i=1217036&w=&fh=545px&fw=&ll=&pl=&sq=&r=1217036)
 
 ### Related:
 

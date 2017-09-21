@@ -8,6 +8,7 @@ German car makers BMW, Audi and Daimler have teamed up to buy digital mapping se
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/nokia-selling-mapping-german-car-makers-2-8-071616683.html;_ylt=AwrSbg9YIL9VkQ0Av8RXNyoA;_ylu=X3oDMTByNWU4cGh1BGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzYw--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/QB8dhjEthjxGCQ2Ldz0Zuw--/aD02NDE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/b228c1761bb6ac0601d60f9cb33b8523b6d720fe.jpg)
 
 ### Related:
 

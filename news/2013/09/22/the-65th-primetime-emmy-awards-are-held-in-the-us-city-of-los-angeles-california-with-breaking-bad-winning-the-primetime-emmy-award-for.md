@@ -8,6 +8,7 @@ Jeff Daniels and Claire Danes win dramatic acting awards, Julia Louis-Dreyfus an
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/8301-35220_162-57604078/emmy-awards-2013-jeff-daniels-julia-louis-dreyfus-win-awards/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/09/22/64b21b7d-3598-11e3-8ce8-047d7b15b92e/181625306.jpg)
 
 ### Related:
 

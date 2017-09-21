@@ -8,6 +8,7 @@ Before heading to lunch or going out for drinks, find an ashtray and stub out th
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Local-News/2012/Sep-03/186518-smoking-ban-goes-into-effect-in-lebanon.ashx#axzz25Q2W7x5t)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/09/03/66816_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

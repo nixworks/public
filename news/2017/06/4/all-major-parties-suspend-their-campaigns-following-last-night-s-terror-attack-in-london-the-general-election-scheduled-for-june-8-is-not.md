@@ -8,6 +8,7 @@ Britain&#039;s political parties have suspended national general election campai
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/london-bridge-borough-market-attack-general-election-campaign-suspended-conservatives-labour-latest-a7771711.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/04/07/london-bridge.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Four people are killed and 30 wounded in a wave of grenade attacks overnight in 
 
 1. [AFP via Twitter](https://twitter.com/AFP/status/612891773128544256)
 2. [BBC](http://www.bbc.com/news/world-africa-33223688)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13310/production/_83780687_83780686.jpg)
 
 ### Related:
 

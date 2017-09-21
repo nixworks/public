@@ -8,6 +8,7 @@ Unexploded bomb belt found by police investigating twin attacks claimed by al-Sh
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071362446995742.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The most important discovery at Stonehenge for a generation could be destroyed b
 1. [Huffington Post](http://www.huffingtonpost.com/2014/12/19/stonehenge-discovery-encampment_n_6355444.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/earth/environment/archaeology/11303127/Stonehenge-discovery-could-rewrite-British-pre-history.html)
 3. [University of Buckingham](http://www.buckingham.ac.uk/latest-news/6000-year-old-encampment-found-in-dig-by-university-of-buckingham/)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03143/stonehenge-1_3143255k.jpg)
 
 ### Related:
 

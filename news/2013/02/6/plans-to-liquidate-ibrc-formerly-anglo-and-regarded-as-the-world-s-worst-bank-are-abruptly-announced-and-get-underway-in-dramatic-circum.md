@@ -14,6 +14,7 @@ The Dáil is debating emergency legislation to wind up the Irish Bank Resolution
 5. [RTÉ News](http://www.rte.ie/news/2013/0206/366521-ecb-promissory-note-anglo/)
 6. [The Guardian](http://www.guardian.co.uk/business/2013/feb/06/anglo-irish-on-brink-liquidation)
 7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0206/breaking55.html)
+7. [Cover Image](https://img.rasset.ie/0006663c-1600.jpg)
 
 ### Related:
 

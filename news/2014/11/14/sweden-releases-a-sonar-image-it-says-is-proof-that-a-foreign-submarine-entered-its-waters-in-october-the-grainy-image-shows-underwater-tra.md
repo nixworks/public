@@ -8,6 +8,7 @@ Sweden releases a sonar image it says is proof that a foreign submarine entered 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30056037)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/78998000/jpg/_78998219_78987474.jpg)
 
 ### Related:
 

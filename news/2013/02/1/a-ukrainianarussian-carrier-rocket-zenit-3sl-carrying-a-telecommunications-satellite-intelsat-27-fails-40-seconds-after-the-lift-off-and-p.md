@@ -10,6 +10,7 @@ A Ukrainian-Russian Zenit rocket carrying a US-made telecommunications satellite
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21289734)
 2. [RIA Novosti](http://en.ria.ru/science/20130201/179166542.html)
 3. [Space.com](http://www.space.com/19596-sea-launch-rocket-orbit-failure.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65642000/jpg/_65642724_65642723.jpg)
 
 ### Related:
 

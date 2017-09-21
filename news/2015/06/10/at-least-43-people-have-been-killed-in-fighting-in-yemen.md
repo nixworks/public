@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/10/us-yemen-security-fighting-idUSKBN0OQ1OI20150610)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20150610&t=2&i=1055240360&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB590OH)
 
 ### Related:
 

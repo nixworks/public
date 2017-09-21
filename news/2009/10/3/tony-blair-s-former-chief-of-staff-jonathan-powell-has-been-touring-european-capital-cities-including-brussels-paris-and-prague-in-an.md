@@ -10,6 +10,7 @@
 1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10601055)
 2. [The Times](http://www.timesonline.co.uk/tol/news/politics/article6859431.ece)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6859525.ece#)
+3. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

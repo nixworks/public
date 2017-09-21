@@ -25,7 +25,7 @@ _Context: Alliance Party, Democratic Unionist Party, Ian Paisley, MLAs, Northern
 _Context: Iraq, Shiite_
 
 ### [ President George W. Bush makes a surprise visit to Baghdad to visit the American troops on Thanksgiving Day. The visit is not announced publicly until after Bush has left.](/news/2003/11/27/president-george-w-bush-makes-a-surprise-visit-to-baghdad-to-visit-the-american-troops-on-thanksgiving-day-the-visit-is-not-announced-pub.md)
-_Context: Baghdad, George W. Bush, President, Thanksgiving Day_
+_Context: Baghdad, George W. Bush, Thanksgiving Day, U.S. President_
 
 ### [ Larry Spencer of the Canadian Alliance party makes public statements stating his desire to recriminalize homosexual behaviour in Canada to combat what he claimed was a conspiracy by the homosexual community to infiltrate social institutions to recruit children into the "homosexual lifestyle". He was quickly denounced by numerous public figures including his own party leader, Stephen Harper, who also made him resign his position as Family Issue Critic in the Canadian House of Commons with an apology. However, commentators have noted that these inflammatory homophobic statements have placed the pending vote on the proposed merger with the Progressive Conservative Party on December 6 in jeopardy by illustrating fundamental differences between the parties concerning social attitudes.](/news/2003/11/27/larry-spencer-of-the-canadian-alliance-party-makes-public-statements-stating-his-desire-to-recriminalize-homosexual-behaviour-in-canada-to.md)
 _Context: Canadian Alliance, Canadian House of Commons, Progressive Conservative Party of Canada, Stephen Harper, gay_

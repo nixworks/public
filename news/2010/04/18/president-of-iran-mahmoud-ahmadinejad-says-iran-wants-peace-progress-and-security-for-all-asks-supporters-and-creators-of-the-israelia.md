@@ -13,6 +13,7 @@ Ahmadinejad says US troops in the region and Afghanistan are stoking more insecu
 4. [The Guardian](http://www.guardian.co.uk/world/2010/apr/18/robert-gates-iran-nuclear-threat)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7101161.ece#cid=OTC-RSS&attr=797093)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/18/c_13256792.htm)
+6. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

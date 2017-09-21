@@ -9,6 +9,7 @@ Japan says China has shipped drilling equipment to a disputed gas field in the E
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h2UZ4xkSN1JFrpaMos6g25i93j8Q)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11340220)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49077000/jpg/_49077194_010133798-1.jpg)
 
 ### Related:
 

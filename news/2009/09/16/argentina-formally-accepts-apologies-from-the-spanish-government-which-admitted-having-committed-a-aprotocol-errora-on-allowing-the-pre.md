@@ -8,6 +8,7 @@ Argentina formally accepted Wednesday apologies from the Spanish government whic
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/16/spanish-apology-to-argentina-for-protocol-error-involving-falklands-delegat)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21936/200x200/7b4fde238983ce0cc4ac5669a7098e1c.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [Deepika](http://www.deepikaglobal.com/latestnews.asp?ncode=27300)
 3. [Hindu](http://www.hindu.com/thehindu/holnus/000200504181401.htm)
 4. [IHT](http://www.iht.com/articles/2005/04/18/asia/web.0418india.html)
+4. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

@@ -9,6 +9,7 @@ A suicide car bomb kills 13 off-duty soldiers in central Turkey and wounds 56 ot
 
 1. [BBC](http://www.bbc.com/news/world-europe-38350662)
 2. [The Guardian](https://www.theguardian.com/world/2016/dec/17/turkey-car-bomb-kills-soldiers-on-public-bus)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/12B88/production/_93008667_mediaitem93008666.jpg)
 
 ### Related:
 

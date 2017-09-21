@@ -8,6 +8,7 @@ Malaysia has strengthened its controversial sedition law, imposing a minimum jai
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/10/us-malaysia-lawmaking-sedition-idUSKBN0N10AD20150410)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Two car bombs have exploded outside a hotel in the Somali capital Mogadishu, wit
 
 1. [Reuters](http://www.reuters.com/article/2014/01/01/us-somalia-blast-idUSBREA000E020140101)
 2. [Standard Media](http://www.standardmedia.co.ke/?articleID=2000101308&story_title=Kenya-twin-bombs-hit-hotel-in-somalia-capital-mogadishu)
+2. [Cover Image](http://www.standardmedia.co.ke/images/wednesday/bomb-thumb.jpg)
 
 ### Related:
 

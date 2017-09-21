@@ -9,6 +9,7 @@ Machete-wielding assailants hacked to death a village doctor and wounded a unive
 
 1. [CNN](http://edition.cnn.com/2016/05/21/asia/bangladesh-doctor-hacking-death/)
 2. [Reuters](http://in.reuters.com/article/bangladesh-attacks-idINKCN0YB0O6)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

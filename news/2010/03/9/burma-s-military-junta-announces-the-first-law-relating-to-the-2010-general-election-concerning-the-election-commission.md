@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010394417778884.html)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/170876/burma-junta-to-appoint-electoral-body)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7054903.ece)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

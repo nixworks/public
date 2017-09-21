@@ -8,6 +8,7 @@ A KEY suspect in the 2002 Bali bombings has arrived in the Indonesian capital af
 ### Source:
 
 1. [AP via News Limited](http://www.news.com.au/breaking-news/bali-bombing-suspect-umar-patek-arrives-in-jakarta/story-e6frfku0-1226112942744)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

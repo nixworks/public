@@ -8,6 +8,7 @@ The Reform Party, a right of center, market-liberal force that has played a domi
 ### Source:
 
 1. [Estonian Public Broadcasting](http://news.err.ee/v/main_news/4249bcba-7176-4b74-af11-9e4812c78368)
+1. [Cover Image](http://s.err.ee/photo/crop/2014/12/15/85233h48eft24.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The man swam with foam attached to his shoulders to help him stay afloat, offici
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-40318246)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/44F5/production/_96535671_476e9ebd-b664-4840-a260-05a00ecda035.jpg)
 
 ### Related:
 

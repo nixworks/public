@@ -9,6 +9,7 @@ A truck bomb in Iraq kills 77 people, most of them foreign Shia pilgrims, police
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38090006)
 2. [RTE](http://www.rte.ie/news/2016/1124/834171-iraq-bomb/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/12920/production/_92646067_mediaitem92646066.jpg)
 
 ### Related:
 

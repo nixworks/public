@@ -8,6 +8,7 @@ The Spanish government warned on Friday that it would take unspecified retaliato
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/04/14/business/global/spain-warns-argentina-about-ypf-takeover.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/04/14/business/YPF/YPF-superJumbo.jpg)
 
 ### Related:
 
@@ -19,5 +20,5 @@ The Spanish government warned on Friday that it would take unspecified retaliato
 6. [ An Argentinian judge issues an arrest warrant for former president Isabel Martinez de Peron, implicated in the disappearance of a human-rights activist in 1976. Peron has been living in Spain since 1981. ](/news/2007/01/12/an-argentinian-judge-issues-an-arrest-warrant-for-former-president-isabel-martanez-de-pera3n-implicated-in-the-disappearance-of-a-human-r.md) _Context: Argentina, Spanish_
 7. [ A high court in Spain sentences Adolfo Scilingo, former Argentinian navy captain, for 640 years in prison for crimes against humanity during the Dirty War. ](/news/2005/04/19/a-high-court-in-spain-sentences-adolfo-scilingo-former-argentinian-navy-captain-for-640-years-in-prison-for-crimes-against-humanity-durin.md) _Context: Argentina, Spanish_
 8. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: Spanish_
-9. [More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. ](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-with-catalan-president-carles-puigdemont-to-confirm-their-support-for-the-october-1-independe.md) _Context: Spanish_
-10. [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md) _Context: Spanish_
+9. [Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." ](/news/2017/09/20/spanish-police-raid-catalan-government-offices-and-arrest-catalan-officials-as-part-of-the-effort-to-halt-a-banned-referendum-on-independenc.md) _Context: Spanish_
+10. [Spain's Guardia Civil raid private delivery offices in the Catalan city of Terrassa, searching for and confiscating envelopes suspected of containing voting cards for the upcoming Catalan independence referendum. ](/news/2017/09/19/spain-s-guardia-civil-raid-private-delivery-offices-in-the-catalan-city-of-terrassa-searching-for-and-confiscating-envelopes-suspected-of-c.md) _Context: Spanish_

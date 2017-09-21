@@ -10,6 +10,7 @@ Fine Gael leader Enda Kenny has told the president of the European Commission Jo
 1. [Irish Independent](http://www.independent.ie/national-news/kenny-urges-eu-to-cut-interest-rate-on-bailout-2514708.html)
 2. [RTÉ](http://www.rte.ie/news/2011/0128/economy.html)
 3. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110128-712248.html)
+3. [Cover Image](https://img.rasset.ie/00042b8e-1600.jpg)
 
 ### Related:
 

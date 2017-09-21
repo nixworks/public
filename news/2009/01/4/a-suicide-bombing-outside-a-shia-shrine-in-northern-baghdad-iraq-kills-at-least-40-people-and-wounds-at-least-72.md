@@ -8,6 +8,7 @@ At least 40 people were killed and 72 were wounded Sunday in a suicide bombing i
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/01/05/world/middleeast/05iraq.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/01/05/world/05iraq01-75.jpg)
 
 ### Related:
 

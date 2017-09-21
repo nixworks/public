@@ -8,6 +8,7 @@ Giant gas deal with Iran still on; sanctions target Iranian energy, nuclear prol
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=205237)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=145275)
 
 ### Related:
 

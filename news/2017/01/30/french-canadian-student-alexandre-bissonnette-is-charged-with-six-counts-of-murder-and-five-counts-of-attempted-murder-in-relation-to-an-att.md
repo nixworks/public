@@ -8,6 +8,7 @@ A 27-year-old student allegedly known for his right-wing, nationalist views appe
 ### Source:
 
 1. [Reuters/AP via ABC News Australia](http://www.abc.net.au/news/2017-01-31/quebec-city-mosque-shooting-lone-wolf-attack-student-charged/8225294)
+1. [Cover Image](http://www.abc.net.au/news/image/8226096-1x1-700x700.jpg)
 
 ### Related:
 

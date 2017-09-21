@@ -8,6 +8,7 @@ Ex-IMF chief Dominique Strauss-Kahn tells French TV his liaison with a New York 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14963176)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55444000/jpg/_55444091_55444090.jpg)
 
 ### Related:
 

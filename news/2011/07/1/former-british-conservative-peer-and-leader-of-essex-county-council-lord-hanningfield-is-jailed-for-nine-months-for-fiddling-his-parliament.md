@@ -8,6 +8,7 @@ Lord Hanningfield, the former Tory peer and Essex Council leader, is jailed for 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13989329)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53001000/jpg/_53001211_hanningfield464in_pa.jpg)
 
 ### Related:
 

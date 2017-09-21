@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2015/12/28/us/tamir-rice-shooting/)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/04/25/475583746/cleveland-to-pay-6-million-to-settle-tamir-rice-lawsuit)
+2. [Cover Image](https://media.npr.org/assets/img/2016/04/25/ap_47886433410_wide-319b15ac711023e9d8c19ee30c58bcc7661b14e6.jpg?s=1400)
 
 ### Related:
 

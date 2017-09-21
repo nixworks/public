@@ -10,6 +10,7 @@ Venezuela hands over Colombian Carlos Alberto Renteria to US authorities who acc
 1. [BBC](http://www.bbc.co.uk/news/10627865)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE66B5UC20100712)
 3. [The China Post](http://www.chinapost.com.tw/international/americas/2010/07/15/264720/Colombian-drug.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

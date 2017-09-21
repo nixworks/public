@@ -8,6 +8,7 @@ All the moves, the sackings, the promotions, rumours and analysis as Prime Minis
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-19473663)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

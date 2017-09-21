@@ -11,6 +11,7 @@ The national party had accused the Sanders campaign of improperly accessing Clin
 2. [CNN](http://www.cnn.com/2015/12/18/politics/bernie-sanders-campaign-dnc-suspension/)
 3. [The Washington Post](https://www.washingtonpost.com/politics/sanders-threatens-to-sue-dnc-if-access-to-voter-list-isnt-restored/2015/12/18/fa8d6df8-a5a2-11e5-ad3f-991ce3374e23_story.html)
 4. [UPI](http://www.upi.com/Top_News/US/2015/12/18/Bernie-Sanders-campaign-threatens-to-sue-DNC/5791450462344/?spt=hs&or=tn_us)
+4. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/5791450462344/2015/1/14504634863394/v2.1/Bernie-Sanders-files-lawsuit-against-DNC.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 ### Source:
 
 1. [Newsday](http://www.newsday.com/news/nationworld/world/ny-woiraq0717,0,5351222.story?track=rss)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

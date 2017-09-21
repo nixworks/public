@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](https://www.cbsnews.com/news/f16-crash-accident-arizona-safford-air-national-guard-162nd-wing/)
+1. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/09/05/4dc32b49-c187-4f27-9cb1-fc933fb71f37/170905-arizona-national-guard-f16.jpg)
 
 ### Related:
 

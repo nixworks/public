@@ -9,6 +9,7 @@ The Government is to seek EU approval to inject up to &euro;4 billion of capital
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0529/breaking30.htm)
 2. [RTÉ](http://www.rte.ie/news/2009/0529/angloirish.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

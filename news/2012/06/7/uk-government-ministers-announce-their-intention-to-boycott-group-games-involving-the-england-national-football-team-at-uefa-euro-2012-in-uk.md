@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18351326)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/jun/07/euro-2012-boycott-ukraine-uk-government)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60770000/jpg/_60770386_014950419-1.jpg)
 
 ### Related:
 

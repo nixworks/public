@@ -8,6 +8,7 @@ Hong Kong’s legislature rejected a Beijing-backed election-reform plan, dealin
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/hong-kong-lawmakers-vote-down-beijing-backed-election-plan-1434603412)
+1. [Cover Image](https://si.wsj.net/public/resources/images/WO-AW889_HKVOTE_G_20150618220836.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Missiles target compound in South Waziristan allegedly being used by warlord Haf
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/201262781137205144.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/10/28/2011102823351740734_20.jpg)
 
 ### Related:
 

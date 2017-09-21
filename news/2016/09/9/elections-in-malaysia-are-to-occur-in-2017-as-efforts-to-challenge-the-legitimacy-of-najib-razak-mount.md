@@ -8,6 +8,7 @@ There’s the whisper of an early election in the air in Malaysia.
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-09-08/murmurs-of-early-malaysia-election-as-najib-rallies-his-party)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic88MZ5nPk.k/v0/1200x800.jpg)
 
 ### Related:
 

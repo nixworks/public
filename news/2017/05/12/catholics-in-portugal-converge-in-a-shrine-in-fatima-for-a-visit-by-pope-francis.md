@@ -8,6 +8,7 @@ Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39885741)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B2F3/production/_96011854_fatimathreeafp.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Twenty-five people have been killed by an electrical fire at a wedding in the Ab
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20150915)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63823000/jpg/_63823044_63823043.jpg)
 
 ### Related:
 

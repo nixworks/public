@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/uk-33109755)
 2. [CNN](http://edition.cnn.com/2015/06/13/europe/uk-royal-queen-birthday/index.html?eref=edition)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/83605000/jpg/_83605884_spacey_van_epa_pa.jpg)
 
 ### Related:
 

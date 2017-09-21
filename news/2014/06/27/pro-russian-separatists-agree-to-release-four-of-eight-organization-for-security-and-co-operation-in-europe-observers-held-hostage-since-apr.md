@@ -8,6 +8,7 @@ Rebels in southeast Ukraine early on Friday released four out of eight internati
 ### Source:
 
 1. [Reuters via Yahoo! News](http://news.yahoo.com/ukrainian-rebels-free-four-osce-hostages-four-still-001442604.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/eGpv8hFgv35cudakAjQzUA--/aD0xOTc2O3c9Mjc1NjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/0ccb01b6f1ca3718580f6a706700b1a2.jpg)
 
 ### Related:
 

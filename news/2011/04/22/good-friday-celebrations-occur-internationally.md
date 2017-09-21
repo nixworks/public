@@ -11,6 +11,7 @@ Christian pilgrims crowd the cobblestone alleyways of Jerusalem&#039;s Old City 
 2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/4/23/nation/8542518&sec=nation)
 3. [The Sydney Morning Herald](http://www.smh.com.au/world/pilgrims-walk-way-of-suffering-20110422-1drda.html)
 4. [The Times of India](http://timesofindia.indiatimes.com/city/lucknow/Solemn-prayers-mark-Good-Friday-in-city/articleshow/8061595.cms)
+4. [Cover Image](http://www.smh.com.au/content/dam/images/1/d/r/f/u/image.related.articleLeadwide.620x349.1drda.png/1303481259647.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/19/us-whatsapp-facebook-idUSBREA1I26B20140219)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140219&t=2&i=842950776&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1I1PKC00)
 
 ### Related:
 

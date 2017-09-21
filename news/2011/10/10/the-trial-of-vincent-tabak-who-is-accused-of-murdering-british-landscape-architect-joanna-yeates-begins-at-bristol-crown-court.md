@@ -8,6 +8,7 @@ The man accused of murdering landscape architect Jo Yeates drove to Asda with he
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-15240284)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/55944000/jpg/_55944356_55944353.jpg)
 
 ### Related:
 

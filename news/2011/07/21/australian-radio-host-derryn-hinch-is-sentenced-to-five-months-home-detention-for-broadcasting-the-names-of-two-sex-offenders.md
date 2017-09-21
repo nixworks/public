@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/national/derryn-hinch-to-be-sentenced-for-contempt-of-court-today/story-e6frfkvr-1226098924136)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

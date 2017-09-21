@@ -9,6 +9,7 @@ The Guilderland police chief says they are still looking for one suspect at this
 
 1. [The Washington Post](https://www.washingtonpost.com/national/authorities-reports-of-shots-fired-at-new-york-mall/2016/11/12/89425dc4-a91c-11e6-ba46-53db57f0e351_story.html)
 2. [WTEN-TV](http://news10.com/2016/11/12/breaking-active-shooters-in-crossgates-mall/)
+2. [Cover Image](https://mgtvwten.files.wordpress.com/2016/11/cxfp4touoaexuvj.jpg)
 
 ### Related:
 

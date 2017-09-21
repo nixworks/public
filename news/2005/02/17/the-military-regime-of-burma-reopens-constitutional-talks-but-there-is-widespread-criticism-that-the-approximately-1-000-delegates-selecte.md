@@ -12,6 +12,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [DVB](http://english.dvb.no/news.php?id=4076)
 4. [Mizzima News](http://www.mizzima.com/archives/news-in-2005/news-in-feb/16-February%2005-16.htm)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7655502&type=worldNews)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

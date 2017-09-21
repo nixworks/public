@@ -8,6 +8,7 @@ All UAE males aged 18-30 will serve country’s armed forces for between 9 month
 ### Source:
 
 1. [ArabianBusiness.com](http://www.arabianbusiness.com/uae-announces-compulsory-military-service-for-males-535193.html)
+1. [Cover Image](http://www.arabianbusiness.com/incoming/article489960.ece/BINARY/161841629.jpg)
 
 ### Related:
 

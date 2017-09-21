@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/11/02/us-australia-britain-idUSKCN0SR04K20151102)
 2. [Time](http://time.com/4096027/malcolm-turnbull-australia-honors/)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151102&t=2&i=1091552009&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA101K)
 
 ### Related:
 

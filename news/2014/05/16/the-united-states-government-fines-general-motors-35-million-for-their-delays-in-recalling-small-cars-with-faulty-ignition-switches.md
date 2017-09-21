@@ -8,6 +8,7 @@ The US government fines General Motors $35m(£20.8m) for delays in recalling sma
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-27442448)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74915000/jpg/_74915345_97376870.jpg)
 
 ### Related:
 

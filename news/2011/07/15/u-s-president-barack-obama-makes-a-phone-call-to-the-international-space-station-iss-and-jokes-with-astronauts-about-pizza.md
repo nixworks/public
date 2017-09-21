@@ -8,6 +8,7 @@ US President Barack Obama makes a telephone call to the International Space Stat
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-14170124)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54095000/jpg/_54095338_54095337.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The search for the eight missing crew of the cargo ship Cemfjord in the Pentland
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-30670842)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/80046000/gif/_80046615_abc.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ South Africa declares a state of national disaster, after the deaths of 41 peopl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12199879)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

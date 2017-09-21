@@ -8,6 +8,7 @@ Police in Bangladesh say more than 50 people across the country have died after 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36292868)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E9AB/production/_89691895_89691553.jpg)
 
 ### Related:
 

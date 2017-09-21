@@ -9,6 +9,7 @@ The JTF said it lost one of its officials in the attack in Northern Nigeria
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21299327)
 2. [Premium Times](http://premiumtimesng.com/news/118236-18-killed-as-jtf-bombs-boko-haram-training-camp-in-maiduguri.html)
+2. [Cover Image](http://media.premiumtimesng.com/wp-content/files/banners/JTF_Boko_Haram_221153985.jpg)
 
 ### Related:
 

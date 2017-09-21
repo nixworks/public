@@ -9,6 +9,7 @@ An Iranian court has sentenced Washington Post reporter Jason Rezaian to a priso
 
 1. [Reuters](http://www.reuters.com/article/2015/11/22/us-iran-usa-trial-idUSKBN0TB0GG20151122#EpFzyEyvqyzlZVcd.97)
 2. [Washington Post](https://www.washingtonpost.com/world/post-correspondent-jason-rezaian-sentenced-to-prison-term-in-iran/2015/11/22/bfb5c112-912f-11e5-befa-99ceebcbb272_story.html)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151122&t=2&i=1096878872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAL0A2)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President Obama will designate three new national monuments on Friday. As part o
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/theoval/2015/07/10/obama-monuments-berryessa-snow-mountain-waco-mammoth-basin-and-range-in-nevada/29951389/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

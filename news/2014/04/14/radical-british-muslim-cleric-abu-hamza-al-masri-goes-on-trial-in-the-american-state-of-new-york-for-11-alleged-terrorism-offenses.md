@@ -8,6 +8,7 @@ The trial of Abu Hamza al-Masri, the radical cleric extradited from the UK to th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27015350#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63393000/jpg/_63393312_63393311.jpg)
 
 ### Related:
 

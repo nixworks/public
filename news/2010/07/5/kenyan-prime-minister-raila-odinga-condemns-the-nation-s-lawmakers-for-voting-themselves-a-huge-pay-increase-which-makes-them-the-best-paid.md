@@ -8,6 +8,7 @@ Kenya Prime Minister Raila Odinga criticises MPs for voting themselves a huge pa
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10505801.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

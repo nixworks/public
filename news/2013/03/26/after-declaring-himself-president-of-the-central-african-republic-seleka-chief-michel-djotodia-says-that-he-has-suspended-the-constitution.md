@@ -8,6 +8,7 @@ The rebel leader whose fighters seized the capital of the Central African Republ
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21934433)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66605000/jpg/_66605204_017595025.jpg)
 
 ### Related:
 

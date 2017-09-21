@@ -8,3 +8,4 @@ Chancellor Angela Merkel warned Germans Monday not to be duped by far-right rhet
 ### Source:
 
 1. [The Telegram](http://www.thetelegram.com/News/Canada---World/2014-12-15/article-3977468/Anti-Islam-protests-grow-in-Germany/1)
+1. [Cover Image](http://www.thetelegram.com/content/dam/tc/the-telegram/images/2014/12/15/dresden-2776908.jpg)

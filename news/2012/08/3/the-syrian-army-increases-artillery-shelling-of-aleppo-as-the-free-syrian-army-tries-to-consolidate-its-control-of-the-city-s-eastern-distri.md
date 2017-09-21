@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128353645664375.html)
 2. [CNN](http://edition.cnn.com/2012/08/03/world/meast/syria-unrest/index.html)
 3. [CNN](http://www.cnn.com/2012/08/03/world/meast/syria-unrest/index.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/3/201283104157413734_20.jpg)
 
 ### Related:
 

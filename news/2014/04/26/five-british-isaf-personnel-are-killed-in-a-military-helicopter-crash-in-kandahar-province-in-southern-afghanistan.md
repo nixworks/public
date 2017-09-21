@@ -8,6 +8,7 @@ A UK helicopter has crashed in southern Afghanistan, killing all five British pe
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27170955)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74468000/jpg/_74468407_lynx_modpa.jpg)
 
 ### Related:
 

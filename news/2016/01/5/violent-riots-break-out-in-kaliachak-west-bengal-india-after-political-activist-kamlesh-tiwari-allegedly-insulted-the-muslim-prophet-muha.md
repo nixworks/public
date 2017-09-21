@@ -8,6 +8,7 @@ Infuriated by rumour that BSF personnel opened fire, a mob torched the Kaliachak
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/kolkata/Cops-hurt-in-mob-violence-at-Kaliachak/articleshow/50432238.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

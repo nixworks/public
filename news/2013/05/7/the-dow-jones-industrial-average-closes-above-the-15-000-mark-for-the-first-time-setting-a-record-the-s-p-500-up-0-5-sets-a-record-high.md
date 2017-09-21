@@ -8,6 +8,7 @@ The Dow Jones industrial average has spent the day jumping over the 15,000 mark 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/money/markets/2013/05/07/stocks-tuesday-5-7/2140393/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Sweden&#039;s Queen Silvia is investigating her late father&#039;s activities in
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/sweden/8517052/Swedish-queen-to-probe-fathers-alleged-Nazi-ties.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01897/queen_1897211a.jpg)
 
 ### Related:
 

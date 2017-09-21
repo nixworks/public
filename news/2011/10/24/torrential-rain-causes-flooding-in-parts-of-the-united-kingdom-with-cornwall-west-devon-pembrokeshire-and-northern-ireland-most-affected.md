@@ -8,6 +8,7 @@ Parts of south-west England, Northern Ireland and Wales begin to clear up after 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15429159)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/56248000/jpg/_56248067_ulsterweather-flooding006.jpg)
 
 ### Related:
 

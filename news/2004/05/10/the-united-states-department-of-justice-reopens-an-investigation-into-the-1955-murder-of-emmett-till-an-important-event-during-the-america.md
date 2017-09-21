@@ -8,6 +8,7 @@ The death of the black boy, who was lynched in Mississippi for supposedly whistl
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/05/10/national/10CND-TILL.html?ex=1084852800&en=94feeb3c6f280f5b&ei=5062&partner=GOOGLE)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

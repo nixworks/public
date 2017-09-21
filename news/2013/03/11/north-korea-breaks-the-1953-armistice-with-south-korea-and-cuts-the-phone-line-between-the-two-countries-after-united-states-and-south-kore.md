@@ -8,6 +8,7 @@ The US and South Korea begin annual military exercises amid high tensions with N
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21737859)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66311000/jpg/_66311226_017450911-1.jpg)
 
 ### Related:
 

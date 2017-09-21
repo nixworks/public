@@ -8,6 +8,7 @@ He was expected to play a critical role in helping shape the administration&rsqu
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2017/05/19/jim-donovan-trump-deputy-treasury-secretary-238611)
+1. [Cover Image](http://static.politico.com/54/47/0e7e0b7a4d6b961f4b9f5cc85229/politico.jpg)
 
 ### Related:
 

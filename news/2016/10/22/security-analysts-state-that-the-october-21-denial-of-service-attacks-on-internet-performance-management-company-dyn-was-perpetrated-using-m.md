@@ -9,6 +9,7 @@ Hackers used &quot;smart&quot; home devices connected to the internet as weapons
 
 1. [UPI](http://www.upi.com/Business_News/2016/10/22/Hackers-used-smart-home-devices-to-carry-out-Dyn-cyberattack/2061477141377/)
 2. [USA Today](http://www.usatoday.com/story/tech/news/2016/10/22/household-smart-devices-hijacked-massive-internet-attack/92583398/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/2061477141377/2016/1/517d1a1cbd4a11cdb4ce868aa8cdd0da/v1.5/Hackers-used-smart-home-devices-to-carry-out-Dyn-cyberattack.jpg)
 
 ### Related:
 

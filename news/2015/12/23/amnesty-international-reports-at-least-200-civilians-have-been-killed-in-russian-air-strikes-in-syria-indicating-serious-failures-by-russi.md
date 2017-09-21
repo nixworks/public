@@ -8,6 +8,7 @@ Amnesty International says at least 200 civilians died in the first two months o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35162523)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FDDE/production/_87309946_87309943.jpg)
 
 ### Related:
 

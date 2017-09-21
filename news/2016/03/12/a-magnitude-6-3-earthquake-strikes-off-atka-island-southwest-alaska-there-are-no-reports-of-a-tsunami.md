@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BNO News](http://bnonews.com/news/index.php/news/id3821)
+1. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)
 
 ### Related:
 

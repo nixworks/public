@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2011/03/20/us-mexico-usa-idUSTRE72J09F20110320?feedType=RSS&feedName=topNews)
 2. [U.S. State Department](http://www.state.gov/secretary/rm/2011/03/158664.htm)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110320&t=2&i=366983487&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-20T014813Z_01_BTRE72J050N00_RTROPTP_0_MEXICO)
 
 ### Related:
 

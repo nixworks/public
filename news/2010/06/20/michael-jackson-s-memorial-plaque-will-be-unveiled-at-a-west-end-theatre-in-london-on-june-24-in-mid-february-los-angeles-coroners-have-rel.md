@@ -11,6 +11,7 @@ A memorial is to be unveiled at a West End theatre in London on the first annive
 2. [SKY](http://news.sky.com/skynews/Home/Showbiz-News/Michael-Jackson-Memorial-At-Lyric-Theatre-London---Home-Of-The-Thriller-Live-Show---To-Be-Unveiled/Article/201006315652283?f=rss)
 3. [mjjboard](http://www.mjjboard.com/king-pop-news-desk/20000-michael-jackson-memorial-unveiled-london-theatre.html)
 4. [rian.ru](http://en.rian.ru/art_living/20100620/159503016.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

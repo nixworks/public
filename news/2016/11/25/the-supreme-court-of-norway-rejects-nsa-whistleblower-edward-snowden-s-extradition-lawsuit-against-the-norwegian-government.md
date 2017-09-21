@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-security-snowden-lawsuit-idUSKBN13K1TR?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161125&t=2&i=1163063000&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAO14H)
 
 ### Related:
 

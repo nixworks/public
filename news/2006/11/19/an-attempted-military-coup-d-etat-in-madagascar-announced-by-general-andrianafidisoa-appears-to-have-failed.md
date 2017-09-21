@@ -10,6 +10,7 @@ A soldier was killed after what appeared to be a failed coup attempt by a genera
 1. [ABC News](http://www.abc.net.au/news/newsitems/200611/s1791966.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6161398.stm)
 3. [NY Times](http://www.nytimes.com/2006/11/19/world/africa/19madagascar.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

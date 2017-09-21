@@ -9,6 +9,7 @@ Lebanon&#039;s Opposition has won a key by-election that has left the country&#0
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/06/1997524.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6931498.stm)
+2. [Cover Image](http://www.abc.net.au/news/image/2523478-1x1-700x700.jpg)
 
 ### Related:
 

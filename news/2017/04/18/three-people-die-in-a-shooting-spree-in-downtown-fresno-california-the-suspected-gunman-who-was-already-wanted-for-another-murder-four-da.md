@@ -8,6 +8,7 @@ A man shot and killed three people in downtown Fresno and shouted, “Allahu akb
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-fresno-shooting-20170418-story.html)
+1. [Cover Image](http://www.trbimg.com/img-58f69469/turbine/la-me-fresno-shooting-20170418)
 
 ### Related:
 

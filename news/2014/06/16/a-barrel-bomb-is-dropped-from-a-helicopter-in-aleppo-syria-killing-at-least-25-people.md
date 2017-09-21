@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/06/16/us-syria-crisis-barrelbombs-idUSKBN0ER1U720140616)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140616&t=2&i=909008262&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5F0U7)
 
 ### Related:
 

@@ -10,6 +10,7 @@ An air strike hit a hospital in the rebel-held Syrian village of Awaijel, west o
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/syria-war-aleppo-pounded-air-strikes-pause-ends-161115112526848.html)
 2. [CBS News](http://www.cbsnews.com/news/russia-denies-new-aleppo-airstrikes-syria-trump-putin-call/)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-hospital-idUSKBN13A0PJ)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161115&t=2&i=1161810429&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAE0N8)
 
 ### Related:
 

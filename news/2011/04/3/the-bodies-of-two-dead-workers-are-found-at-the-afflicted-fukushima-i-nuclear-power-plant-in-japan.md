@@ -8,6 +8,7 @@ A struggle to plug a gush of tainted water appeared to fall short as the radiati
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/04/04/world/asia/04japan.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

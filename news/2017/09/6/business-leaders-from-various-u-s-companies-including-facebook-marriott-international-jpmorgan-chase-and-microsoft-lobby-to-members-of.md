@@ -8,6 +8,7 @@ The divide between Trump and the business community has only continued to grow s
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2017/09/05/trump-daca-dreamers-ceo-business-leaders-242342)
+1. [Cover Image](http://static.politico.com/82/0d/57932a2d44c1982efa0be30b7251/21-donald-trump-1-ap-1160.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-15809269)
 2. [Reuters](http://ca.reuters.com/article/topNews/idCAL5E7MD0GZ20111120)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55910000/jpg/_55910020_55910019.jpg)
 
 ### Related:
 

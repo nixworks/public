@@ -8,6 +8,7 @@ Thousands demand resignation of CY Leung who critics accuse of failing to confro
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/01/hong-kong-protesters-call-for-leader-to-stand-down)
+1. [Cover Image](https://i.guim.co.uk/img/media/9e26967ba136aa486ba195615b00b8b1a908b7ad/0_14_4760_2856/4760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8c44d2b40e37006bccfae8c515276934)
 
 ### Related:
 

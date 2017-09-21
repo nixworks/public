@@ -8,6 +8,7 @@ Legendary US broadcaster Barbara Walters is retiring from a 52-year career with 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27446759)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74916000/jpg/_74916823_74916822.jpg)
 
 ### Related:
 

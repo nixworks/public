@@ -9,6 +9,7 @@ Decades of irresponsible arms transfers to Iraq fueled the Islamic State group&#
 
 1. [Agence France-Presse via AlJazeera America](http://america.aljazeera.com/articles/2015/12/8/most-isil-weapons-seized-from-iraqi-army.html)
 2. [Agence France-Presse via Defense News](http://www.defensenews.com/story/defense/2015/12/08/report-reckless-arms-transfers-iraq-fueled-crimes/76987902/)
+2. [Cover Image](http://snagfilms-a.akamaihd.net/33/4c/f811b5bb4e0c890e0efe12f9c6ac/635851801082414115-gettyimages-450426260jpg)
 
 ### Related:
 

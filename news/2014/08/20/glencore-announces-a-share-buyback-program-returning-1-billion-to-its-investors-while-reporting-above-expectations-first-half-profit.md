@@ -8,6 +8,7 @@ Commodities group Glencore (GLEN.L) became the first of the large miners to hono
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/08/20/us-glencore-results-idUSKBN0GK0GC20140820)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140820&t=2&i=965512789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7J06W)
 
 ### Related:
 

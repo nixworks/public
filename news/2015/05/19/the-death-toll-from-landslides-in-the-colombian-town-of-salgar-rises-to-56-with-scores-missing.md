@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Agencies via Al-Jazeera](http://www.aljazeera.com/news/2015/05/dozens-dead-massive-colombia-landslide-150519000111256.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/5/19/bc3ec6ac55ce40ee8d0af721635f3a83_18.jpg)
 
 ### Related:
 

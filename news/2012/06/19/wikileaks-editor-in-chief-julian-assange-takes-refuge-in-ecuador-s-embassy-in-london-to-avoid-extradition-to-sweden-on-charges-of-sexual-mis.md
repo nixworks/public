@@ -9,6 +9,7 @@ Julian Assange takes refuge in embassy in London to avoid extradition to Sweden 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/2012619185035488464.html)
 2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2012/06/ap-julian-assange-seeks-asylum-in-ecuador-embassy/1#.T-DkOLV5GSo)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/9/2/201192135921175734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Rescuers searched on Thursday for survivors in the rubble of homes destroyed by 
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22195495)
 2. [Reuters](http://www.reuters.com/article/2013/04/18/us-usa-explosion-texas-idUSBRE93H02A20130418)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130418&t=2&i=723639311&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93H1I8A00)
 
 ### Related:
 

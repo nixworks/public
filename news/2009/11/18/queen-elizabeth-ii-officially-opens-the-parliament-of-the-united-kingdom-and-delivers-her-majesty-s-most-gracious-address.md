@@ -9,6 +9,7 @@ The Government has unveiled its final legislative package before the General Ele
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8364858.stm)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/6596414/Queens-Speech-sets-out-election-battle-lines.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01125/Queen_sSpeech_1125796a.gif)
 
 ### Related:
 

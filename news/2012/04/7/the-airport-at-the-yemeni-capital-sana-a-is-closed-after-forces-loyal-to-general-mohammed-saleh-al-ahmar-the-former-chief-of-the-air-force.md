@@ -8,6 +8,7 @@ Facility shut down after forces loyal to sacked air force chief surround Sanaa a
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/2012479515618741.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/7/20124711425772734_20.jpg)
 
 ### Related:
 

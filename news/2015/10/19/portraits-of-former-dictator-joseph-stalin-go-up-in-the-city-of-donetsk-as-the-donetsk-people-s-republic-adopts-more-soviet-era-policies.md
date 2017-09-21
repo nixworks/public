@@ -8,6 +8,7 @@ Soviet nostalgia rules as images of the former dictator go on display in the cen
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/oct/19/stalin-portraits-ukraine-rebel-territory)
+1. [Cover Image](https://i.guim.co.uk/img/media/d9e659fd6bf02f1ef4dac9d243f2637b0c94aae8/88_0_4610_2768/master/4610.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=deecbb8711e2424053c9912ac05f23d2)
 
 ### Related:
 

@@ -49,7 +49,7 @@ _Context: Lebanon, Najib Mikati_
 _Context: Burma, Human Rights Council, human rights record_
 
 ### [The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. ](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.md)
-_Context: Barack Obama, Illinois, Mayor of Chicago, President, Rahm Emanuel, Supreme Court, U.S. state_
+_Context: Barack Obama, Illinois, Mayor of Chicago, Rahm Emanuel, Supreme Court, U.S. President, U.S. state_
 
 ### [Researchers from Tel Aviv University and the University of Michigan announce a breakthrough to fight bacteria by developing a technique that neutralizes the ability of bacteria to develop resistance to antibiotics. ](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.md)
 Breakthrough to fight resistant bacteria could lead to new generation of antibiotics.

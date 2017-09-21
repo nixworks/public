@@ -9,6 +9,7 @@ A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11513309)
 2. [Greek reporter](http://greece.greekreporter.com/2010/10/11/student-murder-policeman-found-guilty/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

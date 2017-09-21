@@ -8,6 +8,7 @@ Police say a girl suicide bomber killing five people in an attack at the crowded
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/08/25/police-girl-suicide-bomber-kills-5-injures-41-in-boko-haram-bus-station-attack/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

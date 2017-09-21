@@ -12,6 +12,7 @@ The leader of the Roman Catholic Church in Scotland criticises the US over react
 3. [Reuters](http://uk.reuters.com/article/idUKTRE6770IE20100808)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/scotland/7932811/Scotlands-Catholic-leader-attacks-US-over-Lockerbie-culture-of-vengeance.html)
 5. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/08/lockerbie-scottish-catholic-leader-attacks-us)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tonga has declared a Zika epidemic after confirming two people have contracted t
 
 1. [BBC](http://www.bbc.com/news/world-europe-35490524?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/295746/tonga-declares-zika-epidemic)
+2. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

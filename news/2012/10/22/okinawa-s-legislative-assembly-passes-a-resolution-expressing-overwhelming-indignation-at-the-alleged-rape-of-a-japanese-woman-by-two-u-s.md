@@ -8,6 +8,7 @@ Assembly of the Japanese island passes a protest resolution following the arrest
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/10/2012102282736909598.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/22/2012102285247598734_20.jpg)
 
 ### Related:
 

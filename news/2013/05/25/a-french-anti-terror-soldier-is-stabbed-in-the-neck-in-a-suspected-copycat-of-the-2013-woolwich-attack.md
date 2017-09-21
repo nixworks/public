@@ -9,6 +9,7 @@ French authorities believe the attack may have been inspired by Drummer Lee Rigb
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2330749/French-anti-terror-soldier-throat-slashed-jihab-wearing-maniac-North-African-origin-patrol-Paris.html)
 2. [Sky News](http://news.sky.com/story/1095605/french-soldier-stabbed-in-neck-in-paris)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/169477042-1_3657109.jpg?20160706073504)
 
 ### Related:
 

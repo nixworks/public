@@ -8,6 +8,7 @@ Ms. Tallchief achieved renown as an early prima ballerina with the New York City
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/13/arts/dance/maria-tallchief-brilliant-ballerina-dies-at-88.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/12/arts/dance/12TALLCHIEF/12TALLCHIEF-videoLarge-v2.jpg)
 
 ### Related:
 

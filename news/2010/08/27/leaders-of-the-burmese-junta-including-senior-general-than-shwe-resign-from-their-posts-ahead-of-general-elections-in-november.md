@@ -10,6 +10,7 @@ Myanmars defence minister and other top generals resigned their junta and milita
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11114575)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/193265/burma-army-reshuffle-ahead-of-vote-officials)
 3. [Sify India](http://sify.com/news/myanmar-generals-resign-to-contest-polls-news-international-ki1uaciadei.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

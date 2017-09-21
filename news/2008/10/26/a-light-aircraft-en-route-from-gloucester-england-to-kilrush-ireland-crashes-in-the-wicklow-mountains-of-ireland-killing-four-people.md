@@ -8,6 +8,7 @@ Air accident investigators are trying to establish what caused a light aircraft 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/1026/missing.html)
+1. [Cover Image](https://img.rasset.ie/0001d114-1600.jpg)
 
 ### Related:
 

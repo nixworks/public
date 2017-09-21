@@ -8,6 +8,7 @@ The Serious Fraud Office has confirmed it has laid 50 charges of fraud against f
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10733337)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201126/SCCZEN_A_210610LSThubbard1_1024x768.JPG)
 
 ### Related:
 

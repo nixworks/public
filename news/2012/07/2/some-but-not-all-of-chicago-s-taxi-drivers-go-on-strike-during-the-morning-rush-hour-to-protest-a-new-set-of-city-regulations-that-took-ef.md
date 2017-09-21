@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Chicago](http://www.nbcchicago.com/traffic/transit/No-Disruption-Noted-After-Some-Cabbies-Strike-161105345.html)
+1. [Cover Image](http://media.nbcchicago.com/images/1200*675/cabbies+on+strike.jpg)
 
 ### Related:
 

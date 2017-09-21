@@ -8,6 +8,7 @@ A small plane crashes near a Lidl supermarket in Tires just west of Lisbon, kill
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39621095)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1731F/production/_95670059_portsmokenewafp.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Labour accuses David Cameron of making &quot;another foreign policy gaffe&quot; 
 2. [Sky News](http://news.sky.com/skynews/Home/Politics/David-Cameron-Mistakenly-Says-Iran-Has-Nuclear-Weapons-After-Apologising-For-World-War-II-Gaffe/Article/201008115677725?f=rss)
 3. [The Guardian](http://www.guardian.co.uk/politics/2010/aug/05/david-cameron-gaffes-pensioner-nazis-iran-nuclear)
 4. [news.com.au](http://www.news.com.au/breaking-news/british-pm-follows-one-gaffe-with-another/story-e6frfku0-1225901892898)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

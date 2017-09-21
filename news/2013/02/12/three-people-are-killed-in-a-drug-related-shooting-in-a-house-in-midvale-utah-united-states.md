@@ -8,6 +8,7 @@ Police say three people were shot to death and a fourth person was critically wo
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-504083_162-57568965-504083/utah-house-shooting-update-house-where-three-were-shot-dead-is-linked-to-narcotics-police-say/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

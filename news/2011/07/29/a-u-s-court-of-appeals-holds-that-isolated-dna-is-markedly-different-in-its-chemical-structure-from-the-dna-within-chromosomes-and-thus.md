@@ -8,6 +8,7 @@ A federal appeals court ruled on Friday that genes can be patented, overturning 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/07/30/business/gene-patent-in-cancer-test-upheld-by-appeals-panel.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

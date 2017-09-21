@@ -8,6 +8,7 @@ A Russian warship &quot;fired warning shots&quot; at a Turkish fishing boat to a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35087050)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/45CC/production/_87186871_87186870.jpg)
 
 ### Related:
 

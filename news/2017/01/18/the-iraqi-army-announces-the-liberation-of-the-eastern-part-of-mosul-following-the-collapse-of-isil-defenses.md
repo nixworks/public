@@ -8,6 +8,7 @@ The Iraqi army has announced the &quot;liberation&quot; of east Mosul, following
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/01/18/iraqi-army-announces-recapture-east-mosul/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/01/18/JS118144902_AP_mosul-xlarge_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg)
 
 ### Related:
 

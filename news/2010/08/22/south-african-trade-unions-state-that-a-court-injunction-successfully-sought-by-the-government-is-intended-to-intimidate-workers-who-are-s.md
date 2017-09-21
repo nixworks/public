@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11049666)
 2. [News24](http://www.news24.com/SouthAfrica/Politics/Strikes-unions-slam-court-action-20100822)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

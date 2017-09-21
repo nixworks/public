@@ -8,6 +8,7 @@ German intelligence spied on the BBC and other foreign journalists, Spiegel news
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39080256)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0DD7/production/_94834530_gerbndap.jpg)
 
 ### Related:
 

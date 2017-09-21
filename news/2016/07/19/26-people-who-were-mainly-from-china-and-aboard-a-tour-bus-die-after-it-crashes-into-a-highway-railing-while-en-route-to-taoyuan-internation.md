@@ -8,3 +8,4 @@ A Taiwan tour bus carrying tourists from China crashed into a highway railing en
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-taiwan-crash-idUSKCN0ZZ0HX)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160719&t=2&i=1146109037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6I0JL)

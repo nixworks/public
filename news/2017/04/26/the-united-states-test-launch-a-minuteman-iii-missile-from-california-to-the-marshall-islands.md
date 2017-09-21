@@ -8,6 +8,7 @@ An unarmed intercontinental ballistic missile was launched just after midnight W
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-test-missile-launched-vandenberg-california-20170426-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5900deb5/turbine/la-me-ln-test-missile-launched-vandenberg-california-20170426)
 
 ### Related:
 

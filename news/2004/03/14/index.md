@@ -10,7 +10,7 @@ _Context: Ashdod, Israel, suicide bomber_
 _Context: March 11, 2004 Madrid attacks, al-Qaeda, elected, videotape_
 
 ### [ Occupation of Iraq: Six United States soldiers are killed over the weekend in three separate insurgent roadside bomb attacks, two in Baghdad and one in Tikrit. This occurs amidst the largest U.S. troop rotation since World War&nbsp;II.](/news/2004/03/14/occupation-of-iraq-six-united-states-soldiers-are-killed-over-the-weekend-in-three-separate-insurgent-roadside-bomb-attacks-two-in-baghda.md)
-_Context: 2003 invasion of Iraq, Baghdad, Iraqi resistance, Tikrit, World War&nbsp;II_
+_Context: 2003 invasion of Iraq, Baghdad, Tikrit, World War&nbsp;II, rebel-held_
 
 ### [ The National People's Congress of China changes the constitution to protect private property, in order to stop state officials from requisitioning property and private possessions. ](/news/2004/03/14/the-national-people-s-congress-of-china-changes-the-constitution-to-protect-private-property-in-order-to-stop-state-officials-from-requisi.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

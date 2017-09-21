@@ -8,6 +8,7 @@ In last 12 hours, as many as 1,200 patients have visited hospitals due to smog-r
 ### Source:
 
 1. [Geo News](https://www.geo.tv/latest/119649-Heavy-smog-claims-15-lives-in-Punjab)
+1. [Cover Image](https://www.geo.tv/assets/uploads/updates/2016-11-04/119649_030914_updates.jpg)
 
 ### Related:
 

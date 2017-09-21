@@ -9,6 +9,7 @@ Turkey&#39;s prime minister has announced an end to the operation known as &quot
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/03/turkey-ends-euphrates-shield-operation-syria-170329211428970.html)
 2. [Deutsche Welle](http://www.dw.com/en/turkey-announces-end-to-military-operation-in-syria/a-38199606)
+2. [Cover Image](http://www.dw.com/image/37384897_304.jpg)
 
 ### Related:
 

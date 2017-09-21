@@ -10,6 +10,7 @@ The short-lived putsch by supporters of former president Blaise Compaoré has en
 1. [BBC](http://www.bbc.com/news/world-africa-34395373)
 2. [The Guardian](http://www.theguardian.com/world/2015/sep/30/burkina-faso-coup-plotters-abandon-barracks-after-army-assault)
 3. [The New York Times](http://www.nytimes.com/2015/09/30/world/africa/burkina-faso.html)
+3. [Cover Image](https://i.guim.co.uk/img/media/d46b03772f0a23d69002066e1ec1a6163d7813b6/0_242_3792_2274/master/3792.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2cc26579c9e8376f74d625c3375cc2b1)
 
 ### Related:
 

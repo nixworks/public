@@ -1,7 +1,7 @@
 ## [2003-10-23](/news/2003/10/23/index.md)
 
 ### [ Luis A. Ferre, the third Democratically Elected Governor of Puerto Rico, dies at age 99.](/news/2003/10/23/luis-a-ferra-c-the-third-democratically-elected-governor-of-puerto-rico-dies-at-age-99.md)
-_Context: Governor of Puerto Rico, Luis A. Ferre_
+_Context: Luis A. Ferre, Puerto Rican Governor_
 
 ### [ Canada: Dalton McGuinty is sworn in as the 24th premier of Ontario.](/news/2003/10/23/canada-dalton-mcguinty-is-sworn-in-as-the-24th-premier-of-ontario.md)
 _Context: 24th premier, Dalton McGuinty, Ontario_

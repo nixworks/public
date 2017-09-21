@@ -8,6 +8,7 @@ The Department of Homeland Security said a new report of a threat of a car or tr
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/09/09/us/09threat.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

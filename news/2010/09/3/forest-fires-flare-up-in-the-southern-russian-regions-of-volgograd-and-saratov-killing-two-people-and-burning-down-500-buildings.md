@@ -10,6 +10,7 @@ At least four people have died and hundreds of homes have been destroyed in a ne
 1. [AFP via ''The Courier Mail](http://www.couriermail.com.au/news/breaking-news/russian-fires-kill-two-destroy-500-buildings/story-e6freonf-1225913723158?from=public_rss)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11175569)
 3. [The Moscow News](http://www.mn.ru/russia/20100903/188023170.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

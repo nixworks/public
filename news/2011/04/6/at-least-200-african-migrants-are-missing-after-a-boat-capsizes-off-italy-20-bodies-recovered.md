@@ -9,6 +9,7 @@ A desperate search is mounted for scores of African migrants missing after a boa
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12982923)
 2. [New York Times](http://www.nytimes.com/2011/04/07/world/europe/07migrants.html?_r=1&partner=rss&emc=rss)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

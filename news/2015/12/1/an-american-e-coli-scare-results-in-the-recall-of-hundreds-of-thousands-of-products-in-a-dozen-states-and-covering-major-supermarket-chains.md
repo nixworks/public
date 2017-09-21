@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2015/12/01/news/companies/e-coli-recall-walmart-costco-albertsons/index.html?sr=twmoney120215e-coli-recall-walmart-costco-albertsons1227AMVODtopLink&linkId=19224487)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/151201184100-e-coli-taylor-farms-780x439.jpg)
 
 ### Related:
 

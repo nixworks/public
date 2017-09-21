@@ -8,6 +8,7 @@ More than 800 homes have been destroyed or flooded and 4000 people have been aff
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/323047/800-homes-destroyed-or-flooded-in-tahiti-storms)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

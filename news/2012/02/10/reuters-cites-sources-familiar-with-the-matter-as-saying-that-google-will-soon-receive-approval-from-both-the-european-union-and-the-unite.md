@@ -8,6 +8,7 @@ Google Inc (GOOG.O) is expected to win approval next week from European regulato
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/10/us-motorola-google-europe-idUSTRE8191EQ20120210)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120210&t=2&i=569274052&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8191CJH00)
 
 ### Related:
 

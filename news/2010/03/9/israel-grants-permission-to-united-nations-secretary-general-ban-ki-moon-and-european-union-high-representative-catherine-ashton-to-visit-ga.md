@@ -8,6 +8,7 @@ Europe&#39;s High Representative on Human Rights Catherine Ashton is to visit Ga
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0309/gaza.html)
+1. [Cover Image](https://img.rasset.ie/0002e70f-1600.jpg)
 
 ### Related:
 

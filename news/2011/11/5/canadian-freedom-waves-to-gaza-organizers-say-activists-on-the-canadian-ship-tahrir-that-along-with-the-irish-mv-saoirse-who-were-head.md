@@ -12,6 +12,7 @@ Israel has said no one was injured in its takeover of the Canadian ship Tahrir
 3. [Salem-News.com](http://www.salem-news.com/articles/november052011/freedom-waves-boarded.php)
 4. [The Globe and Mail](http://www.theglobeandmail.com/news/world/canadian-who-tried-breaching-gaza-blockade-was-beaten-by-troops-organizers/article2226834/)
 5. [Ynetnews.com](http://www.ynetnews.com/articles/0,7340,L-4144184,00.html)
+5. [Cover Image](http://static.theglobeandmail.ca/7da/incoming/article902615.ece/ALTERNATES/w620/web-flotilla.JPG)
 
 ### Related:
 

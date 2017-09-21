@@ -9,6 +9,7 @@ A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, ac
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-01/6-5-magnitude-quake-hits-off-west-coast-of-sumatra-says-usgs)
 2. [Reuters](http://www.reuters.com/article/us-quake-indonesia-idUSKCN0YN63T)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

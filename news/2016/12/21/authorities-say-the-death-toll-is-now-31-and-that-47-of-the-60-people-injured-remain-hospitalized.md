@@ -8,6 +8,7 @@ The death toll in a series of explosions at a fireworks market outside Mexico Ci
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-mexico-fireworks-explosion-20161221-story.html)
+1. [Cover Image](http://www.trbimg.com/img-585b0820/turbine/la-fg-mexico-fireworks-explosion-20161221)
 
 ### Related:
 

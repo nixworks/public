@@ -8,6 +8,7 @@ Police are sheltering a number of people in a house at Yuendumu, as more forces 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/09/15/3012921.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/2261784-1x1-700x700.jpg)
 
 ### Related:
 

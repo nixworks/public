@@ -8,6 +8,7 @@ One man dies after fighting erupts between protesters in Athens, as the Greek pa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15377398)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56180000/jpg/_56180092_013188966-1.jpg)
 
 ### Related:
 

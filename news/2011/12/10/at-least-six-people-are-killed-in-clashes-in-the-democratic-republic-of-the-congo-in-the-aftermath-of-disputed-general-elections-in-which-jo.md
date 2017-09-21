@@ -8,6 +8,7 @@ At least six people have been killed in the capital Kinshasa as opposition suppo
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2011/12/2011121014345850871.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/10/20111210151251936734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The National Hurricane Center says Debby has weakened to a tropical depression a
 
 1. [USA Today](http://www.usatoday.com/news/nation/story/2012-06-26/debby-florida-storm/55832774/1)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304458604577488993477078730.html?mod=WSJ__MIDDLENexttoWhatsNewsThird)
+2. [Cover Image](http://i.usatoday.net/news/_photos/2012/06/26/Debby-weakens-to-tropical-depression-481OJ95A-x.jpg)
 
 ### Related:
 

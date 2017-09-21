@@ -8,6 +8,7 @@ Taxi, by dissident Iranian director Jafar Panahi, wins top prize at the Berlin F
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-31475783)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81017000/jpg/_81017553_81017551.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Two-day general election aims to end more than a year of political limbo.
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10180591.stm)
 3. [France24](http://www.france24.com/en/20100528-czechs-go-polls-end-year-long-interim-rule)
 4. [Reuters](http://www.reuters.com/article/idUSTRE64R2L020100528)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

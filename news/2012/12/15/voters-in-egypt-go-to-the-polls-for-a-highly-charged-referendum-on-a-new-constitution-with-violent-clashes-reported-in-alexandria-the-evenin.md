@@ -10,6 +10,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20737073)
 2. [RIA Novosti](http://en.rian.ru/politics/20121216/178189366.html)
 3. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=826802)
+3. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

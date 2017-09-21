@@ -10,6 +10,7 @@ Initial reports say they were ambushed in an attack that investigators said migh
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8641380.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/04/23/juarez.shootout/?hpt=T1)
 3. [The New York Times](http://www.nytimes.com/2010/04/24/world/americas/24mexico.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

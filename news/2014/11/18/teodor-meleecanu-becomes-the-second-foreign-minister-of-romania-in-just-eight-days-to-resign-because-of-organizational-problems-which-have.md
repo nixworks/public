@@ -8,3 +8,4 @@ By Daniel Stroe BucharestTeodor Melescanu Romanian minister of Foreign Affairs h
 ### Source:
 
 1. [Independent Balkan News Agency](http://www.balkaneu.com/romanian-formin-resigns-flawed-elections-diaspora/)
+1. [Cover Image](http://admin.balkaneu.com/wp-content/uploads/2014/11/Melescanu-RO-IBNA.jpg)

@@ -9,6 +9,7 @@ NEW ORLEANS (AP) — The tornadoes that struck southeastern Louisiana on Tuesday
 
 1. [AP](http://bigstory.ap.org/article/a4d2d8f9dd0e45c6bb94321dbe109ce7/tornado-warnings-issued-louisiana-and-mississippi)
 2. [Reuters](http://www.reuters.com/article/louisiana-tornado-idUSL1N1FS1GZ)
+2. [Cover Image](http://binaryapi.ap.org/76749def8b804d7ab5ba55ad65c64e74/460x.jpg)
 
 ### Related:
 

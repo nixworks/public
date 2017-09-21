@@ -9,6 +9,7 @@ Doctors treating Nelson Mandela have reportedly said that he is in a &quot;perma
 
 1. [AFP via News24](http://www.news24.com/news24/SouthAfrica/News/Family-advised-to-turn-off-Mandelas-life-support-20130704)
 2. [Sky News](http://news.sky.com/story/1111614/mandela-doctors-said-turn-off-life-support)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2383/0c1a136175a04e1ca99420dc1bad2688.jpg)
 
 ### Related:
 

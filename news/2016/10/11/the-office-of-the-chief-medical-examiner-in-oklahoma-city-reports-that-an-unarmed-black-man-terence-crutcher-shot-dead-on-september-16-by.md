@@ -8,6 +8,7 @@ An unarmed black man shot dead by a white police officer after his car broke dow
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/10/11/autopsy-oklahoma-police-victim-had-pcp-in-system-when-died.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/23/0/0/694940094001_5138156789001_Tulsa-cop-turns-herself-in-for-shooting-of-unarmed-man-.jpg?ve=1)
 
 ### Related:
 

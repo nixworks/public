@@ -4,7 +4,7 @@
 _Context: EU, World Trade Organization, free trade, import tariffs, steel_
 
 ### [ War on Terrorism: The United States Supreme Court has agreed to hear appeals by 16 people detained at Guantanamo Bay. The Supreme Court will consider whether alleged illegal combatants held by the United States since the War in Afghanistan can use American courts to challenge their detainment.](/news/2003/11/10/war-on-terrorism-the-united-states-supreme-court-has-agreed-to-hear-appeals-by-16-people-detained-at-guantanamo-bay-the-supreme-court-wil.md)
-_Context: Guantnamo Bay detainment camp, United States Supreme Court, War in Afghanistan (2001-present), War on Terrorism, courts, illegal combatant_
+_Context: Guantnamo Bay detainment camp, United States Supreme Court, War in Afghanistan (2001-present), War on Terrorism, courts, illegal enemy combatant_
 
 ### [ In India, heavy rain boosts economic growth forecasts for the Indian economy.](/news/2003/11/10/in-india-heavy-rain-boosts-economic-growth-forecasts-for-the-indian-economy.md)
 ### [ In the United Kingdom, Michael Howard, new leader of the Conservative Party, announces his first Shadow Cabinet; membership is trimmed down to 12 from 26.](/news/2003/11/10/in-the-united-kingdom-michael-howard-new-leader-of-the-conservative-party-announces-his-first-shadow-cabinet-membership-is-trimmed-down.md)

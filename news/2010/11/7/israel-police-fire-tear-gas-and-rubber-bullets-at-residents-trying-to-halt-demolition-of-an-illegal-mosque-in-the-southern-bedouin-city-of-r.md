@@ -9,6 +9,7 @@ Action in Arab town in Negev, following a court order, prompts protest call by M
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gFL6_2ffvhV7XeURFHbRgDwiiQag?docId=CNG.df5184b80f2116712fe150cbda10874b.9a1)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/201011716263863880.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/7/2010117163739459884_20.jpg)
 
 ### Related:
 

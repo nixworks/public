@@ -9,6 +9,7 @@ Iraqi officials say the Islamic State group has launched two chemical attacks, k
 
 1. [FOX News](http://www.foxnews.com/world/2016/03/12/iraq-officials-say-islamic-state-chemical-attacks-kill-child-wound-600.html)
 2. [NASDAQ](http://www.nasdaq.com/article/islamic-state-struck-town-with-chemical-weapons-iraq-says-20160311-00527)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/02/16/0/0/694940094001_4758224711001_0f147adb-c6ca-45c9-a4b9-506620ac22f5.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The UK economy grew by 0.5% in the third quarter of 2011, official figures show,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15535518)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54835000/jpg/_54835556_006887773-1.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [CNN](http://www.cnn.com/2011/12/19/world/asia/north-korea-leader-dead/index.html)
 4. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1172236/1/.html)
 5. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204791104577107350219610874.html)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/20/2011122045019179734_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Schoolchildren and their parents on their way to start the new school year were 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200999234320873972.html)
 2. [Awareness Times](http://www.news.sl/drwebsite/publish/article_200512949.shtml)
 3. [New York Times](http://www.nytimes.com/2009/09/11/world/africa/11leone.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

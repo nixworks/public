@@ -8,6 +8,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 ### Source:
 
 1. [Newsday](http://www.newsday.com/news/nationworld/nation/ny-uselec0712,0,2110069.story?coll=ny-nationalnews-headlines)
+1. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

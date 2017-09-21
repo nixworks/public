@@ -8,6 +8,7 @@ The Thai government imposes a 60-day state of emergency in Bangkok and the surro
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25825872)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72418000/jpg/_72418581_72418580.jpg)
 
 ### Related:
 

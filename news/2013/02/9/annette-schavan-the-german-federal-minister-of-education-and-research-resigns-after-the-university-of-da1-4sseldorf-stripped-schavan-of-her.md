@@ -8,6 +8,7 @@ German Education Minister Annette Schavan resigns after a university stripped he
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21395102)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65796000/jpg/_65796139_12a4gzcl.jpg)
 
 ### Related:
 

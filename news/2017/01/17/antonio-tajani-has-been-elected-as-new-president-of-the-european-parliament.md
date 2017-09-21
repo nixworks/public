@@ -9,6 +9,7 @@ Italian conservative wins after his EPP group allies with liberals to counter ri
 
 1. [BBC](http://www.bbc.com/news/world-europe-38656248)
 2. [New York Times](https://www.nytimes.com/2017/01/17/world/europe/european-parliament-antonio-tajani-president.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/F9D1/production/_93635936_tajani2.jpg)
 
 ### Related:
 

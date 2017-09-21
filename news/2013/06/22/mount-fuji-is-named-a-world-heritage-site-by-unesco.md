@@ -8,6 +8,7 @@ The World Heritage Committee of UNESCO decided Saturday to inscribe Mount Fuji o
 ### Source:
 
 1. [The Japan Times](http://www.japantimes.co.jp/news/2013/06/23/national/mount-fuji-named-world-heritage-site/#.UcXlhBZWJUQ)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2013/06/nn20130623a7a-870x577.jpg)
 
 ### Related:
 

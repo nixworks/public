@@ -8,6 +8,7 @@ New Zealand police on Thursday charged AC/DC drummer Phil Rudd with attempting t
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/11/06/uk-newzealand-acdc-idUKKBN0IQ08920141106)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

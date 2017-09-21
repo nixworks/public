@@ -8,6 +8,7 @@ A Vincent van Gogh painting, which had always been believed to be a self-portrai
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13873565)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53613000/jpg/_53613824_van3.jpg)
 
 ### Related:
 

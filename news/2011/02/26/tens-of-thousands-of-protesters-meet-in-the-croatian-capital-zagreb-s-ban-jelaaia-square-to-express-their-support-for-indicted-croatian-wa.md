@@ -9,6 +9,7 @@
 
 1. [France24](http://www.france24.com/en/20110226-clashes-erupt-croatian-anti-government-protests)
 2. [Jutarnji list](http://www.jutarnji.hr/braniteljski-prosvjed--vise-stotina-ljudi-sa-slikama-gotovine-i-transparentima-okupiralo-trg/928060/)
+2. [Cover Image](http://www.jutarnji.hr/migration_catalog/jastreb_v/1932516/ALTERNATES/LANDSCAPE_1180/jastreb_v)
 
 ### Related:
 

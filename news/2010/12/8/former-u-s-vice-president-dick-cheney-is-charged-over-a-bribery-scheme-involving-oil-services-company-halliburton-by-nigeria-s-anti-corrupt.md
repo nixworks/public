@@ -9,6 +9,7 @@ It stems from a case involving Halliburton during the time the former US vice-pr
 
 1. [AFP via ''The Sydney Morning Herald](http://www.smh.com.au/world/nigeria-charges-cheney-in-halliburton-bribery-scandal-20101208-18omp.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012851859695283.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/8/20101286216325580_20.jpg)
 
 ### Related:
 

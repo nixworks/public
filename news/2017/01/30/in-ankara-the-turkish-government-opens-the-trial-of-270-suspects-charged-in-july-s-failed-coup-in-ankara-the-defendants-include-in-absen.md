@@ -8,6 +8,7 @@ Turkey on Monday opened the biggest trial yet over the failed July coup aimed at
 ### Source:
 
 1. [Yahoo! News](https://www.yahoo.com/news/turkey-puts-gulen-269-others-trial-over-coup-110730149.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ormbMKmixQx4CwuUAtLaxg--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/8cec77551057102a077a4076d18aa7406e0bbd6b.jpg)
 
 ### Related:
 

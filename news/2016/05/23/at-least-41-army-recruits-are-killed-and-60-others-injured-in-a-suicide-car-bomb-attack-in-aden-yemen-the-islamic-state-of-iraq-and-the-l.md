@@ -10,6 +10,7 @@ A suicide car bombing claimed by Islamic State killed at least 40 Yemeni army re
 1. [National Yemen](http://nationalyemen.com/2016/05/23/al-mukalla-13-al-qaeda-fighters-killed-by-forces/)
 2. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN0YE0LE)
 3. [VOA News](http://www.voanews.com/content/militants-killed-in-yemen/3340892.html)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160523&t=2&i=1138368993&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4M0Y0)
 
 ### Related:
 

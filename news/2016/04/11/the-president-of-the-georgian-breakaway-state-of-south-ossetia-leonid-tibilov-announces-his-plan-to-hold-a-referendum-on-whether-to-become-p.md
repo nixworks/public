@@ -8,6 +8,7 @@ Issues of changing a certain article of the South Ossetian constitution will be 
 ### Source:
 
 1. [TASS](http://tass.ru/en/world/868630)
+1. [Cover Image](https://phototass3.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20160411/1130222.jpg)
 
 ### Related:
 

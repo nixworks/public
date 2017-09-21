@@ -8,6 +8,7 @@ Foreign secretary asks that five men, who previously lived in the U.K. but are n
 ### Source:
 
 1. [AP via FOX](http://www.foxnews.com/story/0,2933,292349,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

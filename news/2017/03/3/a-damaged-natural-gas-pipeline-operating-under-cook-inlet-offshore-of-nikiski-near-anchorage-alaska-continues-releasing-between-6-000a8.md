@@ -9,6 +9,7 @@ It&#039;s pumping out 210,000 cubic feet of gas per day, but a fix isn&#039;t ex
 
 1. [Peninsula Clarion](http://peninsulaclarion.com/news/2017-03-01/dec-hilcorp-must-sample-and-monitor-underwater-gas-leak)
 2. [Popular Mechanics](http://www.popularmechanics.com/technology/infrastructure/a25519/natural-gas-leak-cook-inlet-continues/)
+2. [Cover Image](http://pop.h-cdn.co/assets/17/09/1488493153-692024037.jpg)
 
 ### Related:
 

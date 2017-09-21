@@ -8,6 +8,7 @@ The hacktivist group Anonymous may be setting its sights on the city of Orlando,
 ### Source:
 
 1. [Tech Crunch](http://techcrunch.com/2011/06/27/anonymous-declares-war-orlando/)
+1. [Cover Image](https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/techcrunch.opengraph.default.png)
 
 ### Related:
 

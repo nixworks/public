@@ -9,6 +9,7 @@ Iran security forces fire tear gas to break up demonstrations by opposition supp
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gDVKAo7oplrqKqRV_w4JL3EeupQQ?docId=CNG.4633d09e43b19b31d6b5fb4eb63f2bd4.bd1)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12612133)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

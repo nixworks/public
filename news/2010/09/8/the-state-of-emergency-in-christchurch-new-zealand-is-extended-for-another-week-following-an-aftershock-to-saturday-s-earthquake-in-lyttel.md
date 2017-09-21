@@ -8,6 +8,7 @@ The state of emergency in earthquake-stricken Christchurch has been extended for
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/devastatingly-vicious-aftershock-rocks-christchurch-20100908-1504l.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/5/0/4/w/image.related.articleLeadwide.620x349.1504l.png/1283905056873.jpg)
 
 ### Related:
 

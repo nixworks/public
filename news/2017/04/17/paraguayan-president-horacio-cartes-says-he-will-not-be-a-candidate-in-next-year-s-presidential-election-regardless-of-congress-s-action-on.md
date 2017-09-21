@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-paraguay-politics-idUSKBN17J1H0)
 2. [Vatican Radio](http://en.radiovaticana.va/news/2017/04/02/pope_appeals_for_colombia,_drc,_venezuela_and_paraguay/1302930)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170417&t=2&i=1180927681&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3G0TF)
 
 ### Related:
 

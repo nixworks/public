@@ -8,6 +8,7 @@ Colombian President Juan Manuel Santos condemns an attack by left-wing Farc rebe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13967904)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53770000/gif/_53770053_colombia_antioquia_0611.gif)
 
 ### Related:
 

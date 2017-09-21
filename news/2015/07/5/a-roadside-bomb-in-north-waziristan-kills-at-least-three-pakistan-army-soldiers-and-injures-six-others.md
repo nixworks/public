@@ -8,6 +8,7 @@ Pakistani intelligence officials say a roadside bomb attack has killed three par
 ### Source:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-05/305224-roadside-bomb-kills-3-troops-injures-6-in-pakistan.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/07/05/382664_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Militants dressed in Indian army uniforms attacked Indian police and soldiers ne
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/09/26/uk-kashmir-attack-idUKBRE98P04920130926)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130926&t=2&i=797543847&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98P0WY000)
 
 ### Related:
 

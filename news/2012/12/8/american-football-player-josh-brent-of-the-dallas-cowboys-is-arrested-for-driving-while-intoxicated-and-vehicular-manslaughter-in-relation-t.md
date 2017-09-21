@@ -8,6 +8,7 @@ Dallas Cowboys nose tackle Josh Brent was arrested on charges of intoxication ma
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/sports/nfl/cowboys/2012/12/08/josh-brent-arrest/1755831/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

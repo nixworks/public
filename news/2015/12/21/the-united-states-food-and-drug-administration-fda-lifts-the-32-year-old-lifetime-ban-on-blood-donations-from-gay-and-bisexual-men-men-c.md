@@ -10,6 +10,7 @@ Agency will bar men who have had sex with another man in the previous year from 
 1. [FDA](http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm478031.htm)
 2. [The Guardian](http://www.theguardian.com/us-news/2015/dec/21/fda-lifts-ban-blood-donations-gay-bisexual-men)
 3. [The Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2015/12/21/fda-officially-alters-decades-old-ban-on-blood-donations-from-gay-and-bisexual-men/)
+3. [Cover Image](https://i.guim.co.uk/img/media/89da6544e0b59f518ba807cc191b9ddae6a05601/0_0_2464_1479/master/2464.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5e1b57b74e8955194ace49b8c8d0444a)
 
 ### Related:
 

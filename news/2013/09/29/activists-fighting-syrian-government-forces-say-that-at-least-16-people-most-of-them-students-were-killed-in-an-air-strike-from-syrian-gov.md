@@ -8,6 +8,7 @@ At least 16 people, most of them students, were killed in an air strike that hit
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/29/us-syria-crisis-school-idUSBRE98S03H20130929)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130929&t=2&i=798438984&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98S1C3100)
 
 ### Related:
 

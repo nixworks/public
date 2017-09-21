@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/19/516082519/watch-live-all-systems-go-for-spacex-launch-at-nasas-historic-pad)
+1. [Cover Image](https://media.npr.org/assets/img/2017/02/19/gettyimages-642685416_wide-7dd6e908793ddefa767f383a1fa849027c6825de.jpg?s=1400)
 
 ### Related:
 

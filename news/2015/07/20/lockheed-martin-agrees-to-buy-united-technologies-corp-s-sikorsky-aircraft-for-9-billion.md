@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/07/20/us-sikorsky-m-a-lockheed-martin-idUSKCN0PU14Y20150720)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150720&t=2&i=1065746819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB6J0JM)
 
 ### Related:
 

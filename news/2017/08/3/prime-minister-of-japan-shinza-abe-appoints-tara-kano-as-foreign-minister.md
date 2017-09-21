@@ -8,6 +8,7 @@ Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-japan-politics-cabinet-idUSKBN1AJ0DF)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170803&t=2&i=1195599042&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED720PU)
 
 ### Related:
 

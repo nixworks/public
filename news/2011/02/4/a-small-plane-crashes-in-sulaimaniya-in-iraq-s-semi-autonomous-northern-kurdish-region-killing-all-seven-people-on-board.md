@@ -8,6 +8,7 @@ A small plane crashed on take-off from an airport in northern Iraq, killing all 
 ### Source:
 
 1. [Reuters via ABC News](http://www.abc.net.au/news/stories/2011/02/05/3130727.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

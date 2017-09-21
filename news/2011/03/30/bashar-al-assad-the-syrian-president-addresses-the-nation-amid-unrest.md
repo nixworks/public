@@ -18,6 +18,7 @@ Syrian president delivers first public speech since security forces curbed anti-
 9. [The Independent](http://www.independent.co.uk/news/world/middle-east/bahrain-targets-wounded-protesters-2257497.html)
 10. [UN Human Rights Watch](http://www.hrw.org/en/news/2011/03/30/bahrain-wounded-protesters-beaten-detained)
 11. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/03/syrian-president-speaks-to-country-amid-widespread-protests/1)
+11. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/30/2011330131047257884_20.jpg)
 
 ### Related:
 

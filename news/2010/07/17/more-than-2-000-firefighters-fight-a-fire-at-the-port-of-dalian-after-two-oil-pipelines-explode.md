@@ -9,6 +9,7 @@ Two oil pipelines in the Chinese port city of Dalian have exploded, starting a f
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10671444)
 2. [WAtoday](http://www.watoday.com.au/breaking-news-world/firefighters-tackle-blaze-at-china-port-20100717-10f21.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

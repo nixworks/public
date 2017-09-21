@@ -8,6 +8,7 @@ WELLINGTON, New Zealand (AP) — A New Zealand leader has visited Fiji for the f
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/23746d884abb434896831cfdd09a1693/new-zealand-leader-visits-fiji-first-time-decade)
+1. [Cover Image](http://binaryapi.ap.org/84fc5af099fc48cc8bf5c677f6a76ab5/460x.jpg)
 
 ### Related:
 

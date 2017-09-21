@@ -11,6 +11,7 @@ The US and five Arab nations launch a campaign of air strikes against Islamic St
 2. [BBC](http://www.bbc.com/news/world-middle-east-29321136)
 3. [CNN](http://edition.cnn.com/2014/09/23/world/meast/isis-airstrikes/index.html?eref=edition)
 4. [Civil Georgia](http://civil.ge/eng/article.php?id=27680)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77767000/jpg/_77767879_77767878.jpg)
 
 ### Related:
 

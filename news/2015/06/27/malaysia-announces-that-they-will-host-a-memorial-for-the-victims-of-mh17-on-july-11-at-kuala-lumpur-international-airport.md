@@ -8,6 +8,7 @@ The memorial will be held at 10am on Jul 11, 2015 at Bunga Raya Complex at Kuala
 ### Source:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/malaysia-to-hold-mh17/1944446.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/1354380/1435393512000/large16x9/640/360/mh17-wreckage.jpg)
 
 ### Related:
 

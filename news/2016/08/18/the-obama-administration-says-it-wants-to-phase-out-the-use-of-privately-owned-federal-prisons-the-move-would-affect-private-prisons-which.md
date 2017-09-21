@@ -8,6 +8,7 @@ US Justice Department will phase out use of privately owned prisons, citing safe
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37124183)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6C3F/production/_90811772_gettyimages-450371241.jpg)
 
 ### Related:
 

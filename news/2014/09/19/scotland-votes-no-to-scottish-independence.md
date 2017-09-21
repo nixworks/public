@@ -11,6 +11,7 @@ Turnout in the referendum on Scottish independence hit a record high for any ele
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-29277527)
 3. [ITV](http://www.itv.com/news/update/2014-09-19/highest-ever-election-turnout-for-scottish-referendum/)
 4. [The New York Times](http://mobile.nytimes.com/2014/09/19/world/europe/scotland-independence-vote.html?referrer=)
+4. [Cover Image](http://news-assets.sn.itv.com/image/file/476141/img.jpg)
 
 ### Related:
 

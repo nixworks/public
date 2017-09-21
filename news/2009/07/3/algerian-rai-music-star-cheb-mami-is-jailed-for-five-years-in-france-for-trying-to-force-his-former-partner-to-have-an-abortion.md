@@ -10,6 +10,7 @@ Algerian singer Cheb Mami went on trial in France on Thursday over accusations t
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8130873.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20090702172709911C277243)
 3. [Reuters](http://www.reuters.com/article/peopleNews/idUSTRE5614DJ20090702)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

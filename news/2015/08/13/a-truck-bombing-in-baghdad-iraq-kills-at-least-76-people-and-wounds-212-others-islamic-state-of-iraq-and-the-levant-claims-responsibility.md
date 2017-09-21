@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/08/13/us-mideast-crisis-iraq-violence-idUSKCN0QI0DE20150813)
 2. [The Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3196046/Truck-bomb-kills-60-Baghdads-Sadr-City--sources.html)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150813&t=2&i=1071549048&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7C0B2)
 
 ### Related:
 

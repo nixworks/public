@@ -8,6 +8,7 @@ More Mexicans are leaving the United States than entering it according to a repo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/19/us-usa-immigration-mexico-idUSKCN0T82F220151119#xEluMKZPTa0ZmMER.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151119&t=2&i=1096245664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAI118)
 
 ### Related:
 

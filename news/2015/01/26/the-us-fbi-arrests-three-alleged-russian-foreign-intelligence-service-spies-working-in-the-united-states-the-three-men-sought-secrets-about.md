@@ -8,6 +8,7 @@ The accused trio allegedly tried to recruit women at a New York university, spok
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11371063/Three-alleged-Russian-agents-charged-with-spying-in-New-York-after-posing-as-banker-and-diplomats.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03177/PX14512443RUSSIAN-_3177466k.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Israeli Foreign Minister Avigdor Lieberman resigns after prosecutors decide to c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20731396)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64748000/jpg/_64748808_64748807.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ At least seven people are killed and 630 others injured after violence breaks ou
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/201312714020381782.html)
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/2013127195926600436.html)
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-21220310)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/27/2013127143836923734_20.jpg)
 
 ### Related:
 

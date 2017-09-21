@@ -8,6 +8,7 @@ Sinking ship summons Israeli, American, French forces; three rescued, four still
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3075502,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

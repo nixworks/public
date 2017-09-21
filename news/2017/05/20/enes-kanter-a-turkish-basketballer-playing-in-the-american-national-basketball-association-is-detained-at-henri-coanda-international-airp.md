@@ -8,6 +8,7 @@ Enes Kanter, a critic of the Turkish president, was held after Turkey cancelled 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39987275)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/14215/production/_96135428_hi038787505.jpg)
 
 ### Related:
 

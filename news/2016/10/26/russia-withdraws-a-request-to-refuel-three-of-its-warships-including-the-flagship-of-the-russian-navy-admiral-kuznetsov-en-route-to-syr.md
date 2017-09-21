@@ -8,6 +8,7 @@ Russia withdraws a request for Syria-bound warships to refuel in Spain, followin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37779204)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/AFC7/production/_92099944_d4b9dd5c-a07b-4f7f-80a7-6acc39011a79.jpg)
 
 ### Related:
 

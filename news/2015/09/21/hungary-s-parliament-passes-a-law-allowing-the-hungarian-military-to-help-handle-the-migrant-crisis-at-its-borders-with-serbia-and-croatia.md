@@ -9,6 +9,7 @@ The latest donation brings total U.S. aid over four years to $4.5 billion, more 
 
 1. [Reuters](http://www.reuters.com/article/2015/09/21/us-europe-migrants-hungary-law-idUSKCN0RL1K220150921)
 2. [The Washington Post](https://www.washingtonpost.com/world/national-security/us-gives-419-million-more-to-aid-syrian-refugees/2015/09/21/7f0157c6-607e-11e5-8e9e-dce8a2a2a679_story.html)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150921&t=2&i=1081139812&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8K11O)
 
 ### Related:
 

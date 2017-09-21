@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4561189.stm)
 2. [Planet Ark](http://www.planetark.com/dailynewsstory.cfm/newsid/30869/story.htm)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N18644621.htm)
+3. [Cover Image](http://planetark.org/images/default_image.jpg)
 
 ### Related:
 

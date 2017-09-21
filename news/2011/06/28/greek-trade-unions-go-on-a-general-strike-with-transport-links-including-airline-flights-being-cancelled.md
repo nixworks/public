@@ -10,6 +10,7 @@ Police use tear gas to disperse stone-throwing youths in Athens as a 48-hour gen
 1. [AFP via France 24](http://www.france24.com/en/20110628-greece-braces-grounding-general-strike-unions-parliament-austerity-measures?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110628&amp;f24_member_id=&amp;ns_linkname=node_5214803&amp;ns_fee=0)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/20116285656386285.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-13935400)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53741000/jpg/_53741774_012329415-1.jpg)
 
 ### Related:
 

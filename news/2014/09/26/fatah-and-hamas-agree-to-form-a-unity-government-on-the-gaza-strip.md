@@ -8,6 +8,7 @@ A unity government is to take control of the Gaza Strip after a breakthrough in 
 ### Source:
 
 1. [EuroNews](http://www.euronews.com/2014/09/26/fatah-and-hamas-agree-deal-for-return-of-gaza-unity-government/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

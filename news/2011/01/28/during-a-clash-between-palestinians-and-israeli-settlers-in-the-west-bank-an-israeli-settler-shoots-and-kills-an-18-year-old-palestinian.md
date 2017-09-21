@@ -10,6 +10,7 @@ Incident comes only a day after police confirmed Palestinian reports saying that
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12300086)
 2. [CNN](http://www.cnn.com/2011/WORLD/meast/01/27/west.bank.death/index.html)
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/palestinian-killed-after-settlers-open-fire-in-west-bank-village-1.339749?localLinksEnabled=false)
+3. [Cover Image](http://www.haaretz.com/polopoly_fs/1.301273.1411342511!/image/1137854338.jpg_gen/derivatives/headline_1200x630/1137854338.jpg)
 
 ### Related:
 

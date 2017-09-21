@@ -8,6 +8,7 @@ Aly Ashraf Hassanein al Gharabli ran operations for an ISIS-linked militant grou
 ### Source:
 
 1. [Fuel Fix](http://fuelfix.com/blog/2015/11/13/islamic-state-commander-linked-to-slaying-of-apache-worker-in-egypt-has-been-killed/#31363101=0)
+1. [Cover Image](https://i2.wp.com/fuelfix.com/files/2015/11/Mideast-Islamic-State-Oil-Business.JPEG-02dd1-1.jpg?fit=1024%2C677)
 
 ### Related:
 

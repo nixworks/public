@@ -8,6 +8,7 @@ With more than 80% of votes counted, President Evo Morales of Bolivia is losing 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35628093)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3123/production/_88397521_88397520.jpg)
 
 ### Related:
 

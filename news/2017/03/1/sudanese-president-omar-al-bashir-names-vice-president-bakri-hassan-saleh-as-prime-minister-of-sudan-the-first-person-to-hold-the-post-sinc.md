@@ -8,6 +8,7 @@ Sudanese President Omar Hassan al-Bashir named his first vice president and long
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-sudan-politics-idUSKBN1685KP)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170301&t=2&i=1174559321&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED202VK)
 
 ### Related:
 

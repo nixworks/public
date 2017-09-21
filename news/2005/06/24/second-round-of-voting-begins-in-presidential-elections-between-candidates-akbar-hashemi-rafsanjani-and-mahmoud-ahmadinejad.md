@@ -15,6 +15,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 6. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-06-23T155126Z_01_KNE357055_RTRUKOC_0_IRAN-ELECTION.xml)
 7. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-24T052652Z_01_N24152625_RTRIDST_0_INTERNATIONAL-IRAN-ELECTION-DC.XML)
 8. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8890840)
+8. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

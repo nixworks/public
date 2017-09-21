@@ -8,6 +8,7 @@ After 5-hour manhunt, police capture Muhammad Tarada, 18, in yard of private res
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/suspect-in-kiryat-gat-stabbing-named-as-hebron-area-teen/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/11/F151121EI06.jpg)
 
 ### Related:
 

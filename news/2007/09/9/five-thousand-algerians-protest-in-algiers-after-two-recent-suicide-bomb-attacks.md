@@ -8,6 +8,7 @@ Around 5,000 Algerians gathered in central Algiers on Sunday to protest against 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL0928612620070909?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1681077&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T190545Z_01_L09286126_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

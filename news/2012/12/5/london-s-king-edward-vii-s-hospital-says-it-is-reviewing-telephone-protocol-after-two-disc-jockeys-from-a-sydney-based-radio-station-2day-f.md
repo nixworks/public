@@ -8,6 +8,7 @@ The hospital treating the pregnant Duchess of Cambridge says it &quot;deeply reg
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20610197)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64590000/jpg/_64590412_duchess_afp.jpg)
 
 ### Related:
 

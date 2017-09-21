@@ -8,6 +8,7 @@ Oil prices fell on Monday on concerns about slowing growth in China and recessio
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/12/us-markets-oil-idUSBRE82B04920120312)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120312&t=2&i=581382799&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82B09NT00)
 
 ### Related:
 

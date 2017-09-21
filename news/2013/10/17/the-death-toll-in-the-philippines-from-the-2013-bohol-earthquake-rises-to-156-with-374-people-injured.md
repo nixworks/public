@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://stream.wsj.com/story/latest-headlines/SS-2-63399/SS-2-356681/)
+1. [Cover Image](http://s.wsj.net/public/resources/images/BN-AA509_phquak_A_20131017011710.jpg)
 
 ### Related:
 

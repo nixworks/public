@@ -8,6 +8,7 @@ Refugees who travelled to Australia by boat could be permanently resettled in th
 ### Source:
 
 1. [Sydney Morning Herald](http://m.smh.com.au/federal-politics/political-news/coalition-government-in-talks-to-resettle-refugees-in-the-philippines-20151008-gk4u5m.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/j/w/5/s/s/image.related.socialLead.620x349.gk4u5m.png/1444387404552.jpg)
 
 ### Related:
 

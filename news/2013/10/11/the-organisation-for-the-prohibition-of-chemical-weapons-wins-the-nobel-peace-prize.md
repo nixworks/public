@@ -9,6 +9,7 @@ The Organisation for the Prohibition of Chemical Weapons has won this year&#039;
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24485566)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2013-10-11/chemical-weapons-watchdog-wins-nobel-peace-prize/5017768)
+2. [Cover Image](http://www.abc.net.au/news/image/4921550-1x1-700x700.jpg)
 
 ### Related:
 

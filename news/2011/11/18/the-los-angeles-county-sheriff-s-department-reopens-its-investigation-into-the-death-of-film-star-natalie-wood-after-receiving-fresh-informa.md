@@ -8,6 +8,7 @@ Los Angeles police say they are reopening an inquiry into the death of film star
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15786944)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56784000/jpg/_56784221_013356572-1.jpg)
 
 ### Related:
 

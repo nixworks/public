@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8326898.stm)
 2. [CBC](http://www.cbc.ca/arts/music/story/2009/10/24/john-cancelled-concerts.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/6425727/Sir-Elton-John-pulls-out-of-second-concert-due-to-illness.html#)
+3. [Cover Image](https://i.cbc.ca/1.4020433.1489183705!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mercy-lonely.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-egypt-saudi-islands-idUSKBN1951G4)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170614&t=2&i=1188988364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5D0TZ)
 
 ### Related:
 

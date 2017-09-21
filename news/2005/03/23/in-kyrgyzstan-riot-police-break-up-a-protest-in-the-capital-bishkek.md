@@ -15,6 +15,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 6. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5472339&startrow=1&date=2005-03-23&do_alert=0)
 7. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/9a5015d5df6a1ecfad6abe30f41cd396.htm)
 8. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7980800)
+8. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

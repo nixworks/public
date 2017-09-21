@@ -8,6 +8,7 @@ Roy and Jill Serjeant
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-people-prince-autopsy-idUSKCN0XJ1RG)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160423&t=2&i=1134157685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3L116)
 
 ### Related:
 

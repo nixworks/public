@@ -9,6 +9,7 @@ Russian Defense Minister Sergei Shoigu has sacked the commander of the Baltic Fl
 
 1. [Reuters](http://www.reuters.com/article/us-russia-military-sackings-idUSKCN0ZF1DB)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/06/30/Russia-dismisses-50-high-ranking-officers-of-Baltic-Fleet/1261467292656/)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160629&t=2&i=1143393572&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5S0SE)
 
 ### Related:
 

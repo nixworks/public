@@ -9,6 +9,7 @@ Contrary to the initial findings of the Egyptian probe into the plane crash, Rus
 
 1. [CNN](http://www.cnn.com/2015/12/14/world/egypt-russian-jet-crash-investigation/)
 2. [Sky News](http://news.sky.com/story/1605434/egypt-russian-jet-not-downed-by-terrorists)
+2. [Cover Image](http://e3.365dm.com/16/01/1600x900/shoe-1-2048x1536_3407673.jpg?20160129205332)
 
 ### Related:
 

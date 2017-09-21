@@ -9,6 +9,7 @@ Louisiana governor was most recently polling at 1% in national survey of Republi
 
 1. [Fox News](http://www.foxnews.com/politics/2015/11/17/bobby-jindal-suspends-2016-presidential-campaign/)
 2. [The Guardian](http://www.theguardian.com/us-news/2015/nov/17/bobby-jindal-suspends-campaign-republican-presidential)
+2. [Cover Image](https://i.guim.co.uk/img/media/6123e2e8dcd20876bc62ca218a39aa4b6b36d87b/0_34_3000_1801/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=386ac8737439a6a5f86716a69b8404d6)
 
 ### Related:
 

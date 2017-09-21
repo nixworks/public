@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/india-news/two-persons-killed-in-assam-grenade-blast-739243)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/breaking-news/national/darwin-told-to-prepare-evacuation-plan/story-e6frfku9-1226007041677)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

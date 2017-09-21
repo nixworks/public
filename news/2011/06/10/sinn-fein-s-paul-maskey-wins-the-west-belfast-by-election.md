@@ -8,6 +8,7 @@ Sinn Fein candidate Paul Maskey is elected as the new MP for West Belfast, takin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13718129)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53342000/jpg/_53342377_maskey2.jpg)
 
 ### Related:
 

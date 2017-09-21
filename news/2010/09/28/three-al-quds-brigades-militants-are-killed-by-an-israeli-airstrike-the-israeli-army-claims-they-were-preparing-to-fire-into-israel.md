@@ -8,6 +8,7 @@ Palestinian sources say Israel Air Force strike in central Gaza leaves three al-
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3961133,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

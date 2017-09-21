@@ -8,6 +8,7 @@ Turkey could fall foul of Nato&#039;s &quot;requirement with respect to democrac
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/turkey-coup-could-threaten-countrys-nato-membership-john-kerry-warns-a7142491.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/06/27/18/gettyimages-543291912.jpg)
 
 ### Related:
 

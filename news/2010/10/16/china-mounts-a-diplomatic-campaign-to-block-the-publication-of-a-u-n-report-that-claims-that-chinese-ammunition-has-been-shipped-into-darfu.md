@@ -9,6 +9,7 @@
 
 1. [Bor Globe](http://www.borglobe.com/25.html?m7:post=u-n-report-chinese-bullets-killed-peacekeepers-in-darfur)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/10/15/AR2010101506100.html)
+2. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2010/10/15/PH2010101506105.jpg)
 
 ### Related:
 

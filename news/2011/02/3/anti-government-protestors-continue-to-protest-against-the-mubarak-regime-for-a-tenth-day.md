@@ -45,3 +45,4 @@ Ahmad Shafiq promises not to allow street violence again, after clashes in Cairo
 36. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4023474,00.html)
 37. [his blog](http://www.sandmonkey.org/cgi-sys/suspendedpage.cgi)
 38. [iloubnan](http://iloubnan.info/politics/actualite/id/55656/titre/Nile-Sat-journalist-resigns-after-being-intimidated-by-the-state)
+38. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/3/2011231374959738_20.jpg)

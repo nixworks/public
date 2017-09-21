@@ -8,6 +8,7 @@ At least 50 people are reported to have died after overnight floods and landslid
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-26118065)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72877000/jpg/_72877499_img-20140210-wa0006.jpg)
 
 ### Related:
 

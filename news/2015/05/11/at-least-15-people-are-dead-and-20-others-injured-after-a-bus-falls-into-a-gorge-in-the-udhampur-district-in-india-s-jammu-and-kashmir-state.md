@@ -8,6 +8,7 @@ Fifteen people died and 20 others were injured, six of them critically, when a b
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/At-least-15-dead-20-injured-as-bus-falls-into-gorge-in-JKs-Udhampur-district/articleshow/47231591.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47231702.cms)
 
 ### Related:
 

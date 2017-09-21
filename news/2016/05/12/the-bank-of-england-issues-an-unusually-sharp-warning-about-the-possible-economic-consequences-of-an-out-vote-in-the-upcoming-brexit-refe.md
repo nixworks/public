@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-britain-boe-idUSKCN0Y31C3?il=0)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160512&t=2&i=1136941002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4B0V0)
 
 ### Related:
 

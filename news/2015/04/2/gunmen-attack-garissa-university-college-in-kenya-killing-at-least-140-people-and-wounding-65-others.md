@@ -9,6 +9,7 @@ At least 147 people have died in an attack by al-Shabab on Garissa University, K
 
 1. [AP via News24](http://www.news24.com/news24/Africa/News/Kenya-interior-minister-says-there-are-more-than-70-dead-in-attack-on-college-20150402)
 2. [BBC](http://www.bbc.com/news/world-africa-32169080)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82094000/jpg/_82094877_82094876.jpg)
 
 ### Related:
 

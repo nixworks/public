@@ -8,6 +8,7 @@ All lanes of one of the busiest commercial throughways in America are expected t
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/bridge-collapses-atlanta-freeway-fire-during-rush-hour-n740871)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_13/1950011/170330-atlanta-highway-fire-06-se-918p_ddf5c6dd4163d989cfa990a196dc69a5.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

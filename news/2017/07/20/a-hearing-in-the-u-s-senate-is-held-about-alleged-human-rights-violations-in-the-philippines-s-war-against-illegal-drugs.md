@@ -8,6 +8,7 @@ The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/176216-watch-us-hearing-human-rights-war-drugs)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/3CBFCA0DEF3F41A095ACAAE4B04370DF/illegal-drugs-related-killings-20160711-002_ea6bf83271994be596c7c23ed4dc30e1.jpg)
 
 ### Related:
 

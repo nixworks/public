@@ -8,6 +8,7 @@ Hundreds of people attended the funeral of mountaineer Ian McKeever in Co Wicklo
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2013/0112/mckeever-funeral.html)
+1. [Cover Image](https://img.rasset.ie/0006dd95-1600.jpg)
 
 ### Related:
 

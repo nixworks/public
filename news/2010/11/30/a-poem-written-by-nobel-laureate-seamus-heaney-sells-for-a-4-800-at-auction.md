@@ -8,6 +8,7 @@ A handwritten poem by Nobel laureate Seamus Heaney has fetched &euro;4,800 at au
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1130/breaking55.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

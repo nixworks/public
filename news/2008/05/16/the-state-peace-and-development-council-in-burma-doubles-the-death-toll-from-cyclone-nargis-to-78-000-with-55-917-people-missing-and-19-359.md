@@ -8,6 +8,7 @@ The government’s revised death toll almost doubled, and it also raised the num
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/05/17/world/asia/17myanmar.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/05/16/world/myanmar_7575.jpg)
 
 ### Related:
 

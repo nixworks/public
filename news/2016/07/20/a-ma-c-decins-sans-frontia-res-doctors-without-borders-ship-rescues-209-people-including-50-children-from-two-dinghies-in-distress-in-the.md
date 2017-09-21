@@ -8,6 +8,7 @@ The bodies of 21 women and one man were found on a rubber dinghy adrift near the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-migrants-italy-casualties-idUSKCN1002QI)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160720&t=2&i=1146375005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6J1QF)
 
 ### Related:
 

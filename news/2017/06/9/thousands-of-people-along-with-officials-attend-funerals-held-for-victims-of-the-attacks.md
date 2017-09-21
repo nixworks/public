@@ -9,6 +9,7 @@ Iranians mourn 17 killed in two attacks on the capital this week
 
 1. [Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-iran-attack-funerals-20170609-story.html)
 2. [PressTV](http://www.presstv.com/Detail/2017/06/09/524690/Iran-Parliament-Mausoleum-Rouhani-Larijani/)
+2. [Cover Image](http://www.trbimg.com/img-593b02bb/turbine/la-fg-iran-attack-funerals-20170609)
 
 ### Related:
 

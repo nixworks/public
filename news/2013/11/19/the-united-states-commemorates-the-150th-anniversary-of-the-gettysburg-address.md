@@ -8,6 +8,7 @@ When president Abraham Lincoln dedicated a cemetery on the Gettysburg battlefiel
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/150th-anniversary-of-abraham-lincolns-gettysburg-address-20131118-2xr5g.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/x/r/o/4/image.related.thumbnail.320x214.2xr5g.png/1384827313237.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A 27-year-old suspected of killing one commuter and injuring three others in a k
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1693307/several-injured-in-munich-station-attack)
+1. [Cover Image](http://e3.365dm.com/16/05/1600x900/rtx2dlu6-1-2048x1536_3463769.jpg?20160510114701)
 
 ### Related:
 

@@ -11,6 +11,7 @@ At least six people were killed and over 140 people hurt after an Amtrak train, 
 2. [CNN](http://www.cnn.com/2015/05/13/us/philadelphia-amtrak-train-derailment/)
 3. [US News and World Report](http://www.usnews.com/news/articles/2015/05/13/amtrak-northeast-regional-train-crash-in-philadelphia-kills-at-least-6)
 4. [WCAU](http://www.nbcphiladelphia.com/news/local/Amtrak-Derailment-Philadelphia--303536331.html)
+4. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/Newest-Train-Derailment-Pho.jpg)
 
 ### Related:
 

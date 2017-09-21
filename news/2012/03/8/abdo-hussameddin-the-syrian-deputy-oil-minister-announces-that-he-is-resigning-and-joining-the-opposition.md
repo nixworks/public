@@ -9,6 +9,7 @@ Kofi Annan, the U.N.-Arab League envoy to Syria, said he would urge President Ba
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17295748)
 2. [Reuters](http://www.reuters.com/article/2012/03/09/us-syria-annan-idUSBRE82802H20120309)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120309&t=2&i=580349767&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8280D6D00)
 
 ### Related:
 

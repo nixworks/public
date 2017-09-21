@@ -9,6 +9,7 @@ Sheriff Joe Arpaio faces a misdemeanor charge of defying a court order to stop r
 
 1. [Arizona Central](http://www.azcentral.com/story/news/local/phoenix/2016/10/11/department-justice-charge-arpaio-criminal-contempt/91901204/)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/10/11/497577585/feds-will-press-criminal-contempt-charges-against-ariz-sheriff-arpaio)
+2. [Cover Image](https://media.npr.org/assets/img/2016/10/11/ap_16152080120420_wide-10c60dff71d61b0440d50b318e55a0d0f0271d9d.jpg?s=1400)
 
 ### Related:
 

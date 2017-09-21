@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2011/09/12/sweden-terror-suspects.html)
+1. [Cover Image](https://i.cbc.ca/1.1963122.1381556285!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-roda-sten-sweden-852-ap-01257091.jpg)
 
 ### Related:
 

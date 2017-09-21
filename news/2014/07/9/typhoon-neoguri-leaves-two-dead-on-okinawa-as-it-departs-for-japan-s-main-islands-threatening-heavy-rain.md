@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/09/us-typhoon-japan-idUSKBN0FE07F20140709?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140709&t=2&i=925160373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA68041)
 
 ### Related:
 

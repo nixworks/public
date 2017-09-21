@@ -9,6 +9,7 @@ Iran-backed rebels in Yemen have blown up several bridges in the mountainous sou
 
 1. [AFP via Yahoo](http://news.yahoo.com/rebels-blow-bridges-hamper-advance-yemen-loyalists-205403526.html)
 2. [Gulf News](http://gulfnews.com/news/gulf/yemen/un-accuses-al-houthis-of-blocking-taiz-aid-1.1626281)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/xlyOlPGf.eY_WvffNIr3Pw--/aD02OTg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6491381-1-1-0.jpg)
 
 ### Related:
 

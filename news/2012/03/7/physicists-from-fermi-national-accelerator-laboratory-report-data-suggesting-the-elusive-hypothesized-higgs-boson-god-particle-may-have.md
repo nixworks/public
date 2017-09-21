@@ -8,6 +8,7 @@ Physicists say they have found a bump in their data that might be the Higgs boso
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/07/science/higgs-boson-may-be-indicated-in-new-data.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/03/07/world/07HIGGS/07HIGGS-thumbStandard-v2.jpg)
 
 ### Related:
 

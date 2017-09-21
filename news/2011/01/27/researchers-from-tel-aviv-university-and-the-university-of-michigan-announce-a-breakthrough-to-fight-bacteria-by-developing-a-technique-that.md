@@ -8,6 +8,7 @@ Breakthrough to fight resistant bacteria could lead to new generation of antibio
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Health/Article.aspx?id=205409)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=158076)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The killing of Fernando Baldomero was the first apparent political killing since
 
 1. [ (CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/05/philippines.candidate.killed/index.html?hpt=T2&fbid=4I1tbJn2BPy)
 2. [New York Times](http://www.nytimes.com/2010/07/06/world/asia/06phils.html?_r=1&ref=philippines)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The U.N. Security Council cleared the way on Wednesday for a European Union poli
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE4AP9JU20081127?sp=true)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

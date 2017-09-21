@@ -10,6 +10,7 @@ Proposed international trade bans on polar bears and Atlantic bluefin tuna faile
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8574775.stm)
 2. [Global Times](http://world.globaltimes.cn/europe/2010-03/514257.html)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE62H52R20100318)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100318&t=2&i=78094002&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-18T213045Z_01_BTRE62H1NRE00_RTROPTP_0_JAPAN)
 
 ### Related:
 

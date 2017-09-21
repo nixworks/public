@@ -8,6 +8,7 @@
 ### Source:
 
 1. [IBT](http://www.ibtimes.co.uk/syria-jubilant-scenes-ypg-kurdish-fighters-pincer-isis-inside-tel-abyad-1506242)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1444020/ypg-raqqa-tel-abyad.jpg)
 
 ### Related:
 

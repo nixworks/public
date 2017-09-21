@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2014-05-17/heaviest-rain-in-120-years-prompts-mass-evacuations-in-bosnia/5459498)
+1. [Cover Image](http://www.abc.net.au/news/image/5459520-1x1-700x700.jpg)
 
 ### Related:
 

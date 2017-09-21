@@ -8,6 +8,7 @@ Five men, including alleged mastermind Khalid Sheikh Mohammed, refuse to enter p
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/201255134525433822.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/5/20125519132131734_20.jpg)
 
 ### Related:
 

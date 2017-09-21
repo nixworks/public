@@ -8,6 +8,7 @@ The top rate of VAT rises from 17.5% to 20% as the government looks to boost tax
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12099638)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

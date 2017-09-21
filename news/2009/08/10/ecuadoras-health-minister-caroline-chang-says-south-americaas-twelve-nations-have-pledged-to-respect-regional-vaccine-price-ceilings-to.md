@@ -8,6 +8,7 @@ South America&#039;s twelve nations on Saturday pledged to respect regional vacc
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/10/south-america-agrees-on-price-ceilings-for-the-ah1n1-vaccine)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19768/200x200/9c0585e8ac9baf952c9829622ce65df9.jpg)
 
 ### Related:
 

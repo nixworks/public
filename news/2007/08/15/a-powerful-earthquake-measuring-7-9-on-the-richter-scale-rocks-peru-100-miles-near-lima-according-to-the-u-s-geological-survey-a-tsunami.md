@@ -11,6 +11,7 @@ Powerful earthquake registering 7.7 magnitude strikes near Lima, Peru, according
 2. [Reuters via Sydney Morning Herald](http://www.smh.com.au/news/world/people-here-hugging-and-crying-in-fear/2007/08/16/1186857642862.html?sssdmh=dm16.274167)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSN1529452420070816?feedType=RSS&feedName=topNews&rpc=22&sp=true)
 4. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007gbcv.php)
+4. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

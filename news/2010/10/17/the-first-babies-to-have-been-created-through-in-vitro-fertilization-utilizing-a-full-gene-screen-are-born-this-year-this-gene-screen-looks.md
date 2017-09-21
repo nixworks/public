@@ -8,6 +8,7 @@ Two women have given birth to healthy babies from eggs screened for genetic defe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69E2H020101015)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20101015&t=2&i=226538348&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-15T162501Z_01_BTRE69E19LR00_RTROPTP_0_ITALY)
 
 ### Related:
 

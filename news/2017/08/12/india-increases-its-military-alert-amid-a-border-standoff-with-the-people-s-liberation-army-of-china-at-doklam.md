@@ -8,6 +8,7 @@ India has increased its military alert along its eastern border with China, plac
 ### Source:
 
 1. [Bloomberg News](https://www.bloomberg.com/news/articles/2017-08-12/india-s-military-said-to-increase-alert-along-tense-china-border)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aOGxYl70WQ/v0/1200x783.jpg)
 
 ### Related:
 

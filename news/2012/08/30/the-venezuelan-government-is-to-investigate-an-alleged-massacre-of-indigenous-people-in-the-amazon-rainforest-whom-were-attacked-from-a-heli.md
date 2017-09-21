@@ -8,6 +8,7 @@ Venezuela announced it is investigating an alleged massacre of indigenous people
 ### Source:
 
 1. [Merco Press](http://en.mercopress.com/2012/08/30/venezuela-investigating-alleged-massacre-of-indigenous-people-in-the-amazon)
+1. [Cover Image](http://en.mercopress.com/data/cache/noticias/37628/200x200/ve.jpg)
 
 ### Related:
 

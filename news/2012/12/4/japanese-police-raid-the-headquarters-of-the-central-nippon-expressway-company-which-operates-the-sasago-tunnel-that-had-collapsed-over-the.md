@@ -8,6 +8,7 @@ Tokyo police are also inspecting the tunnel where hundreds of falling concrete c
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57556936/officials-search-japan-tunnel-operators-offices-after-collapse/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/12/03/2ed8d638-a645-11e2-a3f0-029118418759/japan.jpg)
 
 ### Related:
 

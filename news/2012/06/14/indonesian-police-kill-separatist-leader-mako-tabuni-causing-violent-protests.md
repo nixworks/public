@@ -8,6 +8,7 @@ Police in the restive Indonesian province of Papua shoot dead separatist leader 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-18442620)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60902000/jpg/_60902105_60902104.jpg)
 
 ### Related:
 

@@ -14,6 +14,7 @@ Lech Kaczynski signs Lisbon EU reform treaty leaving only Czechs to ratify docum
 5. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1077572&lang=eng_news)
 6. [The Times](http://www.timesonline.co.uk/tol/news/politics/article6866817.ece)
 7. [Xinhua](http://news.xinhuanet.com/english/2009-10/09/content_12196341.htm)
+7. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

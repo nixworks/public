@@ -8,6 +8,7 @@ President Vladimir Putin has fallen under the spell of Satan and faces eternal d
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/06/us-ukraine-crisis-patriarch-putin-idUSKBN0H10F920140906)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

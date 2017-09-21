@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Nasdaq](http://m.nasdaq.com/article/keycorp-key-closes-hellowallet-purchase-from-morningstar-cm811727)
+1. [Cover Image](http://www.nasdaq.com/images/dreamit.jpg)

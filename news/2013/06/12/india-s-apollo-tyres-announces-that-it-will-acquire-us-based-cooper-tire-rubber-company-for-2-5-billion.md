@@ -8,3 +8,4 @@ In what&rsquo;s being cheered as the largest M&amp;A deal in India&rsquo;s autom
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/business/india-business/Apollo-Tyres-to-acquire-US-co-for-14-5k-cr/articleshow/20566082.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/20567408.cms)

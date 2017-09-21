@@ -9,6 +9,7 @@ A mass grave including the bodies of women and children has been uncovered in th
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [The Independent](http://www.independent.co.uk/news/world/middle-east/palmyra-mass-grave-containing-bodies-of-beheaded-women-and-children-found-after-isis-driven-out-of-a6964856.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/04/02/10/palmyra-graf.jpg)
 
 ### Related:
 

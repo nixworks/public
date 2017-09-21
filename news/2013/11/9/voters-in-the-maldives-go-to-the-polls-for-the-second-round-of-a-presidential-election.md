@@ -8,6 +8,7 @@ Voters in the Maldives have been voting for a new president, amid tensions after
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24850372)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71009000/jpg/_71009690_71009689.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police in London have arrested and charged three men in connection with the seiz
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0728/drugs.html)
+1. [Cover Image](https://img.rasset.ie/0000ed5f-1600.jpg)
 
 ### Related:
 

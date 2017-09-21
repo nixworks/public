@@ -8,6 +8,7 @@ Eighteen people have been killed in a twin bombing in Baghdad, Iraqi police and 
 ### Source:
 
 1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/twin-bombing-kills-18-in-baghdad-16069679.html)
+1. [Cover Image](http://www.belfasttelegraph.co.uk/migration_catalog/article25800351.ece/ALTERNATES/h342/World%20News%207-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0124/breaking28.htm)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3838886,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

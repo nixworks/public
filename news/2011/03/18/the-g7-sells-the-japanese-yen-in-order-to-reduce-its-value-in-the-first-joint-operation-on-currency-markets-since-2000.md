@@ -10,6 +10,7 @@ Leading central banks carry out the first co-ordinated currency intervention for
 1. [BBC](http://www.bbc.co.uk/news/business-12781534)
 2. [Bloomberg](http://www.bloomberg.com/news/2011-03-18/g-7-intervenes-to-weaken-yen-as-surging-currency-threathens-quake-recovery.html)
 3. [Kyodo News](http://english.kyodonews.jp/news/2011/03/79444.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

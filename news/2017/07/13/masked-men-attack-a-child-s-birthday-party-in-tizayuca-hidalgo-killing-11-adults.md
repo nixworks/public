@@ -8,6 +8,7 @@ Police said they found three children alive but all the adults at the party were
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-40602366)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1E48/production/_96925770_7efde792-1c7d-45e3-ad85-0be89fecb5c7.jpg)
 
 ### Related:
 

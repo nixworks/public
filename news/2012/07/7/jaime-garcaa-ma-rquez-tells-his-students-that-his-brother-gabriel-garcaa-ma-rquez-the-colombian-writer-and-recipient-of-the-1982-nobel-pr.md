@@ -9,6 +9,7 @@ The brother of Gabriel Garcia Marquez says the Colombian writer and Nobel laurea
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18749389)
 2. [The Guardian](http://www.guardian.co.uk/books/2012/jul/07/gabriel-garcia-marquez-career-dementia)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61423000/jpg/_61423345_003726578-1.jpg)
 
 ### Related:
 

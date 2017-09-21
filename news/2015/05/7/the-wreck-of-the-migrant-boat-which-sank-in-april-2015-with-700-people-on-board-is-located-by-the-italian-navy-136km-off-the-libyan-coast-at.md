@@ -8,6 +8,7 @@ The Italian navy has found the sunken wreck of a migrant boat in which 700 peopl
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Italian-navy-finds-migrant-disaster-boat-20150507)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3181/6f6608104ac141a0bb4fc1b7dde443f0.jpg)
 
 ### Related:
 

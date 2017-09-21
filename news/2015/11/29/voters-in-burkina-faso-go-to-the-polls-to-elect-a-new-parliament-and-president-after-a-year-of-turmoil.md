@@ -8,6 +8,7 @@ Counting is under way in Burkina Faso where voters have been electing a new pres
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-34956830)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/55CC/production/_86946912_030362811.jpg)
 
 ### Related:
 

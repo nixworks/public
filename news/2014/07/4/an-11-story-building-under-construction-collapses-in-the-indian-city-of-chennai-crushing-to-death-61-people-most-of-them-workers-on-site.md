@@ -9,6 +9,7 @@ The rescue operation at an 11-storey building that collapsed in the Indian city 
 
 1. [BBC News](http://www.bbc.com/news/world-asia-india-28156440)
 2. [CNN](http://edition.cnn.com/2014/07/04/world/asia/india-building-collapse/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/75985000/jpg/_75985255_75985254.jpg)
 
 ### Related:
 

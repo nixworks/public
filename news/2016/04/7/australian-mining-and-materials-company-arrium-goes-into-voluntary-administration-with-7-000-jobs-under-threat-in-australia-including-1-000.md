@@ -8,6 +8,7 @@ More than 1,000 jobs could be axed at Whyalla but more than 6,700 nationwide are
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-04-07/arrium-administration-puts-a-cloud-over-7000-jobs-nationwide/7306990)
+1. [Cover Image](http://www.abc.net.au/news/image/6979712-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israel-orders-envoys-take-urgent-action-against-palestinian-efforts-at-un-1.331652)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.319861.1288900625!/image/4077307193.jpg_gen/derivatives/headline_1200x630/4077307193.jpg)
 
 ### Related:
 

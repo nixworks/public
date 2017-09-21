@@ -10,6 +10,7 @@ A new book on the president&#39;s Iraq policy also describes the enmity over the
 1. [NYT](http://www.nytimes.com/2004/04/16/international/middleeast/16CND-SADR.html?hp)
 2. [NYT](http://www.nytimes.com/2004/04/16/politics/16CND-BOOK.html?hp)
 3. [Spiegel](http://www.spiegel.de/politik/ausland/0,1518,295733,00.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

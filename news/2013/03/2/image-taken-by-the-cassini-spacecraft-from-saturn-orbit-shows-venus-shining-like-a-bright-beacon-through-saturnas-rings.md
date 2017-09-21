@@ -9,6 +9,7 @@
 
 1. [ESA](http://www.esa.int/Our_Activities/Space_Science/Cassini_spies_Venus_from_Saturn_orbit)
 2. [NASA](http://www.jpl.nasa.gov/news/news.php?release=2013-079)
+2. [Cover Image](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2013/03/venus_from_saturn/12550512-1-eng-GB/Venus_from_Saturn_large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-malaysia-sexcrimes-insight-idUSKBN1390AT?feedType=RSS&feedName=newsOne)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161114&t=2&i=1161553438&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAD08S)
 
 ### Related:
 

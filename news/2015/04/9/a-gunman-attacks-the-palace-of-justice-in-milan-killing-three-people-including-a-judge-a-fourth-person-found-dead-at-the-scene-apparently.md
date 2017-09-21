@@ -9,6 +9,7 @@ Shooter arrested in nearby city of Vimercate, according to Italy&#039;s interior
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-09-Italy-Courthouse%20Shooting/id-46ef2e5f71f8490b9299341b1b02f523)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/11524481/Milan-court-shooting-live.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03260/Milano_3260909k.jpg)
 
 ### Related:
 

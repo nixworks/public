@@ -8,6 +8,7 @@ Anti-government demonstrators in Khartoum faced riot police in protests inspired
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011130131451294670.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/30/2011130135945964833_20.jpg)
 
 ### Related:
 

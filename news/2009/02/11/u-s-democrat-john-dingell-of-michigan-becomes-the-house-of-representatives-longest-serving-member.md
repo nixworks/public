@@ -8,6 +8,7 @@ Michigan Democrat John Dingell today becomes the longest-serving member of the H
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/politicaljunkie/2009/02/john_dingell_longest_serving_h.html)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

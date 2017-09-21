@@ -8,6 +8,7 @@ A pilot, two skydive instructors and two tandem jumpers were believed to be in t
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/5-killed-in-small-plane-crash-on-kauai-in-hawaii/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/05/23/118de0b3-3281-46de-b4c3-9741e55718de/10620913g.jpg)
 
 ### Related:
 

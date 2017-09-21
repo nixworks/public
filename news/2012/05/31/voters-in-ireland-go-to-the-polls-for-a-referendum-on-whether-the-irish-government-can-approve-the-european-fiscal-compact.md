@@ -12,6 +12,7 @@ FOCUS&#x20;&#x3A;&#x20;Close&#x20;to&#x20;three&#x20;million&#x20;Irish&#x20;peo
 3. [France24](http://www.france24.com/en/20120531-ireland-referendum-vote-european-union-austerity-fiscal-treaty)
 4. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/europe-watches-referendum-vote-on-fiscal-treaty-553576.html)
 5. [The Guardian](http://www.guardian.co.uk/business/2012/may/31/eurozone-crisis-ireland-referendum)
+5. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/edition/FRDN%20FOCUS%20A%200531%20%281%29%20%20Ep%20%20.jpg)
 
 ### Related:
 

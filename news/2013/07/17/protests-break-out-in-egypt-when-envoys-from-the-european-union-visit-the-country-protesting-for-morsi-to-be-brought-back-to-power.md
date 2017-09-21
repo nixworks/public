@@ -8,6 +8,7 @@ Crowds again fill Cairo after EU foreign policy chief calls for deposed presiden
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/07/2013717124459915328.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/7/18/20137182125535734_20.jpg)
 
 ### Related:
 

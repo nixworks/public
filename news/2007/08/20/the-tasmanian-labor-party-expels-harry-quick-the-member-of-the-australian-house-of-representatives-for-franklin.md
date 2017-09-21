@@ -8,6 +8,7 @@ Rebel Federal Labor MP Harry Quick has been thrown out of the party.
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/20/2009905.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2518322-1x1-700x700.jpg)
 
 ### Related:
 

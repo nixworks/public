@@ -9,6 +9,7 @@ Right after North Korea claimed a successful nuclear fusion test on May 12, the 
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jIUMgKnfmtyg8T8wMAghB4V2lInAD9GFIKB02)
 2. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2010/06/21/2010062101166.html)
+2. [Cover Image](http://image.chosun.com/facebook/newson.gif)
 
 ### Related:
 

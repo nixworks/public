@@ -8,6 +8,7 @@ Rescuers in the Philippines are digging through rubble with shovels and their ba
 ### Source:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/philippine-quake-kills-43-dozens-missing-20120207-1r297.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

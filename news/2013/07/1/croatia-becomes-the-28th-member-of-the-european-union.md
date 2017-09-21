@@ -8,6 +8,7 @@ Tens of thousands of Croatians cheer the country&#039;s entry into the European 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2013-07-01/croatia-joins-european-union/4790618)
+1. [Cover Image](http://www.abc.net.au/news/image/4791064-1x1-700x700.jpg)
 
 ### Related:
 

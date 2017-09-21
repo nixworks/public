@@ -8,6 +8,7 @@ A search operation for three missing Irish Coast Guard crew members will continu
 ### Source:
 
 1. [RTÉ](https://www.rte.ie/news/2017/0314/859533-coastguard-mayo-incident/)
+1. [Cover Image](https://img.rasset.ie/000dc15f-1600.jpg)
 
 ### Related:
 

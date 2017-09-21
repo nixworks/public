@@ -9,6 +9,7 @@ CARACAS, Venezuela (AP) — Venezuela&#039;s electoral council on Tuesday took s
 
 1. [AP](http://bigstory.ap.org/article/ffe3deb9e14543e49ca65de198e533ec/venezuela-paves-way-petition-recall-maduro)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-26/venezuelan-opposition-cleared-to-collect-referendum-signatures)
+2. [Cover Image](http://binaryapi.ap.org/ffb613d7b34449d2b9bcc61e5decc996/460x.jpg)
 
 ### Related:
 

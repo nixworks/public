@@ -9,6 +9,7 @@ At least four people died in clashes on Friday as supporters of deposed Presiden
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24402976)
 2. [Reuters](http://www.reuters.com/article/2013/10/04/us-egypt-protests-idUSBRE9930HV20131004)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131004&t=2&i=800068991&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99312VI00)
 
 ### Related:
 

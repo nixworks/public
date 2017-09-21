@@ -8,6 +8,7 @@ Nine people are arrested and eight police officers hurt during violent clashes s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-13167041)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52312000/jpg/_52312671_tesco_bristol_jonathan_taphouse-12.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A battle between ISIS and rebels for control of an opposition stronghold in nort
 
 1. [AFP via Lebanon Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Sep-05/314089-47-dead-as-rebels-battle-isis-in-northern-syria-activists.ashx)
 2. [Reuters](http://www.reuters.com/article/2015/09/05/us-mideast-crisis-syria-marea-idUSKCN0R50DB20150905#top)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/09/05/451509_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

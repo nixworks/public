@@ -8,6 +8,7 @@ Pakistan successfully test-fired a nuclear-capable ballistic missile on Wednesda
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/04/25/us-pakistan-missile-test-idUSBRE83O05X20120425)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

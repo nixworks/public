@@ -10,6 +10,7 @@ World leaders gather in Seoul onThursday and Friday for a Group of 20 summit aim
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101111145320565845.html)
 2. [Reuters](http://www.reuters.com/article/idUSN0911933720101111)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/11/11/96/0301000000AEN20101111009200315F.HTML)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

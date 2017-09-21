@@ -9,6 +9,7 @@ Afghan President Hamid Karzai calls the first joint operation by Russian and US 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/20101030135741522993.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11659814)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

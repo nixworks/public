@@ -8,6 +8,7 @@ At least 25 people, mostly students, have been killed by unknown gunmen in Mubi,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19801814)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63246000/jpg/_63246759_63246758.jpg)
 
 ### Related:
 

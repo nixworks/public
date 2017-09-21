@@ -8,6 +8,7 @@ A block of ice a quarter the size of Wales calves from the eastern side of the A
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-40321674)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15698/production/_96540778_index.jpg)
 
 ### Related:
 

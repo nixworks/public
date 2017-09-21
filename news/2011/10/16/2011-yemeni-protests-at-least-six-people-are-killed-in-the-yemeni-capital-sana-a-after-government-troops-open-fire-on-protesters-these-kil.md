@@ -8,6 +8,7 @@ Half a dozen or more people are killed in Yemen on Sunday as protesters against 
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/at-least-6-dead-in-yemen-protests-2011-10-16)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

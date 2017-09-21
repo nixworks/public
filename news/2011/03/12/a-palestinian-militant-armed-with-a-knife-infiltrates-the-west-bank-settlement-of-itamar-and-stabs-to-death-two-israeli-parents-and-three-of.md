@@ -8,6 +8,7 @@ The attack in Itamar, a religious settlement in the northern West Bank, was the 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/03/12/world/middleeast/12mideast.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

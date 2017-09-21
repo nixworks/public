@@ -9,6 +9,7 @@ Live updates as Storm Desmond brings flooding and travel disruption to parts of 
 
 1. [BBC](http://www.bbc.co.uk/news/live/uk-35015243)
 2. [The Manchester Evening News](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-piccadilly-trains-delays-landslip-10553844)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

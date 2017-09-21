@@ -8,6 +8,7 @@ An American, British and Afghan force swept into the city of Marja to destroy th
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/02/13/world/asia/13afghan.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/02/13/world/13afghan01/13afghan01-thumbStandard.jpg)
 
 ### Related:
 

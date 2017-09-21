@@ -9,6 +9,7 @@ Syrian outpost completely destroyed, leaving two wounded; defense minister warns
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/2013324103946710666.html)
 2. [The Times of Israel](http://www.timesofisrael.com/idf-retaliates-with-missile-into-syria/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/11/F080710YZ131.jpg)
 
 ### Related:
 

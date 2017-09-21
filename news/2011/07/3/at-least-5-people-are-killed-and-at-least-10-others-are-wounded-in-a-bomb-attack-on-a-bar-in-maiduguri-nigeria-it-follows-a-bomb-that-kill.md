@@ -10,6 +10,7 @@ At least 10 people die in attacks blamed on Islamist militants in the north-east
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/20117320105949969.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-14009284)
 3. [Reuters](http://uk.reuters.com/article/2011/07/03/uk-nigeria-blast-idUKTRE7621W920110703)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53836000/jpg/_53836175_012319982-1.jpg)
 
 ### Related:
 

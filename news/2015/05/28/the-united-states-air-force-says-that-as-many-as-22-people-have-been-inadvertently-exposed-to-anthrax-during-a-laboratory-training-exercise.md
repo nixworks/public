@@ -8,6 +8,7 @@ As many as 22 personnel may have been exposed to anthrax during a laboratory tra
 ### Source:
 
 1. [AFP via Yahoo! News](https://uk.news.yahoo.com/us-army-says-22-possibly-exposed-anthrax-korea-005404630.html#x8mTJaq)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/uooIt4QPqr9wRDpTPMHzBg--/aD00NzM7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/17e4609daa6da6b03ba0069d601fe8b4825eeceb.jpg)
 
 ### Related:
 

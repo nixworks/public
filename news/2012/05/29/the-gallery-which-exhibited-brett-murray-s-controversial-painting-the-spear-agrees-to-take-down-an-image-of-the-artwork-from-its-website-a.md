@@ -8,6 +8,7 @@ Thousands march through the streets of Johannesburg as outrage and tension over 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/05/2012529162553851881.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/29/201252917191148734_20.jpg)
 
 ### Related:
 

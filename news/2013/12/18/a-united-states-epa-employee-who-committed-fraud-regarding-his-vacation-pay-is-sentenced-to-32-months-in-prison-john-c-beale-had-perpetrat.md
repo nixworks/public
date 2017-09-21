@@ -8,6 +8,7 @@ A high-ranking EPA official who bilked taxpayers out of nearly $1 million by pre
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/politics/2013/12/18/epa-fraudster-sentenced-for-outrageous-cia-scam/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2013/12/18/epa-fraudster-sentenced-for-outrageous-cia-scam/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446846850043.jpg?ve=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Many died in their cars while fleeing the fire, which may have been started by a
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-06-18-EU--Portugal-Forest%20Fires/id-7f327208cca64801bd08fd8ae0af88e4)
 2. [BBC](http://www.bbc.com/news/world-europe-40316934)
 3. [Euronews](http://www.euronews.com/2017/06/18/death-toll-climbs-above-60-in-portugal-forest-fire)
+3. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0566v1n.jpg)
 
 ### Related:
 

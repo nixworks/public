@@ -9,6 +9,7 @@ Villagers in northern Nigeria say they have repelled an attack by suspected mili
 
 1. [BBC](http://www.bbc.com/news/world-africa-27412057)
 2. [CNN](http://edition.cnn.com/2014/05/15/world/africa/nigeria-girls-abducted/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74852000/jpg/_74852032_017773199-1.jpg)
 
 ### Related:
 

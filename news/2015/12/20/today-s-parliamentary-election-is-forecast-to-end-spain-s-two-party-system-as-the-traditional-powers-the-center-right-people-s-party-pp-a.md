@@ -9,6 +9,7 @@ The election on December 20 will be colored by the memories of street protests i
 
 1. [Newsweek](http://www.newsweek.com/spanish-elections-all-you-need-know-407060)
 2. [Reuters via Huffington Post](http://www.huffingtonpost.com/entry/spain-election-results_5676bcdee4b06fa6887db39c)
+2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2015/12/18/1218spainelections.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@ The election on December 20 will be colored by the memories of street protests i
 7. [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md) _Context: People's Party, Socialist Workers' Party_
 8. [Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-pa.md) _Context: Spanish, election_
 9. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: Spanish_
-10. [More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. ](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-with-catalan-president-carles-puigdemont-to-confirm-their-support-for-the-october-1-independe.md) _Context: Spanish_
+10. [Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." ](/news/2017/09/20/spanish-police-raid-catalan-government-offices-and-arrest-catalan-officials-as-part-of-the-effort-to-halt-a-banned-referendum-on-independenc.md) _Context: Spanish_

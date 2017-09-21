@@ -8,6 +8,7 @@ The bus collided with a truck in the northern Indian state of Uttar Pradesh.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-38673715)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/9F51/production/_93658704_etah.jpg)
 
 ### Related:
 

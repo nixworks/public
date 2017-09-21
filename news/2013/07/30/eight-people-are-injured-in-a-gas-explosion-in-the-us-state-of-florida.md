@@ -8,6 +8,7 @@ At least eight people are injured in a series of explosions at a propane gas pla
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-23499689)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69014000/jpg/_69014476_69014474.jpg)
 
 ### Related:
 

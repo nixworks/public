@@ -9,6 +9,7 @@ Five people are injured in a series of Israeli air raids on the Gaza Strip after
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25755078)
 2. [The Times of Israel](http://www.timesofisrael.com/sirens-wail-in-ashkelon-after-rocket-fired-from-gaza/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72313000/jpg/_72313382_72313381.jpg)
 
 ### Related:
 

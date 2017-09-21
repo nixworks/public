@@ -8,6 +8,7 @@ Feb. 28 - At least six people dead and four others missing after gas explosion c
 ### Source:
 
 1. [Reuters](http://www.reuters.com/video/2012/02/28/deadly-building-collapse-in-russia?videoId=230908471&videoChannel=117760)
+1. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/1/6/n/h/g1nx/reuters04?videoId=34081005)
 
 ### Related:
 

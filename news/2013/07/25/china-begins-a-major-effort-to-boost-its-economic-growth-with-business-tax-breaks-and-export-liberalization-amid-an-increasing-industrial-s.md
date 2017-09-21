@@ -8,6 +8,7 @@ China unveils a series of moves aimed at boosting growth, indicating that policy
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-23445528)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52194000/jpg/_52194625_yuan.jpg)
 
 ### Related:
 

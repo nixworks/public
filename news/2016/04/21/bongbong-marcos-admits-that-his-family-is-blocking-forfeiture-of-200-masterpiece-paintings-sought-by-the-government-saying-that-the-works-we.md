@@ -8,6 +8,7 @@ MANILA &ndash; Vice-presidential candidate Senator Ferdinand &#39;&#39;Bongbong&
 ### Source:
 
 1. [ABS-CBN News](http://news.abs-cbn.com/nation/04/21/16/bongbong-admits-blocking-forfeiture-of-200-missing-artworks)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/2016/nation/bongbong.jpg)
 
 ### Related:
 

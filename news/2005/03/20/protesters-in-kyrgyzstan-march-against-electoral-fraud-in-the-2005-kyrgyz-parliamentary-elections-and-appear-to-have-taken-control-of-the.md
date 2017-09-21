@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4365945.stm)
 2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/20/kyrgyzstan.riots.ap/)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7953528)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

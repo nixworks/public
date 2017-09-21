@@ -8,6 +8,7 @@ Indigenous leaders from across the country reject the idea of being recognised i
 ### Source:
 
 1. [Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-05-26/constitutional-recognition-rejected-by-indigenous-leaders-uluru/8563928)
+1. [Cover Image](http://www.abc.net.au/news/image/8564494-1x1-700x700.jpg)
 
 ### Related:
 

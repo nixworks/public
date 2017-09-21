@@ -8,6 +8,7 @@ Research indicates that there has been a substantial increase in the level of un
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0730/eulisbon.html)
+1. [Cover Image](https://img.rasset.ie/000253a0-1600.jpg)
 
 ### Related:
 

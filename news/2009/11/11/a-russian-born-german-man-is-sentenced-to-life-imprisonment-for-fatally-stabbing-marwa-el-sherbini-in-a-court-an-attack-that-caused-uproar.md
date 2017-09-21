@@ -10,6 +10,7 @@ The case of an Egyptian woman who had been stabbed to death in front of her husb
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jLVEj9NpxSbA9S_Qg4F4N-S48GCgD9BTCQTO0)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4881747,00.html)
 3. [NY Times](http://www.nytimes.com/2009/11/12/world/europe/12germany.html)
+3. [Cover Image](https://static01.nyt.com/images/2009/11/11/world/11cnd-germanyspan/thumbStandard.jpg)
 
 ### Related:
 

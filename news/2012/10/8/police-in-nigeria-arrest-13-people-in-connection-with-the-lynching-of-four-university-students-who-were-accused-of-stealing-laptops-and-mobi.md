@@ -8,6 +8,7 @@ Thirteen people are arrested after four Nigerian students accused of stealing we
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19869492)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63356000/gif/_63356280_nigeria_portharcourt_0512.gif)
 
 ### Related:
 

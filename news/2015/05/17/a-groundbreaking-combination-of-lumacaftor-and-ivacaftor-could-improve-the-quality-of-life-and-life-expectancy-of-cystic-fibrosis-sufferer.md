@@ -8,6 +8,7 @@ A &quot;groundbreaking&quot; cystic fibrosis therapy could profoundly improve qu
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/health-32755065)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/83024000/jpg/_83024018_c0193876-ippb_therapy_for_cystic_fibrosis-spl.jpg)
 
 ### Related:
 

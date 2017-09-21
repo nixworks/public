@@ -8,6 +8,7 @@ A heavy-lift Ariane-5 rocket blasted off from French Guiana on Friday putting in
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/scienceNews/idUSL0317978520070504)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070504&t=2&i=749060&w=&fh=545px&fw=&ll=&pl=&sq=&r=749060)
 
 ### Related:
 

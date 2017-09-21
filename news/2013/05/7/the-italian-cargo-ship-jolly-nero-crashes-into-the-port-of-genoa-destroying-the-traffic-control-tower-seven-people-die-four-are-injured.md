@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world-news/jolly-nero-cargo-ship-slams-into-genoa-port-topples-control-tower-and-kills-seven/story-fndir2ev-1226637964708)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/d5733bdfaf3658a5e5c7cd06afbfc4c6)
 
 ### Related:
 

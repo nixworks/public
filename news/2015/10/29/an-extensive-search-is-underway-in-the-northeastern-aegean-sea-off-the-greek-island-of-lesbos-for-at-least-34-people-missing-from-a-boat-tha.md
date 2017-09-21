@@ -10,6 +10,7 @@ An extensive search was underway off a Greek island on Thursday for at least 34 
 1. [AP via Houston Chronicle](http://www.chron.com/news/crime/article/The-Latest-Dozens-missing-after-migrant-boat-6597515.php)
 2. [AP via Kathimerini](http://www.ekathimerini.com/202947/article/ekathimerini/news/greece-raises-death-toll-to-8-from-capsized-boat)
 3. [Reuters](http://www.reuters.com/article/2015/10/29/us-europe-greece-migrants-idUSKCN0SN1BA20151029)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151029&t=2&i=1090669476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9S0L5)
 
 ### Related:
 

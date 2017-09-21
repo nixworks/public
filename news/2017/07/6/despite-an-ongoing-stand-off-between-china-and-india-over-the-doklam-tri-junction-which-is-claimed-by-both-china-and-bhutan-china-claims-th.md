@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-59456587,width-672,resizemode-4,imglength-32253/news/defence/no-dispute-with-bhutan-in-doklam-china.jpg)
 
 ### Related:
 

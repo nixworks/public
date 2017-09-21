@@ -8,6 +8,7 @@ Moody&#039;s cuts the ratings of Australia&#039;s big four banks from Aa2 to Aa1
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/moodys-downgrades-ratings-for-big-four-banks-20110518-1eso8.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/b/r/b/f/image.related.thumbnail.320x214.1eso8.png/1305702505137.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Wells Fargo has long been the envy of the banking industry for its ability to se
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-wells-fargo-settlement-idUSKCN11E2CJ)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160908&t=2&i=1152823130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8717Z)
 
 ### Related:
 

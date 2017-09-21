@@ -9,6 +9,7 @@ Sarkozy urges Security Council overhaul, saying Africa should get permanent seat
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/05/2010531171254212886.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10202964.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

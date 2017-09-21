@@ -9,6 +9,7 @@ Leaked IAEA report says visit to Qom facility raises questions of possible furth
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/20091116152646483339.html)
 2. [UPI](http://www.upi.com/Top_News/US/2009/11/16/IAEA-Iran-may-have-more-nuke-facilities/UPI-78021258400889/)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

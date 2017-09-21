@@ -8,6 +8,7 @@ The World Social Forum (WSF) is being held - after a year&#039;s break - in the 
 ### Source:
 
 1. [SwissInfo](http://www.swissinfo.ch/eng/front/Looking_for_a_better_world_in_the_Amazon.html?siteSect=108&sid=10236553&cKey=1232975744000&ty=st)
+1. [Cover Image](http://www.swissinfo.ch/blob/16730/54c3a237a872df6016372a6b3725086c/sriimg20090119-10215021-1-data.jpg)
 
 ### Related:
 

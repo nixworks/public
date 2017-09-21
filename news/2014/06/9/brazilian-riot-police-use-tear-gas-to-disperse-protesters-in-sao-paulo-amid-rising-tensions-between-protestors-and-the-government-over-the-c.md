@@ -8,6 +8,7 @@ Metro workers in Sao Paulo suspend a strike that has caused traffic chaos, two d
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-27761723)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75417000/jpg/_75417070_75416899.jpg)
 
 ### Related:
 

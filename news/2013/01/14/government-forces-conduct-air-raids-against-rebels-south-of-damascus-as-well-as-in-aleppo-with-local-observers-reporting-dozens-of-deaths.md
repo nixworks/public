@@ -8,6 +8,7 @@ Eight children reported killed in airstrikes southwest of capital, amid calls fo
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/201311418552861272.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/14/2013114204040935734_20.jpg)
 
 ### Related:
 

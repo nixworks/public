@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fairfax NZ](http://www.stuff.co.nz/national/8945358/Big-quake-shakes-central-New-Zealand)
+1. [Cover Image](https://static2.stuff.co.nz/1374402134/373/8946373.jpg)
 
 ### Related:
 

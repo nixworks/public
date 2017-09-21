@@ -8,6 +8,7 @@ A 59-year-old man is arrested on suspicion of making threats to the Conservative
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-gloucestershire-14668051)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54737000/jpg/_54737471_009195272-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Powerful quake that struck of the north coast of the Ishikawa prefecture trigger
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,21446505-401,00.html)
 2. [AP via FOX](http://www.foxnews.com/story/0,2933,260942,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

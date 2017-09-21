@@ -9,6 +9,7 @@ Around 50 activists of a Tamil outfit on Friday barged into the office of Sri La
 
 1. [The Hindu](http://www.hindu.com/2009/10/03/stories/2009100357670100.htm)
 2. [Times of India](http://timesofindia.indiatimes.com/news/city/delhi/Tamil-activists-breach-Lanka-mission-security/articleshow/5081529.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

@@ -11,6 +11,7 @@ British police investigating whether a News Corporation subsidiary hacked into c
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601102&sid=a1_Ce1OkPe8A)
 3. [The New York Times](http://www.nytimes.com/2009/07/10/world/europe/10britain.html?hp)
 4. [The Times](http://www.timesonline.co.uk/tol/news/politics/article6670747.ece)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

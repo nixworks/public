@@ -9,6 +9,7 @@ Police in New York have asked the FBI for help investigating a possible serial k
 
 1. [New York Daily News](http://www.nydailynews.com/new-york/nyc-crime/fbi-larger-role-gilgo-beach-murders-investigation-article-1.2461853)
 2. [Reuters](http://www.reuters.com/article/us-new-york-serial-killer-idUSKBN0TU0FE20151211#TCQI7UrfHHlUbiy2.97)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

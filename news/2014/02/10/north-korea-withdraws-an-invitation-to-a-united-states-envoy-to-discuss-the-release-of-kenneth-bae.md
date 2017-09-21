@@ -8,6 +8,7 @@ SEOUL, South Korea (AP) — North Korea has canceled for a second time its invit
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2014/02/10/north-korea-rescinds-invitation-to-us-envoy/5357743/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

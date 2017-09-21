@@ -10,6 +10,7 @@ FBI agents made seven arrests and raided a warehouse in Miami in a terrorism inv
 1. [Associated Press](http://www.kyw1060.com/pages/49468.php?)
 2. [CNN](http://www.cnn.com/2006/US/06/23/miami.reax/index.html)
 3. [FOX News](http://www.foxnews.com/story/0,2933,200677,00.html)
+3. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

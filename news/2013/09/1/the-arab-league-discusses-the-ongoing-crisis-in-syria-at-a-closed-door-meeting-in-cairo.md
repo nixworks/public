@@ -9,6 +9,7 @@ Secretary of State John Kerry says the US now has evidence of sarin gas use in S
 
 1. [AP via News24](http://www.news24.com/World/News/Kerry-US-has-sarin-gas-proof-20130901)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013831225922651174.html)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2464/f09da2e06520494aa21f9edaaa859f13.jpg)
 
 ### Related:
 

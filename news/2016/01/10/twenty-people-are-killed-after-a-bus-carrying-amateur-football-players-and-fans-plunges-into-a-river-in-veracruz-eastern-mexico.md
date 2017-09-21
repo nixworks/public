@@ -9,6 +9,7 @@ A bus carrying amateur football players and fans plunged into a river after care
 
 1. [AP](http://bigstory.ap.org/article/3481581456ae43f0b1a16b24fda90127/20-dead-southern-mexico-bus-crash)
 2. [Business Standard](http://www.business-standard.com/article/pti-stories/16-dead-in-football-team-s-bus-crash-in-mexico-116011100033_1.html)
+2. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

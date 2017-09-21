@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN13G0OS?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161121&t=2&i=1162507028&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAK0N5)
 
 ### Related:
 

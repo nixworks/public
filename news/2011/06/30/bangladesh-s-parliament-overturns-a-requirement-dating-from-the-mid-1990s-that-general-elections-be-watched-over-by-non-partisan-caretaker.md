@@ -8,6 +8,7 @@ The Bangladeshi parliament overturns a 15-year-old requirement that general elec
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13973576)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53778000/jpg/_53778914_012212711-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The police were out in force as students protested in London against higher tuit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-15646709)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56603000/jpg/_56603691_protestafpgetty.jpg)
 
 ### Related:
 

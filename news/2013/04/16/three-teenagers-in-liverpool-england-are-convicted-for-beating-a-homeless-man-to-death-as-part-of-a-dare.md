@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Liverpool Echo](http://www.liverpoolecho.co.uk/2013/04/15/4-15pm-update-three-teens-convicted-of-murdering-homeless-man-in-liverpool-can-be-named-for-first-time-100252-33177046/)
+1. [Cover Image](http://i3.liverpoolecho.co.uk/incoming/article3008274.ece/ALTERNATES/s1200/left-to-right-simon-evans-connor-doran-brandon-doran-620-892001741.jpg)
 
 ### Related:
 

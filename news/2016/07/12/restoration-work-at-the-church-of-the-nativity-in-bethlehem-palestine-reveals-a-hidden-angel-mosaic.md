@@ -9,6 +9,7 @@
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3685801/Hidden-angel-mosaic-Bethlehem-shrine-sees-light.html)
 2. [Wafa](http://www.wafa.ps/ar_page.aspx?id=LXNbv6a697490282544aLXNbv6)
+2. [Cover Image](http://www.wafa.ps/http://www.wafa.ps/userfiles/image/%D9%81%D8%B3%D9%8A%D9%81%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D9%87%D8%AF.jpg)
 
 ### Related:
 

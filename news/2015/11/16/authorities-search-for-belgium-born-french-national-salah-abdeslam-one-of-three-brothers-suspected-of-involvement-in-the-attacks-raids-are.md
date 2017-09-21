@@ -16,6 +16,7 @@ Latest updates as Paris manhunt continues and France hits back at Islamic State 
 7. [The Guardian](http://www.theguardian.com/world/live/2015/nov/16/paris-attacks-france-airstrikes-isis-raqqa-syria-live)
 8. [The Independent](http://www.independent.co.uk/news/world/europe/france-attacks-mohamed-abdeslam-salah-abdeslam-fleeing-suspect-bataclan-a6736871.html)
 9. [USA Today](http://www.usatoday.com/story/news/politics/2015/11/16/alabama-refuses-syrian-refugees-paris-terror-attack/75857924/)
+9. [Cover Image](https://i.guim.co.uk/img/media/30614556e532e7262d1fc9ebeb46ff3a3c81233f/0_0_5000_3002/master/5000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=25558506df667a7a1ae54779b3abddc7)
 
 ### Related:
 

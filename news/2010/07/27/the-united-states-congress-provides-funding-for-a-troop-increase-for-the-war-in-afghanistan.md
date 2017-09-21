@@ -8,6 +8,7 @@ The Congress on Tuesday gave President Barack Obama long-delayed funding for his
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE66O1G220100728)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100728&t=2&i=165259071&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-28T002415Z_01_BTRE66P1PPM00_RTROPTP_0_AFGHANISTAN-WIKILEAKS-BRITAIN)
 
 ### Related:
 

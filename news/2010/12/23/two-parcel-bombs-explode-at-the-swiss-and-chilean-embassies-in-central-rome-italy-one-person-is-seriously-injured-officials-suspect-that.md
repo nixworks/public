@@ -10,6 +10,7 @@ A package bomb exploded at the Swiss embassy in Rome on Thursday, seriously woun
 1. [The Australian](http://www.theaustralian.com.au/news/world/parcel-bomb-attacks-hit-rome-embassies/story-e6frg6so-1225975697316)
 2. [The Christian Science Monitor](http://www.csmonitor.com/World/Europe/2010/1223/Rome-explosions-at-embassies-linked-to-Italian-anarchists)
 3. [swissinfo.ch](http://www.swissinfo.ch/eng/politics/Blast_at_Swiss_embassy_in_Rome_injures_one.html?cid=29098584)
+3. [Cover Image](/static/Themes/basic/img/logos/swi_logo_1200x630.jpg)
 
 ### Related:
 

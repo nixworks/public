@@ -8,6 +8,7 @@ Breaking News from Perth and Western Australia | Perth Now
 ### Source:
 
 1. [News Limited](http://www.news.com.au/perthnow/story/0,21598,22204594-948,00.html)
+1. [Cover Image](https://secure.gravatar.com/blavatar/6a8faa896a24e4f53fb01e7b423971c2?s=200&amp;ts=1490886728)
 
 ### Related:
 

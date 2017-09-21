@@ -9,6 +9,7 @@ A man has been rescued after his light aircraft ditched into the sea off Co Wexf
 
 1. [RTÉ](http://www.rte.ie/news/2009/0811/wexford.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0811/breaking71.htm)
+2. [Cover Image](https://img.rasset.ie/0002821a-1600.jpg)
 
 ### Related:
 

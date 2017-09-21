@@ -8,6 +8,7 @@ The boss of business group the British Chambers of Commerce is suspended over hi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-35732291)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10BB1/production/_88592586_88592584.jpg)
 
 ### Related:
 

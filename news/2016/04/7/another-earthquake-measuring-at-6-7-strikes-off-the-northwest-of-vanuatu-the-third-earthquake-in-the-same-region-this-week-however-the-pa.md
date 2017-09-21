@@ -8,6 +8,7 @@ An earthquake measuring 6.7 has struck the northwest of Vanuatu, the third large
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/300919/another-large-earthquake-strikes-vanuatu's-north)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

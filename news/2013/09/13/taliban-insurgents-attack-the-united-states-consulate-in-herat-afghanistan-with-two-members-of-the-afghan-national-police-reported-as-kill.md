@@ -8,6 +8,7 @@ Security forces put down an attack by Taliban insurgents on the US consulate in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24075687#TWEET888151)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69822000/jpg/_69822146_69822145.jpg)
 
 ### Related:
 

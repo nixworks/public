@@ -8,6 +8,7 @@ Radar Failure Causes Sao Paolo To Ground International Flights
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/stories/2007/07/22/world/main3086040.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2007/07/18/d69bf470-a642-11e2-a3f0-029118418759/image3068853x.jpg)
 
 ### Related:
 

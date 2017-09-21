@@ -8,6 +8,7 @@ TORONTO has elected a moderate conservative as mayor, ending the scandal-ridden 
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world/breaking-news/toronto-elects-a-new-mayor-ends-ford-era/story-e6frfkui-1227104614296)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

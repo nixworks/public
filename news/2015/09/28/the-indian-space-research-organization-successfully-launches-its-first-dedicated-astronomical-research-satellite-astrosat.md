@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/ISRO-to-launch-Astrosat/liveblog/49132572.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/49132572.cms?388605)
 
 ### Related:
 

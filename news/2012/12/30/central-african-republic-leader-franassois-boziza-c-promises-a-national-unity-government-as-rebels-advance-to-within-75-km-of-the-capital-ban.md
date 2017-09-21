@@ -9,6 +9,7 @@ Central African Republic leader Francois Bozize promises a national unity govern
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20869064)
 2. [Reuters](http://www.reuters.com/article/2012/12/30/us-car-rebels-idUSBRE8BT03M20121230)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65008000/jpg/_65008773_016820779.jpg)
 
 ### Related:
 

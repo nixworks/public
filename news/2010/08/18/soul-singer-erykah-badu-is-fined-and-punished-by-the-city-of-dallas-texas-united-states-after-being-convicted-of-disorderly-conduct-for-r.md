@@ -11,6 +11,7 @@
 2. [China Daily](http://www.chinadaily.com.cn/entertainment/2010-08/18/content_11168761.htm)
 3. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Erykah-Badu-Fined-For-Naked-Video-Shoot-On-Site-Where-JFK-Was-Assassinated-Dallas/Article/201008315695278?f=rss)
 4. [TIME](http://newsfeed.time.com/2010/08/18/erykah-badu-stips-down-for-controversial-video/)
+4. [Cover Image](https://timenewsfeed.files.wordpress.com/2010/08/ericabadu_0412.jpg?w=260)
 
 ### Related:
 

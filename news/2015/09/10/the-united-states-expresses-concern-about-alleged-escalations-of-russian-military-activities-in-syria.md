@@ -8,6 +8,7 @@ Images reportedly shows Russia pressing ahead with a military buildup in Syria, 
 ### Source:
 
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/kerry-nato-warn-russia-military-acts-syria-150910052623584.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/10/81c32313bf63433db59f09c7e52b4f4b_18.jpg)
 
 ### Related:
 

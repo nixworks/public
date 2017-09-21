@@ -8,6 +8,7 @@ One of Britain&#39;s biggest mobile phone companies has admitted to a major cybe
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/11/17/three-mobile-cyber-hack--six-million-customers-private-data-at-r/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/11/17/three-mobile-mascot-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png)
 
 ### Related:
 

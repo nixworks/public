@@ -8,6 +8,7 @@ Luxembourg will hold new elections after Prime Minister Jean-Claude Juncker anno
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23264789)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68661000/jpg/_68661905_68661904.jpg)
 
 ### Related:
 

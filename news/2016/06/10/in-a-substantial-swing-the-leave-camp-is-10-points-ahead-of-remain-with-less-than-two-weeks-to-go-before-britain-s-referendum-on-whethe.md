@@ -8,3 +8,4 @@ The campaign to take Britain out of the EU has opened up a remarkable 10-point l
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/eu-referendum-poll-brexit-leave-campaign-10-point-lead-remain-boris-johnson-nigel-farage-david-a7075131.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/06/10/18/brexit-michael-gove-boris-johnson.jpg)

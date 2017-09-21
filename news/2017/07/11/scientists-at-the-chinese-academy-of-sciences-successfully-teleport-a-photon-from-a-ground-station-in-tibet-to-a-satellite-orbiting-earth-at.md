@@ -8,6 +8,7 @@ Researchers in China have teleported a photon from the ground to a satellite orb
 ### Source:
 
 1. [MIT Technology Review](https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/)
+1. [Cover Image](https://d267cvn3rvuq91.cloudfront.net/i/images/quantum-orbit.png?cx=0&cy=10&cw=557&ch=313&sw=1200)
 
 ### Related:
 

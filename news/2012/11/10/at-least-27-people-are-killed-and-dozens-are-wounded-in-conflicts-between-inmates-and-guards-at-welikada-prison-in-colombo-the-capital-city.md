@@ -8,6 +8,7 @@ At least 27 people are killed as clashes erupt between inmates and guards at a p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20267735)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64050000/jpg/_64050184_64050183.jpg)
 
 ### Related:
 

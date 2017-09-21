@@ -8,6 +8,7 @@ Northern NSW faces flooding threat, while Victoria and Tasmania prepare for the 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/australia-news/live/2016/jun/05/sydney-weather-flood-warnings-as-torrential-rain-expected-to-last-for-hours)
+1. [Cover Image](https://i.guim.co.uk/img/media/65c7aa38b9daf45c7adc4e353465c37893a36a94/0_475_5096_3058/5096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5cf4972a0f44cb5702e6066eb2ed2e1c)
 
 ### Related:
 

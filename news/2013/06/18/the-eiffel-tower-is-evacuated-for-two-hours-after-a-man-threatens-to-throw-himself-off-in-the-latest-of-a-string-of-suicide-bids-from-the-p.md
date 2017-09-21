@@ -8,6 +8,7 @@ The Eiffel Tower had to be evacuated for two hours after a man threatened to thr
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Eiffel-tower-evacuated-after-suicide-bid-20130618)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/914/fd860c8c71de4309b54ed0e43542068a.jpg)
 
 ### Related:
 

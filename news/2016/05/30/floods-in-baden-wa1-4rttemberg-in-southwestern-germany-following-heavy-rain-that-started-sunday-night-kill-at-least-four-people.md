@@ -8,6 +8,7 @@ One of the victims is a 13-year-old girl who is hit by a train after apparently 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1704172/four-dead-in-flood-chaos-in-southern-germany)
+1. [Cover Image](http://e3.365dm.com/16/05/1600x900/cegrab-20160530-092859-139-1-2048x1536_3475819.jpg?20160530102849)
 
 ### Related:
 

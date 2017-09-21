@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Bloomberg via ''Business Times](http://www.businesstimes.com.sg/government-economy/haze-worsens-as-singapore-parts-of-indonesia-covered-in-smog)
+1. [Cover Image](http://www.businesstimes.com.sg/sites/default/files/styles/article_img_retina/public/image/2015/09/22/2191536102888%20-%2019_09_2015%20-%20TWHAZE.jpg?itok=Y-sdYZm4)
 
 ### Related:
 

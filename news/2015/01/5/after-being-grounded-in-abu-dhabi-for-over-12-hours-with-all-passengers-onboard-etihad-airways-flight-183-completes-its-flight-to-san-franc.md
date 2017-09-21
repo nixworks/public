@@ -8,6 +8,7 @@ SAN FRANCISCO (KRON) &#8212; Passengers who spent more than a full day on board 
 ### Source:
 
 1. [KRON](http://kron4.com/2015/01/05/nightmare-28-hour-flight-finally-arrives-in-san-francisco/)
+1. [Cover Image](https://mgtvkron.files.wordpress.com/2015/01/etihad1.jpg)
 
 ### Related:
 

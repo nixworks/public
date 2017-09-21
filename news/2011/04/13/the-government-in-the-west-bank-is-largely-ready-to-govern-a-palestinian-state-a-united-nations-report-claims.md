@@ -10,6 +10,7 @@ The Palestinian government in the West Bank is now largely ready to govern a sta
 1. [Al&nbsp;Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011412152947529736.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13051355)
 3. [Washington Post](http://www.washingtonpost.com/world/un_report_palestinian_authority_ready_for_statehood/2011/04/12/AFoKaUSD_story.html?wprss=rss_homepage)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

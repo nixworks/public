@@ -10,6 +10,7 @@
 1. [AP via ''Journal Times](http://journaltimes.com/news/national/latin-america/fujimori-wins-st-round-of-peru-election-heads-to-runoff/article_19b7d0b2-34ba-5df2-ba86-32fbd7cc9e18.html)
 2. [BBC](http://www.bbc.com/news/world-latin-america-36008526)
 3. [Telesur](http://www.telesurtv.net/english/opinion/In-Peru-Election-the-Race-for-2nd-Place-May-Be-Most-Important-20160409-0050.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/138F4/production/_89161108_89161104.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Chinese police used pepper spray, tear gas and water cannon to break up an anti-
 3. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/anti-japan-protests-spread-to-dozens-of-more-chinese-cities-on-sunday-as-demonstrators-agitated-by-the-japanese-government.html)
 4. [Reuters](http://www.reuters.com/article/2012/09/16/us-china-japan-idUSBRE88F00H20120916)
 5. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444108404577654632706100116.html)
+5. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120916&t=2&i=653468592&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88F0XYV00)
 
 ### Related:
 

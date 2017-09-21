@@ -8,3 +8,4 @@ About 10,000 Ethiopians staged an anti-government procession on Sunday in the fi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/02/us-ethiopia-politics-protest-idUSBRE9510AN20130602)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

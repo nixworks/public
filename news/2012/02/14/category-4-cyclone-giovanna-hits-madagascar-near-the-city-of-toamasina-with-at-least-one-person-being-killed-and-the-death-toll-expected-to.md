@@ -9,6 +9,7 @@ A powerful cyclone bearing winds of up to 194km/h strikes the island of Madagasc
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17025328)
 2. [Reuters](http://af.reuters.com/article/mozambiqueNews/idAFL5E8DE1E520120214)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58496000/jpg/_58496677_014008847-1.jpg)
 
 ### Related:
 

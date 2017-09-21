@@ -8,6 +8,7 @@ Kevin Douglas Addison is charged with two counts of first-degree murder and two 
 ### Source:
 
 1. [CBC.ca](http://www.cbc.ca/news/canada/british-columbia/kevin-douglas-addison-charged-in-nanaimo-b-c-sawmill-shooting-1.2628033)
+1. [Cover Image](https://i.cbc.ca/1.2628635.1398966123!/httpImage/image.jpg_gen/derivatives/16x9_1180/nanaimo-sawmill-shooting.jpg)
 
 ### Related:
 

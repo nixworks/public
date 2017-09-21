@@ -8,6 +8,7 @@ Suspected Islamist fighters went on the rampage in northeast Nigeria overnight, 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/12/02/uk-nigeria-violence-idUKBRE8B10E120121202)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

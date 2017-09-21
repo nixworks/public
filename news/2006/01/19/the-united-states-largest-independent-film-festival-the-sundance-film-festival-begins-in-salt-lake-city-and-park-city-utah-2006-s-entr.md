@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/newsArticleSearch.aspx?storyID=275373+18-Jan-2006+RTRS&srch=Sundance+Festival+sets+stage+for+indie+filmmakers)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

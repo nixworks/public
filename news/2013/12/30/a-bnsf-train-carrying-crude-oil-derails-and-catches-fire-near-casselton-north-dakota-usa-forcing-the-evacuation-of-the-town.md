@@ -8,3 +8,4 @@ Emergency responders lift mandatory evacuation orders in Casselton, N.D., where 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/north-dakota-train-derailment-explosion-prompts-evacuation-1.2479772)
+1. [Cover Image](https://i.cbc.ca/1.2480640.1388524450!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/train-derailment-fire.jpg)

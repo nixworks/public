@@ -10,6 +10,7 @@ A powerful earthquake has devastated several Peruvian cities killing at least 33
 1. [AFP via ABC News Auatralia](http://www.abc.net.au/news/stories/2007/08/16/2007296.htm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=axJfEOETiDUs&refer=home)
 3. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/08/16/wquake316.xml)
+3. [Cover Image](http://www.abc.net.au/news/image/642992-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10281073.stm)
 2. [Yonhap](http://english.yonhapnews.co.kr/techscience/2010/06/10/82/0601000000AEN20100610011400320F.HTML)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

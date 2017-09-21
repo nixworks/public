@@ -8,6 +8,7 @@ Oman says it has uncovered a UAE spy network in the Gulf Arab state that targete
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111311523946478.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/8/2010118145044889436_20.jpg)
 
 ### Related:
 

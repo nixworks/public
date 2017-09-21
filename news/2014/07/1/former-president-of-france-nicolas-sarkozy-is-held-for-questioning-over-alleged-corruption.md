@@ -8,6 +8,7 @@ Nicolas Sarkozy is detained for questioning over alleged influence peddling - un
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28103223#)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/75956000/jpg/_75956565_022884202-1.jpg)
 
 ### Related:
 

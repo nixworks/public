@@ -9,6 +9,7 @@ At least 35 people have died and hundreds more have been wounded in separate bom
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2015-08-08/powerful-truck-bomb-kills-wounds-hundreds-in-kabul/6682446)
 2. [BBC](http://www.bbc.com/news/world-asia-33814737)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1425C/production/_84742528_84742527.jpg)
 
 ### Related:
 

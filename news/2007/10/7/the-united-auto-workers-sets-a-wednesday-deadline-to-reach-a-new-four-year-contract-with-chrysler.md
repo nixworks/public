@@ -8,6 +8,7 @@ The United Automobile Workers union has set a Wednesday strike deadline in talks
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/10/08/business/08auto.html?ex=1349582400&en=e31a9cb7f42b0834&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

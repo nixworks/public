@@ -8,6 +8,7 @@ Ghalioun says he will give up post as Syrian National Council president after be
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012517144039350656.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/1/20124110591763734_20.jpg)
 
 ### Related:
 

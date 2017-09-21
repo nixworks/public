@@ -9,6 +9,7 @@ NEW YORK, Dec. 2, 2015 /PRNewswire-USNewswire/ --&amp;#160;Not all air pollution
 
 1. [New York University Langone Medical Center](http://www.prnewswire.com/news-releases/coal-burning-may-produce-more-toxic-particles-than-other-pollution-sources-300186937.html)
 2. [The Washington Post](https://www.washingtonpost.com/national/health-science/coal-is-king-among-pollution-that-causes-heart-disease-study-says/2015/12/01/3fb88194-9840-11e5-8917-653b65c809eb_story.html?wpmm=1&wpisrc=nl_headlines)
+2. [Cover Image](http://content.prnewswire.com/images/prn_facebook_sharing_logo.jpg  )
 
 ### Related:
 

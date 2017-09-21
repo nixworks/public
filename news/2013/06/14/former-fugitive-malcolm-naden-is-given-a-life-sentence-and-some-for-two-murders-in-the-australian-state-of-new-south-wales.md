@@ -8,6 +8,7 @@ Malcolm Naden said he wanted a life sentence, and now the notorious double murde
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/nsw/former-fugitive-naden-jailed-for-life-over-double-murder-20130614-2o86j.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/i/w/6/s/image.related.articleLeadwide.620x349.2o86j.png/1371174294397.jpg)
 
 ### Related:
 

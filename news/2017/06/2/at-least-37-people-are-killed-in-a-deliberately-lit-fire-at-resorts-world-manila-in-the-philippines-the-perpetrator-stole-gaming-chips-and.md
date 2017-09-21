@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2017/06/01/asia/resorts-world-manila-philippines)
 2. [Reuters](https://www.reuters.com/article/us-philippines-resort-islamic-state-idUSKBN18T1NS)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

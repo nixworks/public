@@ -8,6 +8,7 @@ Diplomatic Relations Were Severed In 1982; Iran Invites Syria, Iraq To Summit
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/11/20/world/main2200557.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/11/20/d4daed87-a642-11e2-a3f0-029118418759/image2201284x.jpg)
 
 ### Related:
 

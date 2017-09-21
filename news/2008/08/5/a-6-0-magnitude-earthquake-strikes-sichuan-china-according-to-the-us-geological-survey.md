@@ -9,6 +9,7 @@ A strong earthquake has rocked the western Chinese provinces of Sichuan and Gans
 
 1. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/08/05/china.earthquake/index.html)
 2. [RTÉ News](http://www.rte.ie/news/2008/0805/china1.html)
+2. [Cover Image](https://img.rasset.ie/0001a30b-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Francisco Guterres, who is favoured by key powerbroker Xanana Gusmao, told Fairf
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/frontrunner-for-east-timor-presidency-offers-australia-hope-on-oilfields-deal-20170318-gv1a42.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/v/1/b/9/m/image.related.articleLeadwide.620x349.gv1a42.png/1490065730072.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ ISRAEL has ordered an investigation after soldiers burst into a house in a pre-d
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/world-news/middle-east/israeli-soldiers-shoot-civilian-65-in-his-bed-2488664.html)
+1. [Cover Image](http://www.independent.ie/editorial/facebook_share_logos/FacebookPostImage_158x158_News.jpg)
 
 ### Related:
 

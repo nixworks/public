@@ -8,6 +8,7 @@ More than 1,200 passengers are evacuated from a ferry that caught fire in the Re
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15571187)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56457000/jpg/_56457947_56457946.jpg)
 
 ### Related:
 

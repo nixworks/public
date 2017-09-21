@@ -8,6 +8,7 @@ At least 30 people killed, many of them in one incident, following heavy rain an
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101130135637853788.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/30/20101130142715787521_20.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/6550451.html)
 4. [Reuters](http://www.reuters.com/article/americasCrisis/idUSN28128427)
 5. [Toronto Star](http://www.thestar.com/news/world/article/672988)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

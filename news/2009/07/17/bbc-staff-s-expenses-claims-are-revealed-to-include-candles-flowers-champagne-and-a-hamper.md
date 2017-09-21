@@ -8,6 +8,7 @@ The heads of BBC radio and TV stations and senior corporation management figures
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/tvandradio/5851250/BBC-expenses-public-money-for-flowers-champagne-and-hampers-for-the-stars.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01445/Alan-Yentob_1445407a.jpg)
 
 ### Related:
 

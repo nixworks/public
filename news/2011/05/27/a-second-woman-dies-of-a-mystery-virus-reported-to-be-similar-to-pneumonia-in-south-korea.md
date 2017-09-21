@@ -9,6 +9,7 @@
 
 1. [Antara News](http://www.antaranews.com/en/news/1306456213/another-woman-dies-of-mysterious-virus-in-s-korea)
 2. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2936770)
+2. [Cover Image](http://img.antaranews.com/new)
 
 ### Related:
 

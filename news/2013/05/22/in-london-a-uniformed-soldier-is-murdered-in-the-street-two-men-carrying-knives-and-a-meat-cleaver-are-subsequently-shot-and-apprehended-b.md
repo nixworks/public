@@ -9,6 +9,7 @@ A man is killed in a machete attack and two suspects shot and wounded by police 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22630303)
 2. [Metro](http://metro.co.uk/2013/05/22/police-respond-to-serious-incident-in-woolwich-3804903/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67763000/jpg/_67763780_scene2_reuters.jpg)
 
 ### Related:
 

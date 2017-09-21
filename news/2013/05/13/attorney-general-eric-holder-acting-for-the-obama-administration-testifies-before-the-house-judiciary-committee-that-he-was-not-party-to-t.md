@@ -10,6 +10,7 @@ Attorney General Eric Holder said Tuesday that the deputy attorney general was t
 1. [AP](http://www.newser.com/article/da6a00e82/gop-dems-aggressively-question-holder-over-subpoenas-of-ap-phone-records.html)
 2. [CBS News](http://www.cbsnews.com/8301-201_162-57584439/holder-i-wasnt-involved-in-ap-secret-phone-probe/)
 3. [Fox News](http://www.foxnews.com/politics/2013/05/15/holder-recuses-himself-from-doj-probe-associated-press-phone-records/)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/051513/0/0/051513_sr_herridge_640.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Filmmaker Simon Klose has spent the last four years following the founders of Th
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2013/2/7/3964086/pirate-bay-director-simon-klose-on-file-sharing-mpaa-kim-dotcom)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/QgMMe0L46kn7dJIUvGMpe0LatpI=/0x63:1020x637/1600x900/cdn0.vox-cdn.com/assets/2134671/simonKlose.png)
 
 ### Related:
 

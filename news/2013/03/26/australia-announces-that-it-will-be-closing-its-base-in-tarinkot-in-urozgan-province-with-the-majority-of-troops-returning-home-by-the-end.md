@@ -10,6 +10,7 @@ Australia&#039;s main base in Afghanistan will close by the end of the year, wit
 1. [ABC News Australia](http://www.abc.net.au/news/2013-03-26/tarin-kot-base-to-close/4594404)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21935147)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9954991/British-soldier-killed-and-nine-wounded-in-Taliban-suicide-attack.html)
+3. [Cover Image](http://www.abc.net.au/news/image/4594420-1x1-700x700.jpg)
 
 ### Related:
 

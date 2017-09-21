@@ -8,6 +8,7 @@ An official in Indonesia says the death toll from devastating floods and landsli
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2007/07/27/1990336.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2515300-1x1-700x700.jpg)
 
 ### Related:
 

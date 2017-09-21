@@ -8,6 +8,7 @@ Labour say they expect to be in government in Cardiff Bay by the end of next wee
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-13315241)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52595000/jpg/_52595553_carwyn1.jpg)
 
 ### Related:
 

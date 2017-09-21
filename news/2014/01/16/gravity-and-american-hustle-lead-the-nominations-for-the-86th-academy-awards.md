@@ -8,6 +8,7 @@ Director David O. Russell seems to have the golden touch. His con-man comedy &qu
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-oscar-nominations-2014-main,0,500124.story#axzz2qV22hnnm)
+1. [Cover Image](http://www.trbimg.com/img-52d812ec/turbine/la-et-mn-oscar-nominations-2014-main)
 
 ### Related:
 

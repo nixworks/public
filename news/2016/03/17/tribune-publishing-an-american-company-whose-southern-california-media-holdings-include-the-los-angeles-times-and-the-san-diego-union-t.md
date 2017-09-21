@@ -9,6 +9,7 @@ The owner of the Los Angeles Times was selected as the top bidder for the Orange
 
 1. [AP via ''U.S. News & World Report](http://www.usnews.com/news/business/articles/2016-03-17/tribune-publishing-places-top-bid-for-orange-county-register)
 2. [Los Angeles Times](http://www.latimes.com/business/la-fi-freedom-tribune-auction-20160317-story.html)
+2. [Cover Image](http://www.trbimg.com/img-56eac743/turbine/la-fi-freedom-tribune-auction-20160317)
 
 ### Related:
 

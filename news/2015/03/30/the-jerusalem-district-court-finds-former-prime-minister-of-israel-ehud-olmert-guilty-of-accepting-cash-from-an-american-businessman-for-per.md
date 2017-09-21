@@ -8,6 +8,7 @@ Former PM found guilty of accepting cash from US Jewish businessman for personal
 ### Source:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4642310,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/03/30/5964054/59640390991599640360no.jpg)
 
 ### Related:
 

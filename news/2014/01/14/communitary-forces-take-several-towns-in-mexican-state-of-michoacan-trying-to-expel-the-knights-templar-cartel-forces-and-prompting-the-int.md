@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://mexico.cnn.com/nacional/2014/01/14/fuerzas-federales-toman-apatzingan-y-desarman-a-policias-ministeriales)
+1. [Cover Image](http://cdn.expansion.mx/JjNjN5ajpjADPnwLR7_c-Gni-rIhWib3/O0cEsGv5RdudyPNn4xMDoxOjBrO-I4W8)
 
 ### Related:
 

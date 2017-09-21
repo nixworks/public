@@ -11,6 +11,7 @@ Shortly after President Obama and congressional leaders ended their meeting on t
 2. [NPR](http://www.npr.org/blogs/thetwo-way/2011/07/14/137852207/reports-s-p-says-u-s-rating-could-be-downgraded-if-it-misses-any-payments)
 3. [Reuters](http://www.reuters.com/article/2011/07/15/us-sp-us-idUSTRE76E01S20110715?feedType=RSS&virtualBrandChannel=10102)
 4. [Washington Post](http://www.washingtonpost.com/blogs/2chambers/post/obama-gives-leaders-24-to-36-hours-to-come-to-debt-agreement/2011/07/14/gIQALtXtEI_blog.html)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110715&t=2&i=459422381&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-15T122740Z_01_BTRE76E03AH00_RTROPTP_0_FINANCIAL-REGULATION-INTERCHANGE)
 
 ### Related:
 

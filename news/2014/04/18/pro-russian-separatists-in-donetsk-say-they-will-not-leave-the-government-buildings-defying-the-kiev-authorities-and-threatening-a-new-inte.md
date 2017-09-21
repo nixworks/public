@@ -8,6 +8,7 @@ Pro-Russian separatists in eastern Ukraine refuse to leave official buildings, j
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-27076226)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74316000/jpg/_74316775_donetskgunmenreut.jpg)
 
 ### Related:
 

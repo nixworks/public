@@ -13,6 +13,7 @@ The American Civil Liberties Union plans to sue the US authorities over the &quo
 4. [Hindustan Times](http://www.hindustantimes.com/McChrystal-to-retire-as-a-four-star-general-White-House/Article1-565194.aspx)
 5. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10655458)
 6. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100630-714995.html)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

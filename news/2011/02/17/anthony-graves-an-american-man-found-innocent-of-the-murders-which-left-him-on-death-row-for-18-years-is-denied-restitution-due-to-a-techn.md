@@ -9,6 +9,7 @@ FOX 26 Houston News, Breaking News, Local, Weather, Traffic, Sports
 
 1. [My Fox Houston](http://www.myfoxhouston.com/dpp/news/texas/110217-attorney%3A-not-paying-graves-a-travesty)
 2. [Press TV](http://www.presstv.ir/detail/165754.html)
+2. [Cover Image](http://static.lakana.com/lakana-fox-global/theme/images/kriv/placeholder-4x3.jpg)
 
 ### Related:
 

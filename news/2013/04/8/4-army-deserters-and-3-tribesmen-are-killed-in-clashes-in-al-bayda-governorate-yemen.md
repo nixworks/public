@@ -8,6 +8,7 @@ Seven people were killed in clashes between army deserters and tribesmen in sout
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/08/us-yemen-violence-idUSBRE9370ZX20130408)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130408&t=2&i=720365617&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9371I3N00)
 
 ### Related:
 

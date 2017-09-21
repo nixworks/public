@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Lincoln Journal Star](http://journalstar.com/legislature/senators-vote-to-repeal-death-penalty/article_e2ee72ab-cfe2-548c-b0f7-8a3ccf3b05fa.html)
+1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/3/25/32503159-fcf3-54d7-a97c-0a34a3539900/55666482a02a8.image.jpg?resize=703%2C630)
 
 ### Related:
 

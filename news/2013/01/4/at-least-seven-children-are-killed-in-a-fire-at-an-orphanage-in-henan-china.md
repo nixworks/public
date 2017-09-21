@@ -10,6 +10,7 @@ A fire at a private shelter for orphans and abandoned children in central China 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20907632)
 2. [South China Morning Post](http://www.scmp.com/news/china/article/1119738/seven-children-killed-henan-orphanage-fire)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0104/breaking8.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

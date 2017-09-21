@@ -13,6 +13,7 @@ A bomb exploded outside a church in the southern Philippines during Sunday morni
 4. [RTÉ](http://www.rte.ie/news/2009/0705/philippines.html)
 5. [Reuters](http://af.reuters.com/article/energyOilNews/idAFMAN10891320090705)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0705/breaking5.htm)
+6. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

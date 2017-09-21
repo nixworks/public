@@ -8,6 +8,7 @@ Hungary on Tuesday suspended European Union asylum rules requiring it to take ba
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/23/us-europe-migrants-austria-hungary-idUSKBN0P31YV20150623?virtualBrandChannel=11563)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150623&t=2&i=1058580903&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5M0XN)
 
 ### Related:
 

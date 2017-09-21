@@ -8,6 +8,7 @@ Dissident Ariel Sigler released as part of deal between church and Cuban governm
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201072304035266407.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

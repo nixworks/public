@@ -14,6 +14,7 @@ The executions, carried out by a firing squad at dawn, were the first since the 
 5. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100419/FOREIGN/704189818/1002)
 6. [The New York Times](http://www.nytimes.com/2010/04/16/world/middleeast/16gaza.html)
 7. [The News International](http://thenews.jang.com.pk/updates.asp?id=103173)
+7. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

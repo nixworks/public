@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-09-04-AS--Hong%20Kong-Election/id-71cfe6d3c202427486a31a75a1f9bc66)
 2. [Reuters](http://www.reuters.com/article/us-hongkong-election-idUSKCN11A16Y?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160905&t=2&i=1152320535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC840HL)
 
 ### Related:
 

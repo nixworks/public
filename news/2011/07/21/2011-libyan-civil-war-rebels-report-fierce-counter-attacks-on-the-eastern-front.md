@@ -8,6 +8,7 @@ Libyan leader Muammar Gaddafi ruled out on Thursday talks with the rebels seekin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/21/us-libya-idUSTRE76H06X20110721)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110721&t=2&i=463429249&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-21T195229Z_01_BTRE76K1J7T00_RTROPTP_0_LIBYA)
 
 ### Related:
 

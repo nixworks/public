@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6AE4BQ20101116)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101116&t=2&i=250781183&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-16T230201Z_01_BTRE6AF1RZG00_RTROPTP_0_US-USA-CONGRESS-EARMARKS)
 
 ### Related:
 

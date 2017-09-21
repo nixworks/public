@@ -8,6 +8,7 @@ A female suicide bomber blows herself up in the north-east Nigerian city of Gomb
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31099348)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80735000/jpg/_80735844_80735843.jpg)
 
 ### Related:
 

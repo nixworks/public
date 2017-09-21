@@ -10,6 +10,7 @@ Election set to hand all the seats in parliament to supporters of the president.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/12/200912274460161978.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE5BQ07Z20091227)
 3. [Uzbekistan National News Agency](http://uza.uz/en/politics/1148/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

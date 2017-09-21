@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012504256198565.html)
 2. [Haaretz](http://www.haaretz.com/news/international/brazil-recognizes-palestinian-state-1.328840)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/20101251104533580_20.jpg)
 
 ### Related:
 

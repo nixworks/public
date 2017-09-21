@@ -8,6 +8,7 @@ Ichiro Ozawa and his faction resign from the ruling Democratic Party of Japan, a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18669381)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61294000/jpg/_61294686_79wsfbdf.jpg)
 
 ### Related:
 

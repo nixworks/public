@@ -8,6 +8,7 @@ Three persons were killed on Tuesday when police opened fire on a mob which atta
 ### Source:
 
 1. [IBN Live](http://www.ibnlive.com/news/india/situation-in-manipur-very-serious-says-centre-as-death-toll-in-violence-rises-to-8-1066578.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2015/09/manipur.jpg)
 
 ### Related:
 

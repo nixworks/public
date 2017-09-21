@@ -8,6 +8,7 @@ Research in Motion stock falls after company delays arrival of new phones next y
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Innovation/Latest-News-Wires/2011/1217/Research-in-Motion-stock-hits-8-year-low.-BlackBerry-users-leaving)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2011/12/RIMSTOCK.JPG?alias=standard_900x600)
 
 ### Related:
 

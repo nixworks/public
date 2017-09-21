@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://latino.foxnews.com/latino/politics/2012/08/31/mexico-declares-pena-nieto-winner-elections/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2012/08/31/mexico-declares-pena-nieto-winner-elections/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1481672614246.jpg?ve=1)
 
 ### Related:
 

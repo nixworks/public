@@ -8,6 +8,7 @@ Lithuania&#39;s parliament has ratified the European Union&#39;s Lisbon Treaty.
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0508/eulisbon.html)
+1. [Cover Image](https://img.rasset.ie/0001629b-1600.jpg)
 
 ### Related:
 

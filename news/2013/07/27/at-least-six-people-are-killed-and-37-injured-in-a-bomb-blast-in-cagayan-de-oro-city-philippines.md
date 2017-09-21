@@ -8,6 +8,7 @@ MANILA -- The death toll from the explosion in Cagayan de Oro city has risen to 
 ### Source:
 
 1. [ABS-CBN News Online](http://www.abs-cbnnews.com/video/nation/regions/07/27/13/cdo-blast-death-toll-rises-6)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/others/072713_cdo-explosion.jpg)
 
 ### Related:
 

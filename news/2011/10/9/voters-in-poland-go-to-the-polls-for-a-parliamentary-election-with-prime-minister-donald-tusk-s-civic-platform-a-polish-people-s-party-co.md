@@ -9,6 +9,7 @@
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jIp4PfsW5FPzgyx7m2ewWbRGpmGQ?docId=CNG.342b2fda95ff676d661cfb8393d151f9.31)
 2. [Reuters](http://www.reuters.com/article/2011/10/10/us-poland-election-idUSTRE79806920111010)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111010&t=2&i=513571517&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7990UDD00)
 
 ### Related:
 

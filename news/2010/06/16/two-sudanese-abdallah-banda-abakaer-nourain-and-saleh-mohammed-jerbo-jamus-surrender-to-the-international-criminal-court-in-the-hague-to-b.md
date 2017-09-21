@@ -11,6 +11,7 @@ Two Sudan rebels surrender to the International Criminal Court to face charges o
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/16/sudan.war.crimes/index.html?hpt=Sbin)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100616112103142C981331)
 4. [Reuters](http://uk.reuters.com/article/idUKLDE65F19Z._CH_.2420)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

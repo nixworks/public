@@ -8,6 +8,7 @@ Burmese officials say they are releasing 69 political prisoners, including the g
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24955227)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71133000/jpg/_71133201_insein_afp.jpg)
 
 ### Related:
 

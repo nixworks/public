@@ -9,6 +9,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 1. [ABC News Go](http://abcnews.go.com/International/wireStory/china-paper-warns-us-price-pay-south-china-40366906)
 2. [Forbes](http://www.forbes.com/sites/timdaiss/2016/07/06/u-s-needs-attitude-adjustment-in-south-china-sea-claims-beijing/#232263403d0a)
+2. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

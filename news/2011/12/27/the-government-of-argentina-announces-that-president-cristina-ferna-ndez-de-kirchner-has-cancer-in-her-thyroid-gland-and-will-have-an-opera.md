@@ -8,6 +8,7 @@ Argentine President Cristina Fernandez de Kirchner is to have an operation for t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16342685)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57588000/jpg/_57588118_013592932-1.jpg)
 
 ### Related:
 

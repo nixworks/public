@@ -8,6 +8,7 @@ Malian Islamist militant group Ansar Dine said it carried out a suicide and rock
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mali-attacks-idUSKCN0VM09U)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

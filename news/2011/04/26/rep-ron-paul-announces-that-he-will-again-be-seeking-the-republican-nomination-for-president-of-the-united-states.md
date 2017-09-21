@@ -9,6 +9,7 @@ An election official in New Jersey rules that Olympic gold medallist Carl Lewis 
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13203865)
 2. [National Journal](http://www.nationaljournal.com/politics/ron-paul-launches-presidential-campaign-20110425)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52356000/jpg/_52356317_52356316.jpg)
 
 ### Related:
 

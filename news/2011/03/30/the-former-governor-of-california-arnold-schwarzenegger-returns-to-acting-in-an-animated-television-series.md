@@ -8,6 +8,7 @@ With his years as governor behind him, Arnold Schwarzenegger will soon return to
 ### Source:
 
 1. [AP via MSNBC](http://today.msnbc.msn.com/id/42349888/ns/today-entertainment/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/ap/tv schwarzenegger series--56790989_v2.standard.jpg)
 
 ### Related:
 

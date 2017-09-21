@@ -8,6 +8,7 @@ Sri Lanka declared Monday it had crushed the Tamil Tiger rebels, killing their c
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/30765851/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090518-srilanka-hmed-230a.standard.jpg)
 
 ### Related:
 

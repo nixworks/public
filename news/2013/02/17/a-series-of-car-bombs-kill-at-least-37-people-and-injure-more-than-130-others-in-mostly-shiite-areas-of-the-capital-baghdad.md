@@ -10,6 +10,7 @@ Several car bombs explode in mainly Shia areas in the Iraqi capital, Baghdad, ki
 1. [AP](http://bigstory.ap.org/article/officials-series-bombs-baghdad-kill-least-18-and-wound-dozens)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21489777)
 3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fgw-car-bombs-baghdad-20130217,0,3671147.story)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65936000/jpg/_65936668_zv50ejnk.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A new Czech coalition government has assumed office after being sworn in by Pres
 ### Source:
 
 1. [Radio Prague](http://www.radio.cz/en/section/curraffrs/new-czech-centre-left-government-sworn-in)
+1. [Cover Image](http://img.radio.cz/pictures/ctk1401/vlada.jpg)
 
 ### Related:
 

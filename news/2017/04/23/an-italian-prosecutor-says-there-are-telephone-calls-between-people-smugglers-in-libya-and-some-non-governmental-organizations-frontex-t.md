@@ -9,6 +9,7 @@ The chief prosecutor of Catania has repeated his claims that NGOs were working w
 
 1. [BBC](http://www.bbc.com/news/world-europe-39686239)
 2. [Deutsche Welle](http://www.dw.com/en/italy-prosecutor-claims-ngos-working-with-human-smugglers/a-38554753)
+2. [Cover Image](http://www.dw.com/image/38423106_304.jpg)
 
 ### Related:
 

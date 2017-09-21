@@ -8,6 +8,7 @@ Leaders from the five Brics nations - Brazil, Russia, India, China and South Afr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21923874)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66599000/jpg/_66599837_66599836.jpg)
 
 ### Related:
 

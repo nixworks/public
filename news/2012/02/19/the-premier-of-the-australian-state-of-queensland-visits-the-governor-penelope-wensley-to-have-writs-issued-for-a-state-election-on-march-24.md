@@ -8,6 +8,7 @@ Premier Anna Bligh has urged Queenslanders to hold their nerve and stick with La
 ### Source:
 
 1. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/state-election-2012/bligh-to-call-queensland-state-election-20120219-1tgom.html)
+1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/1/t/g/v/y/image.related.articleLeadwide.620x349.1tgom.png/1329630913557.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Three more NATO service members were killed in attacks in Afghanistan on Saturda
 
 1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/nato-3-service-members-912317.html)
 2. [AP via Fox News](http://www.foxnews.com/world/2011/04/17/nato-3-dead-afghanistan-8-total/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

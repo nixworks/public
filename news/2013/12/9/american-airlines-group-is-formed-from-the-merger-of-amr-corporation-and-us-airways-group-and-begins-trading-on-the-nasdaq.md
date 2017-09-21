@@ -8,6 +8,7 @@ Eleven months after American Airlines and US Airways announced plans to merge, t
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-mo-american-airlines-us-airways-merger-20131209,0,4763424.story#axzz2mzYW1kyK)
+1. [Cover Image](http://www.trbimg.com/img-52a606ba/turbine/la-fi-mo-american-airlines-us-airways-merger-20131209)
 
 ### Related:
 

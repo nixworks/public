@@ -10,6 +10,7 @@
 1. [CNN](http://us.cnn.com/2008/WORLD/meast/12/27/gaza.israel.strikes/index.html)
 2. [PressTV](http://www.presstv.ir/Detail.aspx?id=79727&sectionid=351020202)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3644954,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The world breathed a sigh of relief Thursday as a two-year Ebola epidemic that k
 
 1. [AFP via Yahoo!](http://news.yahoo.com/declares-worst-ever-ebola-outbreak-over-092344314.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-35320363)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/BGAlNIpPg3Y0mZ_RZn1Pvw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8034001-1-1-0.jpg)
 
 ### Related:
 

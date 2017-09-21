@@ -9,6 +9,7 @@ At least 25 people have been killed in a suicide bombing claimed by a Taliban sp
 
 1. [The Express Tribune](http://tribune.com.pk/story/1182675/huge-explosion-mosque-mohmand-agency/)
 2. [The Independent](http://www.independent.co.uk/news/world/asia/pakistan-mosque-bombing-latest-mohmand-agency-killed-suicide-blast-friday-prayers-claim-a7310986.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/02/18/mardan-attack.jpg)
 
 ### Related:
 

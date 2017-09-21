@@ -9,6 +9,7 @@ After sweeping Midwest, storm system and tornadoes cause multiple fatalities in 
 
 1. [CBS News](http://www.cbsnews.com/stories/2011/04/16/national/main20054646.shtml)
 2. [Reuters](http://www.reuters.com/article/2011/04/17/us-weather-tornadoes-idUSTRE73F22I20110417)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/04/16/0e42420e-a643-11e2-a3f0-029118418759/tornado_AP110416157508.jpg)
 
 ### Related:
 

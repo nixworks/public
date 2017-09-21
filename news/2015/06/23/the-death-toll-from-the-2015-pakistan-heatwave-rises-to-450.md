@@ -8,6 +8,7 @@ Nearly 700 people have died in a severe three-day heatwave in Pakistan, official
 ### Source:
 
 1. [AFP via Yahoo News](http://news.yahoo.com/death-toll-pakistan-heatwave-rises-over-450-officials-065253981.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/PDKw4LmHy2LuobI6QckF9A--/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://d.yimg.com/hd/afpus/6/4/903742b3-85ab-425e-a84d-0c372b5f62a6_vn4ra_8gCpOZe3_F8ctC9CQJVslOQHUkXz1XQbQDHkwn3V2uSkwQS9ETMDKDBl6kPW-DFOf49po-_2_0.jpg?s=b73fca1274032c22701d1e9137850001&amp;c=bbd0dcf5df200b915741877d10af44a0&amp;a=afpus&amp;mr=0)
 
 ### Related:
 

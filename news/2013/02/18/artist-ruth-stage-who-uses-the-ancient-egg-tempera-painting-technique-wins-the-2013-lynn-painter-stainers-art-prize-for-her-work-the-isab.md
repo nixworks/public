@@ -8,3 +8,4 @@ Ruth Stage, who uses the ancient painting technique egg tempera, wins the £15,0
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-21499549)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65946000/jpg/_65946318_65946315.jpg)

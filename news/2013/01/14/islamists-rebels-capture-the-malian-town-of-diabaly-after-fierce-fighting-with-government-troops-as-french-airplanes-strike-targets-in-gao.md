@@ -8,6 +8,7 @@ West African defense chiefs will on Tuesday approve plans to speed up the deploy
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/14/us-mali-rebels-idUSBRE90D0FX20130114)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130114&t=2&i=694098005&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90D1QQZ00)
 
 ### Related:
 

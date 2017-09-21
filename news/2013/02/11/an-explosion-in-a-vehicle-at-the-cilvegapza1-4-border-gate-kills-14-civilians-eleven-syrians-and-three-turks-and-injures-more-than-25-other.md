@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Hürriyet Daily News](http://www.hurriyetdailynews.com/syria-car-bomb-kills-10-in-turkish-border-town.aspx?pageID=238&nID=40874&NewsCatID=341)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201302/n_40874_1.jpg)
 
 ### Related:
 

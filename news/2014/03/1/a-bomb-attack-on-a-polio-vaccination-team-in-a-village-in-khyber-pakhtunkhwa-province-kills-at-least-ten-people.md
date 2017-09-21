@@ -9,6 +9,7 @@ A bomb attack on a polio vaccination team in north-west Pakistan has killed at l
 
 1. [BBC](http://www.bbc.com/news/world-asia-26397602)
 2. [Reuters](http://uk.reuters.com/article/2014/03/01/uk-pakistan-taliban-ceasefire-idUKBREA200DO20140301)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73298000/jpg/_73298024_021308082-1.jpg)
 
 ### Related:
 

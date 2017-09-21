@@ -9,6 +9,7 @@ Chinese Foreign Minister Wang Yi on Thursday underscored his concerns about the 
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-02-25/china-questions-reach-of-potential-u-s-radar-system-in-s-korea)
 2. [Reuters](http://www.reuters.com/article/us-usa-china-north-korea-idUSKCN0VY2C9)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160225&t=2&i=1120281492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1O12U)
 
 ### Related:
 

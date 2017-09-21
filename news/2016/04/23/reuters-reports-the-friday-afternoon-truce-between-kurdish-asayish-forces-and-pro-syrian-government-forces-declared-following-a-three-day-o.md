@@ -8,6 +8,7 @@ Regional Kurdish security forces and pro-Syrian government forces have declared 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-qamashli-idUSKCN0XK05I)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160423&t=2&i=1134212683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3M05G)
 
 ### Related:
 

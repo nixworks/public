@@ -8,6 +8,7 @@ A leak on a major Russian oil pipeline caused a spill in the Black Sea near the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/24/us-russia-oil-spill-idUSKBN0K20ND20141224)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

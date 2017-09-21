@@ -8,6 +8,7 @@ Canadian Prime Minister Stephen Harper has announced the construction of two mil
 ### Source:
 
 1. [BBC via the ABC](http://www.abc.net.au/news/stories/2007/08/11/2002493.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ BP chief Tony Hayward, widely criticised for his handling of the US oil spill, i
 
 1. [BBC](http://www.bbc.co.uk/news/business-10753573)
 2. [The Guardian](http://www.guardian.co.uk/business/2010/jul/25/tony-hayward-to-quit-bp)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

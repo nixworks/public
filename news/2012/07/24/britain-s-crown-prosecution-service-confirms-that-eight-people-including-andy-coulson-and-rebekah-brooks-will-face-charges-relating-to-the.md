@@ -8,6 +8,7 @@ Eight people, including Rebekah Brooks and Andy Coulson, will face a total of 19
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18961228)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61773000/jpg/_61773226_new464.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ New French President Emmanuel Macron pledges to work to overcome divisions in so
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2017-05-14/macron-takes-power-as-president-of-france/8525506)
+1. [Cover Image](http://www.abc.net.au/news/image/8525974-1x1-700x700.jpg)
 
 ### Related:
 

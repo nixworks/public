@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/8133424.stm)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/04/AR2009070402054.html?hpid=moreheadlines)
+2. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2009/07/04/PH2009070402204.jpg)
 
 ### Related:
 

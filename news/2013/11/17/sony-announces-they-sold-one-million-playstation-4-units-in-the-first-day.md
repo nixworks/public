@@ -8,6 +8,7 @@ PlayStation 4 sales reached the 1 million mark within the console&#039;s first 2
 ### Source:
 
 1. [Joystiq](http://www.joystiq.com/2013/11/17/playstation-4-sells-1-million-in-first-day/)
+1. [Cover Image](https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&amp;quality=80&amp;image_uri=https%3A%2F%2Fwww.blogcdn.com%2Fwww.joystiq.com%2Fmedia%2F2013%2F10%2Fps4-1381952942.jpg&amp;client=cbc79c14efcebee57402&amp;signature=6e5e0e537fcd2d73f813c8824752e07a9edfbd2f)
 
 ### Related:
 

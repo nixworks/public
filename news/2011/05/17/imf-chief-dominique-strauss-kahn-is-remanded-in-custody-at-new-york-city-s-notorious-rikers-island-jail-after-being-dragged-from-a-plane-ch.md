@@ -9,6 +9,7 @@ Dominique Strauss-Kahn is called on to consider his position as IMF head after b
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13420440)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13426069)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52787000/jpg/_52787564_011997201-1.jpg)
 
 ### Related:
 

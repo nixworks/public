@@ -8,6 +8,7 @@ Thousands of people in Gaza have protested against the ruling Hamas movement dur
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/01/2021272.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

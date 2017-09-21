@@ -8,6 +8,7 @@ Ghana has been forced to extend voting in its presidential election by another d
 ### Source:
 
 1. [AFP via SBS](http://www.sbs.com.au/news/article/1718863/Ghana-election-glitches-force-vote-extension)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/4/0/4089_ghana-election-getty-121208-b.jpg)
 
 ### Related:
 

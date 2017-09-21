@@ -8,6 +8,7 @@ DAVAO CITY -- The Philippines&#8217; Bureau of Fisheries and Aquatic Resources (
 ### Source:
 
 1. [Business World](http://bworldonline.com/content.php?section=Nation&title=border-talks-with-indonesia-after-sinking-of-4-phl-vessels&id=118199)
+1. [Cover Image](http://www.bworldonline.com/images/fb_sections/Nation.jpg)
 
 ### Related:
 

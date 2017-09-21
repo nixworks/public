@@ -4,7 +4,7 @@
 _Context: Michael Phelps, World Swimming Championships, butterfly, individual medley, swimmer, world record_
 
 ### [ Palestinian Prime Minister Mahmoud Abbas meets with US President George W. Bush at the White House ](/news/2003/07/25/palestinian-prime-minister-mahmoud-abbas-meets-with-us-president-george-w-bush-at-the-white-house.md)
-_Context: George W. Bush, Mahmoud Abbas, Palestinian Prime Minister, President, White House_
+_Context: George W. Bush, Mahmoud Abbas, Palestinian Prime Minister, U.S. President, White House_
 
 ## [Previous Day...](/news/2003/07/24/index.md)
 

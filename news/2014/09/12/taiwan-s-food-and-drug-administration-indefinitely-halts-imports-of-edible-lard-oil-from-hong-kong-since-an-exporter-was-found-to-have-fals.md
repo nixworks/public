@@ -8,6 +8,7 @@ Taiwan has halted imports of edible lard oil from Hong Kong indefinitely, and ot
 ### Source:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2014/09/12/2003599539)
+1. [Cover Image](http://www.taipeitimes.com/images/2014/09/12/thumbs/P01-140912-web.jpg)
 
 ### Related:
 

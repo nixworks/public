@@ -8,6 +8,7 @@ A civil war has broken out in the Health Services Union after president Michael 
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/nsw/health-union-chief-refuses-to-step-down-as-union-quits-alp-20110916-1kcwa.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/k/2/g/h/image.related.articleLeadwide.620x349.1kcwa.png/1316155134730.jpg)
 
 ### Related:
 

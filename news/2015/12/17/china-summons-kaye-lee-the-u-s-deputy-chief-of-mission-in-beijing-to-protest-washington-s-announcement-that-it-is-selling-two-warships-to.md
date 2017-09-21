@@ -9,6 +9,7 @@ China summoned a U.S. envoy and threatened to impose sanctions on U.S. firms aft
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-35115507)
 2. [NBC News](http://www.nbcnews.com/news/china/china-summons-u-s-envoy-over-1-83b-arms-sale-n481646)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_51/1343646/151217-taiwan-jpo-648a_1d7ef0af24daed8853a3e7a0b2e76df1.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

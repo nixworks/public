@@ -8,6 +8,7 @@ NAIROBI, Kenya (AP) — Kenyan rescuers continued searching for survivors Sunday
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/8fe0687fa9a543cbae479f6f6de6a14b/kenya-officials-death-toll-collapsed-building-16)
+1. [Cover Image](http://binaryapi.ap.org/13da4d8c09ea474bb416b40394c2239c/460x.jpg)
 
 ### Related:
 

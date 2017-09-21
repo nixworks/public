@@ -8,6 +8,7 @@ The puppeteer of Sesame Street favourite Elmo describes his relief as a 23-year-
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20320172)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64087000/jpg/_64087892_clash1_464ap.jpg)
 
 ### Related:
 

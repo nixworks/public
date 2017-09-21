@@ -13,6 +13,7 @@ The emails detail how bitter the relationship became, Bernie Sanders emerged as 
 4. [CNN](http://www.cnn.com/2016/07/22/politics/dnc-wikileaks-emails/)
 5. [Mediaite](http://www.mediaite.com/online/robert-reich-rips-debbie-wasserman-schultz-over-dnc-leak-fire-her-now/)
 6. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/07/22/on-eve-of-democratic-convention-wikileaks-releases-thousands-of-documents-about-clinton-the-campaign-and-internal-deliberations/)
+6. [Cover Image](http://static01.mediaite.com/med/wp-content/uploads/2015/06/reich.jpg)
 
 ### Related:
 

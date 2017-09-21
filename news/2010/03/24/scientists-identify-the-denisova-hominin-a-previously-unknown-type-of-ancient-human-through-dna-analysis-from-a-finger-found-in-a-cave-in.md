@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8583254.stm)
 2. [Nature](http://www.nature.com/news/2010/100324/full/464472a.html)
 3. [The New York Times](http://www.nytimes.com/2010/03/25/science/25human.html?src=me)
+3. [Cover Image](https://static01.nyt.com/images/2010/03/25/science/25human_graphic/25human_graphic-thumbStandard.jpg)
 
 ### Related:
 

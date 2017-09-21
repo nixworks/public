@@ -8,6 +8,7 @@ Several people are reported killed by a bomb near a field hospital near the Turk
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-26312097)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73171000/jpg/_73171905_f9359483-27af-4d18-986e-514400d19dc5.jpg)
 
 ### Related:
 

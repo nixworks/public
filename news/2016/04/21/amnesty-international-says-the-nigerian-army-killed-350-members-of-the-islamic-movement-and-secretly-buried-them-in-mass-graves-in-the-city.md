@@ -8,6 +8,7 @@ Amnesty International report says military shot and burned members of Islamic Mo
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/22/nigerian-army-killed-350-secretly-buried-bodies-amnesty-says)
+1. [Cover Image](https://i.guim.co.uk/img/media/d3c9a77ab8b54eba723f90f2e995b34b8d57e7af/0_57_5760_3456/5760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a178e5a38349f7008648ec800c90bfa8)
 
 ### Related:
 

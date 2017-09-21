@@ -8,6 +8,7 @@ Internet Brands Inc., the El Segundo owner of CarsDirect.com and other online bu
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-kkr-internet-brands-20140604-story.html)
+1. [Cover Image](http://www.trbimg.com/img-538e6819/turbine/la-fi-kkr-internet-brands-20140604)
 
 ### Related:
 

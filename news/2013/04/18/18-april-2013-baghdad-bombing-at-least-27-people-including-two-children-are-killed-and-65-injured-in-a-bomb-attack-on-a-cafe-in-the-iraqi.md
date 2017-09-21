@@ -9,6 +9,7 @@ At least 27 people, including two children, have been killed and scores hurt in 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22209841)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/18/c_132320997.htm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67099000/gif/_67099540_baghdad_iraq_jan13.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japan on Monday switched on a radar station in the East China Sea, giving it a p
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-japan-china-eastchinasea-idUSKCN0WT0QZ)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160328&t=2&i=1128273917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2R05U)
 
 ### Related:
 

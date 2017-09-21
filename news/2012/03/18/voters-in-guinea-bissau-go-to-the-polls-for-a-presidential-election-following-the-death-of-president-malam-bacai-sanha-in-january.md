@@ -8,6 +8,7 @@ Votes are being counted in the West African nation of Guinea-Bissau following an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17419158)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59160000/jpg/_59160182_014298094-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The move by Attorney General Jeff Sessions comes after a federal judge blocked a
 ### Source:
 
 1. [NPR](http://www.npr.org/2017/05/22/529560837/justice-department-narrows-scope-of-sanctuary-cities-executive-order)
+1. [Cover Image](https://media.npr.org/assets/img/2017/05/22/gettyimages-6807417981_edit_wide-725498c9d30b1f69871bf75bace084f070d982ee.jpg?s=1400)
 
 ### Related:
 

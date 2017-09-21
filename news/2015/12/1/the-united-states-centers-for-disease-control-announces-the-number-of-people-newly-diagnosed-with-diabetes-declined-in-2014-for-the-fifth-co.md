@@ -9,6 +9,7 @@ The number of people being diagnosed with diabetes has been on the decline since
 
 1. [NPR](http://www.npr.org/sections/health-shots/2015/12/01/458024442/fewer-people-are-getting-diabetes-but-the-epidemic-isnt-over)
 2. [The New York Times](http://www.nytimes.com/2015/12/01/health/new-diabetes-cases-at-long-last-begin-to-fall-in-the-united-states.html?_r=0)
+2. [Cover Image](https://media.npr.org/assets/img/2015/12/01/diabetes-decline_wide-94a69b35f2a701b9ad17ee5c90cd74a028affd38.jpg?s=1400)
 
 ### Related:
 

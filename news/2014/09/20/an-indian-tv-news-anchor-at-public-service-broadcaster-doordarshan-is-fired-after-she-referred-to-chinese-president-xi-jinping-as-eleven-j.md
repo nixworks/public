@@ -8,6 +8,7 @@ A newsreader of Doordarshan News has been sacked as she pronounced the name of C
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/doordarshan-anchor-sacked-after-naming-chinese-president-xi-eleven/article6426435.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article11106208.ece/ALTERNATES/LANDSCAPE_615/Jinping)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The rescue comes as President Obama pepares to travel to Cuba for a visit that b
 ### Source:
 
 1. [AP via ''Portland Press Herald](http://www.pressherald.com/2016/03/19/nine-cuban-migrants-die-18-rescued-off-florida/)
+1. [Cover Image](http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png)
 
 ### Related:
 

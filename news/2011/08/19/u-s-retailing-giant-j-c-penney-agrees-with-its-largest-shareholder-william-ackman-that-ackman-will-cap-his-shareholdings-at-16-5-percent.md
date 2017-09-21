@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Dow Jones Newswire](http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=201108191513dowjonesdjonline000378&title=jc-penney-agrees-to-let-ackman-up-financial-interest-in-retailer)
+1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

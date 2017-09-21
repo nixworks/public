@@ -8,6 +8,7 @@ A ferry with about 200 passengers on board capsizes in a river south of the Bang
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28636887)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76724000/jpg/_76724263_76724262.jpg)
 
 ### Related:
 

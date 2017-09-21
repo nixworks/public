@@ -8,6 +8,7 @@ Somali opposition fighters driven out from two bases near the border in joint Ke
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/10/20111016115410991692.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/10/17/20111017102544290734_20.jpg)
 
 ### Related:
 

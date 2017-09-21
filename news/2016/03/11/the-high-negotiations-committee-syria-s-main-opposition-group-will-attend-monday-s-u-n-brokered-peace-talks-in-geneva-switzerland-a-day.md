@@ -11,6 +11,7 @@ The United Nations&#39;s Syria envoy has said delegates are in Geneva for &quot;
 2. [CBS News](http://www.cbsnews.com/news/syria-opposition-geneva-peace-talks-bashar-assad-cease-fire-truce/)
 3. [Deutsche Welle](http://www.dw.com/en/syrian-truce-holds-as-delegates-prep-for-talks/a-19104260)
 4. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-idINKCN0WD1WX)
+4. [Cover Image](http://www.dw.com/image/19091144_304.jpg)
 
 ### Related:
 

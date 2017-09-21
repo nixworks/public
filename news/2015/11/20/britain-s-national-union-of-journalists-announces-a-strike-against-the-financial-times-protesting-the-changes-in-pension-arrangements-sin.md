@@ -8,6 +8,7 @@ Journalists at the Financial Times have voted for strike action over proposed ch
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-34871497)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4A5D/production/_86773091_86767818.jpg)
 
 ### Related:
 

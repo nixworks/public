@@ -8,6 +8,7 @@ A case that could lead to arrest warrants will examine whether officials wrongly
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/03/29/world/europe/29spain.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

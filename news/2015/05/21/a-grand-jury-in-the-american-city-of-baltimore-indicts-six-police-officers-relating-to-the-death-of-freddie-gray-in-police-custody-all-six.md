@@ -9,6 +9,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 1. [ABC2](http://www.abc2news.com/news/breaking-news/6-baltimore-police-officers-in-freddie-gray-case-indicted)
 2. [AP via ABC News America](http://abcnews.go.com/US/wireStory/prosecutor-grand-jury-indicts-officers-police-custody-death-31217363)
+2. [Cover Image](http://media2.abc2news.com/photo/2015/05/01/FreddieGray_officers_charged_1430524033967_17687247_ver1.0_640_480.jpg)
 
 ### Related:
 

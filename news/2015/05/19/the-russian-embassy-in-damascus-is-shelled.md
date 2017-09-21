@@ -8,6 +8,7 @@ The Russian embassy in the Syrian capital of Damascus was shelled on Tuesday, wi
 ### Source:
 
 1. [RT](http://rt.com/news/260189-russia-embassy-syria-shelling/)
+1. [Cover Image](https://img.rt.com/files/news/3f/85/d0/00/russia-embassy-syria-shelling.si.jpg)
 
 ### Related:
 

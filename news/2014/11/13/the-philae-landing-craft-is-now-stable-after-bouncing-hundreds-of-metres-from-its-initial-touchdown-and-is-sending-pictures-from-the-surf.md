@@ -8,6 +8,7 @@ After a historic but awkward comet landing, the robot probe Philae is now stable
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-30034060#)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/78956000/jpg/_78956330_b2ubldriqaarjid.jpg)
 
 ### Related:
 

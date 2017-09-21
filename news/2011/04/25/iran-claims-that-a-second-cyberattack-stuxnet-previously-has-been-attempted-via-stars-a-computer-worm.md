@@ -9,6 +9,7 @@ A computer worm called Stars has been detected in computers in Iran, a governmen
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011425163710464916.html)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/04/25/Iran-says-targeted-by-cyberattack/UPI-74021303758552/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/74021303758552/2011/1/41b4b7b3ea576ef570829e860f400e22/v2.1/Iran-says-targeted-by-cyberattack.jpg)
 
 ### Related:
 

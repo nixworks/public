@@ -13,6 +13,7 @@ White House Press Secretary Sean Spicerâ€™s contentious relationship with the me
 4. [RTÉ](http://www.rte.ie/sport/gaa/championship/2009/0728/crokepark.html)
 5. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1015692&lang=eng_news)
 6. [The Guardian](http://www.guardian.co.uk/music/2009/jul/28/u2-dublin-protest)
+6. [Cover Image](https://i.cbc.ca/1.4044121.1490720071!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sean-spicer-suspended-by-wires.jpg)
 
 ### Related:
 

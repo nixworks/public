@@ -15,6 +15,7 @@ As the battles raged, a meeting of U.S., European and Arab countries in Rome fai
 6. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,19938748-23109,00.html)
 7. [The Guardian, London](http://www.guardian.co.uk/israel/Story/0,,1831110,00.html)
 8. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/27/AR2006072700903.html)
+8. [Cover Image](https://static01.nyt.com/images/2006/07/26/world/27fighting75.jpg)
 
 ### Related:
 

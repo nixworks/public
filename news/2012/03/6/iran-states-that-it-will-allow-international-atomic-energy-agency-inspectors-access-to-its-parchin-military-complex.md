@@ -8,6 +8,7 @@ Iran says it will give the UN nuclear watchdog access to its Parchin military co
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2012-03-06/iran-to-allow-parchin-military-site-inspections/3872404?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/3833062-1x1-700x700.jpg)
 
 ### Related:
 

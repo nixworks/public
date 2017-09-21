@@ -12,6 +12,7 @@ Syrian troops storm a Damascus suburb as part of a wider crackdown on protests a
 3. [Sky News](http://news.sky.com/skynews/Article/201009115985647)
 4. [The Australian](http://www.theaustralian.com.au/news/world/tensions-rise-in-syria-as-ruling-forces-mass-tanks-in-protest-hotbed/story-e6frg6so-1226050230959)
 5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8494491/Syrian-troops-arrest-300-in-Damascus-suburb.html)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52537000/jpg/_52537580_011901810-1.jpg)
 
 ### Related:
 

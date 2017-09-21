@@ -9,6 +9,7 @@ LARNACA, Cyprus - First the hijacker said the women could leave. All the childre
 
 1. [ (Reuters](http://www.reuters.com/article/us-egypt-airplane-hijacking-extradition-idUSKCN0WW1GC)
 2. [AP via ''The Daily Courier](http://www.kelownadailycourier.ca/news/world_news/article_12660d73-51c7-5805-b5c4-8dec3074a343.html)
+2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/kelownadailycourier.ca/content/tncms/assets/v3/editorial/2/36/236f2306-7f16-5bdb-aa6c-b838f21a4dae/56fbc0440c0d9.image.jpg?resize=650%2C433)
 
 ### Related:
 

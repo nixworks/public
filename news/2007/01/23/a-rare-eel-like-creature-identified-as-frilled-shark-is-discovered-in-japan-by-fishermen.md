@@ -9,6 +9,7 @@ Recently Japan caught a very rare deep ocean shark. This type of shark is very d
 
 1. [CNN](http://www.cnn.com/2007/TECH/science/01/24/shark.japan.reut/index.html)
 2. [Weird News](http://www.weirdasianews.com/2007/01/24/first-living-dinosaur-found-in-japan/)
+2. [Cover Image](http://weirdasianews.com/images1/116.jpg)
 
 ### Related:
 

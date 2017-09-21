@@ -8,6 +8,7 @@ The mayor of Livorno lamented that the forecast underestimated the intensity of 
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/italy-floods-kill-at-least-six-after-rainstorms/a-40440502)
+1. [Cover Image](http://www.dw.com/image/40437598_304.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Syria bans Turkish civilian flights over its territory, days after Turkey interc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19938221)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63478000/jpg/_63478609_turkreuter.jpg)
 
 ### Related:
 

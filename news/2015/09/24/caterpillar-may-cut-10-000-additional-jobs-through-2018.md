@@ -8,6 +8,7 @@ Equipment maker Caterpillar says it could cut its workforce by more than 10,000 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-34350057)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/175CC/production/_85729659_3zs84wid.jpg)
 
 ### Related:
 

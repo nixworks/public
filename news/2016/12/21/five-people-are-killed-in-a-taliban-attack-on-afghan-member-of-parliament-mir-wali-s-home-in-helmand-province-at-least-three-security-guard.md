@@ -9,6 +9,7 @@ Three gunmen attacked the house of Mir Wali, a member of parliament from Helmand
 
 1. [PressTV](http://www.presstv.ir/Detail/2016/12/21/500888/Afghanistan-Kabul-Wali)
 2. [Reuters](http://www.reuters.com/article/us-afghanistan-attack-idUSKBN14A1W1)
+2. [Cover Image](http://cdn.presstv.com/photo/20161221/56361456-ad89-4304-a8fc-6f80d9561907.jpg)
 
 ### Related:
 

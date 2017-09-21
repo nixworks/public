@@ -8,6 +8,7 @@ Meanwhile, reports from northern Syria that an army bombardment has killed 12 pe
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/201210171258556705.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/1/201210185733653734_20.jpg)
 
 ### Related:
 

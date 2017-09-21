@@ -9,6 +9,7 @@ Thousands of Japanese gathered in sweltering heat on the southern island of Okin
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8349083.stm)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5A70IG20091108)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091108&t=2&i=12245501&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-08T164517Z_01_BTRE5A70LIE00_RTROPTP_0_JAPAN)
 
 ### Related:
 

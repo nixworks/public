@@ -8,6 +8,7 @@ Lebanese soldiers in armoured vehicles fanned out across the country on Monday t
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/world/syria-s-civil-war-spills-violence-into-jordan-lebanon-1.1004919)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1005008.1350906127!/httpImage/image.jpeg_gen/derivatives/landscape_620/image.jpeg)
 
 ### Related:
 

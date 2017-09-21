@@ -9,6 +9,7 @@ A 7.8 magnitude earthquake has struck off the coast of Indonesia, killing an unc
 
 1. [BOM](http://www.bom.gov.au/tsunami/national.shtml#nationalBulletin0)
 2. [RT](https://www.rt.com/news/334279-quake-strikes-off-indonesia/)
+2. [Cover Image](https://img.rt.com/files/2016.03/article/56d6e83ec46188686a8b45bc.jpg)
 
 ### Related:
 

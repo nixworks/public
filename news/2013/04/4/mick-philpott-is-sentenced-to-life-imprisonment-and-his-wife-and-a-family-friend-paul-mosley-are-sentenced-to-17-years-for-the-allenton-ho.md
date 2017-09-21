@@ -8,6 +8,7 @@ Mick Philpott stuck two fingers up in court as he, his wife and a friend are jai
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1073782/fire-deaths-philpotts-and-friend-jailed)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/cegrab-20130404-100701-164-1_3635942.jpg?20160706014049)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The head of US homeland security urges vigilance after Somali-based militants ca
 ### Source:
 
 1. [BBC](http://m.bbc.com/news/world-africa-31576486)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81165000/jpg/_81165071_81166988.jpg)
 
 ### Related:
 

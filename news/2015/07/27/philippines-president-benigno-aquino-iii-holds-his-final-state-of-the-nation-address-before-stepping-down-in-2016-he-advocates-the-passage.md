@@ -9,6 +9,7 @@
 
 1. [CNN Philippines](http://cnnphilippines.com/news/2015/07/26/Protesters-police-clash-at-Aquino-QC-residence.html)
 2. [GMA News Online](http://www.gmanetwork.com/news/story/529366/news/nation/pnoy-bats-for-bbl-anti-dynasty-law-in-last-sona-still-mum-on-foi)
+2. [Cover Image](http://cnnphilippines.com/news/1micwb-Protester_TimesStreet_CNNPH.png/ALTERNATES/LANDSCAPE_640/Protester_TimesStreet_CNNPH.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A 6.8 magnitude earthquake strikes central Myanmar, damaging ancient temples and
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37172794)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4F1B/production/_90915202_699e1976-ffb5-4ec4-a005-be159fda7a9e.jpg)
 
 ### Related:
 

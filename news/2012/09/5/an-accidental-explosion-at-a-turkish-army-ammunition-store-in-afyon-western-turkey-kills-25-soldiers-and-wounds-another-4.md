@@ -8,6 +8,7 @@ An explosion in western Turkey at an ammunition store for hand grenades kills 25
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19499146)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62712000/jpg/_62712826_turkeyblast.jpg)
 
 ### Related:
 

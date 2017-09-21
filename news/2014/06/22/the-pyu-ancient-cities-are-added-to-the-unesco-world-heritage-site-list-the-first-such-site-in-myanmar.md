@@ -8,6 +8,7 @@ Doha,&#x20;22&#x20;June&#x20;&amp;ndash&#x3b;Myanmar&#x20;made&#x20;its&#x20;ent
 ### Source:
 
 1. [UNESCO](http://whc.unesco.org/en/news/1158)
+1. [Cover Image](http://whc.unesco.org/uploads/thumbs/news_1158-1200-630-20140623050852.jpg)
 
 ### Related:
 

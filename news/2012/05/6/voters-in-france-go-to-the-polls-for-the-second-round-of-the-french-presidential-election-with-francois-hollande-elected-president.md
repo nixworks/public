@@ -9,6 +9,7 @@ Socialist Francois Hollande is expected to win France&#039;s presidential electi
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-05-06/france-to-begin-voting-in-presidential-run-off/3993732/?site=newcastle)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17958367)
+2. [Cover Image](http://www.abc.net.au/news/image/3965376-1x1-700x700.jpg)
 
 ### Related:
 

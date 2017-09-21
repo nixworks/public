@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Business_News/Security-Industry/2015/12/16/NATO-Ukraine-officials-sign-defense-cooperation-agreement/9201450299570/?spt=hs&or=si)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/9201450299570/2015/1/14502996518152/v2.1/NATO-Ukraine-officials-sign-defense-cooperation-agreement.jpg)
 
 ### Related:
 

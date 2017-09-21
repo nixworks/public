@@ -8,6 +8,7 @@ Commonwealth Edison Co. reported substantial progress in restoring power lost in
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-severe-thunderstorm-watch-for-northern-illinois-20110711,0,1006535.story)
+1. [Cover Image](http://www.trbimg.com/img-5326defd/turbine/chi-severe-thunderstorm-watch-for-northern-illinois-20110711)
 
 ### Related:
 

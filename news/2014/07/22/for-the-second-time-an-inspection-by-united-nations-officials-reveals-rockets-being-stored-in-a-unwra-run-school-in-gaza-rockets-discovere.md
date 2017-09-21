@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/for-second-time-rockets-found-at-un-school-in-gaza/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/05/f100303ark12.jpg)
 
 ### Related:
 

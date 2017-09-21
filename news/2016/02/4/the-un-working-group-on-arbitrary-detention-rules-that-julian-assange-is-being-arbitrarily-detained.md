@@ -10,6 +10,7 @@ A UN panel considering the &quot;arbitrary detention&quot; of Wikileaks founder 
 1. [BBC](http://www.bbc.co.uk/news/uk-35490910)
 2. [Reuters](http://uk.reuters.com/article/uk-ecuador-sweden-assange-idUKKCN0VD0BJ)
 3. [The Guardian](http://www.theguardian.com/media/2016/feb/04/what-happen-julian-assange-detention-ruling-officially-announced)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/835D/production/_88092633_assange_reuters.jpg)
 
 ### Related:
 

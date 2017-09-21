@@ -12,6 +12,7 @@
 3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSP460819)
 4. [The Hindu](http://beta.thehindu.com/news/international/article29006.ece)
 5. [The NZ Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10601432)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

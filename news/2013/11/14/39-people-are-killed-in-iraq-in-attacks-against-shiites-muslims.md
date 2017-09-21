@@ -8,6 +8,7 @@ Attacks mostly against Shiites, including the suicide bombing of a religious pro
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Nov-14/237865-twin-iraq-bombs-against-shiites-kill-eight-officials.ashx#axzz2kcd1uAGq)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/11/14/225608_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

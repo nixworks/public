@@ -8,6 +8,7 @@ The gunman shot the bouncer once and his ex-girlfriend multiple times.
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/01/28/gunman-shot-and-killed-by-police-after-shooting-ex-girlfriend-bouncer-at/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

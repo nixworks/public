@@ -9,6 +9,7 @@ Notes detailing torture of Guantanamo Bay detainee Abu Zubaydah while in CIA cus
 
 1. [Newsweek](http://www.newsweek.com/cia-torture-abu-zubaydah-guantanamo-bay-371072)
 2. [Reuters via Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/government-blocks-release-cia-torture-details-150910231447965.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/10/cb0b6e119d1646bb960ec6a649b7d048_18.jpg)
 
 ### Related:
 

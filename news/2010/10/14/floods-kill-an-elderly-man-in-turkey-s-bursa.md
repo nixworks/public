@@ -8,6 +8,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### Source:
 
 1. [Hurriyet](http://www.hurriyetdailynews.com/n.php?n=elderly-bedridden-man-drowns-in-flash-flooding-in-2010-10-14)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

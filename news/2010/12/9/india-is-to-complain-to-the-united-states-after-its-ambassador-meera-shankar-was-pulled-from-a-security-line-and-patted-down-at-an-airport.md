@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11957943)
 2. [Indian Express](http://www.indianexpress.com/news/envoys-patdown-unacceptable-india-to-take-it-up-with-us/722399/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Jordan says a raid in the city of Irbid that left seven suspected jihadist milit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/magazine-35701841)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7228/production/_88542292_88542009.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Passengers booked on Kingfisher Airlines are in for some trouble as the country&
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/kingfisher-passengers-continue-to-suffer-16-flights-cancelled-from-mumbai-177625)
+1. [Cover Image](http://i.ndtvimg.com/mt/2012-02/Kingfisher-airlines-295x200_kf.jpg)
 
 ### Related:
 

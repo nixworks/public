@@ -15,6 +15,7 @@ Rival ethnic Uighur and Han Chinese groups take to streets defying security crac
 6. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6656359.ece)
 7. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11664739.htm)
 8. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11666941.htm)
+8. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

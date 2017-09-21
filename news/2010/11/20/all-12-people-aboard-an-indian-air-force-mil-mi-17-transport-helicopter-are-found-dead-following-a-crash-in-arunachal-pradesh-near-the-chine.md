@@ -9,6 +9,7 @@ Twelve military personnel, including three officers, were killed when their Mi-1
 
 1. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=541636&vId=)
 2. [Times of India](http://timesofindia.indiatimes.com/india/IAF-copter-crash-in-Arunachal-leaves-12-servicemen-dead/articleshow/6957496.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

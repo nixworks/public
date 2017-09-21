@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/swiss-vote-withdraw-country-nuclear-power-47541804)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_ad069cca409e43b3bb8df5b744db9b2a_16x9_992.jpg)
 
 ### Related:
 

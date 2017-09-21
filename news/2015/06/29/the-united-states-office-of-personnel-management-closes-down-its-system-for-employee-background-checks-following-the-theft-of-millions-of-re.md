@@ -8,6 +8,7 @@ US Office of Personnel Management shuts down system for background checks in wak
 ### Source:
 
 1. [Breaking News](http://www.breakingnews.com/item/2015/06/29/us-office-of-personnel-management-shuts-down-syste/)
+1. [Cover Image](http://static.breakingnews.com/images/logo-square.png)
 
 ### Related:
 

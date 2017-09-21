@@ -8,6 +8,7 @@ Prince first presented to His Majesty the Fourth Druk Gyalpo The first Royal Chi
 ### Source:
 
 1. [Kuensel](http://www.kuenselonline.com/his-royal-highness-the-gyalsey-is-born-2/)
+1. [Cover Image](http://www.kuenselonline.com/wp-content/uploads/HM21-660x330.jpg)
 
 ### Related:
 

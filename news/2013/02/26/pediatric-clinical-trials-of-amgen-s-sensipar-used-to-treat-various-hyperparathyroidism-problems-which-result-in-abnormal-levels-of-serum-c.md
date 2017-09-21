@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MedPage Today](http://www.medpagetoday.com/Endocrinology/GeneralEndocrinology/37563)
+1. [Cover Image](https://clf1.medpagetoday.com/assets/images/defaultLede.png)
 
 ### Related:
 

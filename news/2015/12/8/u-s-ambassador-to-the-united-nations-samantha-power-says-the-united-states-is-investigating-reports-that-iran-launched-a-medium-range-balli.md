@@ -8,6 +8,7 @@ The United States is reviewing and seeking to confirm reports that Iran launched
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-iran-missiles-usa-idUSKBN0TR2G920151208#ocJ78XwOvH0OsYvF.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151208&t=2&i=1100847609&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB714Z)
 
 ### Related:
 

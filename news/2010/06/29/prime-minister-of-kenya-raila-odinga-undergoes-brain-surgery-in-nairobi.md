@@ -13,6 +13,7 @@ Rescue workers say there is little chance of finding more survivors after a gold
 4. [My Joy Online](http://news.myjoyonline.com/news/201006/48376.asp)
 5. [Reuters](http://af.reuters.com/article/topNews/idAFJOE65S0CD20100629)
 6. [Times LIVE](http://www.timeslive.co.za/africa/article525773.ece/Kenyan-PM-has-brain-op)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Eight people, including a sheriff&#x27;s deputy, were killed in a shooting Satur
 ### Source:
 
 1. [NBC News and AP](http://www.nbcnews.com/news/us-news/eight-people-including-sheriff-s-deputy-fatally-shot-mississippi-n765596)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_21/2016581/172805-willie-corey-godbolt-1143a-rs_561d92819ac0aa3fc349a6661ca23381.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

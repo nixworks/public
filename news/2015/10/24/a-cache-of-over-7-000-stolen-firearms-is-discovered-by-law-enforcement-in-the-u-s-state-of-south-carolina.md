@@ -8,6 +8,7 @@ In his 30 years of law enforcement, about the largest illegal stash of weapons C
 ### Source:
 
 1. [Charlotte Observer](http://www.charlotteobserver.com/news/local/article41313024.html)
+1. [Cover Image](http://www.charlotteobserver.com/news/local/6eldmf/picture41336475/ALTERNATES/LANDSCAPE_1140/ManyGuns2)
 
 ### Related:
 

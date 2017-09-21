@@ -10,6 +10,7 @@ Tens of thousands of Yazidis have taken refuge on a mountain in Sinjar province 
 1. [CNN](http://www.cnn.com/2014/08/08/world/iraq-options)
 2. [CNN](http://www.cnn.com/2014/08/08/world/iraq-options/index.html?hpt=hp_t1)
 3. [Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2014/0807/Islamic-State-persecution-of-Yazidi-minority-amounts-to-genocide-UN-says-video)
+3. [Cover Image](http://images.csmonitor.com/csm/2014/08/yazidis_1.jpg?alias=standard_900x600)
 
 ### Related:
 

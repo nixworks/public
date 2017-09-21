@@ -11,6 +11,7 @@ The vote showed the broad popularity of President Rafael Correaâ€™s governmentâ€
 2. [IOL News](http://www.iol.co.za/news/world/charismatic-correa-cruises-to-victory-1.1472581)
 3. [Reuters](http://www.reuters.com/article/2013/02/17/us-ecuador-election-idUSBRE91G01K20130217)
 4. [The New York Times](http://www.nytimes.com/2013/02/18/world/americas/rafael-correa-wins-re-election-in-ecuador.html)
+4. [Cover Image](https://static01.nyt.com/images/2013/02/18/world/ECUADOR/ECUADOR-videoLarge.jpg)
 
 ### Related:
 

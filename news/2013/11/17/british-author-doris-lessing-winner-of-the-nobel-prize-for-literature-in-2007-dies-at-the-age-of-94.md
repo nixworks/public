@@ -8,6 +8,7 @@ Doris Lessing, the Nobel Laureate author of The Golden Notebook and The Grass is
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/home-news/british-nobel-laureate-author-doris-lessing-dies-aged-94-8945343.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/11/17/15/doris-lessing-getty.jpg)
 
 ### Related:
 

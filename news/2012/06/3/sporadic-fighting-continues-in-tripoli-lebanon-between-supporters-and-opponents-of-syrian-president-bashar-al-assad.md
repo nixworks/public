@@ -8,6 +8,7 @@ Sporadic gunfire punctuates a cautious calm in the north Lebanon city of Tripoli
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Local-News/2012/Jun-03/175512-fierce-clashes-rage-in-north-lebanon-12-killed.ashx#axzz1wkrJeWrW)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/06/03/syria 1_634743373542173726_img650x420_img650x420_crop.JPG)
 
 ### Related:
 

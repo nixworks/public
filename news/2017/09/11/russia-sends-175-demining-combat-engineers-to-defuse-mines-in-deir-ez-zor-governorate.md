@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-russia/russia-sends-175-de-miners-to-syrias-deir-al-zor-interfax-idUSKCN1BM0HA)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170911&t=2&i=1200886098&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8A0ST)
 
 ### Related:
 

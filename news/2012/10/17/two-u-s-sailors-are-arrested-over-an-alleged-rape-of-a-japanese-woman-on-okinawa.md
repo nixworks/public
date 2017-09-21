@@ -8,6 +8,7 @@ Two US troops are arrested over the alleged rape of a Japanese woman in Okinawa,
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-19973788)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63533000/jpg/_63533553_016153351-1.jpg)
 
 ### Related:
 

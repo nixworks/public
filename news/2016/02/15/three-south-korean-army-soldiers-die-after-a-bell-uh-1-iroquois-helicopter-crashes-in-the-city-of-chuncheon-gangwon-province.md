@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Town Hall](http://townhall.com/news/politics-elections/2016/02/15/south-korean-army-helicopter-crash-kills-three-n2119656)
+1. [Cover Image](https://media.townhall.com/_townhall/resources/images/thog.png)
 
 ### Related:
 

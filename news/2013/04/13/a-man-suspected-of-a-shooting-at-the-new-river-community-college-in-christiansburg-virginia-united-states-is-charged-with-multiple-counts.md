@@ -9,6 +9,7 @@ CHRISTIANSBURG, Va. (AP) — An 18-year-old college student was charged Friday w
 
 1. [AP via Yahoo! News](http://news.yahoo.com/student-charged-va-mall-shootings-2-wounded-013736331.html)
 2. [CNN](http://www.cnn.com/2013/04/12/us/virginia-community-college-shooting)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

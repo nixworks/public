@@ -8,3 +8,4 @@ For amateur and professional skygazers alike this weekend is set to deliver a ne
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/technology/sci-tech/astronomy/comet-set-to-share-the-love-this-weekend-20150109-12ku0o.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/w/5/u/x/image.related.articleLeadwide.620x349.12ku0o.png/1420782448299.jpg)

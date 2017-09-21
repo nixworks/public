@@ -11,6 +11,7 @@
 2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/8235264.stm)
 3. [The Guardian](http://www.guardian.co.uk/world/2009/sep/03/ahmad-vahidi-iran-defence-minister)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-09/03/content_11991257.htm)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

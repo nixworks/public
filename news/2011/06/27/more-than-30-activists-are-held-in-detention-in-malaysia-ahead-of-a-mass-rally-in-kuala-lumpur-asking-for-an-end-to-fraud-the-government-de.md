@@ -8,6 +8,7 @@ More than 30 Malaysian activists remain in detention after police arrests at the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13923599)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53706000/jpg/_53706229_012268924-1.jpg)
 
 ### Related:
 

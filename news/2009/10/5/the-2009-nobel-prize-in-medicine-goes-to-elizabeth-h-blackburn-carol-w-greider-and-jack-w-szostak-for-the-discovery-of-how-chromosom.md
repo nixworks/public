@@ -9,6 +9,7 @@
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hJcSjQhDsEyGknin8ov1gIOLAj-QD9B4RSQ81)
 2. [Nobel Foundation](http://nobelprize.org/nobel_prizes/medicine/laureates/2009/)
+2. [Cover Image](http://www.nobelprize.org/nobel_prizes/medicine/laureates/2009/szostak_postcard.jpg)
 
 ### Related:
 

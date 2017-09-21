@@ -9,6 +9,7 @@ Trooper Michael Slagle reportedly suffered a fatal heart attack during the incid
 
 1. [Officer.com](http://www.officer.com/news/10859117/tenn-trooper-dies-after-fire-truck-lands-on-cruiser)
 2. [WATE](http://www.wate.com/story/20706846/state-trooper-dies-in-ice-related-wreck)
+2. [Cover Image](http://r1.officer.com/files/base/image/OFCR/2013/01/16x9/1280x720/slaglelodd_10859121.jpg)
 
 ### Related:
 

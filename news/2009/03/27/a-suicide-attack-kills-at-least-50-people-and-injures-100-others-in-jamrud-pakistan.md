@@ -8,6 +8,7 @@ Scores of worshippers killed as suicide bomber strikes during Friday prayers in 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/03/2009327101924713636.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

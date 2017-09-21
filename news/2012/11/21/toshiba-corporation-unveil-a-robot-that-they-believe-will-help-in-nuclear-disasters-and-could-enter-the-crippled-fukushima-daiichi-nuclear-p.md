@@ -8,6 +8,7 @@ THE robot which can withstand high radiation, can be controlled via a wireless n
 ### Source:
 
 1. [Daily Record](http://www.dailyrecord.co.uk/news/science-technology/toshiba-unveil-robot-1448363)
+1. [Cover Image](http://i1.dailyrecord.co.uk/incoming/article1448365.ece/ALTERNATES/s1200/robot)
 
 ### Related:
 

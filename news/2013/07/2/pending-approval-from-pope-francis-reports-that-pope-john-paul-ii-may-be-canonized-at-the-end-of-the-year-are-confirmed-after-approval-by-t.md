@@ -8,6 +8,7 @@ Awaiting final approval from Pope Francis; possible canonization date is Dec. 8,
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57592012/john-paul-ii-clears-final-hurdle-for-sainthood/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/03/15/55127aac-1c50-11e3-9918-005056850598/60RPopeJP1280_1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Energy Transfer Equity LP (ETE.N), the U.S. pipeline company that agreed to acqu
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-energytransfer-sunoco-exlusive-idUSKCN0WD2MB)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160312&t=2&i=1124234797&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2B01Z)
 
 ### Related:
 

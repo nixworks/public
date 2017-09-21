@@ -8,6 +8,7 @@ An explosion at a major bus station in Gombe state in north-eastern Nigeria kill
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-29849629)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78666000/jpg/_78666134_78664705.jpg)
 
 ### Related:
 

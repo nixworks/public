@@ -11,6 +11,7 @@ A cargo plane crashed into houses near Brazzaville Maya-Maya airport while attem
 2. [BNO News](http://www.bnowire.com/?p=1031)
 3. [Reuters](http://www.reuters.com/article/2012/12/01/us-congo-republic-crash-idUSBRE8B006720121201)
 4. [The Australian](http://www.theaustralian.com.au/news/breaking-news/plane-crashes-houses-in-congo-killing-30/story-fn3dxix6-1226527884699)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

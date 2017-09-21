@@ -8,6 +8,7 @@ COLUMBUS—Gov. John Kasich plans to follow through on Thursday night with his p
 ### Source:
 
 1. [Toledo Blade](http://toledoblade.com/news/2011/03/31/Kasich-will-sign-collective-bargaining-bill-Thursday-night.html)
+1. [Cover Image](/image/2011/03/31/UnionFight.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A total of 48 passengers, including children, are rescued from a boat after it h
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-south-west-wales-22666265)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67820000/jpg/_67820203_boat4.jpg)
 
 ### Related:
 

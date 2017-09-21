@@ -8,6 +8,7 @@ Italian military police general Giampaolo Ganzer is sentenced to 14 years in pri
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10605690.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

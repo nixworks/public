@@ -8,6 +8,7 @@ Ex-Labour minister Elliot Morley, who has admitted dishonestly claiming more tha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13467137)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52854000/jpg/_52854917_morley464in_ap.jpg)
 
 ### Related:
 

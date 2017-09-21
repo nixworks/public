@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11613622)
 2. [RTÉ](http://www.rte.ie/news/2010/1023/down.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/24/c_13572316.htm)
+3. [Cover Image](https://img.rasset.ie/0003d5e2-1600.jpg)
 
 ### Related:
 

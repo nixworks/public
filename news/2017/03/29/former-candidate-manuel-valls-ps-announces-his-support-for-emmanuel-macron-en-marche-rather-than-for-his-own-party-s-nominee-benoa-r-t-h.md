@@ -8,6 +8,7 @@ French Socialist Benoit Hamon called on all leftist voters to unite behind his p
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-03-29/hamon-calls-on-french-left-to-unite-after-valls-defection)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOKoOuixxcnA/v0/1200x800.jpg)
 
 ### Related:
 

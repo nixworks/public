@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jQMQ3pd4KwdjIKCNSuhSp01ZiStw)
 2. [Balkan Insight](http://www.balkaninsight.com/en/main/news/8741/)
 3. [Ministry of Foreign Affairs, Bulgaria](http://www.mfa.bg/en/index.php?option=com_content&task=view&id=8853&Itemid=217)
+3. [Cover Image](http://www.balkaninsight.com/en/file/show/Images/Banners/BI-FB.png)
 
 ### Related:
 

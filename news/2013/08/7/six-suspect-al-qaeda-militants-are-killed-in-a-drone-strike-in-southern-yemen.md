@@ -8,6 +8,7 @@ A U.S. drone killed at least six suspected al Qaeda militants in southern Yemen 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/07/us-yemen-security-strike-idUSBRE9760C320130807)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130807&t=2&i=758059477&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9760WHX00)
 
 ### Related:
 

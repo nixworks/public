@@ -8,6 +8,7 @@ Federal Defence Minister John Faulkner has ruled out withdrawing Australian troo
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/faulkner-rules-out-withdrawing-troops-20100716-10dm8.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

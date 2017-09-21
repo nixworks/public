@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8289171.stm)
 2. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/668060/-/1368uhtz/-/)
 3. [Vanguard](http://www.vanguardngr.com/2009/10/04/amnesty-deadline-militants-in-last-minute-rush-to-surrender/)
+3. [Cover Image](http://d19lga30codh7.cloudfront.net/wp-content/uploads/2009/07/okah-in-court.jpg)
 
 ### Related:
 

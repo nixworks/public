@@ -11,6 +11,7 @@
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/barak-to-u-s-france-take-steps-to-stop-lebanese-flotilla-1.309379)
 3. [Press TV](http://www.presstv.ir/detail/139706.html)
 4. [euronews](http://www.euronews.net/2010/08/22/cypriots-deny-gaza-bound-ship-use-of-their-ports/)
+4. [Cover Image](http://www.haaretz.com/polopoly_fs/1.309380.1282408498!/image/3079433707.jpg_gen/derivatives/headline_1200x630/3079433707.jpg)
 
 ### Related:
 

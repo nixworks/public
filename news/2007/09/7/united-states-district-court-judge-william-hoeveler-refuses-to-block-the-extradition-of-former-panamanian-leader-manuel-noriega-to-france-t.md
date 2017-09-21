@@ -8,6 +8,7 @@ A U.S. federal judge on Friday refused to block the extradition of deposed Panam
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN0718781620070907?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070907&t=2&i=1673203&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-07T175917Z_01_N07187816_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

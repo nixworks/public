@@ -10,6 +10,7 @@ SEOUL, South Korea (AP) — North Korea fired a newly developed powerful ballist
 1. [AP](http://bigstory.ap.org/article/31a6c8ea883840e6b368fdf6198a1c57/seoul-north-korea-fires-ballistic-missile-east-coast)
 2. [CNN](http://edition.cnn.com/2017/04/04/asia/north-korea-projectile/)
 3. [CNN](http://www.cnn.com/2017/04/04/politics/tillerson-north-korea-statement/)
+3. [Cover Image](http://binaryapi.ap.org/ef5d68d20b534ccbb948ae30c925d21f/460x.jpg)
 
 ### Related:
 

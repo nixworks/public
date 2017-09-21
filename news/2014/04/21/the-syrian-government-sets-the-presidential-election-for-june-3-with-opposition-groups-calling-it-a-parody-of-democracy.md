@@ -8,6 +8,7 @@ Syria announced on Monday a presidential election for June 3, preparing the grou
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/21/us-syria-crisis-elections-idUSBREA3K0AZ20140421?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140421&t=2&i=890561640&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3K0XPT00)
 
 ### Related:
 

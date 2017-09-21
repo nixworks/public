@@ -8,6 +8,7 @@ A car bomb exploded near a military bus carrying troops going to work in norther
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,429465,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

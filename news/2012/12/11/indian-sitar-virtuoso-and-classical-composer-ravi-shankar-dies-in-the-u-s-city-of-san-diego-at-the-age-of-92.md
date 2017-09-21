@@ -8,6 +8,7 @@ Sitar player Ravi Shankar, who popularised Indian music around the world, dies i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20690632)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64708000/jpg/_64708410_64708409.jpg)
 
 ### Related:
 

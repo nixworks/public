@@ -8,3 +8,4 @@
 ### Source:
 
 1. [WXYZ](http://www.wxyz.com/news/region/detroit/police-investigating-after-man-found-shot-in-the-head-on-detroits-west-side)
+1. [Cover Image](http://media2.wxyz.com/photo/2017/01/02/IMG_20170102_154939_1483392169296_52468945_ver1.0_640_480.jpg)

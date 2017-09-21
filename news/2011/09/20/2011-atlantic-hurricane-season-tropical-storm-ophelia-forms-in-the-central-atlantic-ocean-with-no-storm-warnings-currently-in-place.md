@@ -8,6 +8,7 @@ Storm is too far away to be a threat to land for now
 ### Source:
 
 1. [National Hurricane Centre via NOLA.com](http://www.nola.com/hurricane/index.ssf/2011/09/tropical_storm_ophelia_forms_i.html)
+1. [Cover Image](http://image.nola.com/home/nola-media/width620/img/hurricane_impact/photo/10020880-standard.jpg)
 
 ### Related:
 

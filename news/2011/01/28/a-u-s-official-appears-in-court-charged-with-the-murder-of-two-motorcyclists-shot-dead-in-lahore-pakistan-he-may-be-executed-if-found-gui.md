@@ -8,6 +8,7 @@ A US consular employee admits shooting dead two motorcyclists on a busy street i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12305049)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

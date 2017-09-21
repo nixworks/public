@@ -9,6 +9,7 @@ Katyushas cause extensive damage, are first Grad launch since Cast Lead; IAF str
 
 1. [AFP via ''Brisbane Courier-Mail](http://www.couriermail.com.au/news/breaking-news/israeli-jets-hit-gaza-after-rocket-atack/story-e6freoo6-1226011508317)
 2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=209581)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=159908)
 
 ### Related:
 

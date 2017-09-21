@@ -11,6 +11,7 @@ The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for a
 2. [Iceland Review](http://www.icelandreview.com/icelandreview/daily_news/?cat_id=29314&ew_0_a_id=372760)
 3. [Reuters](http://www.reuters.com/article/idUSTRE70K4GT20110123)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/23/AR2011012301084.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110123&t=2&i=314752100&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-23T142811Z_01_BTRE70M147C00_RTROPTP_0_WIKILEAKS-SWISS)
 
 ### Related:
 

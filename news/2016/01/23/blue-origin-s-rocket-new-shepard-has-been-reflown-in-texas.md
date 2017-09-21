@@ -8,6 +8,7 @@ US entrepreneur Jeff Bezos reflies the New Shepard rocket and capsule system he 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-35391326)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F966/production/_87864836_screenshot2016-01-23at10.31.37.png)
 
 ### Related:
 

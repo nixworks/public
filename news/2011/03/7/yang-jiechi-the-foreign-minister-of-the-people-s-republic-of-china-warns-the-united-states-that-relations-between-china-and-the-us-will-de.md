@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/07/us-china-npc-usa-taiwan-idUSTRE7260MT20110307)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110307&t=2&i=355137120&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-07T040708Z_01_BTRE7260BG100_RTROPTP_0_KOREA)
 
 ### Related:
 

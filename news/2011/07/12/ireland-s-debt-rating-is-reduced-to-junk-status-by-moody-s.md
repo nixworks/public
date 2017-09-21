@@ -9,6 +9,7 @@ Credit agency Moody&#39;s has downgraded Ireland&#39;s debt rating to junk statu
 
 1. [BBC](http://www.bbc.co.uk/news/business-14131959)
 2. [RTÉ](http://www.rte.ie/news/2011/0712/economy1.html)
+2. [Cover Image](https://img.rasset.ie/00046dc2-1600.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ At least 136 people reportedly killed in violence throughout the country, a day 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201173143432348733.html)
 2. [Al-Arabiya](http://english.alarabiya.net/articles/2011/07/31/160188.html)
 3. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011731183142996341.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/31/2011731181132847784_20.jpg)
 
 ### Related:
 

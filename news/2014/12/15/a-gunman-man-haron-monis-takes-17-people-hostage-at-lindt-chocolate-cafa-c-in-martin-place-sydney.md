@@ -10,6 +10,7 @@ Hundreds of armed police seal off an area of central Sydney where a gunman is ho
 1. [ABC Australia](http://www.abc.net.au/news/2014-12-15/sydney-siege-hostages-cafe-martin-place-police-operation/5967232)
 2. [BBC](http://m.bbc.com/news/world-australia-30473983)
 3. [Melbourne Herald-Sun](http://www.heraldsun.com.au/news/national/sydney-siege-what-we-know-what-we-dont/story-fni0xqrb-1227156965180)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79727000/jpg/_79727077_79727076.jpg)
 
 ### Related:
 

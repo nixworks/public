@@ -9,6 +9,7 @@ Colombia fled a formal complaint against Venezuelan President Hugo Chavez with t
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8224130.stm)
 2. [MercoPress](http://en.mercopress.com/2009/08/27/colombia-files-complaint-against-venezuela-with-oas)
+2. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19947/200x200/a28716b487948901fe40cd4b3fbf2acb.jpg)
 
 ### Related:
 

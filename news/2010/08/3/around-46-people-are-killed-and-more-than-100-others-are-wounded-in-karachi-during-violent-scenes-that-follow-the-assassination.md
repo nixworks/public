@@ -11,6 +11,7 @@
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108322910182928.html)
 3. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1299895/Assasination-Pakistani-politician-sparks-clashes-kill-40.html?ITO=1490)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE6720IR20100803)
+4. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100803&t=2&i=170910311&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-03T163403Z_01_BTRE6720W5B00_RTROPTP_0_PAKISTAN-KARACHI-VIOLENCE)
 
 ### Related:
 

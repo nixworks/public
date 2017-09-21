@@ -8,6 +8,7 @@ A car bomb attack in the Nigerian capital Abuja, the second in recent weeks, kil
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27249097)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74594000/jpg/_74594037_74594036.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least two persons have died and 15 others seriously injured as eight coaches 
 
 1. [NDTV](http://www.ndtv.com/article/india/train-derails-near-nashik-in-maharashtra-4-feared-dead-446314)
 2. [Times of India](http://timesofindia.indiatimes.com/india/At-least-5-killed-10-injured-as-Mangala-Express-derails-near-Nasik/articleshow/25796726.cms)
+2. [Cover Image](http://i.ndtvimg.com/mt/2013-11/mangala_train360x270_t2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Opposition demands that a non-partisan caretaker government be charged with cond
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/03/20123121524137104.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/12/201231216355269734_20.jpg)
 
 ### Related:
 

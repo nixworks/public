@@ -8,6 +8,7 @@ Zimbabweans have been voting in a key referendum on a new constitution that woul
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21810448)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66428000/jpg/_66428611_66428610.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ French President Nicolas Sarkozy has left hospital after tests confirmed that hi
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8170045.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0727/sarkozyn.html)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6728716.ece)
+3. [Cover Image](https://img.rasset.ie/0002784b-1600.jpg)
 
 ### Related:
 

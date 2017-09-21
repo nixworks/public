@@ -8,3 +8,4 @@ Gerry Anderson, creator of the Thunderbirds and Joe 90 puppet superhero TV shows
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-oxfordshire-20845407)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64943000/jpg/_64943998_000961940.jpg)

@@ -9,6 +9,7 @@
 
 1. [NDTV](http://www.ndtv.com/article/india/ulfa-chief-arabinda-rajkhowa-gets-bail-75879)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_619014.html)
+2. [Cover Image](http://i.ndtvimg.com/mt/2010-12/re-size-Arbinda.jpg)
 
 ### Related:
 

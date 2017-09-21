@@ -11,6 +11,7 @@ President Mahmoud Ahmadinejad says Iran &quot;will not budge&quot; from its nucl
 2. [Bloomberg](http://www.bloomberg.com/news/2011-11-09/u-s-europe-press-iran-sanctions-after-un-shows-atom-bomb-work.html)
 3. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFN1E7A71OB20111109?sp=true)
 4. [The New York Times](http://www.nytimes.com/2011/11/10/world/europe/russia-dismisses-calls-for-new-un-sanctions-on-iran.html?ref=internationalatomicenergyagency)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56599000/jpg/_56599879_56599878.jpg)
 
 ### Related:
 

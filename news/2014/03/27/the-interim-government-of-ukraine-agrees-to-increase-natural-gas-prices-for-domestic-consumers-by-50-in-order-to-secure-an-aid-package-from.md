@@ -9,6 +9,7 @@ As prime minister warns Ukrainians of pain ahead, IMF pledges $18B to prop up si
 
 1. [BBC](http://www.bbc.com/news/business-26758788)
 2. [CBS News](http://www.cbsnews.com/news/imf-ukraine-18b-arseniy-yatsenyuk-warns-nation-on-brink-of-bankruptcy/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/27/a4139ae5-31fd-438d-8df6-851fe8d47460/ukraine-pm-ap236198272893.jpg)
 
 ### Related:
 

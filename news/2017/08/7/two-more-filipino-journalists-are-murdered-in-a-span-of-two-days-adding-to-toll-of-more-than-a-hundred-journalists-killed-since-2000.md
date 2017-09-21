@@ -9,6 +9,7 @@ ZAMBOANGA, Philippines (AFP) - Two journalists have been shot dead in two days i
 
 1. [The Committee to Protect Journalists](https://cpj.org/2017/08/reporter-shot-and-killed-in-the-philippines.php)
 2. [The Strait Times](http://www.straitstimes.com/asia/se-asia/two-journalists-in-two-days-murdered-in-philippines)
+2. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

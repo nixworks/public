@@ -8,6 +8,7 @@ Eighteen injured in explosion in city of Yala, which triggered a large fire that
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/02/201121315920359878.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/13/2011213151222677876_20.jpg)
 
 ### Related:
 

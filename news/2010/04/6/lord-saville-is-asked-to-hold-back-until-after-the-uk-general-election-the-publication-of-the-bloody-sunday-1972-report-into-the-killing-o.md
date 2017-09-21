@@ -10,6 +10,7 @@ The Bloody Sunday report into the death of 14 people at the hands of the British
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/foyle_and_west/8606048.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0406/bloodysunday.html)
 3. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/06/bloody-sunday-inquiry-delay)
+3. [Cover Image](https://img.rasset.ie/0000ce5d-1600.jpg)
 
 ### Related:
 

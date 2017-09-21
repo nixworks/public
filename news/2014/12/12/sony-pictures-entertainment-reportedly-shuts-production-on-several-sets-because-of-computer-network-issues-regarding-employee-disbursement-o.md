@@ -8,6 +8,7 @@ Sony Pictures has abandoned film shoots because hackers have crippled its comput
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/entertainment/2014/12/12/hacked-sony-reportedly-shuts-production/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2014/12/12/hacked-sony-reportedly-shuts-production/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422885239922.jpg?ve=1)
 
 ### Related:
 

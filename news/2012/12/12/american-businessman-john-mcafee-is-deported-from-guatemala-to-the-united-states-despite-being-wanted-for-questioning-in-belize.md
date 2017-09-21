@@ -8,6 +8,7 @@ John McAfee, the fugitive computer software millionaire wanted for questioning i
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/belize/9741093/John-McAfee-en-route-to-US-after-hes-deported-from-Guatemala.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02426/JohnMcAfee-afp_2426327k.jpg)
 
 ### Related:
 

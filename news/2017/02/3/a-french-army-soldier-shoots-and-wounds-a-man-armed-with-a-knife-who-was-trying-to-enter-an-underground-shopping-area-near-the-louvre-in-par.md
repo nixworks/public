@@ -8,6 +8,7 @@ The machete-wielding man shouted &quot;Allahu Akbar&quot; and attacked soldiers 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38853841#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/636E/production/_93945452_d19876e4-a49c-42da-a14b-6a586070737e.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Battered bodies of the two men were found in bushes in separate areas in rural J
 1. [CBS News with AP](http://www.cbsnews.com/news/2-us-missionaries-found-dead-in-jamaica-police-say/)
 2. [CNN](http://www.cnn.com/2016/05/02/americas/missionaries-killed-jamaica/)
 3. [The Jamaica Observer](http://www.jamaicaobserver.com/news/Community-grieves-after-2-American-missionaries-found-dead-------_59587)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/04/19/5c2c1cff-9954-411d-b82e-4de3ed8080f8/police-crime-scene-tape.jpg)
 
 ### Related:
 

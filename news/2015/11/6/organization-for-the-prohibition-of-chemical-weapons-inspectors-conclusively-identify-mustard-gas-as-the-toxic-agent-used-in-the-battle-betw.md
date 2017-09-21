@@ -11,6 +11,7 @@ This is the first official confirmation of mustard gas use in Syria since the co
 2. [Fox News](http://www.foxnews.com/world/2015/11/06/syrian-activists-rebels-recapture-village-in-country-west-as-major-fighting/)
 3. [Reuters](http://www.reuters.com/article/2015/11/06/us-mideast-crisis-syria-village-idUSKCN0SV0VH20151106)
 4. [Washington Post](https://www.washingtonpost.com/world/weapons-inspectors-determine-syrian-insurgents-used-mustard-gas/2015/11/06/7865d4e0-84b0-11e5-8bd2-680fff868306_story.html)
+4. [Cover Image](http://images.csmonitor.com/csm/2015/11/946342_1_1106-syria-mustard-gas%20%20_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

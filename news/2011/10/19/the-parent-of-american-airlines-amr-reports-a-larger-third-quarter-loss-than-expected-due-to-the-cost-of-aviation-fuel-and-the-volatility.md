@@ -8,6 +8,7 @@ American Airlines, struggling to regain financial footing relative to stronger r
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/19/us-amr-idUSTRE79I38K20111019)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111019&t=2&i=519135355&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79I106T00)
 
 ### Related:
 

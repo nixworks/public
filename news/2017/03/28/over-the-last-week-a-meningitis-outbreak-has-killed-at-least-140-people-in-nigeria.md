@@ -8,6 +8,7 @@ The disease has infected more than 1,000 people in one of the worst outbreaks fo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39418275)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/14558/production/_86588238_gettyimages-76201544.jpg)
 
 ### Related:
 

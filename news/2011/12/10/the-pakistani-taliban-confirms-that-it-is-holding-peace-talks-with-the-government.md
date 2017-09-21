@@ -8,6 +8,7 @@ TTP deputy head says negotiations could spread to other areas.
 ### Source:
 
 1. [Pakistan Tribune](http://tribune.com.pk/story/304602/pakistani-taliban-confirm-peace-talks-with-islamabad/)
+1. [Cover Image](https://c.tribune.com.pk/2011/12/304602-MaulviFaqirMohammad-1323583804-430-640x480.jpg)
 
 ### Related:
 

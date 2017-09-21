@@ -8,6 +8,7 @@ The strikes would likely be conducted by drones, and would be part of an officia
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/u-s-may-begin-airstrikes-against-isis-philippines-n790271)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_32/2097561/170807-drones-armed-mq9-se-1225a_45e194b602fbe3ed5490b8d81d7e1e9d.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

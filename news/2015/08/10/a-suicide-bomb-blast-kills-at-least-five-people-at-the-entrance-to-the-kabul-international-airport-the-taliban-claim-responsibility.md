@@ -8,6 +8,7 @@ A Taliban suicide bomber attacks a checkpoint near the entrance to the internati
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-33845326)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17AF0/production/_84780079_hi028507137.jpg)
 
 ### Related:
 

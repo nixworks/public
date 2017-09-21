@@ -9,6 +9,7 @@
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gysAvJSk3Zv7iSzGO_TyaMcwDgSg?docId=1c1f928ff0f54ffe93964875b4fb261d)
 2. [The Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/08/un-chief-raises-human-rights-in-tehran-stuns-hosts.html)
+2. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef01774467dce8970d-120pi)
 
 ### Related:
 

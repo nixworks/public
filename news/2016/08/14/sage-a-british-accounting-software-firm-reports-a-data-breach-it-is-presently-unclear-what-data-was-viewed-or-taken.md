@@ -8,3 +8,4 @@ A data breach at large UK software company Sage may have compromised personal in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37076704)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/DEE2/production/_90785075_021857182-1.jpg)

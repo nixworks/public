@@ -9,6 +9,7 @@ A young grey seal, with a London Zoo tag, has been found in Skerries and brought
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8608120.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0407/seal.html)
+2. [Cover Image](https://img.rasset.ie/00032bfa-1600.jpg)
 
 ### Related:
 

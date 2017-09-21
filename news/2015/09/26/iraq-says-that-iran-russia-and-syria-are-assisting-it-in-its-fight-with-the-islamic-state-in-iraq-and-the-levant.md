@@ -8,6 +8,7 @@ Iraq said on Saturday that its military officials were engaged in intelligence a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/26/us-mideast-crisis-iraq-russia-idUSKCN0RQ0RY20150926)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Filipina who was temporarily spared at 11th hour, as the Bali Nine pair and six 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/28/mary-jane-veloso-indonesia-execution-reprieve)
+1. [Cover Image](https://i.guim.co.uk/img/media/65bc8f85922c624a89b6e0b06d754f57f370ae0c/125_222_1733_1040/1733.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=bbd6cef06c731c0d6cf95da227c43b37)
 
 ### Related:
 

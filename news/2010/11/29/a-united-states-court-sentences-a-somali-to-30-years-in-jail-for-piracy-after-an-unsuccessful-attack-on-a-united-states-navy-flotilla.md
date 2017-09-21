@@ -8,6 +8,7 @@ A US court sentences a Somali man to 30 years in jail for attacking a US warship
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11871563)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=sportsNews&storyID=2006-02-10T132814Z_01_SP142097_RTRUKOC_0_US-ICE-HOCKEY-GAMBLING.xml)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

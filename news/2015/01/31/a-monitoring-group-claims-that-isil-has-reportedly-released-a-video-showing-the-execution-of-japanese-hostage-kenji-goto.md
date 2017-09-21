@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2015/01/japanese-hostage-beheaded-isil-150131201857344.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/1/31/77a96145bc744106924db61f6b6d7f12_18.jpg)
 
 ### Related:
 

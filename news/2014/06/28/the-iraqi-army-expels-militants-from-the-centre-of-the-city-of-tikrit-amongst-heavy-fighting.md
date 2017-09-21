@@ -9,6 +9,7 @@
 
 1. [New York Times](http://www.nytimes.com/2014/06/29/world/middleeast/iraqi-army-gains-in-fight-to-retake-tikrit.html?partner=rss&emc=rss)
 2. [Reuters](http://uk.reuters.com/article/2014/06/28/uk-syria-crisis-iraq-border-idUKKBN0F30BK20140628)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140628&t=2&i=913361340&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5R04H)
 
 ### Related:
 

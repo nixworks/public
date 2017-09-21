@@ -9,6 +9,7 @@ Two trains collide in a station near the Indonesian city of Pemalang, killing at
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11458085)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/02/death-toll-train-crash-hits-33.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

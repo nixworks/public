@@ -8,6 +8,7 @@ Turkey shot down a drone on Friday in an incident highlighting the dangers of mu
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/16/uk-mideast-crisis-syria-idUKKCN0S81AK20151016)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151016&t=2&i=1087514633&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9F0VU)
 
 ### Related:
 

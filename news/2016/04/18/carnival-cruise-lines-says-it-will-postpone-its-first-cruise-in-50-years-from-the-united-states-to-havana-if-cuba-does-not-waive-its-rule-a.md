@@ -9,6 +9,7 @@ Carnival Cruise Lines announced Monday it will postpone its first cruise to Hava
 
 1. [AP via CNBC](http://www.cnbc.com/2016/04/18/carnival-may-delay-cuba-cruise-over-discrimination-concerns.html)
 2. [UPI](http://www.upi.com/Top_News/US/2016/04/18/Carnival-wont-sail-to-Havana-if-Cuban-born-passengers-banned/2551460998258/?spt=rln&or=4)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/2551460998258/2016/1/14610012576204/v2.1/Carnival-wont-sail-to-Havana-if-Cuban-born-passengers-banned.jpg)
 
 ### Related:
 

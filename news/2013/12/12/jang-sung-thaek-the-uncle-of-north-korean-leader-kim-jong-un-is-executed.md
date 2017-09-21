@@ -8,6 +8,7 @@ North Korea said on Friday Jang Song Thaek, the uncle of leader Kim Jong Un and 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/12/us-korea-north-idUSBRE9BB19520131212)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131212&t=2&i=819863285&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BB1OYA00)
 
 ### Related:
 

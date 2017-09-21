@@ -8,6 +8,7 @@ A Darfur rebel group says it has seized control of a Sudanese army base in Kordo
 ### Source:
 
 1. [Reuters via ABC](http://www.abc.net.au/news/stories/2007/08/30/2019280.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

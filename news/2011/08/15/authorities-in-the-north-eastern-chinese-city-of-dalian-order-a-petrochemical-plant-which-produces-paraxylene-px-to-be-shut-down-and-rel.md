@@ -11,6 +11,7 @@ A protest in China shows the complications of the country&#39;s successes and fa
 2. [The Atlantic](http://www.theatlantic.com/international/archive/2011/08/todays-news-out-of-china-the-dalian-px-protests/243572/)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/aug/14/china-petrochemical-plant-shutdown-protest)
 4. [The Wall Street Journal](http://online.wsj.com/article/SB10001424053111904253204576508252300809390.html)
+4. [Cover Image](https://cdn.theatlantic.com/assets/media/mt/jamesfallows/DalianShots-thumb.jpg)
 
 ### Related:
 

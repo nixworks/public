@@ -11,6 +11,7 @@ The New Moore island near the Bay of Bengal is being swallowed by the rising sea
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-disappearing-island25-2010mar25,0,3895432.story)
 3. [Miami Herald](http://www.miamiherald.com/2010/03/24/1544558/disputed-isle-in-bay-of-bengal.html)
 4. [The Times of India](http://timesofindia.indiatimes.com/home/environment/global-warming/New-Moore-isle-no-more-expert-blames-warming/articleshow/5720685.cms)
+4. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

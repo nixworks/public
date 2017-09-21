@@ -9,6 +9,7 @@ The United States on Wednesday abstained for the first time from a United Nation
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/10/26/499469386/for-first-time-u-s-abstains-on-u-n-resolution-condemning-cuba-embargo)
 2. [Reuters](http://www.reuters.com/article/us-usa-cuba-un-idUSKCN12Q259)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161026&t=2&i=1159083729&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9P18I)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Malta, a majority Catholic country, approves a non-binding referendum on legalis
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13588834)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53053000/jpg/_53053396_012092720-1.jpg)
 
 ### Related:
 

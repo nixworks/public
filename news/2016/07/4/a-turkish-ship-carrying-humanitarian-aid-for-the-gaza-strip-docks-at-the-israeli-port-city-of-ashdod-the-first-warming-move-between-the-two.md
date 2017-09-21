@@ -8,6 +8,7 @@ The Lady Leyla docks in Ashdod more than six years after Israeli commandos storm
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/04/turkish-ship-carrying-humanitarian-aid-for-gaza-reaches-isreal)
+1. [Cover Image](https://i.guim.co.uk/img/media/650c772a175f5b36089f6956a1fe06d10980783b/0_46_3500_2101/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0da6c8632d459873b1b91b94a3c1bcf8)
 
 ### Related:
 

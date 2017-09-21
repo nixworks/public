@@ -8,6 +8,7 @@ Iraq&#039;s premier says he has enough support to keep his post, but with electi
 ### Source:
 
 1. [SBS Australia](http://www.sbs.com.au/news/storystream/iraq-general-election-pm-says-victory-certain)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/iraq_vote_getty.jpg)
 
 ### Related:
 

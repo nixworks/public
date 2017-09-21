@@ -8,6 +8,7 @@ Commenting on the recent trilateral meeting between Russia, Turkey and Iran on t
 ### Source:
 
 1. [Sputnik](https://sputniknews.com/middleeast/201612261049011249-russia-turkey-iran-syria/)
+1. [Cover Image](https://cdn1.img.sputniknews.com/images/104538/57/1045385767.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Record label Sony apologises for increasing the price of two Whitney Houston alb
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17039076)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58511000/jpg/_58511842_58511841.jpg)
 
 ### Related:
 

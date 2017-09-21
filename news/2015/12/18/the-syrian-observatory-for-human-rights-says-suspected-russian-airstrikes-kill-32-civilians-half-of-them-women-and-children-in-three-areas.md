@@ -9,6 +9,7 @@ London-based monitoring group says 1,900 killed, including 635 civilians, by Rus
 
 1. [ (Sky News](http://news.sky.com/story/1608377/russian-airstrikes-kill-32-syrian-civilians)
 2. [The Times of Israel](http://www.timesofisrael.com/suspected-russia-raids-kill-32-civilians-in-north-syria/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/10/Mideast-Syria_Horo-1.jpg)
 
 ### Related:
 

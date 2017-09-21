@@ -12,6 +12,7 @@ An article on the top US general in Afghanistan was an &quot;enormous mistake&qu
 3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/us-general-faces-sack-for-unguarded-remarks-360)
 4. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100623/FOREIGN/706229813/1002)
 5. [The New York Times](http://global.nytimes.com/)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

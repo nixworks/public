@@ -9,6 +9,7 @@ Without further emission cuts, global temperatures could reach 5˚C above pre-in
 
 1. [Science](http://www.sciencemag.org/content/349/6244/aaa4019)
 2. [Times of Malta](http://www.timesofmalta.com/articles/view/20150713/environment/rising-oceans-impact-enormous.576417)
+2. [Cover Image](https://cdn-attachments.timesofmalta.com/world_14_temp-1436770848-55a36220-620x348.jpg)
 
 ### Related:
 

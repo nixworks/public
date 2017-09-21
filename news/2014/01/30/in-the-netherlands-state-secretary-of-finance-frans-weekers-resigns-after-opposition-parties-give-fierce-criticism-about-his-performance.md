@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NOS](http://nos.nl/artikel/603858-frans-weekers-stapt-op.html)
+1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)
 
 ### Related:
 

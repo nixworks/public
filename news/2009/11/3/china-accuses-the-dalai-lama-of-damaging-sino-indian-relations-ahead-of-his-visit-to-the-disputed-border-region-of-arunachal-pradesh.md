@@ -9,6 +9,7 @@
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-11/03/content_8907897.htm)
 2. [Times of India](http://timesofindia.indiatimes.com/india/China-accuses-Dalai-Lama-of-damaging-ties-with-India/articleshow/5192704.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

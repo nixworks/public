@@ -8,6 +8,7 @@ Thursday’s vote is seen as an important gauge of the country’s democratic re
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/04/09/world/asia/09indo.html)
+1. [Cover Image](https://static01.nyt.com/images/2009/04/08/world/09indo2-75.jpg)
 
 ### Related:
 

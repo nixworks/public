@@ -10,6 +10,7 @@ Internet phone firm Skype files for an initial public offering in the US, hoping
 1. [BBC](http://www.bbc.co.uk/news/business-10918520)
 2. [Sky News](http://news.sky.com/skynews/Home/Business/Internet-Phone-Service-Skype-Plans-To-Raise-100m-Dollars-Through-Wall-Street-Flotation/Article/201008215679948?lpos=Business_News_Your_Way_Region_8&lid=NewsYourWay_ARTICLE_15679948_Internet_Phone_Service_Skype_Pla)
 3. [The Guardian](http://www.guardian.co.uk/technology/2010/aug/09/skype-plans-new-york-flotation)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thai protesters launch what they are calling a shutdown of Bangkok in a bid to o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25708092)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72236000/jpg/_72236600_020591921reu.jpg)
 
 ### Related:
 

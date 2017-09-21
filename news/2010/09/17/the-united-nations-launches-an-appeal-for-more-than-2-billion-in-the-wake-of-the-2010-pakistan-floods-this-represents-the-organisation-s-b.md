@@ -8,6 +8,7 @@ The United Nations launches a $2bn appeal for Pakistan flood victims, its bigges
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11351151)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

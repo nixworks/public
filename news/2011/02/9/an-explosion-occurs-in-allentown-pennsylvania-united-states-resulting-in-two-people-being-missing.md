@@ -8,6 +8,7 @@ Five people -- including a 4-month-old boy -- have died in Allentown&apos;s mass
 ### Source:
 
 1. [The Morning Call](http://www.mcall.com/news/breaking/mc-allentown-house-explodes-020911,0,7470195.story)
+1. [Cover Image](http://www.trbimg.com/img-5322557c/turbine/mc-allentown-house-explodes-020911)
 
 ### Related:
 

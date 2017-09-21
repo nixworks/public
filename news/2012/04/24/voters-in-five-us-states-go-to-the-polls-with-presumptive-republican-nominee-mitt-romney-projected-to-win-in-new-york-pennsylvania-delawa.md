@@ -11,6 +11,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 2. [ABC News](http://www.abc27.com/story/17707558/romney-wins-pa-primary)
 3. [NBC Politics](http://nbcpolitics.msnbc.msn.com/_news/2012/04/24/11373452-romney-wins-in-del-ri-and-conn-primaries?chromedomain=firstread&lite)
 4. [The Guardian](http://www.guardian.co.uk/world/richard-adams-blog/2012/apr/25/primary-election-results-live)
+4. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russian human rights activist says 2 members of band have been detained, accused
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/sports/olympics/sochi/2014/02/18/pussy-riot-band-members-detained-sochi-winter-olympics/5573207/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

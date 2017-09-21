@@ -8,6 +8,7 @@ Tube passengers endure delays because of strike action, with Underground bosses 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-26043372#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72785000/jpg/_72785854_72785853.jpg)
 
 ### Related:
 

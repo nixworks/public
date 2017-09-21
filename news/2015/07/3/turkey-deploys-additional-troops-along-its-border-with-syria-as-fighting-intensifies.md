@@ -8,6 +8,7 @@ Turkey&#x20;has&#x20;deployed&#x20;additional&#x20;troops&#x20;and&#x20;equipmen
 ### Source:
 
 1. [france24 with Reuters](http://www.france24.com/en/20150703-turkey-ups-troops-syria-border-amid-aleppo-fighting-nusra-islamic-state?dlvrit=65413)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/0307-alep-nosra.jpg)
 
 ### Related:
 

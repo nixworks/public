@@ -8,6 +8,7 @@ Indonesia has recalled its new ambassador to Brazil after the South American cou
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/21/us-indonesia-brazil-executions-idUSKBN0LP05720150221)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

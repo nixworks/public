@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/british-columbia/vancouver-oil-spill-source-composition-and-size-unconfirmed-says-coast-guard-1.3026227)
+1. [Cover Image](https://i.cbc.ca/1.3027361.1428622862!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/english-bay-oil-spill.jpg)
 
 ### Related:
 

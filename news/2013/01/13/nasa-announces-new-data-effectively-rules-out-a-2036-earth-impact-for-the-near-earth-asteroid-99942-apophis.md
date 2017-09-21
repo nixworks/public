@@ -8,6 +8,7 @@ NASA scientists at the agency&#039;s Jet Propulsion Laboratory in Pasadena, Cali
 ### Source:
 
 1. [NASA](http://www.nasa.gov/mission_pages/asteroids/news/asteroid20130110.html)
+1. [Cover Image](http://www.nasa.gov/sites/default/files/images/708596main_asteroid20121114-673.jpg)
 
 ### Related:
 

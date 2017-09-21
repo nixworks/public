@@ -10,6 +10,7 @@ New figures show there will be 4,000 fewer Indian nationals coming to Australia 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/12/30/2782416.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8434559.stm)
 3. [Press Trust of India](http://www.ptinews.com/news/445781_No-of-Indian-students-in-Australia-predicted-to-fall)
+3. [Cover Image](http://www.abc.net.au/news/image/1193390-1x1-700x700.jpg)
 
 ### Related:
 

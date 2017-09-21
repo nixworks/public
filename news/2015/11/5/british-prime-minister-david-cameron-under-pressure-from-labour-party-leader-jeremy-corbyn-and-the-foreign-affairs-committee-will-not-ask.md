@@ -9,6 +9,7 @@ France has announced that it will deploy its only aircraft carrier to boost its 
 
 1. [Independent](http://www.independent.co.uk/news/world/europe/france-deploys-aircraft-carrier-to-fight-isis-in-syria-and-iraq-a6722671.html)
 2. [Military.com](http://www.military.com/daily-news/2015/11/05/in-blow-to-obama-cameron-drops-plans-to-join-us-syria-airstrikes.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/05/14/aircraft-carrier-charles-de-gaulle-france.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ A coup is launched in Burundi to try to overthrow President Pierre Nkurunziza, a
 2. [BBC](http://www.bbc.com/news/world-africa-32717494)
 3. [BBC](http://www.bbc.com/news/world-africa-32724083)
 4. [BBC](http://www.bbc.com/news/world-africa-32732793)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82976000/jpg/_82976302_82976301.jpg)
 
 ### Related:
 

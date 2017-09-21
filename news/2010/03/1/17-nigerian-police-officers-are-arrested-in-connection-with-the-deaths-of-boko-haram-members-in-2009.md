@@ -10,6 +10,7 @@ Seventeen detained over alleged involvement in extra-judicial killings caught on
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/201022820193376744.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8544131.stm)
 3. [Radio Netherlands Worldwide](http://www.rnw.nl/africa/article/nigeria-17-police-officers-detained-over-unlawful-killings)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Security forces open fire on opposition supporters in capital, human rights grou
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200992815223645889.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8279103.stm)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-09/29/content_12123247.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -11,6 +11,7 @@ UN&#x20;chief&#x20;Ban&#x20;Ki-moon&#x20;has&#x20;rejected&#x20;Ivorian&#x20;Pre
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12034391)
 3. [France 24](http://www.france24.com/en/20101219-un-ban-ki-moon-rejects-gbagbo-demands-retreat-ivory-coast-ouattara)
 4. [Reuters Alert Net](http://www.trust.org/alertnet/news/un-sees-evidence-of-mass-rights-abuses-in-icoast)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/ban-ki-moon-ONU.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A 61-year-old man, believed to be former News of the World news editor Greg Misk
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14480268)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53726000/jpg/_53726103_012082643-2.jpg)
 
 ### Related:
 

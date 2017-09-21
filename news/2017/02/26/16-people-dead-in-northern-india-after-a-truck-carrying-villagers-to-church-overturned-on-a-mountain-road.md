@@ -8,6 +8,7 @@ At least 16 people have been killed after a truck carrying villagers to church o
 ### Source:
 
 1. [DW](http://www.dw.com/en/truck-crash-kills-churchgoers-in-india/a-37721005)
+1. [Cover Image](http://www.dw.com/image/37721488_304.png)
 
 ### Related:
 

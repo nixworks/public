@@ -8,6 +8,7 @@ Royal Dutch Shell Plc will halt exploration in the U.S. Arctic after $7 billion 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-09-28/shell-to-stop-exploring-offshore-alaska-on-regulations-costs)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

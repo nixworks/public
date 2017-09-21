@@ -8,6 +8,7 @@ Russia plans to create its own Wikipedia to ensure its citizens have access to m
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-11-17/russia-plans-alternative-version-of-wikipedia/5895538)
+1. [Cover Image](http://www.abc.net.au/news/image/648946-1x1-700x700.jpg)
 
 ### Related:
 

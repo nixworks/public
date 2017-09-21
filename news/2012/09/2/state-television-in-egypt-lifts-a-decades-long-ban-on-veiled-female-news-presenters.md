@@ -8,6 +8,7 @@ Fatma Nabil becomes the first woman in half a century to present the news to the
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/201292141141604598.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/2/2012921682295734_20.jpg)
 
 ### Related:
 

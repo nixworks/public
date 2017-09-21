@@ -8,6 +8,7 @@ Ed Miliband says a new generation is running Labour and signals a break from the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-11417906)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

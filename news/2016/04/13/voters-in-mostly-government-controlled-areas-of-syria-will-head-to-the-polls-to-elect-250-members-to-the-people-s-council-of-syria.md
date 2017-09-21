@@ -9,6 +9,7 @@ The parliamentary elections in Syria will be held on April 13, 2016, said a stat
 
 1. [RT](https://www.rt.com/news/333290-syria-assad-general-election/)
 2. [TeleSUR](http://www.telesurtv.net/english/news/Syria-Parliamentary-Elections-in-Assad-Controlled-Areas-20160411-0039.html)
+2. [Cover Image](https://img.rt.com/files/2016.02/article/56cb7007c46188f4348b45df.jpg)
 
 ### Related:
 

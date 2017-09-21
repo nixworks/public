@@ -8,6 +8,7 @@ The head of Nasa has hailed a &quot;new era&quot; in exploration after the launc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18154937)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60396000/jpg/_60396604_60396603.jpg)
 
 ### Related:
 

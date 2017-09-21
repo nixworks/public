@@ -8,6 +8,7 @@ Venezuelan authorities have arrested another eight anti-government protesters, b
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/11/us-venezuela-protests-idUSBREA1A19420140211)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140211&t=2&i=837328981&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1A16AM00)
 
 ### Related:
 

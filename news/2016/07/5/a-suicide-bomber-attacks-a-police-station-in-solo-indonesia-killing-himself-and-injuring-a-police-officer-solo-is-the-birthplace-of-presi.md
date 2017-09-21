@@ -9,6 +9,7 @@ An Indonesian suicide bomber believed to be a supporter of the Islamic State mil
 
 1. [Reuters](http://www.reuters.com/article/us-indonesia-security-idUSKCN0ZL039?il=0)
 2. [Time](http://time.com/4392782/indonesia-suicide-bomber-solo-surakarta-terrorism/)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160705&t=2&i=1144110235&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC640AX)
 
 ### Related:
 

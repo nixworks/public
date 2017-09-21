@@ -8,6 +8,7 @@ The chief executive of Barclays, Antony Jenkins, is to waive his bonus of about 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21294720)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65644000/jpg/_65644725_barclays.jpg)
 
 ### Related:
 

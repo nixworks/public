@@ -9,3 +9,4 @@ Sensitive personal details were available on a cloud server to anyone with the c
 
 1. [BBC](http://www.bbc.com/news/technology-40331215)
 2. [Salon](http://www.salon.com/2017/06/19/nearly-200-american-voters-data-exposed-from-republican-contractors-unsecured-files/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/DCEB/production/_96555565_us-flag-binary.jpg)

@@ -8,6 +8,7 @@ At least 22 people have been killed by three suicide bombings targeting checkpoi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35901733)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A1C8/production/_87061414_yemenaden21215464.cmp.png)
 
 ### Related:
 

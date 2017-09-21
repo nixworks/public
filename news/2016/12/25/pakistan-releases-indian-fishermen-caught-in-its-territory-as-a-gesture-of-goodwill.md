@@ -8,6 +8,7 @@ Pakistan has released 220 Indian fishermen detained for crossing into its territ
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/pakistan-frees-indian-fishermen-as-goodwill-gesture/a-36907084)
+1. [Cover Image](http://www.dw.com/image/18145752_304.jpg)
 
 ### Related:
 

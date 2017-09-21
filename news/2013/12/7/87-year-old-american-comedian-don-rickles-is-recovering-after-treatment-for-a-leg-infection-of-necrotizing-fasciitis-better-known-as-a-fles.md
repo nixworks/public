@@ -8,6 +8,7 @@ Don Rickles is on the mend. After canceling several shows due to treatment for a
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/entertainment/2013/12/07/don-rickles-recovering-from-flesh-eating-disease/?intcmp=HPBucket)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2013/12/07/don-rickles-recovering-from-flesh-eating-disease/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422699923282.jpg?ve=1)
 
 ### Related:
 

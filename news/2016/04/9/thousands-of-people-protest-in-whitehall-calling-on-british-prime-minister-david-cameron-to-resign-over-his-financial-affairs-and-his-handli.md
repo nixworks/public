@@ -8,6 +8,7 @@ Thousands of protersters have moved on Downing Street to call for tough action o
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/uk/politics/resign-cameron-protests-thousands-to-gather-at-downing-street-to-ask-prime-minister-to-step-down-a6976036.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/04/09/09/cameronnumber10.jpg)
 
 ### Related:
 

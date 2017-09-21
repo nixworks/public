@@ -8,6 +8,7 @@ The Topps Meat Company, based in Elizabeth, N.J., said it was recalling 21.7 mil
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/30/nyregion/30meat.html?ref=nyregion)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

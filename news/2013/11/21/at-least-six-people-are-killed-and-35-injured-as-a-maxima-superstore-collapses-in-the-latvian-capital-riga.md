@@ -8,6 +8,7 @@ Six people are killed, including two firefighters, after the roof of a supermark
 ### Source:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/2013-11-22/six-killed-in-latvian-supermarket-roof-collapse/5109736)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

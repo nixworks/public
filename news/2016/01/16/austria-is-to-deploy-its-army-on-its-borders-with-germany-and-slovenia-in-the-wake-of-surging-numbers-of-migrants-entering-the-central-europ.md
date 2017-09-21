@@ -8,6 +8,7 @@ The Austrian Defense Ministry announced in new regulations on Saturday that it w
 ### Source:
 
 1. [Local Austria](http://www.thelocal.at/20160116/austria-mobilizes-army-against-migrants)
+1. [Cover Image](https://www.thelocal.at/userdata/images/article/5e40f9be87001e5f095a3951b59651c14d416fb95efb2deebeb5b971ff6ae932.jpg)
 
 ### Related:
 

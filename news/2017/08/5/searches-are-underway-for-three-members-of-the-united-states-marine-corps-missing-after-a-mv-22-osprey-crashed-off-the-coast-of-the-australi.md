@@ -9,6 +9,7 @@ A search and rescue operation is underway for three US Marines who remain missin
 
 1. [9 News](http://www.9news.com.au/national/2017/08/05/21/35/us-marine-helicopter-crash-queensland-coast-search-rescue)
 2. [AP](http://hosted.ap.org/dynamic/stories/U/US_MARINES_AIRCRAFT_MISHAP_THE_LATEST_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Cover Image](http://9network-vod-progressive.akamaized.net/media2/664969388001/2017/08/664969388001_5533126642001_5533114355001-vs.jpg?pubId=664969388001)
 
 ### Related:
 

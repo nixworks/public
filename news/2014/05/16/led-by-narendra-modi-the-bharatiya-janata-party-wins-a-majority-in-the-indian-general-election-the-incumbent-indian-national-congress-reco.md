@@ -8,6 +8,7 @@
 ### Source:
 
 1. [India Today](http://indiatoday.intoday.in/story/live-lok-sabha-elections-result-2014/1/361949.html)
+1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/modi-final_650_051614125040.jpg)
 
 ### Related:
 

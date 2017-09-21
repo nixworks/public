@@ -8,3 +8,4 @@ After five years of futile efforts to find or confirm sightings of any Caribbean
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/25007277)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photo_StoryLevel/080606/080606_CarribeanMonkSeal.standard.jpg)

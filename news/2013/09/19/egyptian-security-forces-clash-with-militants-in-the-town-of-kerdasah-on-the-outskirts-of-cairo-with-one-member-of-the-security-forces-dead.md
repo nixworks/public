@@ -8,6 +8,7 @@ An Egyptian police general is killed in fighting as security forces storm the Mu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24156197#TWEET894739)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69927000/jpg/_69927243_69927242.jpg)
 
 ### Related:
 

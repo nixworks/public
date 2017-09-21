@@ -8,6 +8,7 @@ The European Commission fines eight banks - including RBS - a total of 1.7bn eur
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-25215560#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64901000/jpg/_64901568_64901567.jpg)
 
 ### Related:
 

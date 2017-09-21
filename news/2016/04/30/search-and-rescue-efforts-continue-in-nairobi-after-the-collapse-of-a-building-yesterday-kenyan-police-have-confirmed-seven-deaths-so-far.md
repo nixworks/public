@@ -9,6 +9,7 @@ NAIROBI, Kenya Apr 30 - Two people were killed on Friday night after their vehic
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3566460/Kenya-police-6-story-residential-building-collapses-rain.html)
 2. [Capital FM](http://www.capitalfm.co.ke/news/2016/04/3-people-dead-floods-wreak-havoc-nairobi/)
+2. [Cover Image](http://www.capitalfm.co.ke/news/files/2016/04/FLOODS-CHAOS.gif)
 
 ### Related:
 

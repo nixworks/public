@@ -8,6 +8,7 @@ The destroyer USS Chafee fired her deck guns at two or three suspected &quot;hig
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/18989827/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/070109/070109_fazul_vsmall_240a.standard.jpg)
 
 ### Related:
 

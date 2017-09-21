@@ -10,6 +10,7 @@ Former Chad leader Hissene Habre has appeared in court in the Senagalese capital
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23153532)
 2. [Deutsche Welle](http://www.dw.de/ex-chad-dictator-hissene-habre-charged-with-war-crimes/a-16924945)
 3. [Euro news](http://www.euronews.com/2013/07/02/former-chad-leader-hissene-habre-in-court/)
+3. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

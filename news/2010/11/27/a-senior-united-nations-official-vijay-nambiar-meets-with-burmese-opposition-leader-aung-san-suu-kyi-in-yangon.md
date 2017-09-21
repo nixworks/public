@@ -10,6 +10,7 @@ Myanmar pro-democracy leader holds talks with UN special representative after he
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010112742422382675.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6AQ0TR20101127?sp=true)
 3. [The Irrawaddy](http://www.irrawaddy.org/article.php?art_id=20200&Submit=Submit)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/27/20101127114353694472_20.jpg)
 
 ### Related:
 

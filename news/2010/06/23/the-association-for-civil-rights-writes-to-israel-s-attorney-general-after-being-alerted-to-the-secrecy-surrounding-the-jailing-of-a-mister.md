@@ -14,6 +14,7 @@ JERUSALEM: Speculation was widespread in Israel last night over the identity of 
 5. [The Sydney Morning Herald](http://www.smh.com.au/world/uproar-in-israel-over-top-secret-prisoner-20100622-yvok.html)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/23/c_13363702.htm)
 7. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3909614,00.html)
+7. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

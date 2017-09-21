@@ -10,6 +10,7 @@ Bradley Manning, the US Army private accused in the Wikileaks case, pleads guilt
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21610811)
 2. [CBS News](http://www.cbsnews.com/8301-201_162-57571812/bradley-manning-enters-guilty-pleas-in-wikileaks-case/)
 3. [Reuters](http://www.reuters.com/article/2013/03/01/net-us-usa-wikileaks-manning-idUSBRE91R0T720130301)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66130000/jpg/_66130163_66130162.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/nelson-mandela-south-african-president-critical-condition/story?id=19468677#.UcdZ_jtkOSo)
+1. [Cover Image](http://a.abcnews.com/images/International/ap_nelson_mandela_ml_130610_wmain.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Iranian president said to be considering resignation after intelligence chief he
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201156113955925329.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/may/06/iran-supreme-leader-ahmadinejad-minister)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/6/2011561202911112_20.jpg)
 
 ### Related:
 

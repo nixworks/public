@@ -8,6 +8,7 @@ Former Brazilian President Luiz Inacio Lula da Silva is questioned by police as 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35725415)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6ADD/production/_88575372_8a944403-1c8f-4c6a-b1fa-d132956c3099.jpg)
 
 ### Related:
 

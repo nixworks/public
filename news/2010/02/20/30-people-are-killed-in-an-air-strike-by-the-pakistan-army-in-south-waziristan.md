@@ -8,6 +8,7 @@ Army says it targeted fighters in the Shawal mountains of South Waziristan.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/201022062817965393.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

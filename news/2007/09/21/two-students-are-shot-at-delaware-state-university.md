@@ -8,3 +8,4 @@ Two freshman students were shot and wounded, one seriously, during an argument t
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/22/us/22delaware.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

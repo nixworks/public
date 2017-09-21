@@ -8,6 +8,7 @@ A magnitude 7.1 earthquake has jolted the Indian Ocean off Indonesia&#039;s Suma
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/10/25/2069692.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

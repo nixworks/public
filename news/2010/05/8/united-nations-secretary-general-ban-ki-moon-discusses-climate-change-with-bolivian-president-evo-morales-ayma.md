@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=34634&Cr=climate+change&Cr1=)
+1. [Cover Image](/News/dh/photos/large/2009/18-06-2009thunder.jpg)
 
 ### Related:
 

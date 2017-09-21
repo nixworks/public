@@ -9,6 +9,7 @@
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/eastasia/view/157777/1/.html)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/14/2003263424)
+2. [Cover Image](http://www.taipeitimes.com/images/2005/07/14/thumbs/20050713201717.jpeg)
 
 ### Related:
 

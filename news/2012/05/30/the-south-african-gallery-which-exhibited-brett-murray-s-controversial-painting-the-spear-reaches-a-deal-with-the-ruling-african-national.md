@@ -8,6 +8,7 @@ A South African art gallery agrees not to display a painting of President Jacob 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18262825)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60399000/jpg/_60399084_portrait.jpg)
 
 ### Related:
 

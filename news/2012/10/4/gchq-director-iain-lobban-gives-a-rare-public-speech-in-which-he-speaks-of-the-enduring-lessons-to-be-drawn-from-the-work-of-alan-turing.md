@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-19834593)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63304000/jpg/_63304560_turing.jpg)
 
 ### Related:
 

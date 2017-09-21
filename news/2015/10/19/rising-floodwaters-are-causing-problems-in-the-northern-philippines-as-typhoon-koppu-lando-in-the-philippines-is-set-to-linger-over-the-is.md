@@ -9,6 +9,7 @@ Heavy rain and floods are affecting dozens of villages, after Typhoon Koppu swep
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/10/18/typhoon-leaves-11-dead-tens-thousands-displaced-in-philippines/)
 2. [BBC](http://www.bbc.com/news/world-asia-34568596)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BE13/production/_86195684_86195249.jpg)
 
 ### Related:
 

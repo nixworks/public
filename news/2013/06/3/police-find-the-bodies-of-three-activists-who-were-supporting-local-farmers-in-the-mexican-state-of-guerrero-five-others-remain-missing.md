@@ -8,6 +8,7 @@ Mexican police find the bodies of three out of eight activists who went missing 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22762485)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67958000/jpg/_67958147_67958146.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Turkey moved swiftly on Tuesday to replace two ministers from a pro-Kurdish part
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/09/22/Two-Kurdish-ministers-quit-turkey-govt-over-logic-of-war-against-Kurdish-separatists-.html)
 2. [Reuters](http://www.reuters.com/article/2015/09/22/us-turkey-politics-kurds-idUSKCN0RM1GK20150922)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150922&t=2&i=1081401403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8L11C)
 
 ### Related:
 

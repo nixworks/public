@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/08/us-mideast-crisis-syria-russia-idUSKCN0SX0H820151108#smxv69VMLyiDCkD4.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151108&t=2&i=1093251850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA708T)
 
 ### Related:
 

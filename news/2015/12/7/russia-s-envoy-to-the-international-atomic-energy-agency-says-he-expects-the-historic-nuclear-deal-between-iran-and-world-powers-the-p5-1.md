@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-iran-nuclear-idUSKBN0TQ1II20151207#WBsOXfB9vVMZmOqk.97)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100509644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60PF)
 
 ### Related:
 

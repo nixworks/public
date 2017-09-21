@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-afghanistan-shooting-idUSKBN15L0RN)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170206&t=2&i=1171582879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED150OS)
 
 ### Related:
 

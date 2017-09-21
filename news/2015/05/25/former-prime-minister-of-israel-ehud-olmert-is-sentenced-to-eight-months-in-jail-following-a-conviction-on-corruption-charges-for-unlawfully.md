@@ -9,6 +9,7 @@ Former Israeli Prime Minister Ehud Olmert is sentenced to eight months in prison
 
 1. [AP via ''The Guardian](http://www.theguardian.com/world/2015/may/25/former-israeli-leader-ehud-olmert-jailed-for-eight-months-for-corruption)
 2. [BBC](http://www.bbc.com/news/world-middle-east-32873016?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83208000/jpg/_83208621_olmert.jpg)
 
 ### Related:
 

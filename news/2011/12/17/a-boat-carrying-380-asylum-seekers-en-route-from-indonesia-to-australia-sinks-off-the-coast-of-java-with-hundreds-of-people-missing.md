@@ -8,6 +8,7 @@ Bad weather is hampering efforts to rescue hundreds of asylum seekers after thei
 ### Source:
 
 1. [Reuters via ABC Australia](http://www.abc.net.au/news/2011-12-18/asylum-seeker-boat-sinks-off-java/3736828)
+1. [Cover Image](http://www.abc.net.au/news/image/3737366-1x1-700x700.jpg)
 
 ### Related:
 

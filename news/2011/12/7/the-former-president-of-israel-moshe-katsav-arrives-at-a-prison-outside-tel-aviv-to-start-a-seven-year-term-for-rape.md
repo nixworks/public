@@ -8,6 +8,7 @@ Disgraced former Israeli President Moshe Katsav begins a seven-year sentence for
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16064840)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57172000/jpg/_57172390_013474084-1.jpg)
 
 ### Related:
 

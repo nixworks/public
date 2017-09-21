@@ -8,6 +8,7 @@ Director Sofia Coppola has taken the top prize at the Venice Film Festival for h
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11273842)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

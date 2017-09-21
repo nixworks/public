@@ -8,6 +8,7 @@ The Sun newspaper apologises for accessing private information on a stolen mobil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21831000)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66457000/jpg/_66457853_gt3qnd8c.jpg)
 
 ### Related:
 

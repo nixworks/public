@@ -8,6 +8,7 @@ President Obama won House approval for an $819 billion economic plan without a s
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/01/29/us/politics/29obama.html)
+1. [Cover Image](https://static01.nyt.com/images/2009/01/28/us/politics/29stimulus_75.jpg)
 
 ### Related:
 

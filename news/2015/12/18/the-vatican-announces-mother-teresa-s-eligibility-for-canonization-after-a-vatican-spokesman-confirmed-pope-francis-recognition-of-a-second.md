@@ -9,6 +9,7 @@ Brazilian man’s recovery from multiple brain tumours attributed by panel of ex
 
 1. [Agence France-Presse via ''The Guardian](http://www.theguardian.com/news/2015/dec/18/mother-teresa-to-become-saint-after-pope-recognises-miracle-report)
 2. [Reuters via ''The Hindu](http://www.thehindu.com/news/international/mother-teresa-to-be-made-catholic-saint-in-september-paper/article8004016.ece)
+2. [Cover Image](https://i.guim.co.uk/img/media/7669484864f6f60e6c8e355299a06f7879ab697b/0_72_2000_1201/master/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=81f61a1bf37dc3565ac9bcabfb04e1f8)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A 32-year legal mystery has came to an end in a case that split national opinion
 1. [AAP via SBS](http://www.sbs.com.au/news/article/1658249/-A-dingo-took-Azaria-from-her-tent)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/06/201261243730855641.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-18404330)
+3. [Cover Image](http://www.aljazeera.com/mritems/images/2012/6/12//201261245030901734_20.jpg)
 
 ### Related:
 

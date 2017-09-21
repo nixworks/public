@@ -9,6 +9,7 @@ Call for clemency angers friends and relatives of victims of government abuses.
 
 1. [Aljazeera](http://english.aljazeera.net//news/americas/2010/07/201072232824647680.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10721959)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

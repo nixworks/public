@@ -8,6 +8,7 @@ Reviewing the Pathankot air base attack, Prime Minister Narendra Modi is current
 ### Source:
 
 1. [Indian Express](http://indianexpress.com/article/india/india-news-india/live-terror-attack-at-pathankot-air-force-base-2-terrorist-killed/)
+1. [Cover Image](http://images.indianexpress.com/2016/01/pathankot-news2.jpg?w=480)
 
 ### Related:
 

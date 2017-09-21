@@ -8,6 +8,7 @@ Homosexuality was already banned, but new law makes it a crime not to report gay
 ### Source:
 
 1. [Time](http://world.time.com/2014/02/24/ugandan-president-signs-anti-gay-bill/)
+1. [Cover Image](https://timeglobalspin.files.wordpress.com/2014/02/uganda-president-yoweri-museveni.jpg?w=600)
 
 ### Related:
 

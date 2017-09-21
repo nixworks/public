@@ -11,6 +11,7 @@ A car rams into a crowd after clashes between white nationalists and counter-pro
 2. [CNN](http://edition.cnn.com/2017/08/12/us/charlottesville-white-nationalists-rally/index.html)
 3. [NBC News](http://www.nbcnews.com/news/us-news/2-virginia-officers-killed-helicopter-crash-near-charlottesville-are-mourned-n792146)
 4. [The Independent](http://www.independent.co.uk/news/world/americas/violence-clashes-far-right-rally-charlottesville-virginia-latest-unite-the-right-a7890096.html)
+4. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05c796v.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Two men who organised a controversial art exhibition in Moscow are found guilty 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/10595903.stm)
 2. [The Independent](http://www.independent.co.uk/news/world/europe/fined-russian-art-curators-who-likened-jesus-to-lenin-2025099.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48325000/jpg/_48325441_009757064-1.jpg)
 
 ### Related:
 

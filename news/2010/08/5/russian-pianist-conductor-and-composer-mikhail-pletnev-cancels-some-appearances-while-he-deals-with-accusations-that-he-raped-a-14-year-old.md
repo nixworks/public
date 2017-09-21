@@ -8,6 +8,7 @@ A Russian pianist accused of raping a 14-year-old boy in Thailand pulls out of c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-10881012)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The left-wing Venezuelan President, Hugo Chavez, says he is willing to open up h
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14351508)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54350000/jpg/_54350158_012553946-1.jpg)
 
 ### Related:
 

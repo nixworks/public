@@ -8,6 +8,7 @@ NSW is in a state of emergency as authorities warn of an unparalleled fire emerg
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2013-10-20/bushfires-state-of-emergency-declared-in-nsw/5034212)
+1. [Cover Image](http://www.abc.net.au/news/image/5033504-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ One civilian has been killed and at least 20 others have been wounded after an I
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16104520)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57225000/jpg/_57225805_013489079-1.jpg)
 
 ### Related:
 

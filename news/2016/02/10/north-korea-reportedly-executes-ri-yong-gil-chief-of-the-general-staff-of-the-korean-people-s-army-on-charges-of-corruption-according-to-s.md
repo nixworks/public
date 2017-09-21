@@ -8,6 +8,7 @@ North Korea has executed its army chief of staff Ri Yong-gil, according to uncon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-35543364)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10374/production/_88202466_88202465.jpg)
 
 ### Related:
 

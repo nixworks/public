@@ -8,6 +8,7 @@ Western Digital Corp (WDC.O) has sought international arbitration to stop partne
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-toshiba-accounting-idUSKCN18A125)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170515&t=2&i=1184655913&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED4E06F)
 
 ### Related:
 

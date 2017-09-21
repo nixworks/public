@@ -9,6 +9,7 @@ China will launch a two-man space mission, Shenzhou 11, on Monday, officials wit
 
 1. [AP](http://bigstory.ap.org/article/7e93f5e407b34699b9c955f8968155a8/china-launches-crewed-mission-dock-space-station)
 2. [Reuters](http://www.reuters.com/article/us-china-space-idUSKBN12G00X?il=0)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161016&t=2&i=1157621611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9F06E)
 
 ### Related:
 

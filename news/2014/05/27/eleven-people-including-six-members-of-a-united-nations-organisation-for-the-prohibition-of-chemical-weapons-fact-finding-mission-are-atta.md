@@ -9,6 +9,7 @@ A convoy of chemical weapons inspectors and UN staff that was travelling to a si
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle_east/syria-6-un-members-abducted-by-armed-groups/2014/05/27/05770f16-e584-11e3-a70e-ea1863229397_story.html)
 2. [BBC](http://www.bbc.com/news/world-middle-east-27587498#)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75122000/jpg/_75122501_75122500.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Lucas Papademos, a former vice president of the European Central Bank, will lead
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15671354)
 2. [CNN](http://www.cnn.com/2011/11/10/world/europe/greece-main/index.html?hpt=ieu_c1)
 3. [New York Times](http://www.nytimes.com/2011/11/11/world/europe/greek-leaders-resume-talks-on-interim-government.html?_r=1)
+3. [Cover Image](https://static01.nyt.com/images/2011/11/11/world/greece/greece-thumbStandard.jpg)
 
 ### Related:
 

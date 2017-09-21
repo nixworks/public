@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/egypt-adopts-controversial-anti-terror-law-150817042612693.html)
 2. [BBC](http://www.bbc.com/news/world-middle-east-33955894)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7D7B/production/_84932123_a154ccb3-f274-43f2-b96f-d448cbf19b9b.jpg)
 
 ### Related:
 

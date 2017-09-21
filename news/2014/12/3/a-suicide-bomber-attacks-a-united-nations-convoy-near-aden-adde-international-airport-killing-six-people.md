@@ -9,6 +9,7 @@ At least six people have been killed in a bomb attack targeting a UN convoy near
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_SOMALIA_VIOLENCE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-africa-30306174)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79477000/jpg/_79477890_79477888.jpg)
 
 ### Related:
 

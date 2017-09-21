@@ -9,6 +9,7 @@ The planned live fire military exercise near border with North Korea comes after
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/12/2010122234351687271.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12056875)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/19/2010121912038851580_20.jpg)
 
 ### Related:
 

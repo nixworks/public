@@ -8,6 +8,7 @@ Activists in northern New South Wales, who&#039;ve declared an Aboriginal republ
 ### Source:
 
 1. [SBS](http://www.sbs.com.au/news/article/1765174/Murrawarri-people-take-sovereignty-campaign-to-UN)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/7/0/7048_murrawarri-nsw-indig-sbs-130511-b.jpg)
 
 ### Related:
 

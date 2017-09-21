@@ -9,6 +9,7 @@ Just days after the United States said it would increase troop numbers in Afghan
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/latest-explosions-reported-shiite-mosque-kabul-49413088)
 2. [Reuters](http://www.reuters.com/article/us-newzealand-afghanistan-idUSKCN1B502E?il=0)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

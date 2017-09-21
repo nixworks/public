@@ -8,6 +8,7 @@ A gunfight broke out between Afghan and foreign soldiers on the outskirts of the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/26/us-afghanistan-gunfight-idUSBRE99P02J20131026)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131026&t=2&i=806268721&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99P123Y00)
 
 ### Related:
 

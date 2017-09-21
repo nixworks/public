@@ -10,6 +10,7 @@ Herv&#x00E9;&#x20;Ghesqui&#x00E8;re&#x20;and&#x20;St&#x00E9;phane&#x20;Taponier&
 1. [AFP via France 24](http://www.france24.com/en/20110630-journalists-france-hostages-afghanistan-paris-sarkozy-ghesquiere-taponier)
 2. [CBS News](http://www.cbsnews.com/stories/2011/06/29/501364/main20075653.shtml?tag=cbsContent;cbsCarousel)
 3. [Press TV](http://www.presstv.com/detail/186933.html)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/stephane-herve_0.jpg)
 
 ### Related:
 

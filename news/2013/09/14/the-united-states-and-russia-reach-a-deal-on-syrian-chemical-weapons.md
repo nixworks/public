@@ -8,6 +8,7 @@ The Obama administration and Russia reached a deal Saturday to compel Syria to a
 ### Source:
 
 1. [Washington Times](http://www.washingtontimes.com/news/2013/sep/14/us-russia-reach-deal-syria-chemical-weapons/)
+1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2013/09/13/kerry13.jpg)
 
 ### Related:
 

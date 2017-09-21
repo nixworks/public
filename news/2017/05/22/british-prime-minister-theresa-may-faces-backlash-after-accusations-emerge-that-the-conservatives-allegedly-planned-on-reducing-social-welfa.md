@@ -9,6 +9,7 @@ Prime minister spends day battling against accusations of indecision after chang
 
 1. [The Guardian](https://www.theguardian.com/politics/2017/may/22/jeremy-corbyn-plans-to-speak-to-families-of-ira-hyde-park-bombing-victims)
 2. [The Guardian](https://www.theguardian.com/society/2017/may/22/theresa-may-faces-chaos-and-confusion-claims-after-social-care-u-turn)
+2. [Cover Image](https://i.guim.co.uk/img/media/00a590bf4892c13e5af816c7c4dad485b8ea45ac/4_307_4650_2790/master/4650.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8ad9b81ff7d2d960d8b16298e843203c)
 
 ### Related:
 

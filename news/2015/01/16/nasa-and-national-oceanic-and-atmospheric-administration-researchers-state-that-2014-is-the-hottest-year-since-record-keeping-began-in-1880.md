@@ -14,6 +14,7 @@ The year 2014 ranks as Earth’s warmest since 1880, according to two separate a
 5. [The New York Times](http://www.nytimes.com/2015/01/17/science/earth/2014-was-hottest-year-on-record-surpassing-2010.html)
 6. [The Wall Street Journal](http://www.wsj.com/articles/2014-ranks-as-earths-hottest-year-since-1880-1421427411)
 7. [Xinhua](http://news.xinhuanet.com/english/world/2015-01/17/c_127394340.htm)
+7. [Cover Image](http://www.nasa.gov/sites/default/files/15-010c.jpg)
 
 ### Related:
 

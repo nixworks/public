@@ -9,6 +9,7 @@ Venezuela&#039;s President Hugo Chavez has announced that the country will soon 
 
 1. [MercoPress](http://en.mercopress.com/2009/09/12/russian-mid-range-missiles-300-km-for-venezuela-and-they-dont-fail)
 2. [RTÉ](http://www.rte.ie/news/2009/0912/venezuela.html)
+2. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21893/200x200/544983a974ce14644425ce14072a972d.jpg)
 
 ### Related:
 

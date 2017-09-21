@@ -8,6 +8,7 @@ A bomb killed a French teenager and wounded at least 20 other people in a crowde
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE51L23S20090222)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090222&t=2&i=8359710&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-22T194647Z_01_BTRE51L1IY500_RTROPTP_0_EGYPT-BLAST)
 
 ### Related:
 

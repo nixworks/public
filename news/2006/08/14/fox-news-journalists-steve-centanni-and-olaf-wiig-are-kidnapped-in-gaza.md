@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Associated Press](http://www.breitbart.com/news/2006/08/14/D8JGC6V80.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-08-14T185702Z_01_L14273140_RTRUKOC_0_US-MIDEAST-GAZA-KIDNAPPING.xml&src=rss&rpc=22)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

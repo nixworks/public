@@ -8,6 +8,7 @@ Researchers in South Africa have revealed the earliest direct evidence of human-
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11086110)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48870000/jpg/_48870012_arrow_head1.jpg)
 
 ### Related:
 

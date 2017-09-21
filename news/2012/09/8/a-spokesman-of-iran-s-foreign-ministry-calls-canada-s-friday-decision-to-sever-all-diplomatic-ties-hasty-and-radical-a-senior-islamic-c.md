@@ -11,6 +11,7 @@ Canada has suspended diplomatic relations with Iran and is expelling Iranian dip
 2. [Communiqué](http://www.mfa.gov.ir/NewsShow.aspx?id=5575&menu=108&lang=en)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=284295)
 4. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/08/c_131836803.htm)
+4. [Cover Image](https://i.cbc.ca/1.1497702.1380777512!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-baird-dec-852-01849329.jpg)
 
 ### Related:
 

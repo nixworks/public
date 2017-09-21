@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304255604579408552842423072?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304255604579408552842423072.html)
+1. [Cover Image](https://si.wsj.net/public/resources/images/WO-AR489_UKRAIN_G_20140227200346.jpg)
 
 ### Related:
 

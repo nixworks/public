@@ -8,6 +8,7 @@ At least 43,000 people have been displaced by the powerful earthquake that hit I
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/2016/12/10/least-43000-homeless-deadly-indonesia-quake/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/10/indonesia-quake-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg)
 
 ### Related:
 

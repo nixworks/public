@@ -8,6 +8,7 @@ More than 100 wildfires have broken out across Australia&#039;s east coast and f
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/9786869/Australia-fires-rage-and-temperatures-soar-on-day-of-catastrophic-danger.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02444/tasmania-bushfire_2444716k.jpg)
 
 ### Related:
 

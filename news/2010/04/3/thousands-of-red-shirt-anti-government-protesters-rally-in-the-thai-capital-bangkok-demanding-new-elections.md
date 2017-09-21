@@ -10,6 +10,7 @@
 1. [CBC](http://www.cbc.ca/world/story/2010/04/03/thailand-protest.html)
 2. [Thai News Agency](http://www.mcot.net/content/40446)
 3. [The Hindu](http://beta.thehindu.com/news/international/article387256.ece)
+3. [Cover Image](https://i.cbc.ca/1.2087122.1381984056!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-thailand-protest-cp-8422518.jpg)
 
 ### Related:
 

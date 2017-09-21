@@ -8,6 +8,7 @@ Greek leftist leader Alexis Tsipras promised on Sunday that five years of auster
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/25/us-greece-election-idUSKBN0KY00520150125)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150125&t=2&i=1019832877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0O0GO)
 
 ### Related:
 

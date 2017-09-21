@@ -8,6 +8,7 @@ Four people are currently in custody in connection with a shooting near Jane and
 ### Source:
 
 1. [CP24](http://www.cp24.com/news/four-suspects-arrested-after-5-shot-outside-driftwood-ave-townhouse-1.2331233)
+1. [Cover Image](https://www.cp24.com/polopoly_fs/1.2331377.1429225764!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pakistan orders the charity Save the Children out of the country, sealing its of
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33105128)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/83581000/jpg/_83581458_83580209.jpg)
 
 ### Related:
 

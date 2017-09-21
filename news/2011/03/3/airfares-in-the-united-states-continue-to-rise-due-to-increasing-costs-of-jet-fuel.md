@@ -8,3 +8,4 @@
 ### Source:
 
 1. [NBC Dallas Fort Worth](http://www.nbcdfw.com/news/business/Airfares-on-the-Rise-Again-117353768.html)
+1. [Cover Image](http://media.nbcdfw.com/images/1200*675/aa-jets-tarmac-722.jpg)

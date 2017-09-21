@@ -10,6 +10,7 @@ Former New Orleans mayor Ray Nagin is charged on 21 counts including wire fraud,
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_NEW_ORLEANS_CORRUPTION)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-21092346)
 3. [NPR](http://www.npr.org/blogs/thetwo-way/2013/01/18/169725920/grand-jury-indicts-ray-nagin-on-corruption-charges)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65381000/jpg/_65381563_65381562.jpg)
 
 ### Related:
 

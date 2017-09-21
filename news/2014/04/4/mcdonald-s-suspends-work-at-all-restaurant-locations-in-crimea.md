@@ -8,6 +8,7 @@
 ### Source:
 
 1. [KNTV](http://www.nbcbayarea.com/news/national-international/253869301.html?_osource=SocialFlowTwt_BAYBrand)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/mcdonaldssignskygetty.jpg)
 
 ### Related:
 

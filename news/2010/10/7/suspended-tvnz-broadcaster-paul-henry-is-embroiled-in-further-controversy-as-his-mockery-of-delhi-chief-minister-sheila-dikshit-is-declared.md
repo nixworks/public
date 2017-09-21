@@ -14,6 +14,7 @@ India denounced Thursday &quot;racist&quot; and &quot;unacceptable&quot; remarks
 5. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678740)
 6. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678805)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/07/c_13545883.htm)
+7. [Cover Image](http://i.ndtvimg.com/mt/2010-10/sheila_dixit.jpg)
 
 ### Related:
 

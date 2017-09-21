@@ -8,6 +8,7 @@ MSF said three people were pulled alive from the rubble of a recently destroyed 
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/02/17/Three-rescued-from-rubble-of-destroyed-MSF-hospital-in-Syria/3021455710106/?spt=hts&or=8)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3021455710106/2016/6/4970bbf462e249b274079f0d2f8154f0/v1.5/Three-rescued-from-rubble-of-destroyed-MSF-hospital-in-Syria.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An openly homosexual cleric has been blocked from becoming a Church of England b
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/7877839/Gay-cleric-blocked-from-becoming-Church-of-England-bishop.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01671/Dr-Jeffrey-John_1671941a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Crimean peninsula can never be returned to Ukraine, notwithstanding the fact
 ### Source:
 
 1. [RT](https://www.rt.com/news/358808-czech-president-crimea-ukraine/)
+1. [Cover Image](https://img.rt.com/files/2016.09/article/57d2c407c36188cf388b45a9.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/two-soldiers-dead-in-wave/635108.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/635114/1365659446000/large16x9/640/360/thai-south-unrest.jpg)
 
 ### Related:
 

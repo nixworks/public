@@ -8,6 +8,7 @@ Seven people have died after a gunman opened fire at house party in Plano, Texas
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/gunman-kills-seven-shot-dead-dallas-cowboys-house-party-plano-texas-a7939911.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/11/08/an130078913onlookers-watch-.jpg)
 
 ### Related:
 

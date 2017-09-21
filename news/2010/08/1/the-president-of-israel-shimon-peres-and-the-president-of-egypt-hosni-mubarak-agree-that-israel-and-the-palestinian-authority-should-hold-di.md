@@ -8,6 +8,7 @@ Both men agree window of opportunity for peace agreement is open.
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=183290)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=147078)
 
 ### Related:
 

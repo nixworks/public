@@ -8,6 +8,7 @@ A bomb exploded outside a police station in the restive eastern Libyan city of B
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/27/us-libya-attack-idUSBRE93Q04M20130427)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130427&t=2&i=726460568&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93Q0YQ900)
 
 ### Related:
 

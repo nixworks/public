@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/quebecvotes2008/story/2008/12/08/qv-electionleadall1208.html)
+1. [Cover Image](https://i.cbc.ca/1.2199593.1382675283!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-charest-win-cp-5957019.jpg)
 
 ### Related:
 

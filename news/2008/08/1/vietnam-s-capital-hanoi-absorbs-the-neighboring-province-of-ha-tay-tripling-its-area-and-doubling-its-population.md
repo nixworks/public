@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Thanh Nien News](http://www.thanhniennews.com/politics/?catid=1&newsid=40786)
+1. [Cover Image](http://static.thanhniennews.com/App_Themes/images/logo.big.png)
 
 ### Related:
 

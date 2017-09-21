@@ -9,6 +9,7 @@ Militants kill at least four people and injure 29 in an attack on a court and pr
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21827598)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/mar/18/pakistan-court-suicide-bomber-gunmen)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66456000/jpg/_66456245_017530445.jpg)
 
 ### Related:
 

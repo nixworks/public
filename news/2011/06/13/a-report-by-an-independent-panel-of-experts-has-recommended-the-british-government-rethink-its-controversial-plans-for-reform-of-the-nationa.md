@@ -8,6 +8,7 @@ The NHS plans for England need a major re-write to ensure the best interests of 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-13751708)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53318000/jpg/_53318547_surgery.jpg)
 
 ### Related:
 

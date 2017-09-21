@@ -8,6 +8,7 @@ Some 78 people were killed and dozens more were injured when a truck heavily loa
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/central-african-republic-truck-crash-78-dead-bambari-a7826186.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/12/15/central-african-republic-getty.jpg)
 
 ### Related:
 

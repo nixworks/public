@@ -9,6 +9,7 @@ At least eight people have been shot and five killed in a mass shooting in the U
 
 1. [Fox News](http://www.foxnews.com/us/2016/03/10/at-least-5-killed-in-shooting-outside-pittsburgh-police-searching-for-2-gunmen.html)
 2. [Yahoo! 7 News](https://au.news.yahoo.com/a/31065681/at-least-4-dead-8-injured-in-pittsburgh-mass-shooting/)
+2. [Cover Image](https://s.yimg.com/iu/api/res/1.2/v5WCYaXGyA4m9KHxg26S2g--/YXBwaWQ9eXZpZGVvO3c9NjczO2g9MzU0O2R4PTE7ZHk9MTtjdz01NTM7Y2g9MzExO3E9NzA7bj0xO3VsY3JvcDtyb3RhdGU9YXV0bw--/https://s.yimg.com/ea/img/-/160310/inline_shooting_1be1vsf-1be1vus.jpg)
 
 ### Related:
 

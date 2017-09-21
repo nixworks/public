@@ -8,6 +8,7 @@
 ### Source:
 
 1. [My Sinchew](http://www.mysinchew.com/node/85655)
+1. [Cover Image](http://www.mysinchew.com/sites/all/themes/mysinchewv2/img/mysinchew_logo_fbv1.jpg)
 
 ### Related:
 

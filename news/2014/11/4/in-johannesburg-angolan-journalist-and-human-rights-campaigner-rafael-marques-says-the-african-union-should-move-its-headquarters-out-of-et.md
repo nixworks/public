@@ -8,6 +8,7 @@ An Angolan journalist and human rights campaigner says the African Union should 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/11/05/human-rights-campaigner-says-african-union-should-move-headquarters-out/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

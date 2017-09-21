@@ -8,6 +8,7 @@
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.co.in/7-crpf-jawans-killed-suspected-maoist-attack-672725)
+1. [Cover Image](http://data1.ibtimes.co.in/en/full/603190/chhattisgarh.jpg)
 
 ### Related:
 

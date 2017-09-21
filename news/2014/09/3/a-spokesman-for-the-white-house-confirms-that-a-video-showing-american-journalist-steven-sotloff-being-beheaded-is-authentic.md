@@ -9,6 +9,7 @@ The White House on Wednesday confirmed the authenticity of an Internet video tha
 
 1. [Fox News/AP](http://www.foxnews.com/world/2014/09/03/video-reportedly-shows-beheading-reporter-steven-sotloff-by-isis/)
 2. [USA Today](http://www.usatoday.com/story/news/world/2014/09/03/steven-sotloff-dual-us-israeli-citizenship/15033951/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

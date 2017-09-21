@@ -9,6 +9,7 @@ A Maricopa County judge Monday allowed a lawsuit stemming from Arizona&#39;s&nbs
 
 1. [ (KPNX²](http://www.12news.com/news/politics/democrats-file-lawsuit-over-arizona-voting-debacle/135283490)
 2. [KPNX](http://www.12news.com/news/politics/elections-fiasco-judge-allows-suit-vs-secretary-of-state/152868265)
+2. [Cover Image](http://content.12news.com/photo/2016/04/25/voters_1461603343500_1913066_ver1.0.jpg)
 
 ### Related:
 

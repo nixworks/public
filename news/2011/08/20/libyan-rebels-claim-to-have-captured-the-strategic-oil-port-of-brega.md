@@ -9,6 +9,7 @@ Fighting erupted in Tripoli overnight after rebels closed in on the Libyan capit
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/44200722)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8713761/Libya-Gaddafi-faces-final-battle-as-fighting-erupts-in-Tripoli.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01976/libia1_1976963a.jpg)
 
 ### Related:
 

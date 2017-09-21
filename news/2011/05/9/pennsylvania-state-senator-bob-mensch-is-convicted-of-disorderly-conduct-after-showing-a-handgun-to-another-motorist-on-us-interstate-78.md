@@ -8,6 +8,7 @@ Mensch faces maximum sentence of 90 days in jail and $300 fine
 ### Source:
 
 1. [NBC](http://www.nbcphiladelphia.com/news/local/Pa-Senator-Convicted-on-Gun-Related-Charge-121541319.html)
+1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/PHI+mensch+gun+citation.jpg)
 
 ### Related:
 

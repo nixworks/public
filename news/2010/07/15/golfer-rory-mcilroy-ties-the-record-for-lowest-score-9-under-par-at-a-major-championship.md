@@ -11,6 +11,7 @@ Rory McIlroy today equalled the lowest ever round in a major championship with a
 2. [RTÉ](http://www.rte.ie/sport/golf/2010/0715/britishopen.html)
 3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/sport/golf/the-open-rory-mcilroy-produces-stunning-round-14877392.html)
 4. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/15/rory-mcilroy-open-st-andrews)
+4. [Cover Image](http://www.belfasttelegraph.co.uk/migration_catalog/article25705456.ece/ALTERNATES/h342/GYI0061053910)
 
 ### Related:
 

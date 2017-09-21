@@ -8,6 +8,7 @@ The Israeli Defence Force (IDF) has suspended an entire army company from duty f
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2007/07/28/1990738.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

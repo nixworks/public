@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011612101331904689.html)
 2. [Today's Zaman](http://election.todayszaman.com:8080/news-247014-syrian-army-attacks-northwestern-town.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/12/20116121344983734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ What are the unique traditions and social practices that Unesco wants to preserv
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-38170872)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/112AF/production/_92791307_gettyimages-495410922-1.jpg)
 
 ### Related:
 

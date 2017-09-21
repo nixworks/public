@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3549379.stm)
 2. [Helsingin Sanomat](http://www.helsinki-hs.net/news.asp?id=20040318IE8)
+2. [Cover Image](https://www.hs.fi/assets/images/og-hs-1920px.0b32cfc0716697510.png)
 
 ### Related:
 

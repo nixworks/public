@@ -13,6 +13,7 @@ The attack, which occurred in the north-central part of the country, was the dea
 4. [Reuters South Africa](http://af.reuters.com/article/worldNews/idAFTRE5B624R20091207)
 5. [The New York Times](http://www.nytimes.com/2009/12/08/world/europe/08turkey.html)
 6. [Xinhua](http://news.xinhuanet.com/english/2009-12/07/content_12607630.htm)
+6. [Cover Image](https://static01.nyt.com/images/2009/12/07/world/07cnd_turkey/thumbStandard.jpg)
 
 ### Related:
 

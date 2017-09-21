@@ -10,6 +10,7 @@ A clash between rival drug gangs in a Mexican prison leaves 29 inmates dead, as 
 1. [Asiaone](http://news.asiaone.com/News/AsiaOne%2BNews/Crime/Story/A1Story20100615-222104.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10314218.stm)
 3. [newser](http://www.newser.com/story/92504/mexico-prison-clashes-kill-29.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

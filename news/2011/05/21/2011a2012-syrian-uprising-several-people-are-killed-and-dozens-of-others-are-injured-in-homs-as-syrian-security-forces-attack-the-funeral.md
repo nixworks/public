@@ -15,6 +15,7 @@ At least 11 dead and 27 injured in Homs, activists say, as thousands attend fune
 6. [Reuters](http://ca.reuters.com/article/topNews/idCATRE73L1PP20110521)
 7. [Reuters](http://ca.reuters.com/article/topNews/idCATRE74K1HX20110521?sp=true)
 8. [The Guardian](http://www.guardian.co.uk/world/2011/may/21/syria-women-unrest-repression)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/21/2011521143111386797_20.jpg)
 
 ### Related:
 

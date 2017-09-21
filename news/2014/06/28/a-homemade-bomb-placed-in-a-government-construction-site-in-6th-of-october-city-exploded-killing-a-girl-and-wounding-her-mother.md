@@ -9,6 +9,7 @@ Homemade bomb in government construction site on outskirts of Cairo cuts off mob
 
 1. [Jerusalem Post](http://www.jpost.com/Middle-East/ISIS-terror-cell-arrested-in-Sinai-360847)
 2. [The Times of Israel](http://www.timesofisrael.com/girl-killed-mother-hurt-in-egypt-bomb-blast/)
+2. [Cover Image](http://cdn.timesofisrael.com/images/facebook_toi_300.jpg)
 
 ### Related:
 

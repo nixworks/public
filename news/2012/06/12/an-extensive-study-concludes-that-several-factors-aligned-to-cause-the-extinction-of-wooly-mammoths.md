@@ -8,6 +8,7 @@ A multitude of culprits apparently drove the woolly mammoths to extinction, incl
 ### Source:
 
 1. [Live Science](http://www.livescience.com/20894-woolly-mammoths-extinction.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOC8wMDMvb3JpZ2luYWwvMDgwMzMxLW1hbW1vdGgtMDJiLmpwZw==)
 
 ### Related:
 

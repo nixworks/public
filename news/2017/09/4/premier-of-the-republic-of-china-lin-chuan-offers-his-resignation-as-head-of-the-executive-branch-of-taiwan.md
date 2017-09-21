@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-taiwan-premier/taiwan-premier-resigns-to-help-shore-up-presidents-falling-popularity-idUSKCN1BF0G9?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170904&t=2&i=1199862282&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED830BH)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [ Su Tseng-Chang resigns as the Premier of the Republic of China (Taiwan) following a loss in a primary election to be the Democratic Progressive Party candidate in the 2008 Taiwanese presidential election. ](/news/2007/05/12/su-tseng-chang-resigns-as-the-premier-of-the-republic-of-china-taiwan-following-a-loss-in-a-primary-election-to-be-the-democratic-progres.md) _Context: Premier_
 8. [ Taiwanese Premier Frank Hsieh announces his resignation following the defeat of the Democratic Progressive Party in recent elections. ](/news/2006/01/17/taiwanese-premier-frank-hsieh-announces-his-resignation-following-the-defeat-of-the-democratic-progressive-party-in-recent-elections.md) _Context: Premier_
 9. [ In the Republic of China/Taiwan, President Chen Shui-bian names fellow Democratic Progressive Party member Frank Hsieh, as the new premier. He calls for a reconciliation with the political opposition, which maintained its legislative majority in last month's elections. ](/news/2005/01/25/in-the-republic-of-china-taiwan-president-chen-shui-bian-names-fellow-democratic-progressive-party-member-frank-hsieh-as-the-new-premier.md) _Context: Premier_
-10. [ RoC Premier Yu Shyi-kun is prevented for six hours from delivering a key government report on the floor of the Legislative Yuan when opposition lawmakers, refusing to recognize President Chen Shui-bian's narrow re-election on March 20, tore up his report and unfurled banners and placards with the words "no truth, no president" and "bogus regime". ](/news/2004/06/1/roc-premier-yu-shyi-kun-is-prevented-for-six-hours-from-delivering-a-key-government-report-on-the-floor-of-the-legislative-yuan-when-opposi.md) _Context: Premier_
+10. [ The People's Republic of China accuses Taiwanese Premier Yu Shyi-kun of "clamoring for war" after he said Taiwan would defend itself by firing missiles at Shanghai in the event of an attack of Taipei or Kaohsiung by the PRC. ](/news/2004/09/29/the-people-s-republic-of-china-accuses-taiwanese-premier-yu-shyi-kun-of-clamoring-for-war-after-he-said-taiwan-would-defend-itself-by-fir.md) _Context: Premier_

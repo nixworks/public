@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/10/us-taiwan-china-idUSKBN0LE07820150210)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150210&t=2&i=1023788949&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1902L)
 
 ### Related:
 

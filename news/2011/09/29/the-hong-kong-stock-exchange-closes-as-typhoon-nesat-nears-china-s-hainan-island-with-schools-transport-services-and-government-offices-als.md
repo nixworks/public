@@ -12,6 +12,7 @@
 3. [Bloomberg](http://www.bloomberg.com/news/2011-09-28/hong-kong-typhoon-8-signal-raised-trading-halted.html?cmpid=bit)
 4. [People's Daily](http://english.people.com.cn/90882/7607341.html)
 5. [Reuters](http://www.reuters.com/article/2011/09/29/us-typhoon-hongkong-idUSTRE78S0IJ20110929)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

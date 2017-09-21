@@ -9,6 +9,7 @@ David Cameron defends a failed rescue attempt by US forces in Afghanistan during
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11508230)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Kidnapped-British-Aid-Worker-Is-Killed-In-Afghanistan-During-Failed-Rescue-Attempt/Article/201010215754957?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15754957_Kidnapped_British_Aid_Worker_Is_Killed_In_Afghanistan_During_Failed_Rescue_Attempt_)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

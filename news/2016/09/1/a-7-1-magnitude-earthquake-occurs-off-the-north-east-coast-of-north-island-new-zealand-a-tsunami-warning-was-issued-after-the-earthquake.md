@@ -9,6 +9,7 @@ Residents of a small community in north-east New Zealand are briefly told to eva
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37249108)
 2. [The Independent](http://www.independent.co.uk/news/world/australasia/new-zealand-earthquake-today-tsunami-warning-a7220876.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/14C76/production/_91001158_newzealandgisborne464.png)
 
 ### Related:
 

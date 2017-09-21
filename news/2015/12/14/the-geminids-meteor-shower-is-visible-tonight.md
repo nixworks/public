@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Lifehacker](http://www.lifehacker.com.au/2015/12/how-to-watch-tonights-geminid-meteor-shower-in-australia/)
+1. [Cover Image](https://edge.alluremedia.com.au/m/l/2015/12/shutterstock_122127640-410x231.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39989992)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/7ED9/production/_96137423_hillarystep.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-security-idUSKCN0X10OY?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160404&t=2&i=1130087238&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC330KJ)
 
 ### Related:
 

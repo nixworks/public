@@ -8,6 +8,7 @@ The Wall Street Journal reported earlier tonight that Microsoft--in what would b
 ### Source:
 
 1. [All Things Digital](http://kara.allthingsd.com/20110509/microsoft-will-announce-acquistion-of-skype-tomorrow-morning/)
+1. [Cover Image](http://allthingsd.com/wp-content/themes/atd-2.0/images/staff/kara-swisher-170x170.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/06/09/pakistan-airport-attack-leaves-21-dead.html)
 2. [Wall Street Journal](http://online.wsj.com/articles/gunmen-attack-karachi-airport-1402301470?mod=ask)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-DD493_0609pa_G_20140609034116.jpg)
 
 ### Related:
 

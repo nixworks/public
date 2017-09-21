@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10747390)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=135966&sectionid=351020101)
 3. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_557323.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

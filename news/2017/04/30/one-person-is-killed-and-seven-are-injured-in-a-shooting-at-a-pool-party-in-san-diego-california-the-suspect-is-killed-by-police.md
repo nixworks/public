@@ -8,6 +8,7 @@ Eight people were injured in a shooting in the University City area of San Diego
 ### Source:
 
 1. [The San Diego Union-Tribune](http://www.sandiegouniontribune.com/news/public-safety/sd-me-shooting-universitycity-20170430-story.html)
+1. [Cover Image](http://www.trbimg.com/img-590702c2/turbine/sd-me-shooting-universitycity-20170430)
 
 ### Related:
 

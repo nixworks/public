@@ -8,6 +8,7 @@ Three centre-right parties pledge to work together following weekend election.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106212303284291.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

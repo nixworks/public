@@ -8,6 +8,7 @@ Timing to be left to Palestinians; conditions are set.
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=183034)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=146921)
 
 ### Related:
 

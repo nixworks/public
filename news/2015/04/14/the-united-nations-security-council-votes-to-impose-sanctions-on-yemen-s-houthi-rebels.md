@@ -8,6 +8,7 @@ The United Nations Security Council voted Tuesday to impose an arms embargo on Y
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-un-yemen-arms-embargo-20150414-story.html)
+1. [Cover Image](http://www.trbimg.com/img-552d2599/turbine/la-fg-un-yemen-arms-embargo-20150414)
 
 ### Related:
 

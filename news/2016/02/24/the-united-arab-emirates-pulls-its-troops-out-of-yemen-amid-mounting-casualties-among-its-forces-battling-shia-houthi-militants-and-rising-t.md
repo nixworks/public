@@ -9,6 +9,7 @@ The UAE is a key partner in the Saudi-led coalition which has been bombing Houth
 
 1. [Fox News](http://www.foxnews.com/world/2016/02/24/yemen-officials-uae-troops-pull-out-aden-airport-is-shut.html)
 2. [Middle East Eye](http://www.middleeasteye.net/news/uae-pulls-out-ground-troops-yemen-reports-98821815)
+2. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/Emirati%20troops%20in%20Yemen%20AFP.jpg)
 
 ### Related:
 

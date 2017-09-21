@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/07/201272345638914990.html)
 2. [Reuters](http://www.reuters.com/article/2012/07/23/uk-china-beijing-weather-idUSLNE86M00S20120723)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120723&t=2&i=633327444&w=&fh=545px&fw=&ll=&pl=&sq=&r=ALNE86M0QJL00)
 
 ### Related:
 

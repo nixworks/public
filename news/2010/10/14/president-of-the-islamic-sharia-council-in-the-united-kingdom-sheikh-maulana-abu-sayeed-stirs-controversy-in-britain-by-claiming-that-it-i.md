@@ -9,6 +9,7 @@ A leading Muslim cleric has sparked controversy in Britain by claiming that it i
 
 1. [MSNBC](http://www.msnbc.msn.com/id/39664344/ns/world_news-europe)
 2. [The Independent](http://www.independent.co.uk/news/uk/home-news/rape-impossible-in-marriage-says-muslim-cleric-2106161.html)
+2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

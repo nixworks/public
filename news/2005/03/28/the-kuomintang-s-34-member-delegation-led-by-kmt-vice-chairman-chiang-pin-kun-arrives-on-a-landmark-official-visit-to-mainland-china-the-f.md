@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4386787.stm)
 2. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-03/28/content_428853.htm)
 3. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2005/03/28/2003248069)
+3. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

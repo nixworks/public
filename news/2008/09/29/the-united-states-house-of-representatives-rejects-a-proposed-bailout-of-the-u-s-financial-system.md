@@ -19,6 +19,7 @@
 10. [New York Times](http://www.nytimes.com/2008/09/30/business/30bailout.html)
 11. [Reuters](http://www.reuters.com/article/brazilMktRpt/idUSN2939422720080929)
 12. [Reuters](http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSLT50368720080929)
+12. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

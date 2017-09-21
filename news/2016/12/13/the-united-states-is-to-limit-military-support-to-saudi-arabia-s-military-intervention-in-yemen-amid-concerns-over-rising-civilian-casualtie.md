@@ -9,6 +9,7 @@
 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/us-halt-arms-sales-saudi-arabia_us_58515a22e4b0ee009eb48e8b)
 2. [Reuters](http://www.reuters.com/article/us-usa-saudiarabia-yemen-exclusive-idUSKBN1421UK)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161213&t=2&i=1165306770&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBC0TV)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russia and Britain have agreed to renew ties recently strained by suspicions of 
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/uk-russia-to-renew-strained-ties-20100626-zact.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

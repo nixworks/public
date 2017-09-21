@@ -10,6 +10,7 @@ Browse local and regional news from the Hawkes Bay region, including Napier, Has
 1. [Hawke's Bay Today](http://www.hawkesbaytoday.co.nz/local/news/secret-ufo-files-detail-hb-sightings/3935081/)
 2. [LF Press](http://www.lfpress.com/news/weird/2010/12/23/16656201.html#/news/weird/2010/12/23/pf-16656196.html)
 3. [The Associated Press](http://www.google.com/hostednews/afp/article/ALeqM5jYFxwNUKyEpJsWnF9iEaR0UGejig)
+3. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/hbtFBCover.png)
 
 ### Related:
 

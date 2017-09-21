@@ -8,6 +8,7 @@ Taiwan lifts sanctions imposed on the Philippines after Manila issued a formal a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23620068)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67515000/jpg/_67515474_017948243-1.jpg)
 
 ### Related:
 

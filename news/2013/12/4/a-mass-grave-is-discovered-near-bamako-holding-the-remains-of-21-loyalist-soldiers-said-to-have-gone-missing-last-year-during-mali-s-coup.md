@@ -8,6 +8,7 @@ Twenty-one skulls believed to be the remains of soldiers loyal to ousted former 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/12/mass-grave-found-near-mali-military-base-2013124164418437438.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2013/12/4//2013124171930562734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2010/08/24/mccain-beats-hayworth-gop-primary-holds-senate-seat/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2010/08/24/mccain-beats-hayworth-gop-primary-holds-senate-seat/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421910739179.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Economy loses 95,000 jobs in September in the last monthly labour snapshot ahead
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010108134010231968.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/8/2010108133542629580_20.jpg)
 
 ### Related:
 

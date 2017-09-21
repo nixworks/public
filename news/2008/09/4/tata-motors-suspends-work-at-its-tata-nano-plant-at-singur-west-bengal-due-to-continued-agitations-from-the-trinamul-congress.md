@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/2008/09/03/stories/2008090358390100.htm)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

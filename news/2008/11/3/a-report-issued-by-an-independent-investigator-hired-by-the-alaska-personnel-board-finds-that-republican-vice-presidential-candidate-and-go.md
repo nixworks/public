@@ -8,6 +8,7 @@ Gov. Sarah Palin violated no ethics laws when she fired her public safety commis
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/27524238/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/ap/b12d90bf-ebad-4bf1-9a8b-94a8120ac4db.standard.jpg)
 
 ### Related:
 

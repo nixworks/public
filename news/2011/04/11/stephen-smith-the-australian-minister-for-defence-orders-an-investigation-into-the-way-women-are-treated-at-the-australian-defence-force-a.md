@@ -8,6 +8,7 @@ The Sex Discrimination Commissioner will hold a wide-ranging inquiry into the wa
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/04/11/3188096.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2619366-1x1-700x700.jpg)
 
 ### Related:
 

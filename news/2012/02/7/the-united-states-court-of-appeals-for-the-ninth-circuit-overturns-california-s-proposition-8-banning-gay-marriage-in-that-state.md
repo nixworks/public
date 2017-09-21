@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/02/gay-marriage-prop-8s-ban-ruled-unconstitutional.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef016761e6a591970b-120pi)
 
 ### Related:
 

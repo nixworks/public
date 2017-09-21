@@ -8,6 +8,7 @@ BalasoreIslamabad, March 11 (IANS) India Friday successfully test-fired its home
 ### Source:
 
 1. [Sify India](http://www.sify.com/news/india-pakistan-test-nuke-tipped-missiles-on-same-day-news-national-ldlnkpadjgb.html)
+1. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

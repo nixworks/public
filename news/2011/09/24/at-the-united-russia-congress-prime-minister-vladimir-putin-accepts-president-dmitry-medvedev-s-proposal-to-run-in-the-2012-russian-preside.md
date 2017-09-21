@@ -9,6 +9,7 @@ Russian Prime Minister Vladimir Putin announces he has accepted a proposal to ru
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15045816)
 2. [RIA Novosti](http://en.rian.ru/russia/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55567000/jpg/_55567833_013002654-1.jpg)
 
 ### Related:
 

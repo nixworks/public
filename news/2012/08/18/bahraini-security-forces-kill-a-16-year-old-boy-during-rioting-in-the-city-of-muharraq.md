@@ -8,6 +8,7 @@ Police in the Gulf state of Bahrain claim self-defence after a youth of 16 is ki
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19306558)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62360000/jpg/_62360102_police_reuters.jpg)
 
 ### Related:
 

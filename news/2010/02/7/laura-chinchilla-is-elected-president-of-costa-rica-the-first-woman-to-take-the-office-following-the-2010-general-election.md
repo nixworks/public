@@ -11,6 +11,7 @@ Ruling party candidate Laura Chinchilla has been elected Costa Rica&#39;s first 
 2. [Reuters](http://www.reuters.com/article/idUSN0716657220100208)
 3. [Tico Times](http://www.ticotimes.net/daily.htm#story1)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/08/c_13168201.htm)
+4. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

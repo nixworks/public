@@ -9,6 +9,7 @@
 
 1. [Reuters](http://uk.reuters.com/article/sportsNews/idUKSP26426720070729?feedType=RSS&rpc=451)
 2. [The New York Times](http://www.nytimes.com/aponline/world/AP-Iraq.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070729&t=2&i=1210639&w=&fh=545px&fw=&ll=&pl=&sq=&r=1210639)
 
 ### Related:
 

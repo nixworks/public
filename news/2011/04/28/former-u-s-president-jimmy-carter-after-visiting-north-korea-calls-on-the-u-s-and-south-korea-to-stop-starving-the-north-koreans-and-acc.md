@@ -8,6 +8,7 @@ Former US President Jimmy Carter accuses the US and South Korea of human rights 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13221867)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52338000/jpg/_52338296_011833751-1.jpg)
 
 ### Related:
 

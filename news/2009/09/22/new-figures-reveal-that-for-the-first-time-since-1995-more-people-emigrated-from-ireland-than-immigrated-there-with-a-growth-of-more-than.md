@@ -8,6 +8,7 @@ For the first time since 1995 more people left Ireland than moved here, accordin
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0922/cso1.html)
+1. [Cover Image](https://img.rasset.ie/00018d3f-1600.jpg)
 
 ### Related:
 

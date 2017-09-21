@@ -8,6 +8,7 @@ Easter Sunday is the coldest Easter day since modern records began, with tempera
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21988278)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66686000/jpg/_66686864_017537593.jpg)
 
 ### Related:
 

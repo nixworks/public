@@ -8,6 +8,7 @@ Austrian Chancellor Werner Faymann abruptly resigned Monday, saying he had lost 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2016/05/09/austrias-leader-werner-faymann-abruptly-resigns/84130036/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

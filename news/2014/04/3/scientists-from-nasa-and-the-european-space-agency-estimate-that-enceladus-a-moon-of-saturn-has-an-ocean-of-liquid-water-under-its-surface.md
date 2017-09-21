@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-26878529)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74024000/jpg/_74024228_74024225.jpg)
 
 ### Related:
 

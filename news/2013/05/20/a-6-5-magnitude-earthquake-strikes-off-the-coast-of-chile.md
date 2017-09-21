@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2013/0520/6.8-Chile-earthquake-strikes-off-the-coast)
+1. [Cover Image](http://images.csmonitor.com/csm/2013/05/quake.jpg?alias=standard_900x600)
 
 ### Related:
 

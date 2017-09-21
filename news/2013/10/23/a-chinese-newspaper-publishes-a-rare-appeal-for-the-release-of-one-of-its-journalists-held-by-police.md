@@ -8,6 +8,7 @@ A Chinese newspaper publishes a full-page appeal for the release of one of its j
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24634041)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70649000/jpg/_70649687_new_express_daily_304x171_internet_nocredit.jpg)
 
 ### Related:
 

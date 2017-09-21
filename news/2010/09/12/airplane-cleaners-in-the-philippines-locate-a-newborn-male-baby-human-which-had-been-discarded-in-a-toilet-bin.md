@@ -8,6 +8,7 @@ Cleaners sweeping through a passenger jet that landed at the Philippines&#039; m
 ### Source:
 
 1. [AFP via ''The Sydney Morning Herald](http://www.smh.com.au/world/baby-found-in-plane-bin-in-philippines-20100913-15783.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/5/7/9/i/image.related.articleLeadwide.620x349.15783.png/1284346087053.jpg)
 
 ### Related:
 

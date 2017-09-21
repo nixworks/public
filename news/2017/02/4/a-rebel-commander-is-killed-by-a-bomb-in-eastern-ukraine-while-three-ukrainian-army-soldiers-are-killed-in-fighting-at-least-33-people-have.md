@@ -8,6 +8,7 @@ A top rebel commander in eastern Ukraine has been killed in a car bombing that r
 ### Source:
 
 1. [AP via News Limited](http://www.news.com.au/world/breaking-news/shelling-flares-up-in-east-ukraine/news-story/8897affeddbd4fb26105a6ddf4f04cdd)
+1. [Cover Image](https://secure.gravatar.com/blavatar/99ae28ba58e6719abd9d8575bdc18a54?s=200&amp;ts=1490812892)
 
 ### Related:
 

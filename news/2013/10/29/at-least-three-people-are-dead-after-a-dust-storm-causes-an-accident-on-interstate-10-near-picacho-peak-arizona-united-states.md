@@ -8,6 +8,7 @@ Authorities say three people are dead in multiple Interstate 10 crashes north of
 ### Source:
 
 1. [ABC](http://www.abc15.com/dpp/news/region_central_southern_az/other/dps-i-10-crashes-due-to-dust-wind-north-of-picacho-peak)
+1. [Cover Image](http://media2.abc15.com//photo/2013/10/29/KNXV_I-10_crash_1_20131029163142_640_480.JPG)
 
 ### Related:
 

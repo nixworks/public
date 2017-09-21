@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-mexico-venezuela-migration-idUSKBN1AL0QC)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170805&t=2&i=1195918669&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED740K5)
 
 ### Related:
 

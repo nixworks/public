@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57H0LO20090818)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090818&t=2&i=11274833&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-18T155014Z_01_BTRE57H0WDQ00_RTROPTP_0_KOREA-PRESIDENT-KIM)
 
 ### Related:
 

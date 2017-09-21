@@ -8,6 +8,7 @@ Libyan rebels rejected an African Union peace plan on Monday because it did not 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/11/us-libya-africa-rebels-idUSTRE73A5OS20110411)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

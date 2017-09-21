@@ -8,6 +8,7 @@ White House chief of staff Andy Card is resigning, President Bush said Tuesday, 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/12048598/from/ET/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/060328/nn_greg_bush_060328.standard.jpg)
 
 ### Related:
 

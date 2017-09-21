@@ -8,6 +8,7 @@ An explosion at a power plant in China killed at least 21 people and injured fiv
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-china-blast-idUSKCN10M155)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

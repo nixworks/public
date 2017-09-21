@@ -8,3 +8,4 @@ A bitter debate over biofuels, blamed by critics for high global food prices and
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/GCA-Agflation/idUSN1443954120080514)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

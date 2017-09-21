@@ -8,6 +8,7 @@ Thailand passes a law banning foreigners from paying Thai women to be surrogates
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-31546717)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80380000/jpg/_80380280_80380279.jpg)
 
 ### Related:
 

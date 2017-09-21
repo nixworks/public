@@ -8,6 +8,7 @@ Zimbabwe&#039;s cholera epidemic is spiralling out of control, the United Nation
 ### Source:
 
 1. [Telegraph.co.uk](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/zimbabwe/3536824/Zimbabwes-cholera-epidemic-hits-10000.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01123/Cholera_1123739a.gif)
 
 ### Related:
 

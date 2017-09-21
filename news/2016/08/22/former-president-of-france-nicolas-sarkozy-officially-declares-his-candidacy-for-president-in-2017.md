@@ -8,6 +8,7 @@ Former leader says key issue for France is ‘how to defend our lifestyle withou
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/aug/22/nicolas-sarkozy-declares-candidacy-french-presidential-election)
+1. [Cover Image](https://i.guim.co.uk/img/media/48c96d4a97577831d18d24cb532dc00cd8984f7f/372_156_3128_1877/3128.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=511fb341c14163b5b7ece79b519661c4)
 
 ### Related:
 

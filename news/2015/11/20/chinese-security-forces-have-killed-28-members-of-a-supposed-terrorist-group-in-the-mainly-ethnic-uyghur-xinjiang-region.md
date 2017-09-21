@@ -8,6 +8,7 @@ Chinese security forces kill 28 people allegedly behind a deadly attack on a coa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-34876365)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5BF2/production/_86783532_86783528.jpg)
 
 ### Related:
 

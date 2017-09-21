@@ -8,6 +8,7 @@ Former US army general and CIA director fined $100,000 – $60,000 more than exp
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/us-news/2015/apr/23/david-petraeus-sentenced-sharing-classified-information)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/3/3/1425400642060/ef5fba8d-dc12-4d71-a923-9c11ce675471-620x372.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0ca3e34dee852f672da8042bee12e931)
 
 ### Related:
 

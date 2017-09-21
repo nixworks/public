@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13191875)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52220000/jpg/_52220057_parmalat.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to ra
 4. [RTÉ](http://www.rte.ie/news/2009/0204/employment.html)
 5. [Reuters](http://www.reuters.com/article/ousivMolt/idUSTRE5133L020090204)
 6. [Sky News](http://news.sky.com/skynews/Home/Business/Icelandic-Retail-Group-Baugur-Owner-Of-Karen-Millen-House-Of-Fraser-On-Brink-Of-Administration/Article/200902115216486?lpos=Business_Top_Stories_Header_0&lid=ARTICLE_15216486_Icelandic_Retail_Group_Baugur_Owner_Of_Karen_Millen_House_Of_Fraser_On_Brink_Of_Administration)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

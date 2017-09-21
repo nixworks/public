@@ -8,6 +8,7 @@ Comment about secret negotiations between the Obama Administration and Afghan Ta
 ### Source:
 
 1. [New Yorker](http://www.newyorker.com/talk/comment/2011/02/28/110228taco_talk_coll)
+1. [Cover Image](http://www.newyorker.com/wp-content/uploads/2011/02/110228_talkcmmntillus_p886-886-630.jpg)
 
 ### Related:
 

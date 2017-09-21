@@ -11,6 +11,7 @@ The senator’s car failed to stop despite repeated warnings from police, accord
 2. [CBC News](http://www.cbc.ca/world/story/2009/12/23/afghanistan-lawmaker-killed.html)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=114455&sectionid=351020403)
 4. [The New York Times](http://www.nytimes.com/2009/12/24/world/asia/24afghan.html)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

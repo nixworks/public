@@ -8,6 +8,7 @@ American indexes fell around 5 percent as new data heightened fears that the Uni
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/08/05/business/markets.html?_r=1&emc=na)
+1. [Cover Image](https://static01.nyt.com/images/2011/08/05/business/Market/Market-thumbStandard.jpg)
 
 ### Related:
 

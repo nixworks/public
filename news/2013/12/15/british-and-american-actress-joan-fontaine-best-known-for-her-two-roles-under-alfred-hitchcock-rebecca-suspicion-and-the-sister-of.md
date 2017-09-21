@@ -8,6 +8,7 @@ The star of the Hitchcock classics &quot;Suspicion&quot; and &quot;Rebecca&quot;
 ### Source:
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/news/actress-joan-fontaine-dies-rebecca-suspicion-665831)
+1. [Cover Image](http://cdn1.thr.com/sites/default/files/2011/02/joan-fontaine-youngest-2011-a-p.jpg)
 
 ### Related:
 

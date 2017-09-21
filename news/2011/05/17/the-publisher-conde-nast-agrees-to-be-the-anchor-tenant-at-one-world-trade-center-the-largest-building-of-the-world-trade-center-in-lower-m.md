@@ -8,6 +8,7 @@ Condé Nast is to lease one million square feet in the lead tower at ground zero
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/05/18/nyregion/conde-nast-to-anchor-1-world-trade-center.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/05/18/nyregion/WTC/WTC-thumbStandard.jpg)
 
 ### Related:
 

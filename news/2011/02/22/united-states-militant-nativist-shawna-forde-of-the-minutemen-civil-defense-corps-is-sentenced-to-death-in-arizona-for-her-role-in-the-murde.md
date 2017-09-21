@@ -9,6 +9,7 @@ Arizona border vigilante Shawna Forde has been sentenced to death for the 2009 m
 
 1. [AP via AZCentral](http://www.azcentral.com/news/articles/2011/02/22/20110222arizona-border-activist-forde-death-penalty.html)
 2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/ariz-border-vigilante-sentenced-to-death/1)
+2. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2011/02/22/Fordex-wide-community.jpg)
 
 ### Related:
 

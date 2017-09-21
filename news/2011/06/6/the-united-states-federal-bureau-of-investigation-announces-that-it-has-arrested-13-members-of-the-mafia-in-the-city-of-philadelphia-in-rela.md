@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Philadelphia](http://www.nbcphiladelphia.com/news/breaking/Philly-Mobs-Gambling-Ring-Busted-Feds-122452779.html)
+1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/Ligambi123.jpg)
 
 ### Related:
 

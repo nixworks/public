@@ -8,6 +8,7 @@ The Colombian Air Force says it has killed 13 Farc rebels in an attack on a camp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20884906)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65045000/jpg/_65045775_material_...jpg)
 
 ### Related:
 

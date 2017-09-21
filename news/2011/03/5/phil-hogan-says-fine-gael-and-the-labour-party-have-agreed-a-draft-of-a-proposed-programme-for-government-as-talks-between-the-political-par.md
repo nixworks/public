@@ -8,6 +8,7 @@ Fine Gael TD Phil Hogan has said he expects there to be a deal in the talks on t
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0305/politics.html)
+1. [Cover Image](https://img.rasset.ie/0004500f-1600.jpg)
 
 ### Related:
 

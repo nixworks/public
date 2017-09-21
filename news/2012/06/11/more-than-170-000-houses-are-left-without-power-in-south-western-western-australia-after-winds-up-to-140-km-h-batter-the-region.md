@@ -8,6 +8,7 @@ More than 100,000 households remain without power this morning and may remain wi
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/wa-news/a-night-of-wild-weather-for-wa-tens-of-thousands-without-power-20120611-204v6.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/2/0/4/1/j/image.related.thumbnail.320x214.204v6.png/1339393024217.jpg)
 
 ### Related:
 

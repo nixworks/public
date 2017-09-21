@@ -8,6 +8,7 @@ A bus carrying members of an opera troupe plunges 76 metres into a gorge in east
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-04-18/bus-carrying-indian-opera-troupe-plunges-into-gorge/7333560)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-leicestershire-13313729)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52593000/jpg/_52593409_52593408.jpg)
 
 ### Related:
 

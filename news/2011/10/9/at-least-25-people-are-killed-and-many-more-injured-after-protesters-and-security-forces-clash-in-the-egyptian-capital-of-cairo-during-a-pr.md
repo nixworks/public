@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15235212)
 2. [Reuters](http://www.reuters.com/article/2011/10/10/us-egypt-copts-clashes-idUSTRE7981Q220111010)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111010&t=2&i=513732339&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7991BF700)
 
 ### Related:
 

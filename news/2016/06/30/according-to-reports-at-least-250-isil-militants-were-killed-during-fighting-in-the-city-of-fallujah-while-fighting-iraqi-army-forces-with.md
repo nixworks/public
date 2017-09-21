@@ -8,6 +8,7 @@ Preliminary and unofficial estimates suggest US-led coalition air strikes have k
 ### Source:
 
 1. [Reuters via Euronews](http://www.euronews.com/2016/06/30/hundreds-of-isil-fighters-killed-in-falluja-reports/)
+1. [Cover Image](http://static.euronews.com/articles/337130/1000x563_337130.jpg)
 
 ### Related:
 

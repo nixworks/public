@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10680062)
 2. [Channel 4](http://www.channel4.com/news/articles/politics/domestic_politics/david+cameron+launches+big+society+scheme/3715737)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

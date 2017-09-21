@@ -8,6 +8,7 @@ Japan invalidated a decision by Okinawa’s governor to stop landfill work for a
 ### Source:
 
 1. [Bloomberg Business](http://www.bloomberg.com/news/articles/2015-10-27/japan-overturns-move-to-block-expansion-of-u-s-base-in-okinawa)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDkPhhaxQgzQ/v1/1200x809.jpg)
 
 ### Related:
 

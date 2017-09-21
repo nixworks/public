@@ -8,6 +8,7 @@ The former Maryland governor’s love of Irish poetry provides a fitting send of
 ### Source:
 
 1. [the Atlantic](http://www.theatlantic.com/politics/archive/2016/02/an-elegy-for-martin-omalley/423978/)
+1. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2016/01/AP_761736552796/facebook.jpg?1452706040)
 
 ### Related:
 

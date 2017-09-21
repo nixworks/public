@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Alabama Media Group](http://www.al.com/news/birmingham/index.ssf/2016/09/alabama_supreme_court_chief_ju.html)
+1. [Cover Image](http://image.al.com/home/bama-media/width620/img/alphotos/photo/2016/09/28/21200670-standard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Malawi accuses US singer Madonna of &quot;bullying state officials&quot; after s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22103748)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66937000/jpg/_66937571_017647767.jpg)
 
 ### Related:
 

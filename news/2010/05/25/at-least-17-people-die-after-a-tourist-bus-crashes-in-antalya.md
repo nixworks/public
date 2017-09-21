@@ -12,6 +12,7 @@ Sixteen people are killed when a coach carrying Russian tourists crashes off a b
 3. [Hürriyet Daily News & Economic Review](http://www.hurriyetdailynews.com/n.php?n=visa-removal-to-boost-russian-visitor-numbers-2010-05-25)
 4. [RIA Novosti](http://en.rian.ru/russia/20100525/159149311.html)
 5. [Today's Zaman](http://www.todayszaman.com/tz-web/news-211202-101-15-die-25-injured-as-bus-carrying-russian-tourists-plunges-off-bridge.html)
+5. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

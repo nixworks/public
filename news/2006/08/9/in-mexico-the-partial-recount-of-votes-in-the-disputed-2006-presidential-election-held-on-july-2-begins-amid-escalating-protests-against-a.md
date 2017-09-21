@@ -9,6 +9,7 @@
 
 1. [CBC](http://www.cbc.ca/world/story/2006/08/09/mexico-recount.html)
 2. [VOA](http://www.voanews.com/english/2006-08-09-voa20.cfm)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@
 7. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
 8. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
 9. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: Mexico_
-10. [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-mo.md) _Context: Mexico_
+10. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued, at least 226 dead, at least 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _Context: Mexico_

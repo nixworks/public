@@ -12,6 +12,7 @@ Five Italians and two Iranians arrested for suspected weapons trafficking to Ira
 3. [France24](http://www.france24.com/en/20100303-seven-arrested-smuggling-arms-iran)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/7361556/Italian-police-smash-Iran-weapons-smuggling-gang.html)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7047942.ece)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

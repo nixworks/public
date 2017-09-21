@@ -8,6 +8,7 @@ The severe monsoon season in Thailand has killed more than 200 people, in the wo
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-10-05/27worst27-thai-floods-kill-2242c-threaten-bangkok/3221304/?site=sydney)
+1. [Cover Image](http://www.abc.net.au/news/image/3299314-1x1-700x700.jpg)
 
 ### Related:
 

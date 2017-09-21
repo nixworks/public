@@ -8,6 +8,7 @@ Samsung Electronics scored a victory over rival Apple Inc intheir long-running d
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2013/06/05/apple-samsung-patent-idINL1N0EG1YJ20130605)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

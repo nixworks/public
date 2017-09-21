@@ -13,6 +13,7 @@ Things to do in Miami
 4. [Microsoft](http://www.microsoft.com/security/incident/download_ject.mspx)
 5. [SANS Internet Storm Center](http://isc.incidents.org/diary.php?isc=79fcd38fcac%20d616798ba716ac6e99ca1)
 6. [ZDNet](http://zdnet.com.com/2100-1105_2-5247187.html)
+6. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)
 
 ### Related:
 

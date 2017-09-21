@@ -8,6 +8,7 @@ Fifty-year US trade embargo on Caribbean island over ideological differences end
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/07/20127147196482238.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/14/20127147344320734_20.jpg)
 
 ### Related:
 

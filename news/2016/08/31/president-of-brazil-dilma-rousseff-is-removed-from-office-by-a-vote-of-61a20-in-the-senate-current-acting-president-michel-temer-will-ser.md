@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37237513)
 2. [CNN](http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10B24/production/_90988386_mediaitem90987941.jpg)
 
 ### Related:
 

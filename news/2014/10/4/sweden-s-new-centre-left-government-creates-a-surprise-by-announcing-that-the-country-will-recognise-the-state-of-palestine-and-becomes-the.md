@@ -8,6 +8,7 @@ Sweden has presented its new centre-left government and created a surprise by an
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/10/04/sweden-becomes-first-european-nation-to-recognise-palestine/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

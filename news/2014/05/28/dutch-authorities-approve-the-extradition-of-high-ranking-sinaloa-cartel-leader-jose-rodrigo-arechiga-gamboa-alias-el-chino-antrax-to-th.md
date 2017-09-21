@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Milenio](http://www.milenio.com/policia/Chino_Antrax-extradicion_EU-tribunal_Holanda-cartel_de_Sinaloa-Chapo_Guzman_0_307169417.html)
+1. [Cover Image](http://www.milenio.com/static/MILMilenio/images/milenio_logo_fb_share.jpg)
 
 ### Related:
 

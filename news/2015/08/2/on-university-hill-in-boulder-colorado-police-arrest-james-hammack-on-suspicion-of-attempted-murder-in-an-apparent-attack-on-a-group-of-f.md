@@ -8,6 +8,7 @@ Boulder police have arrested a 30-year-old man on suspicion of attempted murder 
 ### Source:
 
 1. [The Daily Camera](http://www.dailycamera.com/news/boulder/ci_28576202/suspect-faces-attempted-murder-charge-stabbing-boulders-university)
+1. [Cover Image](http://extras.dailycamera.com/images/dailycamera3.png)
 
 ### Related:
 

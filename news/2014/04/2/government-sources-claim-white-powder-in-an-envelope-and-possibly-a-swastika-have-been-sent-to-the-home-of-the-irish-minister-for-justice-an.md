@@ -9,6 +9,7 @@ The no confidence motion in the Minister for Justice Alan Shatter has been defea
 
 1. [Independent](http://www.independent.ie/irish-news/white-powder-in-envelope-and-a-swastika-sent-to-alan-shatters-house-30148828.html)
 2. [RTÉ News](http://www.rte.ie/news/2014/0402/606198-garda-recordings/)
+2. [Cover Image](https://img.rasset.ie/0008b47f-1600.jpg)
 
 ### Related:
 

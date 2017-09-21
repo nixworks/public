@@ -8,6 +8,7 @@ Islamic State militants fight Kurdish troops in the northern Syrian city of Koba
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-33266399?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/AAA5/production/_83858634_83858633.jpg)
 
 ### Related:
 

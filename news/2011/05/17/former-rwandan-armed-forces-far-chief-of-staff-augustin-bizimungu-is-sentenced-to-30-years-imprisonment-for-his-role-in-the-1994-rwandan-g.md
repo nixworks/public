@@ -8,6 +8,7 @@ Former Rwandan army chief Augustin Bizimungu is sentenced to 30 years in prison 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13425546)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52791000/jpg/_52791545_011998569-1.jpg)
 
 ### Related:
 

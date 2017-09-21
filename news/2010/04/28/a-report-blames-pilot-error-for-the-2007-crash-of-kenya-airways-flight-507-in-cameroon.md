@@ -10,6 +10,7 @@ An investigative report released Wednesday blames pilot error for the 2007 crash
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8648806.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/04/28/kenya-airways-flight-507-report.html)
 3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE63R0DQ20100428?feedType=RSS&feedName=topNews)
+3. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

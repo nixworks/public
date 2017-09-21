@@ -8,6 +8,7 @@ A U.S. drone strike on suspected Islamist militants in northwest Pakistan killed
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/05/24/pakistan-drone-idINDEE84N01L20120524)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

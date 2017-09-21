@@ -8,6 +8,7 @@ A Syrian rescue worker who became famous around the world after saving a baby bu
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/08/12/syrian-white-helmet-who-saved-miracle-baby-is-killed-in-aleppo-a/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/08/12/Cpl6sKaXYAAsbyv-xlarge_trans_NvBQzQNjv4Bqh8hRkdntMReRUeyyqoH26VVse9JsN00kzbUr3IXHaGo.jpg)
 
 ### Related:
 

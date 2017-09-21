@@ -9,6 +9,7 @@ Dozens more injured in bombing believed to have been carried out by Russia fight
 
 1. [RFERL](http://www.rferl.org/a/air-strikes-syria-idlib-aleppo-russia/28155195.html)
 2. [The Times of Israel](http://www.timesofisrael.com/airstrikes-kill-21-including-3-kids-in-syrias-idlib-monitor/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2016/10/Mideast-Syria_Horo1.jpg)
 
 ### Related:
 

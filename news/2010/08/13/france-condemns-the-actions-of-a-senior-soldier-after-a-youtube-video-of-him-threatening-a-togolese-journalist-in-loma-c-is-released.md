@@ -9,6 +9,7 @@ French officials lambast a senior army officer who was filmed on YouTube orderin
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10961042)
 2. [France 24](http://www.france24.com/en/20100813-togo-france-army-officer-letondot-threatened-togo-journalist-recalled)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

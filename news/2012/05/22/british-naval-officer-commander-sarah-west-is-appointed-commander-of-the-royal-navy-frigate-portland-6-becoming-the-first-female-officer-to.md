@@ -8,6 +8,7 @@ The first female commander of a major Royal Navy (RN) warship is taking up her p
 ### Source:
 
 1. [The Scotsman](http://www.scotsman.com/news/transport/first-female-commander-for-warship-1-2308886)
+1. [Cover Image](http://res.cloudinary.com/jpress/image/fetch/w_300,f_auto,ar_3:2,c_fill/http://www.scotsman.com/webimage/1.2308885.1337648040!/image/3382782400.jpg)
 
 ### Related:
 

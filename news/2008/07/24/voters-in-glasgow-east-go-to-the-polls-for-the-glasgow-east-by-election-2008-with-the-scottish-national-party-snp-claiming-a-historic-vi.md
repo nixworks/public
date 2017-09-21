@@ -9,6 +9,7 @@ Labour is in danger of losing one of its safest seats in one of the biggest by-e
 
 1. [Press Association via Google News](http://ukpress.google.com/article/ALeqM5iXAaUblX8vtu9aeKkqvVErIPIW0w)
 2. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/scotland/2456823/Glasgow-East-by-election-Labour-demands-recount-as-SNP-claims-victory.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/00781/glasgow-east-460_781006a.jpg)
 
 ### Related:
 

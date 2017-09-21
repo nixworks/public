@@ -9,6 +9,7 @@ An inquiry has begun into the security breach which forced the postponement of t
 
 1. [Irish Independent](http://www.independent.ie/national-news/exam-leak-fiasco-hits-50000-students-1761081.html)
 2. [RTÉ](http://www.rte.ie/news/2009/0604/exams.html)
+2. [Cover Image](https://img.rasset.ie/0002579b-1600.jpg)
 
 ### Related:
 

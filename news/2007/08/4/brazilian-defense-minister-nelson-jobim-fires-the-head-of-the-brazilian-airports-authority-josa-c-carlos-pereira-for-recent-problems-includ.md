@@ -8,6 +8,7 @@ The political fallout from the worst plane crash in Brazilian history continued 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/05/world/americas/05brazil.html?_r=1&ref=americas&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

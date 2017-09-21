@@ -11,6 +11,7 @@
 2. [Ahram Online](http://english.ahram.org.eg/NewsContent/3/15/2778/Business/Region/Youth-unemployment-sparks-Tunisian-tinderbox.aspx)
 3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010122823238574209.html)
 4. [The Guardian](http://www.guardian.co.uk/commentisfree/2010/dec/28/tunisia-ben-ali)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/28/20101228191537348436_20.jpg)
 
 ### Related:
 

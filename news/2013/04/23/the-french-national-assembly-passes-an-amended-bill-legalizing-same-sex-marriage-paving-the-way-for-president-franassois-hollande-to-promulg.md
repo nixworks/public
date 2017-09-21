@@ -8,6 +8,7 @@ PARIS (AP) — France legalized gay marriage on Tuesday after a wrenching nation
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/france-legalizes-gay-marriage-harsh-debate-151608251.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

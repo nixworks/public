@@ -9,6 +9,7 @@ At least 24 Egyptian policemen are killed in an attack in Sinai, amid the wider 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23751954)
 2. [Reuters](http://www.reuters.com/article/2013/08/19/us-egypt-sinai-attack-idUSBRE97I05Q20130819)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/69353000/jpg/_69353805_4tsati12.jpg)
 
 ### Related:
 

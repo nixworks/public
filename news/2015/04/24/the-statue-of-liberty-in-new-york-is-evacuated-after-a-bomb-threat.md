@@ -9,6 +9,7 @@ Statue of Liberty evacuated, US police respond to report of suspicious package
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Statue-of-Liberty-evacuated-after-suspicious-package-report-20150424)
 2. [CNN](http://edition.cnn.com/2015/04/24/us/new-york-statue-of-liberty-evacuation/)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2765/cb13804005b54dcdbfae4d069d37597c.jpg)
 
 ### Related:
 

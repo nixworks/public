@@ -9,6 +9,7 @@
 
 1. [ABC Australia](http://www.abc.net.au/news/stories/2008/05/01/2232111.htm)
 2. [Sydney Morning Herald](http://www.smh.com.au/news/national/five-killed-as-sydney-harbour-runabout-hits-fishing-boat-photo-robert-pearce/2008/05/01/1209234987504.html)
+2. [Cover Image](http://www.abc.net.au/news/image/2422248-1x1-700x700.jpg)
 
 ### Related:
 

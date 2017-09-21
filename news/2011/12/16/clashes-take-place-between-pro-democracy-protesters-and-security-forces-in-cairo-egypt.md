@@ -8,6 +8,7 @@ Deadly clashes sparked by army move to shut down sit-in outside cabinet offices,
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011121672542846485.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/16/201112162373333734_20.jpg)
 
 ### Related:
 

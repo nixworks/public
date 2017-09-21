@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20656359)
 2. [Reuters](http://www.reuters.com/article/2012/12/09/us-romania-politics-idUSBRE8B80DF20121209)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121209&t=2&i=682886410&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B81ISK00)
 
 ### Related:
 

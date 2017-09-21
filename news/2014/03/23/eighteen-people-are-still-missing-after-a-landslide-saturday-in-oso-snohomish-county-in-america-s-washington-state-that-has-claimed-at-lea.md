@@ -8,6 +8,7 @@ ARLINGTON, Wash. (AP) — Looking for signs of life in the quicksand-like mud be
 ### Source:
 
 1. [Yahoo News](http://news.yahoo.com/officials-18-missing-washington-mudslide-191545638.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/KPw9fvKMIHGvQTg2GA._RQ--/aD0zMDA7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/4ad258fbb435d66a8571481d23882eb2)
 
 ### Related:
 

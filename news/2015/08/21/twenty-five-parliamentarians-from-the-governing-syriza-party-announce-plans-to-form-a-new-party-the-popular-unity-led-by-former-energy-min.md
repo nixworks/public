@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-34014083?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [To Vima](http://www.tovima.gr/en/article/?aid=730903)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3B75/production/_85112251_greeks.jpg)
 
 ### Related:
 

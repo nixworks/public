@@ -8,6 +8,7 @@ At least one missile was fired at the destroyer, but the ship deployed counterme
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/uss-mason-fired-again-coast-yemen-officials-n666971)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_41/1743896/161010-uss-mason-0704_9d1791ad1b4d6b6b1528b2adbd55fba9.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

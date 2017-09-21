@@ -8,6 +8,7 @@ Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/07/01/violent-clashes-erupt-hong-kong-new-leader-carrie-lam-sworn/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/l/h/lhbhvyyje6wsonxnoikfztm61pxdvrgu-xlarge.jpg)
 
 ### Related:
 

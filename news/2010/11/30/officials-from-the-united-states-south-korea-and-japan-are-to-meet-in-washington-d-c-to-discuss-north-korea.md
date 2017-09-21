@@ -12,6 +12,7 @@ North Korea says it has thousands of centrifuges operating at a previously undet
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/29/north.korea.us.meeting/index.html?eref=edition)
 4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/30/koreas.crisis/index.html?eref=edition)
 5. [The Hindu](http://www.thehindu.com/news/international/article923507.ece)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

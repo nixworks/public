@@ -8,3 +8,4 @@ Arab League urges US to press Israel to lift secrecy over its atomic programme.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081516228402597.html)
+1. [Cover Image](http://www.aljazeera.com)

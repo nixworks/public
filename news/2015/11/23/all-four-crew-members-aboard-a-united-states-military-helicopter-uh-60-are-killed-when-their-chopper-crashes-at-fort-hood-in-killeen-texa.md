@@ -8,6 +8,7 @@ The crew was flying a routine training mission when their UH-60 chopper went dow
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/four-killed-military-helicopter-crash-fort-hood-texas-n468661)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_48/1314436/151124-uh-60-jpo-209a_82a02296eeac08d411a3c28410f67712.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

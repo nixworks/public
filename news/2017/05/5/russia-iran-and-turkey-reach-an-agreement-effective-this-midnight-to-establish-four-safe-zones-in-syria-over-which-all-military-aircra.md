@@ -11,6 +11,7 @@ U.S. and coalition military planes will not be allowed to fly over designated sa
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-safezones-opposition-idUSKBN1801TF)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-agreement-idUSKBN1811KJ)
 4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-pyd-idUSKBN1811PZ)
+4. [Cover Image](//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/05/0/0/694940094001_5423085324001_5423064739001-vs.jpg?ve=1)
 
 ### Related:
 

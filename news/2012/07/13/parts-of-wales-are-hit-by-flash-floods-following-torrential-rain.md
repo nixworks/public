@@ -8,6 +8,7 @@ Flash flooding hits parts of north Powys following torrential rain, with fire cr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-18837380)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61543000/jpg/_61543570_rain.jpg)
 
 ### Related:
 

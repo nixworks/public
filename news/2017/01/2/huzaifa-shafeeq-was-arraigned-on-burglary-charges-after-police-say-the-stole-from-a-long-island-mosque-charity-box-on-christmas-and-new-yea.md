@@ -8,3 +8,4 @@ A man is under arrest on Long Island after police say he broke into an Islamic c
 ### Source:
 
 1. [ABC7NY](http://abc7ny.com/news/man-charged-with-stealing-from-charity-box-at-long-island-islamic-center-/1682328/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/wabc/images/cms/1682329_1280x720.jpg)

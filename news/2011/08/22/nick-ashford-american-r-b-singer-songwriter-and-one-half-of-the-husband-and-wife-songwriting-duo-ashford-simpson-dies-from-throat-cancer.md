@@ -8,3 +8,4 @@ Nickolas Ashford, who has died aged 69, was a songwriter who, with his wife Vale
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/obituaries/8718905/Nikolas-Ashford.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01978/ashford_si_1978738a.jpg)

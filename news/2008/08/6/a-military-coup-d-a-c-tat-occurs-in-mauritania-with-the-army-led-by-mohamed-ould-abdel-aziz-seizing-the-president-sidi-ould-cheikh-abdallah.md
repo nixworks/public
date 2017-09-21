@@ -8,6 +8,7 @@ A coup has taken place in Mauritania, where the army has seized the President an
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/08/06/2326478.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/466396-1x1-700x700.jpg)
 
 ### Related:
 

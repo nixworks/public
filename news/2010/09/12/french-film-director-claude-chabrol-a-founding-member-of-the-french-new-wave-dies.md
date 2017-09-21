@@ -12,6 +12,7 @@ Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/obituaries/culture-obituaries/film-obituaries/7997567/Claude-Chabrol.html)
 4. [The Guardian](http://www.guardian.co.uk/film/2010/sep/12/claude-chabrol-dies)
 5. [The New York Times](http://www.nytimes.com/2010/09/13/movies/13chabrol.html)
+5. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/chabrol-new-m.jpg)
 
 ### Related:
 

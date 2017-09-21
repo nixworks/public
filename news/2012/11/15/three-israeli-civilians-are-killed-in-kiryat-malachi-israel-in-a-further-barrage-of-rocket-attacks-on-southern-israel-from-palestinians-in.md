@@ -11,6 +11,7 @@ Israeli cities suffer constant assaults, Iron Dome downs dozens of rockets as Op
 2. [KleineOnline](http://kleinonline.wnd.com/2012/11/15/rockets-strike-tel-aviv-suburb-hamas-debating-further-escalation-as-israel-continues-large-scale-operation/)
 3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=291954)
 4. [The Times of Israel](http://www.timesofisrael.com/rockets-rain-down-on-south-after-israel-launches-operation-pillar-of-defense/)
+4. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/11/KM.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A temporary ceasefire between warring parties in Syria collapsed on Saturday as 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/15/us-mideast-crisis-syria-idUSKCN0QK09J20150815)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150815&t=2&i=1072081961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7E04T)
 
 ### Related:
 

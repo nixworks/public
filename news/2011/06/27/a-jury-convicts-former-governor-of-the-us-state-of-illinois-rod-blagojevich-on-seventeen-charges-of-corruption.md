@@ -8,6 +8,7 @@ A federal jury Monday convicted Rod Blagojevich of sweeping corruption, putting 
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-blagojevich-jurors-going-into-their-10th-day-20110627,0,620170.story)
+1. [Cover Image](http://www.trbimg.com/img-53266367/turbine/chi-blagojevich-jurors-going-into-their-10th-day-20110627)
 
 ### Related:
 

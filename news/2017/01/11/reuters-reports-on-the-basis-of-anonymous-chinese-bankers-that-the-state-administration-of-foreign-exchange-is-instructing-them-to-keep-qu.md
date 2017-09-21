@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/uk-china-regulator-banks-exclusive-idUSKBN14V0CP)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170111&t=2&i=1168328340&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0A0E6)
 
 ### Related:
 

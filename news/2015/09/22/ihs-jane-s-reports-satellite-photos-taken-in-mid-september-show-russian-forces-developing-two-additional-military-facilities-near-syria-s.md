@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/09/22/us-mideast-crisis-russia-bases-idUSKCN0RM21520150922)
 2. [Reuters](http://www.voanews.com/content/kerry-russian-planes-in-syria-for-force-protection/2974425.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150922&t=2&i=1081410154&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8L12W)
 
 ### Related:
 

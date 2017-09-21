@@ -8,6 +8,7 @@ Voters in the Republic of Ireland have rejected a government proposal to abolish
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24404157)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70274000/jpg/_70274872_seanad.jpg)
 
 ### Related:
 

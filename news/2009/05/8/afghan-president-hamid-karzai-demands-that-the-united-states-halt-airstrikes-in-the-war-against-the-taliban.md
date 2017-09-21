@@ -8,6 +8,7 @@ Afghan President Hamid Karzai on Friday called on the United States to halt air 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5475R820090508)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090508&t=2&i=10039577&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-08T215839Z_01_BTRE5471P1Z00_RTROPTP_0_AFGHANISTAN)
 
 ### Related:
 

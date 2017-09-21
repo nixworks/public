@@ -8,6 +8,7 @@ Gunmen have killed more than 30 gold miners in a remote area of northern Nigeria
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nigeria-mining-idUSKBN1332ON?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

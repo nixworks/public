@@ -8,6 +8,7 @@ GSAT-17 is the third satellite launch by ISRO this month, the other two being fi
 ### Source:
 
 1. [The Indian Express](http://indianexpress.com/article/technology/science/isro-communication-satellite-gsat-17-launched-successfully-from-french-guiana-arianespace-4726984/)
+1. [Cover Image](http://images.indianexpress.com/2017/06/gsat-17.jpg?w=759)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Group of more than 30 reporters to demand compensation from Israeli government.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010714181331317479.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

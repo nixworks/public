@@ -8,6 +8,7 @@ The UK economy shrank by 0.3% in the first three months of the year, more than p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18187354)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59843000/jpg/_59843622_builders2_getty.jpg)
 
 ### Related:
 

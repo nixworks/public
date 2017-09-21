@@ -8,6 +8,7 @@
 ### Source:
 
 1. [DNA](http://www.dnaindia.com/india/report_44-poeple-arrested-for-panchayat-polls-violence-in-uttar-pradesh_1453472)
+1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)
 
 ### Related:
 

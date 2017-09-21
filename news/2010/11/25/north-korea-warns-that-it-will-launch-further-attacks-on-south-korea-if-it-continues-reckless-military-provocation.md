@@ -10,6 +10,7 @@
 1. [CNN](http://news.blogs.cnn.com/2010/11/24/north-korea-warns-of-more-attacks/)
 2. [Reuters](http://www.reuters.com/article/idUSL3E6MN0SQ20101125)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/11/25/99/0301000000AEN20101125012300320F.HTML)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20101125&t=2&i=257672775&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-25T215551Z_01_BTRE6AO1OX600_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

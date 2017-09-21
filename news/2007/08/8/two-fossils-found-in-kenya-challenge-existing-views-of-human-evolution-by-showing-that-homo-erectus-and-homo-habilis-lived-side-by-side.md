@@ -8,6 +8,7 @@ Two fossils have shaken the human family tree, possibly rearranging major branch
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/09/science/08cnd-fossil.html?_r=1&ref=science&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/08/08/science/09fossil.span.600/09fossil.span.600-facebookJumbo-v2.jpg)
 
 ### Related:
 

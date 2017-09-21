@@ -8,6 +8,7 @@ A single grenade-carrying drone set off one of the largest explosions in recent 
 ### Source:
 
 1. [Popular Mechanics](http://www.popularmechanics.com/military/weapons/news/a27511/russia-drone-thermite-grenade-ukraine-ammo/)
+1. [Cover Image](http://pop.h-cdn.co/assets/17/30/1280x640/landscape-1501179935-kaboom.png)
 
 ### Related:
 

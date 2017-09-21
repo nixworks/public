@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific_business/view/159232/1/.html)
 2. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2005-07-22T034422Z_01_SP172794_RTRIDST_0_MARKETS-FOREX-RINGGIT-UPDATE-1.XML)
 3. [Strait Times, Malaysia](http://www.nst.com.my/Current_News/NST/Friday/Frontpage/20050722074223/Article/indexb_html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

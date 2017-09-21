@@ -9,6 +9,7 @@ Newly released documents from Edward Snowden show that the NSA and GCHQ coordina
 
 1. [CNN](http://edition.cnn.com/2016/01/29/politics/us-uk-israel-drones/)
 2. [The Verge](http://www.theverge.com/2016/1/29/10872860/gchq-nsa-drone-spy-snowden)
+2. [Cover Image](https://cdn0.vox-cdn.com/thumbor/xmw6H80-Rno-cFXrrVTIhxAogT4=/0x294:5641x3467/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/48681045/503879802.0.jpg)
 
 ### Related:
 

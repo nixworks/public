@@ -8,6 +8,7 @@ BIG SUR, Calif. (AP) — A wildfire burning for nearly two months on California&
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/98b399b5f6044767807b27a95ada7bcb/california-wildfire-becomes-costliest-ever-fight-200m)
+1. [Cover Image](http://binaryapi.ap.org/9e8b9d8d78e845a3838207526efc0252/460x.jpg)
 
 ### Related:
 

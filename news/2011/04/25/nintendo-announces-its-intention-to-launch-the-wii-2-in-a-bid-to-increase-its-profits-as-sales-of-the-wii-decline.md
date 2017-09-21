@@ -9,6 +9,7 @@ Nintendo has announced it will launch a new version of its Wii games console as 
 
 1. [BBC](http://www.bbc.co.uk/news/technology-13186597)
 2. [Reuters via IOL](http://www.iol.co.za/business/business-news/nintendo-to-launch-new-wii-to-arrest-profit-fall-1.1060979)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52331000/jpg/_52331294_wii.jpg)
 
 ### Related:
 

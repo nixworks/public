@@ -8,6 +8,7 @@ Bobby Jindal, a conservative Republican congressman from the New Orleans suburbs
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/10/21/us/nationalspecial/21louisiana.html?_r=1&ex=1350705600&en=3c93d97291c37fab&ei=5088&partner=rssnyt&emc=rss&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/10/21/us/21louisiana.751.jpg)
 
 ### Related:
 

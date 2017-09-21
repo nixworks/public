@@ -11,6 +11,7 @@ A magnitude-7.9 earthquake strikes in Nepal and northern India, killing more tha
 2. [BBC](http://www.bbc.com/news/world-asia-32461019)
 3. [CNN](http://edition.cnn.com/2015/04/25/asia/nepal-earthquake-7-5-magnitude/index.html?eref=edition)
 4. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-04-25/nepal-earthquake-people-die-buildings-collapse-kathmandu/6421696)
+4. [Cover Image](http://www.abc.net.au/news/image/6421824-1x1-700x700.jpg)
 
 ### Related:
 

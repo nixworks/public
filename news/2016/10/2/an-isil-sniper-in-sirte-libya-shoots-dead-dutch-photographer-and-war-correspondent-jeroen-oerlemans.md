@@ -8,6 +8,7 @@ A Dutch journalist has been killed while covering a government-backed offensive 
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/jeroen-oerlemans-dutch-journalist-killed-battle-isis-libya-sirte-sniper-shot-a7342051.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/13/18/libya-stories-12.jpg)
 
 ### Related:
 

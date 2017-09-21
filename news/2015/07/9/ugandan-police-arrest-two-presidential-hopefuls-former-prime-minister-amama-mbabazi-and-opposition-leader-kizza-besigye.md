@@ -8,6 +8,7 @@ Ex-PM and opposition leader, both planning to challenge incumbent in 2016 poll, 
 ### Source:
 
 1. [AlJazeera](http://www.aljazeera.com/news/2015/07/uganda-arrests-presidential-candidates-amama-mbabazi-kizza-besigye-150709081841654.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/7/9/5a577adfb1b943119f6f4ed0af6679ef_18.jpg)
 
 ### Related:
 

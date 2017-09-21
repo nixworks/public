@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010326164719466997.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8590396.stm)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/03/27/20/0301000000AEN20100327004000315F.HTML)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

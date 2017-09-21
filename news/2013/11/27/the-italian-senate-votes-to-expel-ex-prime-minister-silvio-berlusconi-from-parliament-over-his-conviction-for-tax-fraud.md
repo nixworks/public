@@ -9,6 +9,7 @@ The Italian Senate expelled former prime minister Silvio Berlusconi over his tax
 
 1. [CBC News](http://www.cbc.ca/news/world/silvio-berlusconi-expelled-from-parliament-by-italy-s-senate-1.2441982)
 2. [CNN](http://edition.cnn.com/2013/11/27/world/europe/italy-berlusconi/)
+2. [Cover Image](https://i.cbc.ca/1.2442730.1385587986!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/italy-berlusconi.jpg)
 
 ### Related:
 

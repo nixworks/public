@@ -10,6 +10,7 @@ At least six people are killed and about 36 injured in an explosion at an intern
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11920926)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-12/05/content_11653391.htm)
 3. [IOL](http://www.iol.co.za/news/world/blast-rocks-internet-cafe-1.950977)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

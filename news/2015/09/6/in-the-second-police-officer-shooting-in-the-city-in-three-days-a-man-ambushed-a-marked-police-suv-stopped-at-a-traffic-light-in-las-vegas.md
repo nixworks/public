@@ -8,6 +8,7 @@ A Las Vegas police officer reportedly received non-life-threatening injuries aft
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2015/09/06/police-officer-shot-in-ambush-style-attack-expected-to-survive/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2015/09/07/0/0/090715_an_carr_640.jpg?ve=1)
 
 ### Related:
 

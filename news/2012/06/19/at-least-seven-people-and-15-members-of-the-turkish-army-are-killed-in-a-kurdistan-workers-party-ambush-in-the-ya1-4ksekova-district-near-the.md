@@ -8,6 +8,7 @@ At least eight Turkish soldiers and 10 Kurdish PKK fighters are killed following
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18501853#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61008000/jpg/_61008431_hakkariclashes_afp.jpg)
 
 ### Related:
 

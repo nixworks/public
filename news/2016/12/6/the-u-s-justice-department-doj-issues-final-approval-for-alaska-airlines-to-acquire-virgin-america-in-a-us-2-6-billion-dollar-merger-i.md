@@ -8,6 +8,7 @@ Antitrust enforcers at the Justice Department granted approval for the $2.6 bill
 ### Source:
 
 1. [The Wall Street Journal](http://www.wsj.com/articles/justice-department-close-to-approving-alaska-air-virgin-america-deal-1481031602)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-RC222_1206ai_TOP_20161206083222.jpg)
 
 ### Related:
 

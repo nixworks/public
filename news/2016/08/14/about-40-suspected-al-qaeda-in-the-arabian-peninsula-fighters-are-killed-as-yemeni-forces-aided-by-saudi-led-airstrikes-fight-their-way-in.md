@@ -9,6 +9,7 @@ Yemeni army forces backed by Arab coalition aircraft killed about 40 suspected a
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3740012/Yemen-forces-battle-Qaeda-southern-Abyan-province.html)
 2. [Reuters](http://www.reuters.com/article/us-yemen-security-qaeda-idUSKCN10P0GJ?il=0)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160814&t=2&i=1149633049&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7D0I3)
 
 ### Related:
 

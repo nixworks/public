@@ -10,6 +10,7 @@ At least 26 people were killed by Syrian government air strikes on the Islamic S
 1. [CNN](http://www.cnn.com/2015/09/18/politics/russia-fighter-jets-syria-carter/)
 2. [Reuters](http://uk.reuters.com/article/2015/09/18/uk-mideast-crisis-syria-palmyra-idUKKCN0RI2GK20150918)
 3. [The New York Times](http://www.nytimes.com/2015/09/19/world/europe/us-to-begin-military-talks-with-russia-on-syria.html?_r=0)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

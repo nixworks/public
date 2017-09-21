@@ -8,6 +8,7 @@ Three people were stabbed and 13 others were arrested when a Ku Klux Klan rally 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-klan-rally-in-anaheim-erupts-in-violence-one-man-stabbed-20160227-story.html)
+1. [Cover Image](http://www.trbimg.com/img-56d21fbd/turbine/la-me-ln-klan-rally-in-anaheim-erupts-in-violence-one-man-stabbed-20160227)
 
 ### Related:
 

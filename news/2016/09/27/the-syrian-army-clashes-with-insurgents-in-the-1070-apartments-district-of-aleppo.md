@@ -8,6 +8,7 @@ The Syrian army and its allies fought intense clashes with insurgents in the opp
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN11X0SS?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160928&t=2&i=1155287822&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8R0QE)
 
 ### Related:
 

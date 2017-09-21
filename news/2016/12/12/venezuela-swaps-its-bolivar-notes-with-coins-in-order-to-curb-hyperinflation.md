@@ -8,6 +8,7 @@ Venezuela is removing its highest-value banknote from circulation to combat ille
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38284485)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6665/production/_92931262_mediaitem92931261.jpg)
 
 ### Related:
 

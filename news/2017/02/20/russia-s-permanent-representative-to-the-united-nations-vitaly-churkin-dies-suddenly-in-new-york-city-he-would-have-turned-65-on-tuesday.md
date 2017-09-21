@@ -9,6 +9,7 @@
 
 1. [New York Daily News](http://www.nydailynews.com/new-york/russian-ambassador-vitaly-churkin-dies-nyc-heart-attack-article-1.2977372)
 2. [Reuters](http://www.reuters.com/article/us-russia-un-churkin-idUSKBN15Z1UU)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170220&t=2&i=1173380605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1J10W)
 
 ### Related:
 

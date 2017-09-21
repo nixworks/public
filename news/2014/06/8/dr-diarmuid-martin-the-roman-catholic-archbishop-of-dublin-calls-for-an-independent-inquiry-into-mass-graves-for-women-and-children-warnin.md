@@ -8,6 +8,7 @@ Leading Irish archbishop warns of more mass graves at other convents around the 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/10885038/More-Irish-mass-graves-likely-to-be-found-warns-Archbishop-of-Dublin.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02931/Tuam_Galway_gravey_2931270k.jpg)
 
 ### Related:
 

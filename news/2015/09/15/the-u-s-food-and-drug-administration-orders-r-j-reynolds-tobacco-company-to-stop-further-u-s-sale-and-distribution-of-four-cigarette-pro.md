@@ -8,6 +8,7 @@ Reynolds American Inc can no longer sell Camel Crush Bold or three other cigaret
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/15/us-reynolds-amricn-fda-idUSKCN0RF1RG20150915)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150915&t=2&i=1079648711&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8E186)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/news-ani/u-s-rules-out-military-coordination-plans-with-iran-against-is-group-114090600550_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

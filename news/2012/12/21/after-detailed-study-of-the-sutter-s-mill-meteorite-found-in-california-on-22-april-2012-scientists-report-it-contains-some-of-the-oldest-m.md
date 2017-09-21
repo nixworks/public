@@ -10,6 +10,7 @@ One of the fastest and rarest ever. ;
 1. [Business Insider](http://www.businessinsider.com/one-of-the-fastest-rarest-meteorites-recovered-in-californias-gold-county-2012-12)
 2. [Nature](http://www.nature.com/news/us-meteorite-was-fastest-on-record-1.12095)
 3. [Science News](http://www.sciencenews.org/view/generic/id/347199/description/California_meteorite_a_scientific_gold_mine)
+3. [Cover Image](http://static5.businessinsider.com/image/50d47e56ecad041222000002-1190-625/meteorite-found-in-california-contains-some-of-the-oldest-material-in-the-solar-system.jpg)
 
 ### Related:
 

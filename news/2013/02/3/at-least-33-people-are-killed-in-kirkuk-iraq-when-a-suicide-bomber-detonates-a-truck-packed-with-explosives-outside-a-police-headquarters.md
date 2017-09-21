@@ -11,6 +11,7 @@ At least 33 people were killed in the Iraqi city of Kirkuk on Sunday when a suic
 2. [ITV](http://www.itv.com/news/update/2013-02-03/iraq-suicide-attack-destroys-cars-and-buildings-as-33-reported-dead/)
 3. [Reuters](http://www.reuters.com/article/2013/02/03/us-iraq-violence-idUSBRE91202R20130203)
 4. [Sky News](http://news.sky.com/story/1046841/iraq-33-dead-in-bomb-blast-and-gun-attack)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130203&t=2&i=700416661&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9120T2400)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Fifty people died after a Boeing passenger plane crashed on landing in the city 
 ### Source:
 
 1. [RT](http://rt.com/news/passenger-plane-crash-kazan-866/)
+1. [Cover Image](https://img.rt.com/files/news/21/2b/a0/00/_passenger-plane-crash-kazan.si.jpg)
 
 ### Related:
 

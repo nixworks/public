@@ -8,6 +8,7 @@ A car bomb targeting a military vehicle in southeast Turkey on Sunday killed an 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/11/04/us-turkey-kurds-bomb-idUSBRE8A30CQ20121104)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

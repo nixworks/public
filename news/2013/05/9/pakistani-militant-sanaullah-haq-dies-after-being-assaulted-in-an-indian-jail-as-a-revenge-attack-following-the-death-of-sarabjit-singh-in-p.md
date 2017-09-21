@@ -8,6 +8,7 @@ A convicted Pakistani militant jailed in India died on Thursday in hospital afte
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/09/us-pakistan-india-prisoner-idUSBRE94805F20130509)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130509&t=2&i=730022617&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9480CZ300)
 
 ### Related:
 

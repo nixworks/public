@@ -8,6 +8,7 @@ Pirates seized a Dutch cargo vessel on Thursday, a regional maritime group said,
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/usTopNews/idUKL75577120090507)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090507&t=2&i=10015382&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-07T141505Z_01_BTRE54611TT00_RTROPTP_0_UK-SOMALIA-PIRACY)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Opposition under attack near Zlitan in north, while Gaddafi fighters launch oper
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/08/201187133915428.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/8/7/201187181810453790_20.jpg)
 
 ### Related:
 

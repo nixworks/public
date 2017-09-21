@@ -8,6 +8,7 @@ A Canadian doctor who treated top athletes reportedly gave them performance-enha
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/12/15/sports/15doctor.html?_r=2&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/12/15/sports/15doctor_CA1/thumbStandard.jpg)
 
 ### Related:
 

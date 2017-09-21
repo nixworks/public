@@ -8,6 +8,7 @@ The prolific musician is the first American to win the prize for lifetime litera
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/10/13/497780610/bob-dylan-titan-of-american-music-wins-the-2016-nobel-prize-in-literature)
+1. [Cover Image](https://media.npr.org/assets/img/2016/10/13/gettyimages-156038135_wide-9819abfba5eed26fe1cd1a17c54633f182bb0975.jpg?s=1400)
 
 ### Related:
 

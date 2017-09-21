@@ -8,6 +8,7 @@ Google has 12 weeks to respond to charge and could face European Commission fine
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/business/technology/eu-accuses-google-of-abusing-its-market-dominance-1.2617363)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2618133&origw=1440)
 
 ### Related:
 

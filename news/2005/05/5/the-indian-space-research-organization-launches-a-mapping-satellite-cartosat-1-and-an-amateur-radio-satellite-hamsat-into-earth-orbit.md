@@ -11,6 +11,7 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8394337)
 3. [Space.Com](http://www.space.com/missionlaunches/cartosat1_launch_050505.html)
 4. [Tribune](http://www.tribuneindia.com/2005/20050506/main2.htm)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

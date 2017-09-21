@@ -9,6 +9,7 @@ Voters are due to go to the polls in Argentina to choose a new president, to rep
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34629777)
 2. [CNN](https://www.washingtonpost.com/world/the_americas/opposition-claims-it-got-votes-to-force-runoff-in-argentina/2015/10/25/2716152c-7b83-11e5-837b-2c3f2478487e_story.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/120D5/production/_86314937_86314641.jpg)
 
 ### Related:
 

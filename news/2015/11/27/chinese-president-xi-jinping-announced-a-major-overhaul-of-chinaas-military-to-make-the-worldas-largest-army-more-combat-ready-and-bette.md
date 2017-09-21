@@ -8,6 +8,7 @@ President Xi Jinping announced a major overhaul of China’s military to make th
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-26/china-announces-military-overhaul-to-make-army-more-combat-ready)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

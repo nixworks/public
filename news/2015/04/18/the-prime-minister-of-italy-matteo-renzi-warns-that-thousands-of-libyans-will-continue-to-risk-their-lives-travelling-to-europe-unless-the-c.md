@@ -8,6 +8,7 @@ Italian Prime Minister Matteo Renzi has warned that thousands of Africans will c
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32363879)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82402000/jpg/_82402572_82402448.jpg)
 
 ### Related:
 

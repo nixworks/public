@@ -9,6 +9,7 @@ Angola sentences four human rights activists for reported links with a separatis
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/20108315102504923.html)
 2. [BBC News](http://www.bbc.co.uk/news/world-africa-10857125)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [AGI](http://www.agi.it/english/news.pl?doc=200504182057-1253-RT1-CRO-0-NF82&page=0&id=agionline-eng.italyonline)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=as0D2VNv3s7A&refer=top_world_news)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8215221)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

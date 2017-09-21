@@ -9,6 +9,7 @@
 
 1. [Forbes](http://www.forbes.com/sites/robcain/2015/06/16/announcement-of-chinas-netflix-may-be-the-death-blow-for-netflix-in-china/)
 2. [Reuters](http://www.reuters.com/article/2015/06/14/alibaba-video-idUSKBN0OU0NC20150614)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150614&t=2&i=1056156865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5D0BO)
 
 ### Related:
 

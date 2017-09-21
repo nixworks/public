@@ -8,6 +8,7 @@ A government department warned Downing Street that a flagship policy to cap bene
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14004551)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53829000/jpg/_53829949_kh7zt2ox.jpg)
 
 ### Related:
 

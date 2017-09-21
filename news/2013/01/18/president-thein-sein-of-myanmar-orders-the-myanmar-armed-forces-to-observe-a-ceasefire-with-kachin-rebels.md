@@ -10,6 +10,7 @@ The Myanmar military will observe a ceasefire in its fight with ethnic Kachin re
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21087806)
 2. [CNN](http://www.cnn.com/2012/01/12/world/asia/myanmar-cease-fire/index.html)
 3. [Reuters](http://www.reuters.com/article/2013/01/18/us-myanmar-kachin-idUSBRE90H0LB20130118)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130118&t=2&i=695535181&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90H12X200)
 
 ### Related:
 

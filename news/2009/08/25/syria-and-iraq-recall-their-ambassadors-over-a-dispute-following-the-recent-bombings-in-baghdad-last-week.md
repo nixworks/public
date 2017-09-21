@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098251602328210.html)
 2. [Syrian News Station](http://sns.sy/sns/?path=news/read/4258)
 3. [The Daily Star Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=10&categ_id=2&article_id=105707)
+3. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

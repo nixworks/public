@@ -8,6 +8,7 @@ FPA statement &#39;protests methods by Hamas against journalists in Gaza&#39;, c
 ### Source:
 
 1. [YNet](http://www.ynetnews.com/articles/0,7340,L-4557775,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2014/08/05/5506815/Tfrench_report.jpg)
 
 ### Related:
 

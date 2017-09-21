@@ -8,6 +8,7 @@ Malian President Diouncounda Traore appoints a new prime minister, less than 24 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20687562)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64705000/jpg/_64705085_malireuters.jpg)
 
 ### Related:
 

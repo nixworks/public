@@ -8,6 +8,7 @@ Strikers contest a government back-to-work order in court, a day after senate pa
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010102314153220733.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/2010102314575783112_20.jpg)
 
 ### Related:
 

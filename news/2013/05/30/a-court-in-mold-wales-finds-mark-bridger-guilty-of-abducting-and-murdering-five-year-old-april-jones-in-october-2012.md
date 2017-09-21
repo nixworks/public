@@ -8,6 +8,7 @@ Mark Bridger, found guilty of abducting and murdering five-year-old April Jones,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-22687971)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67888000/jpg/_67888546_emb-gunbridger.jpg)
 
 ### Related:
 

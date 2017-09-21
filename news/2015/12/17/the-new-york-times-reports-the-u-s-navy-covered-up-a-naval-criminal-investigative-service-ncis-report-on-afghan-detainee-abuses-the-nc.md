@@ -11,6 +11,7 @@ A new report shows the Navy tried to cover-up a 2012 incident in which SEAL Team
 2. [Sky Valley Times](http://www.skyvalleychronicle.com/BREAKING-NEWS/U-S-NAVY-SEALS-BEAT-AFGHAN-MAN-TO-DEATH-THERE-WAS-A-COVER-UP-AND-NONE-WERE-CHARGED-br-Suggests-new-report-2349556)
 3. [The New York Times'' - synopsis](http://www.nytimes.com/2015/12/17/world/asia/navy-seals-ncis-report.html?em_pos=large&emc=edit_nn_20151218&nl=morning-briefing&nlid=11553763&_r=0)
 4. [The New York Times'' via ''Tampa Bay Times](http://www.tampabay.com/news/military/war/navy-seals-and-coverup-claims-after-an-afghan-detainees-death/2258174)
+4. [Cover Image](http://images.hngn.com/data/images/full/176092/navy-seal.jpg)
 
 ### Related:
 

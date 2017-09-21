@@ -8,6 +8,7 @@ The French government will compensate victims of past nuclear tests and has earm
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE52N0HT20090324)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090324&t=2&i=9391464&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-24T020619Z_01_BTRE52N05UL00_RTROPTP_0_FRANCE-DEFENCE-AFGHANISTAN)
 
 ### Related:
 

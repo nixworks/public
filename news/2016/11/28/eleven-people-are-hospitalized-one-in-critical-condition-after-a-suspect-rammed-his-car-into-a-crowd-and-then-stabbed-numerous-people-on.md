@@ -9,6 +9,7 @@ Abdul Razak Ali Artan was killed by a police officer after the car-and-knife amb
 
 1. [CNN](http://www.cnn.com/2016/11/28/us/ohio-state-university-active-shooter/)
 2. [NBC News](http://www.nbcnews.com/news/us-news/suspect-dead-after-ohio-state-university-car-knife-attack-n689076?cid=sm_tw)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_48/1811861/16128-abdul-razak-ohio-attack-mbe-537p_39f74c9055c97f0abe52d042acea2339.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

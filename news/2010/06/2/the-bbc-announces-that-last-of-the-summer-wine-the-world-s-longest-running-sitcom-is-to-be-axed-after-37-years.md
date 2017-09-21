@@ -12,6 +12,7 @@ Long-running BBC comedy Last of the Summer Wine is to be axed after 37 years, th
 3. [The Guardian](http://www.guardian.co.uk/media/2010/jun/02/last-of-the-summer-wine)
 4. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5i2wtgtsP0SpAjchpa6ErDk0libZg)
 5. [The Scotsman](http://news.scotsman.com/latest-national-news/Last-of-the-Summer-Wine.6336683.jp)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

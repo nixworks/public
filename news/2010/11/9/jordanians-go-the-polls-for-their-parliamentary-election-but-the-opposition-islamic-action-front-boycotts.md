@@ -10,6 +10,7 @@ Jordanians vote in parliamentary elections that have been boycotted by the stron
 1. [Al Jazeera](http://english.aljazeera.net/video/middleeast/2010/11/2010119151918158528.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11715426)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/09/c_13598114.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

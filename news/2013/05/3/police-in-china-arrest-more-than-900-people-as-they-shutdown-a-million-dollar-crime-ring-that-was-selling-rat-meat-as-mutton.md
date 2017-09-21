@@ -8,6 +8,7 @@ Chinese police have broken a crime ring that passed off more than $1 million in 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/03/us-china-foodsafety-ratmeat-idUSBRE94207J20130503)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

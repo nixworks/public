@@ -8,6 +8,7 @@ Solar Impulse 2 has become the first sun-powered, fuel-free aircraft to circle t
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/solar-impulse-2-completes-round-the-world-fuel-free-flight/a-19426690)
+1. [Cover Image](http://www.dw.com/image/19396860_304.jpg)
 
 ### Related:
 

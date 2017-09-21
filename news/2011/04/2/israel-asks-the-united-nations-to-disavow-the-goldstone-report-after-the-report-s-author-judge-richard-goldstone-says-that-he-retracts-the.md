@@ -12,6 +12,7 @@ Israel calls on the UN to cancel a report that said it possibly committed war cr
 3. [The New York Times](http://www.nytimes.com/2011/04/03/world/middleeast/03goldstone.html?_r=1)
 4. [The Washington Post](http://www.washingtonpost.com/opinions/reconsidering-the-goldstone-report-on-israel-and-war-crimes/2011/04/01/AFg111JC_story.html)
 5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4050990,00.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

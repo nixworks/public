@@ -8,6 +8,7 @@ POLICE have confirmed the devastating theme park accident that killed four peopl
 ### Source:
 
 1. [News Limited](http://www.news.com.au/national/queensland/at-least-four-people-injured-after-serious-dreamworld-incident/news-story/ab194466f5fd49e1e1c17e5468bbbd47)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/e899435e793a3c0b4a9345cc836e695a)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Kansas City Star](http://www.kansascity.com/news/local/article109613237.html)
+1. [Cover Image](http://www.kansascity.com/news/o4kcz-gas-leak/ALTERNATES/LANDSCAPE_1140/gas%20leak)
 
 ### Related:
 

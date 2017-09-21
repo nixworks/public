@@ -8,6 +8,7 @@ Islamic State fighters drove Syrian government forces from a western town on Sun
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/11/01/uk-mideast-crisis-syria-is-idUKKCN0SQ1I620151101)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151101&t=2&i=1091458915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA00YB)
 
 ### Related:
 

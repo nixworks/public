@@ -11,6 +11,7 @@ The contest on Facebook has attracted over 24,000 followers and 6,000 posts sinc
 2. [Channel Newsasia](http://www.channelnewsasia.com/news/asiapacific/taiwanese-launch-say/2965638.html)
 3. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2016/07/19/2003651345)
 4. [The New York Times](http://www.nytimes.com/2016/07/20/world/asia/china-apologise-contest.html?_r=0)
+4. [Cover Image](http://www.channelnewsasia.com/image/2965682/1468836038000/large16x9/640/360/k-pop-artist-chou-tzu-yu.jpg)
 
 ### Related:
 

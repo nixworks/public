@@ -8,6 +8,7 @@ Two Labour peers are suspended by the party and a UUP peer resigns his party whi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-22742327)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67930000/jpg/_67930221_comp.jpg)
 
 ### Related:
 

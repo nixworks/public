@@ -9,6 +9,7 @@ Thousands are preparing to evacuate Philippines coastal areas as Typhoon Rammasu
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/07/15/thousands-philippines-flee-typhoon)
 2. [ABC News Australia](http://www.abc.net.au/news/2014-07-15/an-philippines-braces-for-typhoon-rammasun/5596688)
+2. [Cover Image](http://www.abc.net.au/news/image/5599148-1x1-700x700.jpg)
 
 ### Related:
 

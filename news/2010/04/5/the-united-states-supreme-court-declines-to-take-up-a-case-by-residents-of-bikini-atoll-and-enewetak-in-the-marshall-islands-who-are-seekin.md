@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/Justice/2010/0405/Supreme-Court-No-review-of-award-for-US-nuclear-weapons-tests)
+1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
 ### Related:
 

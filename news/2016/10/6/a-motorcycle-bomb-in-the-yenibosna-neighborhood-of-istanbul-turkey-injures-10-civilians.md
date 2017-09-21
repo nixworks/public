@@ -8,6 +8,7 @@ A bomb attached to a motorbike exploded near a police station in southwest Istan
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN1261DX)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161006&t=2&i=1156373458&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC950YS)
 
 ### Related:
 

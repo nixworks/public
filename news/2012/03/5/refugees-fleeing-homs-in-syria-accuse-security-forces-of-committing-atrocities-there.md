@@ -8,6 +8,7 @@ People fleeing Homs tell a BBC correspondent outside the Syrian city that securi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17255912)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58878000/jpg/_58878255_58878252.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The mayor of a town in the troubled Mexican state of Tamaulipas is shot dead as 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11127005)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48914000/jpg/_48914856_010060074-1.jpg)
 
 ### Related:
 

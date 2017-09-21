@@ -9,6 +9,7 @@
 
 1. [Jurist](http://www.jurist.org/paperchase/2016/03/ukraine-lawyer-for-russia-soldiers-found-dead.php)
 2. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-lawyer-death-idUSKCN0WR0WF)
+2. [Cover Image](http://www.jurist.org/images/wiki/16/03/Crimea%20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ QUETTA: At least 15 people, among them 12 police and a paramilitary official, we
 ### Source:
 
 1. [Samaa](http://www.samaa.tv/pakistan/2016/01/five-killed-in-blast-near-quetta-polio-centre/)
+1. [Cover Image](http://www.samaa.tv/wp-content/uploads/2016/01/Blast-Collage-.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korean leader has not been photographed by state media since appearing at 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/09/kim-jong-un-suffering-from-discomfort-201492611159278936.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/7/14/201471481126212734_20.jpg)
 
 ### Related:
 

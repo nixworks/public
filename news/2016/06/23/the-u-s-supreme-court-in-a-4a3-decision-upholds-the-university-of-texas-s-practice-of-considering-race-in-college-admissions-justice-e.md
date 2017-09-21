@@ -12,6 +12,7 @@ WASHINGTON (AP) — In a narrow victory for affirmative action, the Supreme Cour
 3. [Reuters](http://www.reuters.com/article/us-usa-court-affirmativeaction-idUSKCN0Z91N3)
 4. [The New York Times](http://www.nytimes.com/2016/06/24/us/politics/supreme-court-affirmative-action-university-of-texas.html?_r=0)
 5. [The New York Times](http://www.nytimes.com/2016/06/24/us/supreme-court-immigration-obama-dapa.html?_r=0)
+5. [Cover Image](http://binaryapi.ap.org/a6fcd79d83a64b2a99680977f2bd2501/460x.jpg)
 
 ### Related:
 

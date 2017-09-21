@@ -8,6 +8,7 @@ Israel aircraft bombed a target in Syria on Thursday, an Obama administration of
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/05/04/world/middleeast/syria.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/05/04/world/syria/syria-videoLarge.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The French are voting Sunday for the fourth time in two months and the main outs
 1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-06-18/france-s-election-marathon-ends-with-macron-set-to-win-majority)
 2. [Reuters](http://www.reuters.com/video/2017/06/18/french-socialist-leader-resigns-says-the?videoId=371915418)
 3. [The Local''/AFP](https://www.thelocal.fr/20170618/macron-set-for-landslide-victory-in-elections-hit-by-record-low-turn-out)
+3. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFJA0WdpZxXo/v0/1200x799.jpg)
 
 ### Related:
 

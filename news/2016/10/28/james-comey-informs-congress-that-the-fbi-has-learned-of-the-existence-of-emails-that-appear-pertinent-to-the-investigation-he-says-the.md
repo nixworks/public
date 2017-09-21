@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2016/10/28/politics/fbi-reviewing-new-emails-in-clinton-probe-director-tells-senate-judiciary-committee/)
 2. [Observer](http://observer.com/2016/10/hillary-clinton-demands-fbi-release-newly-discovered-anthony-weiner-emails/)
 3. [The New York Times](http://www.nytimes.com/2016/10/29/us/politics/fbi-hillary-clinton-email.html)
+3. [Cover Image](http://i1.wp.com/nyoobserver.files.wordpress.com/2016/10/gettyimages-614700196.jpg?quality=80&amp;strip&amp;ssl=1)
 
 ### Related:
 

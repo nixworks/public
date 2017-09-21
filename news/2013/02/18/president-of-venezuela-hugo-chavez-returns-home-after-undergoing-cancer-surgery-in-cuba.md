@@ -8,6 +8,7 @@ The predawn homecoming of President Hugo Chávez more than two months after havi
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/19/world/americas/chavez-returns-to-venezuela-after-cancer-surgery-in-cuba.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/02/19/world/americas/19Venez4_cnd/19Venez4_cnd-videoLarge-v2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ TEMPLE HILLS, Md. (AP) — As police worked Saturday to determine why a person o
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/b5e0bf9281e54659b83d2a38dadd6605/2-maryland-firefighters-critical-after-being-shot)
+1. [Cover Image](http://binaryapi.ap.org/0217bd5b5fd34bcd8fb247384f18b87c/460x.jpg)
 
 ### Related:
 

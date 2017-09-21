@@ -8,6 +8,7 @@ Tokyo residents were warned not to give babies tap water because of radiation le
 ### Source:
 
 1. [NZ Stuff](http://www.stuff.co.nz/world/asia/japan-earthquake/4801651/Radiation-in-Tokyo-water-double-limit)
+1. [Cover Image](https://static2.stuff.co.nz/1300867652/630/4802630.jpg)
 
 ### Related:
 

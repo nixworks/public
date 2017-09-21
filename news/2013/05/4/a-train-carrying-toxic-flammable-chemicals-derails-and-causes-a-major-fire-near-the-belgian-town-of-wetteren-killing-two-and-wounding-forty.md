@@ -8,6 +8,7 @@ Two people die and 14 others are injured as a train carrying toxic and flammable
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22415757)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67421000/jpg/_67421735_67421734.jpg)
 
 ### Related:
 

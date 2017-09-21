@@ -11,6 +11,7 @@ At least 20 people were killed in Nigeria on Saturday when a cable fell onto a b
 2. [THISDAY](http://www.thisdayonline.com/nview.php?id=166439)
 3. [The New York Times](http://www.nytimes.com/2010/02/14/world/africa/14nigeria.html)
 4. [The Punch](http://www.punchng.com/Articl.aspx?theartic=Art2010021316415779)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

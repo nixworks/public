@@ -8,6 +8,7 @@ THREE new planets, roughly the size of Earth, have been found in the ‘not too 
 ### Source:
 
 1. [News Limited](http://www.news.com.au/technology/science/nasas-kepler-telescope-confirms-three-new-earth-like-planets/story-fnjwlcze-1227176676895)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/1d96ef5f25fa851ca9d1f7de180adca8)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Marshall Islands parliament elected its youngest President, and only the sec
 ### Source:
 
 1. [Marshall Islands Journal](http://marshallislandsjournal.com/Journal_WP/?p=2825)
+1. [Cover Image](http://marshallislandsjournal.com/Journal_WP/wp-content/uploads/2016/01/2016-pres-casten-nemra.jpg)
 
 ### Related:
 

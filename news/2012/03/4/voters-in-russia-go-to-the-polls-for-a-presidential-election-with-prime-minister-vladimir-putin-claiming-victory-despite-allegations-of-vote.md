@@ -9,6 +9,7 @@
 
 1. [AP via Fox News](http://www.foxnews.com/world/2012/03/04/russians-head-to-polls-in-presidential-elections-expected-to-return-putin-to/)
 2. [Radio Free Europe](http://www.rferl.org/content/article/24503746.html)
+2. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/030512/640/360/0/0/edge_putin_030512.jpg?ve=1)
 
 ### Related:
 

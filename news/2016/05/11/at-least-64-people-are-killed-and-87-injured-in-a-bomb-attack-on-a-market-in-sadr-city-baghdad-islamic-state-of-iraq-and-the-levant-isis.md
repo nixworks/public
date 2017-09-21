@@ -11,6 +11,7 @@ Furious commanders ordered the savage execution after the 45 men retreated from 
 2. [CNN](http://edition.cnn.com/2016/05/11/middleeast/baghdad-market-bombing/)
 3. [Mirror](http://www.mirror.co.uk/news/world-news/isis-bury-45-fighters-alive-7943328)
 4. [NY Times](http://www.nytimes.com/aponline/2016/05/11/world/middleeast/ap-ml-iraq.html?_r=0)
+4. [Cover Image](http://i1.mirror.co.uk/incoming/article7778217.ece/ALTERNATES/s1200/VID-ISIS-savages-have-released-a-new-execution-video-of-spy-with-explosive-necklace.jpg)
 
 ### Related:
 

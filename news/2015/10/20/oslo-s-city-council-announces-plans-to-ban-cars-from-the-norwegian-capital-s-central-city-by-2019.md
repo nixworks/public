@@ -9,6 +9,7 @@ Cars will be banned from central Oslo by 2019 to help reduce pollution, local po
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Environment/Energy/2015/1020/Why-Oslo-is-banning-cars-from-the-city-center)
 2. [Reuters](http://www.reuters.com/article/2015/10/19/us-norway-environment-oslo-idUSKCN0SD1GI20151019)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151019&t=2&i=1088096041&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9I0RQ)
 
 ### Related:
 

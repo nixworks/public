@@ -8,6 +8,7 @@ Mining giant Anglo American will shed about 85,000 jobs as it sells off 60% of i
 ### Source:
 
 1. [CNNMoney](http://money.cnn.com/2015/12/08/news/companies/anglo-american-85000-jobs/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/151208113932-miners-anglo-american-780x439.jpg)
 
 ### Related:
 

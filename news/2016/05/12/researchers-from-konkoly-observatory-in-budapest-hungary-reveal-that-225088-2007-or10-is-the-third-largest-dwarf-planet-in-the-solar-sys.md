@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Gizmodo](http://www.gizmodo.com.au/2016/05/a-huge-unnamed-dwarf-planet-almost-the-size-of-pluto-has-been-hiding-in-our-solar-system/)
+1. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/t_large/ygda7fymiduhlot47kcg.jpg)
 
 ### Related:
 

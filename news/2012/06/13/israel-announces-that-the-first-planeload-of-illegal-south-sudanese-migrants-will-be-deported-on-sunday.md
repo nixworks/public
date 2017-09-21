@@ -9,6 +9,7 @@ The first planeload of deportees will leave on Sunday, after hundreds of illegal
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201261373015669362.html)
 2. [The Times of Israel](http://www.timesofisrael.com/operation-returning-home-heats-up-with-over-100-detentions/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/13/20126138728290734_20.jpg)
 
 ### Related:
 

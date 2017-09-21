@@ -9,6 +9,7 @@ Chile has been rattled by a 6.1 magnitude aftershock, one month after a major ea
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/chile-hit-by-61magnitude-aftershock-20100329-r5zf.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/29/c_13228512.htm)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

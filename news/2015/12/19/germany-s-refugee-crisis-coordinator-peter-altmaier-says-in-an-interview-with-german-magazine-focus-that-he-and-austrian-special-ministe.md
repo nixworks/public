@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-europe-migrants-germany-austria-idUSKBN0U20ID20151219?feedType=RSS&feedName=newsOne&google_editors_picks=true)
 2. [Sputnik News](http://sputniknews.com/europe/20151219/1032029475/berlin-vienna-eu-refugees.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151219&t=2&i=1103567178&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBI0F4)
 
 ### Related:
 

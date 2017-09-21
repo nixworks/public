@@ -10,6 +10,7 @@
 1. [CNN](http://edition.cnn.com/2016/02/28/africa/somalia-violence/)
 2. [Reuters via Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3468219/Islamist-group-kills-8-twin-blasts-Somalia.html)
 3. [Reuters](http://www.reuters.com/article/us-somalia-attacks-idUSKCN0W10QC)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

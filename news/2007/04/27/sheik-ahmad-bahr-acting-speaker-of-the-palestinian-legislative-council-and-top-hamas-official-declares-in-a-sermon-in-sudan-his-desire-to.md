@@ -9,6 +9,7 @@ MEMRI&#039;s archive of Middle East reports includes translations, Special Dispa
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1178020746583&pagename=JPost%2FJPArticle%2FShowFull)
 2. [Memri TV](http://www.memritv.org/Search.asp?ACT=S9&P1=1426)
+2. [Cover Image](http://www.memri.org/pic/mlogo.jpg)
 
 ### Related:
 

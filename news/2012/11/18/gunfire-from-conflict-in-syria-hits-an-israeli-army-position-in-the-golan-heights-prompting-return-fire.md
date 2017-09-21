@@ -9,6 +9,7 @@ Syriaâ€™s information minister accused France, Turkey and Qatar of supporting â€
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2012/11/18/250295.html)
 2. [New York Times](http://www.nytimes.com/2012/11/19/world/middleeast/syria-assails-foreign-support-for-rebels.html?_r=0)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

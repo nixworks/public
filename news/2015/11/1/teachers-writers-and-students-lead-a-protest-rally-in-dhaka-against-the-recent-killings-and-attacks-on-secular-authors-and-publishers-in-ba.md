@@ -8,6 +8,7 @@ DHAKA (AFP) - Protesters rallied in the Bangladesh capital on Sunday (Nov 1) ove
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/south-asia/bangladesh-teachers-students-rally-against-latest-attacks-on-secular-writers-and)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/11/01/mhreligion11115.jpg?itok=bFv18_Yr)
 
 ### Related:
 

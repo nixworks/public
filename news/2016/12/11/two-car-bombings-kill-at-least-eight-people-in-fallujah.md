@@ -8,6 +8,7 @@ Eight people were killed in two car bombings in the Iraqi city of Falluja west o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-falluja-idUSKBN1400WH?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

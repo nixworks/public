@@ -8,6 +8,7 @@ A roadside bomb hit a Pakistani security vehicle and wounded 13 people on Thursd
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKCN10M0G7)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160811&t=2&i=1149220785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7A0E0)
 
 ### Related:
 

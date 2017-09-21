@@ -9,6 +9,7 @@ A Virender Sehwag century steered India to a record World Cup total as debutants
 
 1. [BBC Sports](http://news.bbc.co.uk/sport2/hi/cricket/6464455.stm)
 2. [Reuters](http://www.reuters.com/article/sportsNews/idUSL1966725520070320)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070319&t=2&i=481913&w=&fh=545px&fw=&ll=&pl=&sq=&r=481913)
 
 ### Related:
 

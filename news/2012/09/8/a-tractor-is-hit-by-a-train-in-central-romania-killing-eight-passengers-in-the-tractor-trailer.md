@@ -8,6 +8,7 @@ Eight people were killed and one was severely injured on Saturday in an accident
 ### Source:
 
 1. [Bucharest Herald](http://www.bucharestherald.ro/dailyevents/41-dailyevents/36733--terrible-accident-tractor-full-of-workers-hit-by-train-eight-people-killed)
+1. [Cover Image](http://www.bucharestherald.ro/images/herald/smurd%2000.jpg)
 
 ### Related:
 

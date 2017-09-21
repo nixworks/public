@@ -9,6 +9,7 @@ TAOISEACH BRIAN Cowen was berated by angry residents during a visit to a housing
 
 1. [RTÉ](http://www.rte.ie/news/2009/1126/weather.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/1127/1224259546631.html?via=rel)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

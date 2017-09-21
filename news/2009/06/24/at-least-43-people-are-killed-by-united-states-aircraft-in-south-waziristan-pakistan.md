@@ -10,6 +10,7 @@ At least 30 people have been killed in US missile strikes in the South Wazirista
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8115814.stm)
 2. [France 24](http://www.france24.com/en/20090623-dozens-taliban-fighters-killed-us-drone-attack-pakistan)
 3. [RTÉ](http://www.rte.ie/news/2009/0624/pakistan.html)
+3. [Cover Image](https://img.rasset.ie/00023287-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Egyptian Prime Minister Hazem el-Beblawi has proposed the legal dissolution of t
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23739535)
 2. [Reuters](http://www.reuters.com/article/2013/08/17/us-egypt-protests-brotherhood-status-idUSBRE97G03X20130817)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

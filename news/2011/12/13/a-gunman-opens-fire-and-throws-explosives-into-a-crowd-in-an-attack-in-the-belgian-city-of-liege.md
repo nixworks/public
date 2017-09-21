@@ -9,6 +9,7 @@ A man opens fire in the Belgian city of Liege killing at least five people inclu
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16161746)
 2. [Le Soir](http://www.lesoir.be/regions/liege/2011-12-13/attaque-meurtriere-sur-la-place-saint-lambert-a-liege-live-883451.php)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57298000/jpg/_57298705_57298704.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Martin McGuinness has described racist attacks on a group of Romanian families i
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8104498.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0617/racism.html)
+2. [Cover Image](https://img.rasset.ie/00026025-1600.jpg)
 
 ### Related:
 

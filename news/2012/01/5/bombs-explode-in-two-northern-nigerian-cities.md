@@ -9,6 +9,7 @@ A pastor in north-eastern Nigeria says gunmen have killed six people in an attac
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16436112)
 2. [VOA](http://www.voanews.com/english/news/africa/Bomb-Blasts-Hit-Northern-Nigeria-136726538.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57723000/gif/_57723219_nigeria_gombe_jan2011.gif)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Irom Sharmila, the iconic activist who didn&#039;t eat for 16 years in protest a
 
 1. [Ndtv](http://www.ndtv.com/india-news/irom-sharmila-to-end-epic-fast-after-16-years-next-is-politics-marriage-1441966)
 2. [News18](http://www.news18.com/news/india/irom-sharmila-ends-fast-today-after-16-years-likely-to-join-politics-1279381.html)
+2. [Cover Image](http://i.ndtvimg.com/i/2016-08/irom-sharmila-ends-fast-650_650x400_61470740739.jpg)
 
 ### Related:
 

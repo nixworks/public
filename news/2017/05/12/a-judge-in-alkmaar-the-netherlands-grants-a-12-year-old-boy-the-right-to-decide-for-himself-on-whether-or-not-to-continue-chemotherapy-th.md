@@ -8,6 +8,7 @@ A judge in the Netherlands has ruled that a 12-year-old boy does not have to und
 ### Source:
 
 1. [The Charlotte Observer](http://www.charlotteobserver.com/news/article150120312.html#storylink=cpy)
+1. [Cover Image](http://www.charlotteobserver.com/static/images/charlotteobserver/facebook.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Arrest warrants are out for BNP Chairperson Khaleda Zia and two others in corrup
 ### Source:
 
 1. [BD News](http://bdnews24.com/politics/2015/02/25/arrest-warrants-out-for-khaleda-zia-in-graft-cases)
+1. [Cover Image](http://d30fl32nd2baj9.cloudfront.net/media/2013/03/29/khaleda-zia/ALTERNATES/w640/Khaleda+Zia)
 
 ### Related:
 

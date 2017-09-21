@@ -9,6 +9,7 @@
 
 1. [AFP-Yahoo!](http://story.news.yahoo.com/news?tmpl=story&cid=1504&e=1&u=/afp/20050213/ts_afp/germanywwiihistory_050213115935)
 2. [CBC](http://www.cbc.ca/world/story/2005/02/13/dresden050213.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

@@ -15,6 +15,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 6. [Reuters India](http://in.reuters.com/article/idINTRE64Q27120100527)
 7. [The Daily Telegraph](http://www.telegraph.co.uk/news/7784284/Germany-triumph-with-UK-in-last-place-at-Eurovision-Song-Contest.html)
 8. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5icz-qN7SmQ0VVW-FyYkAz_nLjJvA)
+8. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100527&t=2&i=113812932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-27T131822Z_01_BTRE64Q10YP00_RTROPTP_0_EUROVISION)
 
 ### Related:
 

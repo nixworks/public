@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESA](http://www.esa.int/esaCP/SEMORO5QGEF_index_0.html)
+1. [Cover Image](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2008/04/jules_verne_atv_docking/9782988-4-eng-GB/Jules_Verne_ATV_docking_large.jpg)
 
 ### Related:
 

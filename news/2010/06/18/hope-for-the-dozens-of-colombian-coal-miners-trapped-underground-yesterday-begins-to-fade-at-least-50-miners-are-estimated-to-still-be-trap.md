@@ -9,6 +9,7 @@ Rescuers in Colombia resume work to free dozens of miners trapped underground, b
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10352680.stm)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/18/AR2010061801022.html?hpid=sec-world)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

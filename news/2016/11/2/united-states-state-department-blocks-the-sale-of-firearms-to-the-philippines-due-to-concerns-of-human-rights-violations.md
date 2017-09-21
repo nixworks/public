@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2016/11/02/asia/philippines-us-arms-sale-reaction/index.html?eref=rss_topstories)
 2. [Reuters](http://www.reuters.com/article/us-philippines-usa-rifles-idUSKBN12V2AM)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161101&t=2&i=1159823950&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9U1G0)
 
 ### Related:
 

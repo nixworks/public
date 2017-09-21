@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Americas/2011/0911/Guatemala-election-Rising-crime-positions-Otto-Perez-Molina-for-victory)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2011/09/GUATEMALA_elex.jpg?alias=standard_900x600)
 
 ### Related:
 

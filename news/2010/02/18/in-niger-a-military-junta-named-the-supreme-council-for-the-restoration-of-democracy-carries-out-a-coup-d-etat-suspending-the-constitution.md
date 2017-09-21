@@ -10,6 +10,7 @@ Coup leaders suspend constitution after soldiers storm presidential palace in ca
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/201021812457200576.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8523196.stm)
 3. [Business Day](http://www.businessday.co.za/articles/Content.aspx?id=94164)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

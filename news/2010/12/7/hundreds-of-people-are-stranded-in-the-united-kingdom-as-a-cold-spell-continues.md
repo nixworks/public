@@ -9,6 +9,7 @@ Thousands of children enjoy a day off as heavy falls of fresh snow affect parts 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11933672)
 2. [The Guardian](http://www.guardian.co.uk/uk/blog/2010/dec/07/snow-travel-uk-disruption-live)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel d
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/petrol-and-diesel-cars-banned-from-uk-roads-by-2040-10962075)
+1. [Cover Image](http://e3.365dm.com/17/05/1600x900/50c3987613554fc7aec2dd3161cb36b9c554b4b24fd6af6cd2ec918d387bf673_3945838.jpg?20170505122035)
 
 ### Related:
 

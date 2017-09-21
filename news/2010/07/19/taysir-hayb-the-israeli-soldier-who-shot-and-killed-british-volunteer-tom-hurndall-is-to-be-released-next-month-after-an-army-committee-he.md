@@ -8,6 +8,7 @@ IDF committee cuts sentence of former soldier Taysir Heib who was found guilty o
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-soldier-who-shot-british-peace-activist-to-be-released-from-jail-1.302839)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.302840.1279544073!/image/523471408.jpg_gen/derivatives/headline_1200x630/523471408.jpg)
 
 ### Related:
 

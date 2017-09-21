@@ -8,6 +8,7 @@ The confirmed death toll from the Ebola outbreak has passed 3,000 as the World H
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/ebola-outbreak-death-toll-passes-3000-as-who-warns-numbers-are-vastly-underestimated-9759314.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/09/24/18/ebola.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Largest virus yet discovered hints at viral diversity trapped in permafrost.
 ### Source:
 
 1. [Nature](http://www.nature.com/news/giant-virus-resurrected-from-30-000-year-old-ice-1.14801#/b4)
+1. [Cover Image](http://www.nature.com/polopoly_fs/7.15843.1393867609!/image/1.14801.jpg_gen/derivatives/nature_homepage/1.14801.jpg)

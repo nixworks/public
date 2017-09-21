@@ -11,6 +11,7 @@ Protest organisers asked to appear in court on Tuesday, when they had planned to
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g63tKSgO1Sesjz78FyYx_i2aExWg?docId=b28a34213828493f9d27c3d6001b8f38)
 3. [Deutsche Welle](http://www.dw.de/dw/article/0,,16013573,00.html)
 4. [Reuters](http://www.reuters.com/article/2012/06/11/us-russia-protests-idUSBRE85A07W20120611)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/11/2012611101952942734_20.jpg)
 
 ### Related:
 

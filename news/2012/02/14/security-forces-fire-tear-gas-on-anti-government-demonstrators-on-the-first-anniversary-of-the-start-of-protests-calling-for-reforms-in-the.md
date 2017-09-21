@@ -12,3 +12,4 @@ Security forces fire tear gas as activists attempt to march to landmark Pearl ro
 3. [The Atlantic Wire](http://www.theatlanticwire.com/global/2012/02/anonymous-marks-bahrain-protest-hacking-us-tear-gas-company/48669/)
 4. [The Guardian](http://www.guardian.co.uk/world/2012/feb/14/bahrain-military-equipment-uk?newsfeed=true)
 5. [The Washington Post](http://www.washingtonpost.com/blogs/blogpost/post/anonymous-marks-bahrain-anniversary-by-hacking-us-tear-gas-company/2012/02/14/gIQAilOVDR_blog.html)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/14/20122149339291734_20.jpg)

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-17441347)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52828000/jpg/_52828827_india_beggar_afp.jpg)
 
 ### Related:
 

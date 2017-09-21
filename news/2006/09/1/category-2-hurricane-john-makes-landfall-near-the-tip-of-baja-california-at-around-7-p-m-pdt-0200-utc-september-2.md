@@ -9,6 +9,7 @@
 
 1. [CBS](http://www.cbsnews.com/stories/2006/09/01/storm/main1961769.shtml)
 2. [U.S. National Hurricane Center](http://www.nhc.noaa.gov/archive/2006/dis/ep112006.discus.019.shtml?)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/08/31/d4656955-a642-11e2-a3f0-029118418759/image1957261x.jpg)
 
 ### Related:
 

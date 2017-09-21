@@ -8,6 +8,7 @@ Violent protests erupted in Haiti on Tuesday as losing candidates rejected the p
 ### Source:
 
 1. [CBC](http://www.cbc.ca/beta/news/world/haiti-election-aftermath-1.3873549)
+1. [Cover Image](https://i.cbc.ca/1.3873606.1480461124!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_460/haiti-elections.jpg)
 
 ### Related:
 

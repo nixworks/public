@@ -8,6 +8,7 @@ More than 100 homes are evacuated in Cornwall as heavy rain and gale-force winds
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cornwall-11772262)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
@@ -15,3 +16,5 @@ More than 100 homes are evacuated in Cornwall as heavy rain and gale-force winds
 2. [Torrential rain causes flooding in parts of the United Kingdom, with Cornwall, West Devon, Pembrokeshire and Northern Ireland most affected. ](/news/2011/10/24/torrential-rain-causes-flooding-in-parts-of-the-united-kingdom-with-cornwall-west-devon-pembrokeshire-and-northern-ireland-most-affected.md) _Context: Cornish_
 3. [An art exhibition indicates Adolf Hitler's foreign minister, Joachim von Ribbentrop, planned to retire in Cornwall after the planned German invasion of Britain during World War II. ](/news/2010/10/3/an-art-exhibition-indicates-adolf-hitler-s-foreign-minister-joachim-von-ribbentrop-planned-to-retire-in-cornwall-after-the-planned-german.md) _Context: Cornish_
 4. [ One person is dead, four people are missing, after a fire at the Penhallow Hotel in Newquay, Cornwall. ](/news/2007/08/18/one-person-is-dead-four-people-are-missing-after-a-fire-at-the-penhallow-hotel-in-newquay-cornwall.md) _Context: Cornish_
+5. [ Five crew members of an Irish yacht, who had been adrift in a liferaft for seven days after abandoning their ship, are rescued by helicopter off the Cornwall coast of Britain. The crew members ran out of water on Monday and were running low on food when rescued. ](/news/2004/09/15/five-crew-members-of-an-irish-yacht-who-had-been-adrift-in-a-liferaft-for-seven-days-after-abandoning-their-ship-are-rescued-by-helicopte.md) _Context: Cornish_
+6. [ After 60&nbsp;mm (2.4&nbsp;in) of rain in two hours, severe flash flooding at Boscastle in Cornwall, UK, results in buildings, roads, and over 50 cars swept away. Flood waters race through town at speeds up to 65&nbsp;km/h (40&nbsp;mph). Many have to leave their homes; helicopters airlift 150 people to safety. ](/news/2004/08/16/after-60-nbsp-mm-2-4-nbsp-in-of-rain-in-two-hours-severe-flash-flooding-at-boscastle-in-cornwall-uk-results-in-buildings-roads-and-o.md) _Context: Cornish_

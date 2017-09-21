@@ -8,6 +8,7 @@ BP Plc (BP.L) will face a maximum fine of $13.7 billion under the Clean Water Ac
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/16/us-bp-trial-idUSKBN0KO2N020150116)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150116&t=2&i=1016736924&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0E0YA)
 
 ### Related:
 

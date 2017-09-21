@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Express](http://www.express.co.uk/news/world/710404/Earthquake-Colombia-Medellin-Pablo-Escobar-terremoto-magnitude-South-America)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/674x400/Colombia-Earthquake-710404.jpg)
 
 ### Related:
 

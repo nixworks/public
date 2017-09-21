@@ -10,6 +10,7 @@ A five-year official study of the Allied bombing of Dresden in World War II has 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8574157.stm)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/death-toll-in-dresden-raids-lower-than-thought-20100318-qif6.html)
 3. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/03/official-german-study-concludes-25000-died-in-allied-bombing-of-dresden/1?csp=34)
+3. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2010/03/18/Dresdenx-wide-community.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Government will consider introducing temporary regulations before Transport Cana
 1. [CBC](http://www.cbc.ca/news/canada/windsor/story/2012/02/07/ontario-hampstead-van-truck-crash.html)
 2. [Hamilton Spectator](http://www.thespec.com/news/ontario/article/667564--deadly-crash-echoes-similar-tragedy)
 3. [The Globe and Mail](http://www.theglobeandmail.com/news/national/crash-reopens-debate-on-safety-of-large-vans/article2330425/)
+3. [Cover Image](http://static.theglobeandmail.ca/992/incoming/article935167.ece/ALTERNATES/w620/web3crash-gallery.JPG)
 
 ### Related:
 

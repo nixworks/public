@@ -8,6 +8,7 @@ The agreement comes as upscale American brands grapple with plummeting sales and
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/25/business/dealbook/jimmy-choo-michael-kors.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/26/world/26db-jimmychoo-1/26db-jimmychoo-1-facebookJumbo.jpg)
 
 ### Related:
 

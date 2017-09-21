@@ -8,6 +8,7 @@ More than seven hundred migrants were rescued Sunday morning by members of an NG
 ### Source:
 
 1. [AP via NBC News](http://www.nbcnews.com/slideshow/hundreds-migrants-fleeing-libya-recued-mediterranean-n639051)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_34/1687326/ss-160828-migrant-libya-rescue-05_aa65c95016340862cc29cc49774af825.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

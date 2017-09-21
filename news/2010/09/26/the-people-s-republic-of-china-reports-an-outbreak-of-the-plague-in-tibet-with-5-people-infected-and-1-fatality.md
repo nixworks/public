@@ -8,6 +8,7 @@ China issued a health alert in its southwestern region of Tibet after five peopl
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/plague-breaks-out-in-chinas-tibet-20100926-15s6z.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

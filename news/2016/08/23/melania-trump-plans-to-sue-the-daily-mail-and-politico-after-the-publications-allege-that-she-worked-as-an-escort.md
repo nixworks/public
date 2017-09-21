@@ -8,6 +8,7 @@ Melania Trump, wife of Donald Trump, has threatened to sue The Daily Mail, Polit
 ### Source:
 
 1. [CNN](http://money.cnn.com/2016/08/22/media/melania-trump-threatens-to-sue-news-outlets/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/160720163331-melania-trump-rnc-780x439.jpg)
 
 ### Related:
 

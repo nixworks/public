@@ -8,6 +8,7 @@ Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11149507)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

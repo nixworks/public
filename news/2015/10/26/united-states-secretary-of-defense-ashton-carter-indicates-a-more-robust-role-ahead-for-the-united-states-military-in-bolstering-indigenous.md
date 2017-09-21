@@ -8,6 +8,7 @@ Defense Secretary Ash Carter said Friday the U.S. is likely to step up military 
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/u-s-to-increase-raids-against-islamic-state-1445628004?alg=y&mg=id-wsj)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KX466_CARTER_TOP_20151023153214.jpg)
 
 ### Related:
 

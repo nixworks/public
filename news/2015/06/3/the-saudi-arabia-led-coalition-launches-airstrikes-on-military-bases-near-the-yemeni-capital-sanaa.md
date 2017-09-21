@@ -8,6 +8,7 @@ Saudi-led air strikes killed a group of around 20 Houthi fighters outside the so
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/03/us-yemen-security-strikes-idUSKBN0OJ0J520150603?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150603&t=2&i=1053369377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB520OU)
 
 ### Related:
 

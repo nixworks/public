@@ -9,6 +9,7 @@ Pakistan has stopped the United States from using an air base in the southwest o
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/20116304212789309.html)
 2. [Reuters](http://www.reuters.com/article/2011/06/30/us-pakistan-usa-base-idUSTRE75T0IU20110630)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

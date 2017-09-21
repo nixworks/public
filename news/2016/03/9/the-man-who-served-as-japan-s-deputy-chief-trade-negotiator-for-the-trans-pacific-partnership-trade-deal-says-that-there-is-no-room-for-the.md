@@ -8,6 +8,7 @@ A senior Japanese trade negotiator said on Wednesday that it would be impossible
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-trade-tpp-japan-idUSKCN0WC05J)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

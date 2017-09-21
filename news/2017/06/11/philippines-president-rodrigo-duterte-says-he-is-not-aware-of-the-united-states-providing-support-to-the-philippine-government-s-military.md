@@ -8,6 +8,7 @@ Philippine President Rodrigo Duterte said on Sunday he was not aware the U.S. go
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-philippines-militants-duterte-idUSKBN1920FO)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170611&t=2&i=1188527644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5A0BI)
 
 ### Related:
 

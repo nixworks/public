@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57599816/israel-launches-air-strikes-in-lebanon-in-response-to-rocket-attack/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/08/22/1fdb911c-1c4c-11e3-9918-005056850598/lebanon_militants_AP3278066378.jpg)
 
 ### Related:
 

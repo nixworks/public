@@ -8,6 +8,7 @@ More than 400 migrants and refugees are feared to have drowned in the Mediterran
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/04/18/400-migrants-feared-dead-after-boat-capsizes-in-mediterranean/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/04/18/95255473_Migrants_boat_news-xlarge_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg)
 
 ### Related:
 

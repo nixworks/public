@@ -9,6 +9,7 @@ US soldier Bradley Manning, who is accused of leaking government documents publi
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/04/2011419214725274859.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13138050)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52263000/gif/_52263959_0f7ufvkz.gif)
 
 ### Related:
 

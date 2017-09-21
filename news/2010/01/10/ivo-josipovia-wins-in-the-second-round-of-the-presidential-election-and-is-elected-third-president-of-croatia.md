@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101923176988457.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8450380.stm)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5103452,00.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

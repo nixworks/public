@@ -8,6 +8,7 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-swiss-train-crash/two-swiss-trains-collide-injuring-around-30-people-police-idUSKCN1BM1IH)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

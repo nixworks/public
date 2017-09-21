@@ -8,3 +8,4 @@ Five people died in what appeared to be a pair of domestic-related shootings in 
 ### Source:
 
 1. [Atlanta Journal-Constitution](http://www.ajc.com/news/news/national/5-reported-dead-after-2-shootings-appling-georgia/nq9p4/)
+1. [Cover Image](/rw/PortalConfig/np-free/assets/ajc/images/AJC_200x200.png)

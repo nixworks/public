@@ -11,6 +11,7 @@ Iceland, able to keep its airports open while European airlines were grounded du
 2. [IceNews](http://www.icenews.is/index.php/2010/04/22/volcanic-ash-closes-icelands-keflavik-airport/)
 3. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-47923820100422)
 4. [news.com.au](http://www.news.com.au/breaking-news/iceland-airport-to-shut-due-to-ash/story-e6frfku0-1225857225454)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100422&t=2&i=96129781&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-04-23T034602Z_01_NOOTR_RTRMDNC_0_India-479238-1)
 
 ### Related:
 

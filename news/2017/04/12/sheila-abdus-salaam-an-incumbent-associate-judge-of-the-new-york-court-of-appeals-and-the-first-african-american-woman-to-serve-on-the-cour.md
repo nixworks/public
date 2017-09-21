@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NY1 News](http://www.ny1.com/nyc/all-boroughs/news/2017/04/12/court-of-appeals-judge-found-dead-in-hudson-river.html)
+1. [Cover Image](http://s7d2.scene7.com/is/image/TWCNews/sheila-abdus-salaamjpg?wid=640)
 
 ### Related:
 

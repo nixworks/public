@@ -8,6 +8,7 @@ A new European militarytransport plane, the Airbus EAD.PA A400M, took to the ski
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSGEE5BA0E620091211?type=marketsNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

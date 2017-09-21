@@ -9,6 +9,7 @@ U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agreed o
 
 1. [CNN](http://www.cnn.com/2016/01/27/politics/china-kerry-north-korea/)
 2. [Reuters](http://in.reuters.com/article/china-usa-kerry-idINKCN0V50AZ)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160127&t=2&i=1112684307&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0Q07L)
 
 ### Related:
 

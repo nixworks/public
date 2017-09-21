@@ -10,6 +10,7 @@ Two homemade bombs exploded this morning in the Greek cities of Athens and Salon
 1. [Athens News Agency](http://www.ana-mpa.gr/anaweb/user/showplain?maindoc=7915298&maindocimg=7915119&service=100)
 2. [RTÉ](http://www.rte.ie/news/2009/0902/greece.html)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSTRE5810P620090902)
+3. [Cover Image](https://img.rasset.ie/00028f69-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Rescue workers scrabbled through earth and rubble on Saturday in search of survi
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34431285)
 2. [Reuters](http://www.reuters.com/article/2015/10/03/us-guatemala-mudslide-idUSKCN0RW1Q620151003)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151003&t=2&i=1084289457&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB920BU)
 
 ### Related:
 

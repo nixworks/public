@@ -12,6 +12,7 @@
 3. [RIA Novosti](http://en.rian.ru/world/20091018/156512540.html)
 4. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59H0JT20091018)
 5. [Zee News](http://www.zeenews.com/news571692.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

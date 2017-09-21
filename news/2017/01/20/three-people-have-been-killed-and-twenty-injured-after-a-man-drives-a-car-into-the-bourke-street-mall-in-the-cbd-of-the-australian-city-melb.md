@@ -9,6 +9,7 @@
 
 1. [AAP via Yahoo! Australia](https://au.news.yahoo.com/a/34233875/man-kills-three-injures-20-in-bourke-st/#page1)
 2. [Nine Network](http://www.9news.com.au/National/2017/01/20/13/41/Number-of-pedestrians-injured-in-Melbourne-cbd)
+2. [Cover Image](http://9network-vod-progressive.akamaized.net/media2/664969388001/2017/01/664969388001_5290898494001_5290189690001-vs.jpg)
 
 ### Related:
 

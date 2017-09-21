@@ -8,3 +8,4 @@ Japan&#039;s oldest person, Yone Minagawa, 114, has become the world&#039;s olde
 ### Source:
 
 1. [Weird Asia News](http://www.weirdasianews.com/2007/01/30/japans-yone-minagawa-oldest-person/)
+1. [Cover Image](http://www.weirdasianews.com/wp-content/uploads/2009/03/oldest-women.jpg)

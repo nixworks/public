@@ -8,6 +8,7 @@ The Rim fire continued to spread into Yosemite National Park on Saturday, threat
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-yosemite-fire-san-francisco-power-rim-fire20130823,0,1157539.story)
+1. [Cover Image](http://www.trbimg.com/img-5218b68e/turbine/la-me-ln-yosemite-fire-san-francisco-power-rim-fire20130823)
 
 ### Related:
 

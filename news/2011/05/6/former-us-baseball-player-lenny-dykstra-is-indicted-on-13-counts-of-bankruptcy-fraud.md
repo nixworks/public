@@ -8,6 +8,7 @@ Remember how Lenny Dykstra was arrested for bankruptcy fraud? Yeah, he&#8217;s i
 ### Source:
 
 1. [NBC Sports](http://hardballtalk.nbcsports.com/2011/05/06/lenny-dykstra-indicted-on-thirteen-counts-of-bankruptcy-fraud/)
+1. [Cover Image](https://nbchardballtalk.files.wordpress.com/2011/05/dykstra.jpg)
 
 ### Related:
 

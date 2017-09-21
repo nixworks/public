@@ -9,6 +9,7 @@ U.S. spy planes flew reconnaissance flights over Lebanon from a British air base
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/201012382135306499.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6B229R20101203)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

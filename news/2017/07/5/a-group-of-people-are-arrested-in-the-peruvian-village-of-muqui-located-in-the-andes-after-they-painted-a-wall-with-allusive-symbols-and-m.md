@@ -9,6 +9,7 @@
 
 1. [Diario Correo](http://diariocorreo.pe/edicion/huancayo/confirman-que-detenidos-por-pintas-de-sl-son-estudiantes-760127/)
 2. [La República](http://larepublica.pe/sociedad/892525-junin-detienen-estudiantes-que-realizaban-pintas-subversivas-para-filmar-un-cortometraje)
+2. [Cover Image](http://cdne.diariocorreo.pe/thumbs/uploads/img/2017/07/05/confirman-que-detenidos-por-jpg_600x315.jpg)
 
 ### Related:
 

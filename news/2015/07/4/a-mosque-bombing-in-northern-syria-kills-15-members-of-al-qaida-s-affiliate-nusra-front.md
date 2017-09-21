@@ -11,6 +11,7 @@
 2. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/07/04/Syrian-army-and-Hezbollah-launch-major-assault-on-border-city-.html)
 3. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/07/04/ISIS-teens-execute-25-soldiers-in-Syria-s-Palmyra-.html)
 4. [Fox News via Associated Press](http://www.foxnews.com/world/2015/07/04/mosque-bombing-in-northern-syria-kills-15-members-al-qaida-affiliate/)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/7/4/5006b7e7dc50424182bc0942e1458765_18.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 pe
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2017-08-20/train-derails-in-india-at-least-20-killed/8824086)
 2. [Reuters](https://in.reuters.com/article/india-train-derailment-idINKCN1AZ0G2?il=0)
+2. [Cover Image](https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The C.I.A. destroyed videotapes in 2005 amid scrutiny about its secret detention
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2007/12/06/washington/06cnd-intel.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

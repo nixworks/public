@@ -9,6 +9,7 @@ The South&#39;s sanctions came after Pyongyang threatened to launch nuclear stri
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2016/03/08/south-korea-unilateral-sanctions/81468684/)
 2. [The Washington Post](https://www.washingtonpost.com/world/south-korea-imposes-new-sanctions-on-north-tells-pyongyang-it-must-change/2016/03/08/15b0d29e-490a-4697-9742-3c81dde5eb5f_story.html)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least 17 people including women and children are killed by a roadside bomb in
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23242444)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-23244404)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68634000/gif/_68634325_afghan_herat_1111.gif)
 
 ### Related:
 

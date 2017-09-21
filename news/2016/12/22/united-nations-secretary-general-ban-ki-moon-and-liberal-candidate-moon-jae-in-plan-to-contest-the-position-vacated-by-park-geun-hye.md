@@ -9,6 +9,7 @@ North Korea mocks outgoing United Nations Secretary-General Ban Ki-moon over his
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2016-12-23/north-korea-ridicules-un-chiefs-presidential-ambitions/8145874)
 2. [Reuters](http://www.reuters.com/article/us-southkorea-politics-moon-idUSKBN14B2I0)
+2. [Cover Image](http://www.abc.net.au/news/image/7131776-1x1-700x700.jpg)
 
 ### Related:
 

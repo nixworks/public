@@ -8,6 +8,7 @@ Another body has been found after an explosion and fire ripped through at a Mary
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-maryland-blast-idUSKCN10O0XC)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160813&t=2&i=1149564585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7C0Q8)
 
 ### Related:
 

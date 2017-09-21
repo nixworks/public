@@ -8,6 +8,7 @@ Foxconn Technology Group Chairman Terry Gou finally clinched a deal to buy Sharp
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-30/foxconn-group-says-taking-control-of-sharp-in-reduced-buyout)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwJOAf22CudI/v0/1200x800.jpg)
 
 ### Related:
 

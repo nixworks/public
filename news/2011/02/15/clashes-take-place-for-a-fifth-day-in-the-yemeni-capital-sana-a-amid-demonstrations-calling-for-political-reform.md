@@ -8,6 +8,7 @@ Regime loyalists and plainclothes policemen attack protesters, mainly students, 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011215101053354193.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/15/201121513527688738_20.jpg)
 
 ### Related:
 

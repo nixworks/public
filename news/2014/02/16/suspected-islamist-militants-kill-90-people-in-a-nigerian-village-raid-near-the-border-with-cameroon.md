@@ -8,6 +8,7 @@ Suspected Islamistfighters killed at least 90 people in an attack on a village i
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/02/16/nigeria-violence-idUKL6N0LL0VU20140216)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

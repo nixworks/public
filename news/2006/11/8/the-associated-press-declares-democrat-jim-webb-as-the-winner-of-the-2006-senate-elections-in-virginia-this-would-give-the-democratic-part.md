@@ -13,6 +13,7 @@ Democrat Amy Klobuchar sailed to an easy victory in the U.S. Senate race Tuesday
 4. [CNN](http://edition.cnn.com/2006/POLITICS/11/08/election.main/index.html)
 5. [Minnesota Public Radio](http://minnesota.publicradio.org/display/web/2006/11/07/kloken)
 6. [Yahoo](http://news.yahoo.com/s/ap/20061109/ap_on_el_se/democrats_senate)
+6. [Cover Image](https://img.apmcdn.org/6a496e7bb373539b65f34d74426fc93a1a532458/uncropped/fe4cfa-20061108-klobuchar.jpg)
 
 ### Related:
 

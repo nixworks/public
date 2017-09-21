@@ -8,6 +8,7 @@ A British student facing trial and possible imprisonment in the United States st
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-south-yorkshire-20525891)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57867000/jpg/_57867325_richard_odwyer_bbc.jpg)
 
 ### Related:
 

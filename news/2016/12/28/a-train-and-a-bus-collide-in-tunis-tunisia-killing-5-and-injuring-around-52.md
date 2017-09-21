@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Nessma](https://www.nessma.tv/fr/article/accident-de-djebel-jelloud-5-morts-et-52-blesses-2541)
+1. [Cover Image](https://www.nessma.tv/fr/assets/news/750_375/d265e24652b63d62633c06e0fa7bd85a44.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla ar
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10741416)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Middle%20East&set_id=1&click_id=123&art_id=nw20100723130656370C971609)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0724/1224275392789.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

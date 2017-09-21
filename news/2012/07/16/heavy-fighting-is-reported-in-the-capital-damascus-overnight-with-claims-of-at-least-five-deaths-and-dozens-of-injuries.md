@@ -9,6 +9,7 @@ Syrian troops backed by armoured vehicles today entered the district of Midan in
 
 1. [CBS](http://www.cbsnews.com/8301-501714_162-57472715/russia-accuses-west-of-blackmail-on-syria-plans/)
 2. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0716/breaking5.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

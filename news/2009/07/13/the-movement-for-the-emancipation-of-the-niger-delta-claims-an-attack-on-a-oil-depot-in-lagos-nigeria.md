@@ -9,6 +9,7 @@ By Emma Amaize LAGOSÂ -Â MOVEMENT for the Emancipation of the Niger-Delta (MEN
 
 1. [Forbes](http://www.forbes.com/feeds/ap/2009/07/13/ap6646760.html)
 2. [Vanguard](http://www.vanguardngr.com/2009/07/13/militants-storm-lagos-set-ablaze-atlas-cove-jetty/)
+2. [Cover Image](http://d19lga30codh7.cloudfront.net/wp-content/uploads/2009/06/militant2.jpg)
 
 ### Related:
 

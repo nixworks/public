@@ -1,7 +1,7 @@
 ## [2004-05-13](/news/2004/05/13/index.md)
 
 ### [ Scaled Composites sets a new civilian altitude record of 60 kilometres in a craft called SpaceShipOne during a test flight above California's Mojave Desert in preparation for the X-Prize. ](/news/2004/05/13/scaled-composites-sets-a-new-civilian-altitude-record-of-60-kilometres-in-a-craft-called-spaceshipone-during-a-test-flight-above-california.md)
-_Context: California, Mojave Desert, Scaled Composites, SpaceShipOne, X-Prize, kilometre_
+_Context: Ansari X Prize, California, Mojave Desert, Scaled Composites, SpaceShipOne, kilometre_
 
 ### [ Abu Ghraib prisoner abuse: Some members of the British government begin to distance themselves from the Bush administration and Prime Minister Tony Blair. Peter Hain, Leader of the House of Commons, tells Parliament that the pictures are "appalling and possibly in breach of the Geneva Convention". ](/news/2004/05/13/abu-ghraib-prisoner-abuse-some-members-of-the-british-government-begin-to-distance-themselves-from-the-bush-administration-and-prime-minis.md)
 _Context: Abu Ghraib prisoner abuse, Geneva Convention, George W. Bush, Leader of the House of Commons, Peter Hain, Prime Minister, Tony Blair_

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-argentina-fernandez-idUSKCN0Y42L2?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160514&t=2&i=1137217157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4D001)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/29/uk-korea-north-kumgang-idUSLNE76S01820110729)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110729&t=2&i=468543141&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-29T100349Z_01_ALNE76S0RYE00_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

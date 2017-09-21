@@ -8,6 +8,7 @@ Qassam hits car near southern town&#39;s commercial center, killing Shirel Feldm
 ### Source:
 
 1. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3403094,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

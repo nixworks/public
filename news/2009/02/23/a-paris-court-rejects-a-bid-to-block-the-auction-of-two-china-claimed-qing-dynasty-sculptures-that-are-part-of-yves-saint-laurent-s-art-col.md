@@ -8,6 +8,7 @@ A Paris court rejected a bid to block the sale of two bronze sculptures claimed 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/artsNews/idUSTRE51M69520090223)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

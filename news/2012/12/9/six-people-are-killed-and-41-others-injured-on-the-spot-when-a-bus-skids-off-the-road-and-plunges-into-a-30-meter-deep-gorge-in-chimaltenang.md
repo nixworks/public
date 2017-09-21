@@ -9,6 +9,7 @@
 
 1. [EFE via ''El Tiempo](http://eltiempo.com.ve/mundo/accidente/al-menos-seis-personas-murieron-hoy-y-otras-veinte-resultaron-heridas-en-un-accidente-de-un-autobus-de-pasajeros-en-el-oeste-de-guatemala/73148)
 2. [PrensaLibre](http://www.prensalibre.com/chimaltenango/Accidente-autobus-deja-muertos-heridos_0_825517571.html)
+2. [Cover Image](http://d3ustg7s7bf7i9.cloudfront.net/mmediafiles/pl/5b/5b121f3c-0c90-4443-898c-af75dff27aaf_1024_512.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A US military analyst is arrested on suspicion of leaking combat video and thous
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10254072.stm)
 2. [Wired](http://www.wired.com/threatlevel/2010/06/leak/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

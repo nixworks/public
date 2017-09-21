@@ -8,6 +8,7 @@ Lawyers for the Lockerbie bomber say he is abandoning his second appeal against 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32414949/ns/world_news-terrorism/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/ap/ad0d69ef-d306-4040-b2c7-f58b09e00707.standard.jpg)
 
 ### Related:
 

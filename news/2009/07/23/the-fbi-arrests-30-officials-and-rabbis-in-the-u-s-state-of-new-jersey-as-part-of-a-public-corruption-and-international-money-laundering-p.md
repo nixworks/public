@@ -8,6 +8,7 @@ Arrests include Assemblyman Daniel Van Pelt, Hoboken Mayor Peter Cammarano, Seca
 ### Source:
 
 1. [Newark Star-Ledger](http://www.nj.com/news/index.ssf/2009/07/nj_officials_ny_rabbis_caught.html)
+1. [Cover Image](//static.advance.net/static/njo/static/img/logos/logo_fb.jpg)
 
 ### Related:
 

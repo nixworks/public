@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-nepal-politics-idUSKCN1040M0?il=0)
 2. [The Hindu](http://www.thehindu.com/news/international/nepal-prime-minister-oli-resigns-ahead-of-notrust-vote/article8894064.ece)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160724&t=2&i=1146836496&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6N0EQ)
 
 ### Related:
 

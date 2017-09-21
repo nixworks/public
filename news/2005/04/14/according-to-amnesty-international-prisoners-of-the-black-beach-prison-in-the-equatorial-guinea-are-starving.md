@@ -10,6 +10,7 @@ The Latest International Human Rights News, Information, and Reports
 1. [Amnesty International USA](http://www.amnestyusa.org/news/document.do?id=80256DD400782B8480256FE1003B7665)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4442867.stm)
 3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp?type=topNews&localeKey=en_ZA&storyID=8168769)
+3. [Cover Image](http://www.amnestyusa.org/sites/default/files/news_0.jpg)
 
 ### Related:
 

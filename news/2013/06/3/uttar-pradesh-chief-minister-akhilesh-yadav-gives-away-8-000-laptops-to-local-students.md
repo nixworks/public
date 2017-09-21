@@ -8,6 +8,7 @@ In a function here on Monday, UP chief minister Akhilesh Yadav distributed lapto
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/noida/Akhileshs-laptop-bonanza-for-8000-students/articleshow/20419535.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

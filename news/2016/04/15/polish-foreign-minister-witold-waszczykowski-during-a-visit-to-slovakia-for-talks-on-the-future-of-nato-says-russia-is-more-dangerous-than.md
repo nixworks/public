@@ -8,6 +8,7 @@ Witold Waszczykowski describes Russian activity as an ‘existential threat to E
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/15/russia-more-dangerous-isis-polish-foreign-minister-witold-waszczykowski)
+1. [Cover Image](https://i.guim.co.uk/img/media/9b6f808722b59502fea1d88b6001e08befe6d016/750_652_1938_1163/1938.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2f1798c36ce924721895c00cb0d5cde7)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Syrian forces retake the largest rebel-held district in eastern Aleppo, with civ
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/syrian-army-captures-key-east-aleppo-district)
 2. [BBC](http://www.bbc.com/news/world-middle-east-38120009)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/DB17/production/_92678065_5f5105ba-0e86-49e4-8139-565599fd922c.jpg)
 
 ### Related:
 

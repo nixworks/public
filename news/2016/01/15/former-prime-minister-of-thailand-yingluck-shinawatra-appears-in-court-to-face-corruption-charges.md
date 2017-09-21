@@ -8,6 +8,7 @@ THAILAND-POLITICS/RICE (PIX, TV):Ousted Thai PM Yingluck in court for corruption
 ### Source:
 
 1. [Reuters via Trust](http://news.trust.org/item/20160115035300-wbyt0)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/13e86059-c49a-40a6-a813-92f77032203b/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

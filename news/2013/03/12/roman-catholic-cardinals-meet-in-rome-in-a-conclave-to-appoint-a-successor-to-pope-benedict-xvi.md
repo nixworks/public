@@ -11,6 +11,7 @@ Black smoke has risen from the Vatican&#39;s Sistine Chapel, signalling that Rom
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21764446)
 3. [Reuters via News24](http://www.news24.com/news24/World/News/Black-smoke-signals-no-pope-chosen-20130312)
 4. [Vatican Radio](http://www.news.va/en/news/conclave-to-begin-tuesday-march-12th)
+4. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2339/7073288070d343bf96d6027b5e958435.jpg)
 
 ### Related:
 

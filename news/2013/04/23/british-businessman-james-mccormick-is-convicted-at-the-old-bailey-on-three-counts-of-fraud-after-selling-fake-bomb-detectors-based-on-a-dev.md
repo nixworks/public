@@ -8,6 +8,7 @@ A millionaire businessman who sold fake bomb detectors to countries including Ir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22266051)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67193000/jpg/_67193602_738d22fe-5f26-46b5-bc3d-f18d64a3d209.jpg)
 
 ### Related:
 

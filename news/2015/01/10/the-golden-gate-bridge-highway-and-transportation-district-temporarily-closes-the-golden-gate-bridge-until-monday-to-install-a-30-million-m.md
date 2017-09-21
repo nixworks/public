@@ -8,6 +8,7 @@ The Golden Gate Bridge was closed to traffic over the weekend as crews installed
 ### Source:
 
 1. [SF Gate](http://www.sfgate.com/bayarea/article/Golden-Gate-Bridge-closed-but-traffic-keeps-6006858.php)
+1. [Cover Image](http://ww1.hdnux.com/photos/34/10/31/7374444/21/rawImage.jpg)
 
 ### Related:
 

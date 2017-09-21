@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Japan Today](http://www.japantoday.com/category/national/view/japan-to-dig-site-linked-to-wwii-human-experiments)
+1. [Cover Image](https://www.japantoday.com/img/jt_logo_fb.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Duchess of Cambridge leaves hospital after treatment for severe morning sick
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20626495)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64604000/jpg/_64604658_016678705.jpg)
 
 ### Related:
 

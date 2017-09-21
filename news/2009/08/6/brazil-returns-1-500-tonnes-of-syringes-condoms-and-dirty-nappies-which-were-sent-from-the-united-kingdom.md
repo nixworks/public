@@ -8,6 +8,7 @@ Brazil announced it was returning 1.500 tonnes of hazardous waste that arrived f
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/06/hazardous-waste-illegally-sent-to-brazil-returned-to-uk)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19728/200x200/915a8e3121fdb8d56b151072c46efb28.jpg)
 
 ### Related:
 

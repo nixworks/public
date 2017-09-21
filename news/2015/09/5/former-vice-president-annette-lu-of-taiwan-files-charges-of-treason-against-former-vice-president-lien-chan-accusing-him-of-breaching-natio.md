@@ -8,6 +8,7 @@ Former vice president Annette Lu (呂秀蓮) and a lawmaker yesterday filed sepa
 ### Source:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2015/09/05/2003626969)
+1. [Cover Image](http://www.taipeitimes.com/images/2015/09/05/thumbs/p01-150905-lu2.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Former&#x20;IMF&#x20;chief&#x20;Dominique&#x20;Strauss-Kahn&#x20;was&#x20;releas
 1. [France 24](http://www.france24.com/en/20110701-strauss-kahn-released-house-arrest-amid-doubts-about-accuser)
 2. [Reuters via ''Montreal Gazette](http://www.montrealgazette.com/news/Strauss+Kahn+dines+York+after+release/5037332/story.html)
 3. [The New York Times](http://www.nytimes.com/2011/07/01/nyregion/strauss-kahn-case-seen-as-in-jeopardy.html/?_r=1&smid=tw-nytimes)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/dsk-night.jpg)
 
 ### Related:
 

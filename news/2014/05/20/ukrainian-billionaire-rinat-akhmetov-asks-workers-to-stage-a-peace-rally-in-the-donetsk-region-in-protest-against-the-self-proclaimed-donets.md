@@ -9,6 +9,7 @@ Ukrainian businessman Rinat Akhmetov has called for workers of all enterprises i
 
 1. [Interfax](http://en.interfax.com.ua/news/general/205526.html)
 2. [The Moscow Times](http://www.themoscowtimes.com/news/article/akhmetov-asks-donetsk-workforce-to-protest-against-separatists/500480.html)
+2. [Cover Image](http://images.interfax.com.ua/img/1312_102506.jpg)
 
 ### Related:
 

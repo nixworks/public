@@ -8,6 +8,7 @@ Gunmen assassinate Tunisian opposition leader Mohamed Brahmi, sparking protests 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23452979)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68950000/jpg/_68950730_hi018759644.jpg)
 
 ### Related:
 

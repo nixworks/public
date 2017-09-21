@@ -8,6 +8,7 @@ Venezuelans have been voting to choose a successor to late President Hugo Chavez
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22141786)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67000000/jpg/_67000150_67000149.jpg)
 
 ### Related:
 

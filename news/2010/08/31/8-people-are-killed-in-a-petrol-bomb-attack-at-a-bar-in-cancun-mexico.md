@@ -9,6 +9,7 @@ Six women and two men have been killed in an attack on a bar in the Mexican reso
 
 1. [APA](http://en.apa.az/news.php?id=128890)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11142183)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

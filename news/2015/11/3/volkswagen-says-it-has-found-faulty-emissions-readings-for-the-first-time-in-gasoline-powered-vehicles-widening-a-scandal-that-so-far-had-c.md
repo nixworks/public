@@ -9,6 +9,7 @@ Volkswagen AG said it found faulty emissions readings for the first time in gaso
 
 1. [BizNews](https://www.biznews.com/motoring/2015/11/04/vw-woes-continue-as-spotlight-turns-to-petrol-powered-vehicles/)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-03/volkswagen-emissions-woes-deepen-as-800-000-more-cars-affected)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwIyJekxDs5k/v1/1200x801.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel
 
 1. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-april-2)
 2. [MSNBC](http://www.msnbc.msn.com/id/42388589/ns/world_news-mideast/n_africa/)
+2. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Video/110402/nn_engel_libya_110402.standard.jpg)
 
 ### Related:
 

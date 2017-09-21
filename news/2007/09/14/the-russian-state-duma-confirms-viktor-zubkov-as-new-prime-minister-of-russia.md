@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Interfax](http://www.interfax.ru/r/B/themeday1/16.html?id_issue=11858086)
+1. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)
 
 ### Related:
 

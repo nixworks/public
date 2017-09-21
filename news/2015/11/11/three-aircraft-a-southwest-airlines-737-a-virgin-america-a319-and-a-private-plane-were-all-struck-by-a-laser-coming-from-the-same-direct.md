@@ -8,6 +8,7 @@ Three airplanes were hit by a laser coming from the same direction as they were 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2015/11/12/3-airplanes-hit-by-laser-heading-toward-dallas-airport-faa-says/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

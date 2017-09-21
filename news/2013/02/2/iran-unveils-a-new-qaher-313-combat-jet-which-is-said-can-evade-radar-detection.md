@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/02/02/ahmadinejad-unveils-iran-newest-fighter-jet-dominant-described-as-evading/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/020213/0/0/020213_ff_jet_640.jpg?ve=1)
 
 ### Related:
 

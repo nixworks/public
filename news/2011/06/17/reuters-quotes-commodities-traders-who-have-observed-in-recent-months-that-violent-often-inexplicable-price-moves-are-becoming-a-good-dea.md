@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2011/06/17/idINIndia-57749720110617)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110617&t=2&i=440729255&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-06-17T105636Z_01_NOOTR_RTRMDNC_0_India-577497-1)
 
 ### Related:
 

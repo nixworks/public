@@ -8,6 +8,7 @@ Demonstrations involving around 1000 people in the capital are halted by securit
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/20101227204853391930.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/3/201113131644799876_20.jpg)
 
 ### Related:
 

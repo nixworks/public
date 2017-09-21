@@ -9,6 +9,7 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201172205557387368.html)
 2. [BBC](http://www.bbc.co.uk/news/business-14003788)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53823000/jpg/_53823575_53823574.jpg)
 
 ### Related:
 

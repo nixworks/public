@@ -11,6 +11,7 @@ Embattled Japanese Prime MinisterNaoto Kan, at risk of losing a no-confidence vo
 2. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-06-01/yen-declines-before-prime-minister-kan-faces-no-confidence-vote.html)
 3. [Kyodo News](http://english.kyodonews.jp/news/2011/06/94787.html)
 4. [Reuters](http://www.reuters.com/article/2011/06/02/japan-politics-kan-idUST9E7FH00F20110602)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

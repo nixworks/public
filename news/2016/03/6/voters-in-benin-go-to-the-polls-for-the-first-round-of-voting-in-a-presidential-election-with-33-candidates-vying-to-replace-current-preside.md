@@ -8,6 +8,7 @@ Voters in Benin went to the polls on Sunday in an election with a record number 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-06/record-number-of-hopefuls-seek-benin-presidency-in-election)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

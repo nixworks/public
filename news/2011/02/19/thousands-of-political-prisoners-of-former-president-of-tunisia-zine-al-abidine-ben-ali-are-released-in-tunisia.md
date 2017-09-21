@@ -8,6 +8,7 @@ An&#x20;amnesty&#x20;for&#x20;political&#x20;prisoners&#x20;held&#x20;under&#x20
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20110219-thousands-political-prisoners-held-under-ben-ali-released-under-general-amnesty-tunisia)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Tunisia-Prisoners.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/polling-booths-open-controversial-burundi-elections-150629043001015.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/29/a47ec54dc4c2406dac8b20678e8afac1_18.jpg)
 
 ### Related:
 

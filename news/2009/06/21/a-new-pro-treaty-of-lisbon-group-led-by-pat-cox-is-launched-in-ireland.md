@@ -8,6 +8,7 @@ The Taoiseach has said a Yes vote on Lisbon would provide Ireland with a better 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0621/eulisbon.html)
+1. [Cover Image](https://img.rasset.ie/0002625c-1600.jpg)
 
 ### Related:
 

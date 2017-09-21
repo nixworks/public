@@ -8,6 +8,7 @@ Dismissals come hours after first phone call between presidents Trump and Erdoğ
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/08/turkey-dismisses-4400-public-servants-erdogan-trump-phone-call)
+1. [Cover Image](https://i.guim.co.uk/img/media/904eb9fd39b0105e2ceb35e959d9ba47e126e8f9/0_153_3213_1928/master/3213.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9beaf8444fca0fa18b99874d4f8e4f1a)
 
 ### Related:
 

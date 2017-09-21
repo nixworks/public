@@ -8,6 +8,7 @@ Former first lady known for her love of shoes also had collection of jewellery t
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/nov/24/philippines-revalues-jewellery-seized-from-imelda-marcos-in-1986)
+1. [Cover Image](https://i.guim.co.uk/img/media/c0d5fa3726fee1181d9b086b16a696abc72cd07c/291_109_2405_1442/master/2405.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b2faae9429979e5810617259b8d240ad)
 
 ### Related:
 

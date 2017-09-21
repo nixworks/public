@@ -15,6 +15,7 @@ French prosecutors said on Saturday that three coordinated teams of gunmen and s
 6. [Reuters](http://www.reuters.com/article/2015/11/14/us-france-shooting-idUSKCN0T22IU20151114?feedType=RSS&feedName=topNews)
 7. [The Guardian](http://www.theguardian.com/world/live/2015/nov/13/shootings-reported-in-eastern-paris-live#block-56469c90e4b0ced428cb2822)
 8. [The Jerusalem Post](http://www.jpost.com/International/ISIS-claims-responsibility-for-Paris-terror-attacks-433023)
+8. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151114&t=2&i=1094922816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAD0LQ)
 
 ### Related:
 

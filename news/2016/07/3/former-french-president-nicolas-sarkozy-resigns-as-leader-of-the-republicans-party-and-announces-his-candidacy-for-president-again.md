@@ -8,6 +8,7 @@ Leader of conservative Les Republicains party announces he will step down as its
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/03/nicolas-sarkozy-confirms-return-bid-for-french-presidency)
+1. [Cover Image](https://i.guim.co.uk/img/media/2994883acf82fa36789e9843e4f2e4fb82f37719/0_0_5995_3596/5995.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2374af44feed3b03d61cea02a0aa7194)
 
 ### Related:
 

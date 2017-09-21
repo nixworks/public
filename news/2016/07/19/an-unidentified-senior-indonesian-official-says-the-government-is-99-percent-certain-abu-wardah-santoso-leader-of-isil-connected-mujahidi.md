@@ -8,6 +8,7 @@ Indonesia is &quot;99 percent&quot; sure its most-wanted militant, a supporter o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-indonesia-security-idUSKCN0ZZ0L2)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160719&t=2&i=1146098483&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6I0E5)
 
 ### Related:
 

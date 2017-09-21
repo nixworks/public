@@ -9,6 +9,7 @@ Scientists at the Large Hadron Collider have announced the discovery of a new pa
 
 1. [ABC News](http://abcnews.go.com/Technology/large-hadron-collider-discovers-long-elusive-pentaquark-particle/story?id=32448944)
 2. [BBC](http://www.bbc.com/news/science-environment-33517492)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/C8C3/production/_84259315_84259311.jpg)
 
 ### Related:
 

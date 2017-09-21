@@ -8,6 +8,7 @@ The four members of British indie band Viola Beach and their manager die in a ca
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-35572838)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/002E/production/_88264000_violabeach.jpg)
 
 ### Related:
 

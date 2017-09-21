@@ -8,6 +8,7 @@ A suicide bomber kills at least 10 people, a number of them children, at a check
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18130207)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60349000/gif/_60349027_afghan_khost_0512.gif)
 
 ### Related:
 

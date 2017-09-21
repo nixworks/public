@@ -8,6 +8,7 @@ Gunmen in Guatemala kill the mayor of the town of Jutiapa as President Otto Pere
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21021581)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65278000/jpg/_65278923_65278922.jpg)
 
 ### Related:
 

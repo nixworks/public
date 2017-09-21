@@ -9,6 +9,7 @@
 
 1. [Melbourne Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,25663485-661,00.html)
 2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10579682)
+2. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

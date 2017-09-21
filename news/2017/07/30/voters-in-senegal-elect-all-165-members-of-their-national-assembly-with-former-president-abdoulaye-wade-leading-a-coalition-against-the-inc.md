@@ -8,6 +8,7 @@ The Senegalese legislative elections take place on Sunday, with President Macky 
 ### Source:
 
 1. [DW](http://www.dw.com/en/three-way-rivalry-intensifies-before-elections-in-senegal/a-39886174)
+1. [Cover Image](http://www.dw.com/image/39636899_304.jpg)
 
 ### Related:
 

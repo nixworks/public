@@ -8,6 +8,7 @@ A family has been left heartbroken after flames tore through a McKeesport home S
 ### Source:
 
 1. [WPXI](http://www.wpxi.com/news/news/local/1-hospitalized-after-mckeesport-house-fire/nhmfF/)
+1. [Cover Image](http://mediaweb.wpxi.com/photo/2014/10/20/RebeccaFireAdults_888150_ver1.0_640_360.jpg)
 
 ### Related:
 

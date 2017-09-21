@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012155591148466.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11997212)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

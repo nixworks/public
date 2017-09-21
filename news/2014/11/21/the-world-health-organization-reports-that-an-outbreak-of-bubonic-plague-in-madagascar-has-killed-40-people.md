@@ -8,6 +8,7 @@ An outbreak of plague in Madagascar has killed 40 people and infected dozens of 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30152979)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/79193000/jpg/_79193108_79189411.jpg)
 
 ### Related:
 

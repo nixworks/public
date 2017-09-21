@@ -8,6 +8,7 @@ Two bomb explosions strike Gikomba market area of the Kenyan capital Nairobi, ki
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-27443474)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74911000/jpg/_74911686_022284346-1.jpg)
 
 ### Related:
 

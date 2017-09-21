@@ -8,6 +8,7 @@ At least 12 people died when gunmen swooped on a row of goldsmiths&#039; shops i
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2010/10/18/3040630.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

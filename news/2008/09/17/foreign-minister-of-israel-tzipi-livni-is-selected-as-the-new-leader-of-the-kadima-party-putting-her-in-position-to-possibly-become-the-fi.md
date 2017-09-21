@@ -8,6 +8,7 @@ Ilan and Ari Rabinovitch
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSLH62065120080917)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080917&t=2&i=6039679&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-17T214356Z_01_LH620651_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

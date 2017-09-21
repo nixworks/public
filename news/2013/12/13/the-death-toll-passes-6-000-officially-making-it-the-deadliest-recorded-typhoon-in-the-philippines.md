@@ -8,6 +8,7 @@ The death toll from Typhoon Haiyan that struck the central Philippines on Nov. 8
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/12/13/typhoon-haiyan-deaths-in-philippines-passes-6000/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/12/13/typhoon-haiyan-deaths-in-philippines-passes-6000/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422704160761.jpg?ve=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ South African government negotiators have improved their pay offer to civil serv
 1. [AllAfrica.com](http://allafrica.com/stories/201008310211.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11136354)
 3. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/31/south.africa.strike/#fbid=Dxrzb6Q-4_O&wom=false)
+3. [Cover Image](http://allafrica.com/download/pic/main/main/csiid/00111551:1d534c4e0d91822ef3e91cc947940c41:arc614x376:w1200.png)
 
 ### Related:
 

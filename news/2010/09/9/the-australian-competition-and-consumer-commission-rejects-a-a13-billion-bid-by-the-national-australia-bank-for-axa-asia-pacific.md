@@ -8,6 +8,7 @@ NAB’s $13b bid for AXA Asia Pacific has been knocked back for a second time by
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/accc-rejects-nabs-axa-bid-20100909-151tr.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/1/q/7/7/image.related.thumbnail.320x214.151tr.png/1284013829217.jpg)
 
 ### Related:
 

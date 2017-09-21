@@ -10,6 +10,7 @@ There are concerns about whether the forces that have driven the market rally â€
 1. [AP via ''New Jersey Herald](http://www.njherald.com/story/21494148/asia-stocks-rise-as-china-announces-budget)
 2. [The New York Times](http://www.nytimes.com/2013/03/06/business/daily-stock-market-activity.html)
 3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324156204578275560657416332.html)
+3. [Cover Image](https://static01.nyt.com/images/2013/03/05/business/video-tc-130305-dowjones/video-tc-130305-dowjones-videoLarge.jpg)
 
 ### Related:
 

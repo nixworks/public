@@ -11,6 +11,7 @@ The sharemarket took investors on another roller-coaster ride today, but in the 
 2. [CNBC](http://www.cnbc.com/id/44632796)
 3. [Sky News](http://news.sky.com/home/business/article/16075478)
 4. [Sydney Morning Herald](http://www.smh.com.au/business/markets/live-blog-asx-braces-as-world-markets-slump-20110923-1knx4.html)
+4. [Cover Image](http://www.smh.com.au/content/dam/images/1/k/n/y/c/image.related.thumbnail.320x214.1knx4.png/1329051000963.jpg)
 
 ### Related:
 

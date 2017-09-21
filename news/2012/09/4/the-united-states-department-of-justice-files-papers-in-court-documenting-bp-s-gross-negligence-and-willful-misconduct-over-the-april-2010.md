@@ -8,6 +8,7 @@ The U.S. Justice Department is ramping up its rhetoric against BP PLC for the ma
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/05/us-bp-oilspill-negligence-idUSBRE88401E20120905)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120905&t=2&i=649462917&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88402J600)
 
 ### Related:
 

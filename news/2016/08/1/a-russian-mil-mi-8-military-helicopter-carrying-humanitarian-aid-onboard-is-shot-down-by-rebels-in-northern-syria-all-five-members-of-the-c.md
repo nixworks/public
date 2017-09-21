@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-08-01-Syria-The%20Latest/id-62f873ce6fd54368860f025f447ce008)
 2. [BBC](http://www.bbc.com/news/world-middle-east-36939137?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/AB2A/production/_90581834_mediaitem90580980.jpg)
 
 ### Related:
 

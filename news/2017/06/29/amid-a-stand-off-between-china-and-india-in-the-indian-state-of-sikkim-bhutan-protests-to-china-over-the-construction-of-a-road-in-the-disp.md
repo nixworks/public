@@ -8,6 +8,7 @@ NEW DELHI • Bhutan has protested to China over the construction of a road in d
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/bhutan-protests-against-chinas-road-construction)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

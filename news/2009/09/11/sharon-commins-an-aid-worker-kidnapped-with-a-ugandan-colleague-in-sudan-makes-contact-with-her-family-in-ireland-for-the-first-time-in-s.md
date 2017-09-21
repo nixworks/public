@@ -8,6 +8,7 @@ Kidnapped GOAL aid-worker Sharon Commins has made contact with her family in Ire
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0911/comminss.html)
+1. [Cover Image](https://img.rasset.ie/00026c51-1600.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Security in Cairo tightened amid Friday prayers and protest marches called by th
 1. [AlJazeera](http://www.aljazeera.com/news/middleeast/2013/08/201381610254594664.html)
 2. [Egypt Independent](http://www.egyptindependent.com/news/son-brotherhood-s-supreme-guide-shot-dead-house-set-ablaze)
 3. [NBC News](http://worldnews.nbcnews.com/_news/2013/08/17/20061910-muslim-brotherhood-leaders-son-killed-in-egypt-clashes?lite)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/16//201381611037517734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Italian Prime Minister Silvio Berlusconi appears at a Milan court to answer char
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12877250)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Samsung Electronics has agreed to buy Harman International Industries in an $8 b
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-harman-intl-ind-samsung-elec-idUSKBN1390O9)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161114&t=2&i=1161630857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAD0ZD)
 
 ### Related:
 

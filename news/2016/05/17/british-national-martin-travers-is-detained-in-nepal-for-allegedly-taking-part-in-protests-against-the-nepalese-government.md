@@ -8,6 +8,7 @@ The Nepali government says a British national has been detained for questioning 
 ### Source:
 
 1. [AP via ''The Telegraph](http://www.telegraph.co.uk/news/2016/05/17/british-national-who-took-part-in-protest-detained-in-nepal/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/05/17/nepal-protest-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg)
 
 ### Related:
 

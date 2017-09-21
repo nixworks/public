@@ -8,6 +8,7 @@ General Electric Co. has abandoned a $3.3 billion agreement to sell its applianc
 ### Source:
 
 1. [The Wall Street Journal](http://www.wsj.com/articles/ge-terminates-sale-of-appliance-business-to-electrolux-1449474391)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-LE255_GEDOJj_G_20151109175842.jpg)
 
 ### Related:
 

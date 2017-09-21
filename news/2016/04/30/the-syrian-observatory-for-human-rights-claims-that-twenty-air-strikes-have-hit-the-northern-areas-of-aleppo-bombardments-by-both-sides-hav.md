@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN0XR08B)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160430&t=2&i=1135214609&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3T04M)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN Money](http://money.cnn.com/2012/07/31/technology/twitter-cashtag/index.htm?source=googleplus)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/07/31/technology/twitter-cashtag/twitter-cashtags.01.jpg)
 
 ### Related:
 

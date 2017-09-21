@@ -9,6 +9,7 @@ Wounds to the body of weapons inspector David Kelly were &#039;&#039;typical of 
 
 1. [RTÉ](http://www.rte.ie/news/2010/1022/kellyd.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/8079670/Secret-files-show-David-Kellys-wounds-were-typical-of-self-inflicted-injury.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01609/david-kelly_1609377a.jpg)
 
 ### Related:
 

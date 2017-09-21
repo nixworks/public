@@ -8,6 +8,7 @@ Scores are killed when a military jet targets a refugee camp, thinking it was Bo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-38654991)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/DFB9/production/_93637275_037323485-1.jpg)
 
 ### Related:
 

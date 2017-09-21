@@ -8,6 +8,7 @@ Scientists working for the UN say that they have eradicated a virus which can be
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11542653)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/peopleNews/idUSTRE57R4EY20090828)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090828&t=2&i=11394858&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-28T190511Z_01_BTRE57R1H1700_RTROPTP_0_PEOPLE-JACKSON)
 
 ### Related:
 

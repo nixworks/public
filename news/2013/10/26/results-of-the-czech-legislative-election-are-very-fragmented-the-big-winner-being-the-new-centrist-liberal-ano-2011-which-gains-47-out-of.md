@@ -8,3 +8,4 @@ An election held to try to end months of political uncertainty in the Czech Repu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24686257)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70729000/jpg/_70729825_70729823.jpg)

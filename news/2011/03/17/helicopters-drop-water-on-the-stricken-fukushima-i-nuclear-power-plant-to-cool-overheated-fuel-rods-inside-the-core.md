@@ -16,6 +16,7 @@ CBS News Chicago station reports trace amounts of radiation clinging to flights 
 7. [CBS News](http://www.cbsnews.com/stories/2011/03/17/national/main20044341.shtml?tag=strip)
 8. [MSNBC](http://www.msnbc.msn.com/id/42119298/ns/world_news-asiapacific/)
 9. [Voice of America](http://www.voanews.com/english/news/asia/UN-Nuclear-Agency-Says-Situation-in-Japan-Serious-but-Stable-118186704.html)
+9. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/03/17/ddb8468d-a644-11e2-a3f0-029118418759/genericplanejet_fullwidth.jpg)
 
 ### Related:
 

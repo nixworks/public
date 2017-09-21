@@ -8,6 +8,7 @@ There has been a general welcome for the decision today by the GAA&#39;s annual 
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2005/0416/gaa.html)
+1. [Cover Image](https://img.rasset.ie/00000bbc-1600.jpg)
 
 ### Related:
 

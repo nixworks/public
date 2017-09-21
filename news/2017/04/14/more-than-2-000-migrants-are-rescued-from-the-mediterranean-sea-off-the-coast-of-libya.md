@@ -8,6 +8,7 @@ More than 2,000 migrants trying to reach Europe were plucked from the Mediterran
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-migrants-rescue-idUSKBN17G1HE)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170414&t=2&i=1180672261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3D0TW)
 
 ### Related:
 

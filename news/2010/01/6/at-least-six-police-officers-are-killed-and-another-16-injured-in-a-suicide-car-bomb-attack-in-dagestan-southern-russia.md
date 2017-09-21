@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101682559232500.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8443221.stm)
 3. [RIA Novosti](http://en.rian.ru/russia/20100106/157477118.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

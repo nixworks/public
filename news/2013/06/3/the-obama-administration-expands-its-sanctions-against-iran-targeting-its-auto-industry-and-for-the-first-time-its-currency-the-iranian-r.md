@@ -9,6 +9,7 @@ Sale of goods or services to car industry and transactions in riyal to attract p
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/06/2013632329778145.html)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2013-06/04/c_124805992.htm)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/2/20121128545311734_20.jpg)
 
 ### Related:
 

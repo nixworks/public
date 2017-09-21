@@ -8,6 +8,7 @@ Applicants will face stricter tests on their English and &quot;Australian values
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-australia-39637770)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/11E5F/production/_95711337_gettyimages-632746104-1.jpg)
 
 ### Related:
 

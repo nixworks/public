@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN1601EK)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170221&t=2&i=1173529402&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1K0RJ)
 
 ### Related:
 

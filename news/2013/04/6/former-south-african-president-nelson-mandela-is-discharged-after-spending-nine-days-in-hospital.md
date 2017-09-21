@@ -8,6 +8,7 @@ Former president Nelson Mandela has been discharged after spending nine days in 
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/SouthAfrica/News/Nelson-Mandela-discharged-from-hospital-20130406)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/522/2a9e772dc0dd4013a2714e9e694789e9.jpg)
 
 ### Related:
 

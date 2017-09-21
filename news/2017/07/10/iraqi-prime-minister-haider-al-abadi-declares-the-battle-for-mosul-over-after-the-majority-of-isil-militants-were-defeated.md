@@ -8,6 +8,7 @@ The battle has taken nine months, leaving large areas in ruins and thousands of 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-40558836)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/130AD/production/_96879977_mediaitem96879975.jpg)
 
 ### Related:
 

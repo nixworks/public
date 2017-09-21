@@ -11,6 +11,7 @@ The US House of Representatives has approved legislation to avert a disastrous d
 2. [Reuters and AFP via ''Sydney Morning Herald](http://www.smh.com.au/business/world-business/us-debt-deal-wins-approval-20110802-1i8um.html)
 3. [Washington Post](http://www.washingtonpost.com/blogs/2chambers/post/protesters-disrupt-house-during-debate-on-debt-deal-22-arrested/2011/08/01/gIQAjLC1nI_blog.html)
 4. [Washington Post](http://www.washingtonpost.com/politics/giffords-returns-to-congress-to-vote-on-debt-deal/2011/08/01/gIQALojfoI_story.html)
+4. [Cover Image](http://www.smh.com.au/content/dam/images/1/i/7/5/r/image.related.articleLeadwide.620x349.1i8um.png/1312246152433.jpg)
 
 ### Related:
 

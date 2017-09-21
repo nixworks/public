@@ -9,6 +9,7 @@ Toppled president is charged in absentia on various charges including incitement
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126139146102236.html)
 2. [Reuters](http://uk.reuters.com/article/2012/06/13/uk-tunisia-benali-sentence-idUKBRE85C0I820120613?feedType=RSS&feedName=worldNews)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/15/20111150518864734_20.jpg)
 
 ### Related:
 

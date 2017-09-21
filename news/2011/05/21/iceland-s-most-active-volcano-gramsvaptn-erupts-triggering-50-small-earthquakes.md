@@ -9,6 +9,7 @@ SECOND UPDATE: It has been confirmed that Grimsvotn volcano underneath the Vatna
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43121772)
 2. [Ice News](http://www.icenews.is/index.php/2011/05/21/iceland-volcano-erupting/)
+2. [Cover Image](http://www.icenews.is/wp-content/uploads/2011/05/fimmvorduhals-17-150x150.jpg)
 
 ### Related:
 

@@ -9,3 +9,4 @@ The two-time Oscar winner, 61, worked on three James Cameron films, two &#039;St
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/news/james-horner-dead-titanic-composer-804365)
 2. [KSBY](http://www.ksby.com/story/29377722/possible-plane-crash-reported-in-cuyama-valley)
+2. [Cover Image](http://cdn4.thr.com/sites/default/files/2015/06/ap120327147274.jpg)

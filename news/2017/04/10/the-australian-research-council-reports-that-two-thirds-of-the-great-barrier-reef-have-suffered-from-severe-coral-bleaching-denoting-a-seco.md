@@ -8,6 +8,7 @@ Two-thirds of the Great Barrier Reef is now devastated by severe coral bleaching
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2017-04-10/great-barrier-reef-severe-coral-bleaching-hits-two-thirds/8429662)
+1. [Cover Image](http://www.abc.net.au/news/image/8430104-1x1-700x700.jpg)
 
 ### Related:
 

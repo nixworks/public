@@ -8,6 +8,7 @@ A 17-year student is being detained for attempted murder after opening fire in a
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/03/16/several-injured-shooting-french-secondary-school/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/p/y/pyeg1jyte6r3r2cg33ffc6o3ycc8cu0o-xlarge.jpg)
 
 ### Related:
 

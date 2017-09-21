@@ -8,6 +8,7 @@ Rights watchdog says security forces tried to hide evidence of the killings whic
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2011/12/2011122241113903851.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/22/2011122241421355734_20.jpg)
 
 ### Related:
 

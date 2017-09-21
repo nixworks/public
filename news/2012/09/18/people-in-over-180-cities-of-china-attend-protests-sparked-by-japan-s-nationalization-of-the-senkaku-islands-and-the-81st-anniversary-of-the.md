@@ -16,6 +16,7 @@
 7. [The Japan Times](http://www.japantimes.co.jp/text/nn20120918x2.html)
 8. [The Japan Times](http://www.japantimes.co.jp/text/nn20120918x3.html)
 9. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120918003823.htm)
+9. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef017744d2cee8970d-120pi)
 
 ### Related:
 

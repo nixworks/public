@@ -8,6 +8,7 @@ Country falls into political turmoil as opposition attempts to set up unity gove
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/20091218185450320576.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

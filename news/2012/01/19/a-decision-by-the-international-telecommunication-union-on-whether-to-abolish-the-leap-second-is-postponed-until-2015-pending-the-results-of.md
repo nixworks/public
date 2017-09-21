@@ -8,6 +8,7 @@ Fans of the leap second, you can breathe easy. Your favorite little tick of the 
 ### Source:
 
 1. [TIME](http://newsfeed.time.com/2012/01/19/its-official-the-leap-second-survives/)
+1. [Cover Image](https://timenewsfeed.files.wordpress.com/2012/01/second.jpg?w=600)
 
 ### Related:
 

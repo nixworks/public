@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2015/11/12/europe/europe-terror-plots-arrests/)
 2. [NBC News](http://www.nbcnews.com/storyline/isis-uncovered/16-isis-linked-suspects-held-europe-wide-sweep-italy-officials-n461931)
 3. [The Local](http://www.thelocal.it/20151112/italy-announces-swoop-on-jihadist-network)
+3. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_46/1299056/151112-najmaddin-faraj-ahmad-jpo-717a_053034446d1ada46aeefebeb68d20cdf.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-africa-33590991)
 2. [Reuters via SABC](http://www.sabc.co.za/news/a/c9778a00492ea3e98bbaab423b398f00/At-least-two-killed-in-violence-before-Burundi-election-20150721)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6F8F/production/_84395582_84395581.jpg)
 
 ### Related:
 

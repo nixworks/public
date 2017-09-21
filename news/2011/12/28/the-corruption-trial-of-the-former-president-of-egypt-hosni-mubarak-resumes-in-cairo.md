@@ -8,6 +8,7 @@ The trial of the former Egyptian President, Hosni Mubarak, resumes in Cairo afte
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16343974)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57589000/jpg/_57589753_57589752.jpg)
 
 ### Related:
 

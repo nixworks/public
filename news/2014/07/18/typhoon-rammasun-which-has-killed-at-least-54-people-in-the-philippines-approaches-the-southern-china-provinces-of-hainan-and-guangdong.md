@@ -9,6 +9,7 @@ A super typhoon slammed into China on Friday killing one person, as the governme
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/3-reported-killed-as-roof/1270872.html?cid=FBINT)
 2. [Reuters](http://www.reuters.com/article/2014/07/18/us-china-typhoon-idUSKBN0FN0BM20140718)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140718&t=2&i=937788401&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6H0L9)
 
 ### Related:
 

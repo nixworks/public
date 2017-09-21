@@ -8,6 +8,7 @@ Fatalities reported after fresh clashes between demonstrators and security force
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011191414183128.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/3/201113144639566965_20.jpg)
 
 ### Related:
 

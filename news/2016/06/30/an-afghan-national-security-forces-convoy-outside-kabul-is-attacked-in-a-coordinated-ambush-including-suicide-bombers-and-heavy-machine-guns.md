@@ -8,6 +8,7 @@ Taliban bombers attack an Afghan police convoy outside Kabul, killing at least 3
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36671676#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3738/production/_90163141_mediaitem90163138.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Proposal to tackle emissions from the power sector will require new plants to be
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/environment/2013/sep/20/epa-limit-us-coal-plant-pollution)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/12/17/1355747654790/Smoke-stacks-at-American--008.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7f8a3ea01b29a249ef9290dfad87fbdb)
 
 ### Related:
 

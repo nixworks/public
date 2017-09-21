@@ -8,6 +8,7 @@ Cairo court Judges, who presided over the trial of Muslim Brotherhood leaders, s
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/10/judges-egypt-brotherhood-trial-quit-20131029133759618623.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/10/29/2013102914811230734_20.jpg)
 
 ### Related:
 

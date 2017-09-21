@@ -8,6 +8,7 @@ Bank of America Corp announced more than $14 billion of legal settlements over b
 ### Source:
 
 1. [ (Reuters](http://www.reuters.com/article/2013/01/07/us-bofa-msrs-sale-idUSBRE9060D220130107)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130107&t=2&i=691885739&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90613PN00)
 
 ### Related:
 

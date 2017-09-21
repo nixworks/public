@@ -8,6 +8,7 @@ The gold price falls below $1,200 an ounce, its lowest level in almost three yea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-23093548)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66940000/jpg/_66940284_goldbars.jpg)
 
 ### Related:
 

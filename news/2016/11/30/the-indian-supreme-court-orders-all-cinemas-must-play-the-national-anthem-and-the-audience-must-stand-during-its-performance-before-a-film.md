@@ -9,6 +9,7 @@ Further, the bench said people must show respect to the national anthem and the 
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-38155630)
 2. [The Indian Express](http://indianexpress.com/article/india/india-news-india/national-anthem-national-flag-supreme-court-theater-4402827/)
+2. [Cover Image](http://images.indianexpress.com/2016/11/india-flag-480.jpg?w=480)
 
 ### Related:
 

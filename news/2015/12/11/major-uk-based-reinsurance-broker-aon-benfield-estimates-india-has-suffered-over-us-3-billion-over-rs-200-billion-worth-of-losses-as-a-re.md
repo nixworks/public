@@ -8,6 +8,7 @@ Reinsurance broker Aon Benfield says the country suffered a $3 bn loss to its ec
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/current-affairs/chennai-floods-are-world-s-8th-most-expensive-natural-disaster-in-2015-115121100487_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/_media/bs/img/article/2015-12/11/full/1449827641-8246.jpg)
 
 ### Related:
 

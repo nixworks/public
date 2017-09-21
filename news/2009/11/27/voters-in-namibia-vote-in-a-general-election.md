@@ -10,6 +10,7 @@ Longtime governing party Swapo is expected to win poll contested by 14 parties.
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gZ9DPmN5Bdno4ymgngQlD1uNaQ6g)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009112735448504966.html)
 3. [The Namibian](http://www.namibian.com.na/news/full-story/archive/2009/november/article/elections-2009/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

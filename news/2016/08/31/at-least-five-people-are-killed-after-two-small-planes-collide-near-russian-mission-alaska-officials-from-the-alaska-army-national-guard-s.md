@@ -8,6 +8,7 @@ Alaska State Troopers say all those on board two small planes died in a midair c
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/08/31/5-people-killed-in-midair-plane-crash-alaska-troopers-say.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

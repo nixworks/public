@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10695272)
 2. [Business Week](http://www.businessweek.com/news/2010-07-20/three-gorges-says-yangtze-river-flow-surpasses-1998.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Papal ban on discussing the ordination of women has been challenged by Bisho
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8360523.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1114/religion.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/1114/1224258814964.html)
+3. [Cover Image](https://img.rasset.ie/0001197a-1600.jpg)
 
 ### Related:
 

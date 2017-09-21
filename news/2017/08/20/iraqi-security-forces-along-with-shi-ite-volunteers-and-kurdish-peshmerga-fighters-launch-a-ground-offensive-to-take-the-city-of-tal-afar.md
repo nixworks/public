@@ -9,6 +9,7 @@ Iraqi security forces launched on Sunday an offensive to take back the city of T
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/08/iraq-launches-offensive-retake-tal-afar-isil-170820003243879.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-tal-afar-idUSKCN1B0005)
+2. [Cover Image](https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

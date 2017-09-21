@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2009/04/09/2539161.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

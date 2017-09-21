@@ -8,6 +8,7 @@ The search has resumed for four British sailors missing since their yacht appare
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-27492026#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74980000/jpg/_74980940_hi022343414.jpg)
 
 ### Related:
 

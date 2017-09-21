@@ -12,6 +12,7 @@ Police moved WikiLeaks chief Julian Assange to the segregation unit of a London 
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11977406)
 4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10693788&ref=rss)
 5. [The Sydney Morning Herald](http://www.smh.com.au/national/legal-fury-at-war-on-free-speech-20101210-18sv3.html)
+5. [Cover Image](http://www.theage.com.au/content/dam/images/1/8/s/j/r/image.related.thumbnail.320x214.18t8z.png/1292034324423.jpg)
 
 ### Related:
 

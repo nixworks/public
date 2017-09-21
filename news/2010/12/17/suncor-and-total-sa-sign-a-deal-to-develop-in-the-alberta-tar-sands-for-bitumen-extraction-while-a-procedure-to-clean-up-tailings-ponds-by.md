@@ -10,6 +10,7 @@
 1. [Calgary Herald](http://www.calgaryherald.com/business/Alberta+energy+watchdog+approves+oilsands+tailings+cleanup+plans/3994594/story.html)
 2. [Globe and Mail](http://www.theglobeandmail.com/globe-investor/suncor-total-team-up-on-oil-sands/article1841763/)
 3. [Reuters Africa](http://af.reuters.com/article/commoditiesNews/idAFLDE6BG0EZ20101217)
+3. [Cover Image](http://static.theglobeandmail.ca/4b6/migration_catalog/article4073096.ece/ALTERNATES/w620/wsandstailings_1074564a.jpg)
 
 ### Related:
 

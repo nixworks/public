@@ -8,6 +8,7 @@ Remembrance ceremonies, marred by tensions over a pastor&#039;s threat to burn t
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2010/09/11/3009129.htm?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/1169306-1x1-700x700.jpg)
 
 ### Related:
 

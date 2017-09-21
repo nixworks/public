@@ -9,6 +9,7 @@ Gunmen attacked a prisoner convoy north of Baghdad on Thursday, setting off a gu
 
 1. [AFP via Fox News](http://www.foxnews.com/world/2014/07/24/attack-on-iraq-prisoner-convoy-kills-60/)
 2. [NDTV](http://www.ndtv.com/article/world/twin-car-bombs-kill-at-least-13-in-central-baghdad-police-564710)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

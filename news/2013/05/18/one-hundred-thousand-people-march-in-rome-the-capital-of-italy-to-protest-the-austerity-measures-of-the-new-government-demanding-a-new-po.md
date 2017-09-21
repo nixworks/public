@@ -8,6 +8,7 @@ Tens of thousands of protesters, led by trade unionists, rally in the Italian ca
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22581759)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67684000/jpg/_67684596_67684595.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Attorney General is seeking leave to bring contempt proceedings against Sky 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-15801828)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56259000/jpg/_56259434_chandlers,jpg.jpg)
 
 ### Related:
 

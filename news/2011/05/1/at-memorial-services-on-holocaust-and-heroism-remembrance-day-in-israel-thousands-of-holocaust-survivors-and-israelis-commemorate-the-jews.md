@@ -9,6 +9,7 @@ Thousands of Holocaust survivors and Israelis Sunday mourned the 6 million Jews 
 
 1. [The Jerusalem Post](http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=218597)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/05/01/Israel-marks-Holocaust-Day/UPI-79111304249700/#ixzz1L6hRhsGS)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/79111304249700/2011/2/5385cf40f53262fd88eff39e8e5dad22/v2.1/Israel-marks-Holocaust-Day.jpg)
 
 ### Related:
 

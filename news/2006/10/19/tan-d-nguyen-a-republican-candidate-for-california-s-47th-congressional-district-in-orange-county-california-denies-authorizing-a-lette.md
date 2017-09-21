@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/10/19/politics/main2108717.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/10/19/d4d4032f-a642-11e2-a3f0-029118418759/image2108819x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Death of 15-year-old boy sparks debate over police efforts to combat crime.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/201091255015727385.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/12/201091254453264734_20.jpg)
 
 ### Related:
 

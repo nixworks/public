@@ -8,6 +8,7 @@ Peruvian photographer working for French press agency in Strip kidnapped; no imm
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3347128,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Deutsche Bank settled a long-running investigation into the manipulation of inte
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/deutsche-bank-settles-libor-investigation-with-u-s-u-k-authorities-1429791118)
+1. [Cover Image](https://si.wsj.net/public/resources/images/OG-AE234_201504_E_20150423091903.jpg)
 
 ### Related:
 

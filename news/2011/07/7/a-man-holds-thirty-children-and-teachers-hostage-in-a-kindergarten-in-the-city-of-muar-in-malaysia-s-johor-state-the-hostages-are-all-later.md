@@ -8,6 +8,7 @@ Malaysian police stormed a preschool on Thursday to free 30 children and four te
 ### Source:
 
 1. [Edmonton Sun](http://www.edmontonsun.com/2011/07/07/malaysia-police-storm-preschool-free-30-children)
+1. [Cover Image](http://storage.edmontonsun.com/v1/suns-prod-images/1297179047338_LARGE_BOX.jpg?quality=80&stmp=1490853876050)
 
 ### Related:
 

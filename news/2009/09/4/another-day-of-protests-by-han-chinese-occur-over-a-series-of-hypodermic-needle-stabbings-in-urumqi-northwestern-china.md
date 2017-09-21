@@ -15,6 +15,7 @@ Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions
 6. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20090904&56&609779)
 7. [RTÉ](http://www.rte.ie/news/2009/0904/china.html)
 8. [Xinhua](http://news.xinhuanet.com/english/2009-09/04/content_11998382.htm)
+8. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A US court accepts a $1.8bn (£1.07bn) settlement for insider trading by US hedg
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-26985243)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74175000/jpg/_74175546_sac.jpg)
 
 ### Related:
 

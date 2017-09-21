@@ -8,6 +8,7 @@ Iranian security forces have arrested a son of opposition leader Mehdi Karoubi, 
 ### Source:
 
 1. [Reuters via SBS News Australia](http://www.sbs.com.au/news/article/1489282/Iranian-opposition-leader's-son-arrested)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/s/i/site_1_rand_1975989361_aapone_20110219000299752719_iran_anti_opposition_protest_originallarge.jpg)
 
 ### Related:
 

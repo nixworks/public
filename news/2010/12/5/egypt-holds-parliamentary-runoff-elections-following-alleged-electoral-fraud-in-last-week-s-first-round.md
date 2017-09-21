@@ -9,6 +9,7 @@ Ruling party set to dominate second round of parliamentary polls, hit by withdra
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012545219253903.html)
 2. [Associated Press](http://hosted.ap.org/dynamic/stories/M/ML_EGYPT_ELECTIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-12-05-03-21-10)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/201012582528615472_20.jpg)
 
 ### Related:
 

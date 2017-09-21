@@ -9,6 +9,7 @@ A carefully worded statement from White House Press Secretary Sean Spicer on Thu
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38850975)
 2. [NBC News](http://www.nbcnews.com/news/world/u-s-warns-israel-stop-announcing-new-west-bank-settlements-n716231)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_05/1889686/170202-trump-netanyahu-rhk-1920p_617e0e75bad16403a86fc2cf75df19f0.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

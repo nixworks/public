@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pennsylvania-police-idUSKBN0UM1L820160108)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160108&t=2&i=1108055013&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC0715R)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A protester dies after being shot by police, as activists criticise government r
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012317536678834.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/31/2010123181024774621_20.jpg)
 
 ### Related:
 

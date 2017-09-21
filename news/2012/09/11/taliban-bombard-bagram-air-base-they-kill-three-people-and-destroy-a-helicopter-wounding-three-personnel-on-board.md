@@ -10,6 +10,7 @@ Afghan insurgents bombarded a U.S. base and destroyed a NATO helicopter, killing
 1. [Dawn](http://dawn.com/2012/09/11/suicide-bomb-blast-kills-five-afghans-officials/)
 2. [Khaama](http://www.khaama.com/suicide-bomb-blast-in-herat-local-police-commander-killed-213/)
 3. [USA Today](http://www.usatoday.com/news/world/story/2012/09/11/attack-on-us-base-kills-3-afghans-destroys-nato-copter/57746250/1)
+3. [Cover Image](http://www.gannett-cdn.com/media/USATODAY/USATODAY/2012/09/11/AP_Afghanistan_Sept_11_US_Attacks-x.jpg)
 
 ### Related:
 

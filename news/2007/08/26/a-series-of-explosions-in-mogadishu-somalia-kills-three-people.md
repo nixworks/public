@@ -8,6 +8,7 @@ A series of explosions have rocked the Somali capital Mogadishu, killing two chi
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/27/2015561.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

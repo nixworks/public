@@ -11,6 +11,7 @@ Palestinian held after failing to comply with order to leave occupied Jerusalem.
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=132859&sectionid=351020202)
 3. [Reuters](http://uk.reuters.com/article/idUKLDE65T21A._CH_.2420)
 4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=180020)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

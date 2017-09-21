@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/sun-microsystems-to-lay-off-up-to-3000-workers-2009-10-20)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

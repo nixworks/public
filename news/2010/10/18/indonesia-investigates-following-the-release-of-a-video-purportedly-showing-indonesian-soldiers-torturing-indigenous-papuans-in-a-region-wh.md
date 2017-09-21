@@ -10,6 +10,7 @@ Indonesian police are investigating whether or not a video allegedly showing Ind
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ipmuv99EM4S0wgrUqf-b24sCA4ng?docId=CNG.d4d0f825ef3d6854a8a802b54eb17116.971)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hP24hdX6iwB2ZgcyM59U0C3LvYqw?docId=54ae3086bd5e4357915bff50fc1d2050)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11568308)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

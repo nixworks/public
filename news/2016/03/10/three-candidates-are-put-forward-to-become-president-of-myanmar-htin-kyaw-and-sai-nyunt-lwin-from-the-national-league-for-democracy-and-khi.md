@@ -8,6 +8,7 @@ A trusted aide of Aung San Suu Kyi looks certain to be become Myanmar&#039;s nex
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-03-10/myanmar-presidential-candidates-announced-htin-kyaw-frontrunner/7236790)
+1. [Cover Image](http://www.abc.net.au/news/image/7236352-1x1-700x700.jpg)
 
 ### Related:
 

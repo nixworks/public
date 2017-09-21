@@ -26,6 +26,7 @@ Pilots tell Maltese authorities they had been ordered to bomb anti-government pr
 17. [Times of Malta](http://www.timesofmalta.com/articles/view/20110221/local/two-libyan-fighter-jets-arrive-in-malta-two-helicopters-land)
 18. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/21/c_13741080.htm)
 19. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4031971,00.html)
+19. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

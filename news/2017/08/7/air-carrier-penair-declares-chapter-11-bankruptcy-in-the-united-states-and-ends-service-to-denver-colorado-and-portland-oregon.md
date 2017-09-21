@@ -8,6 +8,7 @@ Regional airline Peninsula Airways filed for bankruptcy over the weekend, blamin
 ### Source:
 
 1. [The Wall Street Journal](https://www.wsj.com/articles/penair-plans-to-shed-denver-portland-hubs-in-chapter-11-1502124686)
+1. [Cover Image](https://si.wsj.net/img/WSJ_Logo_black_social.gif)
 
 ### Related:
 

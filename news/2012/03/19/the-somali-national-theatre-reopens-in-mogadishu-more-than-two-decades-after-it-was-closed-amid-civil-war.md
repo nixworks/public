@@ -8,6 +8,7 @@ The Somali National Theatre reopens in Mogadishu more than two decades after it 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17436937)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59176000/jpg/_59176810_somaliatheatre.jpg)
 
 ### Related:
 

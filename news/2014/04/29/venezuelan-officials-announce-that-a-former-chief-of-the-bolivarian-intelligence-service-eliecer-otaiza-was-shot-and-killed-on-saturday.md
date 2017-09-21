@@ -8,6 +8,7 @@ Major Eliecer Otaiza, who served as the head of the Venezuelan intelligence serv
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/27202809)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74510000/jpg/_74510107_74510105.jpg)
 
 ### Related:
 

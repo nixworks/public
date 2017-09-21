@@ -8,6 +8,7 @@ No minutes will be taken. No reporters will be allowed in. There will be no open
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/bilderberg-group-meeting-what-is-it-and-who-is-attending-global-elites-a7069561.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/07/30/16/conspiracytheorists.jpg)
 
 ### Related:
 

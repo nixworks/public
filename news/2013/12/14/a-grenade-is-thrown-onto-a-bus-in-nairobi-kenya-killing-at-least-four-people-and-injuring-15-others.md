@@ -8,6 +8,7 @@ At least four people are killed and 15 injured by a grenade thrown onto a bus in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25383506)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71744000/jpg/_71744737_71744734.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Palestinian group says 18-month ceasefire in Gaza and opening of borders within 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/02/20092133345224974.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

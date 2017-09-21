@@ -8,6 +8,7 @@ At least 14 people have been killed after a ship taking passengers back from a f
 ### Source:
 
 1. [RT](https://www.rt.com/news/318960-odessa-passenger-boat-sinks/)
+1. [Cover Image](https://img.rt.com/files/2015.10/article/5622971fc46188314d8b4601.jpg)
 
 ### Related:
 

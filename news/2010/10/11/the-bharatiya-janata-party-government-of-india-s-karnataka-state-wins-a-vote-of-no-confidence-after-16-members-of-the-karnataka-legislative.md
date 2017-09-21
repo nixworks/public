@@ -9,6 +9,7 @@
 
 1. [Hindustani Times](http://www.hindustantimes.com/News-Feed/karnataka/Governor-for-President-s-rule-as-BJP-wins-trust-vote/Article1-611394.aspx)
 2. [OneIndia](http://news.oneindia.in/2010/10/11/karnataka-bjp-wins-trust-vote-bsy-rebel-mlas.html)
+2. [Cover Image](http://www.oneindia.com/img/2010/10/11-bsy-200-150.jpg)
 
 ### Related:
 

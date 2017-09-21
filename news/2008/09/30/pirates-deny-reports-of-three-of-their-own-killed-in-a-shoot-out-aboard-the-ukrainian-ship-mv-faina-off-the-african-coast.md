@@ -9,6 +9,7 @@ Somali pirates who seized a Ukrainian ship laden with military hardware last wee
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7643561.stm)
 2. [CBC News](http://www.cbc.ca/world/story/2008/09/30/somalia-pirates.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

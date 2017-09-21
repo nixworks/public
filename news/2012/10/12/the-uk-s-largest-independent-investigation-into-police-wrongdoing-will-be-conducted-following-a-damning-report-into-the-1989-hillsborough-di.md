@@ -8,6 +8,7 @@ The biggest ever independent investigation into police wrongdoing is to be carri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-19922092)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63457000/jpg/_63457939_63456363.jpg)
 
 ### Related:
 

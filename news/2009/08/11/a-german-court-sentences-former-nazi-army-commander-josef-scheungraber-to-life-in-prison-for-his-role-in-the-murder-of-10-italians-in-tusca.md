@@ -11,6 +11,7 @@
 2. [IOL](http://www.int.iol.co.za/index.php?from=rss_World&set_id=1&click_id=3&art_id=nw20090811142023783C951719)
 3. [RTÉ](http://www.rte.ie/news/2009/0811/scheungraberj.html)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/exnazi-officer-jailed-for-life-20090811-egw0.html)
+4. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

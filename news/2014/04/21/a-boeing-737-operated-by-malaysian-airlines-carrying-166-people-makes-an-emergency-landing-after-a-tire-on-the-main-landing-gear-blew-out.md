@@ -8,6 +8,7 @@ A Malaysia Airlines plane is forced to turn back to Kuala Lumpur airport due to 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2014-04-21/an-malaysia-airlines-jet-makes-safe-emergency-landing-after-gea/5401026)
+1. [Cover Image](http://www.abc.net.au/news/image/5307938-1x1-700x700.jpg)
 
 ### Related:
 

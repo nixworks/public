@@ -8,6 +8,7 @@ The Yemeni port city of Mukalla, controlled by jihadist militants from al-Qaeda 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36128614)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D4DC/production/_89429445_89424666.jpg)
 
 ### Related:
 

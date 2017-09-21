@@ -8,6 +8,7 @@ Attack follows the arrest of Jesus Armando Acosta Guerrero, an alleged drug baro
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010716193230508554.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

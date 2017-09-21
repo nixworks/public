@@ -8,6 +8,7 @@ A suicide blast in a street full of bars and restaurants in the northern Nigeria
 ### Source:
 
 1. [ (BBC](http://www.bbc.com/news/world-africa-27465113)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74946000/jpg/_74946110_74946109.jpg)
 
 ### Related:
 

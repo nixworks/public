@@ -8,6 +8,7 @@ A storm that brought heavy rain and gusty thunderstorms to Southern California w
 ### Source:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/snowstorm-to-bury-denver-blast-high-winds-new-mexico-texas/55140705)
+1. [Cover Image](https://accuweather.brightspotcdn.com/b1/b1618f81dbee5f16a701de7734cf1668/650x366_02010843_page-7.jpg)
 
 ### Related:
 

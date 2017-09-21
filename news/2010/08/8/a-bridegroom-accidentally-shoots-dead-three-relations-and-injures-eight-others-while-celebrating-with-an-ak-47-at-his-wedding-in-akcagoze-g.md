@@ -9,6 +9,7 @@ A bridegroom in Turkey accidentally kills his father and two aunts while firing 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10908830)
 2. [News24](http://www.news24.com/World/News/Groom-kills-3-guests-at-wedding-20100808)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

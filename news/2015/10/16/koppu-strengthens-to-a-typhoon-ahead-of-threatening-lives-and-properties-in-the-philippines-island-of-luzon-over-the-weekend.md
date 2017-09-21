@@ -8,6 +8,7 @@ Despite weakening to a tropical rainstorm, Koppu will continue to bring the thre
 ### Source:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/tropical-storm-koppu-to-streng/52977291)
+1. [Cover Image](https://accuweather.brightspotcdn.com/52/52aa9d7a4b6268900ad84024b53352e1/650x366_10211228_hd33.jpg)
 
 ### Related:
 

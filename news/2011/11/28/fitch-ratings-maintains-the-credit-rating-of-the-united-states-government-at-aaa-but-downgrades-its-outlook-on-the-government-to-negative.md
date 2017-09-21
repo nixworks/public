@@ -8,6 +8,7 @@ Fitch said it was revising its outlook on the U.S. credit rating to negative fro
 ### Source:
 
 1. [Fox Business](http://www.foxbusiness.com/economy/2011/11/28/fitch-keeps-us-credit-rating-at-aaa-cuts-outlook-to-negative/)
+1. [Cover Image](http://a57.foxnews.com/video.foxbusiness.com/thumbnails/112911/640/360/0/0/112911_closing_riley.jpg?ve=1)
 
 ### Related:
 

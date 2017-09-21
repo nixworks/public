@@ -8,6 +8,7 @@ Thousands of Thai protesters surrounded parliament Monday in an effort to preven
 ### Source:
 
 1. [AFP via The Melbourne Age](http://news.theage.com.au/world/thai-protesters-surround-parliament-for-final-battle-20081124-6fjp.html)
+1. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

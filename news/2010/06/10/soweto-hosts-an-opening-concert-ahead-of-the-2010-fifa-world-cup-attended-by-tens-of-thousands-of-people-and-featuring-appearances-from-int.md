@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ijQNiV2Xaf9GJ25VnZWBdLQqOl4A)
 2. [The Hindu](http://beta.thehindu.com/sport/football/article452449.ece?homepage=true)
 3. [USA Today](http://content.usatoday.com/communities/entertainment/post/2010/06/alicia-keys-shakira-peas-take-part-in-2010-world-cup-concert-/1)
+3. [Cover Image](http://i.usatoday.net/communitymanager/_photos/lifeline-live/2010/06/10/aliciakeysx-inset-community.jpg)
 
 ### Related:
 

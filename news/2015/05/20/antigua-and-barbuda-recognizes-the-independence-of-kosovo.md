@@ -8,6 +8,7 @@ The host of the ceremony, the Mayor of Ulqin, Fatmir Gjeka, said that the presen
 ### Source:
 
 1. [Ministry of Foreign Affairs of the Republic of Kosovo](http://www.mfa-ks.net/?page=2,4,2633#.VV-zKU0w_IV)
+1. [Cover Image](http://www.mfa-ks.net/inc/images/fb_2.jpg)
 
 ### Related:
 

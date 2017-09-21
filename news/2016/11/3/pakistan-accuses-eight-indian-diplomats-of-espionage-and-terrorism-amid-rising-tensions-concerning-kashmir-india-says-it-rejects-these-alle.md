@@ -8,6 +8,7 @@ Pakistan on Thursday named eight Indian diplomats it accuses of espionage and te
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-india-diplomacy-idUSKBN12Y13L?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Danish conglomerate A.P. Møller-Maersk cut its full-year profit guidance, sayin
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/maersk-issues-profit-warning-on-weaker-shipping-market-1445584058)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KU196_euecon_TOP_20151016065302.jpg)
 
 ### Related:
 

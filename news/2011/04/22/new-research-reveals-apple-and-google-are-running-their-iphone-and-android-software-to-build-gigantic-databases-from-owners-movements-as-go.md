@@ -10,6 +10,7 @@ Europe is beginning its own investigations, although the iPhone and iPad have be
 1. [The Guardian](http://www.guardian.co.uk/technology/2011/apr/22/iphone-android-location-based-services)
 2. [The New York Times](http://www.nytimes.com/2011/04/22/technology/22data.html?partner=rss&emc=rss)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/23/c_13842001.htm)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 
@@ -22,4 +23,4 @@ Europe is beginning its own investigations, although the iPhone and iPad have be
 7. [Google unveils the latest version of its Android mobile operating system, 4.0 (code named Ice Cream Sandwich), along with the Galaxy Nexus, its newest flagship smartphone. ](/news/2011/10/19/google-unveils-the-latest-version-of-its-android-mobile-operating-system-4-0-code-named-ice-cream-sandwich-along-with-the-galaxy-nexus.md) _Context: Android devices, Google_
 8. [Foreign journalists in China say their emails have been hacked, as Google pulls out of launching its Android mobile phones. ](/news/2010/01/19/foreign-journalists-in-china-say-their-emails-have-been-hacked-as-google-pulls-out-of-launching-its-android-mobile-phones.md) _Context: Android devices, Google_
 9. [ Google and the Open Handset Alliance announce the Android operating system, a joint effort in handheld computing. ](/news/2007/11/5/google-and-the-open-handset-alliance-announce-the-android-operating-system-a-joint-effort-in-handheld-computing.md) _Context: Android devices, Google_
-10. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
+10. [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md) _Context: iPhone_

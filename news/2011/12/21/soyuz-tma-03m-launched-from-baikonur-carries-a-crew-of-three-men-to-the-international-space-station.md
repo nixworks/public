@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESA](http://www.esa.int/esaCP/SEMWT8BX9WG_index_0.html)
+1. [Cover Image](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2011/12/launch_of_the_tma-03m_soyuz_on_21_december_20112/9825243-3-eng-GB/Launch_of_the_TMA-03M_Soyuz_on_21_December_2011_large.jpg)
 
 ### Related:
 

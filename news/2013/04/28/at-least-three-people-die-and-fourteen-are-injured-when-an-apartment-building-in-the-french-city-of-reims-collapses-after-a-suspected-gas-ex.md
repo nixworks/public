@@ -8,6 +8,7 @@ At least two people have died and nine were injured when an apartment building i
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Building-collapses-in-France-20130428)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1830/83007e43117543ce918736058fbdacbb.jpg)
 
 ### Related:
 

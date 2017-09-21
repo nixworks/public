@@ -8,6 +8,7 @@ At least 10 people are killed in violence as Iraqi security forces dismantle an 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25548776)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71999000/jpg/_71999856_71998988.jpg)
 
 ### Related:
 

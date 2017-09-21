@@ -8,6 +8,7 @@ A NUMBER of people have been attacked and stabbed in Brussels city centre.
 ### Source:
 
 1. [Daily Star](http://www.dailystar.co.uk/news/latest-news/601386/Brussels-stabbing-Turkish-Consulate-terror-multiple-wounded-attack)
+1. [Cover Image](http://cdn.images.dailystar.co.uk/dynamic/1/photos/873000/936x622/886873.jpg)
 
 ### Related:
 

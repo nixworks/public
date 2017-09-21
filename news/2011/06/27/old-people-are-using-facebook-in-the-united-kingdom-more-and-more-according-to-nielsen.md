@@ -8,6 +8,7 @@ Facebook use among over-50s in the UK has risen faster than any other age group,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-13925893)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53716000/jpg/_53716545_77611548.jpg)
 
 ### Related:
 

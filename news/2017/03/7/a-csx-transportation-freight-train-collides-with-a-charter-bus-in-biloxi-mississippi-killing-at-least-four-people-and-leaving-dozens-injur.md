@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/03/07/at-least-3-dead-after-train-hits-charter-bus-in-mississippi.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/03/07/0/0/694940094001_5351208336001_5351204122001-vs.jpg?ve=1)
 
 ### Related:
 

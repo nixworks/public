@@ -22,6 +22,7 @@ The Russian Prime Minister Vladimir Putin has said he suspects unnamed persons i
 13. [Sky News](http://news.sky.com/skynews/Home/World-News/Asian-Summit-Support-For-Russia-Falls-Short-While-EU-To-Consider-Sanctions-Over-Georgia-Issue/Article/200808415088409?lpos=World%2BNews_5&lid=ARTICLE_15088409_Asian%2BSummit%2BSupport%2BFor%2BRussia%2BFalls%2BShort%2BWhile%2BEU%2B%2527To%2BConsider%2527%2BSanctions%2BOver%2BGeorgia%2BIssue)
 14. [The Independent](http://www.independent.ie/breaking-news/world-news/europe/eu-considers-sanctions-on-russia-over-georgia-crisis-1464935.html)
 15. [VOA](http://voanews.com/english/2008-08-28-voa20.cfm)
+15. [Cover Image](https://img.rasset.ie/000134a8-1600.jpg)
 
 ### Related:
 

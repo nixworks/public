@@ -8,6 +8,7 @@ Burma releases the names of 2,000 people deemed a security threat who have been 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19424091)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62530000/jpg/_62530676_149021994.jpg)
 
 ### Related:
 

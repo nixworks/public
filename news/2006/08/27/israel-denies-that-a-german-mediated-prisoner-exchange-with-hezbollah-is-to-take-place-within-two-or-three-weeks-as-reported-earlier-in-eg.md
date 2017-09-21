@@ -11,6 +11,7 @@ DURING THE RECENT month-long war between Hezbollah and Israel, U.N. peacekeeping
 2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/DB97B096-210F-4DC4-84AC-6DCD4813F411.htm)
 3. [Haaretz](http://www.haaretz.com/hasen/spages/755360.html)
 4. [Weekly Standard](http://www.weeklystandard.com/Content/Public/Articles/000/000/012/622bqwjn.asp)
+4. [Cover Image](http://www.weeklystandard.com/s3/tws15/images/twitter/tws-twitter_1024x512.png)
 
 ### Related:
 

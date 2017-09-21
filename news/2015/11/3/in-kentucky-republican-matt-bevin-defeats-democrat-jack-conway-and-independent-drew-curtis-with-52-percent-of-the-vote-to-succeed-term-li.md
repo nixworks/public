@@ -20,6 +20,7 @@ Republican Matt Bevin, a businessman and Tea Party favorite, beat Democrat Jack 
 11. [MLive Media](http://www.mlive.com/news/flint/index.ssf/2015/09/flint_mayoral_challenger_calls.html)
 12. [Texas Tribune](https://www.texastribune.org/2015/11/03/houston-anti-discrimination-ordinance-early-voting/)
 13. [Washington Post](https://www.washingtonpost.com/local/education/conservative-school-board-members-ousted-in-bitter-colorado-battle/2015/11/04/a0b640ca-82a2-11e5-8ba6-cec48b74b2a7_story.html)
+13. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2015/11/03/republican-matt-bevin-elected-governor-kentucky-2nd-republican-governor-in-4/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446601663275.jpg?ve=1)
 
 ### Related:
 

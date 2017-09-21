@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4488251.stm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a2awAoZTDpbw&refer=top_world_news)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8308221)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

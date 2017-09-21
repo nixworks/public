@@ -9,6 +9,7 @@ Rescue work resumes after the latest deadly earthquake in Nepal, after thousands
 
 1. [BBC](http://www.bbc.com/news/world-asia-32716211)
 2. [CNN](http://edition.cnn.com/2015/05/12/asia/nepal-earthquake/index.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82949000/jpg/_82949907_82949906.jpg)
 
 ### Related:
 

@@ -14,6 +14,7 @@ Taoiseach Brian Cowen has confirmed that a major financial assistance plan for I
 5. [The Guardian](http://www.guardian.co.uk/business/2010/nov/21/ireland-asks-70bn-eu-bailout)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1121/breaking26.html)
 7. [Xinhua](http://news.xinhuanet.com/english2010/business/2010-11/21/c_13616091.htm)
+7. [Cover Image](https://img.rasset.ie/0003f055-1600.jpg)
 
 ### Related:
 

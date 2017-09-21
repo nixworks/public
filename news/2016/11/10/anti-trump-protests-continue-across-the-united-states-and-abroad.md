@@ -9,6 +9,7 @@ Trump dismisses &quot;professional protesters,&quot; says demonstrations are bei
 
 1. [Los Angeles Daily News](http://www.dailynews.com/general-news/20161110/anti-trump-marches-at-ucla-usc-draw-large-crowds)
 2. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/2016/11/10/more-anti-trump-protests-held-across-us/93597936/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

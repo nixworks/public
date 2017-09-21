@@ -8,6 +8,7 @@ Parliament must vote on whether the government can start Brexit, the Supreme Cou
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-38720320)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/608F/production/_93791742_mediaitem93791741.jpg)
 
 ### Related:
 

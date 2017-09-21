@@ -8,6 +8,7 @@ A review of the F.B.I.’s scientific work on the investigation of the anthrax l
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/02/16/us/16anthrax.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/02/16/us/ANTHRAX/ANTHRAX-thumbStandard.jpg)
 
 ### Related:
 

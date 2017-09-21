@@ -8,6 +8,7 @@ Virgin Galactic, and the State of New Mexico announced today that they have sign
 ### Source:
 
 1. [Space.com](http://www.space.com/news/081231-space-tourism.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMy84ODMvb3JpZ2luYWwvMDgxMTAzLXNwYWNlcG9ydC1hbWVyaWNhLTAyLmpwZw==)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Measure comes a week after 26 people were killed in clashes involving minority C
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/10/2011101634155850324.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/10/16/2011101634150256734_20.jpg)
 
 ### Related:
 

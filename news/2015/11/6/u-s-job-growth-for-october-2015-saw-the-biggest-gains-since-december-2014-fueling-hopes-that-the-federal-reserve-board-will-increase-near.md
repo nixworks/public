@@ -8,6 +8,7 @@ U.S. job growth surged in October and the unemployment rate hit a 7-1/2-year low
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/06/us-usa-economy-idUSKCN0SV0HQ20151106)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151106&t=2&i=1092809401&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA50P9)
 
 ### Related:
 

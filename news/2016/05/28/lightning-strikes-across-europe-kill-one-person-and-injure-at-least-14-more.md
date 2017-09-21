@@ -9,6 +9,7 @@ Lightning strikes in France, Germany and Poland cause death and serious injuries
 
 1. [BBC](http://www.bbc.com/news/world-europe-36405482)
 2. [CNN](http://edition.cnn.com/2016/05/28/europe/paris-lightning-injuries/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/2492/production/_89826390_89826518.jpg)
 
 ### Related:
 

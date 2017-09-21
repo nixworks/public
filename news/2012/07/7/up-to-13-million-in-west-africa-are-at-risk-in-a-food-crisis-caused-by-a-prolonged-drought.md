@@ -8,6 +8,7 @@ Cereal production has fallen by as much as 62 per cent in some countries.
 ### Source:
 
 1. [The Journal](http://www.thejournal.ie/niger-food-crisis-west-africa-512341-Jul2012/)
+1. [Cover Image](http://img2.thejournal.ie/article/512341/river/?height=400&version=512377)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6747419.stm)
 2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/YAT321290.htm)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSCOL02152020070613?feedType=RSS)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070613&t=2&i=955955&w=&fh=545px&fw=&ll=&pl=&sq=&r=955955)
 
 ### Related:
 

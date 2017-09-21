@@ -8,6 +8,7 @@ Along with announcing a new Communities feature for Google+ today, Google also f
 ### Source:
 
 1. [VentureBeat](http://venturebeat.com/2012/12/06/google-plus-500m-users/)
+1. [Cover Image](http://venturebeat.files.wordpress.com/2012/11/google-plus-hangouts.jpg)
 
 ### Related:
 

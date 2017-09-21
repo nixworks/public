@@ -9,6 +9,7 @@ U.S. forces launched an airborne assault on a desert compound south of Baghdad o
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSGRA55965520070816?feedType=RSS&feedName=topNews)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSYAT71336220070816?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070816&t=2&i=1307282&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-16T112943Z_01_GRA559655_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

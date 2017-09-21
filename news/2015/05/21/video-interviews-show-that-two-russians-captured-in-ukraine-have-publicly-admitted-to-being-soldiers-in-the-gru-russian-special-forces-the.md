@@ -8,6 +8,7 @@ European mediators in the Ukrainian crisis said Thursday that two men captured b
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/russians-captured-ukraine-admit-serving-army-osce-165144112.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/eR5oYW.M._ReH5v1IHEGwA--/aD02ODY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8154006-1-1-0.jpg)
 
 ### Related:
 

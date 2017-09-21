@@ -8,6 +8,7 @@ Eight people were killed — including a 14-year-old boy — and at least 45 oth
 ### Source:
 
 1. [Fox Chicago](http://www.fox32chicago.com/news/crime/21885505-story)
+1. [Cover Image](http://static.lakana.com/media.fox32chicago.com/photo/2015/09/21/50_shot_____5_fatally_____in_weekend_sho_0_226484_ver1.0_640_360.jpg)
 
 ### Related:
 

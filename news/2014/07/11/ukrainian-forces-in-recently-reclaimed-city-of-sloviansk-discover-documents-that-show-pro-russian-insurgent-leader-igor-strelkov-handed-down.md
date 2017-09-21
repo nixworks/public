@@ -9,6 +9,7 @@ Ukrainian President Petro Poroshenko vowed to &quot;find and destroy&quot; pro-R
 
 1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/documents-reveal-shadowy-russian-rebel-commander-signed-off-on-executions-of-three-men-in-sloviansk-355580.html)
 2. [Reuters](http://www.reuters.com/article/2014/07/11/us-ukraine-crisis-idUSKBN0FG1A920140711)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140711&t=2&i=928801428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6A0JV)
 
 ### Related:
 

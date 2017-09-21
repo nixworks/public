@@ -8,6 +8,7 @@ Parliament this evening approved the introduction of gay marriage through the ne
 ### Source:
 
 1. [Times of Malta](https://www.timesofmalta.com/articles/view/20170712/local/marriage-equality-act-approved-with-edwin-vassallo-voting-against.653120)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/ddeaea3436703adb95a8a8c6d46c3fbcbed8fded-1499888078-596679ce-620x348.jpg)
 
 ### Related:
 

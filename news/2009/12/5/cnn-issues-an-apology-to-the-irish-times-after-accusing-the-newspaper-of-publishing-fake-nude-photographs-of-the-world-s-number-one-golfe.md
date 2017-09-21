@@ -8,6 +8,7 @@ CNN HAS apologised for printing a story on its website that incorrectly accused 
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/1205/1224260144984.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

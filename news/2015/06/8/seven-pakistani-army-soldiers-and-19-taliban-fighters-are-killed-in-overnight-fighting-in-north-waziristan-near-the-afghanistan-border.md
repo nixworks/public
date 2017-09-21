@@ -8,6 +8,7 @@ Seven Pakistani soldiers and 19 Taliban fighters killed in overnight fighting in
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/pakistan-soldiers-deadly-clash-taliban-150608073126307.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/6/201212653137403734_20.jpg)
 
 ### Related:
 

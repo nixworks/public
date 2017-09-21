@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11148807)
 2. [The Guardian](http://www.guardian.co.uk/film/2010/sep/01/michael-douglas-cancer-spread)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

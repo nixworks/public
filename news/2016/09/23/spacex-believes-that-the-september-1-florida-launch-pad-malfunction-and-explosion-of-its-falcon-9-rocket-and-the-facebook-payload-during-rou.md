@@ -8,6 +8,7 @@ A SpaceX rocket that burst into flames on its launch pad at the beginning of thi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-spacex-blast-idUSKCN11T26P)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160923&t=2&i=1154728496&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8M167)
 
 ### Related:
 

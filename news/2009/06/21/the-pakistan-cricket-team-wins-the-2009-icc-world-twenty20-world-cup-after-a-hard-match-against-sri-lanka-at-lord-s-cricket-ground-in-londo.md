@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Cricinfo](http://www.cricinfo.com/wt202009/content/current/story/410042.html)
+1. [Cover Image](http://www.espncricinfo.com/db/PICTURES/CMS/105100/105157.2.jpg)
 
 ### Related:
 

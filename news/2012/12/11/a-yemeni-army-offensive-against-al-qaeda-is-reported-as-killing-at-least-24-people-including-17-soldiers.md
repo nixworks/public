@@ -8,6 +8,7 @@ A MAJOR offensive launched by the Yemeni army against al-Qaeda following the ass
 ### Source:
 
 1. [News Limited](http://www.news.com.au/breaking-news/world/yemeni-offensive-on-al-qaeda-kills-24/story-e6frfkui-1226534938492)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

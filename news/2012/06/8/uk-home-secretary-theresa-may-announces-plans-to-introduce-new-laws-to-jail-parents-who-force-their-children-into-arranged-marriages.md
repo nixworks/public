@@ -8,6 +8,7 @@ New laws are to be introduced for England and Wales by the home secretary to jai
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18356117)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60756000/jpg/_60756458_007326210-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ About 10,000 people attended an anti-austerity protest in Dublin on Saturday, ac
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20478276)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64361000/jpg/_64361682_dubprotest.jpg)
 
 ### Related:
 

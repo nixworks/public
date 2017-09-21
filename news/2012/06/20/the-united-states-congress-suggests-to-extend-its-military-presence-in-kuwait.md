@@ -8,6 +8,7 @@ Congressional report says more troops should be based in Gulf state to respond t
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/americas/2012/06/201262024914884422.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/20/201262024426525734_20.jpg)
 
 ### Related:
 

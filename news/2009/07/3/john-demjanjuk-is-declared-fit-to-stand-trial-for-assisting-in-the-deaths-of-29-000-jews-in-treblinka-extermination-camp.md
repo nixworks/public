@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0703/demjanjukj.html)
+1. [Cover Image](https://img.rasset.ie/000248d5-1600.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [News24](http://www.news24.com/News24/South_Africa/News/0,,2-7-1442_1705370,00.html)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8494044)
 5. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/05/16/wcoup16.xml&sSheet=/news/2005/05/16/ixworld.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A tanker is believed to have docked in rebel-held eastern Libya to begin the fir
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12969004)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

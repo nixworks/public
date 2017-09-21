@@ -9,6 +9,7 @@ London mayor throws weight behind challenger Owen Smith, after condemning party 
 
 1. [Reuters](http://in.reuters.com/article/britain-labour-idINKCN10W04A)
 2. [The Observer'' via The Guardian](http://www.theguardian.com/politics/2016/aug/20/ditch-jeremy-corbyn-before-too-late-sadiq-khan-tells-labour)
+2. [Cover Image](https://i.guim.co.uk/img/media/1ae90bbca0500491a6e9fcad431220dce8365c1f/0_162_6016_3611/6016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=393fae3079e6ffcae9670f3a0b4ec617)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Suicide bomber explodes car bomb outside office in capital; Separate attack targ
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/8301-202_162-57421774/7-dead-in-nigeria-newspaper-office-bombings/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/04/26/69227156-a644-11e2-a3f0-029118418759/nigeria_AP120426127458.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Brazilian police have shot dead at least 13 more people in Rio de Janeiro as the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11836068)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-latin-america-11836068A/playlist.sxml)
 
 ### Related:
 

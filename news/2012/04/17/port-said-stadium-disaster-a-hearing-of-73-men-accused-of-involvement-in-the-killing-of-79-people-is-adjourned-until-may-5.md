@@ -8,6 +8,7 @@ Hearing of 73 men accused of involvement in football violence that killed more t
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/2012417103332557940.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/17/2012417154851879734_20.jpg)
 
 ### Related:
 

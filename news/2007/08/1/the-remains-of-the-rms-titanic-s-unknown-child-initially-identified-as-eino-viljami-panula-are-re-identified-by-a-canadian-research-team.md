@@ -8,6 +8,7 @@ Canadian researchers said the body of a nameless child who died aboard the Titan
 ### Source:
 
 1. [AP via FOX](http://www.foxnews.com/story/0,2933,291639,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

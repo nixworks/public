@@ -8,6 +8,7 @@ Police in the western Indian city of Thane arrest more than 750 people suspected
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-37564408)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CE1A/production/_91526725_mediaitem91526723.jpg)
 
 ### Related:
 

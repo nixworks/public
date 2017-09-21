@@ -8,6 +8,7 @@ Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11709617)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

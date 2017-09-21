@@ -10,6 +10,7 @@ Fourteen people have been killed in China in the heaviest rains in a century bro
 1. [AFP via ABC News](http://www.abc.net.au/news/2015-08-09/thousands-evacuated-as-typhoon-soudelor-approaches-china/6683360)
 2. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/07/world/asia/ap-as-asia-typhoon.html)
 3. [CNA via Focus Taiwan](http://focustaiwan.tw/news/asoc/201508080004.aspx)
+3. [Cover Image](http://www.abc.net.au/news/image/6684110-1x1-700x700.jpg)
 
 ### Related:
 

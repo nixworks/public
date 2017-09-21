@@ -8,6 +8,7 @@ Sen. Jeff Sessions has been offered the post of attorney general, while Rep. Mik
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/18/502207098/trump-picks-sen-jeff-sessions-for-attorney-general)
+1. [Cover Image](https://media.npr.org/assets/img/2016/11/18/ap_978277617119_wide-04bc41735eb993ec99352c7280b80c186ef43fc7.jpg?s=1400)
 
 ### Related:
 

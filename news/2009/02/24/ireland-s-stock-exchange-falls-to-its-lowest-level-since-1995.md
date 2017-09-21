@@ -8,6 +8,7 @@ Dublin&#39;s ISEQ index hit a 14-year low this morning, as markets around the wo
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0224/markets.html)
+1. [Cover Image](https://img.rasset.ie/00012915-1600.jpg)
 
 ### Related:
 

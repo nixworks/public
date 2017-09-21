@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/10/16/us-abe-yasukuni-idUSKCN0I52VF20141016)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141016&t=2&i=984052404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9F12X)
 
 ### Related:
 

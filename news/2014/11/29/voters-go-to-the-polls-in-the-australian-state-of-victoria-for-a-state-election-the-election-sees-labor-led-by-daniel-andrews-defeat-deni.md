@@ -11,6 +11,7 @@ Coalition leader Denis Napthine has conceded defeat and announced that he will b
 2. [Bloomberg News](http://www.bloomberg.com/news/2014-11-29/abbott-s-coalition-loses-government-in-victoria-state-election.html)
 3. [News.com.au](http://www.news.com.au/national/victorian-election-daniel-andrews-and-labor-win-victorian-state-election/story-fncynjr2-1227139023353)
 4. [The Age](http://www.theage.com.au/victoria/victoria-state-election-2014/victoria-state-election-2014-denis-napthine-concedes-defeat-20141129-11wwfi.html)
+4. [Cover Image](http://www.theage.com.au/content/dam/images/1/1/w/x/a/4/image.related.articleLeadwide.620x349.11wwfi.png/1417265852558.jpg)
 
 ### Related:
 

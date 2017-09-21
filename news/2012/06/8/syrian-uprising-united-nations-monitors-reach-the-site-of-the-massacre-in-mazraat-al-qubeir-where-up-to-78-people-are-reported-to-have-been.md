@@ -13,6 +13,7 @@ U.N. monitors entered the Syrian hamlet of Mazraat al-Qubeir where up to 78 peop
 4. [Press TV](http://www.presstv.ir/detail/2012/06/08/245229/jordanians-rally-against-fuel-price-hike/)
 5. [Press TV](http://www.presstv.ir/detail/2012/06/08/245232/cairo-echoes-with-antishafiq-slogans/)
 6. [Press TV](http://www.presstv.ir/detail/2012/06/08/245239/bahraini-forces-attack-rally-rights-activist-nabeel-rajab/)
+6. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/06/08/76238_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

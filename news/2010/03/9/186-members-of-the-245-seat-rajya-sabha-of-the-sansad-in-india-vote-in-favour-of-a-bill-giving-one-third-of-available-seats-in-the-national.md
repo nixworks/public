@@ -10,6 +10,7 @@ After a day of high drama that saw Rajya Sabha swarm with over hundred marshals 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8557237.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/03/08/india.women.parliament/index.html)
 3. [Times of India](http://timesofindia.indiatimes.com/india/Womens-Bill-passed-in-RS-as-Congress-refuses-to-be-cowed-down/articleshow/5665106.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/5663942.cms)
 
 ### Related:
 

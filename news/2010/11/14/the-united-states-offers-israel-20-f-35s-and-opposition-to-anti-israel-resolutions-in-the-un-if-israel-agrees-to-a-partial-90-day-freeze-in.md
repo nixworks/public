@@ -11,6 +11,7 @@ US offers incentives for a 90-day building freeze in West Bank, but the proposal
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11751713)
 3. [Haaretz](http://www.haaretz.com/blogs/mess-report/mess-report-obama-has-made-netanyahu-an-offer-he-can-t-refuse-1.324687)
 4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=195212)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/14/20101114105910522797_20.jpg)
 
 ### Related:
 

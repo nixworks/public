@@ -9,6 +9,7 @@ Yangon, Nov 22 (DPA) The second son of Nobel peace laureate Aung San Suu Kyi has
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11810577)
 2. [Sify India](http://sify.com/news/myanmar-grants-visa-to-suu-kyi-s-son-news-international-klwqOmgjjah.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Activists had promised to stay until ex-president Hosni Mubarak appears in court
 1. [Al-Ahram](http://english.ahram.org.eg/~/NewsContent/1/64/17900/Egypt/Politics-/Egypts-military-ends--week-old-Tahrir-sitin-by-for.aspx)
 2. [The National](http://www.thenational.ae/news/worldwide/middle-east/troops-and-riot-police-end-three-week-tahrir-square-sit-in?pageCount=0)
 3. [The Washington Post](http://www.washingtonpost.com/world/middle-east/egypts-military-police-break-up-tahrir-square-sit-in/2011/08/01/gIQAnvPOnI_story.html)
+3. [Cover Image](http://www.thenational.ae/storyimage/AB/20110802/ARTICLE/308029942/AR/0/AR-308029942.jpg)
 
 ### Related:
 

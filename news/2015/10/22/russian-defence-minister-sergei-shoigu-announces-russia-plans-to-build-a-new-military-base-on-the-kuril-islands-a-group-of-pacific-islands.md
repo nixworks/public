@@ -8,6 +8,7 @@ Russia plans to build a military base on the...
 ### Source:
 
 1. [Business Insider](http://uk.businessinsider.com/r-russia-says-to-build-military-base-on-contested-kurile-islands-2015-10?r=US&IR=T)
+1. [Cover Image](http://static6.uk.businessinsider.com/image/5628c4e7dd089521338b4650-1190-625/russia-is-building-a-military-base-on-disputed-islands-seized-from-japan-during-world-war-ii.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Taliban attack that killed nine U.S. soldiers, the biggest single American los
 
 1. [International Herald Tribune](http://www.iht.com/articles/2008/07/13/asia/afghan.php)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSSP8694520080714)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080714&t=2&i=5158526&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-07-14T163229Z_01_SP86945_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

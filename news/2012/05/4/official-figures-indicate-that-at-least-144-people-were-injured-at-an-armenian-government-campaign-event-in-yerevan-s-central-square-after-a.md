@@ -9,6 +9,7 @@ At least 144 people are injured at a political event in the Armenia capital afte
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125418222806654.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17964976)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60050000/jpg/_60050506_014667321.jpg)
 
 ### Related:
 

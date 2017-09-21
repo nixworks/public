@@ -8,6 +8,7 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010125175914872666.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/2010125181134631633_20.jpg)
 
 ### Related:
 

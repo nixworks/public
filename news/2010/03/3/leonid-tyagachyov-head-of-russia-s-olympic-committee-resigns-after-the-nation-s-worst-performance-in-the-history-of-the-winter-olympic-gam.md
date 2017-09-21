@@ -11,6 +11,7 @@ Leonid V. Tyagachev has become the first official to heed President Dmitri A. Me
 2. [Bangkok Post](http://www.bangkokpost.com/news/sports/170346/russia-olympic-chief-resigns-after-vancouver-flop)
 3. [The New York Times](http://www.nytimes.com/2010/03/04/world/europe/04russia.html?partner=MOREOVERNEWS&ei=5040)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/03/AR2010030301151.html?hpid=moreheadlines)
+4. [Cover Image](https://static01.nyt.com/images/2010/03/04/world/04russia_CA0/04russia_CA0-thumbStandard.jpg)
 
 ### Related:
 

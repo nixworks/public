@@ -13,6 +13,7 @@ At least 82 people are killed across Syria as tanks and troops move against prot
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-14439303)
 5. [Emirates 24/7](http://www.emirates247.com/news/world/stop-violence-immediately-league-2011-08-07-1.411760)
 6. [Kuwait News Agency](http://www.kuna.net.kw/NewsAgenciesPublicSite/ArticleDetails.aspx?id=2183929&Language=en)
+6. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54460000/jpg/_54460191_54460190.jpg)
 
 ### Related:
 

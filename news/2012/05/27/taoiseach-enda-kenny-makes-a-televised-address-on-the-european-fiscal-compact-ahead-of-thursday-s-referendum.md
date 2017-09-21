@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0527/breaking6.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

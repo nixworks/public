@@ -10,6 +10,7 @@
 1. [Daily News](http://www.dailynews.lk/2009/08/08/pol01.asp)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=102844&sectionid=351020406)
 3. [Reuters](http://www.reuters.com/article/asiaCrisis/idUSCOL461692)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

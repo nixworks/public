@@ -11,6 +11,7 @@ Everton&#039;s Shane Duffy is recovering from life-saving surgery after sufferin
 2. [BBC](http://news.bbc.co.uk/sport2/hi/football/8698705.stm)
 3. [RTÉ](http://www.rte.ie/sport/soccer/2010/0522/duffys_everton_ireland.html)
 4. [USA Today](http://www.usatoday.com/sports/soccer/2010-05-22-1565349563_x.htm)
+4. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

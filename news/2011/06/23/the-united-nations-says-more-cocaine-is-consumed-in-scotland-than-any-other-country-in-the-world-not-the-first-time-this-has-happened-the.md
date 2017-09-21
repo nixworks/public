@@ -8,6 +8,7 @@ Scotland is again placed at the top of the United Nations league for cocaine con
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-13898046)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53671000/jpg/_53671584_cocaine_pa.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The fire broke out in the early hours of Friday in the one-story hospital in the
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/25/russian-psychiatric-hospital-fire/2114533/)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-22304728)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A French soldier is killed in heavy fighting in northern Mali in the same region
 
 1. [AP via Navy Times](http://www.navytimes.com/news/2013/03/ap-france-says-key-al-qaida-chief-in-mali-likely-killed-030413/)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21648498)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66175000/jpg/_66175005_66175004.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Haleh Esfandiari looked tired and much thinner from her ordeal but pronounced he
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/08/22/world/middleeast/22iran.html?ex=1345435200&en=d959e28007961b6d&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/08/21/world/21cnd_iran.7575.jpg)
 
 ### Related:
 

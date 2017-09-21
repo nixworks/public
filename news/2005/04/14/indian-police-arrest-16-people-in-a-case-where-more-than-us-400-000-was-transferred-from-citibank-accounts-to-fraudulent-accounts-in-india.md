@@ -9,6 +9,7 @@ PUNE: The Pune police investigating the money siphoning racket told a city court
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8185214)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1076023.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-northkorea-missiles-south-thaad-idUSKBN18Q0I3)
+1. [Cover Image](//s4.reutersmedia.net/resources/r/?m=02&d=20170530&t=2&i=1186776401&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4T0BR)
 
 ### Related:
 

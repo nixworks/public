@@ -10,6 +10,7 @@
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g1yinutRi-T9xAeOy9QEfqw24eQgD9BMH1180)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/Chinese-education-minister-sacked-for-corruption/articleshow/5186401.cms)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-10/31/content_12365832.htm)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

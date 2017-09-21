@@ -8,6 +8,7 @@ Massive manhunt underway for suspect, identified as an Israeli Arab; two serious
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.694926)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.694941.1451664769!/image/4236182004.JPG_gen/derivatives/headline_1200x630/4236182004.JPG)
 
 ### Related:
 

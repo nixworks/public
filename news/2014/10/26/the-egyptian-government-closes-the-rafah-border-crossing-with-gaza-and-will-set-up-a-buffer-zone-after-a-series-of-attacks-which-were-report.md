@@ -8,6 +8,7 @@ Egyptian report claims perpetrators of Friday attack on army post in Sinai that 
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/egypt-said-to-set-up-buffer-zone-with-gaza-strip/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/09/Sinai.jpg)
 
 ### Related:
 

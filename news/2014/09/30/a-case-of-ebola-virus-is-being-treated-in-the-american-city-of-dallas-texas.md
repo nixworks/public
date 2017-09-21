@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''The Olympian](http://www.theolympian.com/2014/09/30/3346615/ap-newsalert-officials-confirm.html)
+1. [Cover Image](http://www.theolympian.com/static/images/theolympian/facebook.jpg)
 
 ### Related:
 

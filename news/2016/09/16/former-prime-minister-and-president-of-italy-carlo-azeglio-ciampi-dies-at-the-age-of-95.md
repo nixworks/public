@@ -8,6 +8,7 @@ Former Italian president, prime minister and central bank governor Carlo Azeglio
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-italy-ciampi-idUSKCN11M100)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160916&t=2&i=1153777324&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8F0N0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Taoiseach Enda Kenny has told the Dáil that he plans to travel to Áras an Uach
 ### Source:
 
 1. [RTÉ](https://www.rte.ie/news/2017/0613/882267-enda-kenny/)
+1. [Cover Image](https://img.rasset.ie/000e2eb0-1600.jpg)
 
 ### Related:
 

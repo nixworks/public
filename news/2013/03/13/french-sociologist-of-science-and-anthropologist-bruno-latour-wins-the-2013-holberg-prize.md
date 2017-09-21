@@ -10,6 +10,7 @@ Bruno Latour, anthropologist and sociologist, is this year&#039;s Holberg Prize 
 1. [Aftenposten](http://www.aftenposten.no/kultur/Holbergprisen-til-Bruno-Latour-7146138.html)
 2. [Holbergprisen](http://www.holbergprisen.no/en/holberg-prize-2013.html)
 3. [Le Monde](http://www.lemonde.fr/societe/article/2013/03/13/l-anthropologue-francais-bruno-latour-distingue-en-norvege_1847284_3224.html)
+3. [Cover Image](http://ap.mnocdn.no/images/5f401a44-4489-4b90-b985-8f609016e3c9?fit=crop&q=80&w=1440)
 
 ### Related:
 

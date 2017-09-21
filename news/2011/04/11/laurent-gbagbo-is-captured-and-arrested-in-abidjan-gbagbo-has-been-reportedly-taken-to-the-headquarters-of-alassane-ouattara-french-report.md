@@ -10,6 +10,7 @@ Ivory&#x20;Coast&#x20;strongman&#x20;Laurent&#x20;Gbagbo&#x20;has&#x20;been&#x20
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/captured-gbagbo-calls-for-end-to-fighting-20110412-1dbd1.html)
 2. [France 24](http://www.france24.com/en/20110411-liveblogging-gbagbo-captured-held-rival-ouattaras-forces)
 3. [Washington Post](http://www.washingtonpost.com/world/french-embassy-forces-arrest-ivory-coasts-gbagbo-more-than-4-months-after-presidential-vote/2011/04/11/AFhoM2ID_story.html)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/gbagbo-arrete-m.jpg)
 
 ### Related:
 

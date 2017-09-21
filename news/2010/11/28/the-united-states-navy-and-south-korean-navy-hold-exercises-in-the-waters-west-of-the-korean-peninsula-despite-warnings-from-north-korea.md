@@ -15,6 +15,7 @@ gyun and Jo Yong-hak
 6. [Reuters](http://www.reuters.com/article/idUSL3E6MN0SQ20101128)
 7. [Reuters](http://www.reuters.com/article/idUSTRE6AR19920101128)
 8. [The New York Times](http://www.nytimes.com/2010/11/29/world/29cables.html?_r=1&hp)
+8. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101128&t=2&i=259414215&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-28T011844Z_01_BTRE6AR03NB00_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

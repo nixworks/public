@@ -8,6 +8,7 @@ Russia&#x27;s&#x20;lower&#x20;house&#x20;gave&#x20;preliminary&#x20;approval&#x2
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20101224-russian-legislators-ratify-arms-pact-next-year-start)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/douma.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2012/02/09/china-canada-trade.html)
+1. [Cover Image](https://i.cbc.ca/1.1488409.1379073406!/httpImage/image.jpg_gen/derivatives/16x9_1180/harperhufeb9-852.jpg)
 
 ### Related:
 

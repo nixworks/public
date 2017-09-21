@@ -11,6 +11,7 @@ IDF launches operation &#39;First Rain,&#39; hits Hamas, al-Aqsa Martyrs&#39; Br
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4280262.stm)
 3. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5301572,00.html)
 4. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3146657,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

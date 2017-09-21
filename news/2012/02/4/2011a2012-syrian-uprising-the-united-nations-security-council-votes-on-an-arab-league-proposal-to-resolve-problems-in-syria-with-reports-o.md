@@ -17,6 +17,7 @@ Syrian forces are accused of killing scores of people in Homs in one of the bloo
 8. [Reuters via the ''Hindustan Times](http://www.hindustantimes.com/News-Feed/World/Syria-crisis-Russia-China-veto-UN-resolution/Article1-806890.aspx)
 9. [Reuters](http://af.reuters.com/article/topNews/idAFJOE81303520120204)
 10. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9061877/12-arrests-during-protests-at-Syrian-embassy-in-London.html)
+10. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58297000/jpg/_58297482_013910500-1.jpg)
 
 ### Related:
 

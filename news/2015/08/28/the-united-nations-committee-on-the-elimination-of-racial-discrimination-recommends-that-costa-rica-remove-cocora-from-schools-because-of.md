@@ -8,6 +8,7 @@ The U.N. Committee on the Elimination of Racial Discrimination said its members 
 ### Source:
 
 1. [The Tico Times](http://www.ticotimes.net/2015/08/28/un-committee-asks-costa-rica-to-remove-cocori-from-grade-school-classrooms-citing-the-books-racist-connotations)
+1. [Cover Image](http://www.ticotimes.net/wp-content/uploads/2015/05/40-1774_cocor.jpg)
 
 ### Related:
 

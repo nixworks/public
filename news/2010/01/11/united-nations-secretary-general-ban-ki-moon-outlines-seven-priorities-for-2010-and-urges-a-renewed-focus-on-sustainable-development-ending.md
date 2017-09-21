@@ -9,6 +9,7 @@
 
 1. [Sudan Tribune](http://www.sudantribune.com/spip.php?article33733)
 2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33454&Cr=Secretary-General&Cr1=Priorit)
+2. [Cover Image](/News/dh/photos/large/2010/424802-ki-moon.jpg)
 
 ### Related:
 

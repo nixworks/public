@@ -8,6 +8,7 @@ Powerful blizzards have blasted across Canada&#039;s Atlantic coast as high wind
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/03/27/worst-storm-decade-bears-down-canada)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/140327_aap_canada.jpg)
 
 ### Related:
 

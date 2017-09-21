@@ -9,6 +9,7 @@
 
 1. [AFP via ''Adelaide Now](http://www.adelaidenow.com.au/news/world/palestinians-admitted-to-unesco/story-e6frea8l-1226182049014?from=public_rss)
 2. [CBS News](http://www.cbsnews.com/8301-202_162-20128358/u.s-cuts-unesco-funding-after-palestinian-vote/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/11/01/ab7ec879-a643-11e2-a3f0-029118418759/us_unesco_AP111031021434_fullwidth.jpg)
 
 ### Related:
 

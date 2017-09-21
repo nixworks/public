@@ -10,6 +10,7 @@ The deadly blaze that killed five homeless people highlighted L.A.&apos;s ongoin
 1. [LA Weekly](http://www.laweekly.com/news/man-arrested-after-5-bodies-found-in-burned-building-7030451)
 2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-bodies-la-office-20160614-snap-story.html)
 3. [UPI](http://www.upi.com/Top_News/US/2016/06/14/Suspect-arrested-after-five-bodies-found-in-burned-building/1551465953465/?spt=hs&or=tn_us)
+3. [Cover Image](http://www.trbimg.com/img-5762069c/turbine/la-me-ln-westlake-fatal-fire-arrest-20160615-snap)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Minister for Justice Dermot Ahern has said that he will not contest his Dáil se
 2. [Irish Independent](http://www.independent.ie/national-news/taoiseach-pays-tribute-to-dermot-ahern-2441936.html)
 3. [RTÉ](http://www.rte.ie/news/2010/1130/ahernd.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1130/breaking12.html?via=mr)
+4. [Cover Image](https://img.rasset.ie/0003db8e-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President Obama outlined a new immigration policy under which young illegal immi
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/06/16/us/us-to-stop-deporting-some-illegal-immigrants.html?pagewanted=all)
+1. [Cover Image](https://static01.nyt.com/images/2012/06/16/us/politics/16obama4-span/16obama4-span-superJumbo.jpg)
 
 ### Related:
 

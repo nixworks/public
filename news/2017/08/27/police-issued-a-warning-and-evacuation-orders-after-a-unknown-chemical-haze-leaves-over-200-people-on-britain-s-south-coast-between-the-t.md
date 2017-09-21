@@ -9,6 +9,7 @@ More than 100 people are treated in hospital after a suspected chemical leak alo
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-sussex-41070002)
 2. [Reuters](http://www.reuters.com/article/us-britain-haze-idUSKCN1B70UD?il=0)
+2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05dh7ss.jpg)
 
 ### Related:
 

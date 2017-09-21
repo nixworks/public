@@ -7,7 +7,7 @@ _Context: Central Intelligence Organization, Elson Moyo, Engelbert Rugeje, Harar
 _Context: Europe, Russia, United States_
 
 ### [ U.S. President George W. Bush calls for a UN-backed action over Kosovo's independence despite Russian and Serbian opposition. ](/news/2007/06/9/u-s-president-george-w-bush-calls-for-a-un-backed-action-over-kosovo-s-independence-despite-russian-and-serbian-opposition.md)
-_Context: George W. Bush, Kosovo, President, Russia, Serbia, UN_
+_Context: George W. Bush, Kosovo, Russia, Serbia, U.S. President, UN_
 
 ### [ Racehorse Rags to Riches becomes the first filly to win the Belmont Stakes in 102 years by defeating Preakness winner Curlin. ](/news/2007/06/9/racehorse-rags-to-riches-becomes-the-first-filly-to-win-the-belmont-stakes-in-102-years-by-defeating-preakness-winner-curlin.md)
 _Context: Belmont Stakes, Curlin, Preakness, Rags to Riches, filly_

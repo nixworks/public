@@ -8,6 +8,7 @@ One of the entrance halls has collapsed in a five-story apartment block in Mezhd
 ### Source:
 
 1. [RT](https://www.rt.com/news/344927-apartment-building-collapse-siberia/)
+1. [Cover Image](https://img.rt.com/files/2016.05/article/574d7cbcc36188c47c8b45a9.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Australian dollar scaled multi-month peaks against the yen and rallied on th
 ### Source:
 
 1. [AAP via ''The Age](http://www.theage.com.au/business/markets/dollar-loses-on-fresh-greek-doubts-20120215-1t4p9.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/1/j/x/y/9/image.related.thumbnail.320x214.1t4p9.png/1399516746210.jpg)
 
 ### Related:
 

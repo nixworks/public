@@ -10,6 +10,7 @@ Japan Foreign Minister Seiji Maehara resigns after being criticised for acceptin
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/03/201136132933681887.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12659629)
 3. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110306x1.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

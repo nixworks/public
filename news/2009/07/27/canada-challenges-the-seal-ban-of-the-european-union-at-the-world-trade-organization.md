@@ -10,6 +10,7 @@ The EU gave the final go-ahead on Monday for a ban on imports of seal products, 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8171490.stm)
 2. [CBC](http://www.cbc.ca/world/story/2009/07/27/seal-hunt-ban-eu476.html)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56Q2FN20090727?feedType=RSS&feedName=worldNews)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090727&t=2&i=11013013&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-27T163019Z_01_BTRE56Q13AP00_RTROPTP_0_SPAIN)
 
 ### Related:
 

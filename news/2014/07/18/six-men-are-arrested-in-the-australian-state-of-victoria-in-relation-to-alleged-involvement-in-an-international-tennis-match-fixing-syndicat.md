@@ -8,6 +8,7 @@ Six men have been arrested in connection to an alleged international tennis matc
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-07-18/six-men-arrested-in-relation-to-suspected-tennis-match-fixing/5606962)
+1. [Cover Image](http://www.abc.net.au/news/image/1345578-1x1-700x700.jpg)
 
 ### Related:
 

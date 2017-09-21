@@ -10,6 +10,7 @@ Israel barred Palestinians from Jerusalem&#x27;s Old City Sunday as violence spr
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-34435197)
 2. [CNN](http://edition.cnn.com/2015/10/04/middleeast/jerusalem-violence/)
 3. [Yahoo News](https://news.yahoo.com/israel-bars-palestinians-jerusalem-old-city-2-days-054647300.html#)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/K8KKP14v1S4bgDYrbzpFNQ--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6492062-1-1-0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ukraine’s government survived a no-confidence motion as tens of thousands of p
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2013/12/03/ukraine-government-survives-no-confidence-motion/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rebel-held areas in Aleppo and Rastan pounded by government troops, as deadly cl
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/middleeast/2012/09/201291691755879536.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/16/2012916183451457734_20.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [New Kerala](http://www.newkerala.com/news-daily/news/features.php?action=fullnews&id=64603)
 3. [Rediff, india](http://in.rediff.com/news/2005/jan/25satara.htm)
 4. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/BOM50055.htm)
+4. [Cover Image](http://im.rediff.com/300-300/news/2005/jan/25stamped.gif)
 
 ### Related:
 

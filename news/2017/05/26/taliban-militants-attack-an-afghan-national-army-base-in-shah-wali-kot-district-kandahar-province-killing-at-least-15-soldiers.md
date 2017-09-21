@@ -8,6 +8,7 @@ The attack comes days after the militants stormed another military base in the s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-40060378)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8860/production/_96221943_afghanistan_shah_wali_kot_967.png)
 
 ### Related:
 

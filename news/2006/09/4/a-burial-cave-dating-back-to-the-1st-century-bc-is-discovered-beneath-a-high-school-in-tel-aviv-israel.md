@@ -8,6 +8,7 @@ Students at Rogozin High School in Tel Aviv don’t need to go far to get an arc
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3299730,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

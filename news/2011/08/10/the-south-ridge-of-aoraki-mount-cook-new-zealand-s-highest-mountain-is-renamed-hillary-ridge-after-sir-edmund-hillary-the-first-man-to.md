@@ -8,6 +8,7 @@ WELLINGTON (Reuters Life!) - New Zealand will name a part of its highest mountai
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2011/08/10/idINIndia-58707320110810?feedType=RSS&feedName=entertainmentNews&WT.tsrc=Social%20Media&WT.z_smid=twtr-RtrsIN_Entrtnmt&WT.z_smid_dest=Twitter&dlvrit=70620)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

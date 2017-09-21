@@ -8,6 +8,7 @@ Supporters of the exiled leader of Pakistan&#039;s MQM party end their protest a
 ### Source:
 
 1. [ABC Australia and AFP](http://www.abc.net.au/news/2014-06-07/an-uk-releases-pakistan-politician/5507942)
+1. [Cover Image](http://www.abc.net.au/news/image/5498182-1x1-700x700.jpg)
 
 ### Related:
 

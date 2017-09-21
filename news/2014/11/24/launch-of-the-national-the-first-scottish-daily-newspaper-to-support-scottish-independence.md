@@ -8,6 +8,7 @@ A brand new daily paper claiming to “fly a vibrant flag for Scottish independe
 ### Source:
 
 1. [RT](http://rt.com/uk/208371-national-scottish-paper-launches/)
+1. [Cover Image](https://img.rt.com/files/news/32/df/30/00/8.si.jpg)
 
 ### Related:
 

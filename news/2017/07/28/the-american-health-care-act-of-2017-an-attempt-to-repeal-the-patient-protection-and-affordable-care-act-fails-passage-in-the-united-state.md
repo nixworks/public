@@ -8,6 +8,7 @@ The seven-year Republican quest to scrap Obamacare, a major campaign vow by Pres
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170728&t=2&i=1194825708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6R0F4)
 
 ### Related:
 

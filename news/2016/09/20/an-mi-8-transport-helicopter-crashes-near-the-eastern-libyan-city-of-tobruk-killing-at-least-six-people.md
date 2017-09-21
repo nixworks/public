@@ -8,6 +8,7 @@ Libyan medics say a helicopter crashed near the eastern city where the internati
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/09/20/helicopter-crash-in-libya-kills-6-including-aide-to-general.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

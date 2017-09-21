@@ -9,6 +9,7 @@ Imran Khan&#039;s opposition party will resign its seats in Pakistan&#039;s nati
 
 1. [LBC](http://www.lbcgroup.tv/news/172892/lbci-news)
 2. [Reuters via Radio Australia](http://www.abc.net.au/news/2014-08-19/imran-khan-party-to-resign-parliamentary-seats/5679826)
+2. [Cover Image](http://www.abc.net.au/news/image/5679872-1x1-700x700.jpg)
 
 ### Related:
 

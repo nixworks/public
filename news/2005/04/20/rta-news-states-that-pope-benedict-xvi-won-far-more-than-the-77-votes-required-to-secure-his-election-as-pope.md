@@ -8,6 +8,7 @@ Authorities in Rome have said they are expecting up to 500,000 people to attend 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2005/0420/pope.html)
+1. [Cover Image](https://img.rasset.ie/00004682-1600.jpg)
 
 ### Related:
 

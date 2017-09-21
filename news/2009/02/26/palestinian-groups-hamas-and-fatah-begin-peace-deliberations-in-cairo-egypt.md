@@ -8,6 +8,7 @@ Leaders of the rival Palestinian groups Hamas and Fatah declared Thursday a “h
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/02/27/world/middleeast/27mideast.html?partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

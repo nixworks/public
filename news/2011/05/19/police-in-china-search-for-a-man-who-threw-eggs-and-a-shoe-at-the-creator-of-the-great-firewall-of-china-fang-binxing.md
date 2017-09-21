@@ -10,6 +10,7 @@ The man known as the father of the so-called &#034;Great Firewall of China&#034;
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13455819)
 2. [Business Insider](http://www.businessinsider.com/fang-binxing-2011-5)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8523806/Man-behind-Great-Firewall-of-China-pelted-with-eggs.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01899/fang_1899880a.jpg)
 
 ### Related:
 

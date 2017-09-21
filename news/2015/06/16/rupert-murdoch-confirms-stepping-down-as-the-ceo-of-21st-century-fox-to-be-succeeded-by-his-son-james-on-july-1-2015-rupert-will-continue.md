@@ -8,6 +8,7 @@ As expected, 21st Century Fox board approved a proposal to promote James Murdoch
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/money/2015/06/16/21st-century-fox-confirms-james-murdoch-promotion-to-ceo/28825355/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

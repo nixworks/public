@@ -8,6 +8,7 @@ The European Union suspends sanctions against 81 officials and eight firms in Zi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21928152)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66595000/jpg/_66595210_66595209.jpg)
 
 ### Related:
 

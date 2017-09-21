@@ -8,6 +8,7 @@ Ousted Honduran president Manuel Zelaya said he expects the US administration to
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/14/zelaya-calls-for-more-us-drastic-measures-against-honduras-usurpers)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19825/200x200/ba684b7d9b13f3554baed2d2df41331b.jpg)
 
 ### Related:
 

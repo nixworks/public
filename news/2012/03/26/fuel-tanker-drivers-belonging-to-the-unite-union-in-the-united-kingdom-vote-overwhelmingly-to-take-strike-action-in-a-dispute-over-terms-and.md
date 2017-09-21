@@ -8,6 +8,7 @@ Fuel tanker drivers have voted overwhelmingly to go on strike in a row over term
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17512729)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59287000/jpg/_59287956_014317873-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A US government aid agency pulls $472m (£331m) of funding for a Tanzanian elect
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35917339)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3F45/production/_88979161_gettyimages-516675438.jpg)
 
 ### Related:
 

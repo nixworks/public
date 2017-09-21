@@ -12,6 +12,7 @@ A French stuntman renowned for climbing skyscrapers has once again been arrested
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Spiderman-Alain-Robert-Held-After-Scaling-Skyscraper-Lumiere-Building-In-Sydney-Australia/Article/201008415709054?lpos=World_News_Second_World_News_Article_Teaser_Region_2&lid=ARTICLE_15709054_Spiderman_Alain_Robert_Held_After_Scaling_Skyscraper_Lumiere_Building_In_Sydney%2C_Australia)
 4. [The Sydney Morning Herald](http://www.smh.com.au/environment/police-web-snares-le-spiderman-at-top-of-57storey-cbd-tower-20100830-145bn.html)
 5. [Xinhua](http://news.xinhuanet.com/english2010/sports/2010-08/30/c_13469077.htm)
+5. [Cover Image](http://www.smh.com.au/content/dam/images/1/4/5/c/t/image.related.articleLeadwide.620x349.145bn.png/1283149820537.jpg)
 
 ### Related:
 

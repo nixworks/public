@@ -8,6 +8,7 @@ A dispute in Okinawa is escalating after the governor of the island refused to r
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/06/Okinawa-governor-refuses-to-back-down-on-US-base-relocation/1571446836720/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/1571446836720/2015/1/c4e1dfc68fac5966aa888e4ca0d04961/v1.5/Okinawa-governor-refuses-to-back-down-on-US-base-relocation.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korea says it will accept all South Korean delegations wishing to pay resp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16312157)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57540000/jpg/_57540618_013575768-1.jpg)
 
 ### Related:
 

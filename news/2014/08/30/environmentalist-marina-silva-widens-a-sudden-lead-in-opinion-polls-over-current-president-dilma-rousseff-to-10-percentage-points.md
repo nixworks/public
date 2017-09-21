@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/08/30/us-brazil-election-idUSKBN0GT2N420140830)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140830&t=2&i=968740222&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7S11I)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/blogs-news-from-elsewhere-37285805)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1795C/production/_91040669_swordmbl.png)
 
 ### Related:
 

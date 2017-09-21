@@ -8,6 +8,7 @@ Police records and data gathered by Al Jazeera show close to 6,000 killed since 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/indepth/interactive/2016/08/philippines-death-toll-duterte-war-drugs-160825115400719.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2016/8/25/b207c34891ba4509b70f5ee1ca9b95c6_18.jpg)
 
 ### Related:
 

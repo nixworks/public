@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Indian Express](http://indianexpress.com/article/world/bangladesh-pm-sheikh-hasina-accuses-myanmar-of-committing-atrocities-on-rohingyas-4840345/)
+1. [Cover Image](http://images.indianexpress.com/2017/09/rohi-7591.jpg?w=759)
 
 ### Related:
 

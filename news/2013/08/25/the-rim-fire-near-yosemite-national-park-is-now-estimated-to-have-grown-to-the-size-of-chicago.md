@@ -8,6 +8,7 @@ Firefighters brace for an intense battle to keep a wildfire raging north of Yose
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57599999/rim-fire-udpate-massive-yosemite-fire-creating-its-own-weather-pattern/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/08/25/efdd539e-1c4b-11e3-9918-005056850598/wildfire_AP865823255090.jpg)
 
 ### Related:
 

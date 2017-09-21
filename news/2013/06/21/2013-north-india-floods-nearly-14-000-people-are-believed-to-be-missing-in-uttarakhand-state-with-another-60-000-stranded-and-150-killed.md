@@ -8,6 +8,7 @@ Heroic rescue efforts by the army have rescued 14,000 people days after Uttarakh
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/cheat-sheet/uttarakhand-nearly-14-000-people-missing-60-000-still-stranded-382394)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

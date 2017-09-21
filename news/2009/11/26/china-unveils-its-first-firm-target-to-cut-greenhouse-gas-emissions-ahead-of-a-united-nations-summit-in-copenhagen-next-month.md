@@ -10,6 +10,7 @@ Harrison and Chris Buckley
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5AP11H20091126)
 2. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6933127.ece)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-11/26/content_12544181.htm)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091126&t=2&i=20255355&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-26T201932Z_01_BTRE5AP11J000_RTROPTP_0_OLYMPICS-CHINA-BEIJING)
 
 ### Related:
 

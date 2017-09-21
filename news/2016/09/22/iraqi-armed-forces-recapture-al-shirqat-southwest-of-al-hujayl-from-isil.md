@@ -9,6 +9,7 @@ Iraqi forces backed by air strikes from the U.S.-led coalition gained complete c
 
 1. [Reuters](http://www.reuters.com/article/idUSKCN11S0MW)
 2. [The National](http://www.thenational.ae/world/middle-east/iraq-forces-push-isil-militants-from-key-northern-town)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160922&t=2&i=1154579388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8L18E)
 
 ### Related:
 

@@ -8,3 +8,4 @@ WESTON, Wis. (AP) — The Latest on a string of shootings in northern Wisconsin 
 ### Source:
 
 1. [WTOP](http://wtop.com/education/2017/03/the-latest-police-cite-domestic-dispute-in-shooting/)
+1. [Cover Image](http://wtop.com/wp-content/uploads/2016/08/og-image.jpg)

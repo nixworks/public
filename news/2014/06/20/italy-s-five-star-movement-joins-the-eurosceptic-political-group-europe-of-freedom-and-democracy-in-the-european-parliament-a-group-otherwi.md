@@ -8,6 +8,7 @@
 ### Source:
 
 1. [EU Observer](http://euobserver.com/eu-elections/124667)
+1. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/8334ee1c89c11f6b3cfd3a4c3671fdc9-480x.jpg)
 
 ### Related:
 

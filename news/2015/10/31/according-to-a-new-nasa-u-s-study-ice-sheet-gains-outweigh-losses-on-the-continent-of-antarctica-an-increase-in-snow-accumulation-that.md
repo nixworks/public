@@ -9,6 +9,7 @@ According to a new NASA study, ice sheet gains outweigh losses on the Antarctic 
 
 1. [NASA](http://www.nasa.gov/feature/goddard/nasa-study-mass-gains-of-antarctic-ice-sheet-greater-than-losses)
 2. [UPI](http://www.upi.com/Science_News/2015/10/31/NASA-study-Net-gains-for-Antarctic-ice-sheets/9711446321864/?spt=mps&or=1)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/9711446321864/2015/1/14463248853363/v2.1/NASA-study-Net-gains-for-Antarctic-ice-sheets.jpg)
 
 ### Related:
 

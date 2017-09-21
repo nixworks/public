@@ -9,6 +9,7 @@ An extra-alarm fire destroyed hundreds of apartemnts Wednesday evening in comple
 
 1. [CBS](http://newyork.cbslocal.com/2015/01/21/fire-rips-through-apartment-complex-in-edgewater-new-jersey/)
 2. [NJ.com](http://www.nj.com/bergen/index.ssf/2015/01/yankees_announcer_loses_everything_in_devastating.html)
+2. [Cover Image](https://cbsnewyork.files.wordpress.com/2015/01/edgewater_nj_fire_0121b.jpg?w=625)
 
 ### Related:
 

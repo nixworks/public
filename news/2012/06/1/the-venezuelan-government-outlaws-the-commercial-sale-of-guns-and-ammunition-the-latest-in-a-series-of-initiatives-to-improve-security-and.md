@@ -8,6 +8,7 @@ Venezuela brings in a new law banning the commercial sale of guns and ammunition
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18288430)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60631000/jpg/_60631174_014784389-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Thailand&#039;s junta-appointed National Reform Council (NRC) yesterday rejected
 
 1. [AsiaOne](http://news.asiaone.com/news/asia/thai-council-rejects-proposed-constitution#sthash.hEeIlde7.dpuf)
 2. [BBC](http://www.bbc.com/news/world-asia-34149523)
+2. [Cover Image](http://news.asiaone.com/sites/default/files/original_images/Sep2015/20150907_mock_reuters.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Workers at two restaurants in England have voted to strike in what would be the 
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-08-18/staff-at-two-u-k-mcdonald-s-restaurants-vote-for-first-strike)
 2. [The Guardian](https://www.theguardian.com/business/2017/aug/18/mcdonalds-employees-vote-to-strike-over-pay-and-zero-hours-concerns)
+2. [Cover Image](https://i.guim.co.uk/img/media/4546b28f04bdafacde8f9d8f382d51c6f3f96273/0_1_5184_3110/master/5184.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=96a37c24d9f659530a4d5a6b0ecfd4fd)
 
 ### Related:
 

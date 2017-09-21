@@ -8,6 +8,7 @@ Nearly three weeks after a Bangladesh garment-factory building collapsed, the se
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/world/search-of-collapsed-bangladesh-building-ends-with-1-127-found-dead-1.1278819)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1279841.1368482068!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

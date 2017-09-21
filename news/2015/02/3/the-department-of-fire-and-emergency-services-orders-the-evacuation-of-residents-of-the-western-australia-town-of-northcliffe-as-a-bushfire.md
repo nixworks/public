@@ -8,6 +8,7 @@ TWO emergency warnings are in place for lightning-sparked bushfires in Western A
 ### Source:
 
 1. [Perth Now](http://www.perthnow.com.au/news/western-australia/live-updates-northcliffe-under-threat-from-raging-bushfire/story-fnhocxo3-1227206087626?nk=189524b3e2a960d591ca9939c129a980)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/3bec2865a2e7e6fc13d587323d224867)
 
 ### Related:
 

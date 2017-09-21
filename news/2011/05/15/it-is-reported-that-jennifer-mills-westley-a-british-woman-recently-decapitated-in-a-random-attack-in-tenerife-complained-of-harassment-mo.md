@@ -10,6 +10,7 @@ The Bulgarian man accused of stabbing and beheading a UK woman in a shop on the 
 1. [BBC](http://www.bbc.co.uk/news/uk-13403303)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/15/spain.supermarket.beheading/index.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/may/14/woman-beheaded-tenerife-sought-aid-attack)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52736000/jpg/_52736711_011987836-1.jpg)
 
 ### Related:
 

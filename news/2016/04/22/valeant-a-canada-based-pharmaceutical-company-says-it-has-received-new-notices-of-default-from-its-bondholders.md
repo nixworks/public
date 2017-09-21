@@ -8,6 +8,7 @@ Canadian drugmaker Valeant Pharmaceuticals International Inc (VRX.TO) said it re
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-valeant-lenders-idUSKCN0XJ2R6)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160422&t=2&i=1134146761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3L1KF)
 
 ### Related:
 

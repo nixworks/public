@@ -9,6 +9,7 @@ Ruling party fights to maintain domination of the National Assembly against a un
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/20109260176671451.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11413506)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/26/201092603759305734_20.jpg)
 
 ### Related:
 

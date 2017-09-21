@@ -8,6 +8,7 @@ In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 1
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Somali-pirates-capture-120-Indian-sailors/articleshow/5741365.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/5737442.cms)
 
 ### Related:
 

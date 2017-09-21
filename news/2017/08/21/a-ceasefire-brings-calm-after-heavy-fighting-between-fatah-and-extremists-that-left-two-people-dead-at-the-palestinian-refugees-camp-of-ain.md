@@ -8,6 +8,7 @@ A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clas
 ### Source:
 
 1. [Daily Star](https://www.dailystar.com.lb/News/Lebanon-News/2017/Aug-21/416598-third-ain-al-hilweh-cease-fire-brings-tentative-calm.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2017/08/21/635934_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

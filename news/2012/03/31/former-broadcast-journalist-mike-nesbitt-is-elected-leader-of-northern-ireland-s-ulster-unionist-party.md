@@ -8,6 +8,7 @@ Former broadcaster Mike Nesbitt is elected the new leader of the Ulster Unionist
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-17572015)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59415000/jpg/_59415679_nesbitttv.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Forensic experts have unearthed about 68 bodies from another cluster of mass gra
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/africa/05/09/ivory.coast.mass.graves/index.html?eref=edition)
 2. [UPI](http://www.upi.com/Top_News/Special/2011/05/09/Mass-graves-uncovered-in-Ivory-Coast/UPI-46881304955889/)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/05/09/ivory.coast.mass.graves/tzvids.ouattara.afp.gi.jpg)
 
 ### Related:
 

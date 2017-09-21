@@ -9,6 +9,7 @@ SANAA: Six Pakistani sailors were reportedly killed in a Saudi air strike target
 
 1. [The Nation, Pakistan](http://nation.com.pk/national/06-Dec-2016/saudi-jets-attack-pakistani-boat-off-yemen-kill-six-sailors)
 2. [The News](https://www.thenews.com.pk/print/170151-Saudi-jets-kill-six-Pakistani-sailors-off-Yemen-coast)
+2. [Cover Image](https://www.thenews.com.pk/assets/uploads/akhbar/2016-12-06/l_170151_044716_print.jpg)
 
 ### Related:
 

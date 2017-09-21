@@ -11,6 +11,7 @@
 2. [Boston Globe](http://www.boston.com/news/world/latinamerica/articles/2009/09/01/guatemala_convicts_paramilitary_in_disappearances/?rss_id=Boston.com+--+Latest+news)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5800F720090901?feedType=RSS&feedName=worldNews)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0901/breaking61.htm)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090901&t=2&i=11421640&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-01T023000Z_01_BTRE58006Y500_RTROPTP_0_GUATEMALA-RIGHTS)
 
 ### Related:
 

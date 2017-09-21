@@ -8,6 +8,7 @@ The Government has agreed on the terms of reference for the Commission of Invest
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2014/0408/607407-cabinet-to-discuss-commission-of-investigation-ter/)
+1. [Cover Image](https://img.rasset.ie/0007e11e-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4337100.stm)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/10/14/AR2005101400206.html)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

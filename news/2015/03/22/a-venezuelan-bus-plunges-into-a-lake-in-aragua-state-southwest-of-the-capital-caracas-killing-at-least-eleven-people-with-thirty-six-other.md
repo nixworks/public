@@ -8,6 +8,7 @@ A bus veers off a highway and plunges into a lake in central Venezuela, killing 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-32011129)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81834000/jpg/_81834621_81834620.jpg)
 
 ### Related:
 

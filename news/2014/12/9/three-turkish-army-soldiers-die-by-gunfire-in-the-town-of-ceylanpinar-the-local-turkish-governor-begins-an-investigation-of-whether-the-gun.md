@@ -8,6 +8,7 @@ Three Turkish soldiers are killed by gunfire in the town of Ceylanpinar on the b
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30389859)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79601000/jpg/_79601265_79601264.jpg)
 
 ### Related:
 

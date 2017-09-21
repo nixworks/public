@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Age](http://www.theage.com.au/national/benedicts-big-day-out-in-sydney-20080717-3gt3.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/3/g/t/e/image.related.articleLeadwide.620x349.3gt3.png/1216281054010.jpg)
 
 ### Related:
 

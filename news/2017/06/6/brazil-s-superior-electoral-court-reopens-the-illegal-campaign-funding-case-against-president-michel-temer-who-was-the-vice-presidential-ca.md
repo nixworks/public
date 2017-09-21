@@ -9,6 +9,7 @@ Brasília (AFP) - Judges on Brazil&amp;#39;s electoral court were expected to st
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-politics-ticket-idUSKBN18X29O)
 2. [Yahoo!7 News](https://au.news.yahoo.com/world/a/35780337/brazilian-president-faces-election-court-showdown/#page1)
+2. [Cover Image](https://s.yimg.com/iu/api/res/1.2/.76Q8QiEbvTS5F9M5GqLfA--~B/YXBwaWQ9eXZpZGVvO3c9Njk2O2g9MzU0O2R4PTE7ZHk9MTtjdz01MTE7Y2g9Mjg4O3E9NzA7bj0xO3VsY3JvcDtyb3RhdGU9YXV0bw--/https://s.yimg.com/ea/img/-/170607/59378f648bf35_a3298f24bd346ab4815d86cfa8d6fe6518068b76.jpg)
 
 ### Related:
 

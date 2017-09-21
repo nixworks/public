@@ -8,6 +8,7 @@ Fast-growing bones point to SUPER-SHORT incubation period
 ### Source:
 
 1. [The Register](http://www.theregister.co.uk/2013/04/11/dinosaur_eggs_babies/)
+1. [Cover Image](https://regmedia.co.uk/2013/02/05/default_image-2.png?x=1200&y=794)
 
 ### Related:
 

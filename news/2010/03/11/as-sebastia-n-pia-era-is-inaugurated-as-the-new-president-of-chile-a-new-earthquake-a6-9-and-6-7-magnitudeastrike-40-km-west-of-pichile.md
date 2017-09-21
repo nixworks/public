@@ -9,6 +9,7 @@ It was to be a grand celebration, the conservatives had defeated the left leanin
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8561340.stm)
 2. [MercoPress](http://en.mercopress.com/2010/03/12/tremors-cut-short-pinera-inauguration-and-decide-his-agenda)
+2. [Cover Image](http://en.mercopress.com/imgs.php/noticias/26454/200x200/susto.jpg)
 
 ### Related:
 

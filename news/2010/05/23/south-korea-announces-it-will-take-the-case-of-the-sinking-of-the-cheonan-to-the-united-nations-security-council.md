@@ -11,6 +11,7 @@ The South Korean government, which accuses North Korea of sinking one of its war
 2. [The Guardian](http://www.guardian.co.uk/world/2010/may/23/south-north-korea-un-cheonan)
 3. [VoA](http://www1.voanews.com/english/news/asia/South-Korean-President-North-Korea-Will-Pay-the-Price-for-Sinking-Southern-Ship-94710899.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/23/c_13310925.htm)
+4. [Cover Image](https://i.cbc.ca/1.2096394.1382067260!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-korea-ship-cp-rtr2e451.jpg)
 
 ### Related:
 

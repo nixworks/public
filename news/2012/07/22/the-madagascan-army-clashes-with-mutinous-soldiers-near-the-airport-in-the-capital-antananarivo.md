@@ -8,6 +8,7 @@ Two killed, including alleged head of rebellion, as army takes back control of m
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/07/201272292553944188.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/22/2012722143242272734_20.jpg)
 
 ### Related:
 

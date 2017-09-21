@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-transcanada-keystone-idUSKBN0UK2JG20160106)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160106&t=2&i=1107512512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC051AD)
 
 ### Related:
 

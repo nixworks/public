@@ -8,6 +8,7 @@ Philip Morris threatens to sue the Australian government over its plan to introd
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13923095)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53705000/jpg/_53705965_cigarettes.jpg)
 
 ### Related:
 

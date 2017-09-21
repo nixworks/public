@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/03/23/pol-leaders-politics.html)
+1. [Cover Image](https://i.cbc.ca/1.2019658.1381570717!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-liberals-00384521-852.jpg)
 
 ### Related:
 

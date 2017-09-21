@@ -8,6 +8,7 @@ The referendum result is seen as a victory for the president, accused of trying 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-40847092)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/64DF/production/_97232852_de704cb6-d264-421c-9ba2-7d6f8706f02f.jpg)
 
 ### Related:
 

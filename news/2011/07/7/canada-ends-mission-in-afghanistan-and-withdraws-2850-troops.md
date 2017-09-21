@@ -9,6 +9,7 @@ The United States took complete charge of Kandahar Thursday, formally ending ove
 
 1. [CBC News](http://www.cbc.ca/news/canada/story/2011/07/07/kandahar-final-handover.html)
 2. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/canada-ends-combat-operations-in-afghanistan-shifts-focus-to-training/2011/07/07/gIQAUIbx1H_story.html?tid=sm_twitter_washingtonpost)
+2. [Cover Image](https://i.cbc.ca/1.1963873.1381637266!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-kandahar-852-00946751.jpg)
 
 ### Related:
 

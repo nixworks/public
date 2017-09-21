@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aeoljh9OU6Rk)
 2. [CBC](http://www.cbc.ca/world/story/2009/10/07/guinea-camara-opposition-talks-junta.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ U.S. forces airdropped small arms ammunition and other supplies to Syrian Arab r
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/10/13/us-mideast-crisis-syria-idUSKCN0S61LX20151013)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151012&t=2&i=1086463427&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9B0UU)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6214834.stm)
 2. [NASA](http://www.nasa.gov/mission_pages/mars/news/mgs-20061206.html)
+2. [Cover Image](http://www.nasa.gov/sites/default/files/pia09028-a.jpg)
 
 ### Related:
 

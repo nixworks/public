@@ -12,6 +12,7 @@ International Monetary Fund head Dominique Strauss-Kahn resigns following an all
 3. [CBS News](http://www.cbsnews.com/stories/2011/05/18/501364/main20064172.shtml)
 4. [Fox New York](http://www.myfoxny.com/dpp/news/strauss-kahn-bail-hearing-20110519)
 5. [Reuters](http://www.reuters.com/article/2011/05/19/us-strausskahn-arrest-idUSTRE74D29F20110519?feedType=RSS&feedName=topNews)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52827000/jpg/_52827206_012015213-1.jpg)
 
 ### Related:
 

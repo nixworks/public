@@ -11,6 +11,7 @@ A car bomb hit the center of Kabul late on Monday, just hours after a Taliban su
 2. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN11B18O)
 3. [Sina Corp](http://english.sina.com/news/2016-09-05/detail-ifxvpxua7949541.shtml)
 4. [Today (Singapore](http://www.todayonline.com/world/blast-afghan-capital-kabul-casualties-feared-army-official)
+4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160905&t=2&i=1152364475&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8415K)
 
 ### Related:
 

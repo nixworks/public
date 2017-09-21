@@ -8,6 +8,7 @@ Three survivors are found on the Italian cruise ship Costa Concordia more than 2
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16564789)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57895000/jpg/_57895364_013713161-1.jpg)
 
 ### Related:
 

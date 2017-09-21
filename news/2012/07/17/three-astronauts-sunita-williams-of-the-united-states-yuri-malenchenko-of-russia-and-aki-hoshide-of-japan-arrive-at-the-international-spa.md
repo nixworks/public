@@ -8,6 +8,7 @@ A Russian Soyuz spacecraft linked up with the International Space Station early 
 ### Source:
 
 1. [Space.com](http://www.space.com/16609-soyuz-spacecraft-space-station-docking-expedition-32.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAxOS81NjMvb3JpZ2luYWwvc295dXotdG1hMDVtLWVhcnRoLTItZG9ja2luZy1leHBlZGl0aW9uLTMyLmpwZw==)
 
 ### Related:
 

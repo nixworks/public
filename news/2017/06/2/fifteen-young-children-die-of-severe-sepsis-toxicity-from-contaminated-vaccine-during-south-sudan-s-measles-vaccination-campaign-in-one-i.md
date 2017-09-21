@@ -8,6 +8,7 @@ Contaminated measles vaccine killed 15 children in South Sudan, U.N. and WHO off
 ### Source:
 
 1. [AP via NBC News](http://www.nbcnews.com/health/health-news/contaminated-measles-vaccine-kills-15-kids-south-sudan-n767516)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_13/1950571/170331-south-sudan-cr-1040_b955f65b56792ac634cb352f53381851.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

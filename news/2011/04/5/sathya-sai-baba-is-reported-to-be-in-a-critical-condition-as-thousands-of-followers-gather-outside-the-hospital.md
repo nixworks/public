@@ -11,6 +11,7 @@
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12968238)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/Sathya-Sai-Baba-critical-stays-on-ventilator/articleshow/7870585.cms)
 4. [news.com.au](http://www.news.com.au/breaking-news/world/indian-guru-in-critical-condition/story-e6frfkui-1226034245243)
+4. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

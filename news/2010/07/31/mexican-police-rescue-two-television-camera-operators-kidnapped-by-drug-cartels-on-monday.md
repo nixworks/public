@@ -8,6 +8,7 @@ Javier Canales and Alejandro Hernández, both camera operators, had been kidnapp
 ### Source:
 
 1. [Reuters via ''New York Times](http://www.nytimes.com/2010/08/01/world/americas/01mexico.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

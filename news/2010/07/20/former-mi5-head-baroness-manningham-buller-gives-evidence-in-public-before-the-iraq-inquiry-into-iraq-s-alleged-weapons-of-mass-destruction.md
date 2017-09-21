@@ -9,6 +9,7 @@ The ex-MI5 chief Baroness Manningham-Buller says Iraq posed only a &quot;very li
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010720121831261136.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-10693001)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

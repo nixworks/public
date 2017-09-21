@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP](http://www.politico.com/story/2014/03/crimea-independence-ukraine-russia-104721.html)
+1. [Cover Image](http://s3-origin-images.politico.com/2014/03/17/crimea_getty_605.jpg)
 
 ### Related:
 

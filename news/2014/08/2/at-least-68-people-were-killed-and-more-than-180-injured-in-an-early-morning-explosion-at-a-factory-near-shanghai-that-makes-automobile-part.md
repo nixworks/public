@@ -8,6 +8,7 @@ At least 68 people were killed in an early morning explosion at a factory near S
 ### Source:
 
 1. [LA Times](http://www.latimes.com/world/asia/la-fg-factory-blast-in-china-kills-20140802-story.html)
+1. [Cover Image](http://www.trbimg.com/img-53dcc31a/turbine/la-fg-factory-blast-in-china-kills-20140802)
 
 ### Related:
 

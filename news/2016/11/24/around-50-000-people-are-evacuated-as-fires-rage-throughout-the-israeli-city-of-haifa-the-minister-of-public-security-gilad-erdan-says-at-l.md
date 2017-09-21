@@ -9,6 +9,7 @@ Tens of thousands of people are evacuated as wildfires sweep into the Israeli ci
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-38088651)
 2. [FOX News](http://www.foxnews.com/world/2016/11/24/israel-battles-fires-for-third-day-4-palestinians-arrested.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4B18/production/_92642291_mediaitem92642283.jpg)
 
 ### Related:
 

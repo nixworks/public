@@ -8,6 +8,7 @@ Soldiers&#x20;from&#x20;13&#x20;former&#x20;French&#x20;African&#x20;colonies&#x
 ### Source:
 
 1. [France24](http://www.france24.com/en/20100713-human-rights-groups-question-african-involvement-july-14-parade-bastille-day)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/defile-soldats-africains-NE.jpg)
 
 ### Related:
 

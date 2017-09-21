@@ -8,6 +8,7 @@ Several thousand people protested in Macedonia&#x27;s capital Skopje on Saturday
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/thousands-protest-macedonia-demanding-pms-resignation-195900937.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/jwLMsOQ4uLYUV9PFIOlMcw--/aD02NDA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8197621-1-1-0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/8301-202_162-57471781/u.s-confirms-2-americans-kidnapped-in-sinai/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/07/13/1464cc3a-a738-11e2-a3f0-029118418759/Egypt_map.jpg)
 
 ### Related:
 

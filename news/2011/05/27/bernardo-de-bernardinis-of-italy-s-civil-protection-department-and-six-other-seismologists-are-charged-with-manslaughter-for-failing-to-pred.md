@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2011/05/27/scitech/main20066827.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/05/27/fc12c912-a644-11e2-a3f0-029118418759/seis.jpg)
 
 ### Related:
 

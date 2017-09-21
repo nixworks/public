@@ -8,6 +8,7 @@ John Lennon, the late Beatles singer, has been celebrated with a special interac
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/technology/google/8050453/John-Lennon-70th-birthday-anniversary-celebrated-in-new-Google-doodle.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01734/lennonGoogle_1734918a.jpg)
 
 ### Related:
 

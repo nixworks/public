@@ -8,6 +8,7 @@ On August 22, the wooden passenger ship Comandante Ribeiro sank on the Xingu Riv
 ### Source:
 
 1. [Shipwreck Log](https://www.shipwrecklog.com/log/2017/08/comandante-ribeiro/)
+1. [Cover Image](https://www.shipwrecklog.com/log/wp-content/uploads/2017/08/Comandante-Ribeiro-3.jpg)
 
 ### Related:
 

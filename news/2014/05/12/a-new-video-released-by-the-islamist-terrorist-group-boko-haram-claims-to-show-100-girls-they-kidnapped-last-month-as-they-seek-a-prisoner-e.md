@@ -8,6 +8,7 @@ A Boko Haram video purports to show dozens of abducted Nigerian girls, as the go
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27373287#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74789000/jpg/_74789397_blurred-image.jpg)
 
 ### Related:
 

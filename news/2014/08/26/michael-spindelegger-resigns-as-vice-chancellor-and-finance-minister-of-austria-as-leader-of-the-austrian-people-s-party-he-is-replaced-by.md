@@ -9,6 +9,7 @@
 
 1. [Kurier](http://kurier.at/politik/inland/live-blog-zur-nachlese-reinhold-mitterlehner-ist-neuer-vp-obmann/82.191.386)
 2. [Wall Street Journal](http://online.wsj.com/articles/austrian-finance-minister-michael-spindelegger-quits-in-tax-reform-dispute-1409046824)
+2. [Cover Image](https://images.kurier.at/46-64440318.jpg/82.327.575)
 
 ### Related:
 

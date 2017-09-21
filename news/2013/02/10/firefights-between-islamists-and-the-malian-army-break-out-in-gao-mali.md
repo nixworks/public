@@ -10,6 +10,7 @@ Malian troops and suspected Islamist militants are exchanging heavy gunfire in G
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5im2QmAnm9XIsYHp-UMmoXgXKn99A)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21401202)
 3. [Voice of America](http://www.voanews.com/content/malian-forces-islamist-rebels-clash-in-gao/1600787.html)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65808000/jpg/_65808101_65808100.jpg)
 
 ### Related:
 

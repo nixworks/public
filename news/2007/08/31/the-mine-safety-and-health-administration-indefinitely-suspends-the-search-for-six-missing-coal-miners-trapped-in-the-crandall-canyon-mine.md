@@ -8,6 +8,7 @@ Federal officials have indefinitely suspended efforts to find six men trapped fo
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,295464,00.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/story/2007/08/31/federal-officials-suspend-utah-mine-search-after-cameras-fail-to-provide/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422502328992.jpg?ve=1)
 
 ### Related:
 

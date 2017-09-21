@@ -9,6 +9,7 @@ Astronauts sailed through the first of a series of urgent repair spacewalks Satu
 
 1. [FOX News](http://www.foxnews.com/science/2013/12/21/nasa-astronauts-begin-urgent-spacewalking-repairs/)
 2. [NASA](http://www.nasa.gov/content/spacewalkers-remove-degraded-ammonia-pump/index.html)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2013/12/21/nasa-astronauts-begin-urgent-spacewalking-repairs/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422708312590.jpg?ve=1)
 
 ### Related:
 

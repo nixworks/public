@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/20/us-samsung-idUSTRE81J05L20120220)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120220&t=2&i=572870018&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81J08Y500)
 
 ### Related:
 

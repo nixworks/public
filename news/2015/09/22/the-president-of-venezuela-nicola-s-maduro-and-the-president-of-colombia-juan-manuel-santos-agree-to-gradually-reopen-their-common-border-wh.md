@@ -8,6 +8,7 @@ The leaders of Venezuela and Colombia agree to &quot;normalise&quot; the situati
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34318634)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6501/production/_85675852_85675821.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ At least six people have died after security forces fired on protesters outside 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12827542)
 2. [CNN](http://www.cnn.com/2011/WORLD/meast/03/23/syria.protests/index.html?hpt=T2)
 3. [Reuters](http://www.reuters.com/article/2011/03/23/us-syria-gunfire-idUSTRE72M04T20110323?feedType=RSS&feedName=topNews)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

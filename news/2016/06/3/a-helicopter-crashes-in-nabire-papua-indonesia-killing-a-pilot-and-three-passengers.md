@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Detik.com](https://news.detik.com/berita/3225346/helikopter-bell-jatuh-di-nabire-pilot-dan-3-penumpang-tewas)
+1. [Cover Image](https://sgimage.detik.net.id/community/media/visual/2016/06/04/5140a66e-9b33-4919-b1d6-cf88d8319d91.jpg?w=650)
 
 ### Related:
 

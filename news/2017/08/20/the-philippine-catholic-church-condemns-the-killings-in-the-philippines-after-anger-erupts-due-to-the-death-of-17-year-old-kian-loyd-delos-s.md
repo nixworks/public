@@ -9,6 +9,7 @@ It comes as questions are raised over the killing of a teenager by police during
 
 1. [BBC](http://www.bbc.com/news/world-asia-40992618)
 2. [Reuters](https://www.reuters.com/article/us-philippines-drugs-idUSKCN1B0088)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/CCDD/production/_97454425_mediaitem97454424.jpg)
 
 ### Related:
 

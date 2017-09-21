@@ -9,6 +9,7 @@ Greek Prime Minister George Papandreou has won a confidence vote in the parliame
 
 1. [Reuters](http://www.reuters.com/article/2011/11/04/us-greece-referendum-idUSTRE79U5PQ20111104?feedType=RSS&feedName=topNews)
 2. [Sydney Morning Herald](http://www.smh.com.au/business/world-business/greek-pm-papandreou-wins-confidence-vote-20111105-1n0pb.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/g/e/3/9/image.related.articleLeadwide.620x349.1n0pb.png/1320448584357.jpg)
 
 ### Related:
 

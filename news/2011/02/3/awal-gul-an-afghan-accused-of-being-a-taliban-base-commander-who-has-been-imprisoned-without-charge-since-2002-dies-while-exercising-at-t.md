@@ -9,6 +9,7 @@ An Afghan inmate at the US prison in Guantanamo Bay, Cuba, has collapsed and die
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12361834)
 2. [Miami Herald](http://www.miamiherald.com/2011/02/03/2048865/suspected-taliban-commander-dead.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

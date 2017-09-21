@@ -10,6 +10,7 @@ Acclaimed Iranian film director Jafar Panahi has been released from detention in
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/10155119.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iran/7764504/Iranian-director-Jafar-Panahi-released-from-prison-on-200000-bail.html)
 3. [The Guardian](http://www.guardian.co.uk/film/2010/may/25/jafar-pahani-released-iran-prison)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

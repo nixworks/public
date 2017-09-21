@@ -8,6 +8,7 @@ Three Turkish soldiers are killed as a military convoy is attacked by the PKK in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-33719831)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/104B1/production/_84573766_84542769.jpg)
 
 ### Related:
 

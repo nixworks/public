@@ -8,3 +8,4 @@ A France Telecom worker and father of four commits suicide by setting himself on
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13204168)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52356000/jpg/_52356992_011835643-1.jpg)

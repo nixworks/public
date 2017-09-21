@@ -8,6 +8,7 @@ A house fire in Saint-Quentin in northern France kills five children between the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21986435)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66686000/jpg/_66686568_saintquentin.jpg)
 
 ### Related:
 

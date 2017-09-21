@@ -8,6 +8,7 @@ Flooding in Argentina which burst riverbanks and deluged city streets killed thr
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2015-08-12/argentina-flooding-sparks-evacuation-of-thousands/6692118)
+1. [Cover Image](http://www.abc.net.au/news/image/6692354-1x1-700x700.jpg)
 
 ### Related:
 

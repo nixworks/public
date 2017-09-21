@@ -9,6 +9,7 @@
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=136016&sectionid=351020101)
 2. [Res. 1553](http://www.scribd.com/doc/34792802/H-RES-1553)
+2. [Cover Image](https://imgv2-2-f.scribdassets.com/img/document/34792802/original/b787e39b3c/1490884698)
 
 ### Related:
 

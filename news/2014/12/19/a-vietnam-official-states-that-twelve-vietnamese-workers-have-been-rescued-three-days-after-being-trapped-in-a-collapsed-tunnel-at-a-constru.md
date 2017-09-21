@@ -9,6 +9,7 @@
 
 1. [AP via Salon](http://www.salon.com/2014/12/19/12_workers_freed_from_collapsed_tunnel_in_vietnam/)
 2. [Reuters](http://www.reuters.com/article/2014/12/19/us-vietnam-rescue-idUSKBN0JX1EV20141219)
+2. [Cover Image](http://www.salon.com/content/themes/salon/images/ui/ID_salonTile.gif)
 
 ### Related:
 

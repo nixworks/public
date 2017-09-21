@@ -9,6 +9,7 @@ After unrest erupts in the remote Black Sea territory of Abkhazia, sandwiched be
 
 1. [BBC News](http://www.bbc.com/news/world-europe-27607559)
 2. [Financial Times](http://www.ft.com/cms/s/0/043b58ac-e67c-11e3-9a20-00144feabdc0.html#axzz332XlMGiC)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75154000/jpg/_75154346_75154345.jpg)
 
 ### Related:
 

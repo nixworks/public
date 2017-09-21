@@ -9,3 +9,4 @@
 
 1. [Aviation Safety Network](http://aviation-safety.net/wikibase/wiki.php?id=138579)
 2. [The Journal of Martinsburg](http://www.journal-news.net/page/content.detail/id/567728/Plane-crashes-at-airshow.html?nav=5006)
+2. [Cover Image](http://d14e0irai0gcaa.cloudfront.net/www.journal-news.net/images/2016/09/28201055/fblike.jpg)

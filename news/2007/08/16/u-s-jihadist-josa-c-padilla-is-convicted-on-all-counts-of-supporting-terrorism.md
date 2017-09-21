@@ -8,6 +8,7 @@ WTOP brings you the latest news, traffic, and weather information for the Washin
 ### Source:
 
 1. [AP via WTOP News](http://www.wtop.com/?nid=251&sid=665760)
+1. [Cover Image](http://wtop.com/wp-content/uploads/2016/08/og-image.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ ROME (New York Daily News) -- The Vatican ambassador to the U.S. who arranged th
 ### Source:
 
 1. [New York Daily News'' via ChristianNews.net](http://christiannews.net/2016/03/17/vatican-fires-ambassador-who-arranged-roman-catholic-pontiffs-meeting-with-kim-davis/)
+1. [Cover Image](http://christiannews.net/wp-content/uploads/2015/09/Davis-Bergoglio-compressed.jpg)
 
 ### Related:
 

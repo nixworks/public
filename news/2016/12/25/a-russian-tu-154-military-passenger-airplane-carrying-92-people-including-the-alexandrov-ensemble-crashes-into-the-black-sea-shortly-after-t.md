@@ -10,6 +10,7 @@ A Russian military plane crashed on Sunday in the Black Sea as it made its way t
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/12/russian-military-plane-disappears-radar-161225045201828.html)
 2. [FOX News](http://www.foxnews.com/world/2016/12/25/russian-plane-crashes-into-black-sea.html)
 3. [The Telegraph](http://www.telegraph.co.uk/news/2016/12/25/russian-plane-carrying-least-70-board-disappears-radar-near/)
+3. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/25/JS116665651-AFP-Russian-plane-crash-xlarge_trans_NvBQzQNjv4BqFAacvl0Mot1dtakh5FdHImec3mBF5JVGljyQn7n15Xc.jpg)
 
 ### Related:
 

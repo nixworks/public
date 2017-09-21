@@ -8,6 +8,7 @@ WILLEMSTAD - Prime Minister Dr. Bernhard Whiteman today submitted the resignatio
 ### Source:
 
 1. [The Curaçao Chronicle](http://curacaochronicle.com/main/cabinet-resigns-day-before-elections/)
+1. [Cover Image](http://curacaochronicle.com/wp-content/uploads/2016/10/Ben-Whiteman.jpg)
 
 ### Related:
 

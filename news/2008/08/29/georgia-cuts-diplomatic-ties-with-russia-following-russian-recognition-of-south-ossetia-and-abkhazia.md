@@ -8,6 +8,7 @@ Georgia has cut diplomatic links with Russia, withdrawing its diplomats from Mos
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/08/30/2350740.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/473648-1x1-700x700.jpg)
 
 ### Related:
 

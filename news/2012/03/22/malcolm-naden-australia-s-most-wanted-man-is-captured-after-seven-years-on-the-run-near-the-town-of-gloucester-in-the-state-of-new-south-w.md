@@ -9,6 +9,7 @@ Murder suspect, charged over 2005 death of his cousin, apprehended by police aft
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/20123225524378284.html)
 2. [News Limited](http://www.news.com.au/national/australias-most-wanted-man-malcolm-naden-arrested-in-nsw/story-e6frfkvr-1226306748086)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/22/201232293841414734_20.jpg)
 
 ### Related:
 

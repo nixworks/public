@@ -8,6 +8,7 @@ Officials say gunmen attacked an Islamic religious gathering in the southern Pak
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/02/09/gunmen-attack-religious-gathering-in-pakistani-port-city-killing-8/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

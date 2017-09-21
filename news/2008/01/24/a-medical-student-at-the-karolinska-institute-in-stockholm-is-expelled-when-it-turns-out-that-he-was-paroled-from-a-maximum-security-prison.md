@@ -8,6 +8,7 @@ A prestigious medical school was tipped off that one of its students had been a 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/01/25/science/25student.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

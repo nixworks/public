@@ -8,6 +8,7 @@ The Queen will arrive in Canberra today for what may be her last official tour o
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-10-19/queen-en-route-to-canberra/3578102)
+1. [Cover Image](http://www.abc.net.au/news/image/733512-1x1-700x700.jpg)
 
 ### Related:
 

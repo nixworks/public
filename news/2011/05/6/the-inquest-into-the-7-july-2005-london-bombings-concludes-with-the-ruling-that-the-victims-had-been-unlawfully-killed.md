@@ -9,6 +9,7 @@ Delays in the response to the 7/7 bombings did not cause any deaths, a coroner c
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13308371)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/06/uk.terror.verdict/index.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52563000/jpg/_52563881_007606190-1.jpg)
 
 ### Related:
 

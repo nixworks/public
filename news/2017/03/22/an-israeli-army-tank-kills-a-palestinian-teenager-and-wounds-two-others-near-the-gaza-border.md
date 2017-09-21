@@ -8,6 +8,7 @@ Incident comes after IDF completes large scale drill in the south simulating a w
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Palestinian-killed-two-others-wounded-by-IDF-fire-near-Gaza-border-484851)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=250777)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Bloomberg](https://www.bloomberg.com/news/articles/2017-08-24/satellite-for-taiwan-launched-from-california)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPGvWtpcomEM/v0/1200x800.jpg)
 
 ### Related:
 

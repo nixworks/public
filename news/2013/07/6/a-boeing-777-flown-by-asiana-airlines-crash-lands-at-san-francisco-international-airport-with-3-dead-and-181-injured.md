@@ -10,6 +10,7 @@
 1. [BBC News](http://www.bbc.co.uk/news/world-us-canada-23214513)
 2. [CNN](http://www.cnn.com/2013/07/06/us/california-plane-incident/index.html)
 3. [KTVU](http://www.ktvu.com/news/news/local/boeing-777-crashes-while-landing-sfo/nYfcx/)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68588000/jpg/_68588804_plane.jpg)
 
 ### Related:
 

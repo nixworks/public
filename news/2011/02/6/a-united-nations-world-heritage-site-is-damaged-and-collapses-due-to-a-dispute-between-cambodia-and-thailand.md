@@ -9,6 +9,7 @@ Cambodia says a disputed 11th Century temple has been damaged on the third day o
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/20112613152324529.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12377626)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51122000/jpg/_51122757_011200991-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Kenya&#039;s president has attended a status conference at the International Cri
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/10/08/kenyan-president-fronts-icc-netherlands)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20141008001042499309-original.jpg)
 
 ### Related:
 

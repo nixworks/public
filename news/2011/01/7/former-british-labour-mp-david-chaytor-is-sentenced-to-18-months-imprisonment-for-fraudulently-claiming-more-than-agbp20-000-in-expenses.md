@@ -8,6 +8,7 @@ Former Labour MP David Chaytor is jailed for 18 months for fraudulently claiming
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12127327)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

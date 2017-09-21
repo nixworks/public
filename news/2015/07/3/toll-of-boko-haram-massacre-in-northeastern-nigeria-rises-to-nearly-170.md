@@ -9,6 +9,7 @@ Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nea
 
 1. [Naij](http://www.naij.com/477981-flash-boko-haram-kill-over-100-in-fresh-borno-massacre.html)
 2. [News 24](http://www.news24.com/Africa/News/In-under-two-days-Boko-Haram-kills-nearly-170-20150703-2)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/12/67ad835f9083490db66a9be671eb4237.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/03/china-jails-tiananmen-activist-subversion-201432463929104806.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/10/28/2013102871649816734_20.jpg)
 
 ### Related:
 

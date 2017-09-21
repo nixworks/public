@@ -9,6 +9,7 @@ Nine people dead in apparent suicide attempt by elderly resident of a facility 1
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/08/201083063619900979.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/30/russia.retirement.home.fire/index.html?eref=rss_latest&wom=false)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/30/201083063320551580_20.jpg)
 
 ### Related:
 

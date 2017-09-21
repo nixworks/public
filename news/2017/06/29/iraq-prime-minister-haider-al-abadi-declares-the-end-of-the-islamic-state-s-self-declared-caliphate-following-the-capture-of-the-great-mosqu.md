@@ -9,6 +9,7 @@ With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital
 
 1. [NBC News](http://www.nbcnews.com/storyline/isis-terror/iraqi-prime-minister-declares-end-isis-caliphate-iraq-n778341)
 2. [Xinhua News Agency](http://news.xinhuanet.com/english/2017-06/30/c_136405376.htm)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_26/2056671/170629-iraqis-mosul-ac-523p_cf2bb77bc26141ef5a3c71e1b591a1fe.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

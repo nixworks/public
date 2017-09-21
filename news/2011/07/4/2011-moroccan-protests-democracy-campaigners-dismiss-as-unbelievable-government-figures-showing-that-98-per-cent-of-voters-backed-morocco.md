@@ -16,6 +16,7 @@ At least 21 people have died in heavy fighting near the rebel-held southern Yeme
 7. [BBC](http://www.bbc.co.uk/news/world-middle-east-14017949)
 8. [BBC](http://www.bbc.co.uk/news/world-middle-east-14023293)
 9. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Riots-erupt-in-Egypt-after-court-releases-police/articleshow/9106161.cms)
+9. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53843000/jpg/_53843235_012373488-1.jpg)
 
 ### Related:
 

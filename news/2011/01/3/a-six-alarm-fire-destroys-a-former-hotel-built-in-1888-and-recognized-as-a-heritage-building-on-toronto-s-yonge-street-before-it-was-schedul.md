@@ -9,6 +9,7 @@ The face of Yonge Street in Downtown Toronto has been forever changed thanks to 
 
 1. [CBC](http://www.cbc.ca/canada/toronto/story/2011/01/04/yonge-gould-fire322.html)
 2. [Toronto Sun](http://www.torontosun.com/news/torontoandgta/2011/01/03/16738911.html)
+2. [Cover Image](http://storage.torontosun.com/v1/suns-prod-images/1302230436966_ORIGINAL.jpg?quality=80)
 
 ### Related:
 

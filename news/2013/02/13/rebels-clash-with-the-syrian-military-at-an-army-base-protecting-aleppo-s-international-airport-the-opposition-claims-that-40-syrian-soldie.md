@@ -8,6 +8,7 @@ Assault on al-Jarrah airfield in Aleppo comes a day after opposition seized a ke
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/02/12/syria-rebels-aleppo-air-base/1912215/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

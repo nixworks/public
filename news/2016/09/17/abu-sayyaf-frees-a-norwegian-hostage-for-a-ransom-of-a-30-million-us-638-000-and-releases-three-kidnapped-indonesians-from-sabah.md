@@ -10,6 +10,7 @@ Reports reaching Manila indicate the Al-Qaeda linked Abu Sayyaf Group released l
 1. [Interaksyon](http://interaksyon.com/article/132531/abu-sayyaf-releases-kidnapped-norwegian-for-php30-million-ransom)
 2. [Rappler](http://www.rappler.com/nation/146514-abu-sayyaf-norwegian-hostage-release)
 3. [Reuters via ''The New Straits Times](http://www.nst.com.my/news/2016/09/174118/three-indonesians-abducted-sabah-waters-freed-militant-abu-sayyaf-group?)
+3. [Cover Image](http://interaksyon.com/assets/images/articles/original_1474099194.png)
 
 ### Related:
 

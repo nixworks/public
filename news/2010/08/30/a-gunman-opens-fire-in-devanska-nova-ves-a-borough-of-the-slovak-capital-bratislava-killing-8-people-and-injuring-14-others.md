@@ -13,6 +13,7 @@ A gunman has killed six people and wounded 14 others in Bratislava, the Slovak n
 4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5956939,00.html)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/aug/31/bratislava-shooting-spree-slovakia)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/31/c_13470032.htm)
+6. [Cover Image](http://www.thehindu.com/migration_catalog/article16112992.ece/ALTERNATES/LANDSCAPE_615/ALBERT_SLOVAKIA_SHOOTING)
 
 ### Related:
 

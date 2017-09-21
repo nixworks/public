@@ -9,6 +9,7 @@ SpaceX has finally landed its Falcon 9 rocket on a drone ship at sea, after laun
 
 1. [Reuters](http://www.reuters.com/article/us-space-spacex-idUSKCN0X5228)
 2. [The Verge](http://www.theverge.com/2016/4/8/11392138/spacex-landing-success-falcon-9-rocket-barge-at-sea)
+2. [Cover Image](https://cdn0.vox-cdn.com/thumbor/bVhTjy7NbOuQ5Jq-SghE7OFEtio=/0x2:811x458/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49269957/CfjG1c0VIAQtRBk.0.0.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Arrests reported as Iran says it is able to fight malware detected on computers 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010102234031891559.html)
 2. [The Observer](http://www.guardian.co.uk/world/2010/oct/03/iran-nuclear-stuxnet-computer-worm)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/2/2010102235256258734_20.jpg)
 
 ### Related:
 

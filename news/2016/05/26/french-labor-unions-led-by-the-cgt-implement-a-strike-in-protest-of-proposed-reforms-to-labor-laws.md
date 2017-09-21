@@ -8,3 +8,4 @@ Strike action over labour law reforms grips France, disrupting oil refineries, n
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36385778)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15FFF/production/_89811109_033150866-1.jpg)

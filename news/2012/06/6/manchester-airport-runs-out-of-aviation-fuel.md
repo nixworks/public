@@ -8,6 +8,7 @@ Aviation fuel is sent to Manchester Airport after it ran out of supplies, a spok
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-18344397)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58224000/jpg/_58224315_airport_planes01.jpg)
 
 ### Related:
 

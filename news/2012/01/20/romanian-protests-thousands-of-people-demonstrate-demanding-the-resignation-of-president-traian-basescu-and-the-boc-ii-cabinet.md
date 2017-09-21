@@ -8,6 +8,7 @@ Thursday saw some of the largest protests in Romania in years as thousands of pe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16644330)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-16644330A/playlist.sxml)
 
 ### Related:
 

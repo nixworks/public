@@ -9,6 +9,7 @@ Six people are killed as Syrian troops seize control of a mosque which was a cen
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011430174959835564.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13249178)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52437000/jpg/_52437549_011608570-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Serbia has closed its border with Macedonia to unregistered refugees, imposing s
 ### Source:
 
 1. [RT](https://www.rt.com/news/333002-serbia-closes-border-migrants/)
+1. [Cover Image](https://img.rt.com/files/2016.02/article/56c726f0c4618831748b45b7.jpg)
 
 ### Related:
 

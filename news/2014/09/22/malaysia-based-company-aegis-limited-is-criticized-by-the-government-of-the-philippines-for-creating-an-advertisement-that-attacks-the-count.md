@@ -8,6 +8,7 @@ The BPO firm says the video was outsourced to another agency
 ### Source:
 
 1. [Rappler](http://www.rappler.com/business/69843-aegis-sorry-malaysia-marketing-ad)
+1. [Cover Image](http://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/38A6BA838FE840AAB9A1CC813D4AA757/aegis-sorry-for-malaysia-marketing-ad-rappler-20140922_38A6BA838FE840AAB9A1CC813D4AA757.jpg)
 
 ### Related:
 

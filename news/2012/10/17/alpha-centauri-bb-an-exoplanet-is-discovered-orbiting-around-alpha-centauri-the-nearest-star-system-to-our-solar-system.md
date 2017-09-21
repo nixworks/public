@@ -8,6 +8,7 @@ Astronomers spot the nearest known planet outside our Solar System, circling a s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-19959531)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63512000/jpg/_63512512_eso1241a.jpg)
 
 ### Related:
 

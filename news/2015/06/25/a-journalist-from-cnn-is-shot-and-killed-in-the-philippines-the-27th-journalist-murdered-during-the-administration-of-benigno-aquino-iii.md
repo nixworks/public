@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/97407-cnn-ph-cameraman-killed-cavite)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/6C3F1B34B3654EFE8D55B0D3580B3033/driver-assistant-cameraman-cavite-20150625-copy.jpg)
 
 ### Related:
 

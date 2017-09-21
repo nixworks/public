@@ -8,6 +8,7 @@ Gov. Greg Abbott declared a state of disaster in 31 counties across the state on
 ### Source:
 
 1. [KVUE](http://www.kvue.com/news/local/gov-abbott-declares-state-of-disaster-in-31-counties/226887760)
+1. [Cover Image](http://content.wbir.com/photo/2016/05/31/Texas%20flooding%202_1464709749741_2612837_ver1.0.jpg)
 
 ### Related:
 

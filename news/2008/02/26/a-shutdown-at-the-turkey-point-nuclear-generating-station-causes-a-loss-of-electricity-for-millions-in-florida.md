@@ -8,6 +8,7 @@ A massive power outage struckparts of Florida on Tuesday, knocking out electrici
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSN2636006520080226)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

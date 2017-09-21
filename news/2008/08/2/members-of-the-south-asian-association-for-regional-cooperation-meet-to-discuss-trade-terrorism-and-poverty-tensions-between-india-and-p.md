@@ -9,6 +9,7 @@ The leaders of South Asia called for fighting terrorism together as a regional s
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5idIwCbsAs8NWJoV2hFuJ0iMmpm0g)
 2. [Reuters](http://in.reuters.com/article/topNews/idINIndia-34792620080802)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080802&t=2&i=5406069&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-08-02T141415Z_01_NOOTR_RTRMDNC_0_India-347926-2)
 
 ### Related:
 

@@ -8,6 +8,7 @@ PM Tony Abbot forced to defend crackdown sweeping up 15 suspects in alleged behe
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/australia-alleged-isis-plot-bust-defended-by-pm-tony-abbott/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/09/19/f2855750-59a9-4ea9-a590-6249f0e1b300/australiaisisarrest.jpg)
 
 ### Related:
 

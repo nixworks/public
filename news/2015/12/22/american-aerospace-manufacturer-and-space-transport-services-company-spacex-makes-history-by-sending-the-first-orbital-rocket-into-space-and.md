@@ -8,6 +8,7 @@ SpaceX will attempt a launch on Monday night, the first since its Falcon 9 rocke
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/tech/innovation/spacex-set-attempt-first-rocket-launch-falcon-9-explosion-n483921)
+1. [Cover Image](https://media2.s-nbcnews.com/j/msnbc/components/video/__new/x_lon_spacxart_151222.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

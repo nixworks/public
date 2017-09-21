@@ -8,6 +8,7 @@ Culling of more than 55,000 animals begins after foot-and-mouth disease confirme
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/12/201012273121278906.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/2/20101228352110621_20.jpg)
 
 ### Related:
 

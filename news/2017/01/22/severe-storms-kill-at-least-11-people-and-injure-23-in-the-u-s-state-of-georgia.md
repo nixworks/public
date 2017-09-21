@@ -9,6 +9,7 @@ Seven of those killed were in a Georgia trailer park apparently struck by a torn
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-38711953)
 2. [Yahoo! News Canada](https://ca.news.yahoo.com/severe-storms-u-south-kill-least-18-021038538.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/12439/production/_93790847_ccdd908e-1ab7-4b06-9a49-38bb3d21b228.jpg)
 
 ### Related:
 

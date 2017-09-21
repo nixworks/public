@@ -8,6 +8,7 @@ A former Rwandan politician who described Tutsis as &quot;cockroaches&quot; and 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36057575)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14A69/production/_89258548_27787fcc10b532dabd6bd507057a3839.jpg)
 
 ### Related:
 

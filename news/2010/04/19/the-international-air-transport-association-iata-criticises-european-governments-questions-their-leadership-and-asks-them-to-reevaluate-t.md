@@ -15,6 +15,7 @@ Flights will finally start again in the UK tomorrow after air traffic control co
 6. [The Guardian](http://www.guardian.co.uk/world/2010/apr/19/iceland-volcano-naval-ships-rescue)
 7. [The Independent](http://www.independent.co.uk/news/uk/home-news/royal-navy-sails-to-rescue-of-stranded-passengers-1948387.html)
 8. [The Times](http://www.timesonline.co.uk/tol/travel/news/article7101796.ece)
+8. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/04/19/16/355761.bin)
 
 ### Related:
 

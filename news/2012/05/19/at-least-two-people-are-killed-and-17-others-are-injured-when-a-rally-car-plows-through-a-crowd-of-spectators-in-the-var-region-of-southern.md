@@ -9,3 +9,4 @@ A rally car ploughs into spectators in the Var region of southern France, killin
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/2012519152222650991.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-18132389)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60353000/jpg/_60353544_014794968-1.jpg)

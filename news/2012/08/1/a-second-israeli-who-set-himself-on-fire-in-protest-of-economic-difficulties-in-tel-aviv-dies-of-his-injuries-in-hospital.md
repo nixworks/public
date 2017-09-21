@@ -8,6 +8,7 @@ A second Israeli who set himself on fire in protest at economic difficulties has
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/08/01/us-israel-protests-idUSBRE87006T20120801)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

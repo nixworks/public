@@ -8,6 +8,7 @@ The Marshall Islands parliament has elected Hilda Heine as the country&#39;s new
 ### Source:
 
 1. [Radio New Zealand International](http://www.radionz.co.nz/international/pacific-news/295053/hilda-heine-elected-marshalls-president)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

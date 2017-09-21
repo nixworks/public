@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j-PTHdhSrx_8TVq5e9EX21NBt3aA?docId=5da2d36c7ba046508ba87edb18c8dc6d)
 2. [Reuters](http://www.reuters.com/article/2012/02/08/us-pakistan-drone-idUSTRE81708520120208?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

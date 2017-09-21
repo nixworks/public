@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-25290617)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66143000/jpg/_66143055_boyle2.jpg)
 
 ### Related:
 

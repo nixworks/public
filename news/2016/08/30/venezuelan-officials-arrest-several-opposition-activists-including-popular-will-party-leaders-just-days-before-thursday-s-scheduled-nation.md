@@ -9,6 +9,7 @@ Venezuela has arrested several opposition activists accused of plotting violence
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-08-30/venezuela-arrests-activist-ahead-of-national-opposition-protest)
 2. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKCN1152TG?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160830&t=2&i=1151651840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7T1MY)
 
 ### Related:
 

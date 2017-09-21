@@ -11,6 +11,7 @@ One person was reported dead and a dozen more people were injured after the quak
 2. [Ap](http://bigstory.ap.org/article/dfa3e5bb0aed487a843a35e3a1e3e10c/67-magnitude-quake-hits-indias-northeast)
 3. [NBC News](http://www.nbcnews.com/news/world/6-8-magnitude-earthquake-recorded-near-india-myanmar-border-n489501?cid=sm_tw&hootPostID=59bb1855b696023bda0ed83fba3e15a8)
 4. [The Times of India](http://timesofindia.indiatimes.com/india/1-dead-35-injured-after-massive-earthquake-jolts-northeastern-India/articleshow/50432055.cms?)
+4. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_53/1361801/160103-india-quake_99147f20fa133b09d85174646b31e830.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

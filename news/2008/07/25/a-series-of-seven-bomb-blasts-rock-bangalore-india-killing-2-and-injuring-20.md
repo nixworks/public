@@ -8,6 +8,7 @@ Terrorists, on Friday, triggered eight serial blasts in 35 minutes at seven plac
 ### Source:
 
 1. [TOI](http://timesofindia.indiatimes.com/7_blasts_rock_Bangalore_2_dead_20_wounded/articleshow/3279730.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3282096.cms)
 
 ### Related:
 

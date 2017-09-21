@@ -11,6 +11,7 @@ The Sydney Morning Herald 404 Page
 2. [CNN](http://www.cnn.com/2007/WORLD/europe/04/30/terror.verdict/index.html)
 3. [Guardian](http://www.guardian.co.uk/terrorism/story/0,,2068824,00.html)
 4. [SMH](http://www.smh.com.au/news/World/Five-Brits-guilty-of-terrorism-bomb-plot/2007/04/30/1177788055762.html)
+4. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

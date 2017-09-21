@@ -8,6 +8,7 @@ CARACAS, Venezuela -- Massive demonstrations by opponents and supporters of Pres
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-venezuela-turmoil-20140222,0,859013.story#axzz2u5glttcf)
+1. [Cover Image](http://www.trbimg.com/img-5308f80f/turbine/la-fg-wn-venezuela-turmoil-20140222)
 
 ### Related:
 

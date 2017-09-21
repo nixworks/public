@@ -8,6 +8,7 @@ A woman has described the terror at the scene of a bus crash that claimed the li
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11772810)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201653/scene2_1024x768.jpg)
 
 ### Related:
 

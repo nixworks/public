@@ -11,6 +11,7 @@ News and opinion from The Times &amp; The Sunday Times
 2. [The Raw Story](http://www.rawstory.com/aexternal/conyers_iraq_letter_502.htm)
 3. [The Times](http://www.timesonline.co.uk/printFriendly/0,,1-523-1592904-523,00.html)
 4. [uruknet](http://www.uruknet.info/?p=m11570&l=i&size=1&hd=0)
+4. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

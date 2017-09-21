@@ -9,6 +9,7 @@ Decision blamed on legal move by Holland-based pro-Moluccan group to have Yudhoy
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010105131324456865.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11475558)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/5/2010105133049630621_20.jpg)
 
 ### Related:
 

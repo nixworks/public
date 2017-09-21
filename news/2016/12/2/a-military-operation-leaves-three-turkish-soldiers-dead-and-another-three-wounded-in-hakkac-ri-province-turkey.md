@@ -10,6 +10,7 @@ At least 27 PKK terrorists were &#39;neutralized&#39; in anti-terror operations 
 1. [Anadolu Agency](http://aa.com.tr/en/todays-headlines/3-soldiers-martyred-in-se-turkey/697712)
 2. [Daily Sabah](http://www.dailysabah.com/war-on-terror/2016/12/02/3-soldiers-killed-3-injured-in-anti-terror-ops-in-hakkari)
 3. [Reuters](http://www.reuters.com/article/us-turkey-security-kurds-idUSKBN13R0LW?il=0)
+3. [Cover Image](http://aa.com.tr/uploads/Contents/2016/12/02/thumbs_m_c_28953fe00a1a944c96b5923175c27cfb.jpg?v=112816)
 
 ### Related:
 

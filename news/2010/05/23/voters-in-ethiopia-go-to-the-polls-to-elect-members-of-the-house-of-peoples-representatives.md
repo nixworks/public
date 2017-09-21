@@ -15,6 +15,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 6. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1265287&lang=eng_news)
 7. [Walta Information Center](http://www.waltainfo.com/index.php?option=com_content&task=view&id=21608&Itemid=52)
 8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/23/c_13310764.htm)
+8. [Cover Image](http://www.waltainfo.com/project/public/Img/default.png)
 
 ### Related:
 

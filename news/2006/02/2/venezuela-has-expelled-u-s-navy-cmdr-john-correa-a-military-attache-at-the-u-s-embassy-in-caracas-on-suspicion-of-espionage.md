@@ -9,6 +9,7 @@ Venezuelan President Hugo Chavez said Thursday he was expelling a U.S. Embassy m
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4675572.stm)
 2. [Newsweek](http://msnbc.msn.com/id/11147752/)
+2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

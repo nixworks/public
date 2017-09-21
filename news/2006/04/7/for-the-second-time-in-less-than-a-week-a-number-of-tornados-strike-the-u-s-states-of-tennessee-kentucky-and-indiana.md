@@ -8,6 +8,7 @@ Residents labored Saturday to begin rebuilding a day after tornadoes killed 12 p
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,191016,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

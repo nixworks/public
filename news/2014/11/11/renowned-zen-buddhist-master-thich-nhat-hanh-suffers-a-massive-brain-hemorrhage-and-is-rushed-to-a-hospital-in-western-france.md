@@ -8,6 +8,7 @@ Prominent Buddhist leader Zen Master Thich Nhat Hanh has suffered a severe brain
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/religion/zen-master-thich-nhat-hanh-suffers-brain-hemorrhage-n248226)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2014_46/766491/141113-thich-nhat-hanh-jms-1634_2ab258b17b32e601dfd9f5bbe04d61b9.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

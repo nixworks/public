@@ -9,6 +9,7 @@ Seven new cases of MERS brings total number of infections to 145 as 15th South K
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/mers-cases-south-korea-outbreak-150614012824661.html)
 2. [Sky News Australia](http://www.skynews.com.au/news/world/europe/2015/06/14/suspected-mers-case-in-slovakia.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/14/bb436d54dd104ba7aecf30321d3b93c2_18.jpg)
 
 ### Related:
 

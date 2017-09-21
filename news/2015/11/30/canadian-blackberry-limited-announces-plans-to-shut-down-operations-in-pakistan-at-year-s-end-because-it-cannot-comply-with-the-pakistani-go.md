@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNET](http://www.cnet.com/au/news/blackberry-leaves-pakistan-after-refusing-to-compromise-user-privacy/)
+1. [Cover Image](https://cnet3.cbsistatic.com/img/RxR94Im29JxfZvvy1kJFuvppsrg=/670x503/2014/09/23/aac5677e-60da-459a-870e-e514be96fc3c/blackberry-porsche-p9983-4.jpg)
 
 ### Related:
 

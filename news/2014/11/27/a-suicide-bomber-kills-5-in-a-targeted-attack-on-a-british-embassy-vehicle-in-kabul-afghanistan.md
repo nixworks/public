@@ -8,6 +8,7 @@ A suicide bomber strikes a UK embassy vehicle in the Afghan capital Kabul, with 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30222501)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/79322000/jpg/_79322792_79322791.jpg)
 
 ### Related:
 

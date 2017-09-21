@@ -9,6 +9,7 @@
 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061117/ap_on_re_us/southern_storms)
 2. [CBS News](http://www.cbsnews.com/stories/2006/11/16/national/main2188300.shtml)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/11/17/d4d9e677-a642-11e2-a3f0-029118418759/image2194835x.jpg)
 
 ### Related:
 

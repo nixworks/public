@@ -9,6 +9,7 @@ The La Tuna fire, one of the largest wildfires in Los Angeles&apos; history, bur
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-la-tuna-fire-wildfire-20170902-story.html)
 2. [NBC News](https://www.nbcnews.com/news/us-news/la-tuna-fire-los-angeles-grows-thousands-acres-largest-brush-n798326)
+2. [Cover Image](http://www.trbimg.com/img-59ab9f6d/turbine/la-me-la-tuna-fire-wildfire-20170902)
 
 ### Related:
 

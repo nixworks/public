@@ -8,6 +8,7 @@ Italy is poised to make a comeback to the Eurovision Song Contest after a break 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11910425)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

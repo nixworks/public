@@ -13,6 +13,7 @@ Government says framework for national dialogue to be set and constitutional cha
 4. [CNN](http://www.cnn.com/2011/WORLD/africa/06/27/libya.war/index.html?hpt=wo_c2)
 5. [CNN](http://www.cnn.com/2011/WORLD/meast/06/27/bahrain.medics/index.html)
 6. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=226824)
+6. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=168023)
 
 ### Related:
 

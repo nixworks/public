@@ -8,6 +8,7 @@ Venezuela will suspend the sale of alcoholic beverages, fireworks and weapons in
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/30/Venezuela-banning-sale-of-alcohol-fireworks-and-weapons-ahead-of-elections/1961448908452/?spt=rln&or=1)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/1961448908452/2015/1/1300de56f3a07edd29736b0b63f831f3/v1.5/Venezuela-banning-sale-of-alcohol-fireworks-and-weapons-ahead-of-elections.jpg)
 
 ### Related:
 

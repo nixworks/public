@@ -8,6 +8,7 @@ Arab coalition forces killed six al Qaeda militants and arrested four others dur
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKBN1331Y0?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

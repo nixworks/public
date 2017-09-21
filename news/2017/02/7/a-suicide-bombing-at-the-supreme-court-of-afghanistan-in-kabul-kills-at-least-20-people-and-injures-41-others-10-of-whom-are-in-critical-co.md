@@ -9,6 +9,7 @@ At least 41 other were wounded in the Kabul explosion, including 10 of them in c
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-38893926)
 2. [NBC News](http://www.nbcnews.com/news/world/suicide-bomber-strikes-afghan-supreme-court-killing-19-people-n718126)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_06/1894596/170207-kabul-bombing-725p_e00867089d7d174f22cdd8ab4ac035b0.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

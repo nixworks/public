@@ -11,6 +11,7 @@
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011210172519776830.html)
 3. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/10/egypt-hosni-mubarak-resignation-rumours)
 4. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/10/egypt-middleeast)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/10/2011210212245435337_20.jpg)
 
 ### Related:
 

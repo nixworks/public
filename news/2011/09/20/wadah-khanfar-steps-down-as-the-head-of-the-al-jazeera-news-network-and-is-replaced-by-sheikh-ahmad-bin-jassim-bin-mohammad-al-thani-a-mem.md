@@ -10,6 +10,7 @@ WADAH KHANFAR, seated behind a vast desk and surrounded by TV screens, deep leat
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/09/201192012481969884.html)
 2. [Financial Times](http://www.ft.com/intl/cms/s/0/6c8b6b30-e3b0-11e0-bd3d-00144feabdc0.html#axzz1YXVoPk4q)
 3. [Irish Times](http://www.irishtimes.com/newspaper/world/2011/0921/1224304480519.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

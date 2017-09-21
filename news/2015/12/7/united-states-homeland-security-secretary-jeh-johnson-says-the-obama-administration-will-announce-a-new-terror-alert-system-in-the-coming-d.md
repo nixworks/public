@@ -8,6 +8,7 @@ WASHINGTON -- The Obama administration will announce a new terror alert system &
 ### Source:
 
 1. [AP via MLive.com](http://www.mlive.com/news/us-world/index.ssf/2015/12/us_getting_new_terror_alert_sy.html)
+1. [Cover Image](http://image.mlive.com/home/mlive-media/width620/img/us-world-news/photo/19342357-standard.jpg)
 
 ### Related:
 

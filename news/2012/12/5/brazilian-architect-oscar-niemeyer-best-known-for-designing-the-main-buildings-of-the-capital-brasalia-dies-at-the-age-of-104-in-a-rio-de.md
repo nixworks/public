@@ -8,6 +8,7 @@ Renowned architect Oscar Niemeyer, who designed the main buildings of Brasilia, 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2012-12-06/brazilian-architect-oscar-niemeyer-dead/4412398)
+1. [Cover Image](http://www.abc.net.au/news/image/4412414-1x1-700x700.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Several European Union countries are sending firefighters and equipment to Greec
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/6965078.stm)
 3. [CNN](http://edition.cnn.com/2007/WORLD/europe/08/26/greece.fires/index.html)
 4. [Financial Times via MSNBC](http://www.msnbc.msn.com/id/20450020/)
+4. [Cover Image](http://www.abc.net.au/news/image/651662-1x1-700x700.jpg)
 
 ### Related:
 

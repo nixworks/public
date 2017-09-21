@@ -10,6 +10,7 @@ At least 26 people killed as worshippers circle around mosque in city of Timbukt
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/201022610552376857.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8538312.stm)
 3. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE61P09A20100226)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

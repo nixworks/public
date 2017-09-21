@@ -9,6 +9,7 @@
 
 1. [CBS News](http://www.cbsnews.com/news/more-than-500-pounds-of-explosives-stolen-from-train/)
 2. [Detroit Free Press](http://www.freep.com/story/news/local/michigan/detroit/2016/04/22/train-arrives-detroit-missing-32-cases-explosives/83413864/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/04/22/d378c750-ee6f-4053-96ee-42890d37616b/csx-train.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A US government agency goes to court to secure supplies of a drug used in lethal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18253578)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60611000/jpg/_60611133_001837638-1.jpg)
 
 ### Related:
 

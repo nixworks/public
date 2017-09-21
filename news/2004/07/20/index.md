@@ -4,7 +4,7 @@
 An investigator for an animal rights group captured video of chickens being kicked, stomped and thrown against a wall by workers at a supplier for Kentucky Fried Chicken (search).
 
 ### [ Sandy Berger resigns as a foreign affairs advisor to John Kerry's presidential campaign after it is reported that Berger was under investigation for allegedly illegally taking classified documents belonging to the U.S. National Archives, intended for review by the 9/11 Commission, related to the Clinton administration's handling of millennium terror threats. ](/news/2004/07/20/sandy-berger-resigns-as-a-foreign-affairs-advisor-to-john-kerry-s-presidential-campaign-after-it-is-reported-that-berger-was-under-investig.md)
-_Context: 9/11 Commission, Bill Clinton, John Kerry, Sandy Berger, U.S. National Archives, presidential campaign_
+_Context: 9/11 Commission, Bill Clinton, John Kerry, Sandy Berger, U.S. National Archives, presidential candidate_
 
 ### [ Canadian Prime minister Paul Martin announces his new cabinet, which includes new faces such as ice hockey great Ken Dryden and former BC premier Ujjal Dosanjh. ](/news/2004/07/20/canadian-prime-minister-paul-martin-announces-his-new-cabinet-which-includes-new-faces-such-as-ice-hockey-great-ken-dryden-and-former-bc-p.md)
 _Context: British Columbia, Canadian Prime Minister, Ken Dryden, Paul Martin, Ujjal Dosanjh, ice hockey, new Cabinet_

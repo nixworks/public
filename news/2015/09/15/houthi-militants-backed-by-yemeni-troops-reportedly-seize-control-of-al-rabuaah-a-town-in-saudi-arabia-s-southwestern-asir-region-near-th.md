@@ -8,6 +8,7 @@ Yemeni Ansarullah fighters, backed by allied forces, seize al-Rabu’ah town in 
 ### Source:
 
 1. [Press TV](http://www.presstv.com/Detail/2015/09/15/429292/Yemen-Houthi-Saudi-Arabia-Asir-Rabuah-Popular-Committees)
+1. [Cover Image](http://cdn.presstv.com/photo/20150915/ce1d0266-b7e0-46f5-afcb-7947faab1e5a.jpg)
 
 ### Related:
 

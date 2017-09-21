@@ -8,6 +8,7 @@ Residents Flee as Rising Floodwater Eats 30-Foot-Wide Hole in the Earthen Dam
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2010/07/24/national/main6709905.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/07/24/dc8a8f29-a642-11e2-a3f0-029118418759/image6709910x.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/nation-world/ci_15778867?nclick_check=1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10976093)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

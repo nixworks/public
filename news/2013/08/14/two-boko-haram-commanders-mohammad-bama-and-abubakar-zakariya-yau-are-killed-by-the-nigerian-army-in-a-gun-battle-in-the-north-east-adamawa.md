@@ -8,6 +8,7 @@ The radical group fighting for an Islamic state in Nigeria is seen as the bigges
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1128551/boko-haram-commanders-die-in-shootout)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/nigeria-1_3644102.jpg?20160706044639)
 
 ### Related:
 

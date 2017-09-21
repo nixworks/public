@@ -8,6 +8,7 @@ Russian President Vladimir Putin ordered troops placed on full combat readiness 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-03-16/putin-puts-troops-on-full-alert-in-snap-western-russia-drills)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

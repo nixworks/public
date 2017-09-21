@@ -8,6 +8,7 @@ Israeli President Reuven Rivlin on Sunday began consultations with representativ
 ### Source:
 
 1. [AFP via Yahoo! News](https://uk.news.yahoo.com/israel-president-opens-talks-over-appointing-next-pm-084118082.html#iLGr9TF)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/cLVLjbCFAH.vsysr0itCzg--/aD01MTE7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/0c8707c426461838260e89e87fe9aeea069b1eaa.jpg)
 
 ### Related:
 

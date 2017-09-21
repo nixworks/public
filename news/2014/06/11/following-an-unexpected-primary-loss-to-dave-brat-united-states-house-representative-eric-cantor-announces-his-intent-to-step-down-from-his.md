@@ -8,6 +8,7 @@ Eric Cantor is relinquishing his leadership post, sources tell ABC News.
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Politics/eric-cantor-step-house-majority-leader/story?id=24092285)
+1. [Cover Image](http://a.abcnews.com/images/Politics/AP_Eric_Cantor_ml_140610_16x9_992.jpg)
 
 ### Related:
 

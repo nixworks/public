@@ -8,6 +8,7 @@ A row has broken out in the European Parliament over Ireland&#39;s 12.5% corpora
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/1130/eu_economy.html)
+1. [Cover Image](https://img.rasset.ie/0003b742-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The leader of the Syrian branch of al-Qaeda has reportedly been killed in Aleppo
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/world/middle-east/leader-of-syrian-branch-of-al-qaeda-abu-suleiman-al-masri-reportedly-killed-fighting-against-syrian-a6707396.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/24/17/al-Masri.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hkNBLviQTBmc803j2biRbntyjusgD9H4RIS80)
 2. [CBC](http://www.cbc.ca/world/story/2010/07/23/switzerland-tourist-train-derailment.html)
+2. [Cover Image](https://i.cbc.ca/1.2113106.1382069561!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-switzerland-train-cp-909.jpg)
 
 ### Related:
 

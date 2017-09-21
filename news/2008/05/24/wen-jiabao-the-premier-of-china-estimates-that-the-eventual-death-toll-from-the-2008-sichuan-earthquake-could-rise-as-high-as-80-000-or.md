@@ -8,6 +8,7 @@ The death toll from the earthquake in central China could rise as high as 80,000
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2008/05/24/china-quake.html)
+1. [Cover Image](https://i.cbc.ca/1.2212423.1382675432!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-china-cp-4890527.jpg)
 
 ### Related:
 

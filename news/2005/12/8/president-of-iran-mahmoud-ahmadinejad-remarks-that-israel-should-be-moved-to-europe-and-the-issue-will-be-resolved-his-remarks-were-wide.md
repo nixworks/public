@@ -13,6 +13,7 @@ Saudis fumed Friday that Iran&#39;s president marred a Mecca summit dedicated to
 4. [KUNA](http://www.kuna.net.kw/home/story.aspx?Language=en&DSNO=795240)
 5. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-12-08T142521Z_01_SPI849554_RTRUKOC_0_UK-MIDEAST-IRAN-AHMADINEJAD.xml)
 6. [UN](http://www.un.org/apps/news/story.asp?NewsID=16869&Cr=iran&Cr1=)
+6. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

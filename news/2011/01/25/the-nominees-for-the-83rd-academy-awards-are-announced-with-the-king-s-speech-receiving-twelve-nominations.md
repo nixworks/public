@@ -10,6 +10,7 @@ A psychological ballet thriller, a historical drama and a social network movie a
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011125165221705359.html)
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12274205)
 3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/01/25/DD901HDVVR.DTL)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/25/2011125175712563784_20.jpg)
 
 ### Related:
 

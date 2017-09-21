@@ -11,6 +11,7 @@ The mutilation and death in custody of a 13-year-old child has sparked further f
 2. [Al Jazeera](http://www.aljazeera.com/indepth/features/2011/05/201153185927813389.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-13614921)
 4. [NATO](http://www.nato.int/cps/en/SID-FCCB38F0-4ED22C14/natolive/news_74977.htm)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/31/201153195454423833_20.jpg)
 
 ### Related:
 

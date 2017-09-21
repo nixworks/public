@@ -11,6 +11,7 @@ The US has said it holds Russia responsible for a deadly attack on an aid convoy
 2. [BBC](http://www.bbc.com/news/world-middle-east-37429296)
 3. [Sky News](http://news.sky.com/story/john-kerry-demands-no-fly-zone-over-syria-as-well-as-ceasefire-10587079)
 4. [The New York Times](http://www.nytimes.com/2016/09/21/world/middleeast/syria-cease-fire.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B222/production/_91320654_035429880.jpg)
 
 ### Related:
 

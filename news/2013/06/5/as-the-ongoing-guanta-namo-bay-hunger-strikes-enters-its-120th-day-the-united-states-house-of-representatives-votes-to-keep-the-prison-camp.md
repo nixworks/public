@@ -8,6 +8,7 @@ As the Guantanamo hunger strike enters its 120th day, the US House of Representa
 ### Source:
 
 1. [RT](http://rt.com/news/gitmo-detainee-yemen-relatives-244/)
+1. [Cover Image](https://img.rt.com/files/news/1f/4f/40/00/000_nic6209406.si.jpg)
 
 ### Related:
 

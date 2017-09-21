@@ -9,3 +9,4 @@ One of key figures of social justice movement arrested along with 11 others; Yec
 
 1. [Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=274833)
 2. [Ynet](http://www.ynet.co.il/articles/0,7340,L-4245902,00.html)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=196875)

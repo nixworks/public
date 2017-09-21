@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/11/egyptian-army-accused-war-crimes-2013111616409318660.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/11/16/20131116135117538580_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Papua New Guinea now has an alternative free-to-air channel with the launch of t
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/17/2367419.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

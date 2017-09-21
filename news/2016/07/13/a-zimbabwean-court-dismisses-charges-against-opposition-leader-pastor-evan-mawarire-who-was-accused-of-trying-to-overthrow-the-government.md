@@ -8,6 +8,7 @@ A Zimbabwean court on Wednesday dismissed charges against a religious leader acc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-zimbabwe-protests-idUSKCN0ZS0IS?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160713&t=2&i=1145324694&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6C1GI)
 
 ### Related:
 

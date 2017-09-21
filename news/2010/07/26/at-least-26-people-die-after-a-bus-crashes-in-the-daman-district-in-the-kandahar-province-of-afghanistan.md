@@ -9,6 +9,7 @@
 
 1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/26-die-in-afghan-bus-crash-20100726-10s9q.html)
 2. [samaylive](http://english.samaylive.com/world/676469721.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

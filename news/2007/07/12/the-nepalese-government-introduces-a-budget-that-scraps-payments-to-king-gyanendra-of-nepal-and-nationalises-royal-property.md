@@ -8,6 +8,7 @@ Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nat
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/13/1977392.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

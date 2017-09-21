@@ -11,6 +11,7 @@ A gunman killed an Israeli soldier and wounded at least 11 other people at a bus
 2. [NBC News](http://www.nbcnews.com/news/world/attack-israeli-city-beersheba-leaves-one-dead-least-8-wounded-n446781)
 3. [Washington Post](https://www.washingtonpost.com/world/sunday-stabbing-and-shooting-attack-in-negev-desert-leaves-two-dead/2015/10/19/79767c0e-7637-11e5-a958-d889faf561dc_story.html)
 4. [Yediot Ahronot – Ynet](http://www.ynetnews.com/articles/0,7340,L-4713271,00.html)
+4. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_42/1266881/151018-beersheba-attack-ef-1640_fb786feb4997838e84414626ce4ce15a.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

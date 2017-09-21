@@ -8,6 +8,7 @@ Roads have been closed in Queensland&#39;s northwest following heavy rain which 
 ### Source:
 
 1. [AAP via NineMSN](http://www.9news.com.au/national/2016/03/13/15/23/monsoonal-low-could-develop-over-qld)
+1. [Cover Image](http://9news.static9.net.au/content/images/default-share-image.png)
 
 ### Related:
 

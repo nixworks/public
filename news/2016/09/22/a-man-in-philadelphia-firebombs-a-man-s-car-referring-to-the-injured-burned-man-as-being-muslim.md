@@ -8,6 +8,7 @@ A nearby witness claims the suspect shouted the comment to the driver before thr
 ### Source:
 
 1. [The Independent](http://www.mirror.co.uk/news/world-news/there-you-go-muslim-says-8891711)
+1. [Cover Image](http://i2.mirror.co.uk/incoming/article8891615.ece/ALTERNATES/s1200/fire3.jpg)
 
 ### Related:
 

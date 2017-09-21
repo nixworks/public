@@ -8,6 +8,7 @@ At least 25 people have been killed in coordinated attacks by unidentified men a
 ### Source:
 
 1. [Indian Times](http://timesofindia.indiatimes.com/world/rest-of-world/25-killed-in-northern-Nigeria-attacks/articleshow/19171725.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

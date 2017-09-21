@@ -8,6 +8,7 @@ Monarch gives extra powers to parliament despite criticism from opposition which
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201253171926431856.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/20/201232011314997734_20.jpg)
 
 ### Related:
 

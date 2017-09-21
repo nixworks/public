@@ -8,6 +8,7 @@ The fund that protects depositors fell into the red for the first time since the
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/11/25/business/economy/25fdic.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

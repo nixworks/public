@@ -8,6 +8,7 @@ Federal health officials would not confirm reports Thursday that an elderly woma
 ### Source:
 
 1. [CP24 via ''Canadian Press](http://www.cp24.com/servlet/an/local/CTVNews/20090507/090507_swinefludeath/20090507/?hub=CP24Home)
+1. [Cover Image](https://www.cp24.com/polopoly_fs/1.36969.1337368981!/httpImage/image._gen/derivatives/landscape_620/image.)
 
 ### Related:
 

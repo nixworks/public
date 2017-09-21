@@ -8,6 +8,7 @@ Two journalists for French radio station RFI have been killed after being kidnap
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24787682)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70872000/jpg/_70872128_rfijournos_composite.jpg)
 
 ### Related:
 

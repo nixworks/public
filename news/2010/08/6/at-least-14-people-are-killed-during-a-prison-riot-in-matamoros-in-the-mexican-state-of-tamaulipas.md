@@ -8,6 +8,7 @@ Police in Mexico say that at least 14 prisoners have been killed in a jail riot 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10899898)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

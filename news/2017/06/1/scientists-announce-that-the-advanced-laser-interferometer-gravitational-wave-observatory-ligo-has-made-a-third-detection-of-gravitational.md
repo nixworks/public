@@ -8,6 +8,7 @@ Scientists pick up once again the distortions in space-time resulting from a hug
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-40120680)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/48BC/production/_96302681_index.jpg)
 
 ### Related:
 

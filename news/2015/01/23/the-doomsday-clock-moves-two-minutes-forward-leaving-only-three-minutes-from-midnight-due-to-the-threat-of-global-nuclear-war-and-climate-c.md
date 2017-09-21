@@ -10,6 +10,7 @@ Symbolic clock is now at three minutes to apocalypse, the darkest hour for human
 1. [The Guardian](http://www.theguardian.com/world/2015/jan/22/climate-change-nuclear-bombs-doomsday-clock-near-midnight)
 2. [The Independent](http://www.independent.co.uk/news/science/we-are-closer-to-doom-than-any-time-since-the-cold-war-say-scientists-9996284.html)
 3. [The Washington Post](http://www.washingtonpost.com/news/speaking-of-science/wp/2015/01/22/the-doomsday-clock-is-ticking-again-it-is-now-three-minutes-to-midnight-a-k-a-the-end-of-humanity/)
+3. [Cover Image](https://i.guim.co.uk/img/media/f6d7a6edbbde89daf41bf639854d4aca77c4c1d1/0_0_4928_2956/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f026cf74eceb163cbc57ec0a756799a9)
 
 ### Related:
 

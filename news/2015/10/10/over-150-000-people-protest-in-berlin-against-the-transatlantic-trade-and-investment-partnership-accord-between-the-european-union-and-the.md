@@ -11,6 +11,7 @@ Protesters from a range of political groups have gathered in central Berlin for 
 2. [DW](http://www.dw.com/en/thousands-take-to-berlin-to-protest-eu-us-ttip-accord/a-18774685)
 3. [France24](http://www.france24.com/en/20151010-thousands-demonstrate-rall-berlin-against-eu-us-trade-deal-ttip)
 4. [RT](https://www.rt.com/news/318199-berlin-ttip-protest-rally/)
+4. [Cover Image](https://img.rt.com/files/2015.10/article/5618e4eec3618810468b461b.jpg)
 
 ### Related:
 

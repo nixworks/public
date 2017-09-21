@@ -8,6 +8,7 @@ The avalanche occurred near the town of Pelvoux in southeast France.
 ### Source:
 
 1. [Accuweather](http://www.accuweather.com/en/weather-news/seven-die-in-french-alps-avala/52411998)
+1. [Cover Image](https://accuweather.brightspotcdn.com/f1/f185c37b89fc2115e286862828df959e/650x366_09160539_ap_13961451184.jpg)
 
 ### Related:
 

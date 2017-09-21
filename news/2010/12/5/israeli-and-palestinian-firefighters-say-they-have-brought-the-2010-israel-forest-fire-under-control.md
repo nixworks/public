@@ -8,3 +8,4 @@ Evacuated villagers to be allowed to return home after an international firefigh
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012517441331981.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/2010125182342388368_20.jpg)

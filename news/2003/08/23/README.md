@@ -16,7 +16,7 @@ _Context: Helsinki, Linnanmki, power outage_
 _Context: 2003 California recall, Bill Simon, Republican_
 
 ### [ Iran makes protest and cuts diplomatic ties with Argentina over the arrest in Britain of its former ambassador with the United Kingdom and Argentina for the alleged bombing Jewish community centre in Buenos Aires in 1994 in which 85 people died.](/news/2003/08/23/iran-makes-protest-and-cuts-diplomatic-ties-with-argentina-over-the-arrest-in-britain-of-its-former-ambassador-with-the-united-kingdom-and.md)
-_Context: Argentina, Buenos Aires, Iran, ambassador_
+_Context: Ambassador, Argentina, Buenos Aires, Iran_
 
 ### [ John Geoghan, a defrocked Roman Catholic priest and convicted child molester, dies following an attack in prison. Initial reports say that he was strangled to death.](/news/2003/08/23/john-geoghan-a-defrocked-roman-catholic-priest-and-convicted-child-molester-dies-following-an-attack-in-prison-initial-reports-say-that.md)
 _Context: John Geoghan, Roman Catholic, defrocked, prison, sexual relations_

@@ -8,6 +8,7 @@ Al-Qaeda leader Osama bin Laden has addressed the 60th anniversary of Israel&#39
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0516/binladen.html)
+1. [Cover Image](https://img.rasset.ie/00012d1b-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Hundreds of Syrians are fleeing coastal areas where activists say government for
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22410392)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/israel-launches-second-airstrike-in-syria-targeting-weapons-shipment/2013/05/04/cdccddc0-b4c4-11e2-9fb1-62de9581c946_story.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67423000/gif/_67423648_syria_damascus_baniyas_0513.gif)
 
 ### Related:
 

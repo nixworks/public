@@ -9,6 +9,7 @@ Palestinian driver ploughs into soldiers gathered at a promenade overlooking the
 
 1. [CNN](http://www.cnn.com/2017/01/08/middleeast/jerusalem-vehicle-attack/index.html)
 2. [The Guardian](https://www.theguardian.com/world/2017/jan/08/truck-rammed-into-pedestrians-jerusalem?CMP=Share_AndroidApp_%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EC%97%90_%EB%B3%B5%EC%82%AC)
+2. [Cover Image](https://i.guim.co.uk/img/media/03861794d99feb12e20c7da3d47e7cdea91b13d8/0_333_5184_3110/master/5184.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8f6ac09ea29f14daa0e8fbc6affe87be)
 
 ### Related:
 

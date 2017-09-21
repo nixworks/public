@@ -8,6 +8,7 @@ Hassan Rowhani, who resigned as nuclear negotiator in 2005, joins dozens looking
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134126523423753.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2013/4/12//2013412717985734_20.jpg)
 
 ### Related:
 

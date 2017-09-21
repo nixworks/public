@@ -8,6 +8,7 @@ ParFX, a currency trading platform launched to curb the advantage of high-freque
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/23/us-markets-forex-parfx-idUSBREA0M0O920140123)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

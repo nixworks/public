@@ -8,6 +8,7 @@ A Tim Donaghy letter to the court alleges improper conduct by referees in the NB
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/nba/news/story?id=3436401)
+1. [Cover Image](http://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fhou.png)
 
 ### Related:
 

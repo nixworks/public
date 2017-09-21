@@ -8,6 +8,7 @@ A high-tech team of scientists and filmmakers shared pictures of what appears to
 ### Source:
 
 1. [NBC News](http://cosmiclog.nbcnews.com/_news/2013/05/15/18278377-ciudad-blanca-found-scientists-share-images-of-lost-city-in-honduras)
+1. [Cover Image](http://m.static.newsvine.com/servista/imagesizer?file=boyle2A2E39C8-77FA-E55B-F106-F67D152357F8.jpg&width=original)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-40750671)
 2. [Dawn (Pakistan](https://www.dawn.com/news/1348191)
+2. [Cover Image](http://i.dawn.com/medium/2017/07/597af654b7b35.jpg?r=1239082565)
 
 ### Related:
 

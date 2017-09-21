@@ -9,6 +9,7 @@
 
 1. [National Hurricane Center](http://www.nhc.noaa.gov/refresh/graphics_at2+shtml/235211.shtml?gm_track#contents)
 2. [Reuters](http://in.reuters.com/article/us-storm-franklin-nhc-mexico-idINKBN1AP1EB)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170809&t=2&i=1196470649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7821V)
 
 ### Related:
 

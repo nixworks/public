@@ -8,6 +8,7 @@ An Air Force officer in charge of the Sexual Assault Prevention and Response Off
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Politics/air-force-officer-charged-sexual-battery-arlington/story?id=19120383)
+1. [Cover Image](http://a.abcnews.com/images/Politics/ht_jeffrey_krusinski_mi_130506_wmain.jpg)
 
 ### Related:
 

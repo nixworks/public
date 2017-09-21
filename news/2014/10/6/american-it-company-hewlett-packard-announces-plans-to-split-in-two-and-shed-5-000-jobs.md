@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Sci-Tech Today](http://www.sci-tech-today.com/news/-HP-To-Split-in-Two--Slash-5-000-Jobs/story.xhtml?story_id=012001C8SA90)
+1. [Cover Image](http://www.sci-tech-today.com/images/super/larger-14-HP-CORP-sign-1.jpg)
 
 ### Related:
 

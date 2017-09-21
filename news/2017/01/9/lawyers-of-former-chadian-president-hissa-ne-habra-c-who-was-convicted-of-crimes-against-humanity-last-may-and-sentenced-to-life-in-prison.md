@@ -8,6 +8,7 @@ Former president’s lawyers claim trial last year contained irregularities and 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/09/chad-dictator-hissene-habre-appeals-against-war-crimes-contviction)
+1. [Cover Image](https://i.guim.co.uk/img/media/5b34b865c7de67e6fd45fb90f94edff924a7a6ea/0_81_2840_1704/master/2840.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c2b3fd85c29c30b1310b7f9aa8f8e60e)
 
 ### Related:
 

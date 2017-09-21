@@ -8,6 +8,7 @@ Widows and children of the former al-Qaeda chief arrive in the kingdom after bei
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/asia/2012/04/2012426183958915646.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/27//20124271476228734_20.jpg)
 
 ### Related:
 

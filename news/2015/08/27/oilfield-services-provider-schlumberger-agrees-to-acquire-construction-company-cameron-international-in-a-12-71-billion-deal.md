@@ -8,6 +8,7 @@ HOUSTON — Schlumberger is buying Cameron in a cash-and-stock deal valued at ab
 ### Source:
 
 1. [AP via ''The Pittsburgh Tribune-Review](http://triblive.com/business/headlines/8981587-74/cameron-schlumberger-deal#axzz3k3drQeqF)
+1. [Cover Image](http://triblive.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=1g$37fswdHcstvCl6L47E8$daE2N3K4ZzOUsqbU5sYvE81Owo37z1DVtlUOdlUsnWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&amp;CONTENTTYPE=image/jpeg)
 
 ### Related:
 

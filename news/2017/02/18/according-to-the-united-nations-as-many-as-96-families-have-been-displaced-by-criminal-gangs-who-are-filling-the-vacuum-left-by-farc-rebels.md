@@ -8,6 +8,7 @@ The UN says criminal groups are filling the power vacuum left by rebels near the
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39011446)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/66B3/production/_94719262_mediaitem94719261.jpg)
 
 ### Related:
 

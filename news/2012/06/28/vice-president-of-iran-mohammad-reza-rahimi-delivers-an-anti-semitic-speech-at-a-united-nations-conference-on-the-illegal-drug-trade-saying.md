@@ -9,6 +9,7 @@ EU foreign policy chief also slams Iranian VP for blaming world drug problems on
 
 1. [The Age](http://www.theage.com.au/world/antisemitic-drug-speech-20120627-212si.html)
 2. [The Times of Israel](http://www.timesofisrael.com/un-secretary-general-calls-on-iran-to-refrain-from-anti-semitic-comments/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/06/Web_F070326NS05.jpg)
 
 ### Related:
 

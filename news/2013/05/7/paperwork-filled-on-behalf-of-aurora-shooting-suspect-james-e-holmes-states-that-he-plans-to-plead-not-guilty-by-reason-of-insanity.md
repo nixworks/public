@@ -8,3 +8,4 @@ Defense lawyers for James E. Holmes, charged with opening fire on a packed Auror
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/05/08/us/colorado-massacre-suspect-pursues-insanity-defense.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

@@ -8,6 +8,7 @@ New Delhi — President Obama and Indian Prime Minister Narendra Modi said they 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/01/25/obama-india-arrival/22307343/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

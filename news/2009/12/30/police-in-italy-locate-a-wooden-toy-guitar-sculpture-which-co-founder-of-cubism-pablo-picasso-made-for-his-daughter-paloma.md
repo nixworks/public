@@ -11,6 +11,7 @@ Pablo Picasso&#039;s &#034;Little Guitar&#034;, a sculpture the artist made for 
 2. [France 24](http://www.france24.com/en/node/4958621)
 3. [Philadelphia Inquirer](http://www.philly.com/philly/entertainment/arts/20091229_ap_policerecoverpicassoslittleguitar.html)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/6908015/Police-recover-Picassos-Little-Guitar-from-Italians-shoe-box.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01550/guitar_1550774a.jpg)
 
 ### Related:
 

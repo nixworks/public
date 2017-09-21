@@ -8,6 +8,7 @@ A&#x20;French&#x20;soldier&#x20;was&#x20;killed&#x20;and&#x20;another&#x20;was&#
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20130112-france-forces-shebab-raid-somalia-militants-hostage)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Somalie-pretexte.jpg)
 
 ### Related:
 

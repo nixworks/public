@@ -8,6 +8,7 @@ The United Nations peacekeeping mission in Congo on Sunday started deploying mor
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/u-n-deploys-troops-in-congo-after-massacre-1402218341)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-DD260_uganda_G_20140608050035.jpg)
 
 ### Related:
 

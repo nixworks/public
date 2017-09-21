@@ -8,6 +8,7 @@ Flooding in the southern Pakistani province of Sindh has left more than 60,000 p
 ### Source:
 
 1. [Pakistan](http://www.abc.net.au/news/2011-08-18/thousands-homeless-after-pakistan-floods/2844570)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

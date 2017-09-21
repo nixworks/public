@@ -8,6 +8,7 @@ GALAX, Va. (AP) — Virginia State Police say three people have been killed and 
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/nation/2013/03/31/75-vehicle-pileup/2040277/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

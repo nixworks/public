@@ -8,6 +8,7 @@ Tear gas and rubber bullets reportedly used to break up religious gatherings in 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116674812696776.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/6/201166755647734_20.jpg)
 
 ### Related:
 

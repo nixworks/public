@@ -9,6 +9,7 @@ At least five people are killed and dozens injured as Moroccan forces break up a
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11710400)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1426781&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

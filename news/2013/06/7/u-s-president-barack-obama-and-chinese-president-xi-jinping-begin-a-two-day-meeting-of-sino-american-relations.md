@@ -8,6 +8,7 @@ Chinese President Xi Jinping and his US counterpart Barack Obama open two days o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-22798572)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68053000/jpg/_68053189_018246839.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A poisonous gas believed to have been released when someone tried to wash away a
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/01/03/4-children-die-in-texas-pesticide-gas-poisoning-others-injured.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Anthem Inc. agreed to buy Cigna Corp. for $48.4 billion in a transaction that, a
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/anthem-agrees-to-buy-cigna-for-48-billion-1437732331)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JA371_CIGNAj_G_20150621184007.jpg)
 
 ### Related:
 

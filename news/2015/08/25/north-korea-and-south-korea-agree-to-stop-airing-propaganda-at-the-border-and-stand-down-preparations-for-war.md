@@ -8,6 +8,7 @@ South Korea has agreed to stop blaring propaganda from speakers across the borde
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/08/25/434547721/after-days-of-talks-tense-standoff-north-and-south-korea-reach-detente)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

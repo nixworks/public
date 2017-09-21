@@ -8,6 +8,7 @@ As California&apos;s aid-in-dying law took effect Thursday, the Life Legal Defen
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/politics/la-me-ln-dying-opponents-20160609-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-575a4c48/turbine/la-me-ln-dying-opponents-20160609-snap)
 
 ### Related:
 

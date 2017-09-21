@@ -9,6 +9,7 @@
 
 1. [New Zealand Stuff](http://www.stuff.co.nz/world/south-pacific/5033398/Disaster-alert-in-Fiji)
 2. [Radio Australia](http://www.radioaustralianews.net.au/stories/201105/3222197.htm?desktop)
+2. [Cover Image](https://static2.stuff.co.nz/1305869600/544/5033544.jpg)
 
 ### Related:
 

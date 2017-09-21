@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8492608.stm)
 2. [CBC](http://www.cbc.ca/politics/story/2010/02/02/china-us-dalai-lama.html)
 3. [China Daily](http://www.chinadaily.com.cn/china/2010-02/02/content_9415162.htm)
+3. [Cover Image](https://i.cbc.ca/1.2067110.1382424177!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-dalai-lama-cp-6380586.jpg)
 
 ### Related:
 

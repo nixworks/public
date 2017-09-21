@@ -8,6 +8,7 @@ South Africa is sending more soldiers to support government troops in the Centra
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20928352)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65021000/jpg/_65021043_65021042.jpg)
 
 ### Related:
 

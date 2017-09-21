@@ -9,6 +9,7 @@ Officials have found three inmates thought to have escaped through a tunnel at a
 
 1. [AP via Fox News](http://www.foxnews.com/world/2012/09/18/132-inmates-escape-from-mexican-border-prison-officials-say/)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/another-mass-prison-break-in-mexico.html)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2012/09/18/132-inmates-escape-from-mexican-border-prison-officials-say/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421987592051.jpg?ve=1)
 
 ### Related:
 

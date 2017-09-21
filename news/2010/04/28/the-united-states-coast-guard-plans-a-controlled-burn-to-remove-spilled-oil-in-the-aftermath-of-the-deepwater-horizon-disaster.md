@@ -8,6 +8,7 @@ The U.S. Coast Guard said Wednesday it scheduled a controlled burn in the Gulf o
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/coast-guard-to-burn-oil-spill-as-concerns-mount-2010-04-28?reflink=MW_news_stmp)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

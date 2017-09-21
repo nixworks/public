@@ -9,3 +9,4 @@ A married teacher who belongs to a breakaway Catholic faction becomes the first 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10143089.stm)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/first-female-priest-ordained-in-italy-20100522-w353.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

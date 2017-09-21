@@ -8,6 +8,7 @@ The cost to rebuild post-Hurricane Harvey is rising and already on track to shat
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/hurricane-harvey-projected-2nd-costliest-storm-us-history/story?id=49565583)
+1. [Cover Image](http://a.abcnews.com/images/US/harvey-rx-01-as-160901_16x9_992.jpg)
 
 ### Related:
 

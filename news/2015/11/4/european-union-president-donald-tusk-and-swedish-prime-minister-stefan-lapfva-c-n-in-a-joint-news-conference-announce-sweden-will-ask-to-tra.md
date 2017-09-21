@@ -9,6 +9,7 @@ UPDATED: As the Nordic nation continues to take in record numbers of refugees, S
 
 1. [AP](http://bigstory.ap.org/article/ba9be5b6235c42f3a2cb222e58f81a9b/latest-1st-group-relocated-greece-luxembourg)
 2. [The Local](http://www.thelocal.se/20151104/sweden-steps-up-push-for-eu-refugee-help)
+2. [Cover Image](https://www.thelocal.se/userdata/images/article/0f91a599c6803f15f2fcb17705e074952de0915ef2894777484b38907424b31a.jpg)
 
 ### Related:
 

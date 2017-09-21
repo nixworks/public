@@ -9,6 +9,7 @@ The US House of Representatives’ Foreign Affairs Committee on Wednesday unanim
 
 1. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201604210009.aspx)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2016/04/22/2003644523)
+2. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

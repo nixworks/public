@@ -8,6 +8,7 @@ Thai police have arrested a man convicted of involvement in a bomb attack in Ind
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/01/06/thailand-india-idINKBN0KF0JP20150106)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150106&t=2&i=1013566717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB050BY)
 
 ### Related:
 

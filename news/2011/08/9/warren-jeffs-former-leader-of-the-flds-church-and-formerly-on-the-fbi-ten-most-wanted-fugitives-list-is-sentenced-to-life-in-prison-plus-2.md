@@ -8,6 +8,7 @@ Polygamist leader Warren Jeffs was sentenced Tuesday to life in prison plus 20 y
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/CRIME/08/09/texas.polygamist.jeffs/index.html?hpt=hp_t2)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/CRIME/08/09/texas.polygamist.jeffs/tzvids.warren.jeffs.gi.jpg)
 
 ### Related:
 

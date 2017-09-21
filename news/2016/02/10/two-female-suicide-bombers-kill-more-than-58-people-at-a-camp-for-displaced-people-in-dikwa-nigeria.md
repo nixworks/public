@@ -13,6 +13,7 @@ Two female suicide bombers killed more than 60 people at a camp for people displ
 4. [IB Times](http://www.ibtimes.co.in/6-killed-twin-suicide-attacks-cameroon-666427)
 5. [Newsweek](http://europe.newsweek.com/six-dead-double-suicide-bombing-cameroon-report-424907?rm=eu)
 6. [Reuters](http://www.reuters.com/article/us-nigeria-violence-idUSKCN0VJ265)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

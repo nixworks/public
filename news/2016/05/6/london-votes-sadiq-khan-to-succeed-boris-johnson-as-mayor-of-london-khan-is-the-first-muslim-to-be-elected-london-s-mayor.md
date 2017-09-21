@@ -8,6 +8,7 @@ Sadiq Khan is elected London mayor - a boost to Labour after it slumped to third
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/election-2016-36232392)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DEDC/production/_89625075_032803225-2.jpg)
 
 ### Related:
 

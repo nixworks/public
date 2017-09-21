@@ -8,6 +8,7 @@ Female suicide bomber kills at least four people in western province of Anbar.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107492524124135.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via Yahoo](http://news.yahoo.com/thousands-opponents-government-march-poland-150103855.html)
 2. [BBC](http://www.bbc.com/news/world-europe-35083561)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1159B/production/_87176017_030545816-1.jpg)
 
 ### Related:
 

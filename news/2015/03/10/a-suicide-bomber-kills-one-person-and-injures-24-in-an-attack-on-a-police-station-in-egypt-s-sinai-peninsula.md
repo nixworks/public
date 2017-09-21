@@ -8,6 +8,7 @@ Two bombings in Egypt&#x27;s Sinai Peninsula, one of them a suicide attack on a 
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/suicide-bomber-kills-1-wounds-24-egypts-sinai-062918922.html;_ylt=AwrTWVVhl_5UVgcAhlDQtDMD)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/gV7PaiNNzU6_NTt7AZwJ1g--/aD02NTE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/7d886347365f3b5b08c07474a2fd10882ce1e30a.jpg)
 
 ### Related:
 

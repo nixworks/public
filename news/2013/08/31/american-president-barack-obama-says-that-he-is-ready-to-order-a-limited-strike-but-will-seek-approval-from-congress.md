@@ -10,6 +10,7 @@ BEIRUT - A United Nations chemical inspection team left Syria on Saturday as U.S
 1. [CNN](http://edition.cnn.com/2013/08/31/world/meast/syria-civil-war/index.html?hpt=hp_t1)
 2. [Jerusalem Post](http://www.jpost.com/Breaking-News/European-Gulf-states-urge-nationals-to-leave-Lebanon-immediately-324841)
 3. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-un-inspection-team-syria-20130830,0,5992546.story)
+3. [Cover Image](http://www.latimes.com/media/photo/2013-08/77227167.jpg)
 
 ### Related:
 

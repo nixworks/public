@@ -8,6 +8,7 @@ Former MP for Luton South Margaret Moran is to face 21 charges of claiming parli
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-14804698)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/55182000/jpg/_55182283_007306844-1.jpg)
 
 ### Related:
 

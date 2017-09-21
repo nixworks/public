@@ -8,6 +8,7 @@ Yemeni security officials say unknown assailants have attacked Houthis south of 
 ### Source:
 
 1. [AP via ''The Daily Star](http://dailystar.com.lb/News/Middle-East/2015/Jan-04/283001-explosion-in-yemen-kills-at-least-5-houthis.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/01/04/378561_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

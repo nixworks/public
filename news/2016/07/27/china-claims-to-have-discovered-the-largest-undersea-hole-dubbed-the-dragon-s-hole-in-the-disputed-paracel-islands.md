@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/worlds-giant-hole-in-south-china-sea-2016-7)
+1. [Cover Image](http://static3.businessinsider.com/image/5798cb8d4321f16b018bb38c-1190-625/china-claims-it-has-discovered-the-worlds-largest-hole-and-its-in-one-of-the-most-dangerous-places-on-the-planet.jpg)
 
 ### Related:
 

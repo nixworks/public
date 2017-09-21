@@ -9,6 +9,7 @@ A Home Depot in Havana? It could happen under a sweeping set of new rules by the
 
 1. [Reuters](http://www.reuters.com/article/2015/09/18/us-cuba-usa-trade-idUSKCN0RI1EF20150918)
 2. [USA Today](http://www.usatoday.com/story/news/world/2015/09/18/cuba-obama-trade-restrictions-removed/72390194/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ In his first U.N. appearance, Libyan leader Moammar Gadhafi slams the Security C
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32986087/ns/world_news-united_nations/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090923-gadhafi-protest-hmed-1p.standard.jpg)
 
 ### Related:
 

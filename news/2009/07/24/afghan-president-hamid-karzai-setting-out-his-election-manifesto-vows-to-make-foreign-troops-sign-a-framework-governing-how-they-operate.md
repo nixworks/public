@@ -8,6 +8,7 @@ Afghan President Hamid Karzai, setting out his election manifesto, vowed on Frid
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56M3ZQ20090724)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090724&t=2&i=10986873&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-24T122522Z_01_BTRE56N0YIN00_RTROPTP_0_AFGHANISTAN)
 
 ### Related:
 

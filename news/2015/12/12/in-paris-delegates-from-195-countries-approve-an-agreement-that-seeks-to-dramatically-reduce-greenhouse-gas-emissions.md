@@ -9,6 +9,7 @@ Organisers of climate talks in Paris say a final draft text has been reached aft
 
 1. [BBC](http://www.bbc.com/news/science-environment-35079532#)
 2. [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2015/12/12/proposed-historic-climate-pact-nears-final-vote/?hpid=hp_rhp-top-table-main_ee-climate-801am:homepage/story&wpisrc=al_alert-COMBO-world%252Bnation)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CD39/production/_87173525_87173524.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tributes are being paid to singer Amy Winehouse, who was found dead at her Londo
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14262237)
 2. [News24](http://www.channel24.co.za/Music/News/Police-Singer-Amy-Winehouse-dies-20110723)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54232000/jpg/_54232735_012515020-1.jpg)
 
 ### Related:
 

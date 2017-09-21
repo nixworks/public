@@ -8,6 +8,7 @@ Kyrgyzstan is electing its President on Sunday in a hotly-contested race that co
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article2580287.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

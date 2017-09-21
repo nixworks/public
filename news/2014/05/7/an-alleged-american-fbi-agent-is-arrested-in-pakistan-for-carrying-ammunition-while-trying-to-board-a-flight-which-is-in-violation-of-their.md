@@ -8,6 +8,7 @@ An American FBI agent is arrested under anti-terrorism laws in Pakistan for carr
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27305754)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74692000/gif/_74692515_fbi2.gif)
 
 ### Related:
 

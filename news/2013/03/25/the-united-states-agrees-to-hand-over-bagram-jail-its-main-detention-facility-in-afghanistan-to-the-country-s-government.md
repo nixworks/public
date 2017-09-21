@@ -8,6 +8,7 @@ Transfer ends one of several bitter standoffs straining bilateral ties as US sec
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/03/201332534437116216.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/26/201332655844733734_20.jpg)
 
 ### Related:
 

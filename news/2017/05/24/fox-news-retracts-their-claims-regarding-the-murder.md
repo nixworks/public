@@ -9,6 +9,7 @@ On May 16, a story was posted on the Fox News website on the investigation into 
 
 1. [BuzzFeed](https://www.buzzfeed.com/josephbernstein/the-man-behind-the-seth-rich-private-investigation-has-a)
 2. [Fox News](http://www.foxnews.com/politics/2017/05/23/statement-on-coverage-seth-rich-murder-investigation.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

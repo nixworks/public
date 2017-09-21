@@ -9,6 +9,7 @@ The Islamic State reportedly strapped 3 detainees to ancient pillars, then blew 
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34647186)
 2. [USA Today](http://www.usatoday.com/story/news/world/2015/10/27/report-isil-blows-up-prisoners-antiquities/74670628/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

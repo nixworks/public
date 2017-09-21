@@ -10,6 +10,7 @@
 1. [Fox Central Florida](http://www.kcoy.com/global/story.asp?s=14158234)
 2. [Hollywood Reporter](http://www.hollywoodreporter.com/news/gentlemen-prefer-blondes-star-jane-russell-dies-162533)
 3. [Reuters](http://www.reuters.com/article/2011/03/01/us-janerussell-idUSTRE72001620110301?feedType=RSS&feedName=topNews)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110301&t=2&i=350015104&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-01T124021Z_01_BTRE720057000_RTROPTP_0_PEOPLE-JANERUSSELL)
 
 ### Related:
 

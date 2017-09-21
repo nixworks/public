@@ -9,6 +9,7 @@ At least 37 people are killed and more than 40 injured by a suicide bombing at a
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3XEjR7JAybz4F51y4bjhPNDL13A?docId=d1e77747-6558-4296-9040-cbd53f9dd5c4)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-24604558)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70600000/gif/_70600253_iraq_rawa_oct13.gif)
 
 ### Related:
 

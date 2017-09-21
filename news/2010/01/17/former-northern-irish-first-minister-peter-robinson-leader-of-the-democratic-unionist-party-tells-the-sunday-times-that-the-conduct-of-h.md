@@ -10,6 +10,7 @@ The revelations about Peter Robinson&#39;s wife Iris have indirectly led to a po
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8464128.stm)
 2. [Ireland Online](http://breakingnews.iol.ie/news/ireland/robinsons-plight-prompts-handshake-from-mcguinness-442240.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0117/northpolitics.html)
+3. [Cover Image](https://img.rasset.ie/0002e6fa-1600.jpg)
 
 ### Related:
 

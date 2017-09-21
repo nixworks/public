@@ -8,6 +8,7 @@ A Red Arrows pilot has died after being accidentally ejected from his plane whil
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/defence/8877315/Red-Arrows-pilot-dies-after-ejector-seat-accident.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01988/air-display_1988262a.jpg)
 
 ### Related:
 

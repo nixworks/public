@@ -8,6 +8,7 @@ A mission that aims to slam a spacecraft into a near-Earth asteroid now has a ta
 ### Source:
 
 1. [Space.com](http://www.space.com/19933-asteroid-deflection-mission-aida-didymos.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyNS8xMDMvb3JpZ2luYWwvQUlEQV9taXNzaW9uLmpwZw==)
 
 ### Related:
 

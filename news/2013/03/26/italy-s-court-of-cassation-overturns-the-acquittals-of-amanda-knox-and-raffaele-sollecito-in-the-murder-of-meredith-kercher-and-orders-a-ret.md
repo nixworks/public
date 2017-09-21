@@ -11,6 +11,7 @@ Amanda Knox and her former boyfriend Raffaele Sollecito were acquitted on appeal
 2. [CNN](http://www.cnn.com/2013/03/26/world/europe/italy-amanda-knox-case)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/mar/26/amanda-knox-retrial-meredith-kercher-murder)
 4. [The Journal](http://www.thejournal.ie/amanda-knox-meredith-kercher-trial-845209-Mar2013/)
+4. [Cover Image](http://img2.thejournal.ie/article/845209/river/?height=400&version=845212)
 
 ### Related:
 

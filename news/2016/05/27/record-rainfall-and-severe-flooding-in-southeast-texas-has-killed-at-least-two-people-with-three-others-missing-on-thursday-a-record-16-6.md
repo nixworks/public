@@ -8,6 +8,7 @@ At least two people person were killed and three others missing on Friday as rec
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-texas-flooding-idUSKCN0YI27V)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

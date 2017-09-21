@@ -9,6 +9,7 @@ According to the country’s Central Election Commission, 94.5% endorsed the ame
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/tajikistan-vote-president-rule-indefinitely-39299627)
 2. [TASS](http://tass.ru/en/world/877467)
+2. [Cover Image](https://phototass4.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20160523/1134243.jpg)
 
 ### Related:
 

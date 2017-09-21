@@ -8,6 +8,7 @@ At 12:01 a.m. Tuesday, 1st Lt. Josh Seefried, who founded an undercover group of
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/09/20/us/after-toiling-in-shadows-to-end-dont-ask-dont-tell-1st-lt-josh-seefried-greets-a-new-era.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/09/20/us/MILITARY/MILITARY-thumbStandard.jpg)
 
 ### Related:
 

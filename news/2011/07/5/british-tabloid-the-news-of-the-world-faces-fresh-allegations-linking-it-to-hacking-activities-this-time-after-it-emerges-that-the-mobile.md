@@ -22,6 +22,7 @@ The parents of murdered Soham girls Holly Wells and Jessica Chapman have been vi
 13. [The Guardian](http://www.guardian.co.uk/uk/2011/jul/05/milly-dowler-phone-hacking-cameron)
 14. [The Guardian](http://www.guardian.co.uk/uk/2011/jul/05/milly-dowler-phone-hacking-emergency-debate)
 15. [The Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/8619065/Private-investigator-at-centre-of-phone-hacking-row-apologies.html)
+15. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53880000/jpg/_53880798_000299761-1.jpg)
 
 ### Related:
 

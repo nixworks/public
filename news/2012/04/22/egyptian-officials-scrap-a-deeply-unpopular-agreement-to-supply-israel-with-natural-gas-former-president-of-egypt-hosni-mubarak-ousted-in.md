@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17808954)
 2. [Reuters](http://uk.reuters.com/article/2012/04/22/israel-egypt-gas-idUKL5E8FM2XZ20120422?feedType=RSS&feedName=rbssEnergyNews)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

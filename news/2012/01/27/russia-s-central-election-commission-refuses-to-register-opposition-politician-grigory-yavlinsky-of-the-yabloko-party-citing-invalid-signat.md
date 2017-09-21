@@ -8,6 +8,7 @@ Russia’s Central Election Commission (CEC) has officially refused to register 
 ### Source:
 
 1. [Russia Today](http://rt.com/politics/yabloko-leader-presidential-race-837/)
+1. [Cover Image](https://img.rt.com/files/oldfiles/politics/yabloko-leader-presidential-race-837/leader-grigory-party-yavlinsky.si.jpg)
 
 ### Related:
 

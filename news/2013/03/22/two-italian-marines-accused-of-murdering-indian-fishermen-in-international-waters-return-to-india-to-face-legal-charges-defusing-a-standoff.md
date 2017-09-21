@@ -8,6 +8,7 @@ Arrival of two marines to face murder charges in killing of Indian fishermen end
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/03/201332214914193363.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/22/2013322144122195734_20.jpg)
 
 ### Related:
 

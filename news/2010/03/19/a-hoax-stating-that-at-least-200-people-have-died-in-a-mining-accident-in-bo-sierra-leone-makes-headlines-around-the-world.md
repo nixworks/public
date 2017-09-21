@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE62I3FS20100319)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/19/AR2010031903150.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

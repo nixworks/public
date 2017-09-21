@@ -8,6 +8,7 @@ Doctors in Moscow are being told not to diagnose heatstroke as a cause of death 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10959046)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48719000/jpg/_48719869_009968067-1.jpg)
 
 ### Related:
 

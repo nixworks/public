@@ -14,6 +14,7 @@ State leaders mourned former Nepal prime minister Girija Prasad Koirala, and rec
 5. [The Times of India](http://timesofindia.indiatimes.com/city/patna/-Leaders-mourn-Koirala/articleshow/5707060.cms)
 6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/20/AR2010032000954.html)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/20/c_13218592.htm)
+7. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

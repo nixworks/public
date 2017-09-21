@@ -8,6 +8,7 @@ Announcement comes as Hollande says France will end intervention only when stabi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/2013115173447778972.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/15/2013115182533375734_20.jpg)
 
 ### Related:
 

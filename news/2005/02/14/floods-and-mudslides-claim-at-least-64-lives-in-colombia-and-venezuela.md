@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/americas/02/13/samerica.floods.ap/)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7612590)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

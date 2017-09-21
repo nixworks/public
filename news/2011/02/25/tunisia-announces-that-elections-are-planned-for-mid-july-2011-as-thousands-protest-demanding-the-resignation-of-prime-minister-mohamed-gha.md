@@ -8,6 +8,7 @@ Transitional government announces mid-July elections as tens of thousands rally 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011225181731209442.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/25/201122564138338360_20.jpg)
 
 ### Related:
 

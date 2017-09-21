@@ -8,6 +8,7 @@ Fiat Chrysler is to recall 1.1m vehicles worldwide over fears they may roll away
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-36117557)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8A48/production/_89400453_hi031754459.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ BANGKOK: Leaders of the anti-government Red-Shirt movement have pleaded not guil
 3. [Reuters](http://www.reuters.com/article/idUSTRE67F0ZD20100816)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0816/breaking9.html)
 5. [The Sydney Morning Herald](http://www.smh.com.au/world/red-shirt-leaders-deny-terrorism-charges-20100816-126w6.html)
+5. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

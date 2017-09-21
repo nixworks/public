@@ -8,6 +8,7 @@ British fighter jets have escorted a Pakistan International Airlines passenger p
 ### Source:
 
 1. [Reuters via News24](http://www.news24.com/news24/World/News/UK-cops-make-arrests-aboard-Pakistani-plane-20130524)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2140/6ad6678c9a43412c97b692cbbf74dff6.jpg)
 
 ### Related:
 

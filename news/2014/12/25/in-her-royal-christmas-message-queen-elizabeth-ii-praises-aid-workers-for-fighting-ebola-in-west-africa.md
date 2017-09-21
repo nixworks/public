@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/queen-elizabeth-ii-christmas-message-peace-fighting-ebola/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/12/25/1ebf5431-7a53-4565-a5bf-2cf0a3a5440c/460822608.jpg)
 
 ### Related:
 

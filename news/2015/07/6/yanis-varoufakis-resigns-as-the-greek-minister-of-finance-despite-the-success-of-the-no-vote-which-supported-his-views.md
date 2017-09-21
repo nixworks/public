@@ -9,6 +9,7 @@ Yanis Varoufakis has stood down as the Greek finance minister
 
 1. [AFR](http://www.afr.com/markets/equity-markets/greece-debt-crisis-yanis-varoufakis-stands-down-as-finance-minister-20150706-gi66ui)
 2. [Yahoo](http://finance.yahoo.com/news/latest-tsipras-calls-putin-wake-121828444.html)
+2. [Cover Image](http://www.afr.com/content/dam/images/g/i/4/4/q/x/image.related.afrArticleLead.620x365.gi66ui.png/1436163666333.jpg)
 
 ### Related:
 

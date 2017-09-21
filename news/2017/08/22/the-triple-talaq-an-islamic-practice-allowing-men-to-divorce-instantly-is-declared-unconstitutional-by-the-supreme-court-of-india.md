@@ -8,6 +8,7 @@ Controversial practice of ‘triple talaq’, which allows men to dissolve marri
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/aug/22/india-supreme-court-bans-islamic-instant-divorce-triple-talaq)
+1. [Cover Image](https://i.guim.co.uk/img/media/02926258042dfbb2b0ac307dd93cef081808075c/0_26_5000_3000/master/5000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=229ed0b0b568287962d3a91f6af94f88)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/3-people-killed-in-taiwan-subway-stabbing-spree/2014/05/21/d7c27c2c-e0ce-11e3-9442-54189bf1a809_story.html)
 2. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201405210027.aspx)
+2. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20140521/201405210027t0001.jpg)
 
 ### Related:
 

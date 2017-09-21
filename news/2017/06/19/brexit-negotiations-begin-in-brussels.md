@@ -8,6 +8,7 @@ UK and EU representatives say opening day of discussions will mainly deal with t
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/politics/2017/jun/19/brexit-talks-david-davis-michel-barnier-brussels-uk-eu)
+1. [Cover Image](https://i.guim.co.uk/img/media/1ae7f07c7338fe44de077c7c6f1d2705e6f4495e/253_77_2680_1609/master/2680.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=839f1b8db7ff20a210c76006ac4e11ad)
 
 ### Related:
 

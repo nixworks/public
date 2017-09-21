@@ -8,6 +8,7 @@ A bombing attack in central Ankara on Tuesday killed three people and wounded at
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/09/21/world/europe/21turkey.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/09/21/world/TURKEY/TURKEY-thumbStandard.jpg)
 
 ### Related:
 

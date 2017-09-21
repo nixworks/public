@@ -11,6 +11,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [CNN](http://www.cnn.com/2006/WORLD/americas/08/17/ecuador.volcano.reut/)
 3. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=N17276004)
 4. [UN](http://www.un.org/apps/news/story.asp?NewsID=19221&Cr=ecuador&Cr1=)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

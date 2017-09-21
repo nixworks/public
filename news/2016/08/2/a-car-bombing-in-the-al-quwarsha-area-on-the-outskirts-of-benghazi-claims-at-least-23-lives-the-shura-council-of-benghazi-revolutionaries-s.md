@@ -9,6 +9,7 @@ Blast targeting security wounds dozens after Italy says it may let US use air ba
 
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/08/02/world/middleeast/ap-ml-libya.html)
 2. [The Irish Times](http://www.irishtimes.com/news/world/middle-east/car-bomb-kills-at-least-22-people-in-libya-say-officials-1.2742966)
+2. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2742965&origw=960)
 
 ### Related:
 

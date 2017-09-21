@@ -8,6 +8,7 @@ Heavy monsoon rains and flash floods have killed 128 people in Pakistan and 108 
 ### Source:
 
 1. [AP via NBC](http://www.nbcnews.com/news/world/monsoon-rains-flash-floods-kill-more-200-india-pakistan-n197296)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2014_36/653586/140906-monsoon-0713_00ea8d4842f06ec168aff47f018e6331.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

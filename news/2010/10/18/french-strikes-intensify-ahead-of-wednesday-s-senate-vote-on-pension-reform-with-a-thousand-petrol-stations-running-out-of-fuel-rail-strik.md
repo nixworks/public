@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/18/france.strikes.shortage/index.html?eref=edition)
 2. [Reuters](http://www.reuters.com/article/idUSLDE69H0OC20101018)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

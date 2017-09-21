@@ -8,6 +8,7 @@ CHICAGO -- Robert W. Fogel, a University of Chicago economist whose study of the
 ### Source:
 
 1. [Newsday](http://www.newsday.com/long-island/obituaries/economist-author-robert-w-fogel-dies-at-86-1.5470749)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

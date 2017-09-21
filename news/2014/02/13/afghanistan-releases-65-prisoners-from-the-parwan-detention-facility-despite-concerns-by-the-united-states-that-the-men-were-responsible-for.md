@@ -8,6 +8,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-26166949#)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72950000/jpg/_72950327_inmate.jpg)
 
 ### Related:
 

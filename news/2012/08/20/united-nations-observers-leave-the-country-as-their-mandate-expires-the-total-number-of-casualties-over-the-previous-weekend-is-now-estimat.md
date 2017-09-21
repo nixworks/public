@@ -13,6 +13,7 @@ month mission
 4. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=281920)
 5. [Reuters](http://in.reuters.com/article/2012/08/20/syria-crisis-idINL6E8JJ3Q720120820)
 6. [Washington Post](http://www.washingtonpost.com/world/national-security/obama-issues-syria-red-line-warning-on-chemical-weapons/2012/08/20/ba5d26ec-eaf7-11e1-b811-09036bcb182b_story.html)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

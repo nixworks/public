@@ -8,6 +8,7 @@ China has sent a spy ship to international waters off of Hawaii during a giant U
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/20/us-usa-china-military-idUSKBN0FP0RN20140720)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140720&t=2&i=939833266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6J0CH)
 
 ### Related:
 

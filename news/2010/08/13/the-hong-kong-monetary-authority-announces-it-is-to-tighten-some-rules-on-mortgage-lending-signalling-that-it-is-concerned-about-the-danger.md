@@ -8,6 +8,7 @@ The Hong Kong Monetary Authority will tighten some types of mortgage lending to 
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/hong-kong-tightens-mortgage-rules-amid-bubble-2010-08-13?reflink=MW_news_stmp)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

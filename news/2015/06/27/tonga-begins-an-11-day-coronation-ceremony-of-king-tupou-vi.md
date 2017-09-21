@@ -8,6 +8,7 @@ Tonga begins celebrations to mark the coronation of King Tupou VI with a kava ce
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-06-27/coronation-of-tongas-king-tupou-vi-begins/6578090)
+1. [Cover Image](http://www.abc.net.au/news/image/6578086-1x1-700x700.jpg)
 
 ### Related:
 

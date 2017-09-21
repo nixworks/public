@@ -9,6 +9,7 @@ Charter Communications Inc. is near an agreement to buy Time Warner Cable Inc. f
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-05-25/charter-said-to-near-deal-for-time-warner-cable-at-195-a-share)
 2. [Market Watch](http://www.marketwatch.com/story/charter-communications-to-merge-with-time-warner-cable-and-acquire-bright-house-networks-2015-05-26?reflink=MW_news_stmp)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

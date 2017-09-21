@@ -8,6 +8,7 @@ Scientists have discovered fossil of the earliest and most primitive reptile, th
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/Home/Science/Ancestor-of-giant-flying-reptiles-found-in-China/articleshow/34212208.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/34212208.cms)
 
 ### Related:
 

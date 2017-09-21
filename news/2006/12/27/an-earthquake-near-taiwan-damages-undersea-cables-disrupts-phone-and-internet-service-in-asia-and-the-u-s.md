@@ -11,6 +11,7 @@ Internet connections at some banks, companies and government offices in South Ko
 2. [International Herald Tribune](http://www.iht.com/articles/2006/12/27/news/quake.php)
 3. [MSNBC](http://www.msnbc.msn.com/id/16367332/)
 4. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?view=CN&storyID=2006-12-27T070534Z_01_BNG138257_RTRIDST_0_PRESS-DIGEST-WSJ.XML&rpc=66&type=qcna)
+4. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/061227/a_tech_061227.standard.jpg)
 
 ### Related:
 

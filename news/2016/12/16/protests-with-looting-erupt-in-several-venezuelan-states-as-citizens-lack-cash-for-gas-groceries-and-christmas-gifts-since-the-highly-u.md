@@ -9,6 +9,7 @@
 
 1. [Reuters](http://mobile.reuters.com/article/idUSKBN1452J1)
 2. [Webindia123.com](http://news.webindia123.com/news/Articles/Business/20161217/3014613.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161217&t=2&i=1165800955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBG03I)
 
 ### Related:
 

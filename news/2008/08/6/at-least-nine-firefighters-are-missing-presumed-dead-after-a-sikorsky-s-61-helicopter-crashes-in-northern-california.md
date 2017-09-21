@@ -8,6 +8,7 @@ Forest Service officials are calling it the deadliest air crash involving firefi
 ### Source:
 
 1. [The Oregonian](http://www.oregonlive.com/news/index.ssf/2008/08/nine_oregonbased_firefighters.html)
+1. [Cover Image](//static.advance.net/static/olive/static/img/logos/logo_fb.jpg)
 
 ### Related:
 

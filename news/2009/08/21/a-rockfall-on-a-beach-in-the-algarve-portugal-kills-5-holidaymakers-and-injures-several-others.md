@@ -10,6 +10,7 @@ At least five holidaymakers were crushed to death when part of a cliff collapsed
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8214785.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/portugal/6068732/Five-die-in-landslide-on-Portuguese-beach.html)
 3. [euronews](http://www.euronews.net/2009/08/21/deadly-rockslide-kills-as-many-as-five-in-portugal-s-algarve/)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01467/portugal220_1467126f.jpg)
 
 ### Related:
 

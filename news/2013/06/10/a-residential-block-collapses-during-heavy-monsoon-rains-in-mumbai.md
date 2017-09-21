@@ -8,6 +8,7 @@ At least seven killed and many injured after building in Indian city collapses a
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/06/201361019520698404.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/10/2013610201538637734_20.jpg)
 
 ### Related:
 

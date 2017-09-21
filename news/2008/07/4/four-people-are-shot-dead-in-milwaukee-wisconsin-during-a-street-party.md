@@ -8,6 +8,7 @@ At least one person fired a gun into a crowd on a Milwaukee street, killing four
 ### Source:
 
 1. [AP via ''The New York Times](http://www.nytimes.com/2008/07/05/us/05brfs-FOURKILLEDIN_BRF.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/265260/floods-reach-pm-s-home)
 2. [Reuters](http://in.reuters.com/article/2011/11/08/idINIndia-60389220111108)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111108&t=2&i=528988579&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-11-08T145902Z_01_NOOTR_RTRMDNC_0_India-603892-1)
 
 ### Related:
 

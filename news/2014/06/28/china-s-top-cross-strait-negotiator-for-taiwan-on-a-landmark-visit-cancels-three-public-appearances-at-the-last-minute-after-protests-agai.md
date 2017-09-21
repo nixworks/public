@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/china-official-cancels-appearances-after-protests-in-taiwan-1403938722)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-DL803_0628ct_G_20140628045739.jpg)
 
 ### Related:
 

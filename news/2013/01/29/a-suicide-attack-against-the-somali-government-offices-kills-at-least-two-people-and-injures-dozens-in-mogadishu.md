@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21241751)
 2. [Reuters](http://www.reuters.com/article/2013/01/29/us-somalia-conflict-idUSBRE90S0OI20130129)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

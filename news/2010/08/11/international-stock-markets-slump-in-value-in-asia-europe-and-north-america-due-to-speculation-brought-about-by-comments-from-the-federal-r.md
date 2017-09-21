@@ -9,6 +9,7 @@ World stock markets slide as investors worry about the health of the US economy 
 
 1. [BBC](http://www.bbc.co.uk/news/business-10943354)
 2. [CBC News](http://www.cbc.ca/money/story/2010/08/11/markets-fall-wednesday.html?ref=rss)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

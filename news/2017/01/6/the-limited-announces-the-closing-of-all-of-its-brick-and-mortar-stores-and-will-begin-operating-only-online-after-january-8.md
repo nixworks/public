@@ -8,6 +8,7 @@ The company will close brick-and-mortar stores this month.
 ### Source:
 
 1. [Dayton Daily News](http://www.daytondailynews.com/business/breaking-the-limited-close-all-brick-and-mortar-stores/PfgPpBHLLgycEoAo7vHDbP/)
+1. [Cover Image](http://www.daytondailynews.com/rf/image/Pub/p8/DaytonDailyNews/2017/01/06/Images/newsEngin.17357817_THE-LIMITED.jpg)
 
 ### Related:
 

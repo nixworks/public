@@ -9,6 +9,7 @@ Police Minister Nathi Mthethwa says more than 30 people were killed in a shootin
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19301690)
 2. [Mail and Guardian](http://mg.co.za/article/2012-08-17-lonmins-burning-25-people-killed-in-shootout)
+2. [Cover Image](https://cdn.mg.co.za/crop/content/images/2012/08/16/lonminshooting1.jpg/1280x720/)
 
 ### Related:
 

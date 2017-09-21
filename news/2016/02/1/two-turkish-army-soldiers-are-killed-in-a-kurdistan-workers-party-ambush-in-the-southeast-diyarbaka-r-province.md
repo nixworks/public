@@ -8,6 +8,7 @@ Third soldier dies in hospital from injuries sustained in ambush - Anadolu Agenc
 ### Source:
 
 1. [Anadolu Post](http://aa.com.tr/en/turkey/two-turkish-soldiers-martyred-in-pkk-attack/513442)
+1. [Cover Image](http://aa.com.tr/uploads/Contents/2016/02/01/thumbs_m_c_4ee79bce1455849b36dbe74ca83890b1.jpg)
 
 ### Related:
 

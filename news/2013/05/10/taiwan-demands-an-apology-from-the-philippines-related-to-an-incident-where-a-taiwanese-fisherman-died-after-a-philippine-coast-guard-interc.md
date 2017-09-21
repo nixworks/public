@@ -8,6 +8,7 @@ Taiwan demands an explanation from Manila after a fisherman was shot and killed 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22476784)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67515000/jpg/_67515474_017948243-1.jpg)
 
 ### Related:
 

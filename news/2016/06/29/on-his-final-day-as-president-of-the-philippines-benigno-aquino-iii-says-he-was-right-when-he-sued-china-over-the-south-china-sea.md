@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/137939-president-aquino-west-philippine-sea-china-dispute)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/E3E574825F3C4CCC9B9A03763A5F46B7/aquino-xi-jinping.jpg)
 
 ### Related:
 

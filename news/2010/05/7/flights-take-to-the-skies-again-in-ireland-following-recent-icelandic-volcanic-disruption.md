@@ -9,3 +9,4 @@ Airports in western Ireland reopen after ash threat prompted airspace closure.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/20105713393580785.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0507/travel.html)
+2. [Cover Image](http://www.aljazeera.com)

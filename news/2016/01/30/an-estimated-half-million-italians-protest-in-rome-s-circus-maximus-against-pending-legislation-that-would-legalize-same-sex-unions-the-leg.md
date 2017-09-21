@@ -11,6 +11,7 @@ Hundreds of thousands of Italians descended on Rome on Saturday to protest a bil
 2. [NBC News](http://www.nbcnews.com/news/world/italy-same-sex-union-opponents-plan-family-day-protest-rome-n506636)
 3. [Reuters](http://in.reuters.com/article/italy-gaymarriage-idINKCN0V80JT)
 4. [The Local](http://www.thelocal.it/20160130/mass-rally-against-civil-unions-in-rome)
+4. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_04/1396786/160130-rome-family-day-mn-1100_117b16fbb49dd1df03fa899933e8eda5.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

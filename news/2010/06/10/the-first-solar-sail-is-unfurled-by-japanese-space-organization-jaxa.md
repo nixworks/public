@@ -8,6 +8,7 @@
 ### Source:
 
 1. [inhabitat](http://inhabitat.com/2010/06/10/japanese-spacecraft-successfully-deploys-first-solar-sail-in-space/)
+1. [Cover Image](http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2010/06/solarsail-ed03.jpg)
 
 ### Related:
 

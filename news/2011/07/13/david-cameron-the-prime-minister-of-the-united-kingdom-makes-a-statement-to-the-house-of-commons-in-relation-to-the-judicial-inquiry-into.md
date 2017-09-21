@@ -9,6 +9,7 @@ The scandal enveloping Murdoch&rsquo;s News Corp. is also sullying Britain&rsquo
 
 1. [BBC News](http://www.bbc.co.uk/news/business-14142307)
 2. [The Washington Post](http://www.washingtonpost.com/world/murdochs-news-corp-withdraws-bskyb-bid/2011/07/13/gIQAG7YKCI_story.html?wpisrc=al_national)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54054000/jpg/_54054747_skysign_getty.jpg)
 
 ### Related:
 

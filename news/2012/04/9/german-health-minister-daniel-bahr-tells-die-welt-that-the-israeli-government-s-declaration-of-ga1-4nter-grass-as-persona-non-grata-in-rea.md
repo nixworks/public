@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/germany-official-israel-s-reaction-to-grass-criticism-exaggerated-1.423417)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.423240.1333877177!/image/3562111365.jpg_gen/derivatives/headline_1200x630/3562111365.jpg)
 
 ### Related:
 

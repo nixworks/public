@@ -8,6 +8,7 @@ Two men are killed as a hot air balloon crashes on a bowling green in Somerset.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-12102865)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

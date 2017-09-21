@@ -11,6 +11,7 @@ At least 27 people are killed and 160 injured after suspected Sunni suicide bomb
 2. [Arab News](http://arabnews.com/middleeast/article85045.ece)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-10655900)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=134939&sectionid=351020101)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

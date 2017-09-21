@@ -10,6 +10,7 @@ North Korean television for the first time shows live pictures of leader Kim Jon
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hikK9x0PcRa4fyH32zVylFwL_KZgD9IOHBPO0?docId=D9IOHBPO0)
 2. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=107790&code=Ne2&category=2)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11509166)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

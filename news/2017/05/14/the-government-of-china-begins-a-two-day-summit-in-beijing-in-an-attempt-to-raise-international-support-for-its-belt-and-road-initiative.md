@@ -8,6 +8,7 @@ The Chinese Government is inviting world leaders to Beijing to sell them its hug
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2017-05-14/china-plans-new-silk-road-to-dominate-world-trade/8522682)
+1. [Cover Image](http://www.abc.net.au/news/image/8522764-1x1-700x700.jpg)
 
 ### Related:
 

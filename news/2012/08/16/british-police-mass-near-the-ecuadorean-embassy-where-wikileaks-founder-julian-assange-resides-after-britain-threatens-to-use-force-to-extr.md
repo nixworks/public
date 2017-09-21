@@ -14,6 +14,7 @@ Britain on Wednesday warned Ecuador that it could raid its London embassy if Qui
 5. [Reuters](http://www.reuters.com/article/2012/08/15/us-wikileaks-assange-ecuador-idUSBRE87E16N20120815)
 6. [The Guardian](http://www.guardian.co.uk/media/2012/aug/16/julian-assange-political-asylum-ecuador)
 7. [The New York Times](http://www.nytimes.com/2012/08/17/world/americas/ecuador-to-let-assange-stay-in-its-embassy.html?hp)
+7. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120815&t=2&i=642904772&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE87E1QJZ00)
 
 ### Related:
 

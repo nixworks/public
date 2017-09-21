@@ -9,6 +9,7 @@ Boko Haram militants are blamed for a suicide bomb attack in a Nigerian church a
 
 1. [BBC](http://www.bbc.com/news/world-africa-33401810)
 2. [DailyStar via AP](https://www.dailystar.com.lb/News/World/2015/Jul-05/305230-suicide-bomber-explodes-at-northeast-nigeria-church-5-dead.ashx)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7D92/production/_84064123_84064119.jpg)
 
 ### Related:
 

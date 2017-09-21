@@ -8,6 +8,7 @@ A dangerous cold snap bringing life-threatening cold was settling in across the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-weather-idUSKCN0VM0O6?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160213&t=2&i=1117238605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1C0BU)
 
 ### Related:
 

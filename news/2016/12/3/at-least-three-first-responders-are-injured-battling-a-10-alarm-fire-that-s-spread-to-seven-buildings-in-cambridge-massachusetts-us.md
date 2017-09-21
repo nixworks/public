@@ -8,6 +8,7 @@ Cambridge police spokesman Jeremy Warnick says there have been some injuries rep
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/firefighters-battle-10-alarm-blaze-cambridge-massachusetts/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/12/03/101e5c0b-c3aa-4f86-9da5-d3afaea8ce55/cambridge-10-alarm-fire-2016-12-3.jpg)
 
 ### Related:
 

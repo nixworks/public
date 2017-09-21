@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39647434)
 2. [CNN](http://money.cnn.com/2017/04/19/media/bill-oreilly-out-fox-news/index.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11472/production/_95707707_gettyimages-519451924.jpg)
 
 ### Related:
 

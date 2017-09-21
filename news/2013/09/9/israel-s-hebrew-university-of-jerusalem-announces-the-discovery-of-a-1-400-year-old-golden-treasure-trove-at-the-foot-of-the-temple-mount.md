@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/archaeology/.premium-1.545965)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.545978.1378792686!/image/3405375793.jpg_gen/derivatives/headline_1200x630/3405375793.jpg)
 
 ### Related:
 

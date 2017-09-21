@@ -8,6 +8,7 @@ Body found in East River is identified as that of Spalding Gray, 62, confessiona
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/03/09/arts/09GRAY.html?ex=1079413200&en=9da7fe5385030286&ei=5062&partner=GOOGLE)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

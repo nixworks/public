@@ -9,6 +9,7 @@
 
 1. [24.kg News Agency](http://eng.24.kg/politic/2010/11/30/15054.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11872456)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

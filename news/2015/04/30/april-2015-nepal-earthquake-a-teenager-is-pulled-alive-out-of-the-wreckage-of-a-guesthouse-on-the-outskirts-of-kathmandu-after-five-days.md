@@ -8,6 +8,7 @@ Rescuers on Thursday pulled a teenage boy out alive from under the wreckage of a
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Teenager-pulled-alive-from-rubble-five-days-after-Nepal-quake/articleshow/47107058.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47110318.cms)
 
 ### Related:
 

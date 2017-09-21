@@ -8,6 +8,7 @@ Texas Stadium came tumbling down this morning in a planned demolition set off by
 ### Source:
 
 1. [ESPN Dallas](http://sports.espn.go.com/dallas/nfl/news/story?id=5075040)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fdal.png)
 
 ### Related:
 

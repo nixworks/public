@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Press TV](http://www.presstv.ir/Detail/2016/06/13/470181/Yemen-Saudi-aggression-US-drone-attack-Habban-alQaeda-Sanaa)
+1. [Cover Image](http://cdn.presstv.com/photo/20160613/a8d737c8-7672-4a94-be09-055787555cb0.jpg)
 
 ### Related:
 

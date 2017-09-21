@@ -9,6 +9,7 @@ Government extends foreign land leases and allows independent agricultural busin
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gG8qLd4ozL5rvaQHbiJPOHvtnRpQD9HSACMG0)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/08/2010827233042361405.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

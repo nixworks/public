@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2017/07/28/politics/new-iran-sanctions/index.html)
 2. [Reuters](http://www.reuters.com/article/us-usa-iran-satellite-sanctions-idUSKBN1AD289)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170728&t=2&i=1194911019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6R1IY)
 
 ### Related:
 

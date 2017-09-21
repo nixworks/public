@@ -10,6 +10,7 @@ President Hugo Chavez delivered a bizarre attack on the Queen when the firebrand
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8527307.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/falklandislands/7293985/Hugo-Chavez-demands-Queen-return-Falkland-Islands-to-Argentina.html)
 3. [The Times](http://www.timesonline.co.uk/tol/news/uk/article7036764.ece)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01469/hugoChavez_1469285a.jpg)
 
 ### Related:
 

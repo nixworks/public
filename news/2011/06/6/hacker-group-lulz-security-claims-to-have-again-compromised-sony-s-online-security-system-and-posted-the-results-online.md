@@ -8,6 +8,7 @@ Hackers calling themselves Lulz Security said on Monday that they had broken int
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/06/us-toni-cybersecurity-sony-idUSTRE75563L20110606)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110606&t=2&i=430027800&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-06T210050Z_01_BTRE7551MAP00_RTROPTP_0_SONY-RESULTS)
 
 ### Related:
 

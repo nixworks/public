@@ -10,6 +10,7 @@
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE49260M20081004)
 2. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=28156&pg=1&im=main&ct=0&wth=)
 3. [Stockholm News](http://www.stockholmnews.com/more.aspx?NID=1867)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Japan says it reached an altitude of 2,000km which, if confirmed, could show a t
 1. [BBC](http://www.bbc.com/news/world-asia-39911530)
 2. [CBS via MSN](http://www.msn.com/en-us/news/world/north-korea-fires-unidentified-projectile-south-korean-military-says/ar-BBB6eP3)
 3. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKBN1890UO)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1C4C/production/_96044270_gettyimages-668703980.jpg)
 
 ### Related:
 

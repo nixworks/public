@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/report-israel-seizes-oxygen-machines-donated-to-pa-1.298385)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.298386.1277530865!/image/2314820866.jpg_gen/derivatives/headline_1200x630/2314820866.jpg)
 
 ### Related:
 

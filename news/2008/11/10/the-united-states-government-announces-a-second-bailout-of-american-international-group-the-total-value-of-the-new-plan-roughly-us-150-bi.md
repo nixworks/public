@@ -11,6 +11,7 @@
 2. [MarketWatch](http://www.marketwatch.com/news/story/Circuit-City-files-Chapter-11/story.aspx?guid=%7BD9CB8DE9%2D943F%2D4C3F%2DA007%2D24081B471F20%7D)
 3. [MarketWatch](http://www.marketwatch.com/news/story/US-government-dramatically-alters-terms/story.aspx?guid=%7B0C948F5A%2D7E81%2D4349%2DBE47%2D0A3C7253827F%7D)
 4. [Reuters](http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSAT00585420081110)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

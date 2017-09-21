@@ -8,6 +8,7 @@ Iran negotiated with Russia at the weekend over buying an upgraded version of th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-iran-missiles-idUSKCN0VV0VA)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160222&t=2&i=1119370756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1L0FF)
 
 ### Related:
 

@@ -11,6 +11,7 @@ On the second day of an Irish visit that focused on trade, Chinese Vice Presiden
 2. [China Daily](http://www.chinadaily.com.cn/usa/china/2012-02/20/content_14641883.htm)
 3. [Financial Times](http://www.ft.com/cms/s/0/f3fd6ae4-5af9-11e1-ab75-00144feabdc0.html#axzz1mrxVZu7K)
 4. [RTÉ](http://www.rte.ie/news/2012/0219/china.html)
+4. [Cover Image](https://img.rasset.ie/000592f7-1600.jpg)
 
 ### Related:
 

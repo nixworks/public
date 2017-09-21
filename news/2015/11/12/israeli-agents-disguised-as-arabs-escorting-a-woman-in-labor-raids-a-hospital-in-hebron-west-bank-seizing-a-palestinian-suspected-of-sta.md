@@ -9,6 +9,7 @@ IDF force enters hospital to arrest a man suspected of committing a stabbing att
 
 1. [Haaretz](http://www.haaretz.com/israel-news/.premium-1.685622)
 2. [New York Times](http://www.nytimes.com/2015/11/13/world/middleeast/israel-west-bank-hospital-raid.html)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.685658.1447324239!/image/2776608900.jpg_gen/derivatives/headline_1200x630/2776608900.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More snow is forecast to fall as icy conditions continue to hamper road users th
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0104/weather.html)
+1. [Cover Image](https://img.rasset.ie/0002e1c6-1600.jpg)
 
 ### Related:
 

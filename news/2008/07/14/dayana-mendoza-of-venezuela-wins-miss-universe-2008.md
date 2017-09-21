@@ -8,6 +8,7 @@ The Sydney Morning Herald 404 Page
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/articles/2008/07/14/1215887503784.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

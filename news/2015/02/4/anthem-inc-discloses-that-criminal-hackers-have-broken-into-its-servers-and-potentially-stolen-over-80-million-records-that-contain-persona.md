@@ -9,6 +9,7 @@ Criminals can use the numbers at hospitals and pharmacies to receive care and pr
 
 1. [AP](http://bigstory.ap.org/article/742d64f85075438aa5b40d1bd4278b19/hackers-see-rewarding-targets-health-care-companies)
 2. [NBC News](http://www.nbcnews.com/tech/security/anthem-hack-credit-monitoring-wont-catch-medical-identity-theft-n300836)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_06/878171/150205-anthem-health-mn-1450_9d8e6741d2af1abc6e5290fb65487931.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

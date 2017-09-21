@@ -8,6 +8,7 @@ M23 rebels declare a unilateral ceasefire ahead of a new round of peace talks wi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20950130)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65156000/jpg/_65156414_65156413.jpg)
 
 ### Related:
 

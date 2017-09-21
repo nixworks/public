@@ -8,6 +8,7 @@ A senior Al Qaeda official wanted by the United States and a local leader of the
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-11-05/senior-al-qaeda-operative-killed-by-us-drone/5869376)
+1. [Cover Image](http://www.abc.net.au/news/image/5869554-1x1-700x700.jpg)
 
 ### Related:
 

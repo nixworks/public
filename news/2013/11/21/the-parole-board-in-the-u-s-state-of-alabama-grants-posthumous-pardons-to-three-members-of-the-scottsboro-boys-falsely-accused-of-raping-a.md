@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304337404579211901235647292)
+1. [Cover Image](https://si.wsj.net/public/resources/images/NA-BZ017_SCOTTS_G_20131121174456.jpg)
 
 ### Related:
 

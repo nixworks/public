@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hVHC6FSACpbqFhKIBpFZnJehW0Iw?docId=b20f94910c434104b3ad694a733d9744)
 2. [Bigpond](http://bigpondnews.com/articles/TopStories/2011/12/10/Kabila_declared_winner_of_Congo_election_694993.html)
+2. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Five Afghan civilians, four of them children, were killed in an explosion Thursd
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE62A2FP20100311)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

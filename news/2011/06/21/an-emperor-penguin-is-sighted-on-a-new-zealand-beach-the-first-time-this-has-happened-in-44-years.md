@@ -9,6 +9,7 @@ A young emperor penguin takes a wrong turn from the Antarctic and arrives on a N
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jun/21/emperor-penguins-detour-new-zealand)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13856024)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53545000/jpg/_53545165_012265421-1.jpg)
 
 ### Related:
 

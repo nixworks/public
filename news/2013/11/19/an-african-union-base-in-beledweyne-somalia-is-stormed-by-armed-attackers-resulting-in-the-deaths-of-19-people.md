@@ -8,6 +8,7 @@ At least 19 people are killed in an al-Shabab attack on an African Union base in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24998892)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71207000/jpg/_71207128_71207127.jpg)
 
 ### Related:
 

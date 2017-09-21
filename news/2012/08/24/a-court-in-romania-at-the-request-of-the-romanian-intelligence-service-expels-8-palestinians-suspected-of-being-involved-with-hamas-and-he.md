@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Antena 3](http://www.antena3.ro/romania/opt-persoane-acuzate-de-terorism-prinse-in-romania-sri-cere-declararea-lor-ca-indezirabile-181362.html)
+1. [Cover Image](https://www.antena3.ro/thumbs/big3/2012/08/24/opt-persoane-acuzate-de-terorism-prinse-in-romania-sri-cere-declararea-lor-ca-indezirabile-164558.jpg)
 
 ### Related:
 

@@ -15,6 +15,7 @@ Hosni Mubarak has reportedly suffered a stroke in prison and is reportedly &#034
 6. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/06/19/12294230-russian-shipment-of-attack-helicopters-for-syria-halted-off-scotland?lite)
 7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/9343042/Hosni-Mubarak-has-stroke-in-prison.html)
 8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9339933/Britain-stops-Russian-ship-carrying-attack-helicopters-for-Syria.html)
+8. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02245/hos_2245589a.jpg)
 
 ### Related:
 

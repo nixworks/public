@@ -8,6 +8,7 @@ China will press South Sudan for help in securing the release of 29 Chinese work
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/02/us-china-sudan-workers-idUSTRE81108G20120202)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

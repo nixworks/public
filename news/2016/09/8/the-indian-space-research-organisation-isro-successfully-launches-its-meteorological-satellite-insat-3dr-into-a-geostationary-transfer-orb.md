@@ -8,6 +8,7 @@ INSAT-3DR, an advanced weather satellite, onboard GSLV-F05 was placed in orbit a
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Isros-desi-cryo-enginepowered-GSLV-F05-places-INSAT-3DR-weather-satellite-in-orbit/articleshow/54181283.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/54195787.cms)
 
 ### Related:
 

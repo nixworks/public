@@ -8,6 +8,7 @@ Unidentified militants shot down a military helicopter in northern Iraq on Wedne
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/10/02/uk-iraq-violence-idUKBRE9910CA20131002)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

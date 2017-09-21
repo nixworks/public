@@ -8,6 +8,7 @@ Israeli police shot dead a Palestinian woman and her teenage brother on Wednesda
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKCN0XO0YB)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160428&t=2&i=1134825577&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3R00B)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Fledgling competition tribunal refuses to allow claim relating to 16 years of al
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/money/2017/jul/21/uk-court-blocks-14bn-class-action-case-against-mastercard)
+1. [Cover Image](https://i.guim.co.uk/img/media/408947a20edf2588e580cb0cd8cec379de941ea5/0_625_1820_1092/master/1820.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=43d3abb00ffee8fcbc2a4cfb2d814508)
 
 ### Related:
 

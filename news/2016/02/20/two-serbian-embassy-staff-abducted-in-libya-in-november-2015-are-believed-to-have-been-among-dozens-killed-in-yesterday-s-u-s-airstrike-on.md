@@ -9,6 +9,7 @@ Heavy clashes in the eastern Libyan city of Benghazi have left at least 14 peopl
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-benghazi-idUSKCN0VT0V0)
 2. [Reuters](http://www.reuters.com/article/us-serbia-security-libya-idUSKCN0VT0CQ)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

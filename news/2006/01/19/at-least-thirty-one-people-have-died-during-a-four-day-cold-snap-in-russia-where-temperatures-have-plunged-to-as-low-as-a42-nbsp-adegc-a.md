@@ -8,3 +8,4 @@ A brutal, four-day cold snap in Russia, with temperatures plunging as low as -31
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/01/19/20060119-coldrussia.html)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

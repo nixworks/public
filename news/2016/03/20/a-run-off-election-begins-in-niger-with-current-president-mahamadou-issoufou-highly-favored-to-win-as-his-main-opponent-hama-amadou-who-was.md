@@ -8,6 +8,7 @@ Voting ended in Niger on Sunday in a presidential run-off which President Mahama
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-niger-election-idUSKCN0WM08N)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160320&t=2&i=1126281298&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2J07A)
 
 ### Related:
 

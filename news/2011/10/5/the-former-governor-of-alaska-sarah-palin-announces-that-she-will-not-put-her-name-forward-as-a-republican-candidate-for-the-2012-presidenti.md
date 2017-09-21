@@ -8,6 +8,7 @@ Former Alaska Governor Sarah Palin declares she will not run for the White House
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15193726)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55856000/jpg/_55856210_012919347-1.jpg)
 
 ### Related:
 

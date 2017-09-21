@@ -10,6 +10,7 @@ Criminals gained access to certain files in the company’s system from mid-May 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_EQUIFAX_CYBERATTACK?SITE=TNMOR)
 2. [The New York Times](https://www.nytimes.com/2017/09/07/business/equifax-cyberattack.html)
 3. [The Washington Post](https://www.washingtonpost.com/business/technology/equifax-hack-hits-credit-histories-of-up-to-143-million-americans/2017/09/07/a4ae6f82-941a-11e7-b9bc-b2f7903bab0d_story.html)
+3. [Cover Image](https://static01.nyt.com/images/2017/09/08/business/08EQUIFAX1/08EQUIFAX1-facebookJumbo.jpg)
 
 ### Related:
 

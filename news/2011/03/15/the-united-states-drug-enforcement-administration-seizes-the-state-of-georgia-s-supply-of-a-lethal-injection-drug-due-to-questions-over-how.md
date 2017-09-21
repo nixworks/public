@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Associated Press](http://m.apnews.com/ap/db_15980/contentdetail.htm?contentguid=hCTaerTf)
+1. [Cover Image](http://img.vrvm.com/images/AP_ICON_200x200.png)
 
 ### Related:
 

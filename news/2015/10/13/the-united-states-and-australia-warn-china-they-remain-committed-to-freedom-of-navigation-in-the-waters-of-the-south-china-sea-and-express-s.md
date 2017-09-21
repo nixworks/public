@@ -10,6 +10,7 @@ The United States and its Pacific ally Australia warned China on Tuesday that th
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/us-and-australia-warn/2191268.html)
 2. [The New Daily](http://thenewdaily.com.au/news/2015/10/14/china-lashes-australia-us-south-china-sea/)
 3. [Time](http://time.com/4072806/south-china-sea-us-islands-dispute/?xid=homepage)
+3. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)
 
 ### Related:
 

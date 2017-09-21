@@ -11,6 +11,7 @@ Read a full match report of the international friendly between France and Spain 
 2. [RTÉ](http://www.rte.ie/sport/soccer/2010/0304/henryt.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/7360717/France-0-Spain-2-match-report.html)
 4. [The Guardian](http://www.guardian.co.uk/football/2010/mar/03/france-spain-germany-argentina)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01589/david-villa_1589712a.jpg)
 
 ### Related:
 

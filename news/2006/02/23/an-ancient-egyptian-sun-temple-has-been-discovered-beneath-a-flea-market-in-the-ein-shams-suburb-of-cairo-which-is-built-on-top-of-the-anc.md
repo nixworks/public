@@ -9,6 +9,7 @@ Archaeologists discovered a pharaonic sun temple with large statues believed to 
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/newsitems/200602/s1578829.htm)
 2. [MSNBC](http://www.msnbc.msn.com/id/11588559/)
+2. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060227/060227_suntemple_hmed_8a.standard.jpg)
 
 ### Related:
 

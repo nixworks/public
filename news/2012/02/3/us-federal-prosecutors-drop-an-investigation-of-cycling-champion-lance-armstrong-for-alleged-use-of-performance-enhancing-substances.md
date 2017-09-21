@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/sports/cycling/story/2012-02-03/lance-armstrong-performance-enhancing-investigation-closed/52951474/1)
+1. [Cover Image](http://i.usatoday.net/sports/_photos/2012/02/03/Feds-close-Armstrong-doping-inquiry-T3UNN6P-x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A drill reaches the 33 men trapped in a Chilean mine since early August, but it 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11350066)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

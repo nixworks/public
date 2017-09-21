@@ -8,6 +8,7 @@ In a first, India has offered a $ 100-million credit line to Vietnam to purchase
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/india-offers-vietnam-credit-for-military-ware/article4960731.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

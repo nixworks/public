@@ -8,6 +8,7 @@ Jury delivers decision about police action and other factors in the April 1989 c
 ### Source:
 
 1. [ (''The Guardian](http://www.theguardian.com/uk-news/live/2016/apr/26/hillsborough-disaster-inquest-jury-returns-verdict-live-updates)
+1. [Cover Image](https://i.guim.co.uk/img/media/c0599eb96cd029ecda093346e44f3badc2529d9d/0_132_3500_2100/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=897422bdd35110f9887074aeccd4d5bf)
 
 ### Related:
 

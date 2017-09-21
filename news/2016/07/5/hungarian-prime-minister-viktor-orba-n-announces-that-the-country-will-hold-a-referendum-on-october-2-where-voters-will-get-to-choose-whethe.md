@@ -8,6 +8,7 @@ Hungary will hold a referendum on 2 October on whether to accept mandatory EU qu
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36711693)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0DB5/production/_90290530_0d79ff61-91b1-43fc-a7cb-76108a9d63ff.jpg)
 
 ### Related:
 

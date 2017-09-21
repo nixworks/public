@@ -10,6 +10,7 @@ It will be impossible for Zimbabwe to hold a free and fair run-off election on F
 1. [AP via Google News](http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD91G3QC81)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/7469705.stm)
 3. [Reuters](http://uk.reuters.com/article/latestCrisis/idUKWBT00924420080623?sp=true)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

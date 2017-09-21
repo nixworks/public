@@ -8,6 +8,7 @@ A teenager becomes the first Israeli to be killed by firing from Syria in the oc
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27963722)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73669000/jpg/_73669948_021578353-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 10 people have been killed and many injured in a suicide attack in a bu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21214432)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65528000/jpg/_65528525_ppl6b4wx.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Islamic State militants killed 40 former members of the Iraqi Security Forces ne
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-iraq-mosul-islamic-state-20161101-story.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-un-idUSKBN12W3PV?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

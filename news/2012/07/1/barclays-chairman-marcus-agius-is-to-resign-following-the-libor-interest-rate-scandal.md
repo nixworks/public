@@ -8,6 +8,7 @@ Marcus Agius is to resign on Monday as the chairman of Barclays following the Li
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18665719)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61292000/jpg/_61292208_61292207.jpg)
 
 ### Related:
 

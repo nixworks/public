@@ -9,6 +9,7 @@ Iran denied a plane carrying German Chancellor Angela Merkel permission to fly t
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/31/iran.germany.merkel.flight/index.html)
 2. [Der Spiegel](http://www.spiegel.de/international/world/0,1518,765823,00.html)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/31/iran.germany.merkel.flight/tzvids.merkel.gi.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A teenage girl is still fighting for her life in hospital following the collapse
 ### Source:
 
 1. [The Age](http://www.theage.com.au/victoria/two-killed-one-critically-injured-in-wall-collapse-20130329-2gxyw.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/2/g/y/0/5/image.related.articleLeadwide.620x349.2gxyw.png/1364531007733.jpg)
 
 ### Related:
 

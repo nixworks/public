@@ -8,6 +8,7 @@ A typhoon with gusts of wind up to 255km/h makes landfall in the eastern Philipp
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-38429514)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/18076/production/_93122489_mediaitem93122488.jpg)
 
 ### Related:
 

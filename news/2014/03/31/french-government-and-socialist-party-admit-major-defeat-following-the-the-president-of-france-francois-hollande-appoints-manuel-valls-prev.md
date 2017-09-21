@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Time](http://time.com/#44079/manuel-valls-named-as-new-french-prime-minister/)
+1. [Cover Image](https://s0.wp.com/wp-content/themes/vip/time2014/img/time-logo-og.png)
 
 ### Related:
 

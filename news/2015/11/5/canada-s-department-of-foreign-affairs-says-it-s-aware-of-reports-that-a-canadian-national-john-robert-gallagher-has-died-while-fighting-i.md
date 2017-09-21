@@ -10,6 +10,7 @@ The Department of Foreign Affairs says it&rsquo;s aware of reports that a Canadi
 1. [CBC News](http://www.cbc.ca/news/canada/toronto/canadian-john-robert-gallagher-reportedly-killed-while-fighting-isis-in-syria-1.3304815)
 2. [Radio Free Europe](http://www.rferl.org/content/russia-antiaircraft-missiles-syroia/27346585.html)
 3. [Reuters](http://uk.reuters.com/article/2015/11/05/uk-mideast-crisis-syria-idUKKCN0SU0YC20151105)
+3. [Cover Image](https://i.cbc.ca/1.3304821.1446684695!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/john-robert-gallagher.jpg)
 
 ### Related:
 

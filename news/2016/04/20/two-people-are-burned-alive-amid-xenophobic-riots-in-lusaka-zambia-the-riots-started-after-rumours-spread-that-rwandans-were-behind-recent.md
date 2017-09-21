@@ -8,6 +8,7 @@ Two Zambians were burned to death on Monday during an outbreak of xenophobic vio
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36092917)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B77C/production/_89327964_89317099.jpg)
 
 ### Related:
 

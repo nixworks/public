@@ -9,6 +9,7 @@ The vessels, one meant to take part in attacks on American cities, were captured
 
 1. [NY Times](http://www.nytimes.com/2009/11/13/science/13wreck.html)
 2. [The Christian Science Monitor](http://www.csmonitor.com/2009/1113/p02s04-usgn.html)
+2. [Cover Image](https://static01.nyt.com/images/2009/11/12/science/13wreck_600/thumbStandard.jpg)
 
 ### Related:
 

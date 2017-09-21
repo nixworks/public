@@ -8,6 +8,7 @@ All 10 South Africans detained in China a few weeks ago will soon be home, the d
 ### Source:
 
 1. [News 24](http://www.news24.com/SouthAfrica/News/All-10-South-Africans-detained-in-China-heading-home-Dirco-20150717)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/483/ed5fff70d06544bab51d0306b92027c1.jpg)
 
 ### Related:
 

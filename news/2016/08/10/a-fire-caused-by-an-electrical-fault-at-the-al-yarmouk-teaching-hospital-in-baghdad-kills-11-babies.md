@@ -8,6 +8,7 @@ The maternity hospital was hit by a blaze early on Wednesday, causing tragedy fo
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/iraq-electrical-fire-baghdad-hospital-kills-11-newborn-babies-488952)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/08/10/iraq-shia-yarmouk-hosptial.jpg)
 
 ### Related:
 

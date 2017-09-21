@@ -9,6 +9,7 @@ Musician faced numerous challenges following the Jan. 13 death of her boyfriend 
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21495664)
 2. [E! Online](http://au.eonline.com/news/389186/mindy-mccready-country-singer-dead-at-37)
+2. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/201317/reg_600.MindyMcCready2.ms.020713.jpg?downsize=600:*&crop=600:315;left,top)
 
 ### Related:
 

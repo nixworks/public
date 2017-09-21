@@ -8,6 +8,7 @@
 ### Source:
 
 1. [PopSci](http://www.popsci.com/science/article/2012-05/chinese-physicists-teleport-protons-over-100-kilometers)
+1. [Cover Image](http://www.popsci.com/sites/popsci.com/files/styles/medium_1x_/public/import/2013/images/2010/05/teleportation_0129.jpg?itok=Bxhd47hr)
 
 ### Related:
 

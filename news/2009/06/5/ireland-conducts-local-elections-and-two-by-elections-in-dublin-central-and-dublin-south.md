@@ -9,6 +9,7 @@
 
 1. [RTÉ](http://www.rte.ie/news/2009/0605/election.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0605/breaking6.htm)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

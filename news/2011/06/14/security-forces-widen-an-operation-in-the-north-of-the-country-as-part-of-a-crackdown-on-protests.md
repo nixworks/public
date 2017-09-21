@@ -8,3 +8,4 @@ Security forces said to be pushing towards northern town of Maarat al-Numaan as 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201161445826899668.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/14/201161420172641734_20.jpg)

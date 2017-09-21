@@ -8,6 +8,7 @@ Russia appeared to seize the initiative in international efforts to end the conf
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/09/27/uk-mideast-crisis-france-syria-idUKKCN0RR08120150927)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150927&t=2&i=1082626753&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8Q0A9)
 
 ### Related:
 

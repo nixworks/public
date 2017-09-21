@@ -8,6 +8,7 @@ A U.S. appeals court struck down a Texas law on Wednesday requiring voters to sh
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/05/us-usa-vote-texas-idUSKCN0QA2A920150805)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

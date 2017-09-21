@@ -8,6 +8,7 @@ Four people died on Feb. 10 when a minibus carrying five passengers ran over a l
 ### Source:
 
 1. [Kyiv Post](https://www.kyivpost.com/article/content/ukraine-politics/four-killed-as-minibus-hits-landmine-in-donbas-407757.html)
+1. [Cover Image](https://www.kyivpost.com/wp-content/uploads/2016/02/10/p1ab5e4687n021mbe10812l91kth4/original.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The&#x20;stakes&#x20;are&#x20;higher&#x20;than&#x20;ever&#x20;as&#x20;Niger,&#x2
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20160220-niger-presidential-legislative-elections-world-poorest-nation-polls-issoufou-oumaru)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/1902-election-niger-m.jpg)
 
 ### Related:
 

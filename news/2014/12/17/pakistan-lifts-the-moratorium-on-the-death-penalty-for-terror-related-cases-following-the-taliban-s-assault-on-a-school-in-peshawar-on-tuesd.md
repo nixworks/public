@@ -8,6 +8,7 @@ Nawaz Sharif lifts moratorium in place since 2008 in response to Taliban atrocit
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/dec/17/pakistan-school-massacre-taliban-nawaz-sharif-lift-death-penalty-ban)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/17/1418820624233/Pakistani-mourners-carry--012.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=6808998f8a200e7e26b6a5608a737554)
 
 ### Related:
 

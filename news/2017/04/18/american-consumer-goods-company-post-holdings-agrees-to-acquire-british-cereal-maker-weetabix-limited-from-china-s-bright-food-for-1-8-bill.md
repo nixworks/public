@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-weetabix-m-a-post-holdings-idUSKBN17J1Q4)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170417&t=2&i=1180949843&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3G10F)
 
 ### Related:
 

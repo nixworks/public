@@ -9,6 +9,7 @@ Football playing robots built by researchers at Eindhoven University have lost t
 
 1. [BBC](http://www.bbc.co.uk/news/technology-33621842)
 2. [DutchNews](http://www.dutchnews.nl/news/archives/2015/07/dutch-robots-lose-football-robocup-to-china/)
+2. [Cover Image](http://www.dutchnews.nl/wpcms/wp-content/uploads/2015/07/robocup-560x361.png)
 
 ### Related:
 

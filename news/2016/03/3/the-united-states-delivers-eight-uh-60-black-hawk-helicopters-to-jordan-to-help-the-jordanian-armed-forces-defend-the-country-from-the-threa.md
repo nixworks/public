@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-jordan-usa-idUSKCN0W5230)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160303&t=2&i=1122102395&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC22116)
 
 ### Related:
 

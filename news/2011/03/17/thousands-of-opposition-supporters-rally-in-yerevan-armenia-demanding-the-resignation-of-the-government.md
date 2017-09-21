@@ -9,6 +9,7 @@
 
 1. [Armenia News](http://news.am/eng/news/51787.html)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1117169/1/.html)
+2. [Cover Image](https://news.am/img/news/05/17/87/default.jpg)
 
 ### Related:
 

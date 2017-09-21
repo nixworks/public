@@ -9,6 +9,7 @@ Jammeh once said that he would rule for “one billion years” if “Allah says
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2016/12/jammeh-step-west-african-leaders-161217134207866.html)
 2. [Quartz](http://qz.com/865333/muslim-countries-are-asking-gambias-president-yahya-jammeh-to-step-down/)
+2. [Cover Image](https://qzprod.files.wordpress.com/2016/12/gambian-president-yahya-jammeh-holds-up-a-koran-while-speaking-to-the-media-e1481906052757.jpg?quality=80&amp;strip=all&amp;w=1600)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Khalidi and Lisa Barrington
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-islamic-state-idUSKCN10N178?il=0)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2016/08/12/syrian-white-helmet-who-saved-miracle-baby-is-killed-in-aleppo-a/)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160812&t=2&i=1149472420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7B1N4)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A killer typhoon is set to make landfall in the Philippines for a second time, s
 
 1. [ABC/AFP](http://www.abc.net.au/news/2012-12-09/weakened-bopha-returns-to-philippines/4417308)
 2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/325234/philippines-braces-for-typhoon-return)
+2. [Cover Image](http://www.abc.net.au/news/image/4412712-1x1-700x700.jpg)
 
 ### Related:
 

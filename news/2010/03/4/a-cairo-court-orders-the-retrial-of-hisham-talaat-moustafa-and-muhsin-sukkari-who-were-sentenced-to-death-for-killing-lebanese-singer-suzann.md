@@ -12,6 +12,7 @@ An Egyptian property tycoon, who was sentenced to death for murdering his former
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/7367719/Egyptian-tycoon-faces-retrial-for-murdering-Lebanese-pop-star.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/mar/04/egyptian-billionaire-retrial-popstar-murder)
 5. [The Los Angeles Times](http://www.latimes.com/news/la-fgw-lebanon-singer5-2010mar05,0,6332886.story?track=rss)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01590/Moustafa_1590127a.jpg)
 
 ### Related:
 

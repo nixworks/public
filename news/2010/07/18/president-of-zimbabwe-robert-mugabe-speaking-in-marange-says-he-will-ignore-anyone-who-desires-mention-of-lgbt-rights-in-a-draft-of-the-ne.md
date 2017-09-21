@@ -9,6 +9,7 @@ The Zimbabwe president has said the country will not listen to those who want ga
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5giVWswVTzJxcH8bsrK5UdZzkuKKQ)
 2. [RTÉ](http://www.rte.ie/news/2010/0718/zimbabwe.html)
+2. [Cover Image](https://img.rasset.ie/00038524-1600.jpg)
 
 ### Related:
 

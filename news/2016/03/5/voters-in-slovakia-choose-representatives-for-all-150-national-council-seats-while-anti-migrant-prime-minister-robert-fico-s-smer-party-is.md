@@ -10,6 +10,7 @@ BRATISLAVA Slovaks voting on Saturday are likely to hand a third term to Prime M
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-05/fico-s-slovak-election-win-trails-expectations-exit-poll-shows)
 2. [New Europe](http://neurope.eu/article/slovakia-goes-to-the-polls/)
 3. [Reuters via Firstpost](http://www.firstpost.com/world/slovaks-likely-to-re-elect-anti-immigrant-leftist-fico-reuters-2658036.html)
+3. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2011/04/blank_dummy_image.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Electronics retailer RadioShack Corp might prepare to file for bankruptcy protec
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/15/radioshack-bankruptcy-idUSL3N0UU09D20150115)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

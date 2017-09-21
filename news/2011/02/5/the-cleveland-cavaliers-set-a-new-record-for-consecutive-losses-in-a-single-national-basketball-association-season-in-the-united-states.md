@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/nba/recap?gameId=310205005&campaign=rss&source=twitter&ex_cid=Twitter_espn_6094469)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

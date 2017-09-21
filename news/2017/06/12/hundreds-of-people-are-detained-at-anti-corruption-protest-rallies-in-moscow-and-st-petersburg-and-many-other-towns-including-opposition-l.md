@@ -9,6 +9,7 @@ Police detained Russian opposition leader Alexei Navalny at the entrance of his 
 
 1. [BBC](http://www.bbc.com/news/world-europe-40245152)
 2. [Reuters](http://www.reuters.com/article/us-russia-opposition-protests-navalny-idUSKBN19313Q)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170612&t=2&i=1188622263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5B0MZ)
 
 ### Related:
 

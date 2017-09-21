@@ -8,6 +8,7 @@ A tsunami alert issued after a powerful earthquake off the coast of Chile has no
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38430564)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CC12/production/_93124225_mediaitem93124224.jpg)
 
 ### Related:
 

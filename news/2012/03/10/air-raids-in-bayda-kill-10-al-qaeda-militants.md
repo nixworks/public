@@ -8,6 +8,7 @@ Air strikes are launched against suspected al-Qaeda targets in southern Yemen, k
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17324141)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58994000/gif/_58994187_yemen_bayda_jaar_1012.cmp.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The World Trade Organisation has ordered Australia to change restrictions on New
 ### Source:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/stories/2010/08/10/2978225.htm?section=business)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

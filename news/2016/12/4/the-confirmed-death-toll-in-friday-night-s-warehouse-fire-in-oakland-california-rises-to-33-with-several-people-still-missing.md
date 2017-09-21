@@ -9,6 +9,7 @@
 
 1. [ABC News](http://abcnews.go.com/US/24-bodies-recovered-oakland-warehouse-fire-search-20/story?id=43964350)
 2. [NBC News](http://www.nbcnews.com/news/us-news/oakland-warehouse-fire-survivors-describe-escape-blaze-confirmed-death-toll-n691711?cid=eml_nbn_20161204)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_48/1819506/ss-161204-oakland-fire-10_eedb7672212e8d42f4f9aea6b662b044.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

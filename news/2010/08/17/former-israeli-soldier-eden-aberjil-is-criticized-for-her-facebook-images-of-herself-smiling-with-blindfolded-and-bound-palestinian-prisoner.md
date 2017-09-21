@@ -8,6 +8,7 @@ A former Israeli soldier is criticised for posting images of herself on Facebook
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10994668)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

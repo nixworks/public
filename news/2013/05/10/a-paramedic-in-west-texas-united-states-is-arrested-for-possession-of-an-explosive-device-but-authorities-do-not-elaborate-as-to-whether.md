@@ -8,6 +8,7 @@ A paramedic in West, Texas, has been arrested for possession of an explosive dev
 ### Source:
 
 1. [Reuters via News24](http://www.news24.com/news24/World/News/Texas-man-found-with-explosive-device-20130510)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1880/473eba891dce4499bfa9f430c2b00165.jpg)
 
 ### Related:
 

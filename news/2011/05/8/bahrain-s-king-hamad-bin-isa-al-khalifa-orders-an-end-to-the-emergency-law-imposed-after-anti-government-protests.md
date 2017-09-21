@@ -8,6 +8,7 @@ Royal decree, due to take effect on June 1, comes as opposition activists appear
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011581342480276.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/18/2011318651355371_20.jpg)
 
 ### Related:
 

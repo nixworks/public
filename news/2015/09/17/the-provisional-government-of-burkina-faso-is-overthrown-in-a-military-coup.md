@@ -12,6 +12,7 @@ EU and UN demand army release detained president and prime minister as warning s
 3. [BBC](http://www.bbc.com/news/world-africa-34276807)
 4. [Irish Times](http://www.irishtimes.com/news/world/africa/soldiers-crush-protests-following-military-coup-in-burkina-faso-1.2356000)
 5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/burkinafaso/11870962/Burkina-Faso-coup-military-says-it-now-controls-country-after-arresting-leaders.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03442/_Burkina-Faso_3442941k.jpg)
 
 ### Related:
 

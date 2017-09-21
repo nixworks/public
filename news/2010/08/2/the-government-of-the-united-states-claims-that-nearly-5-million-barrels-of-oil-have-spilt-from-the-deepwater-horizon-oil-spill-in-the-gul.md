@@ -8,6 +8,7 @@ Nearly five million barrels of oil have gushed from BP’s well, federal scienti
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/08/03/us/03flow.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The discovery of the plumes, one as large as 10 miles long, is evidence that the
 1. [The New York Times](http://www.nytimes.com/2010/05/16/us/16oil.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7127904.ece)
 3. [USA Today](http://www.usatoday.com/news/nation/2010-05-15-gulf-oil-spill_N.htm)
+3. [Cover Image](https://static01.nyt.com/images/2010/05/16/us/16oil_CA0/16oil_CA0-thumbStandard.jpg)
 
 ### Related:
 

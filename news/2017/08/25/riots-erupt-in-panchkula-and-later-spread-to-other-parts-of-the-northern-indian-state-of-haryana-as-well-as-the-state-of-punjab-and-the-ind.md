@@ -9,6 +9,7 @@ Violence in Panchkula and Sirsa in Haryana. Punjab and Delhi too hit; HC orders 
 
 1. [The Hindu](http://www.thehindu.com/news/national/other-states/live-updates-dera-sacha-sauda-chief-convicted-in-rape-case/article19558757.ece)
 2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/08/25/indias-guru-of-bling-convicted-of-rape/)
+2. [Cover Image](http://www.thehindu.com/news/national/other-states/article19560856.ece/ALTERNATES/LANDSCAPE_615/Vehicles%20burn%20in%20Panchkula)
 
 ### Related:
 

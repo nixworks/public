@@ -9,6 +9,7 @@ Exit polls suggested on Thursday that Joko Widodo, the populist mayor of another
 
 1. [New York Times](http://www.nytimes.com/2012/09/21/world/asia/21iht-jakarta21.html?_r=0)
 2. [The Jakarta Post](http://www.thejakartapost.com/news/2012/09/20/jakarta-gets-ready-final-gubernatorial-showdown.html)
+2. [Cover Image](https://static01.nyt.com/images/2012/09/20/world/20jakarta_image1/20jakarta_image1-superJumbo.jpg)
 
 ### Related:
 

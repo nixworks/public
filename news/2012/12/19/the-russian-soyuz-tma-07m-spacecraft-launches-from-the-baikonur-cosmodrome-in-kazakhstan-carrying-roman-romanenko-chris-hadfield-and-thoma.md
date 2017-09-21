@@ -10,6 +10,7 @@
 1. [CNet](http://news.cnet.com/8301-11386_3-57559952-76/soyuz-blasts-off-for-space-station-with-three-man-crew/)
 2. [NASA Spaceflight](http://www.nasaspaceflight.com/2012/12/soyuz-tma-07m-three-new-crewmembers-iss/)
 3. [Reuters](http://www.reuters.com/article/2012/12/19/kazakhstan-space-launch-idUSL5E8NJ8BK20121219)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

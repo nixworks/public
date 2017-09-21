@@ -9,6 +9,7 @@ Russian Prime Minister Dmitry Medvedev blames US and European leaders for making
 
 1. [BBC](http://www.bbc.com/news/world-europe-35569094)
 2. [Sky News](http://news.sky.com/story/1641413/world-in-new-cold-war-says-russian-pm)
+2. [Cover Image](http://e3.365dm.com/16/02/1600x900/2015-12-01t065323z-2114560535-gf20000079616-rtrmadp-3-climatechange-summit-1-2048x1536_3415016.jpg?20160213092419)
 
 ### Related:
 

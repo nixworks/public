@@ -9,6 +9,7 @@
 
 1. [Arab News](http://arabnews.com/middleeast/article73467.ece)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/25/AR2010062504787.html)
+2. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2010/06/25/PH2010062504796.jpg)
 
 ### Related:
 

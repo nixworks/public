@@ -12,6 +12,7 @@ The death toll from the shooting at a Norwegian youth camp rises to 85, as polic
 3. [Dagbladet](http://www.dagbladet.no/2011/07/20/nyheter/politikk/innenriks/auf/17367745/)
 4. [Daily Mail](http://www.dailymail.co.uk/news/article-2017851/Norway-attacks-gunman-Anders-Behring-Breivik-right-wing-extremist-hated-Muslims.html)
 5. [Dokument](http://www.document.no/anders-behring-breivik/)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54227000/jpg/_54227084_54227083.jpg)
 
 ### Related:
 

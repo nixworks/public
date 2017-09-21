@@ -8,6 +8,7 @@ The man accused of killing two police officers in a gun and grenade attack now a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-20315456)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63936000/jpg/_63936519_fiona_bone_nicola_hughes_464.jpg)
 
 ### Related:
 

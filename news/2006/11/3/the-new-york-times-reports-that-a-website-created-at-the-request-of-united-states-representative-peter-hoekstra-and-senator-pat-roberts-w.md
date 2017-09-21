@@ -8,6 +8,7 @@ A federal government Web site, set up to make public Iraqi documents, included s
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2006/11/03/world/middleeast/03documents.html?hp&ex=1162530000&en=1511d6b3da302d4f&ei=5094&partner=homepage)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/film/batman-v-superman-dawn-of-justice/premiere-london-cancelled-brussels/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/film/batmansuper-xlarge.jpg)
 
 ### Related:
 

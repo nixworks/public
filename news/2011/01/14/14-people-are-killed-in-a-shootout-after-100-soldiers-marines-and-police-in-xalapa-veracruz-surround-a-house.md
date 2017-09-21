@@ -9,6 +9,7 @@ Twelve suspected gang members and two soldiers have been killed in a shootout be
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12197299)
 2. [IOL](http://www.iol.co.za/news/world/14-killed-in-gang-police-clash-1.1012263)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

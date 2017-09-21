@@ -11,6 +11,7 @@ Four Russian Navy warships have fired a total of 26 missiles at the position of 
 2. [RT](https://www.rt.com/news/317864-russian-warships-missiles-launch/)
 3. [Reuters](http://ca.reuters.com/article/topNews/idCAKCN0S10BI20151007)
 4. [Reuters](http://www.reuters.com/article/2015/10/07/us-mideast-crisis-syria-rebels-idUSKCN0S111020151007)
+4. [Cover Image](https://img.rt.com/files/2015.10/article/561521cfc46188d5238b4587.jpg)
 
 ### Related:
 

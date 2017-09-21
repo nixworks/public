@@ -8,6 +8,7 @@ At least one dead as protest over earlier death of demonstrator turns violent.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201062013152142755.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

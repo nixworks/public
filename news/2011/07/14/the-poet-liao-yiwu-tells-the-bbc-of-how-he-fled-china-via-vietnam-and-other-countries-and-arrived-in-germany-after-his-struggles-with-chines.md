@@ -8,6 +8,7 @@ A Chinese poet who was jailed in his homeland tells the BBC he fled to Germany s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14149822)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54065000/jpg/_54065286_54065285.jpg)
 
 ### Related:
 

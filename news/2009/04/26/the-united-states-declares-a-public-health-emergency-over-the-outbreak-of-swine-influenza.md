@@ -8,6 +8,7 @@ U.S. health officials said that they had confirmed 20 cases of swine flu in the 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/04/27/world/27flu.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/04/27/world/27flu.753.jpg)
 
 ### Related:
 

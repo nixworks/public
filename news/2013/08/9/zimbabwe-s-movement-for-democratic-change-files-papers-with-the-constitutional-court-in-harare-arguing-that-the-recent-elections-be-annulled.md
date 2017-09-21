@@ -8,6 +8,7 @@ Zimbabwe&#39;s Movement for Democratic Change has challenged President Robert Mu
 ### Source:
 
 1. [Reuters via News24](http://www.news24.com/news24/Africa/Zimbabwe/MDC-challenges-Mugabe-win-in-court-20130809)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2430/9df61ac4e81242a1a97b49df839bc06a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The U.S. Supreme Court on Tuesday handed a victory to employers over worker comp
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/09/us-usa-court-workers-idUSKBN0JN1P820141209)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141209&t=2&i=998028402&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAB80P6)
 
 ### Related:
 

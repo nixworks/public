@@ -9,6 +9,7 @@ A&#x20;bomb&#x20;scare&#x20;forced&#x20;the&#x20;evacuation&#x20;of&#x20;Roman&#
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10980157)
 2. [France 24](http://www.france24.com/en/20100815-thousands-pilgrims-evacuated-catholic-lourdes-shrine-after-bomb-warning-france)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/lourdes_m.jpg)
 
 ### Related:
 

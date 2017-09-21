@@ -9,6 +9,7 @@ City centre in Homs in lockdown after twin suicide attacks leave scores dead.
 
 1. [Reuters via ''Jerusalem Post](http://www.jpost.com/Breaking-News/Attack-on-Syrian-security-forces-in-Homs-kills-14-482546)
 2. [SBS](http://www.sbs.com.au/news/article/2017/02/25/suicide-attacks-bases-syrias-homs-kill-42-monitor)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/homs-2.jpg)
 
 ### Related:
 

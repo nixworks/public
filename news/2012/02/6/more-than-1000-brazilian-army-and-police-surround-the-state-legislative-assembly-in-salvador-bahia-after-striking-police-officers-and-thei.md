@@ -8,6 +8,7 @@ State governor says issue can be resolved through negotiations after state legis
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/02/20122623827930552.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/6/201226231710552734_20.jpg)
 
 ### Related:
 

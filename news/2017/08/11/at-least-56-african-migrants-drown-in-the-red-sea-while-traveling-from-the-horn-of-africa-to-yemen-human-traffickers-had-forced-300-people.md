@@ -8,6 +8,7 @@ At least 56 people have drowned over the past 24 hours, and dozens remain missin
 ### Source:
 
 1. [AFP via Yahoo](https://www.yahoo.com/news/least-56-dead-smugglers-throw-300-african-migrants-153712561.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/elQnVcQDY6uJ_6c8j.oLlw--/aD02NTE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic43890-1-1-0.jpg)
 
 ### Related:
 

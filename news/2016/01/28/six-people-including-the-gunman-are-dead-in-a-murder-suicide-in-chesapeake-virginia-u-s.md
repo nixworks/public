@@ -8,6 +8,7 @@ Police in Chesapeake, Virginia, about 200 miles south of Washington, found five 
 ### Source:
 
 1. [Yahoo! News](http://news.yahoo.com/six-dead-virginia-murder-suicide-police-standoff-165951358.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Chinese police seek two suspects from Xinjiang linked to a &quot;major incident&
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24722898)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70770000/jpg/_70770014_70770013.jpg)
 
 ### Related:
 

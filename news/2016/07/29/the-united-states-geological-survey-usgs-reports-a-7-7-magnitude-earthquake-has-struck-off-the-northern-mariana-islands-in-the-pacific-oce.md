@@ -8,6 +8,7 @@ A strong earthquake happened close to Agrihan, in the CNMI, at about 7:18 a.m., 
 ### Source:
 
 1. [Pacific Daily News](http://www.guampdn.com/story/news/2016/07/29/strong-quake-strikes-northern-mariana-islands/87758236/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/guampdn.png)
 
 ### Related:
 

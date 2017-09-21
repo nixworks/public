@@ -8,6 +8,7 @@ INS Vikrant with a capacity to carry 36 fighter planes would go for extensive tr
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/India-launches-first-indigenous-aircraft-carrier-INS-Vikrant/articleshow/21774409.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/21774838.cms)
 
 ### Related:
 

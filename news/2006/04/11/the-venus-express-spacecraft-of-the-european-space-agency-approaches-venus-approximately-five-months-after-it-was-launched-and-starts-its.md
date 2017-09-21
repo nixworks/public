@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4895792.stm)
 2. [ESA](http://www.esa.int/SPECIALS/Venus_Express/SEM7CPNFGLE_0.html)
+2. [Cover Image](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2006/04/venus_express_orbit_insertion/9675956-4-eng-GB/Venus_Express_orbit_insertion_large.jpg)
 
 ### Related:
 

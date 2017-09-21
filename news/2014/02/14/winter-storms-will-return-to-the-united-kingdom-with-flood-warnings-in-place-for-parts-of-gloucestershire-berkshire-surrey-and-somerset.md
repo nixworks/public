@@ -8,6 +8,7 @@ Thousands of sandbags are being used to protect homes as more heavy rain and gal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26183403#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72992000/jpg/_72992623_021092902-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man wanted on suspicion of kidnapping and torturing two women in Oregon is arr
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-34397267)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F188/production/_85823816_hi029362778.jpg)
 
 ### Related:
 

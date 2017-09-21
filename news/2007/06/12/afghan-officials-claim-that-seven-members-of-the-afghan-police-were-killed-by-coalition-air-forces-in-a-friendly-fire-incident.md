@@ -8,6 +8,7 @@ U.S.-led forces killed seven Afghan policemen, an official said on Tuesday, and 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSISL27685620070612?feedType=RSS&pageNumber=2)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070612&t=2&i=945803&w=&fh=545px&fw=&ll=&pl=&sq=&r=945803)
 
 ### Related:
 

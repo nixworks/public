@@ -8,6 +8,7 @@ Sherlock wins a pair of trophies including best drama series at the Bafta TV Awa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13468256)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52895000/jpg/_52895586_012045774-2.jpg)
 
 ### Related:
 

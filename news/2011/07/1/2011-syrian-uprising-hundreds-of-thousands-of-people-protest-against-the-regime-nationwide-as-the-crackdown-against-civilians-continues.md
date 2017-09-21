@@ -15,6 +15,7 @@ Hundreds of thousands of people reportedly stage fresh anti-government protests 
 6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13988701)
 7. [MSNBC](http://www.msnbc.msn.com/id/43590958)
 8. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE7600JZ20110701)
+8. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53801000/jpg/_53801661_53801660.jpg)
 
 ### Related:
 

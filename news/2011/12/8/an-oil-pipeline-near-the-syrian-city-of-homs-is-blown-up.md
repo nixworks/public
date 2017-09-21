@@ -8,6 +8,7 @@ A Syrian pipeline carrying oil from the east of the country to a vital refinery 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8942861/Syrian-oil-pipeline-blown-up.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02078/homs-oil_2078585a.jpg)
 
 ### Related:
 

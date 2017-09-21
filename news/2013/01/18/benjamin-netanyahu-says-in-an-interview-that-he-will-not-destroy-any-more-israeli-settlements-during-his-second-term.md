@@ -8,6 +8,7 @@ Israel will not dismantle any West Bank settlements during his next term of offi
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/netanyahu-no-settlements-will-be-dismantled/article4319867.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article12231845.ece/ALTERNATES/LANDSCAPE_615/18TH_NETANYAHU)
 
 ### Related:
 

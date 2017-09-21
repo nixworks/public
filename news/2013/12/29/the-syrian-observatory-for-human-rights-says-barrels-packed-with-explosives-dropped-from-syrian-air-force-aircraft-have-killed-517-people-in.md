@@ -8,6 +8,7 @@ Barrel bombs dropped on the Syrian province of Aleppo have killed 517 since 15 D
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25541726)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71986000/jpg/_71986458_71986457.jpg)
 
 ### Related:
 

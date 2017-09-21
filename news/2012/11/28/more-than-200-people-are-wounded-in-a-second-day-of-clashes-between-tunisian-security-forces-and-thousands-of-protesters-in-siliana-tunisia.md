@@ -9,6 +9,7 @@ More than 200 people are wounded as protesters demanding jobs clash with securit
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2012/11/28/252351.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20533110)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64445000/jpg/_64445069_64445068.jpg)
 
 ### Related:
 

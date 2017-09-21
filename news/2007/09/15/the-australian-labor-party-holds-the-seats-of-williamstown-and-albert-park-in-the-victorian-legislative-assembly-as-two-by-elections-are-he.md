@@ -8,6 +8,7 @@ The Labor Party has retained two state seats in by-elections held in Melbourne t
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/15/2033902.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

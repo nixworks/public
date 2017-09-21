@@ -8,6 +8,7 @@ A recent ISIS recruiting video is the latest sign the terror group wants to stee
 ### Source:
 
 1. [NBC](https://www.nbcnews.com/storyline/isis-uncovered/isis-recruits-fighters-philippines-instead-syria-n796741)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_35/2135321/170828-isis-phillippines-mc-3-27_5fc5699291744ccb0db0b30bff94dc54.nbcnews-fp-1200-630.jpg)
 
 ### Related:
 

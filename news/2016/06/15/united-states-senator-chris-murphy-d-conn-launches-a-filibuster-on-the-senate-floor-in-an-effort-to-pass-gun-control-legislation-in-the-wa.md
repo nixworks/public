@@ -8,6 +8,7 @@ A deal on legislation to ban gun sales to suspected terrorists still looks unlik
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2016/06/sen-chris-murphy-starts-talking-filibuster-over-gun-control-224369)
+1. [Cover Image](http://v.politico.com/images/1155968404/201606/778/1155968404_4944693672001_4944665893001-vs.jpg?pubId=1155968404)
 
 ### Related:
 

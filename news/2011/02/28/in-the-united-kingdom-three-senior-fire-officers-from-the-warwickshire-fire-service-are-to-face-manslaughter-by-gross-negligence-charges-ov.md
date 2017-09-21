@@ -8,3 +8,4 @@ Three Warwickshire fire service managers are to face charges over the deaths of 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-12598130)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)

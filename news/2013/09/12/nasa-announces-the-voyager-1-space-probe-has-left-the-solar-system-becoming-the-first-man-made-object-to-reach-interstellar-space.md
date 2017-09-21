@@ -9,6 +9,7 @@ After almost a year of debate, NASA has accepted the idea that its Voyager 1 pro
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-24026153)
 2. [NBC News](http://www.nbcnews.com/science/where-does-solar-system-end-voyager-isnt-officially-there-yet-8C11142403)
+2. [Cover Image](https://media2.s-nbcnews.com/j/msnbc/components/video/__new/nn_07bwi_vger_130912.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

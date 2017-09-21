@@ -8,6 +8,7 @@ Pakistani social media celebrity Qandeel Baloch is strangled by her brother in a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-36814258)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1190F/production/_90415917_mediaitem90415911.jpg)
 
 ### Related:
 

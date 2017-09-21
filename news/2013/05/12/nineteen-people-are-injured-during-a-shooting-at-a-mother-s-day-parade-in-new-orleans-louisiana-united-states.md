@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NOLA.com](http://www.nola.com/crime/index.ssf/2013/05/mothers_day_second-line_shooti.html)
+1. [Cover Image](http://image.nola.com/home/nola-media/width620/img/tpphotos/photo/2013/05/12731202-large.jpg)
 
 ### Related:
 

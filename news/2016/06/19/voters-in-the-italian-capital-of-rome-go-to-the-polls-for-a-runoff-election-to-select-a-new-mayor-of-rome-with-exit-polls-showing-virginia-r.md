@@ -9,6 +9,7 @@ The anti-establishment Five Star Movement wins key mayoral races in the capital,
 
 1. [BBC](http://www.bbc.com/news/world-europe-36569410)
 2. [France 24](http://www.france24.com/en/20160620-rome-elects-first-female-mayor-setback-italian-pm-five-star-movement-raggi-renzi)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2079/production/_90031380_033597495-1.jpg)
 
 ### Related:
 

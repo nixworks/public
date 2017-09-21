@@ -10,6 +10,7 @@ President Tsakhiagiin Elbegdorj cites cases of innocent people given death penal
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/20101146493538358.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8458717.stm)
 3. [China Daily](http://www.chinadaily.com.cn/world/2010-01/14/content_9322839.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Military.com via FOX News](http://www.foxnews.com/tech/2014/12/11/navy-declares-laser-weapons-ready-to-protect-ships-in-persian-gulf/?intcmp=features)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/121114/0/0/121114_navy_laser_640.jpg?ve=1)
 
 ### Related:
 

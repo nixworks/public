@@ -8,6 +8,7 @@ At least 30 people are killed in a blast at a weapons depot in southern Libya am
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25141810)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71409000/gif/_71409648_libya_sabha_mar12.gif)
 
 ### Related:
 

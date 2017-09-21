@@ -10,6 +10,7 @@ No one aboard a small business plane that crashed into an apartment building in 
 1. [ABC News](http://abcnews.go.com/US/wireStory/ntsb-decide-probable-ohio-jet-crash-42872179)
 2. [Fox News](http://www.foxnews.com/us/2015/11/10/plane-crashes-in-residential-area-ohio/)
 3. [WOIO via WNEW](http://www.wnem.com/story/30484097/2-killed-after-plane-crash-into-akron-house)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2015/11/11/0/0/111115_root_crash_1280.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/#/news/world/10-more-killed-second-suspected-u-s-drone-attack-pakistan-n129181)
+1. [Cover Image](https://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
 
 ### Related:
 

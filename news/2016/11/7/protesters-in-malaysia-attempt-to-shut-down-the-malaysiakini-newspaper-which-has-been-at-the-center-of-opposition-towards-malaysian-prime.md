@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/nov/07/malaysia-protesters-seek-to-shut-news-portal-accused-of-trying-to-unseat-scandal-hit-pm)
+1. [Cover Image](https://i.guim.co.uk/img/media/c276213a7d78d71540169ca21b899f8ef308e548/0_195_3500_2099/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=870190f7fd5e93e99ecf138054f87063)
 
 ### Related:
 

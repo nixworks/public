@@ -8,6 +8,7 @@ At least 24 people have been killed by police in DR Congo since the results of d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16297258)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57514000/jpg/_57514929_013482981-1.jpg)
 
 ### Related:
 

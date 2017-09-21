@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8468367.stm)
 2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33516&Cr=haiti&Cr1=)
+2. [Cover Image](/News/dh/photos/large/2010/haiti_100113_4.jpg)
 
 ### Related:
 

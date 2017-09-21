@@ -13,6 +13,7 @@ Israel carries out a joint missile test with the US in the Mediterranean, amid h
 4. [Sky News](http://news.sky.com/story/1136479/syria-israel-fires-missiles-in-mediterranean)
 5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10282697/US-general-says-Syria-action-could-be-more-substantial-than-thought.html)
 6. [Washington Post](http://www.washingtonpost.com/world/national-security/kerry-hagel-to-appear-at-foreign-relations-committee-to-make-the-case-for-syria-strikes/2013/09/02/936adc48-13df-11e3-a100-66fa8fd9a50c_story.html)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69625000/jpg/_69625569_j1z68fil.jpg)
 
 ### Related:
 

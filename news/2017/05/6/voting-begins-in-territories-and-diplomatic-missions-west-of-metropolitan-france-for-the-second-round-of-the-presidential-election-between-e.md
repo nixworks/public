@@ -11,6 +11,7 @@ France goes to the polls on Sunday for the final round of the presidential elect
 2. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-05-05/france-votes-an-hour-by-hour-guide-to-the-presidential-election-j2bwgxko)
 3. [Sky News](http://news.sky.com/story/french-mp-dies-after-collapsing-during-macron-campaign-speech-10865399)
 4. [The Independent](http://www.independent.co.uk/news/world/europe/emmanuel-macron-email-hack-leaks-election-marine-le-pen-russia-media-ordered-not-publish-commission-a7721111.html)
+4. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6qiO_9js5nY/v0/1200x672.jpg)
 
 ### Related:
 

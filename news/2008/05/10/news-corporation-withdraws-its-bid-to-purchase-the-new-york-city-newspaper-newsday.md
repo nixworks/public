@@ -8,6 +8,7 @@ The withdrawal of News Corporation’s $580 million offer leaves Mortimer B. Zuc
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/05/11/business/media/11paper.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/04/23/business/23murdoch75.jpg)
 
 ### Related:
 

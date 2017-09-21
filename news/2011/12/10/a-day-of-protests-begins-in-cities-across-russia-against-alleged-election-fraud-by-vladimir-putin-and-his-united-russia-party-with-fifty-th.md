@@ -11,6 +11,7 @@
 2. [AP via MSNBC](http://www.msnbc.msn.com/id/45613766#.TuMA8LK4q7s)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-16128473)
 4. [Press Trust of India](http://www.hindustantimes.com/world-news/Europe/Russia-lifts-media-curbs-media-starts-covering-protests/Article1-780589.aspx)
+4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57251000/jpg/_57251118_013498738-1.jpg)
 
 ### Related:
 

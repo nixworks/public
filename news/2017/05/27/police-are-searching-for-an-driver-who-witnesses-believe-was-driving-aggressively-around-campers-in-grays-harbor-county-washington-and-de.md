@@ -8,3 +8,4 @@ Investigators are searching for the driver of a pickup who witnesses say intenti
 ### Source:
 
 1. [Seattle Times](http://www.seattletimes.com/seattle-news/young-father-run-down-killed-in-grays-harbor-county-campground-confrontation)
+1. [Cover Image](https://static.seattletimes.com/wp-content/uploads/2017/05/8d5d8608-44f9-11e7-9f92-d534526d1e7b-474x711.jpg)

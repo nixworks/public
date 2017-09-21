@@ -8,3 +8,4 @@ The Hula painted frog, which was recently rediscovered after being declared exti
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22770959)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67972000/jpg/_67972484_d_nigriventer.jpg)

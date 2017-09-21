@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Sports/wireStory/black-bear-kills-16-year-boy-race-alaska-48127712)
+1. [Cover Image](http://a.abcnews.com/images/US/AP-bear-mauling-jef-170619_16x9_992.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21810389)
 2. [CNN](http://www.cnn.com/2013/03/16/world/americas/mexico-religious-explosion/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66427000/gif/_66427564_mexico_tepactepec_150313.gif)
 
 ### Related:
 

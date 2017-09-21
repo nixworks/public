@@ -8,6 +8,7 @@ Campaign group Dignity in Dying says Swiss voters have made a &quot;brave decisi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13405719)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52692000/jpg/_52692243_jex_1044237_de27-1.jpg)
 
 ### Related:
 

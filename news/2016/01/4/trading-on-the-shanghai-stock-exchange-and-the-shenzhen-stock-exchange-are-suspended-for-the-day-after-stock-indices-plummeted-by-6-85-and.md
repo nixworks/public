@@ -9,6 +9,7 @@ Wall Street closed sharply lower Monday after weak Chinese economic data ignited
 
 1. [CNBC](http://www.cnbc.com/2016/01/03/asian-markets-set-for-cautious-open-china-caixin-pmi-due.html)
 2. [NBC News](http://www.nbcnews.com/business/markets/u-s-stocks-dive-fresh-evidence-china-economic-slowdown-n489741?cid=eml_nbn_20160104)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_01/1362361/160104-nyse-jsw-1054a_a8b5b56a6efd16af753c17d31cc23902.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

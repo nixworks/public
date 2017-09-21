@@ -8,6 +8,7 @@ Brazilian president Lula da Silva considers that differences inside the Union of
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/22/brazilian-president-arrives-in-bolivia-with-strong-tone-down-message)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19905/200x200/edbfc9f2b322509a4ef2e9c46d355231.jpg)
 
 ### Related:
 

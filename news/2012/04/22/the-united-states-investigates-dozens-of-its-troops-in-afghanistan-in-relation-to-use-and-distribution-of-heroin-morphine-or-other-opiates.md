@@ -8,6 +8,7 @@ The US Army has investigated 56 soldiers in Afghanistan on suspicion of using or
 ### Source:
 
 1. [AP via ''The Sydney Morning Herald](http://www.smh.com.au/world/us-probes-troops-drug-use-in-afghanistan-20120422-1xen7.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/d/g/f/m/image.related.thumbnail.320x214.1xen7.png/1335059404443.jpg)
 
 ### Related:
 

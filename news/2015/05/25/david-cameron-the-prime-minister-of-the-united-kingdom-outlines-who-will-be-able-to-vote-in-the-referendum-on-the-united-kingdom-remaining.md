@@ -8,6 +8,7 @@ LONDON (AP) — Britain&#8217;s prime minister on Monday outlined who will be al
 ### Source:
 
 1. [AP via WTOP](http://wtop.com/europe/2015/05/uk-prime-minister-outlines-who-can-vote-in-referendum/)
+1. [Cover Image](http://wtop.com/wp-content/uploads/2015/05/Latvia-Eastern-Summit9.jpeg)
 
 ### Related:
 

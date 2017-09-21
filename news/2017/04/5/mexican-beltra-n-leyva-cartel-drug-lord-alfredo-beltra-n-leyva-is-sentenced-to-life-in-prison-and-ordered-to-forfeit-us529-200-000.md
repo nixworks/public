@@ -8,6 +8,7 @@ Alfredo Beltran Leyva, also known as Mochomo, one of the leaders of the Beltran 
 ### Source:
 
 1. [U.S. Department of Justice](https://www.justice.gov/opa/pr/alfredo-beltran-leyva-sentenced-life-prison-leading-international-drug-trafficking-conspiracy)
+1. [Cover Image](https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg)
 
 ### Related:
 

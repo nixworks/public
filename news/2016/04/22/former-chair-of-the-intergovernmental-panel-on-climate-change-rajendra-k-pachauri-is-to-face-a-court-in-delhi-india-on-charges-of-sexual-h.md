@@ -8,6 +8,7 @@ Former head of world climate change body faces raft of accusations in case that 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/22/rajendra-pachauri-court-delhi-sexual-assault-charges)
+1. [Cover Image](https://i.guim.co.uk/img/media/282157c341dc1993fe95fed3bc40280e017dd2ee/0_145_3000_1800/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a027c78ae120bfceff5ae13a2df4ccb8)
 
 ### Related:
 

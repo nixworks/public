@@ -9,6 +9,7 @@ Tunisian police kill at least two people in the north-western town of Kef, durin
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12375255)
 2. [France24](http://www.france24.com/en/20110205-police-open-fire-protesters-northern-el-kef-tunisia)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

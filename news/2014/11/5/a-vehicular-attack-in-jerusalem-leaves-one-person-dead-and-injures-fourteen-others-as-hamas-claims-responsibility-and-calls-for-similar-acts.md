@@ -10,6 +10,7 @@ Victim is Border Police officer from Druze village; another casualty in critical
 1. [ABC News](http://abcnews.go.com/International/wireStory/police-disperse-palestinians-jerusalem-site-26697715)
 2. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ISRAEL_PALESTINIANS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2014-11-05-08-00-10)
 3. [Times of Israel](http://www.timesofisrael.com/driver-plows-into-jerusalem-crowd-in-suspected-terror-attack/)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/11/F141105YS01-e1415190015595.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Afghan prisoner has died at the Guantanamo detention center in an apparent su
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43085831/ns/us_news-security/t/afghan-prisoner-gitmo-dies-apparent-suicide/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ POLAND-MINERS/ (UPDATE 1):UPDATE 1-Rescuers searching for miners trapped after q
 ### Source:
 
 1. [Reuters via Trust](http://news.trust.org/item/20161129232859-ecu3i/)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/4b0302df-f860-4e72-9897-42880bfed1ba/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

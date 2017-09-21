@@ -8,6 +8,7 @@ Maldives officials rescheduled the country’s presidential election for Nov. 9 
 ### Source:
 
 1. [AP via ''The Hindu](http://www.thehindu.com/news/international/south-asia/maldives-sets-new-presidential-election-for-nov-9/article5260355.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

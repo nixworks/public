@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6B70HJ20101208)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101208&t=2&i=270269138&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-08T225818Z_01_BTRE6B71RT900_RTROPTP_0_HAITI-ELECTIONS)
 
 ### Related:
 

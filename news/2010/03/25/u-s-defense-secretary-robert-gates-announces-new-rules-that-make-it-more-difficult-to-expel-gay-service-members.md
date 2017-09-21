@@ -8,6 +8,7 @@ The defense secretary announced an interim plan while the Pentagon looks at how 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/03/26/us/politics/26military.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/03/26/us/26military-cnd/26military-cnd-thumbStandard.jpg)
 
 ### Related:
 

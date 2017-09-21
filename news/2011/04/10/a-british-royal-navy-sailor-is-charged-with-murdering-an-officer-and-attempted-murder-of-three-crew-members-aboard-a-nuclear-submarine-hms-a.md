@@ -9,6 +9,7 @@
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/04/11/3187728.htm)
 2. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110410/ap_on_re_eu/eu_britain_submarine_killing)
+2. [Cover Image](http://www.abc.net.au/news/image/2622006-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Gambian new President, Adama Barrow has removed the word &quot;Islamic&quot; fro
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/gambia-president-adama-barrow-pl|edges-reforms-170128194124520.html)
 2. [All Africa](http://allafrica.com/stories/201701300021.html)
+2. [Cover Image](http://allafrica.com/download/pic/main/main/csiid/00381614:a807c793fd82e0c498873dbc3cb32088:arc614x376:w1200.png)
 
 ### Related:
 

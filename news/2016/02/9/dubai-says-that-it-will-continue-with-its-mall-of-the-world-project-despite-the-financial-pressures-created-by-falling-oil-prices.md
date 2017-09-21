@@ -8,6 +8,7 @@ Dubai said on Tuesday it would press ahead with plans to build the world’s lar
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-emirates-realestate-mall-of-the-world-idUSKCN0VI15K)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

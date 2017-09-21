@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Corp Australia](http://www.news.com.au/world/breaking-news/landslides-kill-11-in-indon-papua-province/story-e6frfkui-1226836239336)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

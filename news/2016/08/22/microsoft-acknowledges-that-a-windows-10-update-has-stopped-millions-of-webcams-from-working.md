@@ -8,6 +8,7 @@ Millions of people are reporting that a Windows 10 update has stopped their webc
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-37154516)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/3491/production/_90875431_mediaitem90875430.jpg)
 
 ### Related:
 

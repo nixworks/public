@@ -9,6 +9,7 @@ A federal judge has chosen for now not to force Texas health officials to change
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/national/article39557769.html)
 2. [Washington Times](http://www.washingtontimes.com/news/2015/oct/16/texas-can-refuse-to-issue-birth-certificates-to-il/)
+2. [Cover Image](http://pics.mcclatchyinteractive.com/news/nation-world/national/cx5swn/picture39557766/ALTERNATES/LANDSCAPE_1140/Immigrant%20Birth%20Certi_Swee)
 
 ### Related:
 

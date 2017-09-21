@@ -9,6 +9,7 @@ Prince among five Saudis detained over seizure of two tonnes of amphetamines and
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/10/saudi-prince-held-record-beirut-airport-drug-bust-151026160814780.html)
 2. [NBC News](http://www.nbcnews.com/news/world/saudi-royal-four-others-detained-beirut-captagon-bust-n451486?cid=par-time_20151026)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/10/26/d8c2a8e257e64855a8b989bfee7a9290_18.jpg)
 
 ### Related:
 

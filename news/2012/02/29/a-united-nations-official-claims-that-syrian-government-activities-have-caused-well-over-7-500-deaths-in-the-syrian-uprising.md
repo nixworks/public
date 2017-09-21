@@ -10,6 +10,7 @@ Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troo
 1. [CNN](http://edition.cnn.com/2012/02/29/world/meast/syria-unrest/index.html?eref=edition)
 2. [Reuters](http://www.reuters.com/article/2012/02/29/us-syria-idUSL5E8DB0BH20120229?feedType=RSS&feedName=topNews)
 3. [USA Today](http://www.usatoday.com/news/world/story/2012-02-29/syria-troops-rebels-homs/53297516/1)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120228&t=2&i=576525477&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81R1PVW00)
 
 ### Related:
 

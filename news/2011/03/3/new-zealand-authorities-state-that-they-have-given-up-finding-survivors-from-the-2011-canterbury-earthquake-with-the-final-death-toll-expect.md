@@ -8,6 +8,7 @@ New Zealand rescue teams give up hope of finding more survivors from last week&#
 ### Source:
 
 1. [AP, Reuters, via MSNBC](http://www.msnbc.msn.com/id/41880208/ns/world_news-asiapacific/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110302-newZealand-652p.standard.jpg)
 
 ### Related:
 

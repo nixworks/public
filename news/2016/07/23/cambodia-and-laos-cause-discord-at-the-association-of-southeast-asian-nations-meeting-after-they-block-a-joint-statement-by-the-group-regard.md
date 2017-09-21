@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-southchinasea-ruling-asean-idUSKCN1030KU?il=0)
 2. [The New York Times](http://www.nytimes.com/aponline/2016/07/23/world/asia/ap-as-southeast-asian-meetings.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160723&t=2&i=1146755224&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6M0E3)
 
 ### Related:
 

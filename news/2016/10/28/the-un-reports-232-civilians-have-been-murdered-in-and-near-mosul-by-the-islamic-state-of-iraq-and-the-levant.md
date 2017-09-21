@@ -9,6 +9,7 @@ The extremist group has forced almost 8,000 families to leave the homes, probabl
 
 1. [CNN](http://edition.cnn.com/2016/10/28/middleeast/iraq-mosul-isis/)
 2. [NBC News](http://www.nbcnews.com/news/world/u-n-says-isis-executes-230-people-uses-tens-thousands-n674446)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_43/1770726/161028-iraq-mosul-smoke-852a_f238378e9f80042dde6f7073fcb358c0.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

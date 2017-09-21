@@ -8,6 +8,7 @@ Tens of thousands of Macedonians rally in support of PM Nikola Gruevski, a day a
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-32789747)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83078000/jpg/_83078424_027275418-1.jpg)
 
 ### Related:
 

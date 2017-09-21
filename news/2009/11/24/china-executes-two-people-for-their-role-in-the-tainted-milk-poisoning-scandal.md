@@ -10,6 +10,7 @@ State media says two executed over tainted milk that sickened thousands in 2008.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/2009112474935675377.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/nov/24/china-executes-milk-scandal-pair)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-11/24/content_12530798.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

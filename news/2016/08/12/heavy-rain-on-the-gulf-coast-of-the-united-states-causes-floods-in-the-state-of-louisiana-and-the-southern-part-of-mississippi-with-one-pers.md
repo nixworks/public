@@ -8,6 +8,7 @@ Here are the latest details from flooding along the Gulf Coast.
 ### Source:
 
 1. [Weather](https://weather.com/news/weather/news/gulf-coast-flooding-latest-news)
+1. [Cover Image](http://s.w-x.co/flood2_12.jpg)
 
 ### Related:
 

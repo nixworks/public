@@ -9,6 +9,7 @@ The Pentagon will deploy more missile interceptors on the Pacific Coast to count
 
 1. [CNN](http://edition.cnn.com/2013/03/15/us/north-korea-missile-defense)
 2. [The New York Times](http://www.nytimes.com/2013/03/16/world/asia/us-to-bolster-missile-defense-against-north-korea.html)
+2. [Cover Image](https://static01.nyt.com/images/2013/03/16/world/0316MILITARYjp/0316MILITARYjp-videoLarge.jpg)
 
 ### Related:
 

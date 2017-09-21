@@ -9,6 +9,7 @@
 
 1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15715508&PageNum=0)
 2. [KazInform](http://www.inform.kz/eng/article/2325862)
+2. [Cover Image](http://www.inform.kz/lenta/img/logo_en.png)
 
 ### Related:
 

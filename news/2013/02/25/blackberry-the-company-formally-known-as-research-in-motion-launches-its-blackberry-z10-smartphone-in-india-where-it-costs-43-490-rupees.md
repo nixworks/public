@@ -8,6 +8,7 @@ BlackBerry launched its first smartphone from its BlackBerry 10 line in India on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/25/us-blackberry-india-z-idUSBRE91O09E20130225)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130225&t=2&i=707206039&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91O0LUT00)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/09/201291575058714279.html)
 2. [Associated Press](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_DISPUTED_ISLANDS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-09-15-10-11-30)
 3. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120915a4.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/15/20129158295854734_20.jpg)
 
 ### Related:
 

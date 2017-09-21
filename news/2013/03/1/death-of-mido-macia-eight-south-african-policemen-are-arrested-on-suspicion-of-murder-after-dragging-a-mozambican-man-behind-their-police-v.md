@@ -9,6 +9,7 @@ Eight South African police officers are arrested over the death of a Mozambican 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21627554)
 2. [Reuters](http://www.reuters.com/article/2013/03/01/us-safrica-police-idUSBRE9200BW20130301)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66118000/jpg/_66118663_66118662.jpg)
 
 ### Related:
 

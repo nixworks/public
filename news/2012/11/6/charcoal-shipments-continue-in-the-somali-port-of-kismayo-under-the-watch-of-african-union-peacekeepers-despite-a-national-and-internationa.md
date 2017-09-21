@@ -8,6 +8,7 @@ Vessels depart from Kismayo port under watch of Kenyan peacekeepers serving unde
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/201211662514769781.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/9/24//2012924165539321734_20.jpg)
 
 ### Related:
 

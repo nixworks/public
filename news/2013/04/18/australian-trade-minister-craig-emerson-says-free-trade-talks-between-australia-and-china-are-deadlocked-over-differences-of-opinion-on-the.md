@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/business/international/australia-china-free/642348.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/674428/1370316057000/large16x9/640/360/business.jpg)
 
 ### Related:
 

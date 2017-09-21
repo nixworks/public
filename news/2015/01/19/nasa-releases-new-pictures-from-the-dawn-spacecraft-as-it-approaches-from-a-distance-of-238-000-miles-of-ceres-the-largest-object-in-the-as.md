@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/science-environment-30888818)
 2. [NASA](http://dawn.jpl.nasa.gov/feature_stories/Dawn_delivers_new_image.asp)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80374000/jpg/_80374397_80374396.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A former Chechen police officer was likely tortured into confessing to the murde
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/nemtsov-killing-suspect-likely-confessed-under-torture-russia-072215582.html;_ylt=AwrTWfzh9P9UyyQAWyrQtDMD)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/yH5_mAqcPhwUuK8Y1TzSgw--/aD02NDg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-REF-TS-Par8115888-1-1-0.jpg)
 
 ### Related:
 

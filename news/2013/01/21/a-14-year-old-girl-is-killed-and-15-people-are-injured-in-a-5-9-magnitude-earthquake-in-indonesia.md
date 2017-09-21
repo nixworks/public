@@ -9,6 +9,7 @@ A strong 5.9-magnitude earthquake has struck off Indonesia&#039;s Aceh province,
 
 1. [AFP via ABC](http://www.abc.net.au/news/2013-01-22/an-indon-quake/4478910)
 2. [CNN](http://www.cnn.com/2013/01/21/world/asia/indonesia-earthquake)
+2. [Cover Image](http://www.abc.net.au/news/image/3754204-1x1-700x700.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ The live blog has closed off. See our main article for all information on the si
 3. [Sky News](http://news.sky.com/story/1537096/bomb-blast-at-bangkok-shrine-kills-at-least-12)
 4. [The Bangkok Post](http://www.bangkokpost.com/news/security/658688/19-killed-123-hurt-as-bomb-blast-rocks-bangkok-tourist-attraction)
 5. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11498804)
+5. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201534/AP150818040108_1024x768.jpg)
 
 ### Related:
 

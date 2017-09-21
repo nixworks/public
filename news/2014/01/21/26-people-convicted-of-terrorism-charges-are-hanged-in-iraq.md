@@ -8,6 +8,7 @@ Iraq&#39;s Justice Ministry says 26 prisoners convicted of terrorism-related cha
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2014/01/21/iraq-hanging/4712199/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

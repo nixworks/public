@@ -8,6 +8,7 @@ The Pakistani military says it has killed at least 15 militants in air strikes i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27775071#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75414000/jpg/_75414082_pakistankhybertirah4640614.jpg)
 
 ### Related:
 

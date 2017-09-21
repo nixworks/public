@@ -14,6 +14,7 @@ Protest leaders claim command of capital after deadly anti-government clashes, r
 5. [RIA Novosti](http://en.rian.ru/world/20100407/158466764.html)
 6. [Russia Today](http://www.rt.com/Top_News/2010-04-07/kyrgyz-president-flees-country.html)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/07/c_13241258.htm)
+7. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

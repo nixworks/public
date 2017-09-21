@@ -12,3 +12,4 @@ The wife of a senior Chinese government official was hospitalised after being be
 3. [News24](http://www.news24.com/World/News/China-cops-in-beating-bungle-20100721)
 4. [Reuters](http://www.reuters.com/article/idUSTRE66K4J120100721)
 5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/7901837/Chinese-officials-wife-hospitalised-by-police-beating.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01682/flag_1682789a.jpg)

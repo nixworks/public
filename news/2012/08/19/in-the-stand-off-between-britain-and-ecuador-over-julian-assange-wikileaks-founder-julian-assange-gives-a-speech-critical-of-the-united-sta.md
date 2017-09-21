@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/uk-19310335)
 2. [Channel 4](http://www.channel4.com/news/julian-assange-a-modern-day-evita)
 3. [Fox News](http://www.foxnews.com/world/2012/08/19/wikileaks-founder-assange-to-make-first-public-appearance-in-2-months/#ixzz2414eDzSI)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2012/08/19/wikileaks-founder-assange-to-make-first-public-appearance-in-2-months/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421975020075.jpg?ve=1)
 
 ### Related:
 

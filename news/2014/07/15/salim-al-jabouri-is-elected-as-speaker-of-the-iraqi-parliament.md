@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://blogs.wsj.com/frontiers/2014/07/15/iraqi-parliament-breaks-deadlock-to-elect-a-new-speaker/)
+1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

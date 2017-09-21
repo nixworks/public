@@ -8,6 +8,7 @@ A cartoonist has disappeared from public view because she&#39;s on an Islamic cl
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/39203336/ns/us_news-security/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

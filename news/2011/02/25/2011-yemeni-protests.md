@@ -10,6 +10,7 @@ Sanaa, Feb 25 (DPA) At least nine people were wounded after security forces open
 1. [Bangkok Post](http://www.bangkokpost.com/news/world/223538/tens-of-thousands-rally-across-yemen)
 2. [Dow Jones via Trading Charts](http://news.tradingcharts.com/futures/0/2/154015820.html)
 3. [Sify India](http://www.sify.com/news/nine-injured-as-protests-continue-in-yemen-news-international-lczvkpbjbcj.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

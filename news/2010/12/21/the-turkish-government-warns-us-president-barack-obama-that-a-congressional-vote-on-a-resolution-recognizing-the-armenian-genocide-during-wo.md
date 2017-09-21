@@ -9,6 +9,7 @@ Istanbul, Dec 21 (DPA) The Turkish government has warned US President Barack Oba
 
 1. [ (''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/20/AR2010122002028.html)
 2. [Sify](http://www.sify.com/news/turkey-warns-us-over-armenia-genocide-resolution-news-international-kmvuOmajhfh.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

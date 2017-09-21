@@ -8,6 +8,7 @@ Microfossils found in Western Australia are the latest salvos in the battle for 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/08/22/science/earth/22fossil.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2011/08/22/science/earth/22fossil/22fossil-thumbStandard.jpg)
 
 ### Related:
 

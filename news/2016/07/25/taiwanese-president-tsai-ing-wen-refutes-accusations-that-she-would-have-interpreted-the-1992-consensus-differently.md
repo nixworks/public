@@ -8,6 +8,7 @@ TAIPEI • Taiwan&#039;s presidential office has refuted claims that President T
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/asia/east-asia/tsai-did-not-reject-one-china-consensus)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

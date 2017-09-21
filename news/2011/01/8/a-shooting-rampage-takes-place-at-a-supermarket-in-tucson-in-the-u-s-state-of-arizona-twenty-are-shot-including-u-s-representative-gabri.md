@@ -10,6 +10,7 @@ Congresswoman Gabrielle Giffords remains in critical condition, while at least s
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/20111818478375413.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12143774)
 3. [CNN](http://www.cnn.com/2011/CRIME/01/08/arizona.shooting/index.html?hpt=T1&iref=BN1)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/8/201118212116749436_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 12 persons were killed and two were injured when a cable car (doli) ins
 ### Source:
 
 1. [Pakistan Point News](https://www.pakistanpoint.com/en/pakistan/news/12-perish-as-cable-car-falls-156509.html)
+1. [Cover Image](https://imgcdn.pakistanpoint.com/media/2017/06/_3/730x425/pic_1498757540.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Islamist fighters have withdrawn from two towns in central Mali after French air
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21077137)
 2. [Bloomberg](http://www.bloomberg.com/news/2013-01-18/mali-army-secures-central-town-of-konna.html)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/mali/9812310/French-troops-take-back-key-Mali-town-from-militants.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65362000/jpg/_65362726_65362725.jpg)
 
 ### Related:
 

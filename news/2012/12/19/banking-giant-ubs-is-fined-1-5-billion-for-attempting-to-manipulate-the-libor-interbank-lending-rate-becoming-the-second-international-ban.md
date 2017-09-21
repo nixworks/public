@@ -8,6 +8,7 @@ Swiss banking giant is given $1.5bn fine for attempting to manipulate the Libor 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/2012121964142608595.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/19/2012121965845422734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A top lawmaker on Sunday created waves over two key aspects of the proposed merg
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/14/us-nyse-deutscheboerse-schumer-idUSTRE71C1V420110214)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110214&t=2&i=337070983&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-14T151907Z_01_BTRE71C1JGJ00_RTROPTP_0_DBOERSE-NYSE)
 
 ### Related:
 

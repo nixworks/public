@@ -8,6 +8,7 @@ Angela Merkel has vowed to &quot;win back trust&quot; after her party suffered a
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/merkel-defends-refugee-stance-after-poll-defeat-pledges-to-rebuild-trust/a-19527307)
+1. [Cover Image](http://www.dw.com/image/19527320_304.jpg)
 
 ### Related:
 

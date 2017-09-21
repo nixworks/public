@@ -8,6 +8,7 @@ Host and creator Don Francisco will continue contributing to the network.
 ### Source:
 
 1. [THR](http://www.hollywoodreporter.com/news/univision-end-sabado-gigante-53-789540)
+1. [Cover Image](http://cdn5.thr.com/sites/default/files/2015/04/don_francisco.jpg)
 
 ### Related:
 

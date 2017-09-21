@@ -8,6 +8,7 @@ At least 2,000 police officers were subject to three or more complaints by membe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11154488)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

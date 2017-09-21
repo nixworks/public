@@ -8,6 +8,7 @@ A day after Senator Hillary Rodham Clinton joined the race, Gov. Bill Richardson
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/01/22/us/politics/22richardson.html?ex=1327122000&en=458cb6118899e167&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/01/22/us/22richardson.75.jpg)
 
 ### Related:
 

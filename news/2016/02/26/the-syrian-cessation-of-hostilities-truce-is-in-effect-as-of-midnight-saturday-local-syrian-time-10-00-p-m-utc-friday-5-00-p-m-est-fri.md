@@ -11,6 +11,7 @@ Guns mostly fell silent in Syria and Russian air raids stopped on Saturday, the 
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-cessation-idUSKCN0VZ2Z6)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/12175668/Syrian-peace-talks-to-resume-if-ceasefire-holds.html)
 4. [text via U.S. State Dept.](http://www.state.gov/r/pa/prs/ps/2016/02/253115.htm)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120712817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1Q04U)
 
 ### Related:
 

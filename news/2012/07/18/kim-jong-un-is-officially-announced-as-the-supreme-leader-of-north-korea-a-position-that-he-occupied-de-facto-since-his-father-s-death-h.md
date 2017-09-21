@@ -9,6 +9,7 @@ NORTH Korea has made &quot;an important announcement&quot; - Kim Jong-un is the 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18881524#)
 2. [News Limited](http://www.news.com.au/world/north-korea-to-make-major-announcement/story-fndir2ev-1226429024978?from=public_rss)
+2. [Cover Image](http://cdn.newsapi.com.au/image/v1/ad93f5964e9c45d12b2458795144edd2)
 
 ### Related:
 

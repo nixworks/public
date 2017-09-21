@@ -14,6 +14,7 @@ A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a lan
 5. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/05/21/india.plane.crash/index.html?hpt=T1)
 6. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/05/23/india.plane.crash/index.html?hpt=T3)
 7. [RTÉ](http://www.rte.ie/news/2010/0522/india.html)
+7. [Cover Image](https://aviation-safety.net/photos/aircraft/20100522-0-P-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Looters in Chile have handed back stolen goods worth &pound;1.3 million ($2milli
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7397527/Chile-earthquake-looters-return-1.3-million-of-stolen-goods.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01592/chile2_1592366a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/22/us-pakistan-attacks-idUSBREA3L09Y20140422)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140422&t=2&i=890829260&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3L0LOE00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The pair were arrested in Haiti and flown to the U.S. on a Drug Enforcement Admi
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/11/12/2-nephews-venezuelan-first-lady-face-us-drug-smuggling-charges-ny/75639058/)
 2. [Venezuelanalysis.com](http://venezuelanalysis.com/news/11682)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

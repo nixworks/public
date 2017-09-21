@@ -8,6 +8,7 @@ Russia&#39;s bid for its first interplanetary mission in 15 years went awry on W
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/45208128/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/111108-space-phobos2-830p.standard.jpg)
 
 ### Related:
 

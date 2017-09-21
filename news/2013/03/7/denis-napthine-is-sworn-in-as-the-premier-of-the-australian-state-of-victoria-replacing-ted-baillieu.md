@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-03-07/who-is-denis-napthine/4557854)
+1. [Cover Image](http://www.abc.net.au/news/image/4557414-1x1-700x700.jpg)
 
 ### Related:
 

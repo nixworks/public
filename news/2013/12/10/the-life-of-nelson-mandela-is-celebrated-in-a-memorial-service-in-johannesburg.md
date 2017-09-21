@@ -9,6 +9,7 @@ Latest updates as the official memorial service for former South African preside
 
 1. [ABC News](http://abcnews.go.com/Politics/obama-cuban-president-raul-castro-shake-hands-nelson/story?id=21158776)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-25297913)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

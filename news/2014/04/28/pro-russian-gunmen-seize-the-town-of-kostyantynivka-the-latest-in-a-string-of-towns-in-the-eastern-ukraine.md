@@ -11,6 +11,7 @@ The United States imposed new sanctions on allies of Russian President Vladimir 
 2. [BBC](http://www.cnn.com/2014/04/28/world/europe/ukraine-crisis/)
 3. [NBC](http://www.nbcnews.com/storyline/ukraine-crisis/pro-ukraine-demonstration-donetsk-turns-violent-n91656)
 4. [Reuters](http://www.reuters.com/article/2014/04/28/us-ukraine-crisis-idUSBREA3O16720140428)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140428&t=2&i=892506836&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3R1FMF00)
 
 ### Related:
 

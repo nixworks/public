@@ -8,6 +8,7 @@ Four explosions rock the city of Dnipropetrovsk in eastern Ukraine, injuring at 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-17869249)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59905000/jpg/_59905588_medicsap.jpg)
 
 ### Related:
 

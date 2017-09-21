@@ -8,6 +8,7 @@ UK unemployment rose by 128,000 in the three months to October to 2.64 million, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16175309)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53412000/jpg/_53412829_unemploymentjobsukmayons.jpg)
 
 ### Related:
 

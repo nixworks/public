@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2010/US/08/03/northern.lights/?hpt=Mid#fbid=crHqzahSRoE)
 2. [Foxnews.com](http://www.foxnews.com/scitech/2010/08/03/spectacular-northern-lights-signals-sun-waking/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

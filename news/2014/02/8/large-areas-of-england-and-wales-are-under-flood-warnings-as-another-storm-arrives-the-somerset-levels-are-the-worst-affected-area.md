@@ -8,6 +8,7 @@ LARGE swathes of England and Wales are on flood alert as yet another storm with 
 ### Source:
 
 1. [news.com.au](http://www.news.com.au/world/breaking-news/storms-to-batter-flood-hit-britain/story-e6frfkui-1226821348287?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

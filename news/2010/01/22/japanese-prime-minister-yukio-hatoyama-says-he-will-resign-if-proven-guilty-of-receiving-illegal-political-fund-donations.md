@@ -9,6 +9,7 @@ Japanese Prime Minister Yukio Hatoyama said he will resign if proven guilty of r
 
 1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20100122p2a00m0na009000c.html)
 2. [UPI](http://www.upi.com/Top_News/International/2010/01/22/Hatoyama-ready-to-resign-if-proven-guilty/UPI-90301264193776/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/90301264193776/2010/1/8b9a84a8c4d914c12fa9a990abe24763/v2.1/Hatoyama-ready-to-resign-if-proven-guilty.jpg)
 
 ### Related:
 

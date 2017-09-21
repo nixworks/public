@@ -8,6 +8,7 @@ A Cook County probate judge on Friday declared wealthy Chicago adventurer Steve 
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/chi-steve-fossett-missing_webfeb16,1,1771069.story?ctrack=1&cset=true)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

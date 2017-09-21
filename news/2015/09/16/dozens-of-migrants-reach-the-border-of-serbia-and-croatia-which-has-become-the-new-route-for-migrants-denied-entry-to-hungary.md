@@ -9,6 +9,7 @@ The first group of migrants reaches Croatia after Hungary closes the main entry 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34272765)
 2. [BBC](http://www.bbc.com/news/world-europe-34264942)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C1F9/production/_85575694_85575426.jpg)
 
 ### Related:
 

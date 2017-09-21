@@ -8,6 +8,7 @@ The European Space Agency says its comet lander, Philae, has woken up and contac
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-33126885)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/83621000/jpg/_83621418_comet_on_5_june_2015_navcam.jpg)
 
 ### Related:
 

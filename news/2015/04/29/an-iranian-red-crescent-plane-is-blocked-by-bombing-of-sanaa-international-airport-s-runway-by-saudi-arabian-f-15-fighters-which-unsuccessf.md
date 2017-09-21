@@ -8,6 +8,7 @@ Bombing by aircraft that had ignored warning to turn back intended to prevent Ir
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/apr/28/aid-flights-to-yemen-blocked-after-saudi-arabia-bombs-airport-runway)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/28/1430244544909/420fe608-0523-40a7-821b-f77dacfd1fcd-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7a6db1d69f8cc6abb400508174582363)
 
 ### Related:
 

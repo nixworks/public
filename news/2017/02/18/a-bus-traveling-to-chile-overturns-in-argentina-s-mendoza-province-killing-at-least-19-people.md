@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-argentina-crash-idUSKBN15X0EY?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170218&t=2&i=1173211155&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1H0OC)
 
 ### Related:
 

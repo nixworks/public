@@ -8,6 +8,7 @@ Buenos Aires province governor Daniel Scioli will be meeting this week with all 
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/10/pope-triggers-scandalous-poverty-debate-in-argentina)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19772/200x200/09649cdc5e26af78a367b2191bf3af74.jpg)
 
 ### Related:
 

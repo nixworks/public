@@ -10,3 +10,4 @@ Suspected drunken driver was arrested after crash at North Carrollton and Orlean
 1. [AP via ABC News](http://www.abc.net.au/news/2017-02-26/new-orleans:-dozens-injured-after-vehicle-hits-crowd/8304624)
 2. [AP](http://hosted.ap.org/dynamic/stories/U/US_MARDI_GRAS_CAR_HITS_CROWD?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-02-25-21-12-09)
 3. [New Orleans Times-Picayune](http://www.nola.com/traffic/index.ssf/2017/02/12_hurt_when_vehicle_plows_int.html#incart_big-photo)
+3. [Cover Image](http://image.nola.com/home/nola-media/width620/img/crime_impact/photo/22150637-large.jpg)

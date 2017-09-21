@@ -8,6 +8,7 @@ Police in Taiwan investigate a self-proclaimed prophet whose doomsday warnings o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13253512)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52440000/jpg/_52440641_011848298-1.jpg)
 
 ### Related:
 

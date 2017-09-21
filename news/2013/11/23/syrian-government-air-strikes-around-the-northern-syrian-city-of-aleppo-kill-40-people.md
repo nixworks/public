@@ -8,6 +8,7 @@ Air strikes around the northern Syrian city of Aleppo killed at least 40 people 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/23/us-syria-crisis-strike-idUSBRE9AM06C20131123)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131123&t=2&i=814424094&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AM10XR00)
 
 ### Related:
 

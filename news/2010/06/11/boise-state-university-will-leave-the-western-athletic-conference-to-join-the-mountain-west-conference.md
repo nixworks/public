@@ -9,3 +9,4 @@ Boise State was announced as the next member of the Mountain West Conference on 
 
 1. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5276064)
 2. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5276551)
+2. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F68.png)

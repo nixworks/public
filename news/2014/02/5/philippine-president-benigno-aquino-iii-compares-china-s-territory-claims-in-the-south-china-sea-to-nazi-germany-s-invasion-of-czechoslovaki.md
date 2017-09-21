@@ -9,6 +9,7 @@ Benigno Aquino warns West must not attempt to appease China as it did Hitler but
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/10618722/Philippine-president-compares-Chinas-expansion-to-Nazi-Germany.html)
 2. [The New York Times](http://www.nytimes.com/2014/02/06/world/asia/philippines.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02812/Benigno_Aquino__2812383k.jpg)
 
 ### Related:
 

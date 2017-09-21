@@ -9,6 +9,7 @@ The new Aegis Ashore ballistic missile defense system at Romania’s Deveselu ai
 
 1. [AP via Yahoo News](http://news.yahoo.com/us-nato-certify-anti-missile-defense-south-romania-120109783.html)
 2. [RT](https://www.rt.com/news/326398-nato-missile-defense-romania/)
+2. [Cover Image](https://img.rt.com/files/2015.12/article/5673b42ec46188ae768b45ec.jpg)
 
 ### Related:
 

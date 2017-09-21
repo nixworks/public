@@ -8,6 +8,7 @@ Two children who visited the rabbis home separately in 2009, 2010, reported sexu
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=234262)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=139386)
 
 ### Related:
 

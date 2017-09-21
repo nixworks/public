@@ -9,6 +9,7 @@ The death toll from raging floods in India has neared 1,100 as more people drown
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/05/1997078.htm)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/06/1997312.htm)
+2. [Cover Image](http://www.abc.net.au/news/image/637650-1x1-700x700.jpg)
 
 ### Related:
 

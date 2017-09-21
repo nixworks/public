@@ -10,6 +10,7 @@ On the anniversary of the Islamic Revolution, Iran’s president sent forces ont
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/02/20102117332284608.html)
 2. [New York Times](http://www.nytimes.com/2010/02/12/world/middleeast/12iran.html)
 3. [New York Times](http://www.nytimes.com/2010/02/12/world/middleeast/12nuke.html)
+3. [Cover Image](https://static01.nyt.com/images/2010/02/11/world/11cnd-iranspan2/11cnd-iranspan2-thumbStandard.jpg)
 
 ### Related:
 

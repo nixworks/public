@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS Marketwatch](http://www.marketwatch.com/story/mazda-recall-reportedly-likely-to-top-500000-2010-08-18?siteid=rss)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

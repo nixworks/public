@@ -8,6 +8,7 @@ Thailand&#039;s deep south has been rocked by a string of bomb attacks and bruta
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2014-04-09/an-thailand-deep-south-rocked-by-bomb-attacks/5376630)
+1. [Cover Image](http://www.abc.net.au/news/image/5376602-1x1-700x700.jpg)
 
 ### Related:
 

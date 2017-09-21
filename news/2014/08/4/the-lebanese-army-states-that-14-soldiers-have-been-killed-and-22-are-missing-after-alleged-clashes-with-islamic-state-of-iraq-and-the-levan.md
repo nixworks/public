@@ -8,6 +8,7 @@ BEIRUT (Reuters) - The Lebanese army said on Monday 22 of its soldiers were miss
 ### Source:
 
 1. [First Post](http://www.firstpost.com/world/lebanese-army-says-22-soldiers-missing-14-killed-1649557.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2014/08/1f7breuters_world.xml_20.jpg)
 
 ### Related:
 

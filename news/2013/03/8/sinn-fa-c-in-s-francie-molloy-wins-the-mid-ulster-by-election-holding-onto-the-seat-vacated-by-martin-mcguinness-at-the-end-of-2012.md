@@ -8,6 +8,7 @@ Sinn Fein hold on to the Mid Ulster seat at Westminster left vacant by Martin Mc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-21692865)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66271000/jpg/_66271908_franciemolloyvictory.jpg)
 
 ### Related:
 

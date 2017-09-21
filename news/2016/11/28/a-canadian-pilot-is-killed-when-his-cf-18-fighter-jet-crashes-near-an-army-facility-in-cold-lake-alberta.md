@@ -8,6 +8,7 @@ A Royal Canadian Air Force pilot has been killed in a CF-18 fighter crash near a
 ### Source:
 
 1. [RT](https://www.rt.com/news/368484-canada-fighter-jet-crash)
+1. [Cover Image](https://img.rt.com/files/2016.11/article/583c9156c4618850198b45e9.jpg)
 
 ### Related:
 

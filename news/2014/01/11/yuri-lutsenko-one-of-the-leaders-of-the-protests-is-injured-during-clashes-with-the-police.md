@@ -8,6 +8,7 @@ MOSCOW -- Ukraine opposition leader Yuri Lutsenko was seriously injured when pro
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-ukraine-opposition-leader-20140111,0,3338928.story#axzz2q2LeQTMX)
+1. [Cover Image](http://www.trbimg.com/img-52d12184/turbine/la-fg-wn-ukraine-opposition-leader-20140111)
 
 ### Related:
 

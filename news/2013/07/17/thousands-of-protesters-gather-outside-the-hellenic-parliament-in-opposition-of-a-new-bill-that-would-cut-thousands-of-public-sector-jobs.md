@@ -8,6 +8,7 @@ Thousands of Greek workers chanting anti-austerity slogans flocked outside parli
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/07/17/us-greece-vat-idUSBRE96G14F20130717?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130717&t=2&i=751724499&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96G1HMJ00)
 
 ### Related:
 

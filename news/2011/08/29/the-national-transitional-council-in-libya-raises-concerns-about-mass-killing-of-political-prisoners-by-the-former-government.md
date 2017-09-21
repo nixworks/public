@@ -11,6 +11,7 @@ As many as 50,000 political prisoners may still be trapped in underground jails 
 2. [AP via France 24](http://www.france24.com/en/20110828-libya-evidence-mass-killings-found-tripoli-gaddafi?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110829&amp;f24_member_id=&amp;ns_linkname=node_5237945&amp;ns_fee=0)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-14709896)
 4. [Reuters](http://ca.reuters.com/article/topNews/idCATRE77A2Y920110829)
+4. [Cover Image](http://www.abc.net.au/news/image/2860404-1x1-700x700.jpg)
 
 ### Related:
 

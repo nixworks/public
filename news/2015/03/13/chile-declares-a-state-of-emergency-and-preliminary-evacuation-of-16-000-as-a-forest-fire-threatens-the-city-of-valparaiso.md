@@ -8,6 +8,7 @@ Firefighters have contained a huge forest blaze that had threatened the pictures
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/emergency-blaze-threatens-chile-port-city-020757125.html;_ylt=AwrSyCUAmQNVanUAx77QtDMD)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/5mKWzKWehBLkEAqMzaUJeA--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-MVD-Mvd6672436-1-1-1.jpg)
 
 ### Related:
 

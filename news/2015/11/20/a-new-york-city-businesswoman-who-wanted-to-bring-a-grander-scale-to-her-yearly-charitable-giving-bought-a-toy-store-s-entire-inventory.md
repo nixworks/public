@@ -8,6 +8,7 @@ A New York businesswoman who wanted to bring a &quot;grander scale&quot; to her 
 ### Source:
 
 1. [UPI](http://www.upi.com/Odd_News/2015/11/20/New-York-woman-buys-out-entire-toy-store-for-homeless-kids/9661448035784/?spt=hs&or=on)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/9661448035784/2015/1/14480361084274/v2.1/New-York-woman-buys-out-entire-toy-store-for-homeless-kids.jpg)
 
 ### Related:
 

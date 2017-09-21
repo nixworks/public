@@ -8,6 +8,7 @@ The Lebanese Army fires on a Syrian warplane over the northeast border town of A
 ### Source:
 
 1. [Lebanon Daily Star](http://www.dailystar.com.lb/News/Lebanon-News/2013/Dec-30/242651-syrian-warplanes-strike-outskirts-of-lebanon-border-town.ashx#axzz2oy9iTvaZ)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/12/30/177791_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

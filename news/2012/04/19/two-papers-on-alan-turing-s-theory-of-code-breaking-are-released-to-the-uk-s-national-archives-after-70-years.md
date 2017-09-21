@@ -8,6 +8,7 @@ After 70 years, two papers on the theory of code breaking by mathematician Alan 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-17771962)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59745000/jpg/_59745030_turing.jpg)
 
 ### Related:
 

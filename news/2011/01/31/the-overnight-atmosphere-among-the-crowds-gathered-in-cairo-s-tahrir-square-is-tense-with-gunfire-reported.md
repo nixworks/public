@@ -15,6 +15,7 @@ Hosni Mubarak ordered his new PM to preserve subsidies, control inflation and pr
 6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201113023414787871.html)
 7. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201113101237787481.html)
 8. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE70U2JC20110131)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/31/20111313497952734_20.jpg)
 
 ### Related:
 

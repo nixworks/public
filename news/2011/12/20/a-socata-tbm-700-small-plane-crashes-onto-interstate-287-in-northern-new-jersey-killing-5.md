@@ -8,3 +8,4 @@ A single-engine plane spun out of control over northern New Jersey and crashed o
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/12/21/nyregion/at-least-3-dead-after-small-plane-crashes-on-i-287-in-new-jersey.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

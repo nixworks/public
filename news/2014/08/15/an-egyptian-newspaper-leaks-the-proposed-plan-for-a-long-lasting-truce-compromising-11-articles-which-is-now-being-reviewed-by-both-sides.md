@@ -8,3 +8,4 @@ Clauses as reported by Egyptian newspaper al-Shorouk
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/text-of-egypts-11-point-ceasefire-proposal/)
+1. [Cover Image](http://cdn.timesofisrael.com/images/facebook_toi_300.jpg)

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/business/2010/07/201071254050262298.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 37 people are killed after a bus swerves into oncoming traffic in Peru,
 ### Source:
 
 1. [AFP via ABC news](http://www.abc.net.au/news/2015-03-24/at-least-34-dead-dozens-injured-in-peru-bus-pile-up/6342628)
+1. [Cover Image](http://www.abc.net.au/news/image/6342786-1x1-700x700.jpg)
 
 ### Related:
 

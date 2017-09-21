@@ -8,6 +8,7 @@ Medvedev and Kan to hold talks in Japanese city amid tensions over territorial d
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010111273530981722.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/12/2010111281121492784_20.jpg)
 
 ### Related:
 

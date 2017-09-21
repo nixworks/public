@@ -9,6 +9,7 @@
 
 1. [KTLA](http://www.kansascw.com/kscw/news/ktla-gays-military,0,5548815.story)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69D5HQ20101014)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101014&t=2&i=225916764&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-14T204819Z_01_BTRE69D1I3Z00_RTROPTP_0_GAYMARRIAGE-CALIFORNIA-COURT)
 
 ### Related:
 

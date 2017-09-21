@@ -9,6 +9,7 @@
 
 1. [AP via BBCNews](http://www.bbc.co.uk/news/world-latin-america-29494375)
 2. [The Washington post](http://www.washingtonpost.com/blogs/worldviews/wp/2014/10/05/its-rousseff-and-neves-in-brazil-and-a-slap-at-a-polling-station/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/78025000/jpg/_78025025_78025024.jpg)
 
 ### Related:
 

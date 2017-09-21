@@ -13,6 +13,7 @@ A top Taliban commander and his deputy are among dozens of insurgents killed in 
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-19306435)
 5. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/5-killed-in-suicide-attack-at-Quetta-in-Pakistan/articleshow/15543506.cms)
 6. [protest](http://www.mofa.gov.pk/mfa/pages/article.aspx?id=1269&type=1)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

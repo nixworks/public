@@ -9,6 +9,7 @@ Five people on board an Iranian helicopter were killed when it crashed into the 
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2016/Nov-27/383004-helicopter-crashes-in-iran-killing-five-official.ashx)
 2. [Press TV](http://www.presstv.ir/Detail/2016/11/27/495357/iran-chopper-crash-air-abmulance-crash)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2017/01/11/41844_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

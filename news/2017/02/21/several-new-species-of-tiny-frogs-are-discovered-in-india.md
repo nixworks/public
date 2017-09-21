@@ -8,6 +8,7 @@ Some of the smallest known frogs were recently discovered following a five-year 
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/tiny-new-frog-species-found-in-india/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/02/21/e957e31a-7cb5-43e8-b7a3-e53d08ff75fd/tiny-frogs-1.jpg)
 
 ### Related:
 

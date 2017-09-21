@@ -8,6 +8,7 @@ A jury fails to reach a verdict in the retrial of a policeman accused of raciall
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-20083782)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63498000/jpg/_63498344_alex-macfarlane_pa.jpg)
 
 ### Related:
 

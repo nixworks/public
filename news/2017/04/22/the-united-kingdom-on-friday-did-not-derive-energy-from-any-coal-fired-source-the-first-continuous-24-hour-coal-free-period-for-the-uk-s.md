@@ -8,6 +8,7 @@ The country has its first full day without using coal to generate electricity si
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/today-is-britains-first-coal-free-day-since-industrial-revolution-10844972)
+1. [Cover Image](http://e3.365dm.com/17/04/1600x900/25855d86b516e186adbbd2897513704798f52e436993d3b644fc50a35d2d689b_3935665.jpg?20170421145053)
 
 ### Related:
 

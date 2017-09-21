@@ -8,6 +8,7 @@ This is to cover the $1.966 billion awarded to them by a US jury in 1992, and th
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/129598-human-rights-victims-claim-marcos-art-collection)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/7A23CBF9E6A842D6B04443BF518AC874/martiallaw-freedoms-20120921.jpg)
 
 ### Related:
 

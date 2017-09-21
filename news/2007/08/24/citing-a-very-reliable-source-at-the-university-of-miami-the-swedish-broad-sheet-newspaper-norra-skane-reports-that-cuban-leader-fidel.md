@@ -9,6 +9,7 @@
 
 1. [Norra Skåne](http://www.nsk.se/apps/pbcs.dll/article?AID=/20070824/HASSELEHOLM_NYHEDER/708240030&kroniker)
 2. [The Expressen](http://www.expressen.se/nyheter/1.812132/skansk-lokaltidning-castro-dod)
+2. [Cover Image](http://www.expressen.se/static/images/wasp-for-facebook.png)
 
 ### Related:
 

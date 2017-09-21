@@ -10,6 +10,7 @@ Seven people are still missing after an apparent explosion at an apartment build
 1. [CBC](http://www.cbc.ca/news/canada/story/2011/03/27/woodstock-explosion.html)
 2. [Toronto Sun](http://www.torontosun.com/news/canada/2011/03/27/17772331.html)
 3. [Victoria Times Colonist](http://www.timescolonist.com/Seven+people+missing+seven+taken+hospital+after+Ontario+apartment+explosion/4512141/story.html)
+3. [Cover Image](https://i.cbc.ca/1.2036490.1381643941!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-woodstock-aftermath-852.jpg)
 
 ### Related:
 

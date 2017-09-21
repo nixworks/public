@@ -8,6 +8,7 @@ Lance Hart, 57, is said to have used a shotgun to kill wife Claire, 50, and thei
 ### Source:
 
 1. [Daily Mirror](http://www.mirror.co.uk/news/uk-news/spalding-shooting-live-updates-three-8446975)
+1. [Cover Image](http://i3.mirror.co.uk/incoming/article8451625.ece/ALTERNATES/s1200/PAY-SWNS_COLLECT_SHOOTING_01.jpg)
 
 ### Related:
 

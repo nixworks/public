@@ -8,6 +8,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 ### Source:
 
 1. [Newsday; AP](http://www.newsday.com/news/nationworld/world/wire/sns-ap-iraq-bodies-found,0,7161192.story?coll=sns-ap-world-headlines)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

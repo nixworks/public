@@ -9,6 +9,7 @@ About 88 containers have fallen into the sea, and at least one of them contained
 
 1. [AFP via SBS News Australia](http://www.sbs.com.au/news/article/1596213/Toxic-chemical-in-NZ-ship-toppled-cargo)
 2. [toxic](http://cameochemicals.noaa.gov/chemical/17269)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/3/9/3906_nz-cargo-ship-l-111013-nzn.jpg)
 
 ### Related:
 

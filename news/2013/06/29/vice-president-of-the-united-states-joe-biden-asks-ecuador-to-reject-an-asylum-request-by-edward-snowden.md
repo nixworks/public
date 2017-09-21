@@ -8,6 +8,7 @@ US Vice President Joe Biden has asked Ecuador to turn down an asylum request fro
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/us-vice-president-joe-biden-asks-ecuador-to-refuse-asylum-for-whistleblower-edward-snowden-8680110.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/10/22/joe-biden-gt.jpg)
 
 ### Related:
 

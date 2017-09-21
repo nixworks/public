@@ -9,6 +9,7 @@ Transistors are the basic building blocks of electronics; now they can be made w
 
 1. [Discovery News](http://news.discovery.com/tech/biotechnology/dna-computer-closer-molecular-transistor-130328.htm)
 2. [NPR](http://www.npr.org/2013/03/29/175604770/tiny-dna-switches-aim-to-revolutionize-cellular-computing)
+2. [Cover Image](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5148955%2F980x.jpg/2000%2C2000/1wsrnJqJ5rLQZM7M/img.jpg)
 
 ### Related:
 

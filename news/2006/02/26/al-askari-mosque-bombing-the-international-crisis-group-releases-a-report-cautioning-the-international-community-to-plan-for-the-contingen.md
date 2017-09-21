@@ -8,6 +8,7 @@ After a violent week in Iraq, the possibility of large-scale Sunni-Shiite confli
 ### Source:
 
 1. [CSMonitor](http://www.csmonitor.com/2006/0227/p01s03-woiq.html)
+1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
 ### Related:
 

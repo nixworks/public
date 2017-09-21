@@ -9,6 +9,7 @@
 
 1. [Fox news](http://www.foxnews.com/world/2011/01/11/lebanese-leader-says-deal-lebanon/?test=latestnews)
 2. [The Australian](http://www.theaustralian.com.au/news/world/hezbollah-collapses-lebanon-government-as-hariri-meets-obama/story-e6frg6so-1225986945027)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/01/11/lebanese-leader-says-deal-lebanon/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446977426464.jpg?ve=1)
 
 ### Related:
 

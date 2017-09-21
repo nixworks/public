@@ -9,6 +9,7 @@ Suspects comprise affiliates, sympathizers, few foreigners says Libyan National 
 
 1. [Associated Press via ''The Guardian](http://www.guardian.co.uk/world/2012/sep/16/us-withdraws-diplomats-tunisia-sudan)
 2. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=285283)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=202823)
 
 ### Related:
 

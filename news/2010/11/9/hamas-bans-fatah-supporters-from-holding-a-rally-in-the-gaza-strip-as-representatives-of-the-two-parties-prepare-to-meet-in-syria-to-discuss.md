@@ -8,6 +8,7 @@ The decision comes as representatives of the Fatah and Hamas prepare to meet in 
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194540)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=141766)
 
 ### Related:
 

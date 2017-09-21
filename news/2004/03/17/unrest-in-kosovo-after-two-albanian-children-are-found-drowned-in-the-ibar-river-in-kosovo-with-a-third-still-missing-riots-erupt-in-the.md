@@ -15,6 +15,7 @@ United Nations officials described the clashes as the worst violence in Kosovo s
 6. [NYT](http://www.nytimes.com/2004/03/17/international/europe/17CND-KOSO.html?hp)
 7. [RTS, in Serbian](http://www.rts.rs/jedna_vest.asp?source=komentar&IDNews=71242)
 8. [SwissInfo](http://www.swissinfo.org/sen/Swissinfo.html?siteSect=143&sid=4798093)
+8. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

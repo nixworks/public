@@ -8,6 +8,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/template/template.asp?template=Terrortrail&slug=LeT+militant+Mohammed+Afroze+convicted&id=76337&callid=1&category=National)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

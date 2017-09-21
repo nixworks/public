@@ -9,6 +9,7 @@ Nawaz Sharif tells his supporters that voters have handed him a landmark third t
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-05-12/nawaz-sharif-declares-victory-in-pakistan-election/4683996)
 2. [News Limited](http://www.news.com.au/world-news/strong-turnout-for-pakistan-vote-but-17-killed/story-fndir2ev-1226640012939)
+2. [Cover Image](http://www.abc.net.au/news/image/4684012-1x1-700x700.jpg)
 
 ### Related:
 

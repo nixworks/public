@@ -8,6 +8,7 @@ Sweden has recalled its ambassador to Sri Lanka after Colombo barred Swedish For
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/southAsiaNews/idINIndia-39294720090428)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090428&t=2&i=9882987&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2009-04-28T173040Z_01_NOOTR_RTRMDNC_0_India-392947-3)
 
 ### Related:
 

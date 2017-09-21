@@ -9,6 +9,7 @@ India has begun evacuating thousands of people from fishing villages as it brace
 
 1. [AFP via SBS](http://www.sbs.com.au/news/article/2014/10/12/mass-evacuations-india-cyclone-hudhud-threatens-coast)
 2. [The Weather Channel](http://www.weather.com/news/weather-hurricanes/tropical-cyclone-hudhud-india-bay-bengal-20141008?hootPostID=19187e1acb6a7b69d35ae0cd8df7c659)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/hudhud_india_111014_aap.jpg)
 
 ### Related:
 

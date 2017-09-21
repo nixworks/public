@@ -8,6 +8,7 @@ While we&#39;ve been dutifully eating our fruits and vegetables all these years,
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/37396355/ns/health-diet_and_nutrition/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100708-tomatoes-hmed.standard.jpg)
 
 ### Related:
 

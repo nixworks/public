@@ -10,6 +10,7 @@ Chinese Premier Wen Jiabao said his country will undertake a &quot;step by step&
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/03/20113149279262665.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12729687)
 3. [India Economic Times](http://economictimes.indiatimes.com/news/politics/nation/wen-promises-political-reforms-but-only-under-cpc/articleshow/7700232.cms)
+3. [Cover Image](http://img.etimg.com/photo/6325547.cms)
 
 ### Related:
 

@@ -14,6 +14,7 @@
 5. [Reuters](http://www.reuters.com/article/2011/09/08/usa-flooding-idUSN1E78719D20110908)
 6. [The Times Leader](http://www.timesleader.com/news/Mandatory-Evacuation-of-Wyoming-Valley.html)
 7. [WGAL](http://www.wgal.com/news/29113067/detail.html)
+7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

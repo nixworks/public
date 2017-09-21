@@ -8,6 +8,7 @@ Police in northern Bangladesh arrest an army major for allegedly carrying hundre
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10674120)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

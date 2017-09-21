@@ -8,6 +8,7 @@ Tunisian Prime Minister Hamadi Jebali resigns after failing to form a new govern
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21508498)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65969000/jpg/_65969624_017274624.jpg)
 
 ### Related:
 

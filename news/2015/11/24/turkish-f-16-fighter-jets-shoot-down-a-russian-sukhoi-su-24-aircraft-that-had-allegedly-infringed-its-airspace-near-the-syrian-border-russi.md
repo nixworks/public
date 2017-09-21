@@ -15,6 +15,7 @@ Turkish warplanes shoot down a Russian military aircraft on the border with Syri
 6. [Irish Independent](http://www.independent.ie/world-news/middle-east/turkey-shoots-down-russian-fighter-jet-near-syrian-border-34228526.html)
 7. [Reuters](http://www.reuters.com/article/2015/11/24/us-mideast-syria-crisis-helicopter-idUSKBN0TD1KQ20151124)
 8. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/12013212/Turkey-shoots-down-Russian-military-plane-on-Syria-border-live.html)
+8. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/654E/production/_86843952_86843951.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue effo
 ### Source:
 
 1. [AP, Reuters via ''The Japan Times](http://www.japantimes.co.jp/news/2017/06/18/national/bodies-missing-uss-fitzgerald-sailors-found-ships-flooded-compartments/)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2017/06/n-fitz-b-20170619-870x578.jpg)
 
 ### Related:
 

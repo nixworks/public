@@ -12,6 +12,7 @@ Iran hangs the leader of the Jundullah Sunni militant group, blamed for a string
 3. [Reuters](http://uk.reuters.com/article/idUKTRE65J0BC20100620)
 4. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=773ded3805559210VgnVCM100000360a0a0aRCRD&s=News&ss=Asia+%26+World)
 5. [The Sysney Morning Herald](http://www.smh.com.au/world/rebel-sunni-group-leader-hanged-over-civilian-and-military-deaths-20100620-yp8n.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

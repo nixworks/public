@@ -10,6 +10,7 @@
 1. [Euronews](http://euronews.net/create_html.php?page=detail_info&article=301436&lng=1&PHPSESSID=f6c6669aa7ad4ac460a44eb6ffc29569)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-28T130445Z_01_KNE834109_RTRUKOC_0_BULGARIA-CABINET.xml)
 3. [Sofia News Agency](http://www.novinite.com/view_news.php?id=50618)
+3. [Cover Image](http://www.novinite.com/media/images/)
 
 ### Related:
 

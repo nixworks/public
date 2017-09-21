@@ -8,6 +8,7 @@ Former Alberta premier Jim Prentice was among the four people killed in a small-
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/calgary/jim-prentice-plane-crash-killed-1.3804941)
+1. [Cover Image](https://i.cbc.ca/1.2964296.1476465886!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/alberta-premier-jim-prentice.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The US condemns the killing of Iranian nuclear scientist Mostafa Ahmadi-Roshan i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16519304)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57834000/jpg/_57834145_013679006-1.jpg)
 
 ### Related:
 

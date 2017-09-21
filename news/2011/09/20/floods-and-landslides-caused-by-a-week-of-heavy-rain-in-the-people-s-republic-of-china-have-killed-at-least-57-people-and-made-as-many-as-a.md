@@ -8,6 +8,7 @@ Floods and landslides in China triggered by days of heavy rain kill dozens of pe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14981928)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55468000/jpg/_55468377_55468376.jpg)
 
 ### Related:
 

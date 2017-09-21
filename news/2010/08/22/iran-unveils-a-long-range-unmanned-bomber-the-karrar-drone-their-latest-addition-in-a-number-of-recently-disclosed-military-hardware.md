@@ -9,6 +9,7 @@
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-0823-iran-drone-20100823,0,3576835.story)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/22/mahmoud-ahmadinejad-iran-bomber-drone)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

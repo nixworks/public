@@ -8,6 +8,7 @@ The strain of E. coli blamed for 46 deaths in Germany appears to have resurfaced
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/06/26/france.e.coli/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/26/france.e.coli/tzvids.bertrand.afp.gi.jpg)
 
 ### Related:
 

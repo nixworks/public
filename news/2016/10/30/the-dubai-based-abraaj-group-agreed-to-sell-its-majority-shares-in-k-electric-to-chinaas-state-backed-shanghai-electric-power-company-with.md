@@ -9,3 +9,4 @@ SEP was among a number of Chinese bidders, including China Southern Power Grid, 
 
 1. [Dawn News](http://www.dawn.com/news/1293227)
 2. [Geo TV](https://www.geo.tv/latest/119243-Abraaj-to-sell-K-Electric-stake-to-Shanghai-Electric-for-18-bln)
+2. [Cover Image](https://www.geo.tv/assets/uploads/updates/2016-10-30/119243_091205_updates.jpg)

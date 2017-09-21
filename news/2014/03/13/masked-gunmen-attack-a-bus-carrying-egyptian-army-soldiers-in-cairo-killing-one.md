@@ -8,6 +8,7 @@ Masked gunmen opened fire on an army bus in Cairo on Thursday, killing one soldi
 ### Source:
 
 1. [AP via ''The Hindu](http://www.thehindu.com/news/international/gunmen-attack-army-bus-in-cairo-kill-1-soldier/article5780699.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

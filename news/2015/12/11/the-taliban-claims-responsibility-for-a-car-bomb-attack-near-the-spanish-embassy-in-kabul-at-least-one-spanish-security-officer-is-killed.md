@@ -8,6 +8,7 @@ Taliban fighters mounted a car bomb attack on a guest house near the Spanish emb
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN0TU1N220151211#CPCHO6JKPGU8GgqF.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151211&t=2&i=1101664772&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBA18X)
 
 ### Related:
 

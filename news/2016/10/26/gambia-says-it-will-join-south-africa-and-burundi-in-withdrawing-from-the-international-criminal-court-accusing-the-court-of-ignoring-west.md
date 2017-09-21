@@ -8,6 +8,7 @@ The Gambia is the latest country to say it will leave the International Criminal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-37771592)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/149C3/production/_92091448_07f44296-c0bd-45e4-aef7-dceea75486f7.jpg)
 
 ### Related:
 

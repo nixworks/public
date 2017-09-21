@@ -9,6 +9,7 @@ Palestinian inmates in Israeli jails have agreed to end their mass hunger strike
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18062016)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=269964)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60231000/jpg/_60231043_60093498.jpg)
 
 ### Related:
 

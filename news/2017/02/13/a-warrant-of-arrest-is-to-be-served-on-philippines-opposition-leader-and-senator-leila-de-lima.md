@@ -8,6 +8,7 @@ Senator Leila de Lima is ready to face the charges and go to jail in case the Ju
 ### Source:
 
 1. [CNN](http://cnnphilippines.com/news/2017/02/13/De-Lima-arrest-DOJ-Aguirre.html)
+1. [Cover Image](http://cnnphilippines.com/news/ett5kq-De_Lima_senate_CNNPH.jpg/ALTERNATES/LANDSCAPE_640/De_Lima_senate_CNNPH.jpg)
 
 ### Related:
 

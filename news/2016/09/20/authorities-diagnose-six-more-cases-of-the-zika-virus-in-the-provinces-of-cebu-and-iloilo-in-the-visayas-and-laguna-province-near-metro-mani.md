@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://cnnphilippines.com/news/2016/09/20/doh-zika-6-new-cases-iloilo-cebu-laguna.html)
+1. [Cover Image](http://cnnphilippines.com/incoming/ay3cb5-mosquitos_Zika_CNNPH.png/ALTERNATES/LANDSCAPE_640/mosquitos_Zika_CNNPH.png)
 
 ### Related:
 

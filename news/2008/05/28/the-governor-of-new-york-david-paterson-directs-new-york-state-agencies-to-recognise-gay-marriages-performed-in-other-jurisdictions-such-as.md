@@ -8,6 +8,7 @@ Gov. David A. Paterson has directed all state agencies to begin to revise their 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/05/29/nyregion/29marriage.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

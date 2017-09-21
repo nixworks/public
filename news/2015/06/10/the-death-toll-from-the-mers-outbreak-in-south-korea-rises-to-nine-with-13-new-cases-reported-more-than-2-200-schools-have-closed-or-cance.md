@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/10/health-mers-southkorea-deaths-idUSKBN0OP2N520150610)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150609&t=2&i=1055036799&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5813V)
 
 ### Related:
 

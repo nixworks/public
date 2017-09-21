@@ -9,6 +9,7 @@
 
 1. [BBC News](http://www.bbc.co.uk/news/world-africa-23628549)
 2. [Xinhua](http://news.xinhuanet.com/english/africa/2013-08/09/c_132617255.htm)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69196000/jpg/_69196557_69196556.jpg)
 
 ### Related:
 

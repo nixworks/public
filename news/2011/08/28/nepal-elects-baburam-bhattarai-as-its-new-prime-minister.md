@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/28/nepal.politics/index.html?hpt=hp_t2)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/08/28/nepal.politics/tzvids.bhattarai.afp.gi.jpg)
 
 ### Related:
 

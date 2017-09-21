@@ -8,6 +8,7 @@ Police in Indonesia say they have arrested an alleged Indian underworld don who 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/34634900)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/121C6/production/_86328147_86328145.jpg)
 
 ### Related:
 

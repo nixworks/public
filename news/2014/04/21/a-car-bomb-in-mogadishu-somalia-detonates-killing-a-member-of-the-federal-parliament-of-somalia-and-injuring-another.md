@@ -8,6 +8,7 @@ A car bomb kills an MP and injures another in the Somali capital, Mogadishu, as 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27102639)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74353000/jpg/_74353402_74353401.jpg)
 
 ### Related:
 

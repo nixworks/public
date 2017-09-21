@@ -9,6 +9,7 @@ Police confirm that fugitive gunman Raoul Moat died after shooting himself durin
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk/10583839.stm)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/7882867/Raoul-Moat-treated-for-gun-shot-wound-as-six-hour-stand-off-ends.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48313000/jpg/_48313223_009775522-1.jpg)
 
 ### Related:
 

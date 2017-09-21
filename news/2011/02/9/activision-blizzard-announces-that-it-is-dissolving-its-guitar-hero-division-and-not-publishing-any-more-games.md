@@ -8,6 +8,7 @@ Activision will disband its Guitar Hero business unit and cancel True Crime: Hon
 ### Source:
 
 1. [Gamasutra](http://www.gamasutra.com/view/news/32946/Activision_Dissolves_Guitar_Hero_Business_Refocuses_On_Digital.php)
+1. [Cover Image](http://www.gamasutra.com/db_area/images/news2001/32946/ripgh.jpg)
 
 ### Related:
 

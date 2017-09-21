@@ -8,6 +8,7 @@ Massacre of 11 Chinese road construction workers and Afghan guard as they slept 
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/06/11/international/asia/11afgh.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

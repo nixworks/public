@@ -8,6 +8,7 @@ The accident happened when a train slammed into a packed minibus as it crossed a
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/14-killed-in-collision/2323452.html?cid=twtcna)
+1. [Cover Image](http://www.channelnewsasia.com/image/2324198/1449414177000/large16x9/640/360/jakarta-accident.png)
 
 ### Related:
 

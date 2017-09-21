@@ -9,6 +9,7 @@ A sharp rise in insurgent attacks in Afghanistan causes a 31% rise in civilian c
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10922405)
 2. [Voice of America](http://www1.voanews.com/english/news/asia/Suicide-Attack-on-Security-Company-Kills-2-in-Kabul-100368894.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

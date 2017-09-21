@@ -8,6 +8,7 @@ Australian airline Qantas says it is keeping its Airbus A380s grounded for furth
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11707459)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

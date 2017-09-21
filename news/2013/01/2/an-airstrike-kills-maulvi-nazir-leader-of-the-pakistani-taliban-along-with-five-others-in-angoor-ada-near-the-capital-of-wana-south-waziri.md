@@ -8,6 +8,7 @@ Senior Pakistani militant leader Mullah Nazir is killed by a US drone strike in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20896755)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64456000/jpg/_64456022_64456021.jpg)
 
 ### Related:
 

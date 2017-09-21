@@ -9,6 +9,7 @@ Democracy leader’s party will now be able to push through legislation, form a 
 
 1. [The Economist](http://www.economist.com/news/asia/21678474-its-official-miss-suu-kyis-national-league-democracy-will-choose-next-president-not)
 2. [The Guardian](http://www.theguardian.com/world/2015/nov/13/aung-san-suu-kyi-wins-myanmar-landmark-election)
+2. [Cover Image](https://i.guim.co.uk/img/media/ef4be085dc7e54b1f79a060c4ec14e1e24124cb0/0_67_3696_2219/master/3696.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=44f5b31366f4c388d0250d968bf33ccb)
 
 ### Related:
 

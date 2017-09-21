@@ -8,6 +8,7 @@ An estimated 20,000 people participated in the biggest anti-nuclear protest in S
 ### Source:
 
 1. [Swiss Info](http://www.swissinfo.ch/eng/swiss_news/Anti-nuclear_protests_attract_20,000.html?cid=30291990)
+1. [Cover Image](http://www.swissinfo.ch/image/30291112/3x2/640/426/f5a3a7482600772bede2af623f4c173a/So/nuclear-protest-30291114.jpg)
 
 ### Related:
 

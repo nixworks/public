@@ -10,6 +10,7 @@ That move has enraged China and may complicate President Obama’s effort to enl
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iFTjEdqfGm15acXhHDE-9BrryOoA)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1168621&lang=eng_news)
 3. [The New York Times](http://www.nytimes.com/2010/01/30/world/asia/30arms.html)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

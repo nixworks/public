@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/29/malawi.gay.couple/index.html)
 3. [Hindustan Times](http://www.hindustantimes.com/Malawi-president-pardons-jailed-gay-couple/Article1-550378.aspx)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/29/c_13322913.htm)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

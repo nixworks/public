@@ -8,6 +8,7 @@ Liberal National Party leader Lawrence Springborg has conceded defeat in the Que
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/national/labor-wins-fifth-term-in-qld-20090321-9524.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/9/5/4/5/image.related.articleLeadwide.620x349.9524.png/1237675983180.jpg)
 
 ### Related:
 

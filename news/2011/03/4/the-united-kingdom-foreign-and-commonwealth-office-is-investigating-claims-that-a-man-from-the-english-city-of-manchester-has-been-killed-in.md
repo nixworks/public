@@ -17,6 +17,7 @@ Libyan forces loyal to leader Muammar Gaddafi fought their way into a town near 
 8. [Reuters](http://www.reuters.com/article/2011/03/04/us-libya-zawiyah-idUSTRE7233T220110304)
 9. [Sky News](http://news.sky.com/skynews/Article/201009115945138)
 10. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-At-Least-Thirty-People-Killed-After-Army-Opens-Fire-In-City-Of-Zawiyah/Article/201103115945264?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15945264_Libya:_At_Least_Thirty_People_Killed_After_Army_Opens_Fire_In_City_Of_Zawiyah)
+10. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A suspected arson fire badly damaged a Bellevue mosque early Saturday morning. P
 ### Source:
 
 1. [Seattle Post-Intelligencer](http://www.seattlepi.com/local/komo/article/Fire-burns-Eastside-mosque-one-arrested-10857906.php)
+1. [Cover Image](http://ww1.hdnux.com/photos/56/40/17/12190656/3/rawImage.jpg)
 
 ### Related:
 

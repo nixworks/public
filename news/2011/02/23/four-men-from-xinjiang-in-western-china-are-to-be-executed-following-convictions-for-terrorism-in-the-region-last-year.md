@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12548724)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/china/China-to-execute-four-Uighurs-in-western-region/articleshow/7556653.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

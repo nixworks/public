@@ -8,6 +8,7 @@ Ukrainian forces struck at pro-Russian separatist bases in eastern regions with 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/01/us-ukraine-crisis-idUSKBN0F52OO20140701?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140701&t=2&i=915491372&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA601OW)
 
 ### Related:
 

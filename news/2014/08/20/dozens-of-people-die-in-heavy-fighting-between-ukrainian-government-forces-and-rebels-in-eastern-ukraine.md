@@ -8,6 +8,7 @@ DONETSK, Ukraine: Fierce fighting between government forces and pro-Russian rebe
 ### Source:
 
 1. [AFP via Arab News](http://www.arabnews.com/news/618621)
+1. [Cover Image](http://www.arabnews.com/sites/default/files/2014/08/20/1408547547539873900.jpg)
 
 ### Related:
 

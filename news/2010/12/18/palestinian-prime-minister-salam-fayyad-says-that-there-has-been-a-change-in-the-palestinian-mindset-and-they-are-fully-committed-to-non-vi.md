@@ -8,6 +8,7 @@ In Israeli television interview, PA prime minister says Palestinian mindset chan
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=200004)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=137728)
 
 ### Related:
 

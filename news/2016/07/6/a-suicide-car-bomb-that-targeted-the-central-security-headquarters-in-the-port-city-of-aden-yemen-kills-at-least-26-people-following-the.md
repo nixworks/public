@@ -9,6 +9,7 @@
 
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/07/06/world/middleeast/ap-ml-yemen.html?_r=0)
 2. [Reuters](http://www.reuters.com/article/us-yemen-blast-idUSKCN0ZM090?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

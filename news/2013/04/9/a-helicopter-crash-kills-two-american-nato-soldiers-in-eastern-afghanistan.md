@@ -10,6 +10,7 @@ A helicopter crash in eastern Afghanistan killed two American members of the NAT
 1. [CNN](http://www.cnn.com/2013/04/09/world/asia/afghanistan-helicopter-crash/)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2013/04/09/17671234-2-us-service-members-killed-in-afghanistan-helicopter-crash)
 3. [Reuters](http://www.reuters.com/article/2013/04/09/us-afghanistan-nato-crash-idUSBRE9380JD20130409)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

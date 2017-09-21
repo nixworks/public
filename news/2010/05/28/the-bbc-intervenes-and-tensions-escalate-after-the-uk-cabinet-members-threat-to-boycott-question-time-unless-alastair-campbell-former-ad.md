@@ -11,6 +11,7 @@ The UK government refused to field a cabinet minister on the BBC&#39;s Question 
 2. [RTÉ](http://www.rte.ie/news/2010/0528/ukpolitics.html)
 3. [Sky News](http://news.sky.com/skynews/Home/Politics/BBC-Question-Time-Downing-Street-Refuse-To-Allow-Cabinet-Minister-Because-Campbell-Was-On-The-Panel/Article/201005415639838?lpos=Politics_News_Your_Way_Region_8&lid=NewsYourWay_ARTICLE_15639838_BBC_Question_Time%3A_Downing_Street_Refuse_To_Allow_Cabinet_Minister_Because_Campbell_Was_On_The_Panel)
 4. [The Guardian](http://www.guardian.co.uk/media/2010/may/28/television-bbc)
+4. [Cover Image](https://img.rasset.ie/00035668-1600.jpg)
 
 ### Related:
 

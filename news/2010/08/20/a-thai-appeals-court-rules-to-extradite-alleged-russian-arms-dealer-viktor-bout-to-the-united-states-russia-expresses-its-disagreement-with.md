@@ -11,6 +11,7 @@ An alleged arms dealer nicknamed &quot;The Merchant of Death&quot;, who has been
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11033781)
 3. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/92474.html)
 4. [The Independent](http://www.independent.co.uk/news/world/politics/russia-and-us-go-to-war-over-merchant-of-death-2058066.html)
+4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/08/20/20/436570.bin)
 
 ### Related:
 

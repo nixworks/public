@@ -8,6 +8,7 @@ KABUL, Afghanistan--Eleven people, including eight Turkish nationals, were captu
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-afghanistan-helicopter-kidnap-20130422,0,7957285.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

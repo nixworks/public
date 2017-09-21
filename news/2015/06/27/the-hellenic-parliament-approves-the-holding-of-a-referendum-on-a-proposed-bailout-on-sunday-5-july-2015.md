@@ -8,6 +8,7 @@ Greek parliament approves motion to hold referendum on creditors&#39; fiscal ref
 ### Source:
 
 1. [AP, Reuters via Breaking News](http://www.breakingnews.com/item/2015/06/27/greek-parliament-approves-motion-to-hold-referendu/)
+1. [Cover Image](http://static.breakingnews.com/images/logo-square.png)
 
 ### Related:
 

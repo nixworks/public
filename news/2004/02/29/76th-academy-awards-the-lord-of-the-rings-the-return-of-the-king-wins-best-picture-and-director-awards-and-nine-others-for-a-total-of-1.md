@@ -10,6 +10,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 1. [Box Office Mojo](http://www.boxofficemojo.com/oscar/chart/?view=allcategories&yr=2003&p=.htm)
 2. [IMDB](http://www.imdb.com/)
 3. [Newsday](http://www.newsday.com/entertainment/movies/ny-oscarwinners-list,0,6833602.story?coll=ny-movies-bigpix)
+3. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

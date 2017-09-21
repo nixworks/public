@@ -10,6 +10,7 @@ A Taliban suicide car bomb hitthe Indian Embassy in Kabul on Monday, killing 41 
 1. [AFP via ''The Melbourne Age](http://news.theage.com.au/world/28-killed-in-suicide-attack-at-indias-afghanistan-embassy-20080707-3331.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7492601.stm)
 3. [Reuters](http://in.reuters.com/article/companyNews/idINISL16402520080707)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

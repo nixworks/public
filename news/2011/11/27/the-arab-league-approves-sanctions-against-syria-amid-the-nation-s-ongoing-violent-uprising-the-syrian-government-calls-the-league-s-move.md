@@ -8,6 +8,7 @@ Syria, already facing a growing military insurgency, was left isolated after its
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8919029/Syria-isolated-after-unprecedented-Arab-League-sanctions.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02067/EGYPT-SYRIA-ARAB_2067783a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of UN peacekeepers will be sent to the Central African Republic after 
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2014-04-11/un-peacekeepers-sent-to-central-african-republic/5382790)
+1. [Cover Image](http://www.abc.net.au/news/image/5382816-1x1-700x700.jpg)
 
 ### Related:
 

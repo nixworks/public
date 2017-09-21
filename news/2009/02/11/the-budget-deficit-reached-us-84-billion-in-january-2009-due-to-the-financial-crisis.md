@@ -9,6 +9,7 @@ U.S. congressional negotiators on Wednesday reached a deal on $789 billion in em
 
 1. [Market Watch](http://www.marketwatch.com/news/story/US-Jan-budget-deficit-840/story.aspx?guid={66E74623-DEBF-4E6C-A12D-944D8134F66A})
 2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE51A61L20090211)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090211&t=2&i=8226168&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-11T235554Z_01_BTRE51A1JE600_RTROPTP_0_USA-STIMULUS)
 
 ### Related:
 

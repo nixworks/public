@@ -9,6 +9,7 @@ In a case that may have national implications, the Richmond-based 4th U.S. Circu
 
 1. [Richmond Times-Dispatch](http://www.richmond.com/news/virginia/article_7ec45a28-5b5f-585f-a200-b7aba2cdd940.html)
 2. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/04/19/u-s-civil-rights-commission-says-north-carolinas-bathroom-law-jeopardizes-the-physical-safety-of-transgender-people/)
+2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/4c/34c5f2d5-093f-55a0-ba5f-9651c2068d18/5768780ac7b03.preview.jpg?resize=920%2C505)
 
 ### Related:
 

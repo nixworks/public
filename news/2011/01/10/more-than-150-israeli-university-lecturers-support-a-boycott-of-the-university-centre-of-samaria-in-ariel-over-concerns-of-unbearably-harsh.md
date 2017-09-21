@@ -9,6 +9,7 @@ MORE THAN 150 Israeli university lecturers have signed a petition calling for a 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111918558150780.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0110/1224287155599.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

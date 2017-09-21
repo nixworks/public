@@ -9,6 +9,7 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 
 1. [CNN](http://www.cnn.com/2004/TECH/space/04/08/mars.rovers/)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=4790517&section=news)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Up to 30 injured in the blast close to security checkpost on Jamrud Road
 
 1. [AFP via RTE](http://www.rte.ie/news/2016/0119/761199-pakistan/)
 2. [Geo TV](http://www.geo.tv/latest/100406-Five-killed-several-injured-in-blast-near-Peshawar-checkpost)
+2. [Cover Image](https://www.geo.tv/assets/uploads/updates/2016-01-19/100406_061547_updates.jpg)
 
 ### Related:
 

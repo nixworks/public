@@ -12,6 +12,7 @@ Swell Season, the Oscar-winning Irish act fronted by Glen Hansard, have said the
 3. [Hot Press](http://www.hotpress.com/The%20Swell%20Season/news/The-Swell-Season-issue-suicide-tragedy-statement-to-Hot-Press/6824929.html)
 4. [NME](http://www.nme.com/news/various-artists/52573)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0820/breaking57.html)
+5. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

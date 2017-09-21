@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NJ.com](http://www.nj.com/news/index.ssf/2011/05/us_appeals_court_orders_that_c.html)
+1. [Cover Image](http://image.nj.com/home/njo-media/width620/img/ledgerupdates_impact/photo/2011/04/9478096-standard.jpg)
 
 ### Related:
 

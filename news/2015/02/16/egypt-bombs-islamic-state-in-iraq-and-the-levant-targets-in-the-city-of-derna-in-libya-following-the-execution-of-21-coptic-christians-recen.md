@@ -8,6 +8,7 @@ Egypt says it has bombed Islamic State targets in Libya, hours after video emerg
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-31483631)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81038000/jpg/_81038861_81038860.jpg)
 
 ### Related:
 

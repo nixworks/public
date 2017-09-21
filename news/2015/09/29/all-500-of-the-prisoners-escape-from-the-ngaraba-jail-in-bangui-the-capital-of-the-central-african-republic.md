@@ -9,6 +9,7 @@ Breakout occurs after days of violence that have seen about 30 deaths, as interi
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFKCN0RT0NP20150929)
 2. [The Guardian](http://www.theguardian.com/world/2015/sep/28/hundreds-break-out-main-jail-central-african-republic)
+2. [Cover Image](https://i.guim.co.uk/img/media/9333beaf6eb4b32b92834d97146d809df1738511/177_0_3279_1969/master/3279.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f9a83ebf43b54e175942605c4dc2b0d7)
 
 ### Related:
 

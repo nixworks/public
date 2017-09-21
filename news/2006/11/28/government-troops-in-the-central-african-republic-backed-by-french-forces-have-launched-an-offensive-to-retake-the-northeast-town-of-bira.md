@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6191754.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-11-28T133023Z_01_L28169067_RTRUKOC_0_US-CENTRALAFRICA-REBELS-FRANCE.xml&WTmodLoc=IntNewsHome_C2_worldNews-8)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

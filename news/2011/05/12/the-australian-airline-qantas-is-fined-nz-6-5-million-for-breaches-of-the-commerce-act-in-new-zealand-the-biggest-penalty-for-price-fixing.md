@@ -8,6 +8,7 @@ The High Court in Auckland has ordered Qantas Airways to pay a $6.5 million pena
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10725134)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201120/Qantas_A380PE_1024x768.jpg)
 
 ### Related:
 

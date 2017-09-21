@@ -8,6 +8,7 @@ Fragments of an ancient continent are buried beneath the floor of the Indian Oce
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21551149)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66028000/gif/_66028046_c0130502-sturtian_glaciatio.gif)
 
 ### Related:
 

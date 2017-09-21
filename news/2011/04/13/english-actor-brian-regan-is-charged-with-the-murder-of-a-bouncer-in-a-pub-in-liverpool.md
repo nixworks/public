@@ -8,6 +8,7 @@ A former Brookside actor appears in court charged with the murder of a nightclub
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-13059167)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52133000/jpg/_52133220_bahmanfarjar.jpg)
 
 ### Related:
 

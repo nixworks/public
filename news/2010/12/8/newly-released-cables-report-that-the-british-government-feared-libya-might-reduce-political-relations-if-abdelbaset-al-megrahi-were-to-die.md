@@ -14,6 +14,7 @@ Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in respons
 5. [The Guardian](http://www.guardian.co.uk/media/2010/dec/08/mastercard-hackers-wikileaks-revenge)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/dec/08/wikileaks-us-russia-visa-mastercard)
 7. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/08/AR2010120804038.html)
+7. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/8/2010128171325439876_20.jpg)
 
 ### Related:
 

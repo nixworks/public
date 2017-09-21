@@ -8,3 +8,4 @@
 ### Source:
 
 1. [RT](http://on.rt.com/1pzxwj)
+1. [Cover Image](https://img.rt.com/files/news/29/3e/c0/00/000_mvd6560347.si.jpg)

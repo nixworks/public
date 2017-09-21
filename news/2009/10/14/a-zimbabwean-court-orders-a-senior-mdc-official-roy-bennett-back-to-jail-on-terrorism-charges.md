@@ -9,6 +9,7 @@ Zimbabwean court orders MDC treasurer detained ahead of trial on terrorism charg
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009101420304911779.html)
 2. [South Africa Times](http://www.timeslive.co.za/news/world/article151450.ece)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

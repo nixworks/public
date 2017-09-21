@@ -8,6 +8,7 @@ Figures from the Department of health confirm that 19 people have been hospitali
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0730/swineflu.html)
+1. [Cover Image](https://img.rasset.ie/00027b27-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18453996)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60924000/jpg/_60924614_q5tr7la5.jpg)
 
 ### Related:
 

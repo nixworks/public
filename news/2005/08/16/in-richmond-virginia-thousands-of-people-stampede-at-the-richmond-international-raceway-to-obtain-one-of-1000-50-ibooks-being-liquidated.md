@@ -11,6 +11,7 @@ A rush to purchase $50 used laptops turned into a violent stampede Tuesday, with
 2. [MSNBC](http://msnbc.msn.com/id/8973616/)
 3. [Richmond Times-Dispatch](http://www.timesdispatch.com/servlet/Satellite?pagename=RTD/MGArticle/RTD_BasicArticle&c=MGArticle&cid=1031784469916)
 4. [macworld uk](http://www.macworld.co.uk/news/index.cfm?NewsID=12366&Page=1&pagePos=2)
+4. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photos/050816/050816_laptop_hlg_2p.standard.jpg)
 
 ### Related:
 
@@ -22,4 +23,5 @@ A rush to purchase $50 used laptops turned into a violent stampede Tuesday, with
 6. [ Queen Elizabeth II of the United Kingdom begins a tour of Virginia with a speech to the General Assembly of Virginia in Richmond in honour of the 400th anniversary of the first permanent English settlement in Jamestown, Virginia. She also meets with victims of the Virginia Tech Massacre before departing for Colonial Williamsburg. ](/news/2007/05/3/queen-elizabeth-ii-of-the-united-kingdom-begins-a-tour-of-virginia-with-a-speech-to-the-general-assembly-of-virginia-in-richmond-in-honour.md) _Context: Richmond, Virginia_
 7. [ A suspicious brown substance is found in envelope at the Virginia Supreme Court building in Richmond, Virginia, United States, on the same day that Senator John McCain (R-AZ) speaks at the Jefferson Hotel. ](/news/2007/02/12/a-suspicious-brown-substance-is-found-in-envelope-at-the-virginia-supreme-court-building-in-richmond-virginia-united-states-on-the-same.md) _Context: Richmond, Virginia_
 8. [ Police are investigating the New Year's Day murder of Bryan Harvey, who with his wife and two young daughters were found dead with their throats slashed in the basement of their South Side Richmond, Virginia, home, which was then set afire. Harvey was former singer and guitarist of 1980s band House of Freaks and his wife was the half-sister of Steven Culp, who played Rex Van De Kamp on "Desperate Housewives". The fire was discovered by Johnny Hott, HOF bandmate and drummer for the band Cracker ](/news/2006/01/2/police-are-investigating-the-new-year-s-day-murder-of-bryan-harvey-who-with-his-wife-and-two-young-daughters-were-found-dead-with-their-th.md) _Context: Richmond, Virginia_
-9. [ Apple Computer released the first iBook](/news/1999/06/21/apple-computer-released-the-first-ibook.md) _Context: iBook_
+9. [ Tropical Storm Gaston douses Richmond, Virginia, with up to 14&nbsp;inches of rain, causing widespread flooding. Governor Mark Warner declares a state of emergency in Central Virginia. ](/news/2004/08/30/tropical-storm-gaston-douses-richmond-virginia-with-up-to-14-nbsp-inches-of-rain-causing-widespread-flooding-governor-mark-warner-decla.md) _Context: Richmond, Virginia_
+10. [ Apple Computer released the first iBook](/news/1999/06/21/apple-computer-released-the-first-ibook.md) _Context: iBook_

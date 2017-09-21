@@ -10,6 +10,7 @@ Kuwait said today it had foiled an al-Qaeda-linked plan to bomb a US army camp a
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8195401.stm)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE57A35F20090811)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0811/breaking56.htm)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ State media say rebels forced out of areas near Aleppo airport as the UN chooses
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/2012817112413251884.html)
 2. [Reuters](http://www.reuters.com/article/2012/08/17/us-syria-crisis-idUSBRE8610SH20120817)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/17/2012817193449421734_20.jpg)
 
 ### Related:
 

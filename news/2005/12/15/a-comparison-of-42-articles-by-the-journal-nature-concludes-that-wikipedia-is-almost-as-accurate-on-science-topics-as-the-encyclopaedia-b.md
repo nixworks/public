@@ -10,6 +10,7 @@ In the wake of questions of accuracy, a survey by the science journal Nature fin
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/4530930.stm)
 2. [NPR](http://www.npr.org/templates/story/story.php?storyId=5055388)
 3. [Nature](http://www.nature.com/news/2005/051212/full/438900a.html)
+3. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

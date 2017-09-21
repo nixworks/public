@@ -8,6 +8,7 @@
 ### Source:
 
 1. [yjc.ir](http://www.yjc.ir/fa/news/5596181/%D9%85%D8%B1%DA%AF-%D8%AF%D9%84%D8%AE%D8%B1%D8%A7%D8%B4-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%85%D8%B1%D8%AF%D9%85-%D9%85%D8%B1%D8%A7%D8%BA%D9%87-%D8%B9%DA%A9%D8%B3)
+1. [Cover Image](http://www.yjc.ir/files/fa/news/1395/2/18/4487566_823.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Soldier is in critical condition after sustaining stab wounds to his neck in att
 ### Source:
 
 1. [YNet](http://www.ynetnews.com/articles/0,7340,L-4670755,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/06/21/6121657/612165301001196640360no.jpg)
 
 ### Related:
 

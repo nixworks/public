@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/sony-took-another-online-property-down-last-night-2011-5)
+1. [Cover Image](http://static1.businessinsider.com/image/4cb47c107f8b9ada0a4d0300-1190-625/sony-12700-credit-card-numbers-may-have-been-stolen.jpg)
 
 ### Related:
 

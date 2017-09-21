@@ -8,6 +8,7 @@ Former Virginia Gov. Bob McDonnell was sentenced Tuesday to two years in federal
 ### Source:
 
 1. [AP via FOX News](http://www.foxnews.com/politics/2015/01/06/ex-virginia-gov-bob-mcdonnell-makes-bid-to-avoid-prison/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2015/01/06/ex-virginia-gov-bob-mcdonnell-makes-bid-to-avoid-prison/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1438271897125.jpg?ve=1)
 
 ### Related:
 

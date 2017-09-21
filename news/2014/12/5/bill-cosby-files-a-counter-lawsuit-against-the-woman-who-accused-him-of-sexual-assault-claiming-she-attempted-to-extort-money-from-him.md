@@ -8,6 +8,7 @@ Bill Cosby files a legal action against the woman accusing him of sexual assault
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-30343324)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79529000/jpg/_79529148_79529143.jpg)
 
 ### Related:
 

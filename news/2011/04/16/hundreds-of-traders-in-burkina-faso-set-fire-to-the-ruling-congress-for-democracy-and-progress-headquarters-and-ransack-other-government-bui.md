@@ -10,6 +10,7 @@ Authorities in Burkina Faso place the capital Ouagadougou under curfew as unrest
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/2011416135127178281.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13107109)
 3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE73F07N20110416?sp=true)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52206000/jpg/_52206772_011775364-1.jpg)
 
 ### Related:
 

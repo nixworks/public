@@ -10,6 +10,7 @@ Sinn FÃ©in president Gerry Adams has revealed that his late father subjected fam
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8423357.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1220/adams.html)
 3. [The Observer](http://www.guardian.co.uk/politics/2009/dec/20/gerry-adams-sexual-abuse)
+3. [Cover Image](https://img.rasset.ie/00028659-1600.jpg)
 
 ### Related:
 

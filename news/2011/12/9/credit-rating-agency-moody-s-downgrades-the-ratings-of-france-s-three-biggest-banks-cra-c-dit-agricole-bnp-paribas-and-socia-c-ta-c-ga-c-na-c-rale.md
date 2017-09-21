@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16105237)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55360000/jpg/_55360548_frenchbanksdowngrade.jpg)
 
 ### Related:
 

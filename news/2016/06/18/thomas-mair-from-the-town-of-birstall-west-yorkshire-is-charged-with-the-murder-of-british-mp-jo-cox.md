@@ -9,6 +9,7 @@ Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot;
 
 1. [BBC](http://www.bbc.com/news/uk-36567005#)
 2. [West Yorkshire Police](http://www.westyorkshire.police.uk/news/death-batley-and-spen-mp-jo-cox)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1818E/production/_90020789_mair.jpg)
 
 ### Related:
 

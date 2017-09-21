@@ -8,6 +8,7 @@ King Albert named Flemish Christian Democrat Herman Van Rompuy as Belgian prime 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4BT3G920081230)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081230&t=2&i=7685828&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-12-30T153746Z_01_BTRE4BT17F500_RTROPTP_0_BELGIUM)
 
 ### Related:
 

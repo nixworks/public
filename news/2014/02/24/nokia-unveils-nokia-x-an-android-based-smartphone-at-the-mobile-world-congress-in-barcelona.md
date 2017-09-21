@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NDTV](http://gadgets.ndtv.com/mobiles/news/nokia-x-nokia-x-and-nokia-xl-dual-sim-android-based-smartphones-launched-487448)
+1. [Cover Image](http://cdn.ndtv.com/tech/images/nokia_xl.jpg)
 
 ### Related:
 

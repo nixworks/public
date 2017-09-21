@@ -8,6 +8,7 @@ Left-wing rebels in Colombia kill at least eight police officers and wound sever
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11268352)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

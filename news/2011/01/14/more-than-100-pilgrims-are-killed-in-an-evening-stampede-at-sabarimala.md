@@ -9,3 +9,4 @@ A stampede of pilgrims returning from one of India&#039;s most popular Hindu fes
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/8261037/Indian-temple-stampede-kills-over-100.html)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Sabarimala-stampede-kills-over-100-scores-injured/articleshow/7287925.cms)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01804/hindu_1804136a.jpg)

@@ -11,6 +11,7 @@ President Jacob Zuma has revealed his HIV status as he launched a scaled-up coun
 2. [China Post](http://www.chinapost.com.tw/international/africa/2010/04/26/253932/Zuma-announces.htm)
 3. [France24](http://www.france24.com/en/20100425-zuma-breaks-taboo-launching-safrican-hiv-tests)
 4. [News24](http://www.news24.com/SouthAfrica/Politics/Zuma-breaks-Aids-taboo-20100425)
+4. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

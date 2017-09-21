@@ -9,6 +9,7 @@ The number of reporters behind bars has reached a record high in 2016, according
 
 1. [CNN](http://money.cnn.com/2016/12/13/media/jailed-journalists-turkey/)
 2. [The New York Times](http://www.nytimes.com/2016/12/13/world/europe/record-number-of-journalists-jailed-in-2016-press-advocacy-group-says.html?_r=0)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/161213132354-turkey-media-protests-780x439.jpg)
 
 ### Related:
 

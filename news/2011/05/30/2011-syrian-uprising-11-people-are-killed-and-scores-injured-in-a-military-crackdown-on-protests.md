@@ -11,6 +11,7 @@ Four Yemeni soldiers were killed and dozens injured in what appeared to be an am
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13592935)
 3. [Reuters](http://www.reuters.com/article/2011/05/30/us-yemen-soldiers-idUSTRE74T0M420110530)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/may/30/western-troops-on-ground-libya)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

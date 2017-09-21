@@ -9,6 +9,7 @@ The legislation which gives statutory partnership rights to gay and lesbian coup
 
 1. [RTÉ](http://www.rte.ie/news/2009/0822/bradys.html)
 2. [Sunday Independent](http://www.independent.ie/national-news/cardinal-slams-gay-weddings-1867305.html)
+2. [Cover Image](https://img.rasset.ie/00028924-1600.jpg)
 
 ### Related:
 

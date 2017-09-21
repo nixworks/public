@@ -10,6 +10,7 @@ A magnitude 5.5 earthquake struck the central Chilean coast on Saturday, south o
 1. [BNO News](http://bnonews.com/news/index.php/news/id2698)
 2. [Reuters](http://www.reuters.com/article/2015/11/21/us-chile-quake-idUSKCN0TA0YO20151121#5lKVYtVxkQPPjQf3.97)
 3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10004077#general_summary)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

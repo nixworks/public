@@ -10,6 +10,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 1. [AFP via ''Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20101220-310071/Pope-says-Church-must-admit-paedophile-crisis-mistakes)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12039499)
 3. [The China Post](http://www.chinapost.com.tw/international/europe/2010/12/21/284482/Church-must.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

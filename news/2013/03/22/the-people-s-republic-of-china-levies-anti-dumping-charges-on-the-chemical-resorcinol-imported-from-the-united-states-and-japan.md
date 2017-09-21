@@ -8,6 +8,7 @@ China levied final anti-dumping duties on the chemical resorcinol imported from 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/03/22/uk-china-trade-antidumping-idUKBRE92L02K20130322)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130322&t=2&i=715122020&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92L084C00)
 
 ### Related:
 

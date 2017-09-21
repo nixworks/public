@@ -8,6 +8,7 @@ Opposition leader Henrique Capriles demands investigation into shooting that kil
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/09/201293014942312228.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/9/30//2012930194633941734_20.jpg)
 
 ### Related:
 

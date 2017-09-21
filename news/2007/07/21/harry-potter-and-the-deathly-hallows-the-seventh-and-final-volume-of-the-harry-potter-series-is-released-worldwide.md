@@ -11,6 +11,7 @@
 2. [New Delhi Television Limited](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20070019741)
 3. [Reuters via Malaysia Star](http://thestar.com.my/news/story.asp?file=/2007/7/21/worldupdates/2007-07-21T043906Z_01_NOOTR_RTRMDNC_0_-285770-9&sec=Worldupdates)
 4. [Reuters](http://www.reuters.com/article/newsOne/idUSL2065605320070724)
+4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070724&t=2&i=1176975&w=&fh=545px&fw=&ll=&pl=&sq=&r=1176975)
 
 ### Related:
 

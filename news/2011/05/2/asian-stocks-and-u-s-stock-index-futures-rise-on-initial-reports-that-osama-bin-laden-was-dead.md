@@ -8,3 +8,4 @@ Asian stocks rose on Monday andU.S. stock index futures extended gains on the ba
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/02/markets-global-idUSL3E7G205O20110502)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

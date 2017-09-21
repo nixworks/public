@@ -8,6 +8,7 @@ China expressed its opposition on Thursday to unilateral sanctions against North
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-china-idUSKCN0WJ0QC)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160317&t=2&i=1125532329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2G0DT)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The US secretly agreed to give the Russians sensitive information on Britain&rsq
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8304654/WikiLeaks-cables-US-agrees-to-tell-Russia-Britains-nuclear-secrets.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01819/vanguard_1819364a.jpg)
 
 ### Related:
 

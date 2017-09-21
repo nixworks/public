@@ -12,6 +12,7 @@ Berlusconi wins no-confidence vote but result exposes weakness of ruling coaliti
 3. [France24](http://www.france24.com/en/20100804-berlusconi-gvt-survives-no-confidence-vote-against-junior-minister-caliendo)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/04/silvio-berlusconi-gianfranco-fini-vote)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0804/1224276148111.html)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

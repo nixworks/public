@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Hill](http://thehill.com/business-a-lobbying/business-a-lobbying/350226-russian-network-rt-must-register-as-foreign-agent-in)
+1. [Cover Image](http://thehill.com/sites/default/files/justicedepartmentdoj_091217getty.jpg)
 
 ### Related:
 

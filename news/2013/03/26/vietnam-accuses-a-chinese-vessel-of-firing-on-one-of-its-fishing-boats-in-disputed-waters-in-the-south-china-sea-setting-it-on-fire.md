@@ -8,6 +8,7 @@ China defends the action of one of its patrol boats which is accused of opening 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21935059)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66605000/jpg/_66605815_017478504-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Attitudes inside the BBC towards sexual exploitation of teenage girls have chang
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/home-news/newsnight-should-have-continued-jimmy-savile-report-directorgeneral-george-entwistle-admits-bbc-culture-over-sexual-exploitation-has-changed-too-little-8222484.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/10/23/12/Entwistle-Savile.jpg)
 
 ### Related:
 

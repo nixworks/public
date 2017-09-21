@@ -8,6 +8,7 @@ Toronto Mayor Rob Ford is taking a leave of absence to seek help for substance a
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/rob-ford-taking-leave-of-absence-lawyer-says-1.2627832)
+1. [Cover Image](https://i.cbc.ca/1.2628159.1403620088!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/rob-ford.jpg)
 
 ### Related:
 

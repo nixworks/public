@@ -8,6 +8,7 @@ Philippe Varin, chief executive of the Anglo-Dutch steel company Corus, will suc
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/03/30/business/global/30peugeot.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/03/29/business/30peugeot_75.jpg)
 
 ### Related:
 

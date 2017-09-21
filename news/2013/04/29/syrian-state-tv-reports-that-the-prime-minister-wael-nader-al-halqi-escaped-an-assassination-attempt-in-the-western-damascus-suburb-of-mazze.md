@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CTV News](http://www.ctvnews.ca/world/syrian-state-tv-pm-escaped-assassination-attempt-in-damascus-1.1258113)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1258917.1367261626!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

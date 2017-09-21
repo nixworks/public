@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CTV](http://www.ctvnews.ca/world/ex-teacher-who-became-guerrilla-commander-sworn-in-as-president-of-el-salvador-1.1848387)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1848389.1401670679!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At a memorial service for those killed in the Christchurch earthquake, Prince Wi
 ### Source:
 
 1. [SBS](http://www.sbs.com.au/news/article/1502567/New-Zealand's-earthquake-victims-mourned)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/s/i/site_1_rand_814223578_prince_william_b_getty_110318.jpg)
 
 ### Related:
 

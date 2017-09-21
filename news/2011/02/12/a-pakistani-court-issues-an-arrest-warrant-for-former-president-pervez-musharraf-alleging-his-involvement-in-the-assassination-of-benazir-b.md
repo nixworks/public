@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/20112129419939362.html)
 2. [Associated Press](http://apnews.myway.com/article/20110212/D9LB81BO0.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/12/2011212101545286360_20.jpg)
 
 ### Related:
 

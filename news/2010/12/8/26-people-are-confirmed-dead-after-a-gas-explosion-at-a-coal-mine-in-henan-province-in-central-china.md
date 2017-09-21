@@ -10,6 +10,7 @@ Death toll rises to 26 as more bodies are found after gas explosion in a coal mi
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/12/201012825315196441.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/08/china.mine.explosion/index.html?eref=edition)
 3. [China Daily](http://www.chinadaily.com.cn/china/2010-12/08/content_11670178.htm)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/8/2010128181028673884_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Navy christened the USS Gerald Ford on Saturday with the traditional smashin
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/us/2013/11/09/navy-christens-next-generation-aircraft-carrier/?intcmp=obnetwork)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/110913/0/0/110913_anhq_aircraftcarrier_640.jpg?ve=1)
 
 ### Related:
 

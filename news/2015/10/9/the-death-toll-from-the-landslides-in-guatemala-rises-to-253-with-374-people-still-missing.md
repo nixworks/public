@@ -8,6 +8,7 @@ A hillside collapsed onto Santa Catarina Pinula on the south-eastern edge of Gua
 ### Source:
 
 1. [Reuters via ''Melbourne Age](http://www.theage.com.au/world/death-toll-from-massive-landslide-in-guatemala-rises-to-253-hundreds-more-still-missing-20151009-gk5uh7.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/g/k/5/u/h/p/image.related.articleLeadwide.620x349.gk5uh7.png/1444423834673.jpg)
 
 ### Related:
 

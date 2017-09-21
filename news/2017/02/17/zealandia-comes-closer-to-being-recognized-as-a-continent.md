@@ -9,6 +9,7 @@ The landmass – about two-thirds the size of Australia – of which 94% is unde
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39000936)
 2. [The Guardian](https://www.theguardian.com/world/2017/feb/17/zealandia-pieces-finally-falling-together-for-long-overlooked-continent)
+2. [Cover Image](https://i.guim.co.uk/img/media/585fc7bb5afe7f80df3049e4b7402002495b58a5/0_182_2808_1686/master/2808.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f68abcd163e5e3d4e8460ac1c6bc365b)
 
 ### Related:
 

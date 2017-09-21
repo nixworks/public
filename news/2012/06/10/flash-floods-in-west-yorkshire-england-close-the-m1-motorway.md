@@ -8,6 +8,7 @@ The M1 in West Yorkshire is closed and homes are flooded following sudden torren
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-leeds-18390818)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60817000/jpg/_60817685_m1.jpg)
 
 ### Related:
 

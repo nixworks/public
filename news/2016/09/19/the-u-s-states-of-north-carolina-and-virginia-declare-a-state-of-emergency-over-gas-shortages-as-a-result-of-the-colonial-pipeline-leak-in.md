@@ -8,6 +8,7 @@ Drivers in the Southeast are feeling the effects of the region&#039;s big pipeli
 ### Source:
 
 1. [WTKR](http://wtkr.com/2016/09/19/virginia-north-carolina-declare-state-of-emergency-over-gas-shortages/)
+1. [Cover Image](https://localtvwtkr.files.wordpress.com/2015/12/s007150597-300.jpg?quality=85&amp;strip=all&amp;w=1200)
 
 ### Related:
 

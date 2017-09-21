@@ -9,6 +9,7 @@ IRBIL: The UN said on Tuesday it is expanding camps for displaced people around 
 
 1. [Arab News](http://www.arabnews.com/node/1079376/middle-east)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKBN1761DN)
+2. [Cover Image](http://www.arabnews.com/sites/default/files/2017/04/05/886116-1877881194.jpg)
 
 ### Related:
 

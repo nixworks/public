@@ -8,6 +8,7 @@ Queensland Labor leader Annastacia Palaszczuk is confirmed as the state&#039;s n
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-02-13/all-seats-declared-in-queensland-election-labor-ahead/6090428)
+1. [Cover Image](http://www.abc.net.au/news/image/6093548-1x1-700x700.jpg)
 
 ### Related:
 

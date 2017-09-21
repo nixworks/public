@@ -8,6 +8,7 @@ Afghan security forces fight off militants who launched a gun and bomb attack ne
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23042005)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68357000/jpg/_68357187_68357186.jpg)
 
 ### Related:
 

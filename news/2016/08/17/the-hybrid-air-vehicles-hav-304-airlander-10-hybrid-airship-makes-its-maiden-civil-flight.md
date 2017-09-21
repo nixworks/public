@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC News Online](http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-37111527)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15286/production/_90826668_d8608be7-e109-4a24-898f-179669a7ac85.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least 17 people are killed and dozens injured in a car bomb attack on a marke
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20753116)
 2. [Reuters](http://www.trust.org/alertnet/news/blast-in-pakistani-market-kills-at-least-15-people/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64802000/jpg/_64802819_64802818.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least 12 people died and 15 were seriously injured on Wednesday after an expl
 
 1. [RIA Novosti](http://en.rian.ru/world/20100728/159977556.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE66R0YO20100728)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100728&t=2&i=165879107&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-28T174710Z_01_BTRE66R0HUY00_RTROPTP_0_CHINA-GAS-EXPLOSION)
 
 ### Related:
 

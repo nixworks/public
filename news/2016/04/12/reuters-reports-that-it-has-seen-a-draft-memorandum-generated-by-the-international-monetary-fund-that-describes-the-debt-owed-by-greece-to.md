@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eurozone-greece-imf-review-idUSKCN0X924G)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160412&t=2&i=1132243520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3B128)
 
 ### Related:
 

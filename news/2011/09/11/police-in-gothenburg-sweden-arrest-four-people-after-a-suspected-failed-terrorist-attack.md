@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Sky News](http://www.foxnews.com/world/2011/09/11/swedish-police-arrest-four-terror-suspects/?test=latestnews)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/09/11/swedish-police-arrest-four-terror-suspects/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421904533547.jpg?ve=1)
 
 ### Related:
 

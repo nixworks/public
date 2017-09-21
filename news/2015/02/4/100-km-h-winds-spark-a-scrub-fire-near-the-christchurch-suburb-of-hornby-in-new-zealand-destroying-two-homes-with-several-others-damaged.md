@@ -8,6 +8,7 @@ At least five homes are damaged and 20 ha of land razed as fire swept through ru
 ### Source:
 
 1. [Stuff](http://www.stuff.co.nz/national/65774589/enormous-blaze-in-west-christchurch)
+1. [Cover Image](http://www.stuff.co.nz/etc/designs/ffx/nz/stuff/social-media-logos/stuff-200x200.png)
 
 ### Related:
 

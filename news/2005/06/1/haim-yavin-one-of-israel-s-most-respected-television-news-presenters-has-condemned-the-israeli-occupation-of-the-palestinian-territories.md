@@ -14,6 +14,7 @@
 5. [Haaretz](http://www.haaretz.com/hasen/spages/583347.html)
 6. [IDF official announcement](http://www1.idf.il/DOVER/site/mainpage.asp?sl=EN&id=7&docid=40684.EN)
 7. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1496298,00.html)
+7. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/10/24/dcf8e9e0-a642-11e2-a3f0-029118418759/image6988184x.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea,
 1. [AP via CBS](http://www.cbsnews.com/8301-202_162-57568581/officials-5-dead-in-canary-islands-cruise-ship-accident/)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21403536)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/feb/10/falling-lifeboat-thomson-ship-canary-islands)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/02/10/504cfb25-a645-11e2-a3f0-029118418759/cruise_AP709111901925.jpg)
 
 ### Related:
 

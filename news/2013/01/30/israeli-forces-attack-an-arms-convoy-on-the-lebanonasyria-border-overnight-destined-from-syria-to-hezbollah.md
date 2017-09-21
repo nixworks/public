@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21269766)
 2. [Reuters](http://www.reuters.com/article/2013/01/30/us-syria-israel-attack-idUSBRE90T0K120130130)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65610000/jpg/_65610577_65599835.jpg)
 
 ### Related:
 

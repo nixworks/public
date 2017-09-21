@@ -8,6 +8,7 @@ The Sea Shepherd speedboat Ady Gil has sunk after it was sliced in two by a Japa
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/01/08/2787921.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1201370-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The debate over the group&#039;s long-held ban on gay scouts became a national t
 ### Source:
 
 1. [Time](http://swampland.time.com/2013/05/23/boy-scouts-vote-to-allow-gay-youth/)
+1. [Cover Image](https://timeswampland.files.wordpress.com/2013/05/usn-gay-scouts-130523.jpeg?w=753)
 
 ### Related:
 

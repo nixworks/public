@@ -8,6 +8,7 @@ One of Britain’s richest men has been arrested after his wife died of a suspec
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/the-odd-couple-20120711-21us5.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/1/u/s/m/image.related.articleLeadwide.620x349.21us5.png/1342047996157.jpg)
 
 ### Related:
 

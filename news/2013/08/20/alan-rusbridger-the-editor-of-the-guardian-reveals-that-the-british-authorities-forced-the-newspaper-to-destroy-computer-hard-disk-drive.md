@@ -9,6 +9,7 @@ Guardian editor Alan Rusbridger claims that the paper was made to destroy leaked
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23770301)
 2. [The Guardian](http://www.theguardian.com/media/2013/aug/20/guardian-editor-alan-rusbridger-nsa)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69393000/jpg/_69393886_69393884.jpg)
 
 ### Related:
 

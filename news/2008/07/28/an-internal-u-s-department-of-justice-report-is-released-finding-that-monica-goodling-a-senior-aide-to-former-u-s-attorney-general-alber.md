@@ -8,6 +8,7 @@ Senior aides to former Attorney General Alberto Gonzales broke the law by using 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/07/29/washington/29justice.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/07/29/us/29justice_75.jpg)
 
 ### Related:
 

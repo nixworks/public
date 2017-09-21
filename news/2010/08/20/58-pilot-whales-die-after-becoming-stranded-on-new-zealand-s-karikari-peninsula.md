@@ -10,6 +10,7 @@ Some 58 pilot whales die after being stranded on a northern New Zealand coast, a
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11036698)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/environment/news/article.cfm?c_id=39&objectid=10667785&ref=rss)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/nz-rescue-operation-to-save-whales-20100821-139ao.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A court in Malaysia has rejected a bid by Malaysia Airlines to throw out a lawsu
 
 1. [Malay Mail](http://www.themalaymailonline.com/malaysia/article/court-dismisses-malaysia-airlines-bid-to-strike-out-mh370-suit)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/03/31/MH370-Malaysian-court-refuses-to-throw-out-lawsuit-against-airline/5791459423249/?spt=hts&or=4)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/5791459423249/2016/1/14594254452654/v2.1/MH370-Malaysian-court-refuses-to-throw-out-lawsuit-against-airline.jpg)
 
 ### Related:
 

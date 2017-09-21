@@ -10,6 +10,7 @@ Former Haiti leader Jean-Claude &quot;Baby Doc&quot; Duvalier is charged with co
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011118161223307617.html)
 2. [BBC](http://www.bbc.co.uk/news/world-12219608)
 3. [Reuters via Alertnet](http://www.trust.org/alertnet/news/update-4-haitian-authorities-detain-baby-doc-duvalier)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

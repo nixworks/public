@@ -10,6 +10,7 @@ At least one policeman killed and 90 people injured as protesters clash with sec
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/deadly-protest-ukraine-decentralisation-law-150831132200366.html)
 2. [BBC](http://www.bbc.com/news/world-europe-34105925)
 3. [The News Hub](https://www.the-newshub.com/politics/dozens-of-policemen-wounded-as-extreme-nationalists-and-police-battle-in-the-center-of-kiev)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/31/883046060a0245b89afa86b42d85c106_18.jpg)
 
 ### Related:
 

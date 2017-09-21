@@ -8,6 +8,7 @@ Everyone&#039;s expecting something big from Blizzard&#039;s Worldwide Invitatio
 ### Source:
 
 1. [IGN](http://pc.ign.com/articles/788/788627p1.html)
+1. [Cover Image](http://ps3media.ign.com/ps3/image/object/069/069045/starcraft_wol_ce_esrb.jpg)
 
 ### Related:
 

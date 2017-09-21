@@ -8,6 +8,7 @@ Eight soldiers from the American-led military coalition were killed in Afghanist
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/05/05/world/asia/blast-kills-7-soldiers-in-afghanistan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

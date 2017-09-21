@@ -8,6 +8,7 @@ An Islamist rebel says he regrets destroying cultural and religious sites in Tim
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-africa-37152191)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CF9B/production/_90874135_mediaitem90874133.jpg)
 
 ### Related:
 

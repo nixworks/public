@@ -8,6 +8,7 @@ Ian Paisley has announced that he is to resign as Northern Ireland First Ministe
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0304/paisleyi.html)
+1. [Cover Image](https://img.rasset.ie/000152fc-1600.jpg)
 
 ### Related:
 

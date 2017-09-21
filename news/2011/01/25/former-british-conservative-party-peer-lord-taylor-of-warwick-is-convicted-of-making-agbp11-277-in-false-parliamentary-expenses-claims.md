@@ -8,6 +8,7 @@ Former Tory peer Lord Taylor is found guilty of making £11,277 in false parliam
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12275821)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

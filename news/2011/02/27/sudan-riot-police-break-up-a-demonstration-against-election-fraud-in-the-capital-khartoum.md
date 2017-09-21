@@ -8,6 +8,7 @@ Sudanese riot police and security agents surrounded organizers of a protest agai
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/27/us-sudan-protest-idUSTRE71Q1SU20110227)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

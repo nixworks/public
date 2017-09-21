@@ -8,6 +8,7 @@ By Seyhmus Cakan DIYARBAKIR, Turkey (Reuters) - Turkish military helicopters kil
 ### Source:
 
 1. [Yahoo! News](http://news.yahoo.com/turkish-military-helicopters-kill-9-strikes-pkk-targets-093128788.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

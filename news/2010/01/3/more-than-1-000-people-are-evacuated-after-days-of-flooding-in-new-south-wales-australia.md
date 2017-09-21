@@ -9,6 +9,7 @@ The Coonamble Mayor is urging residents to remain calm as hundreds of people eva
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/01/03/2784516.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8438379.stm)
+2. [Cover Image](http://www.abc.net.au/news/image/1190848-1x1-700x700.jpg)
 
 ### Related:
 

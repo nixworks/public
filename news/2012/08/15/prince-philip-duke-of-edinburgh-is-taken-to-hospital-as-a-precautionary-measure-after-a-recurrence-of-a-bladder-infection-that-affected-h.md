@@ -8,6 +8,7 @@ The Duke of Edinburgh has been taken to hospital as a &quot;precautionary measur
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19273969)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62306000/jpg/_62306285_phil1.jpg)
 
 ### Related:
 

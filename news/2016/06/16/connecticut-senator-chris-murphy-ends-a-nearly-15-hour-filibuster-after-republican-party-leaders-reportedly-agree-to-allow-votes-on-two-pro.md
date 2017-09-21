@@ -8,6 +8,7 @@ An agreement was apparently reached to allow votes on whether to ban people on a
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/congress/senate-democrats-filibuster-over-gun-control-enters-second-day-n593396)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_24/1580941/ap_16168012082659_9093b88e5106b71816b349ab47439378.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

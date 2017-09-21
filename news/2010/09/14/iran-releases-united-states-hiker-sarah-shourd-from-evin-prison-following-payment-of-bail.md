@@ -9,6 +9,7 @@ Sarah Shourd, held for over a year with two others on suspicion of spying, arriv
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010914115912363385.html)
 2. [CNN](http://www.cnn.com/2010/WORLD/meast/09/14/iran.detained.american/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/14/2010914192637829734_20.jpg)
 
 ### Related:
 

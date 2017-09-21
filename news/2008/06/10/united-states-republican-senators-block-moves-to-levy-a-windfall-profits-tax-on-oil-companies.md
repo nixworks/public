@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/republicans-block-windfall-profits-tax-oil/story.aspx?guid=%7B2F68C025-6716-48CF-B05F-9789035F14FC%7D&dist=hplatest)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

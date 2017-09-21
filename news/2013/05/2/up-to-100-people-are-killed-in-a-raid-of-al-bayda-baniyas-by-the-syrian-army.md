@@ -8,6 +8,7 @@ Fierce clashes between troops and rebels erupted on Thursday for the first time 
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/May-02/215831-up-to-100-feared-dead-in-syrian-massacre-monitoring-group.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

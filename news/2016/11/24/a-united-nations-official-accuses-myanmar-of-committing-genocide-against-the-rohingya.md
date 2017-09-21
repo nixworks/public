@@ -8,6 +8,7 @@ Myanmar wants to rid the country of its Muslim minority, a senior UN official te
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-38091816)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/01CF/production/_92636400_rohingyapic.jpg)
 
 ### Related:
 

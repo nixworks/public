@@ -9,6 +9,7 @@ Three bridges on roads leading into Donetsk are destroyed ahead of an expected b
 
 1. [BBC](http://www.bbc.com/news/world-europe-28191833)
 2. [Presidential administration](http://www.president.gov.ua/en/news/30686.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76091000/jpg/_76091103_023057861-1.jpg)
 
 ### Related:
 

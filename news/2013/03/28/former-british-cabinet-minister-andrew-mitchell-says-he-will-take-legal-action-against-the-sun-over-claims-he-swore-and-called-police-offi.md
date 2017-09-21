@@ -8,6 +8,7 @@ Former cabinet minister Andrew Mitchell is suing the Sun over claims he swore an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21969990)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65653000/jpg/_65653443_mx98ak2p.jpg)
 
 ### Related:
 

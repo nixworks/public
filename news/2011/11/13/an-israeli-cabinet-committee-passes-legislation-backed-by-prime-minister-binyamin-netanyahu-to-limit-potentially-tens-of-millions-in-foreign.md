@@ -8,6 +8,7 @@ PM supports legislation which passes with majority of 11 to 5; new law bans fore
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=245407)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=149809)
 
 ### Related:
 

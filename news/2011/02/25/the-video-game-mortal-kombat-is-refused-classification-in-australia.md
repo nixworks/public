@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Kotaku](http://www.kotaku.com.au/2011/02/mortal-kombat-banned-in-australia/)
+1. [Cover Image](https://edge.alluremedia.com.au/m/k/2010/07/mortal_kombat-410x231.jpg)
 
 ### Related:
 

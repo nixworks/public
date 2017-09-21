@@ -8,6 +8,7 @@ President’s son forced to release email chain that reveals he welcomed what he
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/us-news/2017/jul/11/donald-trump-jr-email-chain-russia-hillary-clinton)
+1. [Cover Image](https://i.guim.co.uk/img/media/7b29ed5859a3c0444e95edecafbf8a31822e9490/0_60_3084_1851/master/3084.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1fa650403bc5255490ae61d20a370311)
 
 ### Related:
 

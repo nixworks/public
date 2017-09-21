@@ -8,6 +8,7 @@ The Most Reverend Justin Welby is enthroned as Archbishop of Canterbury, and say
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21875199)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66536000/jpg/_66536253_017555812.jpg)
 
 ### Related:
 

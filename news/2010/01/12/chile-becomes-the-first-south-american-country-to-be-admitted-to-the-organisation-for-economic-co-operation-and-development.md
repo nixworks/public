@@ -9,6 +9,7 @@ Chile News | Breaking News, Views, Analysis
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/01/201011123388497507.html)
 2. [Santiago Times](http://www.santiagotimes.cl/index.php?option=com_content&view=article&id=18011:chile-official-oecd-member-first-in-south-america-&catid=48:other&Itemid=122)
+2. [Cover Image](http://santiagotimes.cl/en/wp-content/uploads/2016/10/logo-st.png)
 
 ### Related:
 

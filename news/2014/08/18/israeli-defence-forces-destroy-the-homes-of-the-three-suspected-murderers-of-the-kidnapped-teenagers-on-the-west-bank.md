@@ -8,6 +8,7 @@ Two of the suspects, Marwan Kawasame and Amar Abu Aysha remain at large; IDF say
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/IDF-destroys-homes-of-the-murderers-of-the-three-kidnapped-Jewish-teens-371375#!)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=248567)
 
 ### Related:
 

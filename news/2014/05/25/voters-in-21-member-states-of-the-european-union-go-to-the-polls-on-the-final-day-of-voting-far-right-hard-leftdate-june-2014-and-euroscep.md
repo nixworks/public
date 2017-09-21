@@ -9,6 +9,7 @@ By Luke Baker and Paul Taylor BRUSSELS (Reuters) - Marine Le Pen&#x27;s far righ
 
 1. [BBC](http://www.bbc.com/news/world-europe-27559714)
 2. [Reuters via Yahoo! News](http://news.yahoo.com/europe-votes-super-sunday-far-spotlight-090146106.html;_ylt=AwrBJR9NY4JTQHwAM.LQtDMD)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

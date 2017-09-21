@@ -8,6 +8,7 @@ JERUSALEM (AP) — Two Palestinians opened fire near a popular open-air market i
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/fdab38792eb34204aab2263ab61c33c1/israel-police-say-shooting-tel-aviv-wounds-9)
+1. [Cover Image](http://binaryapi.ap.org/2d4b6ec405de49799f9b6418ecaa360f/460x.jpg)
 
 ### Related:
 

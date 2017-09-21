@@ -9,6 +9,7 @@ Thousands of migrants streamed through the Balkans Thursday as German Chancellor
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/migrants-inundate-eu-crisis-hotspot-croatia-030939642.html)
 2. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-24/croatia-bans-serbians-from-entering-its-borders/6802754)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/cGmeNZ7n5ZdtQO9wlXUB.g--/aD03MzU7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8283508-1-1-0.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [KTUL.com](http://www.ktul.com/news/stories/0508/518665.html)
 4. [NOAA](http://www.spc.noaa.gov/climo/reports/080510_rpts.html)
 5. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN10545745)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

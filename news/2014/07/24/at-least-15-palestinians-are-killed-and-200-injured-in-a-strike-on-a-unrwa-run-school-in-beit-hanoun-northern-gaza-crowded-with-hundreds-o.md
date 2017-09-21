@@ -9,6 +9,7 @@ Shelling of UNRWA school condemned by UN, saying it asked IDF for time to evacua
 
 1. [Sky News](http://news.sky.com/story/1307077/three-palestinians-killed-in-west-bank-protest)
 2. [The Guardian](http://www.theguardian.com/world/2014/jul/24/israeli-strike-un-school-gaza-kills-women-children)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2014/7/24/1406222875051/Children-sit-in-a-hospita-009.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=102e9e47bb811b88b3f655a3be07d480)
 
 ### Related:
 

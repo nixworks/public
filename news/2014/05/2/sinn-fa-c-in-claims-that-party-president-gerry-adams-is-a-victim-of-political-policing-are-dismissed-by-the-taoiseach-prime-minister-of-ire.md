@@ -9,6 +9,7 @@ SF leader can now be held until 8pm on Sunday, four days after detention began
 
 1. [Irish Times](http://www.irishtimes.com/news/crime-and-law/gerry-adams-spends-second-night-in-police-custody-1.1781456)
 2. [RTE News](http://www.rte.ie/news/2014/0501/614157-adams-mcconville/)
+2. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1782109&origw=960)
 
 ### Related:
 

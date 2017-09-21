@@ -9,6 +9,7 @@ France wants to contact the al-Qaeda group which abducted five of its citizens i
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11397624)
 2. [Voice of America](http://www.voanews.com/english/news/africa/France-Wants-Contact-With-al-Qaida-on-Niger-Hostages-103623329.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

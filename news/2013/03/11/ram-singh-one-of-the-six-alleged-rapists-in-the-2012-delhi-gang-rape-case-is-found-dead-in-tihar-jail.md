@@ -8,6 +8,7 @@ One of six people accused of the abduction, rape and murder of a female student 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21737748)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66311000/jpg/_66311292_017459805.jpg)
 
 ### Related:
 

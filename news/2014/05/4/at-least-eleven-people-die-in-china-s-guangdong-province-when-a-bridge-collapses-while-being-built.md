@@ -8,6 +8,7 @@ At least 13 people were killed when an illegal bridge under construction collaps
 ### Source:
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/pti-stories/13-people-killed-in-bridge-house-collapse-in-china-114050400292_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

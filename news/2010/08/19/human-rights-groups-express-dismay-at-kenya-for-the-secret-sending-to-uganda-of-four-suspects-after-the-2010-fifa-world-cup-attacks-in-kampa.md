@@ -10,6 +10,7 @@ Human rights activists accuse Kenya of secretly sending four terrorism suspects 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11029767)
 2. [News24](http://www.news24.com/Africa/News/Uganda-blasts-Group-accuses-Kenya-20100819)
 3. [The Star](http://www.thestar.co.za/index.php?fArticleId=5608482)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

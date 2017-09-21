@@ -11,6 +11,7 @@ French&#x20;protesters&#x20;engaged&#x20;in&#x20;a&#x20;sixth&#x20;day&#x20;of&#
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11578674)
 3. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/19/france.strike/?hpt=T1)
 4. [Reuters via France 24](http://www.france24.com/en/20101019-french-strikers-marchers-test-sarkozy-pensions-france-unions)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/retraites-manif-point.jpg)
 
 ### Related:
 

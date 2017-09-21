@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-asia-32561985)
 2. [CNN](http://edition.cnn.com/2015/05/02/asia/nepal-earthquake/index.html)
 3. [Xinhua](http://news.xinhuanet.com/english/2015-05/02/c_134203640.htm)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82720000/jpg/_82720756_66fa5fd4-c0f9-4c3e-aa64-1152f1fdf084.jpg)
 
 ### Related:
 

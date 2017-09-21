@@ -8,6 +8,7 @@ Ansar al-Sharia supporters vent anger at police after they are prevented from de
 ### Source:
 
 1. [al-Jazeera](http://www.aljazeera.com/news/africa/2013/05/20135198155650292.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/5/19/201351917194921734_20.jpg)
 
 ### Related:
 

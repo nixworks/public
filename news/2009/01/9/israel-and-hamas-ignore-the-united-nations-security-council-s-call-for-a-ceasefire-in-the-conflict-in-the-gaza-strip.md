@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UNNewsCentre](http://www.un.org/apps/news/story.asp?NewsID=29495&Cr=gaza&Cr1=)
+1. [Cover Image](/News/dh/photos/large/2009/276840-ki-moon.jpg)
 
 ### Related:
 

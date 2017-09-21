@@ -7,7 +7,7 @@ _Context: Millennium Summit, New York City_
 _Context: Bofors, Swedish-owned, United Defense, defense contractor_
 
 ### [ World leaders attend the Millennium Summit at the United Nations Headquarters (until September 8, 2000).](/news/2000/09/6/world-leaders-attend-the-millennium-summit-at-the-united-nations-headquarters-until-september-8-2000.md)
-_Context: Millennium Summit, United Nations Headquarters_
+_Context: Millennium Summit, United Nations headquarters_
 
 ## [Previous Day...](/news/2000/09/5/index.md)
 

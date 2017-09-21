@@ -10,6 +10,7 @@ China has rejected the Dalai Lama&rsquo;s demand for greater autonomy in the Tib
 1. [RIA Novosti](http://en.rian.ru/world/20100201/157740389.html)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/Chinas-talks-with-Dalai-Lamas-envoys-make-little-progress-on-autonomy-issue/articleshow/5524748.cms)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-02/01/c_13158926.htm)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

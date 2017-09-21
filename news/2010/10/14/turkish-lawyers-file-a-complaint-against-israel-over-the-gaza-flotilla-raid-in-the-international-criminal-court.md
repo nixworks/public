@@ -8,6 +8,7 @@ Complaint filed with International Criminal Court accuses Israel of war crimes i
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3969639,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

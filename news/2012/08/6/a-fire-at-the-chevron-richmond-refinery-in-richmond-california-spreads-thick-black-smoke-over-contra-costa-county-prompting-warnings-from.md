@@ -8,6 +8,7 @@ Massive fire at Chevron refinery in Richmond fully contained; shelter in place l
 ### Source:
 
 1. [Mercury News](http://www.mercurynews.com/breaking-news/ci_21250598/large-fire-burning-at-chevron-refinery-richmond)
+1. [Cover Image](http://www.mercurynews.com/wp-content/uploads/2016/08/20120806_080139_refine1.jpg?w=1024&amp;h=765)
 
 ### Related:
 

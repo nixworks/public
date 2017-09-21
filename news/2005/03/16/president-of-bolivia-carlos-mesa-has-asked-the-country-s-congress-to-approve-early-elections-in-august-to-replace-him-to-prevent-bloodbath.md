@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4351227.stm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aUPgmsV8QdTE&refer=latin_america)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7912341)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More Arab League observers are set to arrive in Syria as human rights activists 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16330810)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57569000/jpg/_57569797_013579933-1.jpg)
 
 ### Related:
 

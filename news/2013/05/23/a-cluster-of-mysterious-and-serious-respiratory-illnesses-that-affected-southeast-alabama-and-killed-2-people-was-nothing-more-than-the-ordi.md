@@ -8,6 +8,7 @@ A cluster of mysterious respiratory illnesses that alarmed southeast Alabama tur
 ### Source:
 
 1. [NBC](http://vitals.nbcnews.com/_news/2013/05/23/18449076-mystery-illness-in-alabama-mostly-cold-and-flu-tests-show?lite)
+1. [Cover Image](//lib.newsvine.com/chrome/vitals/images/defaultog.jpg)
 
 ### Related:
 

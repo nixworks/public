@@ -8,6 +8,7 @@ A top Nato general had said Moscow was &quot;perhaps&quot; assisting the extremi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39383726)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/EE84/production/_95306016_ae4fc360-a424-4f75-965a-f7246cdf40cb.jpg)
 
 ### Related:
 

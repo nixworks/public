@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Express](http://www.express.co.uk/news/uk/479454/Teen-arrested-Heathrow-Airport-terrorism)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/1/590x/71630366-479454.jpg)
 
 ### Related:
 

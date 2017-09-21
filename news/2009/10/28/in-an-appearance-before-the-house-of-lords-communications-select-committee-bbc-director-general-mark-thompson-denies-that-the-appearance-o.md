@@ -8,6 +8,7 @@ The BNP could be invited on to Question Time up to once a year, according to the
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/6454569/BNP-could-appear-on-Question-Time-yearly-says-BBC-boss.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01507/bnp-9_1507954a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Sri Lankan government again blocks BBC News from travelling to the northern 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11729962)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

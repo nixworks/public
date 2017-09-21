@@ -12,6 +12,7 @@ Former International Olympic Committee president Juan Antonio Samaranch is in &#
 3. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/former-olympic-committee-chief-juan-antonio-samaranch-gravely-ill-in-hospital/story-e6frf7jx-1225856224605)
 4. [RTÉ](http://www.rte.ie/sport/2010/0420/samaranchja.html)
 5. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/olympics/news/7611393/Former-IOC-president-Juan-Antonio-Samaranch-in-very-serious-condition.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01620/Juan_Antonio_Samar_1620136a.jpg)
 
 ### Related:
 

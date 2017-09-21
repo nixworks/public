@@ -8,6 +8,7 @@ Leonard Cohen, the hugely influential singer and songwriter whose work spanned f
 ### Source:
 
 1. [Rolling Stone](http://www.rollingstone.com/music/news/leonard-cohen-dead-at-82-w449792)
+1. [Cover Image](http://img.wennermedia.com/social/rs-leonard-cohen02-9f3d8003-0068-4dc4-8e2d-05de0c04179c-1-eea9be54-6684-4448-8c69-f133afce0d52.jpg)
 
 ### Related:
 

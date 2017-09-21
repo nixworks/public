@@ -8,6 +8,7 @@ The Syrian al-Qaeda faction Jabhat al-Nusra has captured an Assad regime pilot a
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/04/05/al-qaeda-group-shoot-down-syrian-regime-jet/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/f/2/f2dg5smje6m1uyhwgb0kjariaw-93fo-xlarge.jpg)
 
 ### Related:
 

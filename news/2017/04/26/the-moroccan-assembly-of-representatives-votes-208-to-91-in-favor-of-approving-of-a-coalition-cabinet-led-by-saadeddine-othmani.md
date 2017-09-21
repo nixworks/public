@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Fox News](http://www.foxnews.com/world/2017/04/26/morocco-parliament-approves-new-government-after-crisis.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

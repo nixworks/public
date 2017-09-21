@@ -8,6 +8,7 @@ Ten rhino horns, with an estimated value of €500,000, have been seized by Cust
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0122/tusks.html)
+1. [Cover Image](https://img.rasset.ie/0002f077-1600.jpg)
 
 ### Related:
 

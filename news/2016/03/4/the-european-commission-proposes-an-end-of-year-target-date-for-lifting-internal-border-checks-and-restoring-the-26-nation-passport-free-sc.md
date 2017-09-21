@@ -9,6 +9,7 @@ European Union officials voiced guarded optimism on Friday that Turkey was start
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-04/eu-weighs-year-end-target-for-lifting-internal-border-controls)
 2. [Reuters](http://www.reuters.com/article/us-europe-migrants-schengen-idUSKCN0W613U)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160304&t=2&i=1122335833&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC230TS)
 
 ### Related:
 

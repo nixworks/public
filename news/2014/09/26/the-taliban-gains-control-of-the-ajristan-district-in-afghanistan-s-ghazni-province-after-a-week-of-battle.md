@@ -8,6 +8,7 @@ Taliban fighters seize control of a strategic district in the eastern Afghan pro
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-29375436)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/77832000/jpg/_77832118_023742510-1.jpg)
 
 ### Related:
 

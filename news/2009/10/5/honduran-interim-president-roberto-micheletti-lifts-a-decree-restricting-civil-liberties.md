@@ -10,6 +10,7 @@ Roberto Micheletti cancels decree limiting freedom of speech, assembly and movem
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/10/200910517155738223.html)
 2. [CBC](http://www.cbc.ca/world/story/2009/10/05/honduras-decree-rights-constitution-suspension.html)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-10/06/content_12185414.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

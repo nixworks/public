@@ -13,7 +13,7 @@ _Context: War on Terrorism, al-Qaeda, terrorism_
 _Context: Democratic Unionist Party, Good Friday Agreement, Northern Ireland, Northern Ireland Assembly Election, 2003, Sinn Fin, Social Democratic and Labour Party, Ulster Unionist Party_
 
 ### [ John Manley, Deputy Prime Minister of Canada, announces he will not take a position in the new cabinet of leadership rival Paul Martin that will take office on December 12, and will not run again in his riding of Ottawa South in the forthcoming federal election. Martin praises Manley's past accomplishments and takes the unusual step of publicly offering Manley the posting of Ambassador to the U.S.](/news/2003/11/28/john-manley-deputy-prime-minister-of-canada-announces-he-will-not-take-a-position-in-the-new-cabinet-of-leadership-rival-paul-martin-that.md)
-_Context: 2004 federal election, Deputy Prime Minister, John Manley, Ottawa, Paul Martin, Jr., ambassador, new Cabinet_
+_Context: 2004 federal election, Ambassador, Deputy Prime Minister, John Manley, Ottawa, Paul Martin, Jr., new Cabinet_
 
 ### [ In Italy, Alessandra Mussolini, granddaughter of Benito Mussolini and niece of Sophia Loren, resigns from the right wing National Alliance party after she considers that party leader and deputy Prime Minister Gianfranco Fini "dishonoured her family's history" when apologising in Israel for Italy's actions before and during the Second World War and describing fascism as "an absolute evil".](/news/2003/11/28/in-italy-alessandra-mussolini-granddaughter-of-benito-mussolini-and-niece-of-sophia-loren-resigns-from-the-right-wing-national-alliance.md)
 _Context: Alessandra Mussolini, Benito Mussolini, Gianfranco Fini, Israel, Second World War, Sophia Loren, government_

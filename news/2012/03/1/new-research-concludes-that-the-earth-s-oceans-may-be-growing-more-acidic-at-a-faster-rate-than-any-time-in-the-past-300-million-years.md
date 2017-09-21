@@ -9,6 +9,7 @@ The world&#39;s oceans are turning acidic at what could be the fastest pace of a
 
 1. [MSNBC](http://www.msnbc.msn.com/id/46594944/ns/us_news-environment/#.T0_4XHmeq1Q)
 2. [Reuters](http://uk.reuters.com/article/2012/03/01/us-climate-oceans-acid-idUKTRE82025S20120301)
+2. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/nbc_learn_ocean_acidification_110503.standard.jpg)
 
 ### Related:
 

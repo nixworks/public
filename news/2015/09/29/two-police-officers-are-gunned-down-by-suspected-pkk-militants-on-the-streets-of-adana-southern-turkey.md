@@ -8,6 +8,7 @@ The attack comes the same day a pro-Kurdish news agency was raided by Turkish po
 ### Source:
 
 1. [Middle East Eye](http://www.middleeasteye.net/news/two-turkish-police-killed-pkk-attack-officials-511820466)
+1. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/000_Par8232961-min.jpg)
 
 ### Related:
 

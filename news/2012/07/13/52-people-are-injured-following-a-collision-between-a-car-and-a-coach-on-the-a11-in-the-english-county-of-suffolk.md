@@ -8,6 +8,7 @@ Nine people are taken to hospital and 43 are left &quot;walking wounded&quot; in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-suffolk-18832010)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61565000/jpg/_61565574_a11_130712_rushes.jpg)
 
 ### Related:
 

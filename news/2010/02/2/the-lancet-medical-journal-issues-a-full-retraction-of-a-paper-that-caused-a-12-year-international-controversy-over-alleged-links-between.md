@@ -9,6 +9,7 @@ The Lancet medical journal formally retracted a paper on Tuesday that caused a 1
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/8493753.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE61132920100202)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100202&t=2&i=54639627&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-02T163921Z_01_BTRE611166C00_RTROPTP_0_HUNGARY)
 
 ### Related:
 

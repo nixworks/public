@@ -8,6 +8,7 @@ Those taking part in the rally had to show identity cards to prove they were cit
 ### Source:
 
 1. [The Hindustan Times](http://www.hindustantimes.com/world-news/foreigners-banned-as-singapore-holds-gay-rights-rally/story-TKdngV1OxXWbuXPpj1mFHK.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/07/01/Pictures/singapore-singapore-wrapped-annual-rally-rainbow-pride_c23bb390-5e71-11e7-a7a5-fdf01393e65b.jpg)
 
 ### Related:
 

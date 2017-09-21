@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Philadelphia](http://www.nbcphiladelphia.com/weather/stories/Severe-Weather-Damage-in-Northeast-Philadelphia-Not-Tornado-122183049.html)
+1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/PHI+ne+phil+weather+damage.jpg)
 
 ### Related:
 

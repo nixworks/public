@@ -8,6 +8,7 @@ Backed by Russian airstrikes, regime forces take new ground inside Islamic State
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/middle-east-news/isis/1.723057)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.720785.1472404125!/image/3452583168.jpg_gen/derivatives/headline_1200x630/3452583168.jpg)
 
 ### Related:
 

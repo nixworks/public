@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/04/us-lafarge-holcim-idUSBREA3314L20140404)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140404&t=2&i=877773731&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA33179R00)
 
 ### Related:
 

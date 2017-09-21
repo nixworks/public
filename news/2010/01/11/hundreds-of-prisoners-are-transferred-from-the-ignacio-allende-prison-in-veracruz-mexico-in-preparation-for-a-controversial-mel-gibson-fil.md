@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8452477.stm)
 2. [CBC News](http://www.cbc.ca/arts/film/story/2010/01/11/gibson-mexico-prison-veracruz.html)
 3. [Hindustan Times](http://www.hindustantimes.com/Prison-vacated-for-Mel-Gibson-film/H1-Article1-496247.aspx)
+3. [Cover Image](https://i.cbc.ca/1.4038057.1490290121!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/butter-tart-apology.jpg)
 
 ### Related:
 

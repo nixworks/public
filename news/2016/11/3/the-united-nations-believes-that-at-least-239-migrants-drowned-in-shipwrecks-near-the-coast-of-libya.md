@@ -9,6 +9,7 @@ More than 4,000 people have died this year trying to cross the Mediterranean to 
 
 1. [ABC Online](http://www.abc.net.au/news/2016-11-04/un-says-240-asylum-seekers-drowned-off-libyan-coast/7994674)
 2. [USA Today](http://www.usatoday.com/story/news/world/2016/11/03/over-200-migrants-believed-drowned-mediterranean/93229370/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

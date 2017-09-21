@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-39572841)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/EF7C/production/_95580316_jaysedanspach.jpg)
 
 ### Related:
 

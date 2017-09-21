@@ -12,6 +12,7 @@ JERUSALEM: Israel&#039;s Prime Minister, Benjamin Netanyahu, is expected to assi
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7933946/Benjamin-Netanyahu-to-testify-at-Gaza-flotilla-raid-inquiry.html)
 4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=184136)
 5. [The Sydney Morning Herald](http://www.smh.com.au/world/netanyahu-to-shift-blame-over-deadly-raid-on-gaza-flotilla-20100808-11q7t.html)
+5. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

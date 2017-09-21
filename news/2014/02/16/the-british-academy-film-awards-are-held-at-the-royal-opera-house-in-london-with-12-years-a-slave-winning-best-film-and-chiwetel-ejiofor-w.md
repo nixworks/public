@@ -9,6 +9,7 @@ Dame Judi Dench and Leonardo DiCaprio will be among the stars attending the Baft
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-26214765)
 2. [Sky News](http://news.sky.com/story/1212624/bafta-awards-12-years-a-slave-wins-best-film)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72163000/jpg/_72163829_tv019500261.jpg)
 
 ### Related:
 

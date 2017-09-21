@@ -10,6 +10,7 @@ GOAL aid worker Sharon Commins has thanked the people of Sudan for their work to
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iKOZF69hF2ETRLJlf58ujxOz-CbAD9BDDBUG2)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8312940.stm)
 3. [RTÉ](http://www.rte.ie/news/2009/1018/comminss.html)
+3. [Cover Image](https://img.rasset.ie/0002aeaf-1600.jpg)
 
 ### Related:
 

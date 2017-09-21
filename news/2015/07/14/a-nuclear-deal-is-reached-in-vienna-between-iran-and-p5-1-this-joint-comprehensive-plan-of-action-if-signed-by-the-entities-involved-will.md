@@ -10,6 +10,7 @@ After years of negotiations, world powers reach a deal with Iran on limiting Ira
 1. [BBC](http://www.bbc.com/news/world-middle-east-33518524#)
 2. [CNN](http://www.cnn.com/2015/07/14/politics/iran-nuclear-deal/index.html)
 3. [NY Times](http://www.nytimes.com/2015/07/15/world/middleeast/iran-nuclear-deal-is-reached-after-long-negotiations.html?_r=0)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11D74/production/_84267037_doublepic.gif)
 
 ### Related:
 

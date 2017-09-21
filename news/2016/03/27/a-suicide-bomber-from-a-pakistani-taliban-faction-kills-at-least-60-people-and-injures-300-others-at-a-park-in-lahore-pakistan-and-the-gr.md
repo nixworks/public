@@ -11,6 +11,7 @@ Malik and Mubasher Bukhari
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/03/deadly-blast-hits-pakistan-lahore-160327143110195.html)
 3. [CNN](http://www.cnn.com/2016/03/27/asia/pakistan-lahore-deadly-blast/index.html)
 4. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKCN0WT0HR)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160328&t=2&i=1128331423&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2R0FU)
 
 ### Related:
 

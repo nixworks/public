@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Express](http://www.express.co.uk/news/showbiz/446012/OneRepublic-donate-to-Philippines-relief-efforts)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/79/590x/446012_1.jpg)
 
 ### Related:
 

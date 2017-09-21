@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WCAU-TV](http://www.nbcphiladelphia.com/news/local/Kathleen-Kane-Trial-Perjury-Closing-Arguments-Jury-390168381.html)
+1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/Kathleen-Kane-Trial.jpg)
 
 ### Related:
 

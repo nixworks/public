@@ -9,6 +9,7 @@ A suicide bomber killed at least 15 people in an attack on a mosque used by memb
 
 1. [AFP via Yahoo](http://news.yahoo.com/claims-bombing-against-police-saudi-arabia-163854387.html)
 2. [Reuters](http://uk.reuters.com/article/2015/08/06/uk-saudi-security-bomb-idUKKCN0QB17Q20150806)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

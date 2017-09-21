@@ -8,6 +8,7 @@ President Rafael Correa to make decision as WikiLeaks founder remains in Ecuador
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201262151158191927.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/26/20101226134940766738_20.jpg)
 
 ### Related:
 

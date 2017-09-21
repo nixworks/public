@@ -9,6 +9,7 @@ Lithuanians are braced for a devastating increase in energy prices when the stru
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8435628.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/lithuania/6904781/Lithuania-power-crisis-looms-as-nuclear-plant-shuts.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01550/Ignalina_1550351a.jpg)
 
 ### Related:
 

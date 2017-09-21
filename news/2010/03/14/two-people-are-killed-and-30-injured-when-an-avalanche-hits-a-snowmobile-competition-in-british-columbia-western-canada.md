@@ -10,6 +10,7 @@
 1. [CBC](http://www.cbc.ca/canada/calgary/story/2010/03/14/bc-avalanche.html)
 2. [Globe and Mail](http://www.theglobeandmail.com/news/national/british-columbia/rescuers-begin-search-for-survivors-of-deadly-avalanche-in-bc/article1500053/)
 3. [Vancouver Sun](http://www.vancouversun.com/news/avalanche+leaves+dead+injured/2680790/story.html)
+3. [Cover Image](http://static.theglobeandmail.ca/930/migration_catalog/article3945944.ece/ALTERNATES/w620/LEH-140310_1939)
 
 ### Related:
 

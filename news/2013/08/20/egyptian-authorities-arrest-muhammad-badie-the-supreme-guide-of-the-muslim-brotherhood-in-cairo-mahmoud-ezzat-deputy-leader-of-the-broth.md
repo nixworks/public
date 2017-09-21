@@ -8,6 +8,7 @@ Security forces in Egypt arrest the leader of the Muslim Brotherhood, Mohammad B
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23763518)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69389000/jpg/_69389603_69389602.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least 12 people were killed in the Somali capital of Mogadishu on Sunday afte
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/explosions-heavy-gunfire-mogadishu-hotel-attack-afp-035122541.html)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-11-01/al-shabaab-militants-attack-hotel-in-somalia/6903432)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/B7OuLwndsS4hSW79tNbbEA--/aD02NTk7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/922507c4eca5cd61768a5b13296b08f1c1ed7cbc.jpg)
 
 ### Related:
 

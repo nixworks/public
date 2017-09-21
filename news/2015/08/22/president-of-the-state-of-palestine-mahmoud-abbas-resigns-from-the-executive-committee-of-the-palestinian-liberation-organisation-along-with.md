@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Breaking-News/Report-Abbas-resigns-as-head-of-the-PLO-executive-committee-412943)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

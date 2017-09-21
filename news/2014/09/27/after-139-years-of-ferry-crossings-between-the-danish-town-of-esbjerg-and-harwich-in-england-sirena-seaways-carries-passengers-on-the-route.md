@@ -9,3 +9,4 @@ There has been big interest in the last Harwich-Esbjerg crossing from both guest
 
 1. [BBC](http://www.bbc.com/news/uk-england-essex-29353171)
 2. [DFDS Connects](http://www.dfdsconnects.com/big-interest-englandbaets-last-crossing/)
+2. [Cover Image](http://www.dfdsconnects.com/wp-content/uploads/2014/09/Sirena_mate.jpg)

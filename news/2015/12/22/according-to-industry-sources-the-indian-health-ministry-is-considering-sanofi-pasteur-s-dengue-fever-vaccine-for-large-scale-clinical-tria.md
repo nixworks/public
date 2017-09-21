@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/government-may-exempt-sanofis-dengue-vaccine-from-large-scale-clinical-trials/articleshow/50278156.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-50278189,width-672,resizemode-4,imglength-230395/industry/healthcare/biotech/pharmaceuticals/government-may-exempt-sanofis-dengue-vaccine-from-large-scale-clinical-trials.jpg)
 
 ### Related:
 

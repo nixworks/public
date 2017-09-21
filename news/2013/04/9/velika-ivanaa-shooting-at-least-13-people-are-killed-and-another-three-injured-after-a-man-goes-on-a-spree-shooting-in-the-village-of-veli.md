@@ -10,6 +10,7 @@ A 60-year-old man went from house to house in his village near Belgrade, killing
 1. [San Francisco Chronicle](http://www.sfgate.com/business/bloomberg/article/Serb-Veteran-Kills-13-in-Predawn-Shooting-Spree-4420281.php)
 2. [The New York Times](http://www.nytimes.com/2013/04/10/world/europe/mass-shooting-in-serbian-village.html)
 3. [Time](http://world.time.com/2013/04/09/13-people-killed-in-shooting-spree-in-serbia/)
+3. [Cover Image](https://static01.nyt.com/images/2013/04/10/world/europe/10serbia_cnd/10serbia_cnd-videoLarge-v2.jpg)
 
 ### Related:
 

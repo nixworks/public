@@ -8,6 +8,7 @@ Viacom International Media Networks (VIMN) will no longer pursue the controversi
 ### Source:
 
 1. [ABS-CBN News](https://news.abs-cbn.com/business/08/22/17/viacom-withdraws-from-nickelodeon-project-in-palawan)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/08/22/coral-park-082217.jpg?ext=.jpg)
 
 ### Related:
 

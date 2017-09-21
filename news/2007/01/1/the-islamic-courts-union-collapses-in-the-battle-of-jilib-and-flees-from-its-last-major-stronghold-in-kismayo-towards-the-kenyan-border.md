@@ -9,6 +9,7 @@ Somali government troops backed by Ethiopian tanks and MiG fighter jets have cap
 
 1. [MSNBC](http://www.msnbc.msn.com/id/16417386/)
 2. [Shabelle](http://www.shabelle.net/news/ne1976.htm)
+2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/070101/070101_somolia_hmed7a.standard.jpg)
 
 ### Related:
 

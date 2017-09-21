@@ -16,6 +16,7 @@ The temporary restraining order issued by a federal judge halts implementation o
 7. [The New York Times](https://www.nytimes.com/2017/02/03/us/visa-ban-legal-challenge.html?_r=0)
 8. [The New York Times](https://www.nytimes.com/2017/02/03/world/europe/kjell-magne-bondevik-norway-dulles.html?_r=0)
 9. [The Nordic Page](http://www.tnp.no/norway/panorama/5453-former-prime-minister-of-norway-held-back-at-us-airport)
+9. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_05/1884986/2017-01-29t143122z_1218394881_rc1317bbd510_rtrmadp_3_usa-trump-immigration_a56d3fe9af0116a52ad3c0f33d364a59.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

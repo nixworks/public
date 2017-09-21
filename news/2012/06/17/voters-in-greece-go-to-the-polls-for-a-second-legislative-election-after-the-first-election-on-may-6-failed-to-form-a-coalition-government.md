@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261716157457770.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-18472595)
 3. [CNN](http://edition.cnn.com/2012/06/17/world/europe/greece-election/index.html?hpt=hp_t1)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60961000/jpg/_60961809_015075512-1.jpg)
 
 ### Related:
 

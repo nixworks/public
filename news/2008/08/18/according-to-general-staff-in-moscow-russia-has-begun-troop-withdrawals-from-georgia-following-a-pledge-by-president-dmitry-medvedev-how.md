@@ -16,6 +16,7 @@
 7. [Nasdaq](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20080817%5CACQDJON200808170659DOWJONESDJONLINE000206.htm&&mypage=newsheadlines&title=Ethnic%20Ossetians%20To%20Have%20Voice%20In%20South%20Ossetia%20Status-OSCE)
 8. [OSCE](http://www.osce.org/item/32594.html)
 9. [PM's Office](http://www.regeringen.se/sb/d/10856/a/109510)
+9. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)
 
 ### Related:
 

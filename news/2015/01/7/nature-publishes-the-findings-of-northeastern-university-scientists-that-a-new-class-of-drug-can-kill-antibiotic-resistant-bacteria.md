@@ -8,6 +8,7 @@ By Kate KellandLONDON - Scientists have discovered a new antibiotic, teixobactin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/08/us-health-antibiotic-discovery-idUSKBN0KH10S20150108)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

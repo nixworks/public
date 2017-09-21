@@ -8,6 +8,7 @@ Six parties withdraw from Juba conference discussing the future of south Sudan.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200992992348587440.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

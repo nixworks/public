@@ -9,6 +9,7 @@ A missile launched by North Korea from an area near its capital Pyongyang flies 
 
 1. [RT](https://www.rt.com/news/389102-north-korea-missile-launch/)
 2. [Reuters|AP via ABC Australia](http://www.abc.net.au/news/2017-05-21/north-korea-unidentified-projectile-south-military-says/8545408)
+2. [Cover Image](http://www.abc.net.au/news/image/8527774-1x1-700x700.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prominent opposition candidates of disputed 2009 vote, are barred from leaving c
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122518651842634.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/25/20101225182937995633_20.jpg)
 
 ### Related:
 

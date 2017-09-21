@@ -8,6 +8,7 @@ The U.S. Treasury Department will clamp down further this week on corporate inco
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/18/us-usa-tax-inversions-idUSKCN0T732U20151118?feedType=RSS&feedName=newsOne&google_editors_picks=true#QHUKoyyLUB0FkI0Q.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151118&t=2&i=1096025003&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAH1DS)
 
 ### Related:
 

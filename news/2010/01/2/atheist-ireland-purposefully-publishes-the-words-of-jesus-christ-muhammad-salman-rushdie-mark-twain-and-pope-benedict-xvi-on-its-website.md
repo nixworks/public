@@ -10,6 +10,7 @@ Atheists have begun a campaign against the Government&rsquo;s new blasphemy law,
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8437460.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/02/ireland.blasphemy.law/)
 3. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0102/breaking22.htm)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

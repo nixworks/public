@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Science Magazine/AAAS](http://www.sciencemag.org/content/342/6157/409.full)
+1. [Cover Image](http://science.sciencemag.org/content/342/6157/F1.medium.gif)
 
 ### Related:
 

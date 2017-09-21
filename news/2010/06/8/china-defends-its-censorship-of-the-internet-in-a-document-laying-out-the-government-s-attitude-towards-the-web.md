@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/20106852938900625.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8727647.stm)
 3. [China Daily](http://www.chinadaily.com.cn/china/2010-06/08/content_9948496.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

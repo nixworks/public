@@ -8,6 +8,7 @@ A Rwandan doctor working at a hospital in northern France is suspected of being 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59H1BI20091018)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

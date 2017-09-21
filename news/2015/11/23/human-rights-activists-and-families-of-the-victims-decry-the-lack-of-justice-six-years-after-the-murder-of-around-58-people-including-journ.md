@@ -10,6 +10,7 @@ Six years after gunmen flagged down a convoy of cars in the southern Philippine 
 1. [ABC News](http://abcnews.go.com/International/wireStory/hope-fading-justice-philippines-worst-massacre-35368912)
 2. [Fox News](http://www.foxnews.com/world/2015/11/23/families-victims-killed-in-philippines-worst-massacre-losing-hope-seeing/)
 3. [Voice of America](http://m.voanews.com/a/justice-elusive-in-2009-philippines-massacre/3069781.html)
+3. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

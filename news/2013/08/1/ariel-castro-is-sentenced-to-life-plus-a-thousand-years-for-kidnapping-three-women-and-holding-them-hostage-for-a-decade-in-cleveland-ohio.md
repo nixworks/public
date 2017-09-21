@@ -8,6 +8,7 @@ Ariel Castro is jailed for life plus 1,000 years for kidnapping three women and 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-08-02/ariel-castro-formally-sentenced/4860146)
+1. [Cover Image](http://www.abc.net.au/news/image/4860640-1x1-700x700.jpg)
 
 ### Related:
 

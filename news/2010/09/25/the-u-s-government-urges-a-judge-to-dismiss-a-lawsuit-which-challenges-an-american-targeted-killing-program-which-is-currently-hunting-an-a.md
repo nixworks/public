@@ -8,6 +8,7 @@ The Obama administration on Saturday urged a federal judge to reject a challenge
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68O0EV20100925)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

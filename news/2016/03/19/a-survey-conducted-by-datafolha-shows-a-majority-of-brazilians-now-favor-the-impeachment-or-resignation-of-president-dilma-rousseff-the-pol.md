@@ -8,6 +8,7 @@ A growing majority of Brazilians favour impeachment of President Dilma Rousseff 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-brazil-politics-poll-idUKKCN0WL0Y0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160319&t=2&i=1126191451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2I0LB)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Boko Haram gunmen killed at least 43 people and burnt down three villages in nor
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/boko-haram-kills-43-ne-nigeria-raids-residents-162751629.html;_ylt=AwrC1zEVuHlVQjoAXnbQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/qTpXJWSlzkXjepb7bshFoQ--/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/087f8fe88ef5b95ef3f2945d2a301d4374666cfc.jpg)
 
 ### Related:
 

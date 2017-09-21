@@ -8,6 +8,7 @@ US astronaut Scott Kelly and Russian cosmonaut Mikhail Kornienko touch down safe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-35651665)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F55D/production/_88531826_031765615.jpg)
 
 ### Related:
 

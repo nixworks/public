@@ -8,3 +8,4 @@ Tensions mounted at the site of a federal cattle roundup in northeastern Clark C
 ### Source:
 
 1. [Las Vegas Review Journal](http://www.reviewjournal.com/news/nevada/militias-mobilizing-support-embattled-clark-county-rancher-clash-federal-rangers)
+1. [Cover Image](http://www.reviewjournal.com/sites/default/files/field/media/youtube_bundy_040914_p_0.jpg)

@@ -8,6 +8,7 @@ Russian venture capitalist and physicist Yuri Milner is teaming up with famed co
 ### Source:
 
 1. [UPI](http://www.upi.com/Science_News/2016/04/12/Yuri-Milner-and-Stephen-Hawking-announce-Breakthrough-Starshot/7031460489701/?spt=rln&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/7031460489701/2016/1/14604917298926/v2.1/Yuri-Milner-and-Stephen-Hawking-announce-Breakthrough-Starshot.jpg)
 
 ### Related:
 

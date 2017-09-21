@@ -9,6 +9,7 @@
 
 1. [El Heraldo](http://www.elheraldo.hn/Secciones-Principales/Sucesos/Honduras-captura-a-capo-buscado-por-Colombia)
 2. [Voice of Russia](http://english.ruvr.ru/2013_01_20/Honduras-arrests-drug-lord-wanted-in-Columbia/)
+2. [Cover Image](http://www.elheraldo.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=QxdlN4hDg4wzvVAdVAOZtc$daE2N3K4ZzOUsqbU5sYtUeXmhCrk1RaxFGg9Vxfb4WCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg)
 
 ### Related:
 

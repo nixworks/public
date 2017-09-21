@@ -10,6 +10,7 @@ Australia is deeply concernedover the arrest of two Australian journalists in Ma
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/australia-raises-case-of-detained-newsmen-with-malaysia/2016/03/13/33332e50-e97c-11e5-a9ce-681055c7a05f_story.html)
 2. [Reuters](http://in.reuters.com/article/malaysia-politics-australia-idINL3N16M087)
 3. [The Sydney Morning Herald](http://www.smh.com.au/national/abc-four-corners-crew-grateful-for-support-after-being-detained-in-malaysia-20160314-gni83g.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

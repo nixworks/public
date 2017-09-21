@@ -10,6 +10,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 1. [Hindu.com](http://www.hindu.com/thehindu/holnus/000200505261201.htm)
 2. [Pakistan Dawn](http://www.dawn.com/2005/05/26/top7.htm)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8609502&type=topNews)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

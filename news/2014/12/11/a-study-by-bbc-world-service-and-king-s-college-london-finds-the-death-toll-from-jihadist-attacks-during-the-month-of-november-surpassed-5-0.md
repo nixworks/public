@@ -8,6 +8,7 @@ The BBC tracked fatal jihadist attacks around the globe for the month of Novembe
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-30080914)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79686000/jpg/_79686908_promo_464.jpg)
 
 ### Related:
 

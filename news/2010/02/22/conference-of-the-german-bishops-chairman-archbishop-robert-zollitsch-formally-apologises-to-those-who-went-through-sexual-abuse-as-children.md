@@ -10,6 +10,7 @@ The head of the German Bishop&#39;s Conference Archbishop, Robert Zollitsch, has
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5275175,00.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0222/abuse.html)
 3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1186365&lang=eng_news)
+3. [Cover Image](https://img.rasset.ie/0002ee10-1600.jpg)
 
 ### Related:
 

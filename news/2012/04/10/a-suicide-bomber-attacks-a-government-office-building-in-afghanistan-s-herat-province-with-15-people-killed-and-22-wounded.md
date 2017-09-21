@@ -9,6 +9,7 @@ Taliban claim responsibility for suicide attacks targeting government buildings 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/04/201241051057363598.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/apr/10/afghanistan-hit-two-deadly-suicide-attacks?INTCMP=SRCH)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/10/201241072050497734_20.jpg)
 
 ### Related:
 

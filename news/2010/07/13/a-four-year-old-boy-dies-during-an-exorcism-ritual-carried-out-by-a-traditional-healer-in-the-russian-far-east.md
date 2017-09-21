@@ -8,6 +8,7 @@ A four-year-old boy has died during an exorcism ritual carried out by a traditio
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/russian-boy-dies-during-exorcism-ritual-20100713-109ja.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

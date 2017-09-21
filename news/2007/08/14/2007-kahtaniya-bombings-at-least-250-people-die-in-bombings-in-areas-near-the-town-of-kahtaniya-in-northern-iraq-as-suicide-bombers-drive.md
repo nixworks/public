@@ -11,6 +11,7 @@ At least 175 people were killed when three suicide bombers driving fuel tankers 
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/15/2005229.htm)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSL1484109720070814?feedType=RSS&feedName=topNews)
 4. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/08/14/wiraq114.xml)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070814&t=2&i=1297704&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-14T210407Z_01_L14841097_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -9,6 +9,7 @@ UN agency says food prices at highest point in 20 years, as a result of stockpil
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/03/20113318290458178.html)
 2. [Sify India](http://www.sify.com/finance/fao-warns-on-oil-as-world-food-prices-hit-record-news-news-ldebOdifdid.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/21/20112211249627371_20.jpg)
 
 ### Related:
 

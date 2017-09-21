@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/middle-east/1.563813)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.563827.1387186380!/image/348650660.jpg_gen/derivatives/headline_1200x630/348650660.jpg)
 
 ### Related:
 

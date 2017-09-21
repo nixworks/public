@@ -8,6 +8,7 @@ Susan Kiefel is sworn in as Chief Justice of the High Court.
 ### Source:
 
 1. [Radio National](http://www.abc.net.au/radionational/programs/lawreport/2017-01-31/8222950)
+1. [Cover Image](http://www.abc.net.au/radionational/image/8225642-1x1-700x700.jpg)
 
 ### Related:
 

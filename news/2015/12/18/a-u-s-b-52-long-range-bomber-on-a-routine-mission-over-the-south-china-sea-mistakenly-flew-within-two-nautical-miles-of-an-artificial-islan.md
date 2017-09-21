@@ -8,6 +8,7 @@ US Navy says its B-52 plane had no intention of flying so close to the Chinese-c
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/19/south-china-sea-us-bomber-angers-beijing-with-spratly-islands-flypast)
+1. [Cover Image](https://i.guim.co.uk/img/media/35d7b861f725bdcf018f5405cbf65093cddcf9cc/0_417_4500_2700/master/4500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0e9634c98bdf5662cd4e0c3c4ffa9768)
 
 ### Related:
 

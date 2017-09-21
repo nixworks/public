@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-space-mars-idUSKBN12F0U7)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161016&t=2&i=1157650786&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9F0JO)
 
 ### Related:
 

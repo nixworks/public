@@ -8,6 +8,7 @@ The US military says it is withdrawing some of the more than 200 troops it has i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13555557)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52998000/jpg/_52998135_52998134.jpg)
 
 ### Related:
 

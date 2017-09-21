@@ -8,6 +8,7 @@ The top U.S. military commander in Afghanistan said on Friday the decision to de
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-afghanistan-bomb-idUSKBN17F27U)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170413&t=2&i=1180566181&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3C1KX)
 
 ### Related:
 

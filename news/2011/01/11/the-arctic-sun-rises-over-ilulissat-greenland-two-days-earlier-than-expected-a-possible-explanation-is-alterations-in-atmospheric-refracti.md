@@ -10,6 +10,7 @@ The best of British &amp; international news, opinion, sport, people &amp; busin
 1. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1346936/The-sun-rises-days-early-Greenland-sparking-fears-climate-change-accelerating.html)
 2. [First Post](http://www.thefirstpost.co.uk/73759,news-comment,news-politics,climate-change-brings-sunrise-two-days-early-to-greenland)
 3. [LiveScience](http://www.livescience.com/environment/early-sunrise-arctic-greenland-110117.html)
+3. [Cover Image](https://i1.sndcdn.com/avatars-000089015317-gz9jj0-t500x500.jpg)
 
 ### Related:
 

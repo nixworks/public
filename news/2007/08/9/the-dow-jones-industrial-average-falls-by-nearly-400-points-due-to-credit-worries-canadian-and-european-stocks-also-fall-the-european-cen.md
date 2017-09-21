@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/news/story/story.aspx?guid=%7BE7B532C8%2D1B47%2D4E5D%2D8F68%2DC5E6C3CBBC1E%7D&siteid=rss)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

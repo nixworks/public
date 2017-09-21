@@ -8,6 +8,7 @@ A day after beginning talks on the boundary question, India and China on Tuesday
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/article2808382.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article13339082.ece/ALTERNATES/LANDSCAPE_615/18TH-_PM)
 
 ### Related:
 

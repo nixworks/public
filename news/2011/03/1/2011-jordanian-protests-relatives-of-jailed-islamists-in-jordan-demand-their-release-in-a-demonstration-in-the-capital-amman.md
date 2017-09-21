@@ -9,6 +9,7 @@ Amman, March 1 (DPA) Hundreds of relatives protested in Amman Tuesday to press f
 
 1. [Sify India](http://www.sify.com/news/relatives-of-jailed-islamists-protest-in-jordan-news-international-ldbwufafaae.html)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4036177,00.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

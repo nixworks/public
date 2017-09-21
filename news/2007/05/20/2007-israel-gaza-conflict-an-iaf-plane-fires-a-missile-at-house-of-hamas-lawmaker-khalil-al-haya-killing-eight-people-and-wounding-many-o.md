@@ -9,6 +9,7 @@ Air force targets armed gunmen in street in Sajaiya neighborhood, Palestinians c
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSL1731780720070520)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3402572,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

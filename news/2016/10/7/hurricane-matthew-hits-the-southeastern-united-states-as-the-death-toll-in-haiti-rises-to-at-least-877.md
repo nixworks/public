@@ -11,6 +11,7 @@
 2. [ITV](http://www.itv.com/news/story/2016-10-07/hurricane-matthew-hundreds-dead-in-haiti-as-state-of-emergency-declared-in-us-states/)
 3. [Reuters](http://www.reuters.com/article/storm-matthew-haiti-idINKCN1271OB)
 4. [Sky News](http://news.sky.com/story/haiti-cholera-fears-after-hurricane-matthew-kills-136-people-10607911)
+4. [Cover Image](http://e3.365dm.com/16/10/1600x900/5d44b7ab1eceaa6276193ff1e38751c065f7246513faa45e469c87bd8be3d4f2_3802968.jpg?20161007134534)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Talks on forming a new Greek government end without a breakthrough but will resu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18063092)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60233000/jpg/_60233985_014747503-1.jpg)
 
 ### Related:
 

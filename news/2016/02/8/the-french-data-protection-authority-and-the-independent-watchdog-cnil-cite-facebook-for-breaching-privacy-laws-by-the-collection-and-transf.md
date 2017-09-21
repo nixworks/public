@@ -9,6 +9,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 1. [AP via ABC News](http://abcnews.go.com/Technology/wireStory/agencies-contend-facebook-breaching-french-privacy-laws-36815981)
 2. [Reuters](http://www.reuters.com/article/us-facebook-france-privacy-idUSKCN0VH1U1)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160208&t=2&i=1115931858&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1710P)
 
 ### Related:
 

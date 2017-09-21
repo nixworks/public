@@ -12,6 +12,7 @@
 3. [Resignation letter](http://www.rte.ie/news/2010/1102/mcdaid.pdf)
 4. [Reuters](http://www.reuters.com/article/idUSWLA686420101102)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1103/1224282561800.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

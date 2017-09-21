@@ -19,7 +19,7 @@ _Context: Mikhail Fradkov, Prime Minister of Russia, Russian President Vladimir 
 _Context: Belgium, Marc Dutroux, Murderer, child molestation_
 
 ### [ Same-sex marriage in the United States: President of the United States George W. Bush urges passage of a constitutional amendment to define marriage as between one man and one woman, as the only way to stop "municipal and judicial activists" from issuing marriage licenses to same-sex couples. "If we are to prevent the meaning of marriage from being changed forever, our nation must enact a constitutional amendment." John Kerry denounces the amendment as "toying" or "tampering" with the Constitution of the United States for partisan advantage. ](/news/2004/03/1/same-sex-marriage-in-the-united-states-president-of-the-united-states-george-w-bush-urges-passage-of-a-constitutional-amendment-to-define.md)
-_Context: George W. Bush, John Kerry, President, constitutional amendment to ban, marriage, same-sex marriage, unconstitutional_
+_Context: George W. Bush, John Kerry, U.S. President, constitutional amendment to ban, marriage, same-sex marriage, unconstitutional_
 
 ### [ The winners of the BAFTA Games Awards are announced. The controversial and popular Grand Theft Auto: Vice City sweeps the pool, with five awards. ](/news/2004/03/1/the-winners-of-the-bafta-games-awards-are-announced-the-controversial-and-popular-grand-theft-auto-vice-city-sweeps-the-pool-with-five-a.md)
 _Context: British Academy of Film and Television Arts, Grand Theft Auto: Vice City_

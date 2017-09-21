@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8630213.stm)
 3. [Financial Times](http://www.ft.com/cms/s/0/183a3346-4bad-11df-9db6-00144feab49a.html?ftcamp=rss)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE63I29H20100419?feedType=RSS&feedName=worldNews)
+4. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20100419&t=2&i=94395408&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-19T193003Z_01_BTRE63I1I6800_RTROPTP_0_IRAQ-ELECTION)
 
 ### Related:
 

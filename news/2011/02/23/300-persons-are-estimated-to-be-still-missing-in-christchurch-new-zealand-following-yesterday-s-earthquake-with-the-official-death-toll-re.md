@@ -13,6 +13,7 @@
 4. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708071)
 5. [SBS](http://www.sbs.com.au/news/article/1489207/Rescuers-focus-on-survivors-of-NZ-quake)
 6. [Sydney Morning Herald](http://www.smh.com.au/world/looters-arrested-as-police-order-christchurch-curfew-20110223-1b588.html)
+6. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20119/SCCZEN_GYI0063635319_1024x76883617.JPG)
 
 ### Related:
 

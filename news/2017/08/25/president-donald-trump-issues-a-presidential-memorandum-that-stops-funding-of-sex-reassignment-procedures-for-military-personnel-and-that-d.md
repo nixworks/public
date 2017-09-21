@@ -9,6 +9,7 @@ The suit was filed in U.S. District Court in Washington on behalf of five transg
 
 1. [AP via NBC News](https://www.nbcnews.com/news/military/lawsuit-opposes-trump-s-ban-transgender-military-service-n791241)
 2. [The Washington Post](https://www.washingtonpost.com/politics/trump-directs-pentagon-to-implement-ban-on-transgender-service-members-bans-sex-reassignment-surgery/2017/08/25/c8c604d8-89e4-11e7-9ce7-9e175d8953fa_story.html?utm_term=.7ed979afbe85)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_32/2114461/170809-transgender-military-ban-se-303p_0e763760efb9b3f7c5e1dd8108adb7d6.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

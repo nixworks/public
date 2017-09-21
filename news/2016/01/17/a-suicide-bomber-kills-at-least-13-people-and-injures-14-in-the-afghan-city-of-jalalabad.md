@@ -9,6 +9,7 @@ Fourteen people were killed Sunday when a suicide bomber struck a gathering of t
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/suicide-bomb-attack-kills-11-eastern-afghanistan-officials-074439678.html;_ylt=AwrXoCDvVZtWjUwA2T_QtDMD;_ylu=X3oDMTByb2lvbXVuBGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
 2. [Reuters via LBC Australia](http://www.lbcaustralia.com/news/247197/suicide-bomber-kills-nine-people-in-eastern-afghan/en)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/JJ7If0RR8ijYA98QbuYd3A--/aD03MjQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DEL-Del8397226-1-1-0.jpg)
 
 ### Related:
 

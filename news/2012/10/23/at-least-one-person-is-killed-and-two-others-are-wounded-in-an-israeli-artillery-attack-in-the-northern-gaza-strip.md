@@ -8,6 +8,7 @@ Artillery attack targets fighters trying to launch rockets into Israel, hours af
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/20121023202632194449.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/24/2012102411346317734_20.jpg)
 
 ### Related:
 

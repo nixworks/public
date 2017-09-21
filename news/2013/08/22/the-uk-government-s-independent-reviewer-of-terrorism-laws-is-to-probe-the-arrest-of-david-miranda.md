@@ -8,6 +8,7 @@ Examination of material seized from David Miranda at Heathrow airport under anti
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23790578)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69382000/jpg/_69382725_69382724.jpg)
 
 ### Related:
 

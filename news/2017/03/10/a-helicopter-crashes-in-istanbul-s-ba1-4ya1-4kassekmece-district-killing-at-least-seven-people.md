@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Sabah](https://www.dailysabah.com/turkey/2017/03/10/at-least-5-killed-in-helicopter-accident-in-istanbul)
+1. [Cover Image](https://iadsb.tmgrup.com.tr/28d46e/645/344/0/71/1122/671?u=https://idsb.tmgrup.com.tr/2017/03/10/at-least-5-killed-in-helicopter-accident-in-istanbul-1489137228740.jpg)
 
 ### Related:
 

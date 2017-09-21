@@ -8,6 +8,7 @@ Turkey said on Monday it wanted to cooperate with Moscow in combating Islamic St
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-turkey-russia-idUSKCN0ZK0QH)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160705&t=2&i=1144218324&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC630DC)
 
 ### Related:
 

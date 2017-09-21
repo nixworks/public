@@ -10,6 +10,7 @@ China is to open disputed South China Sea islands up to tourism this month, stat
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/taiwan-plans-to-expand/630042.html)
 2. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/china-to-open-disputed/629928.html)
 3. [Wired UK](http://www.wired.co.uk/news/archive/2013-04/7/china-paracel-islands)
+3. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)
 
 ### Related:
 

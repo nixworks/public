@@ -8,6 +8,7 @@ Minister for Foreign Affairs Miche√°l Martin is is expected to arrive in Khartou
 ### Source:
 
 1. [RT…](http://www.rte.ie/news/2009/0905/comminss.html)
+1. [Cover Image](https://img.rasset.ie/00026f09-1600.jpg)
 
 ### Related:
 

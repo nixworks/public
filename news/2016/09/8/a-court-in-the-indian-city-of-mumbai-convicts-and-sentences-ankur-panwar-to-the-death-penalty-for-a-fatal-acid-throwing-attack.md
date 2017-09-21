@@ -8,6 +8,7 @@ An Indian man is sentenced to death for a fatal acid attack on a woman in Mumbai
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-37304187)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0240/production/_91067500_20130721_dli-sv-mn_preetirathi_0009_09.jpg)
 
 ### Related:
 

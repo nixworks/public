@@ -10,6 +10,7 @@ Miriam O&#039;Reilly, the former Countryfile presenter who has today won her cas
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12161045)
 2. [The Guardian](http://www.guardian.co.uk/media/2011/jan/11/countryfile-miriam-oreilly-tribunal)
 3. [The Telegraph](http://www.telegraph.co.uk/culture/tvandradio/bbc/8252309/Miriam-OReilly-set-to-return-to-BBC-after-winning-tribunal-case.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01800/MiriamO_Reilly_1800886a.jpg)
 
 ### Related:
 

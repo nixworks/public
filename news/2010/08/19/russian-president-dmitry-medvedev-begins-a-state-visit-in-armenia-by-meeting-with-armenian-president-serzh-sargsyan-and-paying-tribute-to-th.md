@@ -9,6 +9,7 @@ The Russian president Dmitry Medvedev laid a wreath at the memorial of the victi
 
 1. [Aysor](http://www.aysor.am/en/news/2010/08/19/medvedev-tsitsernakaberd/)
 2. [Reuters](http://af.reuters.com/article/ivoryCoastNews/idAFLDE67H0HD20100818)
+2. [Cover Image](http://aysor.am/news_images/62/184776_3/f546cc4deebb8c_546cc4deebf73.thumb.jpg)
 
 ### Related:
 

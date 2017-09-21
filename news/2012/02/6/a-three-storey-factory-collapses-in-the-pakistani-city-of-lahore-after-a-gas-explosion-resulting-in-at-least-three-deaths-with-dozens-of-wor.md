@@ -8,6 +8,7 @@ A three-storey factory collapsed on Monday in the Pakistani city of Lahore after
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/06/us-pakistan-factory-collapse-idUSTRE8150A820120206)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

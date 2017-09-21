@@ -9,6 +9,7 @@ Chile has confirmed its first case of the Zika virus having been sexually transm
 
 1. [Reuters](http://www.reuters.com/article/us-health-zika-chile-idUSKCN0WT00Q)
 2. [UPI](http://www.upi.com/Health_News/2016/03/26/Women-shouldnt-attempt-conception-for-2-months-after-Zika-exposure-CDC/7911459026299/?spt=hs&or=hn)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160327&t=2&i=1128100342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2Q00C)
 
 ### Related:
 

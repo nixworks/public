@@ -10,6 +10,7 @@ A senior Romanian diplomat is detained in Russia, accused by the FSB security ag
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10990262)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_World&set_id=1&click_id=3&art_id=nw20100816191153150C132011)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/17/c_13447814.htm)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

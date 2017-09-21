@@ -8,6 +8,7 @@ Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-gov-jerry-brown-senate-leader-kevin-1505163123-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-59b72e02/turbine/la-pol-ca-essential-politics-updates-gov-jerry-brown-senate-leader-kevin-1505163123)
 
 ### Related:
 

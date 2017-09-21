@@ -9,6 +9,7 @@
 
 1. [The Australian](http://www.theaustralian.com.au/business/borders-angus-robertson-parent-redgroup-retail-in-voluntary-administration/story-e6frg8zx-1226007712326)
 2. [The Sydney Morning Herald](http://www.smh.com.au/business/borders-angus--robertson-go-bust-20110217-1axt9.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/a/x/u/5/image.related.articleLeadwide.620x349.1axt9.png/1297938373413.jpg)
 
 ### Related:
 

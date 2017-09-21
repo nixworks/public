@@ -9,6 +9,7 @@ Up to 19 people are killed and more than 60 injured after two passenger trains c
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/2010128131140475261.html)
 2. [BD News 24](http://bdnews24.com/details.php?id=181044&cid=2)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/8/201012819379652633_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Twenty-eight people were wounded, seven of them seriously, in a blast at an anti
 ### Source:
 
 1. [Melbourne Age](http://www.theage.com.au/world/second-blast-injures-28-in-bangkok-protest-20140119-312qx.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/3/1/2/y/k/image.related.articleLeadwide.620x349.312qx.png/1390143764773.jpg)
 
 ### Related:
 

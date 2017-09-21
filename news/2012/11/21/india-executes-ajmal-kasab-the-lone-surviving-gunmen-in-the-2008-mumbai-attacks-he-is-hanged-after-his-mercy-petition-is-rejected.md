@@ -8,6 +8,7 @@ India has hanged Mohammad Ajmal Kasab, the only militant to have survived the 20
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-11-21/an-indian-executes-mumbai-gunman-kasab/4384266)
+1. [Cover Image](http://www.abc.net.au/news/image/220620-1x1-700x700.jpg)
 
 ### Related:
 

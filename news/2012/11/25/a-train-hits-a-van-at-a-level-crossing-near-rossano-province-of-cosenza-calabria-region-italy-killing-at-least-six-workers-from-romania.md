@@ -9,6 +9,7 @@ A train hit a van in southern Italyon Saturday, killing at least six people, the
 
 1. [CNN](http://www.cnn.com/2012/11/24/world/europe/italy-train-deaths/)
 2. [Reuters](http://www.reuters.com/article/2012/11/24/italy-crash-idUSL5E8MO1CI20121124)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

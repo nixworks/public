@@ -8,6 +8,7 @@ The Powerball jackpot was estimated at $1.6 billion on Wednesday.
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/powerball-lottery-drawing-record-15b-jackpot-tonight/story?id=36275166)
+1. [Cover Image](http://a.abcnews.com/images/US/GTY_Powerball_04_mm_160113_16x9_992.jpg)
 
 ### Related:
 

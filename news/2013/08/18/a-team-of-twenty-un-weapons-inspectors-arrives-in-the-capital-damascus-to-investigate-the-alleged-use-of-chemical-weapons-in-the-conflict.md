@@ -8,6 +8,7 @@ A team of UN weapons inspectors arrives in the Syrian capital of Damascus to inv
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23747375)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69052000/jpg/_69052921_67439702.jpg)
 
 ### Related:
 

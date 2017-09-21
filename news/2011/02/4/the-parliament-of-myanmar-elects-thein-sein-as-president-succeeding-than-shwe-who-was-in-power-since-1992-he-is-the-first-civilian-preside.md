@@ -9,6 +9,7 @@
 
 1. [AP via Yahoo! News](http://ca.news.yahoo.com/myanmar-parliament-choose-president-likely-contender-seen-juntas-20110203-202716-193.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/2011248226620572.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/4/20112482052764621_20.jpg)
 
 ### Related:
 

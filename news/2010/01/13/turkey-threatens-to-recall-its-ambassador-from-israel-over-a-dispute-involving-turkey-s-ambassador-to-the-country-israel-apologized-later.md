@@ -10,6 +10,7 @@
 1. [Ha'aretz](http://www.haaretz.com/hasen/spages/1142344.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE60C1M420100113)
 3. [Today's Zaman](http://www.todayszaman.com/tz-web/news-198418-turkey-says-will-withdraw-ambassador-if-israel-does-not-apologize.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100113&t=2&i=44928478&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-13T124544Z_01_BTRE60C0ZGB00_RTROPTP_0_ISRAEL-TURKEY)
 
 ### Related:
 

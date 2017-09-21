@@ -8,6 +8,7 @@ The account of what happened at the Bushehr plant was the first official rationa
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/03/01/world/middleeast/01nuke.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

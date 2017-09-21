@@ -8,6 +8,7 @@ He has been heroic, persistent, and twice as illuminating as the purportedly rea
 ### Source:
 
 1. [The New Yorker](http://www.newyorker.com/magazine/2015/08/10/exit-stage-left)
+1. [Cover Image](http://www.newyorker.com/wp-content/uploads/2015/07/FB-Remnick-Comment.jpg)
 
 ### Related:
 

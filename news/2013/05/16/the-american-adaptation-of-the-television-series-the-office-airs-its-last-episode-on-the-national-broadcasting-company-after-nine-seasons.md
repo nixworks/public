@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/17/entertainment-us-theoffice-idUSBRE94G04220130517)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130517&t=2&i=732523905&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94G0A6300)
 
 ### Related:
 

@@ -9,6 +9,7 @@ And all of them are in the temperate zone.
 
 1. [NBC News](http://www.nbcnews.com/mach/space/watch-live-nasa-announces-major-exoplanet-discovery-n724111)
 2. [The Atlantic](https://www.theatlantic.com/science/archive/2017/02/seven-exoplanets/517446/)
+2. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2017/02/PIA21421/facebook.jpg?1487778505)
 
 ### Related:
 

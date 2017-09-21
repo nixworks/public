@@ -8,6 +8,7 @@ South African prosecutors provisionally withdrew murder charges on Sunday agains
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/02/us-safrica-mining-idUSBRE88102120120902)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120902&t=2&i=648630480&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8810T3G00)
 
 ### Related:
 

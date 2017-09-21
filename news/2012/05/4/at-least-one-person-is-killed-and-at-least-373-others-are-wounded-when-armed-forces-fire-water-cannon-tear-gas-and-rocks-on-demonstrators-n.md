@@ -8,6 +8,7 @@ Hundreds, including journalists, held after deadly clashes between security forc
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201254182846641409.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/4//201254183139893580_20.jpg)
 
 ### Related:
 

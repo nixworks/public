@@ -8,6 +8,7 @@
 ### Source:
 
 1. [LiveUAMap](http://liveuamap.com/e/2014/21-september-the-monument-to-lenin-in-the-central-square?ll=49.99493972181099;36.22986316680896&zoom=8)
+1. [Cover Image](https://pbs.twimg.com/media/ByE29kkIAAEyw5w.jpg)
 
 ### Related:
 

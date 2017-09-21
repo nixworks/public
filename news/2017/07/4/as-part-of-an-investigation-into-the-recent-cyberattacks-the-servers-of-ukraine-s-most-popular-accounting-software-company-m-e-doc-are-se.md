@@ -8,6 +8,7 @@ M.E.Doc&#x27;s owners deny that some initial infections last week were spread vi
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/ukrainian-software-firm-s-servers-seized-after-cyber-attack-n779531)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_26/2053896/170627-cyberattack-ac-449p_561d03326ed34573d8b682dfe14249e8.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-18982453)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61811000/jpg/_61811427_015392923-1.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [ The London Organising Committee for the Olympic Games unveils the official logo for the 2012 Summer Olympics and 2012 Paralympics, to be held in London, England. ](/news/2007/06/4/the-london-organising-committee-for-the-olympic-games-unveils-the-official-logo-for-the-2012-summer-olympics-and-2012-paralympics-to-be-he.md) _Context: 2012 Summer Olympics_
 8. [ The 2012 Summer Olympics may have been given to London by a voting error, a senior IOC official theorised. ](/news/2005/12/23/the-2012-summer-olympics-may-have-been-given-to-london-by-a-voting-error-a-senior-ioc-official-theorised.md) _Context: 2012 Summer Olympics_
 9. [ The International Olympic Committee names London, United Kingdom as the site of the 2012 Summer Olympics. [http://news.bbc.co.uk/sport1/hi/front_page/4655555.stm (BBC)] [http://abcnews.go.com/Sports/wireStory?id=909526 (ABC)] (Link dead as of 04:20, 16 January 2007 (UTC)), [http://edition.cnn.com/2005/SPORT/07/05/singapore.olympics/index.html (CNN)] (Wikinews)](/news/2005/07/6/the-international-olympic-committee-names-london-united-kingdom-as-the-site-of-the-2012-summer-olympics-http-news-bbc-co-uk-sport1-hi.md) _Context: 2012 Summer Olympics_
-10. [ The International Olympic Committee selects London, Madrid, Moscow, New York City, and Paris as finalists to host the 2012 Summer Olympics. The winner will be announced on June 6, 2005. ](/news/2004/05/18/the-international-olympic-committee-selects-london-madrid-moscow-new-york-city-and-paris-as-finalists-to-host-the-2012-summer-olympics.md) _Context: 2012 Summer Olympics_
+10. [ Candidate cities for the 2012 Summer Olympics (Paris, London, Madrid, Moscow, and New York City) submit 120 copies of their candidate files to the International Olympic Committee. The IOC will announce the winning candidate in Singapore in July 2005. ](/news/2004/11/15/candidate-cities-for-the-2012-summer-olympics-paris-london-madrid-moscow-and-new-york-city-submit-120-copies-of-their-candidate-files.md) _Context: 2012 Summer Olympics_

@@ -10,6 +10,7 @@ Gains come as NATO bombs Tripoli, with strikes hitting eastern neighbourhoods of
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011614133151319133.html)
 2. [CNN](http://globalpublicsquare.blogs.cnn.com/2011/06/15/what-does-the-libya-lawsuit-mean/)
 3. [Politico](http://www.politico.com/news/stories/0611/57032.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/14/2011614144124625734_20.jpg)
 
 ### Related:
 

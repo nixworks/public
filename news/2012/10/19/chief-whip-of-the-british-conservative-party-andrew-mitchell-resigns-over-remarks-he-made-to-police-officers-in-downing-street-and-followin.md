@@ -8,6 +8,7 @@ Chief Whip Andrew Mitchell resigns over rude remarks he made to police officers 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-19922026)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63605000/jpg/_63605523_63068999.jpg)
 
 ### Related:
 

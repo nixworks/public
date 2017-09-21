@@ -10,6 +10,7 @@ Ex-Panama leader faces charges of laundering Colombian drug money in French bank
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062811425764110.html)
 2. [Arab News](http://arabnews.com/world/article75074.ece)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/28/manuel-noriega-panama-trial-paris)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

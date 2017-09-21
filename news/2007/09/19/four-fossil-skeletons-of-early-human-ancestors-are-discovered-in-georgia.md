@@ -8,6 +8,7 @@ The discovery of four fossil skeletons of human ancestors in Georgia, a former S
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/20/science/20fossil.html?ex=1347940800&en=5571610a49ff5906&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

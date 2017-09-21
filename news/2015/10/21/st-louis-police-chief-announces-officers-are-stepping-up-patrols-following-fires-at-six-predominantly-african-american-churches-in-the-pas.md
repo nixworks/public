@@ -9,6 +9,7 @@ Fires have been set at the front doors of six churches in St. Louis and Jennings
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/six-fires-st-louis-churches-under-investigation-reward-offered-n447836)
 2. [St. Louis Post-Dispatch](http://www.stltoday.com/news/local/crime-and-courts/st-louis-police-add-patrols-trying-to-crack-string-of/article_26d2eb76-f517-5394-9a21-f31ccfdc024a.html)
+2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/92/e927eb61-fdba-545a-8054-3fcd7c90b901/5626f54b0c23b.image.jpg?crop=1599%2C1199%2C64%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize)
 
 ### Related:
 

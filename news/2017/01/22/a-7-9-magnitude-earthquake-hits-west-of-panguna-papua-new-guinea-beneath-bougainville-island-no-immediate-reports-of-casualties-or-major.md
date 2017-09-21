@@ -11,6 +11,7 @@ A magnitude-7.9 earthquake strikes off the coast of Bougainville Island in Papua
 2. [Reuters/AP via ABC](http://www.abc.net.au/news/2017-01-22/earthquake-hits-papua-new-guinea-tsunami-possible/8201724)
 3. [TVNZ](https://www.tvnz.co.nz/one-news/world/no-tsunami-warning-new-zealand-after-magnitude-7-9-earthquake-hits-solomon-islands)
 4. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10007uph#executive)
+4. [Cover Image](http://www.abc.net.au/news/image/8201740-1x1-700x700.jpg)
 
 ### Related:
 

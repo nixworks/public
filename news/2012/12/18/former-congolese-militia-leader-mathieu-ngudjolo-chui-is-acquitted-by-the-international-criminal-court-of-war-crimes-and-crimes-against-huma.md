@@ -8,6 +8,7 @@ The International Criminal Court orders that a former Congolese militia leader s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20766597)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64824000/jpg/_64824397_64824396.jpg)
 
 ### Related:
 

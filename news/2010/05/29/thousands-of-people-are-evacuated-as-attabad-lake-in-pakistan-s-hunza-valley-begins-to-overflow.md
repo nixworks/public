@@ -8,6 +8,7 @@ Evacuation of villages under way in Hunza and Gilgit amid fears of a dangerous b
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201052910456809782.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

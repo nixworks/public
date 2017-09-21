@@ -8,6 +8,7 @@ The rocket geosynchronous satellite launch vehicle (GSLV) exploded mid-air momen
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/GSAT-5P-launch-fails-satellite-vehicle-explodes-mid-air/articleshow/7162634.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/7162648.cms)
 
 ### Related:
 

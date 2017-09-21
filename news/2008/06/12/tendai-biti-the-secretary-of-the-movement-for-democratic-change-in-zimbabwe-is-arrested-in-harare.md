@@ -8,6 +8,7 @@ The secretary general of Zimbabwe&#039;s Opposition, the Movement for Democratic
 ### Source:
 
 1. [AFP and ABC News Australia](http://www.abc.net.au/news/stories/2008/06/12/2273265.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

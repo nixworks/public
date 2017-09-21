@@ -8,6 +8,7 @@ NATO would have expanded by now to admit ex-Soviet republics if Russia had not i
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2011/11/21/idINIndia-60645720111121)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111121&t=2&i=535862735&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-11-21T203546Z_01_NOOTR_RTRMDNC_0_India-606457-1)
 
 ### Related:
 

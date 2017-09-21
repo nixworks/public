@@ -8,6 +8,7 @@ China fines UK pharmaceuticals firm GlaxoSmithKline $490m (£297m) for bribery a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-29274822)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77687000/jpg/_77687115_v8y17mtq.jpg)
 
 ### Related:
 

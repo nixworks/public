@@ -9,6 +9,7 @@ Gun rights advocates are frustrated that the justices won&rsquo;t address laws r
 
 1. [Reuters](http://www.reuters.com/article/us-usa-court-guns-idUSKBN0TQ1SU20151207)
 2. [The Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-wont-review-laws-banning-so-called-assault-weapons/2015/12/07/b562678e-96fb-11e5-94f0-9eeaff906ef3_story.html)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100523792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60SJ)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Another close Russian fighter jet fly-by of a U.S. aircraft prompts plea from Ad
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/news/us-navy-chief-asks-russia-to-stop-buzzing-his-ships-and-aircraft/?google_editors_picks=true)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/04/13/d724f9fc-4507-4d54-a93a-ea7cfe7bff54/russiabalticdonaldcook.jpg)
 
 ### Related:
 

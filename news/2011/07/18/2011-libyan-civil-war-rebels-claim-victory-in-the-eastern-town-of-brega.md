@@ -11,6 +11,7 @@ Reports from the Syrian city of Hama say 50 protesters have been released and go
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14182585)
 3. [Gulf News](http://gulfnews.com/news/region/syria/qatar-embassy-suspends-mission-in-syria-1.839272)
 4. [Reuters](http://af.reuters.com/article/topNews/idAFJOE76H00Q20110718?sp=true)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54103000/jpg/_54103452_012465522-1.jpg)
 
 ### Related:
 

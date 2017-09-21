@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Telesur TV](http://www.telesurtv.net/english/news/Colombia-Lower-House-Approves-FARC-Govt-Peace-Deal-130-0-20161130-0003.html)
+1. [Cover Image](http://www.telesurtv.net/__export/1480564628278/sites/telesur/img/news/2016/11/30/colombia_peace_agreement.jpg_1810791533.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Jon Lord, keyboard player and a founder member of rock band Deep Purple, dies af
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18864409)
 2. [NME](http://www.nme.com/news/deep-purple/64953)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61604000/jpg/_61604473_jonlord.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The long-awaited extradition hearing for internet entrepreneur Kim Dotcom by US 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-34311267)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5BA9/production/_85656432_6d7af6b4-788e-4352-9a4c-fd688acda2d1.jpg)
 
 ### Related:
 

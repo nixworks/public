@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Greek Reporter](http://greece.greekreporter.com/2015/02/18/first-greek-presidential-ballot-results-elect-prokopis-pavlopoulos/)
+1. [Cover Image](http://greece.greekreporter.com/files/Pavlopoylos1.jpg)
 
 ### Related:
 

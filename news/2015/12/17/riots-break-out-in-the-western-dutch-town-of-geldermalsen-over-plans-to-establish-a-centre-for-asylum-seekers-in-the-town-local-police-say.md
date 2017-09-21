@@ -8,6 +8,7 @@ A meeting in a Dutch down discussing plans to build a centre to house asylum see
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35118496)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7FD5/production/_87252723_87252722.jpg)
 
 ### Related:
 

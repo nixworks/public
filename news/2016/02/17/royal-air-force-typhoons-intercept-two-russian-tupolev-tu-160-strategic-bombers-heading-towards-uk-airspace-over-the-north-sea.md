@@ -8,6 +8,7 @@ The Russian aircraft are in the UK&#039;s &quot;area of interest&quot; and are b
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1643693/raf-jets-scrambled-to-intercept-russian-bombers)
+1. [Cover Image](http://e3.365dm.com/16/02/1600x900/pa-12586761-1-2048x1536_3417382.jpg?20160217154639)
 
 ### Related:
 

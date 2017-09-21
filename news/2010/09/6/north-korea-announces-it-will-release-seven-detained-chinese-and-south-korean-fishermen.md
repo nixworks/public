@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/2010/2010/09/20109693422413913.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/06/c_13480958.htm)
 3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/09/06/10/0401000000AEN20100906007000315F.HTML)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/6/201096104731361360_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Eight Ukrainian service personnel have been killed and 34 wounded in fighting ag
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/13/us-ukraine-crisis-casualties-idUSKBN0LH0KA20150213?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150213&t=2&i=1024734321&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1C07X)
 
 ### Related:
 

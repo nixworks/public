@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ''The Age](http://www.theage.com.au/world/mahathir-mohamad-quits-malaysia-ruling-umno-party-protesting-corruption-20160229-gn6t4o.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/g/n/6/t/w/5/image.related.articleLeadwide.620x349.gn6t4o.png/1456815175608.jpg)
 
 ### Related:
 

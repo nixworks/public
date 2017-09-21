@@ -12,6 +12,7 @@ Mousavi tells tens of thousands of supporters he will stand if new polls are cal
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8099952.stm)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Iran-Election-Mirhossein-Mousavi-Supporters-Defy-Protest-Ban-Over-Ahmadinejad-Victory/Article/200906315305665?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15305665_Iran_Election%3A_Mirhossein_Mousavi_Supporters_Defy_Protest_Ban_Over_Ahmadinejad_Victory)
 5. [Xinhua](http://news.xinhuanet.com/english/2009-06/15/content_11546495.htm)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

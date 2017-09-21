@@ -8,6 +8,7 @@ Fifty-two others are injured when the tree falls at a religious festival on the 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40940007)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05cgsjm.jpg)
 
 ### Related:
 

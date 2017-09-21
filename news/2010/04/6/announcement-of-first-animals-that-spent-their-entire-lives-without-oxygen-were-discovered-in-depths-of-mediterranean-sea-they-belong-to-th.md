@@ -9,6 +9,7 @@ Several unicellular organisms (prokaryotes and protozoa) can live under permanen
 
 1. [BMC Biology](http://www.biomedcentral.com/1741-7007/8/30/abstract)
 2. [Nature](http://www.nature.com/news/2010/100406/full/464825b.html)
+2. [Cover Image](https://images.springer.com/sgw/journals/medium/12915.jpg)
 
 ### Related:
 

@@ -42,6 +42,7 @@ Egypt goes off the digital map as authorities unplug the country entirely from t
 33. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/01/watch-aljazeera-live-coverage-of-egyptian-protests-in-english/1)
 34. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/25/AR2011012500866.html?hpid=topnews)
 35. [iloubnan.info](http://www.iloubnan.info/politics/actualite/id/55191/titre/Egypt:-NDP-ruling-party-headquarters-set-on-fire-in-Cairo)
+35. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/28/201112875331921784_20.jpg)
 
 ### Related:
 

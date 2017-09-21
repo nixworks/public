@@ -8,6 +8,7 @@ South East Asian nations have released a watered-down statement on the South Chi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36878995)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4E48/production/_90504002_aa7075f1-e62b-46cd-985c-587ee4dd928d.jpg)
 
 ### Related:
 

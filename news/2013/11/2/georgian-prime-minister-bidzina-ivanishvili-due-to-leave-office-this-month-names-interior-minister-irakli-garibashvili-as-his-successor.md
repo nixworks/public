@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/02/us-georgia-premier-nominee-idUSBRE9A106520131102)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131102&t=2&i=808307834&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9A1178A00)
 
 ### Related:
 

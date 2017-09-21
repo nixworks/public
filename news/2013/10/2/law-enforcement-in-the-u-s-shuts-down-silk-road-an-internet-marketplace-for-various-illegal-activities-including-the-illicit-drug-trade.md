@@ -8,6 +8,7 @@ U.S. law enforcement authorities have shut down &quot;Silk Road,&quot; an anonym
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/02/us-crime-silkroad-raid-idUSBRE9910TR20131002)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131002&t=2&i=799415052&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE991180F00)
 
 ### Related:
 

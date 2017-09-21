@@ -8,6 +8,7 @@ Four people are feared dead after tsunami waves struck the coast of Greenland on
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/north/tsunami-waves-hit-greenland-1.4166406)
+1. [Cover Image](https://i.cbc.ca/1.4166431.1497801658!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/greenland-flooding.jpg)
 
 ### Related:
 

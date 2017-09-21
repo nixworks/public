@@ -12,6 +12,7 @@ Four people were arrested during minor scuffles between garda√≠ and anti-war pro
 3. [RT…](http://www.rte.ie/news/2010/0904/blairt.html)
 4. [The Guardian](http://www.guardian.co.uk/politics/2010/sep/04/tony-blair-attacked-memoirs-signing)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0904/breaking3.html)
+5. [Cover Image](https://img.rasset.ie/0003aa38-1600.jpg)
 
 ### Related:
 

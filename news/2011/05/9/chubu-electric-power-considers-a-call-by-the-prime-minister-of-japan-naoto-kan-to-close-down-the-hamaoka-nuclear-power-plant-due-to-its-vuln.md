@@ -8,6 +8,7 @@ Japanese power firm Chubu Electric on Monday agreed to shut a nuclear plant unti
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/09/us-japan-nuclear-idUSTRE74803G20110509)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110509&t=2&i=409508035&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-09T200055Z_01_BTRE7480V2800_RTROPTP_0_JAPAN-NUCLEAR)
 
 ### Related:
 

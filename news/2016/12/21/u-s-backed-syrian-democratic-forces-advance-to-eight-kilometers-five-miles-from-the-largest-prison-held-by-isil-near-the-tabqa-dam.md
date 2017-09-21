@@ -8,6 +8,7 @@ BEIRUT (AFP) - A US-backed Arab-Kurdish alliance advanced Wednesday (Dec 21) to 
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/world/middle-east/us-backed-alliance-advances-in-north-syria-near-isis-jail)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

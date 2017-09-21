@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/04/us-goodtechnology-m-a-blackberry-idUSKCN0R41C520150904)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150904&t=2&i=1076972075&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB830NO)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Gold-futures-hit-intraday-high/story.aspx?guid=%7BA05B9401%2DE3ED%2D4EED%2D9BC1%2D0E06B41F9446%7D)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Mauritanian President Mohamed Ould Abdelaziz is wounded in what officials say ap
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/10/2012101322239928575.html)
 2. [BBC](http://www.bbc.com/news/world-africa-19938905)
 3. [Deutsche Welle](http://www.dw.de/dw/article/0,,16305040,00.html?maca=en-rss-en-all-1573-rdf)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63478000/jpg/_63478707_63478706.jpg)
 
 ### Related:
 

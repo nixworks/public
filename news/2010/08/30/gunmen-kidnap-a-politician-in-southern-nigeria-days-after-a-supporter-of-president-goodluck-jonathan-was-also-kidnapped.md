@@ -9,6 +9,7 @@ Gunmen have kidnapped a politician in southern Nigeria months ahead of elections
 
 1. [News24](http://www.news24.com/Africa/News/Nigerian-politician-kidnapped-20100830)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/30/c_13469952.htm)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

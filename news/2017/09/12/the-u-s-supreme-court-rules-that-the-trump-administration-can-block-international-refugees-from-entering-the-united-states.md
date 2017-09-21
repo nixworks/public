@@ -8,6 +8,7 @@ The U.S. Supreme Court on Tuesday allowed President Donald Trump to broadly impl
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-court-immigration/supreme-court-allows-broad-trump-refugee-ban-idUSKCN1BN1U2)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170913&t=2&i=1201156694&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8B2HN)
 
 ### Related:
 

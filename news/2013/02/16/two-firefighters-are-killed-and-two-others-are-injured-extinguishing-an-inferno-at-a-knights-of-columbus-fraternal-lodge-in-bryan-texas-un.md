@@ -10,6 +10,7 @@ Two Texas firefighters died and two others were seriously injured battling a fir
 1. [AP via USA Today](http://www.usatoday.com/story/news/nation/2013/02/16/2-firefighters-dead-2-hurt-in-texas-lodge-fire/1925305/)
 2. [FOX News](http://www.foxnews.com/us/2013/02/16/2-firefighters-killed-2-hurt-in-texas-lodge-fire/)
 3. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-2-texas-firefighters-die-20130216,0,3053650.story)
+3. [Cover Image](http://www.trbimg.com/img-51204c38/turbine/la-na-nn-2-texas-fire-fighters-die-20130216-001/599/599x341)
 
 ### Related:
 

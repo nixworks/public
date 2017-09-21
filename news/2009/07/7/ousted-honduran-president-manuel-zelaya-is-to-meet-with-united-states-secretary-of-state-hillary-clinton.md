@@ -8,6 +8,7 @@ Ousted Honduran President Manuel Zelaya on Tuesday accepted a U.S.-backed effort
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE56424C20090707)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090707&t=2&i=10775973&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-07T193024Z_01_BTRE5660FY100_RTROPTP_0_HONDURAS)
 
 ### Related:
 

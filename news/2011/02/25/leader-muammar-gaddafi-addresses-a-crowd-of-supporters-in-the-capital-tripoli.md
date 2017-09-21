@@ -14,6 +14,7 @@
 5. [Los Angeles Times](http://latimesblogs.latimes.com/washington/2011/02/gaddafi-obama-libya-sanctions.html)
 6. [MSNBC](http://www.msnbc.msn.com/id/41779850)
 7. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/gadhafi-makes-surprise-appearance-in-tripolis-green-square/1)
+7. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef014e865367c3970d-120pi)
 
 ### Related:
 

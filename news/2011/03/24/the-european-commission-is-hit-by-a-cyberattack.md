@@ -9,6 +9,7 @@ The European Commission has been hit by one of the most serious cyberattacks eve
 
 1. [Computerworld](http://www.computerworld.com/s/article/9215041/European_Commission_hit_by_cyberattack)
 2. [Europolitics](http://www.europolitics.info/institutions/cyber-attack-hits-commission-art299419-36.html)
+2. [Cover Image](http://idge.staticworld.net/ctw/computerworld-logo300x300.png)
 
 ### Related:
 

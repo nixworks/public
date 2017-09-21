@@ -8,6 +8,7 @@ Breaking&#x20;news&#x20;and&#x20;world&#x20;news&#x20;from&#x20;France&#x20;24&#
 ### Source:
 
 1. [France24](http://www.france24.com/en/#20140803-french-german-president-wwi-anniversary-vieil-armand-hollande-great-war/?&_suid=140707894099705381249085298045)
+1. [Cover Image](http://www.france24.com/bundles/aefhermesf24/img/vf-missing-image.png?version=20170313145951)
 
 ### Related:
 

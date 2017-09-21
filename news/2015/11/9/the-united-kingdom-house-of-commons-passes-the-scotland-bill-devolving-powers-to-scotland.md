@@ -8,6 +8,7 @@ MPs have backed the Scotland Bill on new devolved powers as it completes its fin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-scotland-scotland-politics-34760508)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/684C/production/_86600762_holyroodbbc.jpg)
 
 ### Related:
 

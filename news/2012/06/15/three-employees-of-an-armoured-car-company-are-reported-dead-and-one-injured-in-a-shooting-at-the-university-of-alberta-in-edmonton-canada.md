@@ -8,6 +8,7 @@ Edmonton police say an employee of G4S Security faces three counts of first-degr
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/canada/story/2012/06/15/edmonton-university-school-shooting.html)
+1. [Cover Image](https://i.cbc.ca/1.1565592.1379049782!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-person-of-interest-armou.jpg)
 
 ### Related:
 

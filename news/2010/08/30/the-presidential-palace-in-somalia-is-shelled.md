@@ -8,6 +8,7 @@ Four African Union peacekeepers killed and several injured by al-Shabab mortar a
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/2010830155656429103.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/30/2010830162859756580_20.jpg)
 
 ### Related:
 

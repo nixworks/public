@@ -8,6 +8,7 @@ Aboriginal author Kim Scott has won this year&#039;s Miles Franklin literary awa
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/06/22/3250944.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2768032-1x1-700x700.jpg)
 
 ### Related:
 

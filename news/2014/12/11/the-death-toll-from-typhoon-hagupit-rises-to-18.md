@@ -8,3 +8,4 @@ The government&#039;s official death toll from tropical cyclone &#039;Ruby&#039;
 ### Source:
 
 1. [Phil Star](http://www.philstar.com/headlines/2014/12/11/1401486/ruby-death-toll-climbs-18)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20141211/typhoon-hagupit-ruby-death-toll.jpg)

@@ -8,6 +8,7 @@ Infections of the Zika virus are &quot;highly likely&quot; to keep spreading in 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37615427)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/938F/production/_91757773_gettyimages-598976754.jpg)
 
 ### Related:
 

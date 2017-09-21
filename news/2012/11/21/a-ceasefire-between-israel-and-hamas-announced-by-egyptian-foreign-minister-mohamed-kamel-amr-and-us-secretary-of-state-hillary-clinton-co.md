@@ -14,6 +14,7 @@ Egypt FM makes formal announcement of truce in joint press conference with Clint
 5. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=292806)
 6. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=292949)
 7. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=292860)
+7. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=207972)
 
 ### Related:
 

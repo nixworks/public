@@ -8,6 +8,7 @@ Around 20,000 rail passengers were affected by today&#39;s industrial action, ac
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0523/rail.html)
+1. [Cover Image](https://img.rasset.ie/00017e96-1600.jpg)
 
 ### Related:
 

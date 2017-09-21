@@ -10,6 +10,7 @@ A radical Islamist sect said on Tuesday it was behind bombings in central Nigeri
 1. [Ahram Online](http://english.ahram.org.eg/NewsContent/3/15/2778/Business/Region/Youth-unemployment-sparks-Tunisian-tinderbox.aspx)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6BP0PD20101228)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/28/c_13666730.htm)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101228&t=2&i=288716537&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-28T093135Z_01_BTRE6BR0QGU00_RTROPTP_0_NIGERIA-VIOLENCE)
 
 ### Related:
 

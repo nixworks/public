@@ -8,6 +8,7 @@ The Obama administration has heightened a covert war, exploiting a power vacuum 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/06/09/world/middleeast/09intel.html?_r=1&emc=na)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

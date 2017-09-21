@@ -10,6 +10,7 @@ Historic flooding in West Virginia has caused dangerous conditions that have kil
 1. [Good Morning America via Yahoo News](https://gma.yahoo.com/rescue-effort-underway-hundreds-trapped-wv-mall-officials-095605302--abc-news-topstories.html#)
 2. [NBC News](http://www.nbcnews.com/news/weather/west-virginia-floods-4-dead-young-boy-missing-thousands-left-n598346)
 3. [USA Today](http://www.usatoday.com/story/news/2016/06/24/2-dead-floods-sweep-west-virginia/86329316/)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_25/1594841/160625-west-virginia-flooding-mn-0815_a77492fa928d9e3a5aee1f96161e92c9.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

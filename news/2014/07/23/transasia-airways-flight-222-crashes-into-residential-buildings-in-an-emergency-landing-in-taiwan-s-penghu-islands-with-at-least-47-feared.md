@@ -8,6 +8,7 @@ Over 40 people are feared dead after a TransAsia Airways plane crashed Wednesday
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2014/07/23/taiwan-transasia-airways-crash/13036929/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

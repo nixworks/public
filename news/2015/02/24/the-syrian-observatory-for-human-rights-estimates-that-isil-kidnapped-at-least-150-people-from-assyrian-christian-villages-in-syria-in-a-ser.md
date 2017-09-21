@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/24/us-mideast-crisis-christians-idUSKBN0LS0MH20150224?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150224&t=2&i=1027444929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1N0CZ)
 
 ### Related:
 

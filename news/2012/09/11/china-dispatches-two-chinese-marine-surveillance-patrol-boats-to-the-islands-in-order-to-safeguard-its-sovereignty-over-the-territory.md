@@ -20,6 +20,7 @@ China on Tuesday summoned the Japanese Ambassador here and warned it would take 
 11. [The Japan Times](http://www.japantimes.co.jp/text/nn20120911x1.html)
 12. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/11/c_131842695.htm)
 13. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/11/c_131843507.htm)
+13. [Cover Image](http://www.thehindu.com/migration_catalog/article12595793.ece/ALTERNATES/LANDSCAPE_615/12%20th%20Japan%20col.eps)
 
 ### Related:
 

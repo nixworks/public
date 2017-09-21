@@ -8,6 +8,8 @@ Jiang Yi-huah announced that he had stepped down, saying that he took “politic
 ### Source:
 
 1. [AFP via ''Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?section=international&xfile=data/international/2014/November/international_November662.xml)
+1. [Cover Image](http://www.khaleejtimes.com/storyimage/KT/20141129/ARTICLE/311299935/AR/0/AR-311299935.jpg&NCS_modified=
+&imageversion=1by1&exif=.jpg)
 
 ### Related:
 

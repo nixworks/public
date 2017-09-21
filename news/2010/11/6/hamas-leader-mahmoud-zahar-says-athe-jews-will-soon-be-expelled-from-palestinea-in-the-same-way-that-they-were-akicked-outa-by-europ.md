@@ -8,6 +8,7 @@ Hamas leader says Jews were kicked out by France, Britain, Russia and Germany â€
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194259)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=138711)
 
 ### Related:
 

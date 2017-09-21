@@ -8,6 +8,7 @@ In 2003, astronomer Mike Brown and his team from Caltech began a discovery proce
 ### Source:
 
 1. [Universe Today](http://www.universetoday.com/2008/07/14/newest-dwarf-planet-and-plutoid-makemake/)
+1. [Cover Image](http://www.universetoday.com/wp-content/uploads/2008/07/Makemake.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/07/20/strongest-typhoon-in-decades-kills-18-in-southern-china-philippine-death-up-to/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/07/20/strongest-typhoon-in-decades-kills-18-in-southern-china-philippine-death-up-to/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449283508932.jpg?ve=1)
 
 ### Related:
 

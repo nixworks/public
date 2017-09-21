@@ -10,6 +10,7 @@ Australian aircraft were involved in a US-led coalition operation which killed d
 1. [ABC](http://www.abc.net.au/news/2016-09-18/australian-jets-involved-in-botched-air-strike-on-syrian-army/7855610)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/09/isil-shoots-syrian-military-jet-kills-pilot-160918100043248.html)
 3. [SANA](http://sana.sy/en/?p=88368)
+3. [Cover Image](http://www.abc.net.au/news/image/6713854-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Chinese envoy visiting Syria calls on all sides in the country to end violence
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iESYJW9cKVHySokd_iZpdsdHju5Q?docId=CNG.0bc32ddf33dd48bff7b6df160cb3025c.221)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17083656)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58573000/jpg/_58573613_014032578-1.jpg)
 
 ### Related:
 

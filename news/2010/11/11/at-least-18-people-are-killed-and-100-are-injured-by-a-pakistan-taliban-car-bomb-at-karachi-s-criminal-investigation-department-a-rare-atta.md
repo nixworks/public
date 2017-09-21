@@ -10,6 +10,7 @@ Large explosion hits Criminal Investigation Department in Pakistani city, killin
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/11/20101111154541447638.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6AA3I820101111)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8127362/Pakistani-Taliban-claims-responsibility-for-Karachi-attack.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/11/20101111171455181965_20.jpg)
 
 ### Related:
 

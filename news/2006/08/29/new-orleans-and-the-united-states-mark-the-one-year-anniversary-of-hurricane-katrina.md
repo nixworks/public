@@ -8,6 +8,7 @@ A year after one of the worst natural disasters in U.S. history, New Orleans tur
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,210900,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

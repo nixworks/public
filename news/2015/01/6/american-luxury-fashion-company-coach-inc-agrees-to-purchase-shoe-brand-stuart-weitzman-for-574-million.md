@@ -8,6 +8,7 @@ Coach Inc. has agreed to buy upscale shoe brand Stuart Weitzman in a deal valued
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/coach-to-buy-stuart-weitzman-for-574-million-1420547286)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-GG972_coach0_G_20150105182617.jpg)
 
 ### Related:
 

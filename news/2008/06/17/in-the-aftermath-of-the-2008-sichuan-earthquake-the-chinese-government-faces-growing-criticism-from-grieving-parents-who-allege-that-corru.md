@@ -8,6 +8,7 @@ Still short 2 million tents, it must also rebuild homes and jobs for 5 million.
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/2008/0617/p01s02-woap.html)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2008/06/OQUAKEMONTH_P1.jpg?alias=standard_900x600)
 
 ### Related:
 

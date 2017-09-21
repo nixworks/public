@@ -11,6 +11,7 @@ Sydney has shivered through its coldest June day in 27 years, with the mercury p
 2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/melbourne-on-track-for-coldest-day/story-e6frf7jx-1225885700085)
 3. [The Age](http://www.theage.com.au/victoria/city-marks-coldest-day-in-two-years-20100629-zhjf.html?autostart=1)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/sydney-has-coldest-june-day-in-27-years-20100629-zija.html)
+4. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

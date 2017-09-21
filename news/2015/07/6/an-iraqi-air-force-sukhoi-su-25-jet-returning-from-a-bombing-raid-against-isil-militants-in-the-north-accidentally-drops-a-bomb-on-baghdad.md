@@ -8,6 +8,7 @@ Seven people die and 11 are hurt as a bomb falls from a Sukhoi Su-25 jet returni
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1514106/iraqi-warplane-accidentally-bombs-baghdad)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/rtx1j74u-1-1_3521039.jpg?20160704140407)
 
 ### Related:
 

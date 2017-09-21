@@ -8,6 +8,7 @@ Nearly two-thirds of United Nations states agreed on Friday to a treaty to ban n
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-nuclear-un-idUSKBN19S2F5)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

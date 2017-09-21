@@ -9,6 +9,7 @@ Hurricane Ignacio has been flexing his muscles and forcing Hawaiians to take not
 
 1. [Reuters](http://in.reuters.com/article/2015/08/30/storm-ignacio-idINL1N1150KK20150830)
 2. [The Inquisitr](http://www.inquisitr.com/2379655/hurricane-ignacio-set-to-blow-past-hawaii-bringing-epic-rain-and-monster-surf/#ebQbukxKltDKcZS8.99)
+2. [Cover Image](http://cdn.inquisitr.com/wp-content/uploads/2015/08/Ignacio-900x440.jpg)
 
 ### Related:
 

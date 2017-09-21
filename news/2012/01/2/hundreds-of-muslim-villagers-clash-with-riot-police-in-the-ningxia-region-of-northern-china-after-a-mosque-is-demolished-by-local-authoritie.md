@@ -9,6 +9,7 @@ Reports from the Ningxia region of northern China say several hundred Muslim vil
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16383953)
 2. [Pakistan Today](http://www.pakistantoday.com.pk/2012/01/muslims-clash-with-chinese-police-for-destroying-mosque/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57654000/gif/_57654036_china_ningxia_0112.gif)
 
 ### Related:
 

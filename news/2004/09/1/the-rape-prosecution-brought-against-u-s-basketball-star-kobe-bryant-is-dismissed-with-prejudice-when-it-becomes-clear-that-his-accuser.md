@@ -1,0 +1,23 @@
+### [2004-09-1](/news/2004/09/1/index.md)
+
+#  The rape prosecution brought against U.S. basketball star Kobe Bryant is dismissed, with prejudice, when it becomes clear that his accuser will refuse to testify. The civil suit filed by his accuser proceeds. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/3620018.stm)
+
+### Related:
+
+1. [ U.S. Basketball: Eagle County, Colorado District Attorney Mark Hurlbert announces that Los Angeles Lakers star Kobe Bryant has been charged with one count of felony sexual assault, stemming from a June 30 incident at a gated resort involving a 19-year-old woman.](/news/2003/07/18/u-s-basketball-eagle-county-colorado-district-attorney-mark-hurlbert-announces-that-los-angeles-lakers-star-kobe-bryant-has-been-charged.md) _Context: Kobe Bryant, basketball_
+2. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: lawsuit_
+3. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: lawsuit_
+4. [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md) _Context: lawsuit_
+5. [President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." ](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-tells-soldiers-fighting-in-mindanao-where-he-proclaimed-martial-law-earlier-this-week-that-he.md) _Context: rape_
+6. [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md) _Context: rape_
+7. [A woman who was allegedly raped by Donald Trump drops her lawsuit against the presidential candidate. ](/news/2016/11/5/a-woman-who-was-allegedly-raped-by-donald-trump-drops-her-lawsuit-against-the-presidential-candidate.md) _Context: rape_
+8. [A 22-year-old Dutch woman held in Qatar for nearly three months after telling police she had been raped is released following the court ruling of a one-year suspended prison sentence. The Associated Press reports it isn't clear "[...] what sentence was given to the man she accused of rape." ](/news/2016/06/13/a-22-year-old-dutch-woman-held-in-qatar-for-nearly-three-months-after-telling-police-she-had-been-raped-is-released-following-the-court-ruli.md) _Context: rape_
+9. [The U.S. city of Cleveland, Ohio, agrees to pay $6 million to settle a wrongful death civil rights lawsuit brought by the family of Tamir Rice. Rice was a 12-year-old boy who was walking outside a recreation center holding an air pellet gun when he was shot and killed by a Cleveland Police officer on November 22, 2014. Prosecutor Tim McGinty reported in December 2015 that an Ohio grand jury decided not to indict the police officers. ](/news/2016/04/25/the-u-s-city-of-cleveland-ohio-agrees-to-pay-6-million-to-settle-a-wrongful-death-civil-rights-lawsuit-brought-by-the-family-of-tamir-ri.md) _Context: lawsuit_
+10. [Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-their-ties-with-the-philippines-if.md) _Context: rape_

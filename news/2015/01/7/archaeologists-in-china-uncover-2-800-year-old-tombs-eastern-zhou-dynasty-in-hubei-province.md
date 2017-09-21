@@ -8,6 +8,7 @@ A team of Chinese archaeologists has unearthed a set of elaborate tombs surround
 ### Source:
 
 1. [Ancient Origins](http://www.ancient-origins.net/news-history-archaeology/archaeologists-china-find-2800-year-old-tombs-surrounded-chariots-020157)
+1. [Cover Image](http://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/china-old-tombs.jpg?itok=GInQBT7i)
 
 ### Related:
 

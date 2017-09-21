@@ -9,6 +9,7 @@ Egyptian police raided the press syndicate in Cairo late on Sunday and arrested 
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3568522/Egypt-police-arrest-two-journalists-wanted-incitement.html)
 2. [Reuters](http://www.reuters.com/article/us-egypt-rights-idUSKCN0XS1MU)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

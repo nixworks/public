@@ -8,6 +8,7 @@ Chile has requested international help to deal with forest fires.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38710219)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3F87/production/_93736261_p04qbwr6.jpg)
 
 ### Related:
 

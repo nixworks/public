@@ -8,6 +8,7 @@ Excavations at a Buddhist pilgrimage site in Nepal have uncovered a shrine datin
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2013/11/131125-buddha-birth-nepal-archaeology-science-lumbini-religion-history/)
+1. [Cover Image](/content/dam/news/photos/000/738/73832.ngsversion.1425186260759.adapt.676.1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Amid tight security, polling for local bodies&rsquo; elections was held largely 
 ### Source:
 
 1. [Dawn News](http://www.dawn.com/news/1061223/balochistan-votes-peacefully-in-local-bodies-polls)
+1. [Cover Image](http://i.dawn.com/medium/2013/12/52a3dafb18b61.jpg)
 
 ### Related:
 

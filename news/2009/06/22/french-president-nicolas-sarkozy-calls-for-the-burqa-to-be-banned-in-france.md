@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8112821.stm)
 2. [The Times of India](http://timesofindia.indiatimes.com/World/Burqa-not-welcome-in-France-Sarkozy/articleshow/4688623.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

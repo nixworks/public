@@ -8,6 +8,7 @@ A French cyclist who was shot dead alongside a British family in a massacre in t
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/9547495/French-police-cyclist-may-have-been-target-of-Annecy-slaughter.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02331/franceMAIN_2331185k.jpg)
 
 ### Related:
 

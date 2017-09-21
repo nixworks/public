@@ -8,6 +8,7 @@ Foreign ministers from Southeast Asia are due to adopt a five-year work plan on 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSMAN26683520070729)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

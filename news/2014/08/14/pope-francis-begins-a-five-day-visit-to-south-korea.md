@@ -8,6 +8,7 @@ Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth i
 ### Source:
 
 1. [AFP, Reuters via ''Sydney Morning Herald](http://www.smh.com.au/world/pope-arrives-in-south-korea-for-fiveday-visit-20140814-103zcu.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/d/o/r/8/image.related.articleLeadwide.620x349.103zcu.png/1408503904413.jpg)
 
 ### Related:
 

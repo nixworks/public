@@ -8,6 +8,7 @@ Taliban insurgents overran two checkpoints in southern Helmand province and kill
 ### Source:
 
 1. [Star Tribune](http://www.startribune.com/afghan-official-insurgents-kill-29-border-police/332641421/)
+1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1490813369)
 
 ### Related:
 

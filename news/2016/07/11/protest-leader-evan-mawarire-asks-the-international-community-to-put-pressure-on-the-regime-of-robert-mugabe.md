@@ -8,6 +8,7 @@ Evan Mawarire urges foreign governments to put pressure on Robert Mugabe and thr
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/11/zimbabwe-thisflag-protests-leader-calls-for-international-support)
+1. [Cover Image](https://i.guim.co.uk/img/media/d12a490736328fd8f5e47013e0455cdd5ca4661d/0_100_3000_1800/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=e4ddee4793fcd25200e0326cd13c1bd4)
 
 ### Related:
 

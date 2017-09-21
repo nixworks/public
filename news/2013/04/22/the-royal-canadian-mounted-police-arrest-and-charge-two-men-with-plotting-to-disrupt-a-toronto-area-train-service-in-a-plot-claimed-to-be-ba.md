@@ -8,6 +8,7 @@ Canadian police have arrested two men and charged them with plotting to derail a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idCABRE93L0YW20130423)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130423&t=2&i=725053118&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93M0MCU00)
 
 ### Related:
 

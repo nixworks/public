@@ -9,6 +9,7 @@
 
 1. [AP](http://apnews.myway.com/article/20050215/D88938L00.html)
 2. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/nation/3041033)
+2. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

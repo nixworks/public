@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Sabah](http://www.dailysabah.com/politics/2015/09/11/turkish-jets-pound-64-pkk-targets-in-northern-iraq-killing-60-terrorists)
+1. [Cover Image](https://idsb.tmgrup.com.tr/2015/09/11/645x344/1441959728190.jpg)
 
 ### Related:
 

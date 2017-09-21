@@ -9,6 +9,7 @@ The US threatens sanctions on Somalis who block a UN-supervised roadmap for peac
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18391683)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-18394703)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60817000/jpg/_60817778_014929645-1.jpg)
 
 ### Related:
 

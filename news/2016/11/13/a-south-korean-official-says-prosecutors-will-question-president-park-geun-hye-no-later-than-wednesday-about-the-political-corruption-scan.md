@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southkorea-politics-probe-idUSKBN138012)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161113&t=2&i=1161459035&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAC01R)
 
 ### Related:
 

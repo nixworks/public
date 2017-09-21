@@ -9,6 +9,7 @@ Civilians subdued the terrorist until police forces arrived on the scene.
 
 1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Initial-report-Attempted-stabbing-attack-in-Raanana-423789)
 2. [The Times of Israel](http://www.timesofisrael.com/series-of-stabbings-reported-in-jerusalem-near-tel-aviv/)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=306625)
 
 ### Related:
 

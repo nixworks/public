@@ -8,6 +8,7 @@ State Department: &quot;We expect [Israel] to fulfill responsibilities.”
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=174364)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=140490)
 
 ### Related:
 

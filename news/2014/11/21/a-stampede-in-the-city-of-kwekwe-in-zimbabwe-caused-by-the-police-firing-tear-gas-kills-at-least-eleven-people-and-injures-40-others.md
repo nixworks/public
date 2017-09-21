@@ -8,6 +8,7 @@ Harare, Nov 21 (IANS/EFE) At least 11 people were killed and 40 others injured i
 ### Source:
 
 1. [IANS via ''Business Standard](http://www.business-standard.com/article/news-ians/11-killed-in-zimbabwe-stadium-stampede-114112101373_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

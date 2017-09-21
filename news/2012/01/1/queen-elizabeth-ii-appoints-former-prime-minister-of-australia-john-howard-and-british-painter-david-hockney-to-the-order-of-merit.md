@@ -8,6 +8,7 @@ The Queen has appointed former prime minister John Howard a member of the Order 
 ### Source:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/john-howard-appointed-to-order-of-merit-20120101-1pgxl.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

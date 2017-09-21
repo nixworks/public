@@ -9,6 +9,7 @@
 
 1. [AP via The Guardian](http://www.guardian.co.uk/world/2013/apr/24/minaret-historic-syrian-mosque-destroyed-aleppo)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22283746)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67216000/jpg/_67216201_67216986.jpg)
 
 ### Related:
 

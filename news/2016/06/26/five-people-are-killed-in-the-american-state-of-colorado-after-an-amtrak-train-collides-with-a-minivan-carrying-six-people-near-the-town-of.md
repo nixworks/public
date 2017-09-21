@@ -9,6 +9,7 @@ Two adults and three children were killed after an Amtrak train collided with th
 
 1. [9 News](http://www.9news.com/news/local/amtrak-train-collides-with-vehicle-in-southern-colorado/256385191)
 2. [Denver Post](https://www.denverpost.com/2016/06/26/l-a-bound-amtrak-train-collides-with-vehicle/)
+2. [Cover Image](http://content.9news.com/photo/2016/06/26/AmtrackCrash.1_1466980851062_3442899_ver1.0.jpeg)
 
 ### Related:
 

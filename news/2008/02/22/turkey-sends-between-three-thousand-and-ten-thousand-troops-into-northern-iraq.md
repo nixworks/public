@@ -8,6 +8,7 @@ Thousands of Turkish troops have crossed into northern Iraq to hunt Kurdish rebe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSANK00037420080222)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080222&t=2&i=3259446&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-22T141855Z_01_ANK000374_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

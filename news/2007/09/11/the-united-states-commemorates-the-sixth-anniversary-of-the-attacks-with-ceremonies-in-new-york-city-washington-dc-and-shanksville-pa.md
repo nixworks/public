@@ -9,6 +9,7 @@ Osama bin Laden defied the United States with a new tape praising the &quot;19 c
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN1135875320070911?feedType=RSS&feedName=topNews)
 2. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/11/wny111.xml)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070911&t=2&i=1691328&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-11T110520Z_01_N11358753_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

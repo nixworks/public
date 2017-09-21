@@ -8,6 +8,7 @@ The mother of Wikileaks founder Julian Assange says he is &quot;buoyed&quot; by 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18577345)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61118000/jpg/_61118040_107628804.jpg)
 
 ### Related:
 

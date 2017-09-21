@@ -8,6 +8,7 @@ Air strikes by a Saudi-led coalition killed 50 people in Yemen when they hit a H
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/21/us-yemen-security-idUSKCN0RL1KZ20150921)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150921&t=2&i=1081138291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8K0R6)
 
 ### Related:
 

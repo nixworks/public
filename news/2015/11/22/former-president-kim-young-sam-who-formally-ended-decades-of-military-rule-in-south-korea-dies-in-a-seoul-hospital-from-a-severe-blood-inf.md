@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via NBC News](http://www.nbcnews.com/news/world/former-south-korean-president-kim-young-sam-dies-age-87-n467696)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_47/1312346/151121-kim-young-sam-2032_d5fa5b37e5cfceb513df8d1c324ab079.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

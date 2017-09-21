@@ -9,6 +9,7 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 
 1. [New York Times](http://www.nytimes.com/2005/04/13/national/13gene.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8163095)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

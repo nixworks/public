@@ -9,6 +9,7 @@ Breakthrough Listen detected more radio pulses from the famous repeating source 
 
 1. [New Scientist](https://www.newscientist.com/article/2145822-weve-just-seen-15-new-mysterious-cosmic-radio-bursts-from-space/)
 2. [Phys](https://phys.org/news/2017-08-distant-galaxy-high-energy-radio.html)
+2. [Cover Image](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/08/30165656/ay7chw.jpg)
 
 ### Related:
 

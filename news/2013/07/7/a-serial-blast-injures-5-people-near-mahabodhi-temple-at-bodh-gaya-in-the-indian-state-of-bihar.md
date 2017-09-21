@@ -8,6 +8,7 @@ Nine blasts took place outside the world famous temple at around 5am today.Initi
 ### Source:
 
 1. [TOI](http://timesofindia.indiatimes.com/city/patna/5-injured-in-multiple-blasts-at-Mahabodhi-temple-in-Bodh-Gaya/articleshow/20951736.cms?)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/20952404.cms)
 
 ### Related:
 

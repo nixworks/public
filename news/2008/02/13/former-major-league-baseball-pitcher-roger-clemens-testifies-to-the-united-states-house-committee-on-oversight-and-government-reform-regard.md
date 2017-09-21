@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/espn/blog/index?entryID=3243182&name=congressional_hearings)
+1. [Cover Image](http://a.espncdn.com/i/espn/espn_logos/espn_red.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [ABC News America](http://abcnews.go.com/International/story?id=2326083&page=1)
 2. [Associated Press via Fox News](http://www.foxnews.com/story/0,2933,209103,00.html)
 3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-18T004530Z_01_N17323351_RTRUKOC_0_US-NUCLEAR-KOREA-NORTH.xml&WTmodLoc=Home-C2-TopNews-newsOne-5)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

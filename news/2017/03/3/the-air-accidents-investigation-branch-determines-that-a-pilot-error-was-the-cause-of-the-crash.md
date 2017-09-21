@@ -8,6 +8,7 @@ A jet crashed on the A27 killing 11 men because it was too low for a manoeuvre, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-sussex-39105085)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D31A/production/_94924045_shoreham_car.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Slovenia said Sunday it would clamp down on the number of migrants allowed to en
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/slovenia-clamp-down-migrant-border-entries-220859535.html;_ylt=A0LEVvTiEsFW8AkAdbBjmolQ)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/KpVmOEa7QkpheW1BzksvNg--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/12667242d9660e7b9f9263c3bf9f9fac3eef9b58.jpg)
 
 ### Related:
 

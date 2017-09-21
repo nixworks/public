@@ -9,6 +9,7 @@ Fears are growing in Haiti over the spread of cholera, as the death toll rises t
 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101110/ap_on_re_la_am_ca/cb_haiti_disease_outbreak)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11729765)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

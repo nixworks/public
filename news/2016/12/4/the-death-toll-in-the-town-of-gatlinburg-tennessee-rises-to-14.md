@@ -8,6 +8,7 @@ The death toll in the historic Gatlinburg fires is now at 14, Park Service spoke
 ### Source:
 
 1. [The Tennessean](http://www.tennessean.com/story/news/local/tennessee/2016/12/04/overnight-rain-brings-relief-smoky-mountain-wildfire-efforts/94951992/?hootPostID=98a4e1e0329c29f60ea2059fbf74c29b)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/tennessean.png)
 
 ### Related:
 

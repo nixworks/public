@@ -9,6 +9,7 @@ Police sorting out what happened; victims &mdash; some of them related &mdash; a
 
 1. [CNN](http://www.cnn.com/2013/06/13/us/missouri-shooting/index.html?hpt=hp_t1)
 2. [St. Louis Post-Dispatch](http://www.stltoday.com/news/local/crime-and-courts/four-killed-in-murder-suicide-on-cherokee-street/article_f402b2cb-9b42-5ebd-919f-625e99d80f79.html)
+2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/ff/dffd5a52-99fa-5007-93ec-d46980a27ef0/51bb1898ac4d2.preview-1024.jpg?crop=928%2C696%2C48%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize)
 
 ### Related:
 

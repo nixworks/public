@@ -10,6 +10,7 @@ The 2016 presidential field could get a little more crowded.
 1. [CNN](http://www.cnn.com/2016/01/23/politics/michael-bloomberg-president-2016/index.html?sr=fbCNN012316michael-bloomberg-president-20160445PMVODtopLink&linkId=20610169)
 2. [NBC News](http://www.nbcnews.com/politics/first-read/michael-bloomberg-mulls-2016-white-house-bid-n502856?cid=sm_fb)
 3. [The New York Times](http://www.nytimes.com/2016/01/24/nyregion/bloomberg-sensing-an-opening-revisits-a-potential-white-house-run.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_03/1387541/130319-bloomberg-1115a_2_6c2a8b72f6eadb807cbf6d284d201346.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

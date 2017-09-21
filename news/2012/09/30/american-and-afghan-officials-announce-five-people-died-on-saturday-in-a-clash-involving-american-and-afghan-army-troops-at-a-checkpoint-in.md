@@ -8,6 +8,7 @@ Two Americans and three Afghans died just days after Pentagon officials confirme
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/10/01/world/asia/suspected-insider-attack-in-afghanistan.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2012/10/01/world/01afghan-map/01afghan-map-superJumbo.jpg)
 
 ### Related:
 

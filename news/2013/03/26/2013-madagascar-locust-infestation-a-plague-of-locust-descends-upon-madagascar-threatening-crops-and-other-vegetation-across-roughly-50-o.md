@@ -9,6 +9,7 @@ A severe plague of locusts has infested about half of Madagascar, threatening cr
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21955740)
 2. [International Business Times](http://www.ibtimes.com/locusts-madagascar-un-needs-41-million-end-plague-1153269)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66642000/jpg/_66642756_66642755.jpg)
 
 ### Related:
 

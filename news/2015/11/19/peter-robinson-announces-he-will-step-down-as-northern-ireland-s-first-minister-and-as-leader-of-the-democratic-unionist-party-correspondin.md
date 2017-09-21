@@ -8,6 +8,7 @@ Democratic Unionist leader Peter Robinson has announced in a newspaper his inten
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/update/2015-11-19/robinson-to-step-down-as-northern-irelands-first-minister/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/826804/img.jpg)
 
 ### Related:
 

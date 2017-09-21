@@ -9,6 +9,7 @@ On Sunday (Oct. 16), the private spaceflight company Orbital ATK will launch one
 
 1. [NASA via You Tube](https://www.youtube.com/watch?v=NX31vCePp1o)
 2. [Space.com](http://www.space.com/34394-orbital-atk-antares-rocket-return-to-flight.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA1OS8xNTgvb3JpZ2luYWwvaG90ZmlyZS0yMDE2LTA1LTMxYXQ1LjQzLjM3cG0uanBn)
 
 ### Related:
 

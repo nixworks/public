@@ -8,6 +8,7 @@ A convoy of Islamic State fighters and their families began to depart the Lebano
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-lebanon-syria-idUSKCN1B80PR?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170828&t=2&i=1198903044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7R1AR)
 
 ### Related:
 

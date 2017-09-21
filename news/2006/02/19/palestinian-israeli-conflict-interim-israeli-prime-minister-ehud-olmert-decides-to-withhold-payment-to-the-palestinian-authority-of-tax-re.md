@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [New York Times](http://www.nytimes.com/2006/02/19/international/middleeast/19cnd-mideast.html?)
 2. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-19T204037Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit=)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

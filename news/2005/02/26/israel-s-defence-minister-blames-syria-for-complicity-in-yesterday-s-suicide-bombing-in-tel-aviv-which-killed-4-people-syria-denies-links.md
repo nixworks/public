@@ -10,6 +10,7 @@
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/syria_tel_aviv_bombing)
 2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/02/27/MNGI4BHMKE1.DTL)
 3. [Yahoo!](http://story.news.yahoo.com/news?tmpl=story&u=/nm/mideast_dc)
+3. [Cover Image](http://ww1.hdnux.com/photos/10/23/70/2178592/5/rawImage.jpg)
 
 ### Related:
 

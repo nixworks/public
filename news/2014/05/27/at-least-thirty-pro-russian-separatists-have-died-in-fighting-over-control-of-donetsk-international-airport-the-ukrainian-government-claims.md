@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-27584718)
 2. [BBC](http://www.bbc.com/news/world-europe-27584718#)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75126000/jpg/_75126706_75126705.jpg)
 
 ### Related:
 

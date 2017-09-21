@@ -8,6 +8,7 @@ The monarch marks the milestone at Newbury Racecourse, while volleys are fired i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-39664797)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1628B/production/_95736709_queen_races_pa.jpg)
 
 ### Related:
 

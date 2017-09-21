@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101129153620490258.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11868589)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=197300)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/3/20101138594710360_20.jpg)
 
 ### Related:
 

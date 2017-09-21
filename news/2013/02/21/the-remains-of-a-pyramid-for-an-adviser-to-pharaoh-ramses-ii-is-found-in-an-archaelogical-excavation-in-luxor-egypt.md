@@ -8,6 +8,7 @@ A pyramid that dates back more than 3000 years and was built for an adviser to K
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://www.smh.com.au/world/pyramid-of-pharaohs-adviser-discovered-20130222-2ev7e.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/e/v/8/7/image.related.thumbnail.320x214.2ev7e.png/1361502570957.jpg)
 
 ### Related:
 

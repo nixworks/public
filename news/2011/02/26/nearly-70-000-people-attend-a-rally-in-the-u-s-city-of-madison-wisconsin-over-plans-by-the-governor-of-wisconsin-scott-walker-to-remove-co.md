@@ -8,6 +8,7 @@ For a second straight Saturday, tens of thousands of protesters filled the stree
 ### Source:
 
 1. [Wisconsin State Journal](http://host.madison.com/wsj/news/local/govt-and-politics/article_19c56fb6-41d7-11e0-820b-001cc4c03286.html)
+1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/host.madison.com/content/tncms/assets/v3/editorial/4/4d/44dfd533-911f-5fd7-9e84-971879f58a4d/4d699e4c16fc1.preview-1024.jpg?resize=946%2C630)
 
 ### Related:
 

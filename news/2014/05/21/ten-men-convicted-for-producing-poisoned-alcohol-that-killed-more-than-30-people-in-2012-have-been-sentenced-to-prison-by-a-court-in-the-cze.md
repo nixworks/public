@@ -8,6 +8,7 @@ Ten men convicted for producing tainted alcohol that killed more than 30 people 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27501403)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75008000/jpg/_75008041_75001007.jpg)
 
 ### Related:
 

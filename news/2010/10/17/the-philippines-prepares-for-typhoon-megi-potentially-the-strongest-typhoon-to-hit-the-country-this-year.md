@@ -10,6 +10,7 @@ Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/17/3040495.htm)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11562238)
 3. [Philippine Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20101018-298304/Super-typhoon-hits-North)
+3. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

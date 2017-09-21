@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/10493253/US-halts-shipments-from-Afghanistan-through-Pakistan.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02751/afghanistan-road_2751558k.jpg)
 
 ### Related:
 

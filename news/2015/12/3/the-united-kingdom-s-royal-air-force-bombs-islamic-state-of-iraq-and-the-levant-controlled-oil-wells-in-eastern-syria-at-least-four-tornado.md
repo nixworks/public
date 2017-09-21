@@ -8,6 +8,7 @@ David Cameron says Britain&#039;s air war will require &quot;patience and persis
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1598804/raf-bombs-is-oil-wells-in-tidal-wave-ii-mission)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/2015-12-03t150635z-809841388-gf20000083754-rtrmadp-3-mideast-crisis-syria-britain-base-1_3500068.jpg?20160704101858)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 20 twisters were sighted across three states — with multiple tornadoe
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/tornadoes-roar-across-plains-watches-warnings-millions-n355006)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_19/1012721/150506-tornado-oklahoma-01_ca25934af81d57a32fd0833ea771ed21.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

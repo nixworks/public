@@ -8,6 +8,7 @@ Federal investigators hoped Monday to reach the site of a Sunday crash that kill
 ### Source:
 
 1. [The Alaska Dispatch News](http://www.adn.com/alaska-news/aviation/2016/10/02/small-plane-carrying-3-crashes-in-southwest-alaska-rescue-operation-underway/)
+1. [Cover Image](https://www.adn.com/resizer/FMmJsCmxOyoBEdtueEL_khX7rz8=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/10/03141657/Togiak-plane-crash-002-3x2.jpg?token=bar)
 
 ### Related:
 

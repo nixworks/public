@@ -9,6 +9,7 @@ A suspicious bag containing a detonator, batteries and a clock was found in a Na
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j7R4BoPgUnIPb5hU4dyralBmAgAA?docId=CNG.34d413ddaf37cdcea164fb9b026494b1.281)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11785951)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

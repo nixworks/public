@@ -8,6 +8,7 @@ The Pope urges diplomacy and dialogue to bring an end to the conflict in Libya i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13181901)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52325000/jpg/_52325010_011824470-1.jpg)
 
 ### Related:
 

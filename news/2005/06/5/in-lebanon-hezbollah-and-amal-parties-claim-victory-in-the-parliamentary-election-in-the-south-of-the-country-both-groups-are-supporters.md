@@ -9,6 +9,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 1. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15679)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8698671)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

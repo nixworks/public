@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-belgium-crime-mayor/belgian-mayors-throat-slashed-in-cemetery-shocking-country-idUSKCN1BM2Q6)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

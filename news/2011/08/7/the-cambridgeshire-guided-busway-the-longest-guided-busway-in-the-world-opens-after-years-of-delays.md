@@ -8,3 +8,4 @@ The long-awaited Cambridgeshire guided busway opens to passengers two years late
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cambridgeshire-14401265)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53329000/jpg/_53329517_guided_bus_side_420x279-1.jpg)

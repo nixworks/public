@@ -8,6 +8,7 @@ Corrie Sanders, the South African boxer who knocked out Wladimir Klitschko to be
 ### Source:
 
 1. [Eurosport](http://au.eurosport.com/boxing/corrie-sanders-shot_sto3433885/story.shtml)
+1. [Cover Image](http://i.eurosport.com/2012/09/23/891914-20044176-1600-900.jpg)
 
 ### Related:
 

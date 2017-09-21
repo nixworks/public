@@ -9,6 +9,7 @@ A man wanted for killing his former girlfriend fatally shot an Orlando, Florida,
 
 1. [CNN](http://www.cnn.com/2017/01/09/us/orlando-shooting-officers-profiles/)
 2. [Reuters](http://www.reuters.com/article/us-florida-police-idUSKBN14T240)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170109&t=2&i=1168138261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED081KI)
 
 ### Related:
 

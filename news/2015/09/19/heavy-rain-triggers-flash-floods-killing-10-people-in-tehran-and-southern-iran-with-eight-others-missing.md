@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CP24](http://www.cp24.com/world/ten-killed-by-flash-floods-in-iran-8-others-missing-1.2571298)
+1. [Cover Image](https://www.cp24.com/polopoly_fs/1.2571299.1442679685!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

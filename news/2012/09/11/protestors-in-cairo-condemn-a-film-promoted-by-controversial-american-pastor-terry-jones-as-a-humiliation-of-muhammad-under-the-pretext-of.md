@@ -11,6 +11,7 @@ Protesters breach the wall at the US embassy in Cairo and tear down a flag over 
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19562688)
 3. [CNN](http://www.cnn.com/2012/09/11/world/meast/egpyt-us-embassy-protests/index.html?hpt=hp_t1)
 4. [The Atlantic](http://www.theatlantic.com/international/archive/2012/09/the-movie-so-offensive-that-egyptians-just-stormed-the-us-embassy-over-it/262225/)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62836000/jpg/_62836690_62836689.jpg)
 
 ### Related:
 

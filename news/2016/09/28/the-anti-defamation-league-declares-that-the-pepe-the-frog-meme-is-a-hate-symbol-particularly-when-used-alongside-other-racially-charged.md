@@ -9,6 +9,7 @@ Pepe the Frog, a cartoon character turned Internet meme, has been added to the A
 
 1. [The Anti-Defamation League](http://www.adl.org/combating-hate/hate-on-display/c/pepe-the-frog.html)
 2. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/09/28/pepe-the-frog-internet-meme-declared-hate-symbol-anti-defamation-league/91210140/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ News network to stop broadcasting from Bahrain after airing story about local po
 2. [BusinessWeek](http://www.businessweek.com/ap/financialnews/D9FQ018O5.htm)
 3. [Ha'aretz](http://www.haaretz.com/news/international/bahrain-suspends-al-jazeera-for-flouting-press-laws-1.291094)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3891568,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Church of England formally adopts legislation which means its first female b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-30074257)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79079000/jpg/_79079073_syndo_vote.jpg)
 
 ### Related:
 

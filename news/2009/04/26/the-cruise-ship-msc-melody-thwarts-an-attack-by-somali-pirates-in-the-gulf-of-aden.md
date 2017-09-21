@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-piracy27-2009apr27,0,599166.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

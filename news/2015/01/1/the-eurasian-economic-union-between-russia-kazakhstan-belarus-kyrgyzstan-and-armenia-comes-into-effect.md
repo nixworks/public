@@ -8,6 +8,7 @@ The Eurasian Economic Union (EEU) officially starts functioning on January 1. Th
 ### Source:
 
 1. [Novinite](http://www.novinite.com/articles/165734/Eurasian+Economic+Union+Starts+Functioning)
+1. [Cover Image](http://www.novinite.com/media/images/)
 
 ### Related:
 

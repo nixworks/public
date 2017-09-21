@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/zimbabwe-declares-drought-disaster/news-story/27d97c1fe25e3033536e9cd53e4d9f7b)
+1. [Cover Image](https://secure.gravatar.com/blavatar/99ae28ba58e6719abd9d8575bdc18a54?s=200&amp;ts=1490841238)
 
 ### Related:
 

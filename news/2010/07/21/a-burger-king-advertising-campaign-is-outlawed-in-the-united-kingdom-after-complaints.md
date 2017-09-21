@@ -9,6 +9,7 @@ A Burger King advertising campaign has been banned after complaints the chicken 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10699456)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/burger-ads-banned-for-whopper-20100721-10kbt.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

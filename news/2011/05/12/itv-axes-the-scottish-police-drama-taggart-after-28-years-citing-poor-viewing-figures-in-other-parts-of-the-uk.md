@@ -8,6 +8,7 @@ ITV axes the Scottish police drama Taggart after nearly 30 years, in the wake of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-13374238)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52676000/jpg/_52676963__46680837_taggart_island-2.jpg)
 
 ### Related:
 

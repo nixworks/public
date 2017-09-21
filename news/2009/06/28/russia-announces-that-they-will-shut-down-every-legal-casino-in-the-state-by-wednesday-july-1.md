@@ -8,6 +8,7 @@ Russia is closing every legal casino this week, throwing hundreds of thousands o
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/06/29/world/europe/29casinos.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/06/29/world/29casinos.751.jpg)
 
 ### Related:
 

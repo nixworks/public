@@ -8,6 +8,7 @@ The Immigration Department says up to 100 people armed with makeshift weapons ma
 ### Source:
 
 1. [AAP via WA Today](http://www.watoday.com.au/wa-news/up-to-100-in-latest-christmas-island-riots-20110722-1hrp9.html)
+1. [Cover Image](http://images.watoday.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

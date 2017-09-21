@@ -8,6 +8,7 @@ Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201251353857895225.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/13//201251362147447734_20.jpg)
 
 ### Related:
 

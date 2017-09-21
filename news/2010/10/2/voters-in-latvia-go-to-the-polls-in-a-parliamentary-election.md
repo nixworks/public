@@ -9,6 +9,7 @@
 
 1. [Latvians Online](http://latviansonline.com/news/article/7030/)
 2. [Reuters](http://www.reuters.com/article/idUSLDE69102L20101002)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

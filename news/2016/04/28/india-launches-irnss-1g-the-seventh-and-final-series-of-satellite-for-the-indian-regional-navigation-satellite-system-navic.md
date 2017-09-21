@@ -8,6 +8,7 @@ The country will not have to depend on a foreign power for military navigation a
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/current-affairs/isro-launches-rocket-carrying-india-s-seventh-navigation-satellite-116042800308_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/_media/bs/img/article/2016-04/28/full/1461828607-3413.jpg)
 
 ### Related:
 

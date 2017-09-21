@@ -8,6 +8,7 @@ Formula 1 boss Bernie Ecclestone will face bribery trial on charges of allegedly
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25756973#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72317000/jpg/_72317638_72317637.jpg)
 
 ### Related:
 

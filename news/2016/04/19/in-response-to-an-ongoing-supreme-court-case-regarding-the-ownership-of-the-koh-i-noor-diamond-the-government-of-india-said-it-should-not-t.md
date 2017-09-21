@@ -8,6 +8,7 @@ The Indian government tells the Supreme Court that the country should not try to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-36079644)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8072/production/_87028823_8ed62817-bf48-4dc5-9cf4-1a308bee5373.jpg)
 
 ### Related:
 

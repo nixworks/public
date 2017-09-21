@@ -8,6 +8,7 @@ French commuters dusted off old bikes and aired their walking shoes on Tuesday i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSL1351805320071113?sp=true)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071113&t=2&i=2185960&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-11-13T125545Z_01_L13518053_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

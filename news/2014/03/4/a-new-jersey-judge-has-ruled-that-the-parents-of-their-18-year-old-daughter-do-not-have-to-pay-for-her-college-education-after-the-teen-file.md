@@ -8,6 +8,7 @@ Court sets April hearing to revisit question of college tuition
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/nj-teen-sues-parents-claims-they-kicked-her-out/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/04/7f28dd2c-ec38-4106-9465-64c82e79c25d/rachel-canning.jpg)
 
 ### Related:
 

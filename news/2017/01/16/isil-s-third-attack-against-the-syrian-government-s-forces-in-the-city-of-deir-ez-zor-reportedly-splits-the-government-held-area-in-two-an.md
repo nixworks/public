@@ -8,6 +8,7 @@ ISIS-affiliated Amaq News Agency has announced that it has successfully split th
 ### Source:
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/isis-successfully-splits-deir-ezzor-enclave-two/)
+1. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2017/01/IMG_5517.jpg)
 
 ### Related:
 

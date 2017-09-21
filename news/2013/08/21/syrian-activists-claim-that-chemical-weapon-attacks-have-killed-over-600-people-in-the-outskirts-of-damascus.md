@@ -9,6 +9,7 @@ Security council to meet later on Wednesday in response to claims that hundreds 
 
 1. [The Guardian](http://www.theguardian.com/world/2013/aug/21/syria-poisonous-gas-attack-claim)
 2. [Today's Zaman](http://www.todayszaman.com/news-324089-at-least-635-killed-in-alleged-chemical-attack-in-syria.html)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2013/8/21/1377091689472/UN-Security-Council-Meets-016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7a0f8042143d132e21417f803540b623)
 
 ### Related:
 

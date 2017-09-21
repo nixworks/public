@@ -8,6 +8,7 @@ John G. Roberts Jr., appearing before a Senate panel considering his nomination 
 ### Source:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=4845368)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

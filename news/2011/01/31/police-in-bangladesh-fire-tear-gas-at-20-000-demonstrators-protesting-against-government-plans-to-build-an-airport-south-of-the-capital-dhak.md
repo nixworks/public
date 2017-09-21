@@ -9,6 +9,7 @@ Police in Bangladesh fire tear gas and rubber bullets to disperse villagers prot
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jBaFOH2rDgsZByUrPyXo47vE7Cig?docId=CNG.ed67204e514fb0fa7b4894920164bc8d.51)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12325667)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

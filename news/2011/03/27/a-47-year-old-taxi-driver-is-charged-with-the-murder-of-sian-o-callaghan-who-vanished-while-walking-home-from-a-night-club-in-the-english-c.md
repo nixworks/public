@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-12874160)
 2. [Telegraph and Argus](http://www.thetelegraphandargus.co.uk/news/national/news/8935536.Man_to_face_court_over_Sian_murder/)
+2. [Cover Image](http://www.thetelegraphandargus.co.uk/resources/images/1607392/)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A Ukrainian court convicts a former police surveillance chief of killing journal
 1. [AFP via Yahoo!](http://uk.news.yahoo.com/ukraine-jails-ex-top-official-over-journalist-murder-144116622.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21245784)
 3. [Reuters](http://www.reuters.com/article/2013/01/29/ukraine-gongadze-sentence-idUSL5N0AYEEJ20130129)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65568000/jpg/_65568461_65568460.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Several people are injured after a concrete mixer lorry falls from a bridge and 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11702343)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

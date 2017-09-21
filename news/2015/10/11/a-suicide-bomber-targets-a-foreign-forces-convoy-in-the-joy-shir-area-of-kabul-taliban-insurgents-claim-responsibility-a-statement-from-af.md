@@ -12,6 +12,7 @@ A suicide bomber targeted a foreign forces convoy in downtown Kabul during morni
 3. [CNN](http://www.cnn.com/2015/10/11/middleeast/helicopter-crash-in-afghanistan/)
 4. [Reuters](http://www.reuters.com/article/2015/10/11/us-afghanistan-attack-idUSKCN0S504A20151011)
 5. [USA Today](http://www.usatoday.com/story/news/world/2015/10/11/coalition-helicopter-crashes-afghanistan-kabul/73784674/)
+5. [Cover Image](http://timesofindia.indiatimes.com/photo/49308008.cms)
 
 ### Related:
 

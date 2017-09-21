@@ -8,6 +8,7 @@ Civilian casualties of the war in Afghanistan rose to record levels for the seve
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-casualties-idUSKCN0VN08W?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160214&t=2&i=1117375185&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1D068)
 
 ### Related:
 

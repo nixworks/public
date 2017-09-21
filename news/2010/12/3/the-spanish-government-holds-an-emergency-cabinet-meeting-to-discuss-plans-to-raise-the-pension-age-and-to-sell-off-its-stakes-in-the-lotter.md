@@ -8,3 +8,4 @@ Emergency cabinet meeting backs plans to raise the the pension age to 67 after c
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010123143017167955.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/3/2010123144958393738_20.jpg)

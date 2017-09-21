@@ -16,6 +16,7 @@
 7. [Sky News](http://news.sky.com/skynews/Home/Politics/Anna-Arrowsmith-Porn-Director-Known-As-Anna-Span-Picked-As-Lib-Dem-Candidate-In-Gravesham/Article/201003215572445?lpos=Politics_Second_Home_Page_Article_Teaser_Region_6&lid=ARTICLE_15572445_Anna_Arrowsmith%2C_Porn_Director_Known_As_Anna_Span%2C_Picked_As_Lib_Dem_Candidate_In_Gravesham)
 8. [The Guardian](http://www.guardian.co.uk/politics/2010/mar/12/nick-clegg-defends-former-porn-director-anna-arrowsmith)
 9. [The Times](http://www.timesonline.co.uk/tol/news/politics/article7060533.ece)
+9. [Cover Image](http://www.theargus.co.uk/resources/images/sitelogo/)
 
 ### Related:
 

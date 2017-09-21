@@ -8,6 +8,7 @@ Two former military leaders in Argentina have been found guilty of overseeing th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18733113)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61397000/jpg/_61397230_jex_1457309_de27-1.jpg)
 
 ### Related:
 

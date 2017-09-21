@@ -8,6 +8,7 @@ The county clerk from Kentucky who was jailed after refusing to issue marriage l
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/14/us-usa-gaymarriage-kentucky-idUSKCN0RE13920150914)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150914&t=2&i=1079314977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8D0XP)
 
 ### Related:
 

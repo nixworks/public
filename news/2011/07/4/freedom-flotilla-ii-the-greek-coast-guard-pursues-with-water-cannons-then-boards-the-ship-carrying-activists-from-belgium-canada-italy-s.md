@@ -8,6 +8,7 @@ Canadian vessel forced to return to Greece after breaking out of Crete harbour i
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/2011741529521330.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/4/201174182743577734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Suicide bombers struck a state-run power station north of Baghdad early on Satur
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-attacks/suicide-bombers-attack-power-station-north-of-baghdad-killing-seven-police-idUSKCN1BD0EQ)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

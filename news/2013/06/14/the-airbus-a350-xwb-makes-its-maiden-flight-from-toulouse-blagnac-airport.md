@@ -9,6 +9,7 @@ The newest aircraft from European planemaker Airbus, the A350, successfully comp
 
 1. [BBC](http://www.bbc.co.uk/news/business-22899952)
 2. [CNN](http://edition.cnn.com/2013/06/14/travel/a350-xwb-first-flight-2/index.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68172000/jpg/_68172251_airbusa350(2).jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ President Bush, in a significant shift in American policy, said the U.S. would n
 
 1. [ (NYT](http://www.nytimes.com/2004/04/14/international/middleeast/14CND-DIPL.html?hp=&adxnnl=1&adxnnlx=1081970547-8uEvA8d8kM8y6g4ODpQEIA)
 2. [NYT](http://www.nytimes.com/aponline/international/AP-Palestinians-US.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

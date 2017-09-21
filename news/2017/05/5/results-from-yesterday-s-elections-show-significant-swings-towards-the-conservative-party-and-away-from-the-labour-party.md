@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/politics/2017/may/05/local-elections-tories-profit-from-ukip-collapse-amid-labour-losses)
+1. [Cover Image](https://i.guim.co.uk/img/media/a4d3859b193639026d848584c924b8947d0601af/0_128_4252_2551/master/4252.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=77c493cf2b1090069b6fd2a861b0f75a)
 
 ### Related:
 

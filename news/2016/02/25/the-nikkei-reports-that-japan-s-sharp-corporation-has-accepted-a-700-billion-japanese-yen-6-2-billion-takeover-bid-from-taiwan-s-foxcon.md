@@ -8,6 +8,7 @@ Sharp Corp. agreed to a 700 billion yen ($6.2 billion) rescue deal from Taiwanâ€
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-02-25/sharp-agrees-to-6-2-billion-bailout-from-foxconn-nikkei-says)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

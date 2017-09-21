@@ -8,6 +8,7 @@ A magnitude 5.6 earthquake struck off the coast of the West Coast state of Washi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/08/19/us-indonesia-earthquake-idUSBRE87I01C20120819)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

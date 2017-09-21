@@ -9,6 +9,7 @@ Eight contractors die in a chemical accident involving a fire safety system in t
 
 1. [AP](http://bigstory.ap.org/article/718a087904774dd2af8ef33b889a1703/8-killed-chemical-accident-thai-banks-headquarters)
 2. [BBC](http://www.bbc.com/news/world-asia-35800392)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/FC8F/production/_88755646_031968866-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-09/dragan-vasiljkovic-indicted-for-war-crimes-in-croatia/7078150)
+1. [Cover Image](http://www.abc.net.au/news/image/388146-1x1-700x700.jpg)
 
 ### Related:
 

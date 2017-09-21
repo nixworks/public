@@ -8,6 +8,7 @@ Venezuelan opposition leaders condemned as anti-democratic a surprise plan by Pr
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-venezuela-constitution-20170502-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5908f8df/turbine/la-fg-venezuela-constitution-20170502)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The first seven of 52 political prisoners Cuba has agreed to release and send in
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/20107131135543452.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10595296.stm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

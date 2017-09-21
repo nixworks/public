@@ -11,6 +11,7 @@ It came two months after more than 300 people were killed by a quake in the same
 2. [CNN](http://www.cnn.com/2015/12/25/asia/afghanistan-tajikistan-earthquake/)
 3. [NBC News](http://www.nbcnews.com/news/world/6-2-magnitude-earthquake-hits-northern-afghanistan-pakistan-n485931)
 4. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us100049i1#general_summary)
+4. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_52/1353801/05080962_1b811c84e8fabfda767bc3a7cae56992.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

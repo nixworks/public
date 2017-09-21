@@ -8,6 +8,7 @@ At least 14 people die after a pipeline carrying gas explodes in the southern In
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-28052104)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75876000/jpg/_75876411_1496393a-d1b3-4892-a929-dc26248a0ccd.jpg)
 
 ### Related:
 

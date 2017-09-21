@@ -9,6 +9,7 @@ Ministers secretly advised Muammar Gaddafi&rsquo;s Libyan regime how to secure t
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/wikileaks-assange-dressed-as-old-woman-to-evade-cia-book-20110131-1aa6x.html)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8294120/WikiLeaks-Britain-secretly-advised-Libya-how-to-secure-release-of-Lockerbie-bomber.html?sms_ss=twitter&at_xt=4d472fe517f76ce5,0)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01815/megrahi1_1815541a.jpg)
 
 ### Related:
 

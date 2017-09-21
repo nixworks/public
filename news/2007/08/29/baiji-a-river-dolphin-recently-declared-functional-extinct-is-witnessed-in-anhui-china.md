@@ -8,6 +8,7 @@ Experts say a large white animal swimming in the Yangtze River is a member of a 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/30/world/asia/30china.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

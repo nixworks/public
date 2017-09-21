@@ -8,6 +8,7 @@ Eight mine workers were killed yesterday due to a gas leak at a coal mine in the
 ### Source:
 
 1. [Hürriyet Daily News](http://www.hurriyetdailynews.com/mine-explosion-kills-at-least-eight-in-zonguldak.aspx?pageID=238&nID=38572&NewsCatID=341)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201301/n_38572_1.jpg)
 
 ### Related:
 

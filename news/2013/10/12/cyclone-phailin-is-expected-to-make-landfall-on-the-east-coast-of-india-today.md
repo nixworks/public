@@ -8,6 +8,7 @@ A powerful cyclone is heading towards India&#039;s east coast.
 ### Source:
 
 1. [AFP via Australia Network](http://www.abc.net.au/news/2013-10-11/an-cyclone-phailin-heads-for-india27s-east-coast/5017112)
+1. [Cover Image](http://www.abc.net.au/news/image/5018076-1x1-700x700.jpg)
 
 ### Related:
 

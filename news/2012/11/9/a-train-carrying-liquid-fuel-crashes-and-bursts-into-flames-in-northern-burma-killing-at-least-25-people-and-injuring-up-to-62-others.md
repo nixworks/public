@@ -8,6 +8,7 @@ At least 25 people are killed and dozens injured in northern Burma when a train 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20272264)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64042000/jpg/_64042884_64042883.jpg)
 
 ### Related:
 

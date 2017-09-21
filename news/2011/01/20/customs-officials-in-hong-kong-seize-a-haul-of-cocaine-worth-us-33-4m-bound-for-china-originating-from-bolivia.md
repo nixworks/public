@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12239612)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?all&20110120&56&728279)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

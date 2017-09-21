@@ -9,6 +9,7 @@
 
 1. [AP via Yahoo! News](http://news.yahoo.com/aquino-chooses-roxas-philippine-presidential-candidate-044823447.html?nf=1)
 2. [Rappler](http://www.rappler.com/nation/politics/elections/2016/101099-aquino-endorses-roxas-2016)
+2. [Cover Image](https://assets.rappler.com/BFC459FEAD4148FFB4D3C69721F3CB7A/img/B3D21EF054A84D73A8D4572BC682CA02/roxas-launch-aquino-endorsement-20150731-009.jpg)
 
 ### Related:
 

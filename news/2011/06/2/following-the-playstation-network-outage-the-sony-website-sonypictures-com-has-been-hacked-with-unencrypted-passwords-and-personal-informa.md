@@ -8,6 +8,7 @@ A hacker group says it has attacked SonyPictures.com and stolen more than one mi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13636704)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53211000/jpg/_53211610_012116124-1.jpg)
 
 ### Related:
 

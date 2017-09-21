@@ -8,6 +8,7 @@ Persistent rain continues to fall over much of the country, with very heavy rain
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/956818/flood-alerts-as-torrential-rain-hits-britain)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/120706-filey-caravan-park2-1_3713834.jpg?20160706204759)
 
 ### Related:
 

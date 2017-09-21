@@ -9,6 +9,7 @@ The president of Lebanon reappointed Omar Karami as the country&#39;s prime mini
 
 1. [CNN](http://www.cnn.com/2005/WORLD/meast/02/28/lebanon.protests/index.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/7023538/)
+2. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/050310/050310_karami_vsml_330a.standard.jpg)
 
 ### Related:
 

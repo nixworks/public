@@ -8,6 +8,7 @@ NASA announced new details Thursday about its plans for a Moon base that include
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/21/science/21nasa.html?ref=science)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

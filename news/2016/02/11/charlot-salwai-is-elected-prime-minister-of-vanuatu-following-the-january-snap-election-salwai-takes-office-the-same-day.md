@@ -8,6 +8,7 @@ Charlot Salwai will be Vanuatu&#039;s 11th prime minister after receiving more t
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-02-11/vanuatu-new-parliament-elects-charlot-salwai-pm/7160362)
+1. [Cover Image](http://www.abc.net.au/news/image/7160408-1x1-700x700.jpg)
 
 ### Related:
 

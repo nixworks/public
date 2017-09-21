@@ -9,6 +9,7 @@ Scientists eagerly await an announcement that will present the best evidence yet
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-16116230)
 2. [CBC](http://www.cbc.ca/news/technology/story/2011/12/13/science-cern-higgs-boson.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57289000/jpg/_57289267_57289266.jpg)
 
 ### Related:
 

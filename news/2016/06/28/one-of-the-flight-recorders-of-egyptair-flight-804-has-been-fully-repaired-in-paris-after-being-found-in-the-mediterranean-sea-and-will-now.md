@@ -8,6 +8,7 @@ One of the flight recorders of crashed EgyptAir flight MS804 has been successful
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2016/06/28/flight-recorder-of-crashed-egyptair-flight-is-repaired/)
+1. [Cover Image](http://static.euronews.com/articles/336903/1000x563_336903.jpg)
 
 ### Related:
 

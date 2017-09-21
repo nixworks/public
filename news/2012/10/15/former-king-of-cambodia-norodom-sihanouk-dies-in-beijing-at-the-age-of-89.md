@@ -9,6 +9,7 @@ Norodom Sihanouk, the former Cambodian king who was a key figure through decades
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1231348/1/.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-19943963)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63486000/jpg/_63486451_63486450.jpg)
 
 ### Related:
 

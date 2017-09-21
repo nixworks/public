@@ -9,6 +9,7 @@ Bradley Stone, the man prosecutors say is responsible for killing his ex-wife an
 
 1. [NBC](http://www.nbcphiladelphia.com/news/local/Montgomery-County-Shooting-Spree-Suspect-Bradley-Stone-Found-Dead-in-Woods-285983841.html#ixzz3M5hZfi4U)
 2. [Venturebeat](http://venturebeat.com/2014/12/18/nasa-has-emailed-a-wrench-to-astronauts-in-space/)
+2. [Cover Image](http://media.nbcphiladelphia.com/images/1201*675/Stone+Body+Found+Pennsburg+Scene+Face.jpg)
 
 ### Related:
 

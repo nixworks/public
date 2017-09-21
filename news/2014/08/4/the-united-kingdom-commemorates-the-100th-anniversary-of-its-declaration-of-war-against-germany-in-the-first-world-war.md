@@ -8,6 +8,7 @@ It is a date that marks the start of events that would go on to change the cours
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/home-news/first-world-war-centenary-britain-remembers-that-fateful-day-in-august-100-years-ago-when-the-conflict-began-9644620.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/08/02/20/26-ice-pa.jpg)
 
 ### Related:
 

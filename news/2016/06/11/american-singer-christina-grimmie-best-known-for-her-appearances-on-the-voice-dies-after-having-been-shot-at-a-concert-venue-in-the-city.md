@@ -8,6 +8,7 @@ Orlando police were searching for a motive Saturday evening, hours after naming 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/06/11/ex-voice-contestant-christina-grimmie-dies-after-concert-shooting.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/06/11/0/0/694940094001_4936508885001_a45ab7e6-9843-4a97-9182-24f533d3bed2.jpg?ve=1)
 
 ### Related:
 

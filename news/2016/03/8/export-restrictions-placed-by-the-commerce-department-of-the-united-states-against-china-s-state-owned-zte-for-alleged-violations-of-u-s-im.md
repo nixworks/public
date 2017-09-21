@@ -9,6 +9,7 @@ The U.S. Commerce Department is set to place export restrictions on Chinese tele
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/us-hits-chinese-telecom-firm-zte-sanctions-selling-to-iran-high-goods/27596680.html)
 2. [Reuters](http://www.reuters.com/article/us-zte-usa-china-idUSKCN0W80AV)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160306&t=2&i=1122726820&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC25077)
 
 ### Related:
 

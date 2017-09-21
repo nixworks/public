@@ -11,6 +11,7 @@ News International has announced that customers will be charged £2 a week to re
 2. [The Guardian](http://www.guardian.co.uk/media/2010/mar/26/times-website-paywall)
 3. [The New York Times](http://www.nytimes.com/2010/03/27/business/media/27paper.html)
 4. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704100604575145173361160224.html)
+4. [Cover Image](https://img.rasset.ie/00032383-1600.jpg)
 
 ### Related:
 

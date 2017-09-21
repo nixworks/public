@@ -9,6 +9,7 @@ North Korea deployed more than 10 missiles on its west coast apparently for an i
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7660444.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4984S320081009)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20081009&t=2&i=6317861&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-10-09T134235Z_01_BTRE4980FDI00_RTROPTP_0_KOREA)
 
 ### Related:
 

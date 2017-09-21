@@ -8,6 +8,7 @@ Oil-producing countries that are not Opec members agree a global plan to cut out
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-38276667)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5439/production/_91416512_oilpumpap.jpg)
 
 ### Related:
 

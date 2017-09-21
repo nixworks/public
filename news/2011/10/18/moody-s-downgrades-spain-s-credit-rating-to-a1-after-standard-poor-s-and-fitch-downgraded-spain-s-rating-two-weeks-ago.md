@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall Street Journal](http://blogs.wsj.com/marketbeat/2011/10/18/moodys-downgrades-spain/)
+1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

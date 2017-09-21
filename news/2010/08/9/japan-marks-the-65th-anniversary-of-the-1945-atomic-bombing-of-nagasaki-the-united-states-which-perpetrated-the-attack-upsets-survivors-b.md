@@ -11,6 +11,7 @@
 2. [China Daily](http://www.chinadaily.com.cn/cndy/2010-08/10/content_11126057.htm)
 3. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100810a2.html)
 4. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T100809003968.htm)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

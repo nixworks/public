@@ -8,6 +8,7 @@ Bombardier (BBDb.TO) has signed a letter of intent to sell five CSeries jetliner
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/19/us-airshow-dubai-bombardier-idUSBRE9AI0DU20131119)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131119&t=2&i=813201441&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AI0T8H00)
 
 ### Related:
 

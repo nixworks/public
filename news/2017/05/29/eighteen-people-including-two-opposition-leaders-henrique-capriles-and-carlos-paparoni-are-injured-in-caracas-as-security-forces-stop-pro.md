@@ -9,6 +9,7 @@ Two Venezuelan opposition leaders were wounded on Monday by security forces disp
 
 1. [AP](https://apnews.com/ae4bd6470c28452b824eceaba248542d/Venezuela-opposition-leader-Capriles-tear-gassed-at-protest)
 2. [Reuters](https://www.reuters.com/article/us-venezuela-politics-idUSKBN18Q025)
+2. [Cover Image](//s3.reutersmedia.net/resources/r/?m=02&d=20170530&t=2&i=1186733591&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4T017)
 
 ### Related:
 

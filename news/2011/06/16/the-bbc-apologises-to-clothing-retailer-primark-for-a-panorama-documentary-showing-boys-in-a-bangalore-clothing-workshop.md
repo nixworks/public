@@ -8,6 +8,7 @@ The BBC must make an on-air apology to Primark over a Panorama film which showed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13794227)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53450000/jpg/_53450264_53450263.jpg)
 
 ### Related:
 

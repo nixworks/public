@@ -8,6 +8,7 @@ North Korea demolished a cooling tower that was the most prominent symbol of its
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/06/28/world/asia/28korea.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/06/27/world/korea_75757.12.jpg)
 
 ### Related:
 

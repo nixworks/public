@@ -10,6 +10,7 @@ Verdict in trial of Liu Xiaobo due on Friday after trial lasting just two hours.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/2009122303948429785.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8427576.stm)
 3. [Times of India](http://timesofindia.indiatimes.com/world/china/Trial-of-top-Chinese-dissident-ends-verdict-on-Friday/articleshow/5369579.cms)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

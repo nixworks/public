@@ -9,6 +9,7 @@ Israel deported Irish Nobel peace laureate Mairead Maguire on Tuesday, after the
 
 1. [Hindustan Times](http://www.hindustantimes.com/Israel-expels-Irish-Nobel-peace-laureate/Article1-608762.aspx)
 2. [The Hindu](http://www.thehindu.com/news/international/article814735.ece)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article15745446.ece/ALTERNATES/LANDSCAPE_615/MAIREAD_)
 
 ### Related:
 

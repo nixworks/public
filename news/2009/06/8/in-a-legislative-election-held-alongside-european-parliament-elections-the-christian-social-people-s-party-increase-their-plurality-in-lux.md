@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via NASDAQ](http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=200906071541dowjonesdjonline000279&title=exit-pollsluxembourg-pms-party-on-top-in-legislative-elections)
+1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)
 
 ### Related:
 

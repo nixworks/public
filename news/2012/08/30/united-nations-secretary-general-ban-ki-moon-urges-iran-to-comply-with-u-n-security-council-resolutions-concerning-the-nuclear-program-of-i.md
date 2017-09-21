@@ -8,6 +8,7 @@
 ### Source:
 
 1. [China Post](http://www.chinapost.com.tw/international/middle-east/2012/08/31/352771/Iran-summit.htm)
+1. [Cover Image](http://www.chinapost.com.tw/news_images/20120831/p02d.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/beginning-of-end-for-colombian-rebels-20100927-15suc.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11415821)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

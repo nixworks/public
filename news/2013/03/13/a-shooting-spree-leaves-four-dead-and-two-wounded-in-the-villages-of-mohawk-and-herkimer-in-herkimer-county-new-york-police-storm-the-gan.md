@@ -13,6 +13,7 @@ Local law enforcement and state police were still on scene Wednesday night.
 4. [Syracuse.com](http://www.syracuse.com/news/index.ssf/2013/03/north_main_street_at_a_standst.html)
 5. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/13/4-killed-shooting-herkimer-county-new-york-mohawk-herkimer/1984367/)
 6. [WKTV](http://www.wktv.com/news/valley-shooting/Multiple-injuries-reported-after-shootings-in-Herkimer-and-Mohawk-197777521.html)
+6. [Cover Image](http://image.syracuse.com/home/syr-media/width620/img/news/photo/2013/03/12419562-standard.jpg)
 
 ### Related:
 

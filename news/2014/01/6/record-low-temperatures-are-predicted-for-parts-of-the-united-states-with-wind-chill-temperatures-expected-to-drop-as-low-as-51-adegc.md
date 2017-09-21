@@ -10,6 +10,7 @@ A frigid weather system called the polar vortex gripped much of the Midwest on M
 1. [CBS News](http://www.cbsnews.com/news/polar-vortex-moves-east-blasting-arctic-air-threatening-frostbite/)
 2. [Los Angeles Times](http://www.latimes.com/nation/nationnow/la-na-nn-polar-vortex-deep-freeze-20140106,0,6314452.story)
 3. [Washington Post](http://www.washingtonpost.com/national/health-science/polar-vortex-puts-midwest-in-deep-freeze-heads-to-dc/2014/01/06/57d9fa24-76c2-11e3-8963-b4b654bcc9b2_story.html)
+3. [Cover Image](http://www.trbimg.com/img-52cb17d2/turbine/la-na-nn-polar-vortex-deep-freeze-20140106)
 
 ### Related:
 

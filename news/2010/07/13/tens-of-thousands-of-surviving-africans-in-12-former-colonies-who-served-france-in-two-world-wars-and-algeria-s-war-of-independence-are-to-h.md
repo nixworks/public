@@ -8,6 +8,7 @@ France is to raise pensions for its African war veterans to the same level as th
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10617955.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

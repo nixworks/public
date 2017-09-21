@@ -8,6 +8,7 @@ E-SHARIF, Afghanistan (Reuters) - A suicide bomber killed a prominent anti-Talib
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/07/14/afghanistan-attack-idINDEE86D01C20120714)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120714&t=2&i=630168240&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEE86D0TF400)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The father of two Cardiff jihadists thought to have been fighting alongside Reya
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_MIDEAST_WEATHER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/uk-wales-34183320)
 3. [The Guardian](http://www.theguardian.com/world/2015/sep/07/british-isis-militants-killed-raf-drone-strike-syria-reyaad-khan-ruhul-amin)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/07FB/production/_85434020_syriafighter.jpg)
 
 ### Related:
 

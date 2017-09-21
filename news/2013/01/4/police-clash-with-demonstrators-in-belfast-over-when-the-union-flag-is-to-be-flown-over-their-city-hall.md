@@ -8,6 +8,7 @@ Ten police officers are injured as trouble breaks out in east Belfast following 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20903960)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65075000/jpg/_65075803_flagsprotestriot1_lewis.jpg)
 
 ### Related:
 

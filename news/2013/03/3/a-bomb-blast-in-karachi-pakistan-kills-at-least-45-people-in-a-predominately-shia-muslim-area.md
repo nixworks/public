@@ -9,6 +9,7 @@ An explosion near a mosque in a Shia area of the Pakistani city of Karachi has k
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21649412)
 2. [Reuters](http://www.reuters.com/article/2013/03/03/us-pakistan-violence-karachi-idUSBRE9220AY20130303)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66177000/jpg/_66177068_66177067.jpg)
 
 ### Related:
 

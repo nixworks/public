@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39112831)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9F7B/production/_94872804_afghanistanlashkargah9760217.png)
 
 ### Related:
 

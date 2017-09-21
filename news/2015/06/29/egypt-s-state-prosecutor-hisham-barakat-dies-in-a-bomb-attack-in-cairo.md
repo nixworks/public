@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/06/29/egypt-state-prosecutor-dies-in-bomb-attack-in-cairo/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/06/29/egypt-state-prosecutor-dies-in-bomb-attack-in-cairo/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1437643617080.jpg?ve=1)
 
 ### Related:
 

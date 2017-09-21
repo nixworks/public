@@ -8,6 +8,7 @@ A suspected terrorist who was arrested in Jharkhand and on whose tip off two mor
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/delhi-police-arrests-third-suspected-terrorist-181367&cp)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

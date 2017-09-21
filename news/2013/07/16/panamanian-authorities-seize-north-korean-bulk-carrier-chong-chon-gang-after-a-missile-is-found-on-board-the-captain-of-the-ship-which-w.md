@@ -9,6 +9,7 @@ Panama seizes a North Korean-flagged ship carrying &quot;undeclared military car
 
 1. [BBC News](http://www.bbc.co.uk/news/world-asia-23324170)
 2. [USA Today](http://www.usatoday.com/story/news/world/2013/07/16/panama-north-korean-ship/2520109/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68768000/jpg/_68768224_68768223.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/20109168121388751.html)
 2. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=nine-dead-in-se-turkey-mine-blast-2010-09-16)
+2. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

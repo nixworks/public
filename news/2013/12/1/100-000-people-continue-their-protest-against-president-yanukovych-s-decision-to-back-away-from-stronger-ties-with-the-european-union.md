@@ -10,6 +10,7 @@ Casualties are reported in clashes as a massive rally is held in Kiev over a Ukr
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25176191)
 2. [Deutsche Welle](http://www.dw.de/tens-of-thousands-rally-in-kyiv-in-pro-europe-protest/a-17264317)
 3. [Ria Novosti](http://en.ria.ru/world/20131201/185193926/Activists-Storm-Buildings-in-Kiev-as-Protest-Movement-Grows.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71461000/jpg/_71461127_71461126.jpg)
 
 ### Related:
 

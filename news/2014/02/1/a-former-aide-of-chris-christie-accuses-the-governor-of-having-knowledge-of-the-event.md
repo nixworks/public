@@ -8,6 +8,7 @@ New Jersey Gov. Chris Christie knew of politically motivated George Washington B
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/politics/2014/01/31/chris-christie-bridge-scandal-wildstein/5086099/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

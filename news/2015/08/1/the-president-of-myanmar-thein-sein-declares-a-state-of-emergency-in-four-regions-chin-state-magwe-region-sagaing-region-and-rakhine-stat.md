@@ -8,6 +8,7 @@ As torrential rain continues, dozens die in eastern India and neighbouring Myanm
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33745840)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/71DF/production/_84615192_ddde62cd-ef54-4ad4-9d62-151ee9475a12.jpg)
 
 ### Related:
 

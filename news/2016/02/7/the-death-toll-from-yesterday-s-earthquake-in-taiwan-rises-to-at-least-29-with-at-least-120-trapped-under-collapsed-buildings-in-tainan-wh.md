@@ -9,6 +9,7 @@ The death toll from Saturday’s earthquake rose to 29 by press time last night 
 
 1. [AP](http://bigstory.ap.org/article/2fd6d480622e44599c7f95e4b281df0d/5-dead-hundreds-rescued-and-injured-quake-rattles-taiwan)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2016/02/08/2003639061)
+2. [Cover Image](http://www.taipeitimes.com/images/2016/02/08/thumbs/P02-160208-3.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ North Korea said on Saturday it was entering a &quot;state of war&quot; with Sou
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57577110/north-korea-says-its-entering-state-of-war-with-south/)
 2. [RT](http://rt.com/news/nkorea-declares-war-updates-083/)
 3. [Reuters](http://www.reuters.com/article/2013/03/30/us-korea-north-war-idUSBRE92T00020130330)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130330&t=2&i=717645050&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92T0S2E00)
 
 ### Related:
 

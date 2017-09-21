@@ -9,6 +9,7 @@
 
 1. [BBC News](http://www.bbc.com/news/world-africa-38427462)
 2. [Business Insider](http://www.businessinsider.com/nigerian-army-captures-boko-haram-stronghold-2016-12)
+2. [Cover Image](http://static4.businessinsider.com/image/585e68dbdd08951a208b49e7-1190-625/the-nigerian-army-has-captured-one-of-boko-harams-last-strongholds.jpg)
 
 ### Related:
 

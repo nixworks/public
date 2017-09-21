@@ -8,6 +8,7 @@ North Korea has named a new vice-marshal, Hyon Yong-chol, the state news agency 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18865891#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61609000/jpg/_61609257_wzxrrn9z.jpg)
 
 ### Related:
 

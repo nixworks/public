@@ -13,6 +13,7 @@ French President Francois Hollande has said Muslims are the &quot;main victims&q
 4. [CNN](http://edition.cnn.com/2015/01/09/europe/charlie-hebdo-paris-shooting/index.html)
 5. [Herald-Sun](http://www.heraldsun.com.au/news/world/charlie-hebdo-attack-shooting-at-paris-kosher-grocery/story-fni0xs61-1227180200292?from=herald+sun_rss)
 6. [MSNBC](http://www.msnbc.com/msnbc/paris-suspects-cornered-hostage-charlie-hebdo)
+6. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/france_security_boost2.jpg)
 
 ### Related:
 

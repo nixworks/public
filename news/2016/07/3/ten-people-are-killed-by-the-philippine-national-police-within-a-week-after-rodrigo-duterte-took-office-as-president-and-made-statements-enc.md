@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/philippine-police-kill-10/2925508.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/2925628/1467468038000/large16x9/640/360/philippine-drug.jpg)
 
 ### Related:
 

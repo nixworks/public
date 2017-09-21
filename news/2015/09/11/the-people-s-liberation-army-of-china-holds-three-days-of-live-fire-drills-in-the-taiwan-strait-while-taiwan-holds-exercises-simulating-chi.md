@@ -9,6 +9,7 @@ Chinese military will carry out three days of exercises close to disputed territ
 
 1. [AP via Yahoo](http://news.yahoo.com/taiwan-simulates-attacks-political-rival-china-035940658.html)
 2. [The Guardian](http://www.theguardian.com/world/2015/sep/10/china-live-fire-drills-taiwan-strait)
+2. [Cover Image](https://i.guim.co.uk/img/media/ac43509aac0d246e3396e6f5c89f2fbd15b10382/0_228_4096_2459/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=cea6400e9d578872af3307fc14daedce)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iraq on Sunday gave Turkey 48 hours to withdraw forces it said had entered the c
 ### Source:
 
 1. [AFP via Yahoo](https://uk.news.yahoo.com/iraq-gives-turkish-forces-48-hours-leave-country-203701419.html#syTT6Ql)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/qixPc513d_A5v7XjGCiVDg--/aD01MTI7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/492d51d4a734a2d9efbfaedaff70c15367bcc921.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pakistan arrests a man after at least 25 people killed in an apparent car bomb b
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/03/2011386142667629.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/8/20113863913196797_20.jpg)
 
 ### Related:
 

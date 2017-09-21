@@ -10,6 +10,7 @@ At least 11 people were killed near Dallas after severe storms and tornadoes sla
 1. [AP via ''The Greeneville Sun](http://www.greenevillesun.com/news/ap_state_news/at-least-died-from-in-texas-storms-that-spawned-tornadoes/article_4b00b102-aebc-50c7-b37a-50cd6cbb303f.html)
 2. [Fox2Now](http://fox2now.com/2015/12/27/state-of-emergency-declared-by-gov-nixon-after-deadly-floods-hit-missouri/)
 3. [USA Today](http://www.usatoday.com/story/weather/2015/12/27/severe-weather-tornadoes-texas-south/77939562/)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

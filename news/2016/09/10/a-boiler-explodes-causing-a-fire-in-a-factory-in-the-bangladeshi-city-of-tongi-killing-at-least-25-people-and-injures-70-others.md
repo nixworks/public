@@ -8,6 +8,7 @@ At least 25 people are killed and dozens injured when a fire breaks out inside a
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-09-10/bangladesh-tongi-factory-fire-kills-15-injures-70/7833378)
+1. [Cover Image](http://www.abc.net.au/news/image/7833510-1x1-700x700.jpg)
 
 ### Related:
 

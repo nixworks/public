@@ -8,6 +8,7 @@ The German economy shrank by a sharp 2.1 per cent in the fourth quarter of 2008,
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2009/02/13/2491389.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former military leaders face charges they masterminded plan to steal children of
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/02/2011228201231379527.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/28/201122820222265572_20.jpg)
 
 ### Related:
 

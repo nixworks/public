@@ -8,6 +8,7 @@ Judge in Senegal acquits Hissène Habré of a rape charge but upholds other char
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/apr/27/conviction-chad-hissene-habre-crimes-against-humanity-upheld)
+1. [Cover Image](https://i.guim.co.uk/img/media/82095fb3564ba83e2eef1bdd6517c0325f8cdb0e/0_219_3000_1800/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=18561f767ba9df1990fdc36a7d20a658)
 
 ### Related:
 

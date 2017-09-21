@@ -10,6 +10,7 @@ The Russian president says the killer of human rights worker Natalia Estemirova 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10647462)
 2. [France24](http://www.france24.com/en/20100715-russia-manhunt-assassin-rights-activist-natalya-estemirova-medvedev-natalya-estemirova)
 3. [iafrica](http://news.iafrica.com/worldnews/2533341.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

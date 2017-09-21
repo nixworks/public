@@ -10,6 +10,7 @@ Lebanon, Jordan, Israel, Syria and Iraq all hit by deadly sandstorm that is expe
 1. [AP via CTV News](http://www.ctvnews.ca/world/unseasonal-sandstorm-hits-lebanon-syria-1.2552302)
 2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/sandstorm-envelops-lebanon-syria-150908095341326.html)
 3. [Middle East Eye](http://www.middleeasteye.net/news/sandstorm-sweeping-middle-east-kills-two-lebanon-389450909#sthash.meKtY1pB.dpuf)
+3. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/Sandstorm%20hits%20ME.jpg)
 
 ### Related:
 

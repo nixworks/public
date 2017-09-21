@@ -8,6 +8,7 @@ Philippine President Rodrigo Duterte threatens to &quot;separate&quot; from the 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37147630)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13980/production/_90865208_mediaitem90865207.jpg)
 
 ### Related:
 

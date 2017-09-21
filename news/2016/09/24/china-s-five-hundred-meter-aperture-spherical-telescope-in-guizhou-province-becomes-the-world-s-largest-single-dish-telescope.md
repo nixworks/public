@@ -8,6 +8,7 @@ If the truth is out there, then China is determined to find it with a radio tele
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/09/24/a-game-changer-in-the-search-for-aliens-china-switches-on-worlds/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/09/24/Pic_1_Liu_Peijun_and_his_wife_He_Cimin_take_a_selfie-xlarge_trans_NvBQzQNjv4BqY7yKnAPY2LWjCsmMHqH2rg6aTJ7vNgtHgA7-dEbt-Rs.jpg)
 
 ### Related:
 

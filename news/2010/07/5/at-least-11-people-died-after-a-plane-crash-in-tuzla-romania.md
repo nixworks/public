@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Mediafax](http://www.mediafax.ro/social/zece-morti-intr-un-accident-aviatic-la-aerodromul-din-tuzla-6499236)
+1. [Cover Image](http://storage0.dms.mpinteractiv.ro/media/1/1/1688/6499236/4/accident-tuzla-2-cristi-cimpoes.jpg?width=300&height=300)
 
 ### Related:
 

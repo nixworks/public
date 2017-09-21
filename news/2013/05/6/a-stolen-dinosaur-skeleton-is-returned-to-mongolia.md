@@ -8,6 +8,7 @@ It&apos;s bad enough to go from roaming the earth as a fearsome predator to bein
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-dinosaur-dispute-20130506,0,1040589.story)
+1. [Cover Image](http://www.trbimg.com/img-51abd5e4/turbine/la-na-nn-dinosaur-dispute-20130506)
 
 ### Related:
 

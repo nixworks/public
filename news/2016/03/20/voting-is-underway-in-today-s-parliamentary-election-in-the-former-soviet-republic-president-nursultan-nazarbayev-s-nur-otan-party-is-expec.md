@@ -9,6 +9,7 @@
 
 1. [AP via ''Sioux City Journal](http://siouxcityjournal.com/news/world/asia/voting-in-parliamentary-election-begins-in-kazakhstan/article_4f0ef6a6-1e2a-5a10-a14f-d13661f70273.html)
 2. [Townhall.com](http://townhall.com/news/politics-elections/2016/03/20/kazakhstans-election-could-yield-clue-to-succession-n2136691)
+2. [Cover Image](https://media.townhall.com/_townhall/resources/images/thog.png)
 
 ### Related:
 

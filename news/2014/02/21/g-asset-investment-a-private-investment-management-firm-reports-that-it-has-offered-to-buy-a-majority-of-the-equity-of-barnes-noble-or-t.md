@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/21/us-barnesandnoble-gasset-idUSBREA1K1R920140221)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140221&t=2&i=844488079&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1K1HWW00)
 
 ### Related:
 

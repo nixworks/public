@@ -8,6 +8,7 @@ Police in Mexico find four mutilated bodies hung from a bridge in the central ci
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11054730)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

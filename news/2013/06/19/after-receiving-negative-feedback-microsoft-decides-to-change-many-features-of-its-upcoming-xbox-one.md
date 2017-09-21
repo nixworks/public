@@ -8,6 +8,7 @@ Update on June 19, 2013: As a result of feedback from the Xbox community, we hav
 ### Source:
 
 1. [Xbox Wire](http://news.xbox.com/2013/05/qa)
+1. [Cover Image](/wp-content/themes/xbox/theme/img/default/img-default-large.jpg)
 
 ### Related:
 

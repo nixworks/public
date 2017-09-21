@@ -9,6 +9,7 @@ Kenyan authorities hope to deliver the final outcome of a presidential vote on W
 
 1. [Reuters](http://www.reuters.com/article/2013/03/05/us-kenya-elections-idUSBRE9220H920130305)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/mar/05/kenya-presidential-candidate-election-lead)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130305&t=2&i=709960270&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9240PT100)
 
 ### Related:
 

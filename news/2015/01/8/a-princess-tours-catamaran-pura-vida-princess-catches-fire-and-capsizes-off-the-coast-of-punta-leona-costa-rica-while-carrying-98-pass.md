@@ -9,6 +9,7 @@ According to an official government report, there were 106 people rescued, inclu
 
 1. [AP via ''The Costa Rican Times](http://www.costaricantimes.com/costa-rica-tourist-catamaran-wrecks-near-jaco-4-confirmed-dead/34652)
 2. [The Costa Rican Times](http://thecostaricanews.com/all-capsized-catamaran-survivors-accounted-for-high-winds-blamed-for-the-incident)
+2. [Cover Image](http://cdn.thecostaricanews.com/wp-content/uploads/2015/01/PuraVidaPrincess.jpg)
 
 ### Related:
 

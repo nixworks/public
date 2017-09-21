@@ -8,6 +8,7 @@ Authorities in Ethiopia say they have arrested 35 people suspected of plotting t
 ### Source:
 
 1. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2009/04/26/2552750.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

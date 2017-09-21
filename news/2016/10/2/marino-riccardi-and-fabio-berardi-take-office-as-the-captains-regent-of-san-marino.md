@@ -8,6 +8,7 @@
 ### Source:
 
 1. [San Marino RTV](http://www.smtvsanmarino.sm/politica/2016/10/01/ll-ee-marino-riccardi-fabio-berardi-sono-nuovi-capitani-reggenti)
+1. [Cover Image](http://www.smtvsanmarino.sm/img/news/199838.jpg)
 
 ### Related:
 

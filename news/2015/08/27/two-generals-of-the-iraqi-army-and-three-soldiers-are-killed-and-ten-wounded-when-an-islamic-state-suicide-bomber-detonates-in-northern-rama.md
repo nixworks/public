@@ -8,6 +8,7 @@ In a demoralizing blow to Iraq’s offensive against Islamic State , a suicide b
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-islamic-state-suicide-bombing-20150827-story.html)
+1. [Cover Image](http://www.trbimg.com/img-55defdaa/turbine/la-fg-islamic-state-suicide-bombing-20150827)
 
 ### Related:
 

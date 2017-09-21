@@ -8,6 +8,7 @@ Widespread overland flooding in Saskatchewan and Manitoba has prompted the evacu
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/manitoba/prairie-flooding-prompts-evacuations-in-western-manitoba-1.2692933)
+1. [Cover Image](https://i.cbc.ca/1.2693697.1404269817!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/washed-out-road-near-kirkella.JPG)
 
 ### Related:
 

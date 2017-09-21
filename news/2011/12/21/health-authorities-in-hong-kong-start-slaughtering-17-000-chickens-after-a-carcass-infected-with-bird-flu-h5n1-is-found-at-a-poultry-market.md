@@ -8,6 +8,7 @@ The culling is part of a series of precautionary steps being taken after the chi
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/12/22/world/asia/hong-kong-culls-chickens-after-bird-flu-is-found.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

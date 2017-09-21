@@ -8,6 +8,7 @@ Most deaths of young children around the world are from mainly preventable infec
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18018071)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60154000/jpg/_60154327_014536178-2.jpg)
 
 ### Related:
 

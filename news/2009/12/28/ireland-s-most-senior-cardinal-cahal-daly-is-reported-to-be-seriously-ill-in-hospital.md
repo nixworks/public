@@ -9,6 +9,7 @@ Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast C
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8432902.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1228/dalyc.html)
+2. [Cover Image](https://img.rasset.ie/0002dfb7-1600.jpg)
 
 ### Related:
 

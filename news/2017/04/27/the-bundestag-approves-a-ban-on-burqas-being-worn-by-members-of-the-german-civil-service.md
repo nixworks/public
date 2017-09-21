@@ -8,6 +8,7 @@ In a late night sitting, the lower house of parliament has approved a raft of se
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/bundestag-bans-face-veils-for-civil-servants-amid-security-measures/a-38619204)
+1. [Cover Image](http://www.dw.com/image/38606697_304.jpg)
 
 ### Related:
 

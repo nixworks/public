@@ -8,6 +8,7 @@ Nestle has withdrawn Maggi noodles in India due to &quot;an environment of confu
 ### Source:
 
 1. [Economic Times](http://economictimes.indiatimes.com/industry/cons-products/food/nestle-withdraws-maggi-noodles-in-india-after-food-scare/articleshow/47548821.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-47548827,width-672,resizemode-4,imglength-41717/industry/cons-products/food/nestle-withdraws-maggi-noodles-in-india-after-food-scare.jpg)
 
 ### Related:
 

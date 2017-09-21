@@ -10,6 +10,7 @@ The United States on Wednesday added the Pakistani Taliban to its list of foreig
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-pakistan-taliban-20100902,0,3969079.story)
 2. [Reuters](http://www.reuters.com/article/idUSTRE68053920100901)
 3. [The Hindu](http://www.thehindu.com/news/international/article608968.ece)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

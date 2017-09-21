@@ -8,6 +8,7 @@ A Kenyan government order to forcibly repatriate 260,000 Somalis is ruled an act
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-38917681)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1291B/production/_89795067_89795065.jpg)
 
 ### Related:
 

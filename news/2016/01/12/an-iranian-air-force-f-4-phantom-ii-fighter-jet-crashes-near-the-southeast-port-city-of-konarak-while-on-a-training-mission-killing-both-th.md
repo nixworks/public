@@ -8,6 +8,7 @@ Two soldiers died when a military jet crashed in a south-eastern Iranian city wh
 ### Source:
 
 1. [RT](https://www.rt.com/news/328673-f4-jet-iran-crash/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/569540e2c46188206a8b45db.jpg)
 
 ### Related:
 

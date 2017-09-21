@@ -9,6 +9,7 @@ The week-long heat wave in Southern California has claimed four lives and caused
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,295749,00.html)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSN0439334720070904?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070904&t=2&i=1652325&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-04T223828Z_01_N04393347_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

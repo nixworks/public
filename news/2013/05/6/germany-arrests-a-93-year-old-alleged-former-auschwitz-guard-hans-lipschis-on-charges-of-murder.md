@@ -9,6 +9,7 @@ A 93-year-old alleged ex-guard at the Auschwitz extermination camp, Hans Lipschi
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jRiTvs9LX6K60UAF8-3tQnO1b-IQ?docId=CNG.461bf84c8b685e9070aad394884ea8ed.b11)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-22427976)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67209000/jpg/_67209396_008442524-1.jpg)
 
 ### Related:
 

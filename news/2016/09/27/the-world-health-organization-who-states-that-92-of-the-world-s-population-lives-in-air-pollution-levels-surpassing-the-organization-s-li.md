@@ -9,6 +9,7 @@ Ninety-two per cent of people live in areas where air quality exceeds WHO limits
 
 1. [CBC](http://www.cbc.ca/news/health/air-pollution-who-1.3780390)
 2. [The Guardian](https://www.theguardian.com/environment/2016/sep/27/more-than-million-died-due-air-pollution-china-one-year)
+2. [Cover Image](https://i.cbc.ca/1.3780425.1474981264!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/china-forecasting-smog.jpg)
 
 ### Related:
 

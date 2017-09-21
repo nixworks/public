@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/08/us-general-electric-divestiture-idUSKBN0H30AG20140908?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140908&t=2&i=970852842&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA8704A)
 
 ### Related:
 

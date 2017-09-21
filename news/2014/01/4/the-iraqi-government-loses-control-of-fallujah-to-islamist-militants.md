@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/01/iraq-government-loses-control-fallujah-20141414625597514.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/1/4//201414141133495734_20.jpg)
 
 ### Related:
 

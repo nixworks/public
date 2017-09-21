@@ -8,6 +8,7 @@ Russia dismisses allegations that it was involved in attempted overthrow in Octo
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/20/russian-state-bodies-attempted-a-coup-in-montenegro-says-prosecutor)
+1. [Cover Image](https://i.guim.co.uk/img/media/d08e784e8379149cba1c369df706d60792e0ad8a/0_591_2640_1583/master/2640.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=28579d5399f9db1b730695118b282b4f)
 
 ### Related:
 

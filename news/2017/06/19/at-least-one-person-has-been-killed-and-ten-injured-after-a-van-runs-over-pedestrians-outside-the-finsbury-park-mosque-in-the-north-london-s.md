@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-06-19-EU-Britain-Pedestrians-Struck/id-20fe4812e9b74f3684b2cc7358b69703)
 2. [News Limited](http://www.news.com.au/world/europe/van-mows-down-people-outside-north-london-mosque/news-story/5d6d8ae571163cbdd15ab355458ccf61)
+2. [Cover Image](http://cdn.newsapi.com.au/image/v1/d5b04099897d13ee202e4a9f04622f1d)
 
 ### Related:
 

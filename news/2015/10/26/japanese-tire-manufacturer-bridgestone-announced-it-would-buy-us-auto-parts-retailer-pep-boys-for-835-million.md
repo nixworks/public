@@ -8,6 +8,7 @@ The following bids, mergers, acquisitionsand disposals were reported by 1400 GMT
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/10/26/deals-day-idUSL3N12Q3NW20151026)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

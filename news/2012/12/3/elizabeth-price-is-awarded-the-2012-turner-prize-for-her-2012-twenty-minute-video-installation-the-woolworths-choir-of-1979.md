@@ -9,6 +9,7 @@ Former 1980s pop musician Elizabeth Price was tonight awarded the Turner Prize f
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20581283)
 2. [The Independent](http://www.independent.co.uk/arts-entertainment/art/news/elizabeth-price-takes-turner-prize-2012-for-seductive-video-trilogy-8376229.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/05/01/14/IN29577056Undated handout p.jpg)
 
 ### Related:
 

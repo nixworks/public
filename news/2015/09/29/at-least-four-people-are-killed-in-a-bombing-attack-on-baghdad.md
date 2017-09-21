@@ -8,6 +8,7 @@ The Islamic State militant group claims it was responsible for a car bomb that k
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2015/09/29/baghdad-bomb-blast-kills-four/)
+1. [Cover Image](http://static.euronews.com/articles/314296/1000x563_314296.jpg)
 
 ### Related:
 

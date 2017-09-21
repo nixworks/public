@@ -8,6 +8,7 @@ Supreme Court Justice Ruth Bader Ginsburg denied a petition to halt the planned 
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/politics/2013/12/08/supreme-court-justice-turns-down-stay-americanus-airways-merger/?intcmp=latestnews)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2013/12/08/supreme-court-justice-turns-down-stay-americanus-airways-merger/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446762681094.jpg?ve=1)
 
 ### Related:
 

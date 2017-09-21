@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/scitech/2011/02/24/space-shuttle-discovery-final-flight/#)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2011/02/24/space-shuttle-discovery-final-flight/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1421867704726.jpg?ve=1)
 
 ### Related:
 

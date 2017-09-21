@@ -11,6 +11,7 @@ At least 88 people have died in flooding caused by torrential rain in southern C
 2. [BBC News](http://news.bbc.co.uk/2/hi/world/asia_pacific/10356645.stm)
 3. [Le Monde](http://www.lemonde.fr/depeches/?seq_id=3242&cont_dep_id=48)
 4. [nzherald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10653063)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

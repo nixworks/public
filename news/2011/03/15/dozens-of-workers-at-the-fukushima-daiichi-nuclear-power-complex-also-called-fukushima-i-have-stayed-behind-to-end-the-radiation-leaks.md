@@ -28,3 +28,4 @@ Japan faced the likelihood of a catastrophic nuclear accident after an explosion
 19. [USGS](http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usc0001xgp/)
 20. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc00023fx.php)
 21. [news.com.au](http://www.news.com.au/breaking-news/radiation-shoots-up-after-nuke-plant-blast/story-e6frfku0-1226021707383)
+21. [Cover Image](https://static01.nyt.com/images/2011/03/15/world/NUCLEAR/NUCLEAR-thumbStandard.jpg)

@@ -8,6 +8,7 @@ Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21320992)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65696000/jpg/_65696980_84unmlon.jpg)
 
 ### Related:
 

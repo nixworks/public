@@ -8,6 +8,7 @@ Tunisia has completed a 200-km (125 mile) barrier along its frontier with Libya 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-tunisia-security-idUKKCN0VF0W3)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

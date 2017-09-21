@@ -8,6 +8,7 @@ The interior ministry calls those killed &quot;outlaws&quot;, but activists say 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-40026813)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C4DE/production/_96189305_mediaitem96189304.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Attacks targeting Iraqi police and anti-Al-Qaeda militiamen killed 15 people on 
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Jun-28/221909-twin-bombings-kill-anti-qaeda-militiamen-in-iraq.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/06/28/186134_img650x420_img650x420_crop.jpg)

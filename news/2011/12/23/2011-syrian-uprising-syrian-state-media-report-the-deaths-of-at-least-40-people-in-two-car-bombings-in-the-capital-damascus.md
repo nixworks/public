@@ -8,6 +8,7 @@ At least 44 people are killed in Syria as two suicide car bombings target securi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16313879)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57552000/jpg/_57552211_013578246-1.jpg)
 
 ### Related:
 
