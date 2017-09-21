@@ -9,9 +9,6 @@ Anyone looking for loved ones in Mexico affected by the earthquake can call 1-52
 ### [The 72nd session of the United Nations General Assembly commences its General Debate at the United Nations headquarters in Manhattan, New York. ](/news/2017/09/19/the-72nd-session-of-the-united-nations-general-assembly-commences-its-general-debate-at-the-united-nations-headquarters-in-manhattan-new-yo.md)
 Trump vowed to &quot;totally destroy&quot; North Korea unless the nation curbs its nuclear program. 
 
-### [U.S. President Donald Trump defends U.S. sovereignty and threatens to "totally destroy" North Korea if it attacks the U.S. or its allies. ](/news/2017/09/19/u-s-president-donald-trump-defends-u-s-sovereignty-and-threatens-to-totally-destroy-north-korea-if-it-attacks-the-u-s-or-its-allies.md)
-U.S. President Donald Trump escalated his standoff with North Korea over its nuclear challenge on Tuesday, threatening to &quot;totally destroy&quot; the country of 26 million people and mocking its leader, Kim Jong Un, as a &quot;rocket man.&quot;
-
 ### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man is arrested on suspicion of the murders. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
 Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
 

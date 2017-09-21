@@ -1,6 +1,6 @@
 ### [2017-09-20](/news/2017/09/20/index.md)
 
-#  Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued, at least 226 dead, at least 800 injured. 
+#  Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured. 
 
 A powerful earthquake shook central Mexico on Tuesday, killing at least two people, crumbling buildings and sending thousands fleeing into the streets screaming.
 

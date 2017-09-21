@@ -8,12 +8,13 @@ Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to 
 ### Source:
 
 1. [NHC](http://www.nhc.noaa.gov/archive/2017/al15/al152017.public_a.017.shtml)
-2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/202038.shtml?)
-3. [Reuters](https://www.reuters.com/article/us-storm-maria/hurricane-maria-slams-puerto-rico-with-high-rains-storm-surge-idUSKCN1BT1RW)
-4. [The New York Times](https://www.nytimes.com/2017/09/20/us/hurricane-maria-puerto-rico.html)
-5. [The Telegraph](http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/)
-6. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/09/20/hurricane-maria-takes-aim-at-puerto-rico-with-force-not-seen-in-modern-history/)
-6. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170919&t=2&i=1202077716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8I1VH)
+2. [National Hurricane Center²](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/202038.shtml?)
+3. [National Hurricane Center³](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/210259.shtml?)
+4. [Reuters](https://www.reuters.com/article/us-storm-maria/hurricane-maria-slams-puerto-rico-with-high-rains-storm-surge-idUSKCN1BT1RW)
+5. [The New York Times](https://www.nytimes.com/2017/09/20/us/hurricane-maria-puerto-rico.html)
+6. [The Telegraph](http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/)
+7. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/09/20/hurricane-maria-takes-aim-at-puerto-rico-with-force-not-seen-in-modern-history/)
+7. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170919&t=2&i=1202077716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8I1VH)
 
 ### Related:
 

@@ -3,7 +3,7 @@
 ### [ The U.S. Federal Reserve announces its benchmark interest rate will not change this month, though it expects an increase by the end of the year, along with three increases in 2018 and two in 2019. The Federal Reserve also says its balance sheet reduction program will begin in October. ](/news/2017/09/20/the-u-s-federal-reserve-announces-its-benchmark-interest-rate-will-not-change-this-month-though-it-expects-an-increase-by-the-end-of-the.md)
 The Fed was not expected to raise its benchmark interest rate at this week&#039;s meeting.
 
-### [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued, at least 226 dead, at least 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md)
+### [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md)
 A powerful earthquake shook central Mexico on Tuesday, killing at least two people, crumbling buildings and sending thousands fleeing into the streets screaming.
 
 ### [  Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossello declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-d.md)
@@ -18,7 +18,7 @@ Spanish police raided Catalan government offices and arrested officials on Wedne
 ### [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md)
 Saudi Arabia will lift a ban on internet phone calls, a government spokesman said, part of efforts to attract more business to the country.
 
-### [ MIT physics professor Daniel Rothman's mathematical formula, published in the peer-review journal "Science Advances", predicts a sixth mass extinction will likely occur by the year 2100 if the recent rise in carbon dioxide emissions continues and a critical amount of carbon (310 gigatons) is added to the oceans. ](/news/2017/09/20/mit-physics-professor-daniel-rothman-s-mathematical-formula-published-in-the-peer-review-journal-science-advances-predicts-a-sixth-mass.md)
+### [ MIT physics professor Daniel Rothman's mathematical formula, published in the peer-review journal "Science Advances", predicts a sixth mass extinction may be set to occur within 10,000 years if by the year 2100 current carbon dioxide emissions are not reduced, and a critical amount of carbon (310 gigatons) is added to the oceans. ](/news/2017/09/20/mit-physics-professor-daniel-rothman-s-mathematical-formula-published-in-the-peer-review-journal-science-advances-predicts-a-sixth-mass.md)
 In the past 540 million years, the Earth has endured five mass extinction events, each involving processes that upended the normal cycling of carbon through the atmosphere and oceans. These globally fatal perturbations in carbon each unfolded over thousands to millions of years, and are coincident w...
 
 ## Opinion
@@ -37,9 +37,6 @@ Anyone looking for loved ones in Mexico affected by the earthquake can call 1-52
 
 ### [The 72nd session of the United Nations General Assembly commences its General Debate at the United Nations headquarters in Manhattan, New York. ](/news/2017/09/19/the-72nd-session-of-the-united-nations-general-assembly-commences-its-general-debate-at-the-united-nations-headquarters-in-manhattan-new-yo.md)
 Trump vowed to &quot;totally destroy&quot; North Korea unless the nation curbs its nuclear program. 
-
-### [U.S. President Donald Trump defends U.S. sovereignty and threatens to "totally destroy" North Korea if it attacks the U.S. or its allies. ](/news/2017/09/19/u-s-president-donald-trump-defends-u-s-sovereignty-and-threatens-to-totally-destroy-north-korea-if-it-attacks-the-u-s-or-its-allies.md)
-U.S. President Donald Trump escalated his standoff with North Korea over its nuclear challenge on Tuesday, threatening to &quot;totally destroy&quot; the country of 26 million people and mocking its leader, Kim Jong Un, as a &quot;rocket man.&quot;
 
 ### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man is arrested on suspicion of the murders. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
 Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
